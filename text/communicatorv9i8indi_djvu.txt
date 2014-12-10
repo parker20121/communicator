@@ -1,0 +1,1362 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv9i8indi/communicatorv9i8indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv9i8indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv9i8indi">The Communicator</a>"
+          </h1>
+          <pre>i Ihe Chicago Daily News foreign 
+ivereities Field Staff, spoke I 
+
+
+
+''New' Communht China improved at human cost 
+
+»ve iviro children, Ihe population will IhoughUhal soclalizallon would solve Iheir TraJSallon has 
+
+xinunue lo nse. according lo RaveiJioll. agrtcullural problems and (ailed lo place same wilh Ihe rnajii 
+
+M, and men eannol man7 until they are 28, said Ravenholt. China Is now building these he'"ldded'"lhar freia 
+
+Pi^mantal sex and illegitimacy are un- plants with the help of American engineers improved 
+
+
+
+Ravenholt tried to illustrate t 
+
+
+
+e group visited China to discuss agricul- 
+
+
+
+■Fortunately lor the Chinese pre^lrdained b; 
+
+
+
+I today have little t 
+
+
+
+was 583 million. The 
+
+
+
+it that this is a great 
+
+
+
+THE COMMUNICATOR 
+
+
+
+VOLUME 9, ISSUE 7 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY AT FORT WAYNE 
+
+
+
+OCTOBER 13, 1977 
+
+
+
+Activity fee cut 
+discussed by Senate 
+
+
+
+
+e Confederation of Independant Orders speculate that there are as many as lO.OftO card-carrying Klan memberH in 
+Invisible - Knights of the Klu Klux Klan, claims that the KKK membership in Indiana. Membership for the miliUnt group reached an all-time high of nearly 4 
+Allen County is rising even though it ' •« • ■ -„.,.- ^..-, ^. _ . . ™. . .. ._. 
+
+
+
+. Law officials million during the 1 
+
+
+
+-rn'jr -g 'W7"M "WT^t • • W ¥• representative group from the athktlcV "My resignation should not 
+
+Klu Klux Klan active m/waiawaiiigsili ^MM 
+
+
+
+
+PAGE 2 THE COMMUNICATOR 10/13/77 
+
+
+
+Where are the flower children of the sixties? 
+
+
+
+
+^^ 13-14-17-18-19-20-21 1^ 
+
+
+
+
+WASHINGTON SQUARE 
+
+PRIZES x^^ GIFTS 
+
+
+
+ANTHONY 
+
+WAYNE 
+
+BANK 
+
+
+
+
+t 
+
+
+
+6141 N.Clinton I (Next to Rogers) 
+
+HOURS • Lobby: Mon.-Th,urs.'9-3 Fri. 9-6 • Drive Ups 8-30-8 
+
+1 "I 
+
+
+
+Music for every taste. 
+
+
+
+
+
+NARCISO YEPES 
+
+CLASSICAL GUITAR 
+
+
+
+
+
+
+KANSAS FREEFALL 
+
+ROCK 'N ROLL ROCK 'N ROLL 
+
+KARMA RECORDS &amp; TAPES 
+
+3415 North Anthony 
+
+
+
+COME AS YOU ARE!!! 
+WE WANT 
+TO WRAP YOUR 
+BOD IN JEANS 
+&amp;TOPS 
+FROM OUR 
+STORE!!! 
+
+
+
+
+IN SPn"E OF THE ROAD CONSTRUCTION, 
+YOU CAN STILL GET TO US-PARK 
+AT THE SIDE, OR IN SAMBO'S LOT. 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 COLDWATER ROAD 
+
+ACROSS FROM GLENBROOK PENNY'S 
+
+
+
+Coming Soon 
+
+TERM PAPER 
+CLINIC 
+
+oct 24 thru nov. I 
+
+Sign up at the Library 
+Information Desli 
+
+
+
+30 Keg Hayride 
+
+This Sat., Oct. 15th 
+
+All the Hot Dogs - Food - Pizza - 
+
+Sandwiches You Can Eat 
+
+All the Beer You Can Drink 
+
+- Lambrusco Wine Extra 
+
+80 Acres of Green Grass 
+
+(Lighted Parlclng) 
+
+Live Disco - Rocl( &amp; Roll 
+
+Huge Bonfire (To Keep warm) 
+
+1 Mile East of 169 
+on DuDont Road 
+
+Across from the Trailer Court, 
+
+by Silkworth Downs 
+
+Lool( on Your Bullitin Board for More Info 
+
+$4.00 ■ Gals $5.00 -Guys 
+
+
+
+Think you have bad luck? Just listem to this.. 
+
+
+
+d Dad really got al and then we wenl 10 bed- 1 
+
+
+
+1, though. Tliey go on pi 
+
+
+
+They got us up In the n 
+
+
+
+3 us Uds floor with i 
+
+
+
+THE COMMUNICATOR 10/13/77 PAGE 3 
+
+
+
+Students! Instant Jobs 
+Work when you want! 
+
+One Day, Two Days, Any Days/per week 
+
+Don't be tied down! Work extra $$ into your income ! 
+
+BRING YOUR SKILLS BACK TO WORK! 
+
+Secretaries-Typists-Factory Work-We Need You! 
+NO FEE plus VACATIONS BONUS 
+Call or Visit Jackie at.... 
+
+Norrell Temporary Services 
+
+IBM BIdg.-U.S. 30 East 482-9102 
+
+
+
+Student organizations: something for all 
+
+
+
+
+
+
+partmental clubs (Geology, 
+Chem. Society, Speech and 
+
+It is relatively simple to 
+
+
+
+I Dean Ulmer and i 
+
+
+
+They liven up the place arounc 
+an Qrganiiauon, ine iirai siep in provt^ uy me omuKiii oenaie. uie auci," here. They give II a social W..' 
+
+Language professor invited to read poetry in Germany 
+
+
+
+r. Christiane Seller, i 
+
+
+
+)m her re- on the German classical author elry t)oolcs to be published by the IPFW library and the Indiana 
+
+[ of poetry CM. Wleland at the Wleland Ar- "Verband Deutschamerlkanl- University Library, Bloomlng- 
+
+," while In chives in Blbcrach-Rlss. scher Autoren im Amerika," ton. 
+
+. Germany on a at the "Literarlsche Union" In BeiTy aSSistS Nebraska buSineSSmeil 
+
+Beckincen (Saar-Brucken). She ■' 
+
+
+
+
+lil=H=fJiHI| 
+
+
+
+s Berry, Professor of Dr. Berry 
+
+
+
+chers of German in San Fransico. 
+
+
+
+lion persons contei 
+
+
+
+any 
+
+sweater 
+
+in the store 
+
+with this ^p^^,. ^ 
+
+coupon ^ '^ ^ 
+
+|This coupon good until OctoberSlstj 
+
+l2o'off Worthingtons 1 
+
+I any sweater (\'\ j 
+
+i Northwood Shopping Center i 
+
+
+
+ACADEMIC 
+RESEARCH 
+
+
+
+ALL SUBJECTS 
+
+
+
+A nice body is within 
+your grasp. 
+
+
+
+
+&gt;VHEIt£ THE GOOD TIMES AJIE FOUIVD! 
+
+IN FORT WAYNE: 
+
+612 Coliseum Blvd. E. 482-2630 
+
+"Come to our Halloween Party, 
+
+Sunday, Oct. 30th." 
+
+
+
+Look for Insider- 
+
+
+
+^^ 
+
+
+
+PAGE 4 THE COMMUNICATOR 10/13/77 
+
+
+
+1978 
+
+CHEVETTCS 
+
+ARE HERE 
+
+
+
+
+They're a lot more car for 
+a lot less money.* 
+
+Astounding, but true! The 78 Chevettes offer you even more car for less 
+money than last year. We added 17 new standard features and still kept the 
+price below last year's Chevette with the same equipment. 
+
+Here are a few of the new standard features included on the '78 Chevette! 
+For starters, you get a peppy 1 .6 Litre engine. And an AM radio. For looks, 
+there are items like white stripe tires, sport steering wheel, body side 
+moldings, deluxe grille, wheel trim rings . . . more! 
+
+You get all this added to last year's standard equipment. 
+
+The '78 Chevy Chevette. More than ever, it's a big value small car. 
+
+•Comparison of manufacturer's suggested retail price for a 1977 Chevette Coupe witti 
+features now standard on a 1978 Ctievette Coupe. 
+
+
+
+
+Jfanse^ oiutlLgid© llie tow^r 
+
+
+
+
+THE COMMUNICATOR 10/13/77 PAGE 5 
+
+
+
+I SERVING LUNCH FROM 11-3 | 
+
+3 6 Days Every Week . i, 
+
+SPECIAL GOURMET SEAFOOD BUFFET 
+
+■) Weil.-Sat. ,,.... ... , ,^ 5:00-10:30 P.M.n 
+
+
+
+ALASKAN KING CRAB LEGS 7.95 
+
+
+
+"The Flower Shop" 
+
+We have 'Telex' 
+
+We send flowers anywhere 
+
+
+
+ih-the-Classroom program en- 
+
+
+
+GIANT COCKTAIL HOUR 
+Drinks-Single Price 5:00-6:30 P.M. LI 
+Si29 St. Joe Road 
+
+
+
+od '•.:';.r"48S-1685 i 
+
+
+
+&amp;hrmtrt':s;',is?r;° s^',i^^;?hrmp,'.KS iz:^ frankly speaki ng. . . .by phii frank 
+
+And It's suddenly become equally of Iwelve aclors would seal a I icN/fjS K h' t 
+
+^ vogue to write poetry as it is to total of toiu- people in the au- rC^ijaLoL 
+
+
+
+Raffle heads Citadel plans 
+
+By DENISE PARKER 
+
+
+
+The Citadel Club will sponsor a 
+
+
+club as a bmSer for construction 
+
+
+rkrae lor the month of October. 
+
+
+
+
+
+
+
+
+Associated Building Contractors 
+
+
+available Irom any Construction 
+
+
+
+
+dents hoped that being a member 
+
+
+"•ari's made up „, n 
+
+
+
+
+Construction students and faculty 
+
+
+On the Citadel aclivity calen- 
+
+
+
+
+
+
+students, and requires a S2 dues 
+
+
+bus trip to Chicago's McCormick 
+
+
+
+
+
+
+
+
+be a Building Materials enhibi. 
+
+
+
+
+tion with representatives from all 
+
+
+
+
+areas of the construction mdus- 
+
+
+
+
+'r-JfEETAINU' APPRFCIA1E THIS Fine 
+TURNOUT rod JOR EWPkjymEKT IMIEWIEW, 
+r HAP HOPED TO MEET Wm VDU ONA 
+(ftOBENDNIDOAL uEVEU...." 
+
+
+
+
+\ *POOI 
+
+
+
+';s:: Kandil 
+
+
+
+kPOOl 
+
+. SANDWICHES fjtj ".^.T^ 
+
+k TRY OUR CARRY— OUl Beertesl '"-^HZT" 
+
+
+
+RENT-A-BAY 
+
+».»..,».,„• TIRE REPAIR „,v..ro, 
+
+"'mi'"!,"" mi„,is., 
+
+-""""•LUBRICATION 
+
+• MEVOR REPAIRS 
+cS:',",,, "TUNE UP 
+• OIL CHANGES 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+3301 Crescent Avenue • 483-9643 
+Rr.iiuI buy open 7 &lt;lay»/wk 7 AM-9 PM 
+
+
+
+University f%|oC 
+
+defer the high Price Of expenses den. More informaS^^il: '^'"^'^ UlClw 
+
+for future trips and activities the able from Gary Neumann or in pBrfomi. 
+dub reauests." the Construction Deoartment. -■ *' 
+
+
+
+
+NOW I SEE WHY AUDIO CITY IS HAVING THEIR 
+
+$100,000 
+
+GARAGE SALE/' 
+
+THFV WFFfl THF QPUffl / 
+
+
+
+.PAGE 6 THE COMMUNICATOR 10/13/77 
+
+
+
+
+Trio visits Vienna 
+
+
+
+tOTded musi 
+
+
+
+
+involved 
+lly good lor Vienna is a ciilli 
+jerfomi." society." 
+• IPFW trio. For violinist Margot Parlette. 
+
+
+
+It he t&gt;elieves it is really 
+eight other music students tra- an awareness of musical origins Dave Weingartner agrees, 
+veled from Indiana to Austna. and of herself were gained, added that there are diffe 
+One student represented the Ind- Margot Iwlieves that everyone styles separating the two 
+
+
+
+greener on the other side, but Id CONCERT REVIEW 
+rather be here for living and ^""V'-" ' HCWICW 
+
+ians are performing purposes."' Margot A • V 
+
+S 2w--^: Aerosmith 
+not the best 
+
+
+
+herself were gained, added 
+■""""^ves that everyoni 
+
+if yourself and othei 
+
+
+
+from the Fort Wayne campus - period 
+ington, the largest 
+
+
+
+She also believes that learning veled [ 
+
+the German language was their s 
+
+trip-" ruary. 
+
+
+
+cancellations in the another 
+mt were at least partly The i 
+I by the back-up group (besides 
+
+
+
+are really competitivt 
+
+
+
+ingaVtner B"wnsville Station. The Detroit- 
+
+■Yes." added Hooker, "you can ^Jased "line-year-old group, which tem looked like a good one a 
+
+tansportation is efficient." played a 45-rninute set that ri- group Brownsville Station p&lt; 
+Except for parking, the trie 
+
+
+
+,■ really didn't it. The v 
+
+
+
+"They take ungodly c 
+
+
+
+FILM SERIES PREVIEW 
+
+A night in Transylvania 
+
+
+
+shows up in "Young Franken- 
+This affectionate spoof of hor- 
+
+
+
+Feldman's Eye-gor is 
+
+
+
+after scene. Gene Wilder as well: Cloris Leachn 
+, horrified faces, and gasp (Neigh) with gusto; Teri Garr as 
+
+
+
+than impressed. The show had bottle check at the door?" wl 
+
+it's high points and low points, the fans weren't responding p 
+
+with the low outweighing the tlcularly well to the music, 
+
+high. have its high points. Perry p^B^ 
+
+The "Golden Boys of Rock and some fine lead guitar, and bass 
+
+Roll," as the program called Tom Hamilton had his mome 
+
+them, opened their set with the as did drummer Joey Krame 
+
+first cut from their latest album Aerosmith's best-sound 
+
+the Saddle," and it took the lis- As A Dog" and "Lick and A P 
+
+song to make out what they were the top 40'b hit "Sweet Emotio 
+
+rstand playing. The group followed their from the "Toys in the Alt 
+
+' Peter first number with "Street Rats" album. In "Sweet Emotion" F 
+
+ne can from the "Toys In the Attic." ry played the mouth instrum 
+
+ith the "Street Rats" featured lead sing- that Joe Walsh made famous « 
+
+'°3 THE THIRTY-NINERS ~ 
+
+Cavett comethl 
+
+There's good viewing in sight worid and a prized represen 
+
+Monday through Friday on Chan- live of the electronic wor 
+
+
+
+with humor to make a film that is suave and 
+- omy exaggeraiea 10 me nut. KnoeKers[) who can assist any- satiric homage to the horror 
+The cast takes advantage of these where anytime; Madeline Kahn, classics. This is Friday's free 
+things, and has a lot of fun with as Elizabeth, decked out in a film. Go see it, you'll be rolling 
+
+CONCERT REVIEW 
+
+Musicians, poets stage concert 
+
+
+
+giants of the world ir 
+
+
+
+and Cavett's Daphne produc 
+
+
+
+ting the U.S. also. Miss A 
+
+
+
+Leonardo Da Vin- 
+
+: evening were Her performances with the Cu- 
+
+
+
+! original selec- Gloria Still and Michael Martone. ban Nat 
+
+
+
+Rivers," and '■Train Song." and Gil Bierman played £ 
+
+
+
+I Redgrave, the famed Eng- gram, - 
+
+
+
+five-piece band. East I 
+
+
+
+) express them- Thursday, ( 
+
+
+
+Art museum plans shows 
+
+
+
+By CAROLE ANNE HENSI 
+
+Museum? Everything! B^in- ai 
+ling with a Form Contour Draw- wi 
+
+
+
+and how it has been uary l is the "12 x 12." the Seconc 
+
+o groups from 9:00 - Faculty Invitational. None of the 
+
+,:00 p.m. date, three hundred artists have 
+
+ember 23- October The Hobday Exhibit, in the 
+
+Museum will be Young People's Wing, is schedul- 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRIHDCRS 
+BROASTED CHICKEN 
+SAUSAGE RoLLS 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+
+YOU MUST BE 21 --IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+THE COMMUNICATOR 10/13/77 PAGE 7 ; 
+
+
+
+^^ % M-SM THEATRES — ^ 
+
+
+
+^.^ 
+
+
+
+TheUncolnto 
+Conspiracy^g 
+
+
+
+Now swMSBiitsii A PIECE OF 
+
+Showing «"»»«« THE ACTON 
+
+
+
+BJlHshrig i^'ii^^iig 
+
+
+
+GENERAL CINEMA THEATRES 
+
+
+
+
+SILVER STREDI-I 
+
+
+
+
+
+
+story of a young, English footman 
+
+
+
+l^M. ^^ 
+
+
+
+HIGH BIAS 
+
+
+
+AKAI • JVC • KENV/OOD • ^kl^M\k 
+
+NAKAMICHI • PIONEER • TANDBERG 
+
+TECHNICS • BANG&amp;OLUFSEN 
+
+
+
+
+
+
+
+&amp;^^^^^ 
+
+
+
+CLINTON AT STATE 
+
+
+
+m 
+
+
+
+WXKE 
+
+104 ROCK 
+
+Album Oriented 
+
+Rock 
+
+7 P.M. -4 P.M. 
+
+
+
+Lose to Noire Dame 3-1 
+
+Tuskers 'out played 
+
+
+
+Two players quit 
+
+Team double faults 
+
+
+
+Caiinnieirai 
+
+It's Here! 
+
+ILFORD 
+
+
+
+
+
+Cross Country team 
+wins first duel meet 
+
+
+
+'HP5-135-36 $1.44 ^„=Jj,"„";2 w 'S^'S S' ™i nTm"' wL'°ii 
+
+HP5-1 35-20 $1.07 ta^l™0B°dfJp1ibllng8^^°end' Tfiim po°"cy Uia" . 
+
+IPFW's Ihree doubles teams won lo be missed due U 
+
+up with a 3.0 score. professor, also does 
+
+Moving on to the St, Mary's cancel his own clasj 
+
+
+
+Acclaimed by the photographic press 
+and professional photographers as the 
+new standard in 400 ASA, HP5 gives 
+you sparkling negs at rated speed and 
+it's the most pushable tiim on the mar- 
+
+
+
+Cam«rA 
+
+
+
+A&amp;B Natural Foods 
+and Vitaimlns 
+
+featuring Vitamins by: 
+•Dietic •Thompson 
+
+•Radiance •Bartli 
+•Scliif) •Basic Organlcs 
+
+•Plus 
+
+also small appliances 
+
+Pregest (Pre-digested liquid protein) 
+
+2445 Broadway Ft. Wayne IN 46807 
+
+Mon. ■ Sat. 9:00 to 5:30 744-1413 
+
+across from Zoli's South 
+
+
+
+country team scored I 
+Saturday over Huntington college 
+
+
+
+Taylor University, Due to con- 
+
+
+
+e forced to withdraw from thi 
+e able to compete for indivi 
+
+
+
+
+
+
+desei^es to play the game even il 
+n the 15-team they are not at our level," 
+le extra runner "The tennis team is lacking i 
+Id have done tangible goal to shoot for,' 
+s he also could remarked Stiglets, A goal such a: 
+
+
+
+vinning an bring in strong players, t 
+
+
+
+n Dave Hoagland also 
+
+
+
+''^'"' Intramurals active 
+
+
+
+esults ol the volleyba 
+ilion were Spiked Puni 
+
+
+
+Sound Advice! 
+
+
+
+From CBS Records 
+
+
+
+
+Avo//ob(e o) 
+
+Fori Wayne's First and Foremost Progressive Record Store 
+
+mM€OMMB 
+
+Fort Wayne - 3627 N. Clinton St. Phone 483-9290 
+
+Also Locoted at 
+
+West Lafayette ■ 720 Northwestern Phone 743-9916 
+
+
+
+PREGNANT? 
+
+Babies can come at unexpected 
+
+times, feel liopeless? Don't-- 
+
+Call BIRTHLINE 
+
+for support and direction. 
+
+
+
+mm: 
+
+
+
+dropped the last game to the 
+
+
+
+Troy Barnes with a sc 
+Larry Bradtmueller i 
+
+
+
+LOCATING RENTAL VACANCIES 
+IS OUR ONLY BUSINESS 
+
+AND WE KNOW THE BUSINESS BEST 
+N INTERNATIONAL RENTAL INFORMATION 
+
+
+
+RIGHT HERE IN FORT WAYNE I 
+DEDICATED TO FAST. RELIABLE SERVICE 
+ALL VACANCIES CONFIRMED DAILY 
+
+
+
+rentex . 
+
+
+
+Hockey hopefuls meet at Coliseum 
+
+There will be an important interested in participating in the 
+meeting regarding the hockey intercollegiate hockey program 
+
+
+
+WHAT 
+TO 
+
+
+
+mZZA KING 
+
+
+
+11 
+
+
+
+
+9IZXA 
+KIN© 
+
+
+
+744-4334 WATCH for 747-1508 
+
+^l^j^;!!^ LOCATION AT '""°""f^ 
+
+■Estate &amp; Welis^ 
+
+
+
+
+on campus 
+
+Priced at 
+
+50% 
+off 
+
+this high quality t-shirt will add class 
+to your wardrobe. Available now at 
+Fashion Mine in Northcrest, 
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,3296 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv37i4indi/communicatorv37i4indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv37i4indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv37i4indi">The Communicator</a>"
+          </h1>
+          <pre>
+INDIANA UNIVERSITY - PURDUE UNIVERSITY - FORT WAYNE 
+
+Ihe Communicator 
+
+
+
+Wednesday, September 13, 2006 
+
+
+
+9/13-9/19 
+
+
+
+AIDS Task Force Raises Awareness 
+
+
+
+'Campus Ministry 
+meeting 
+Walb G08 7-9 p.m. 
+
+'Omnibus Lecture 
+featuring Dr. Azar 
+Nafisi, Walb Ballroom 
+7:30 
+
+
+
+'InterVarsity Christian 
+Fellowship Workshop 
+Walb G21 7:30-9 
+
+'International Student 
+Volunteers meeting 
+every hour 
+9-12 Walb Ballroom 
+1-3 Walb Student 
+Lounge 
+4 &amp; 5 Walb G08 
+
+
+
+'Department of Music 
+Faculty Recital 
+Neff 101 7 a.m. 
+
+
+
+'American Heart Walk 
+Gates 9 a.m. 
+
+
+
+'Women's Soccer 
+
+
+
+Illinois State 
+4 p.m. 
+
+
+
+'R.A.D. self defense 
+6-9 
+
+cost $25, to register 
+call 481-6619 
+
+'Spanish Table 
+12 p.m. Walb 
+Basement 
+
+
+
+
+Contact Us! 
+
+Indiana-Purdue Student Newspaers, 
+
+Inc. 
+
+Walb Student Union 
+
+Suite 215 
+
+Phone:(260)481-6584 
+
+contaa@ipfwcommunicator.org 
+
+
+
+By Stephanie Samples 
+
+
+
+On September 10, 2006 the 
+Aid sTask Force ofNortheast Indiana 
+raisedawarenessbyorganizinga5K 
+walk. Local people joined together 
+to walk to raise awareness and pro- 
+vide information. 
+
+Prior to the walk there were 
+health tents that provided infor- 
+mation about testing, also there 
+was a tent that was used to show a 
+photo gallery of people who have 
+suffered from HIV/ AIDS. 
+
+There was also a memory quilt 
+in tribute to those who are de- 
+ceased, their families and friends 
+put the quilts together to honor 
+
+There was entertainment be- 
+fore the walk for the walkers and 
+volunteers. 
+
+The Anderson Swing Choir 
+performed and the group Jacob's 
+Well who formed in Fort Wayne 
+and are now Nashville recording 
+artists performed. To keep children 
+entertained there was face paint- 
+ing, and a bake sale. 
+
+All proceeds went to the Aids 
+Task Force, which provides money 
+for sex education, and helps those lives 
+suffering from Aids and 
+
+
+
+
+Volunteers walked on Sunday to support the AIDS Task Force t 
+
+
+
+HIV. 
+
+As the walk was about to begin 
+there was a Presentation of the Col- 
+ors, to honor those who lost their 
+
+
+
+September 11,2001. 
+Tom Didier sang the National 
+Anthem. Charles R Miller, who 
+is the team coordinator for the 
+Community AIDS Action Team 
+(C.A.A.T.), thanked the people 
+
+
+
+for coming out reminding every- 
+one that it takes both money and 
+awareness to help the cause. 
+Pam and Tiffany Rash who 2 
+
+
+
+thirteen years. Her dance teacher 
+was diagnosed with pneumonia, 
+and he all of the sudden died. "We 
+found out he had AIDS. We never 
+
+
+
+Improve Your Health in Eight Weeks 
+
+
+
+By Allison Graber 
+Chief Reporter 
+
+The IPFW Health and Wellness 
+Clinic is set to begin its Eight Weeks 
+to Wellness program on Sept. 18. 
+Participants will meet for eight 
+Mondays in Kettler 132 to learn 
+how to practice a healthy lifestyle 
+
+Kickingoffits first year at IPFW, 
+the programs focus is not only on 
+physical health but on mental and 
+social health as well. 
+
+
+
+Participants will receive a 
+guide that will allow them to track 
+their health's progress during pro- 
+gram and serve as a reference for 
+the future. 
+
+Eight Weeks to Wellness is 
+open to any member of the IPFW 
+community. 
+
+The program is being held 
+from noon to 1 p.m. on Mondays 
+starting Sept. 18 and ending on 
+Nov. 6. Kelly Stopher, a Parkview 
+wellness coach, will discuss ways 
+to be healthy and practical meth- 
+
+
+
+ods to apply what is learned. 
+
+Measurements of blood pres- 
+sure, weight, and body mass index 
+will be recorded at the beginning 
+and end of the eight weeks in order 
+to assess the participants' prog- 
+Judy Tillapaugh, director of 
+wellness and fitness at IPFW, is ex- 
+cited about the program. "People 
+can personalize the information 
+they get and apply it directly to 
+their own well-being," she said. 
+She also explained that the desired 
+
+
+
+of Eight Weeks to Well- 
+ness is for people to become pro- 
+active with their health. 
+
+Registration foil lief ijilii Weeks 
+to Wellness pmgram is on Sept. 14 
+in Kettler G98 from noon to 1 p.m. 
+The cost for the program is $80.00, 
+half of which will be reimbursed to 
+participants who attend seven ot 
+the eight classes. 
+
+The Health and Wellness Clin- 
+ic can be contacted by calling 40 1 - 
+5748. 
+
+
+
+IPFW To Host Walk for a Brighter Tomorrow 
+
+By Laura Dumas 
+
+
+
+ipsa- 
+
+
+
+IPFW students and faculty, 
+as well as community members, 
+are encouraged to come to Gates 
+Sports Center on Saturday, Sept. 
+16th for the annual Heart Walk, 
+an event benefiting the American 
+Heart Association. 
+
+With a theme of "Change To- 
+morrow, Today," the walk, which 
+begins at 8 a.m., will support re- 
+search and educational programs 
+that aim to prevent, treat, and 
+overcome cardiovascular ailments, 
+while simultaneously raising 
+awareness of heart disease among 
+the general public. 
+
+IPFW will serve as host spon- 
+sor and also has a team participat- 
+ing in the non- competitive walk. 
+Other sponsors include Subway 
+restaurants, Parkview Heart Insti- 
+tute, Barnes &amp; Thornburg, Heart 
+Center Medical Group, Indiana 
+Ohio Heart, Fort Wayne Cardiol- 
+ogy, Physicians Health Plan and 
+Medical Protective Company. 
+
+Indiana -Purdue Student Newspapers, 
+Inc. Walb Union, Suite 21 5 
+
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+
+Kids will be encouraged to sign 
+up for the "Let's lust Play" Heart 
+Healthy Challenge and will also be 
+treated to a healthy snack provided 
+by Parkview Hospital. 
+
+Stacie Holley, executive direc- 
+tor of the Fort Wayne metropolitan 
+region of AHA said, "We estimate 
+over 1,000 people walking, and we 
+raise on average over $150,000 per 
+year. This year, our financial goal is 
+to raise $200,000. The Heart Walk, 
+first held in 1994, has raised nearly 
+$600 million since its inception, 
+Research funded by the American 
+Heart Association has led to piv- 
+otal discoveries such as CPR, in- 
+novative surgical techniques such 
+as bypass surgery, medicines, and 
+pacemakers. Although the event is 
+free to the public, participants are 
+encouraged to collect donations. 
+
+"It's important for all of us to 
+participate in the Heart Walk and 
+do our part to help save lives,"said 
+Mike Packnett, CEO of Parkview 
+Health System, the presenting 
+sponsor of the 2006 Walk. 
+
+Heart disease is the nation's 
+number one cause of death, with 
+
+[Newsroom: (260) 481-6584 
+Fax:(260)481-6045 
+Advertising Dept,: (260) 481-6583 
+E-mail contact@lpfwcommunicator. 
+
+
+
+strokes ranking third. In total, car- 
+diovascular issues kill over 9 10,000 
+Americans per year, and cost the 
+country an estimated $403 billion 
+annually. 
+
+Deb Neuenschwander, a part- 
+time IPFW professor with CASA, 
+was personally touched by heart 
+disease when she suffered a stroke 
+three years ago. 
+
+"I decided the stroke was not 
+going to define me, " she said, "I've 
+been fighting it ever since." 
+
+Neuenschwanderhad planned 
+to participate in last year's walk 
+when a week before the event, her 
+husband Ted, who teaches with 
+her at IPFW, suffered a heart at- 
+tack. After his bypass surgery and 
+changes in both of their eating and 
+exercise habits, die couple is on 
+the road to recovery. 
+
+Neuenschwanders health 
+problems, combined with the fact 
+that they have lost three out of 
+four parents to heart disease, have 
+motivated them to get involved 
+with the Heart Walk. As captain of 
+team IPFW, Neuenschwander esti- 
+mates that 12 to 15 students have 
+
+
+
+already signed up to participate in 
+this year's event. 
+
+"We're not expecting huge 
+of money, but it's about 
+is", she said. 
+
+Neuenschwander says she 
+feels that more college students 
+should start taking responsibility 
+for their health and lifestyle. She 
+also says she believes that had she 
+put more focus on being healthy 
+when she was younger, she might 
+not have had a stroke. 
+
+"Students all probably know 
+someone affected by heart disease, 
+and at this point in their life, it's 
+time to start caring about their own 
+health. I was busy and didn't eat 
+right or exercise when I was their 
+age," Neuenschwander said. "I've 
+heard a quote somewhere; Hered- 
+ity loads the gun, but lifestyle pulls 
+the trigger." 
+
+For more information on par- 
+ticipating in the Heart Walk, Fort 
+Wayne residents can contact the 
+American Heart Association at 
+260-627-5412 or register online at 
+http://heartwalk.kintera,org/ft- 
+wayne. 
+
+
+
+Podium 
+
+Features... 
+Sports 
+
+
+
+Scholarships Honor 9/11/01 Victims 
+
+
+
+By Carly Dachis 
+Indiana Daily 
+
+
+
+(U-WIRE) BLOOMINGTON, 
+[nd. • Five years later, some mi^ht 
+find it clifficull 10 look at the clock 
+at 8:45 a.m. and not think about 
+what happened on Sept. 11 only a 
+lulf -decade ago. 
+
+For 2005 Indiana University 
+graduate Rachel Jacobson, it's not 
+just Sept. 11 that it's difficult to 
+cope with the death of her father. 
+
+"It's not so black and white," 
+Jacobson said, "It's a hard time of 
+year for everyone, and I want to re- 
+member the good things. I want to 
+treat it as a celebration of his life 
+and not a remembrance of how he 
+
+In 2002, Jacobson did just that 
+by helping establish the IU Stu- 
+dent Foundation's 9/11 Scholar- 
+
+
+
+ship Fund. 
+
+The fund finances three me- 
+morial scholarships each year, and 
+this year's applications will come 
+out in early October. 
+
+Jenny Bruffey, director of 1USF, 
+said the fund began because three 
+IU students lost their fathers at the 
+World 'trade Center, and so many 
+other IU students were affected. 
+
+"A lot of our scholarships are 
+established by alumni, but this 
+one is just different because of how 
+tragic it was," Bruffey said. 
+
+IUSF began fund raising for 
+the scholarships in 2001 by donat- 
+ing proceeds from Little 500 races 
+and asking for alumni support. 
+According to a 2002 press release, 
+in addition to the $49,616.42 IUSF 
+raised, Lawrence D. Glaubinger, a 
+1949 IU graduate who lived in New 
+York City at the time of the attacks, 
+matched what IUSF raised. 
+
+
+
+Following Glaubi tiger's gilt. 
+other Indianaand Bast Coast 
+residents responded to the news 
+of the scholarship and donated an 
+additional $7,000 to the fund. 
+
+IUSF then met with the three 
+students and their families in or- 
+der to establish the criteria for the 
+three scholarships to be awarded 
+each year in memory of each of 
+the students' fathers who died in 
+the attacks. 
+
+Each family had the op- 
+portunity to select the criteria 
+based on what aspects were most 
+important to them. 
+
+"I know that when I was con- 
+templating the criteria, the most 
+important thing was that it reflect- 
+ed my father's beliefs and values," 
+Jacobson said. "I was so lucky that 
+1 got to play an active role in the 
+scholarship decision lor as long as 
+I did." 
+
+
+
+Bruffey said each scholarship 
+is a little different, and some of the 
+specific criteria include financial 
+need, a 2.7 or higher grade point 
+average, involvement in student or 
+community activities and an essay 
+about the importance of family. 
+
+"I'm really touched thai people 
+took such a deep interest and care 
+in making such a positive thing 
+from something so negative," Ja- 
+cobson said. 
+
+IUSF Student President Elliott 
+Chapman is especially proud of 
+this scholarship because it differs 
+from the other awards available to 
+students. 
+
+"It's a really meaningful way 
+to give away money and help stu- 
+dents at the same time," Chapman 
+said. "It makes it more special, and 
+it serves to remind people what 
+happened that day and keep that 
+
+
+
+Chapman said IUSF gives ap- 
+proximately $80,000 in scholar- 
+ships a year and has given more 
+than a million dollars total since 
+the organization was founded in 
+1950. 
+
+Applications for this year's 
+9/ 1 1 scholarships come out in ear- 
+ly October and will be awarded at 
+the IUSF scholarship banquet, to 
+be scheduled for late November. 
+
+Jacobson said it's still diffi- 
+cult to cope on a daily basis and 
+not just on the anniversary of her 
+father's death, but she maintains a 
+positive outlook and her own me- 
+morial. 
+
+"He will remain with me in all 
+my endeavors, wherever I go in 
+life," she said. "I will never truly 
+lose him because he is a part of 
+
+
+
+
+AIDS 
+From pg 1 
+
+her daughter's former dance teacher and 
+how his suffering brought the disease to 
+their attention and they have been trying 
+to help every since. Employee of the AIDS 
+task force Jennie Arter began her involve- 
+ment as a volunteer. I started volunteering 
+in 1993; 1 have been working for them for 
+the past five years. I got involved when two 
+of my friends and a brother in law died of 
+AIDS said Arter. Jennie Arter was just one 
+of the many who were inspired to join after 
+
+
+
+seeing a loved one suffer. 
+
+As everyone began to walk a list of names 
+were read for those who have died in North- 
+east Indiana of HIV or AIDS. The last names 
+of the deceased were not read only there last 
+initial. This was done to keep the information 
+private for families. The walk was 5 K, but the 
+walk for those who are suffering, or know 
+someone who is, will last much longer. 
+
+For information on how you can help 
+others, or even yourself go to www.aidsfort- 
+wayne.org. 
+
+
+
+^A White Knight Chess 
+
+we discount &amp; Novelties 
+
+Up. to 20% -Chess sets, books, clocks &amp; accessories 
+
+'.'"--' '•''' ^-Family board games 
+■Role playing games 
+■Fantasy &amp; historical 
+•Decorative knives and swords 
+
+
+
+
+phxrisg@aol.com -(260) 490-9292 
+
+1 71 7 Cremer Rd-Fort Wayne, IN 4681 8 
+
+
+
+
+f^^ 
+
+
+
+TheCoiv 
+
+
+QMUNICATOR 
+
+
+
+
+Tracy Kearns 
+
+Editor-in-Chief 
+
+
+IPSN Inc. 
+
+Walb Union Suite 21 5 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+Natalie Webb 
+
+Managing Editor 
+
+
+Newsroom / Editor 
+
+(2601481-6584 
+
+
+Kira Schowe 
+
+News Editor 
+
+Allison Graber 
+
+Chief Reporter 
+
+
+Advertising 
+
+(260)481-6583 
+
+Publisher 
+
+(260)481-6585 
+
+Official Website 
+
+(260)481-6585 
+
+
+Jenna Tompkins 
+
+Opinions Editor 
+
+AndyBoesch 
+
+Advertising 
+Manager 
+
+
+nfflfflffsfflsi 
+
+
+
+
+Nathan Fast 
+
+Copy Editor 
+
+Dorie Reynolds 
+
+Publisher 
+
+
+ilillll 
+
+
+
+
+»^rs3r , " w *'--" 
+
+
+
+
+ssrssdrr 
+
+
+
+
+Features Editor 
+
+Reporters 
+
+Delivery 
+
+and 
+
+Photographers 
+
+Contact 
+
+Tracy Kearns or 
+
+Dorie Reynolds 
+
+481-6584 
+
+or stop in Walb 215. 
+
+
+
+Podium 
+
+
+
+Transfer Students Speak on 
+Matriculation 
+
+
+
+Positive Expe 
+Leaves Impression 
+
+
+
+not think this campus is small, but 
+it is obviously not huge. I person- 
+ally like IPFW because 1 am closer 
+to home and I think 1 am getting 
+a better education as a result of 
+smaller class sizes. I think the hard- 
+est thing about transferring was 
+getting used to the new surround- 
+ings and making new friends. I 
+think people sometimes underes- 
+timate just how exhausting moving 
+can be. You have to look for a new 
+place to live, get used to your sur- 
+roundings, pack, unpack, memo- 
+rize your new address, etc. The fear 
+of whether I made the right deci- 
+sion to transfer, as well as the fear 
+of my new college was stressful at 
+first. That too went away once I 
+got used to everything. I thought 
+making new friends was going 
+to be hard, 
+
+
+
+Chain of Advisors Fall 
+Through 
+
+By Arman Ami i i 
+
+
+
+Last year, I transferred to IPFW 
+from Toledo. I think it would be 
+wrong to say transferring schools 
+was easy considering that 1 left my 
+friends from Toledo behind. I had 
+to make new friends, and 1 had to 
+get used to the different environ- 
+ment. Although all of those factors 
+were pretty overwhelming. I was 
+fortunate to want to come to IPFW, 
+which made the transition easier. 
+
+I think one of the main things 
+I learned from 
+
+transferring — but it did 
+
+was that life »j think One Of the main not &lt;ake me 
+in your new long to find 
+
+home is going things I learned from peop i e that 
+
+!L b n e your r o rd transferring was if you ^ ~ 
+
+home. That want to move somewhere est s. Thanks 
+
+n o Un b d rViner a life in your new home is £ m fac f °jj; 
+
+but so many going to be different than aiso'stm able 
+
+times people . , , „ &gt; n cfa „ ; n 
+
+think that your old home. cLa« with 
+
+where they — - my other 
+
+friends. 
+
+
+
+were during 
+
+one point of their lives is how it will 
+be later; that was a concept I had to 
+'get past. 
+
+I definitely still had a hard time 
+moving because I hate change: 
+however, I think moving to Fort 
+Wayne was worth it. For me, going 
+from a bigger college to a smaller 
+college was definitely different. In 
+Toledo, I walked everywhere and 
+there were a lot of who I would la- 
+bel "city people." IPFW is more of 
+what I wanted out of a college. I do 
+
+
+
+Now that I look back at my 
+experience, the advice I have for 
+people thinking about transfer- 
+ring is to simply make sure it is 
+what you want. If you decide that 
+transferring is what you want, re- 
+member that things are going to 
+be different. That does not mean 
+the transition will be bad. Lastiy, 
+remember that moving is a chance 
+to make new friends and if you ap- 
+proach the move with a good atti- 
+tude, you will find friends easily. 
+
+
+
+I had a new state, a new city, 
+a new town, and if that was not 
+enough to deal with and adapt to, 
+a new university. Indiana Uni- 
+versity-Purdue University Fort 
+Wayne offered the advantages of 
+both Indiana and Purdue Univer- 
+sity on a smaller scale. Who would 
+not like a chance to become a part 
+of this community? 
+
+Now, for graduating high 
+school seniors, many routines are 
+in place to enable them to incor- 
+porate into this system flawlessly. 
+They have specific days to come 
+in and tour the school, learn their 
+new environment, and be advised 
+as to what classes they may want 
+to take and what career paths may 
+be right for them. Specific classes 
+are held so they can more conve- 
+niently register for classes without 
+fear of them being filled. Coupons, 
+gifts, and speeches await them as 
+they slip into this new lifestyle. 
+
+And then, there is the transfer 
+student. The transfer student is 
+much more accustomed to col- 
+lege life. In my case, I was trans- 
+ferring from a university that had 
+34,000 students. It was located in 
+the middle of a big city and 1 knew 
+many of the professors and stu- 
+dents. However, I had to make the 
+trip to attend IPFW. I had finished 
+most of my degree requirements 
+and was ready to graduate in one 
+year. I sent in my transcripts from 
+both a small community college 
+and a large university, along with 
+
+
+
+
+
+
+
+
+
+1 planned my fourteen-hour 
+move to Fort Wayne, Indiana. 
+On Sunday, May 14. I arrived at 
+my new home and got ready for 
+my first class, which started the 
+next morning at 9 a.m. By that 
+Wednesday, I began utilizing the 
+university's online applications 
+to check on my transfer credits. 
+I noticed that many of my cred- 
+its had been placed in categories 
+that would not fit my degree and 
+1 now faced two or more years till 
+graduation. Slightly in shock, I 
+contacted someone from admis- 
+sions and discussed the situation 
+with them. 1 was told to see my 
+advisor for this problem. I went to 
+my advisor, who was somewhat 
+confused as to who should han- 
+dle this problem. I left there with 
+more questions than when I had 
+arrived. 
+
+The following morning, dedi- 
+cated to resolving this issue, 1 
+went and spoke with someone in 
+my department. I was again sent 
+out, being told I should speak 
+with someone in the office that 
+was in charge of this and other 
+majors combined. I ended up at 
+the department for the arts and 
+sciences. Feeling like the de- 
+partment was high in the food 
+chain, I thought meeting here 
+would have a great impact on 
+my problem. I spoke with a lady 
+there who emailed someone and 
+made a copy of the information 
+regarding my problem. I felt like 
+things were coming together at 
+this point. I was then sent away 
+and told that the problems of my 
+transfer would be solved. 
+
+I continued with my sum- 
+mer class for about two weeks 
+until I noticed that nothing had 
+changed. Snuieu'h.ii angered and 
+worried (because without my 
+transfers I was unable to register 
+for any classes!, 1 went straight to 
+the head of the arts and sciences 
+department. He was very upset 
+that my issue had reached him 
+unresolved and explained how 
+it should have been handled by 
+
+
+
+the faculty. Next, he emailed an- 
+other advisor in my department 
+and asked him to review and re- 
+categorize my previous courses. I 
+left with a new calm and a sense of 
+accomplishment. Two weeks later, 
+to my horror, nothing had been 
+accomplished and the person 
+who had helped me the most had 
+retired. So, I again contacted the 
+closest person to the now retired 
+department head that I could find, 
+She called and spoke with some- 
+one in my major who said they 
+would finish the process for me. 
+By this time, I had already taken 
+a second summer course and was 
+trying to register for the fall. If it 
+had not been for Mr. Hicks, who 
+went to great efforts to override me 
+into courses which I could not reg- 
+ister for myself, I would not have 
+any schedule at all this semester. 
+However, because it was so close 
+to the new semester, all classes 
+were full and I was stuck with what 
+I could get. 
+
+After I started the fall semester, 
+the changes to my transfer credits 
+were finalized. Now that I was not 
+at all confident in the university's 
+abilities to handle my transfer, I 
+went to my advisor for a second 
+time. I was not surprised by the 
+meeting at all, but realized how 
+much my old university appreci- 
+ated its students. My advisor there 
+had a file on all of his students and 
+had a plan of graduation already 
+worked out. If you had a problem, 
+the advisors would pursue the 
+answer and help you feel at ease. 
+With all this trouble, it came to 
+no surprise when I heard that not 
+many students transferred into 
+IPFW from other universities but 
+plenty transferred out. 
+
+
+
+Campus Opinions 
+
+
+
+By Said EL-Dajani 
+
+
+
+
+*?W da you, feel afoufi a faodatt team at IP'P'W? 
+
+
+
+
+"That would be great. Attendance 
+would be an issue. Advertising 
+would have to be a big deal." 
+
+
+
+"I think we would have a pretty 
+solid fan base. I think it would 
+be a good occasion for every- 
+body to get together" 
+
+
+
+"I think we should have on 
+It would draw more people 
+IPFW." 
+
+
+
+"I'm all for it, but I think we'd be 
+an embarrassment for at least 10 
+years. A lot of money is involved, 
+so tuition would probably go up." 
+
+
+
+"I think it would be a good thing 
+because it would bring people 
+
+
+
+y.vji ■ 
+
+
+
+Facebook's Facelift too Drastic 
+
+
+
+n 
+
+
+
+By Said EL-Dajanl: 
+Said Said Something 
+
+
+
+Graphlt 
+
+
+
+Unhappy I remember when facebook.com 
+
+with its first swept across our country. One 
+
+rrent ap- college, 100 colleges, then 1000 
+
+arance, colleges. The network grew, the 
+
+cebook. students joined, and for at least a 
+
+i decided month after signing up, we were all 
+
+take an addicted. Some dorm mates and 1 
+
+Suld Said Something 1 American would make stupid groups, mostly 
+
+foi The Communis- cu ] tura i p he- dealing with getting drunk, being 
+
+lu^^iMi^m'.-'wiii! » o ni e n o n drunk, or playing Halo. Our proud- 
+
+ihnsc of iiii: news|&gt;,i known as est and most successful group con- 
+
+pcr. plastic sur- sisted of us looking up every hot 
+
+gery to the girl at Purdue and adding them to 
+
+World Wide Web. And, tike many our group "1 Am One Hot Bitty!" 
+
+Michael Jackson operations gone And everybody was doing joining 
+
+awry, this layout has caused a and making these groups. The fact 
+
+sensation across the nation. ..and that we could add pictures, cap- 
+
+SuzyW. Givesacrap wrote on Bull (ions, random information, and 
+
+Chit's wall at 12:30 a.m. meet random people was amazing. 
+
+
+
+Like Atari in the 1970s... this was 
+revolutionary. 
+
+So, I had this whole column 
+written out - ready to bust a cap 
+into Facebook • when I log on and 
+find... the apology letter. In psy- 
+chology, it's called the fundamen- 
+tal attribution error. I attributed 
+the 'news feed' stupidity as an at- 
+tempt to destroy the credibility of 
+
+
+
+this 
+
+
+
+untry. 
+
+
+
+The thing I enjoyed about Face- 
+book was that you couldn't just 
+necessarily look at someone else's 
+page from another school. You just 
+had to live with the mystery of who 
+they were from the picture that rep- 
+resented their profile. The option 
+of poking, which 1 honestly abused, 
+was fun...and still is. Or, you could 
+leave a message while adding them 
+as a friend. I liked my options, the 
+and the respect you 
+
+
+
+could have for the site. At a time, 
+it truly connected college stu- 
+dents, allowing them to see what 
+they wanted to see and when they 
+wanted to see it. 
+
+Facebook is evolving, maybe a 
+little too fast. It was conservative. 
+The information available de- 
+pended on how much effort you 
+put into it. If you really wanted to 
+know something about a person, 
+stalking would actually be an ef- 
+fort. Maybe that's what the Face- 
+book people wanted: to speed up 
+the process. I looked at the 'news 
+feed' as irrational, irresponsible, 
+and cheesy. But the reality is that 
+people are abusing this Internet 
+movement and are using the site 
+mainly for play, which doesn't 
+make sense as to why people are 
+disgusted by the 'news feed.' 
+
+Clearly, people are not happy. 
+
+
+
+[jg^^gg 
+
+
+
+You look on Facebook and you will 
+find countless groups dedicated to 
+the destruction of the new layout/ 
+news feed. And as the responsible 
+creator of the site, Mark Zucker- 
+berg, apologized and emphasized 
+his intention for Facebook. 
+
+From a sociological standpoint, 
+I don't know if Mark anticipated 
+how college students would react 
+to such a free flowing network. 
+But I have a bad long term feeling 
+about this project, which is con- 
+stantly changing. I think our gen- 
+
+dia the way that it is portrayed. As a 
+result, the future for the upcoming 
+youth seems dim. This news feed 
+may not be acceptable to us, but 
+represents an uncontrolled want 
+for growth and change with unex- 
+pected, detrimental results. 
+
+
+
+Tips for Saving Money 
+
+
+
+By Heather Etzler 
+
+
+
+If you are anything like me, v&lt; 
+ire slowly learning that money 
+mce had is dwindling away. Sui 
+
+nlyyou are using all your pocket 
+
+
+
+be spending $4-! per month! I hat 
+is a lot when you could just pack 
+your lunch. 
+
+Keep a log of how much mon- 
+ey you spend. If you are complete- 
+ly balded by the fact that you nev- 
+er have money, try writing down 
+everything you buy in a two- week 
+hange to try to pay for that SD.99 [K . ri od. Ibis will help you see what 
+
+
+
+cheeseburger and sometimes 
+you still come up short! " I' M SO 
+BR( )KF-!" you exclaim to the world 
+(or at least your best friend). 
+Here are some ideas for you to 
+consider, and they may help save 
+you money: 
+
+
+
+all vmi are spending your 
+ey on. Also, remember to watch 
+your spending. Seriously, do you 
+really need 500 shirts? Rethink 
+how much money you spend on 
+your outfits, especially if you do 
+have the 
+
+
+
+Try carpool- "T M SO BROKE!' you ex- m oney. 
+
+claim to the world (or at least if you have 
+your best friend)." &gt; ob ' make 
+
+
+
+Think of the 
+money you 
+
+could save if you took turns rid- 
+ing to school with someone. Sure, 
+you might have to wait until they 
+get out of class before you can go 
+home, hut you 
+
+Pack your lunches. So many 
+students are probably in class 
+when they would rather be eating 
+lunch and so what do we do? We 
+grab something from the vend- 
+ing machine. Do you realize that 
+if you spend $2 everyday for food 
+JUST on campus and you come to 
+school live times a week, you will 
+
+
+
+automatical- 
+ly make yourself put so much in 
+your savings account each week 
+- and do it! Over lime, you will be 
+surprised at the money you have 
+a lot. of buj |, up&gt; even by p urt ing in $20 
+per week (that is $1040 a year) or 
+every other week (that is $520 a 
+
+Take advantage of free stuff 
+
+by looking around campus. Tech- 
+nically, you paid a fee for stuff 
+provided on campus, so if there 
+is free pizza or items, stand in line 
+and get some! 
+
+
+
+Reality TV All About the Money 
+
+
+
+By Tiffany Ping 
+
+
+
+Reality television is not a new 
+phenomenon. However, 1 find it 
+to be one of the most annoying. 
+Most of us in the MTV Genera- 
+tion assume that reality TV got its 
+start with the wildly popular show 
+"The Real World". Well, I'm here 
+to tell you that it didn't. It actu- 
+ally got its humble beginnings in 
+the late 1940s with Allen Funt's 
+"Candid Camera". So, for over 
+60 years, we've been bombarded 
+wilh crappy entertainment. 
+
+I'm not going to lie. When I 
+gel around MTV and any one of 
+their asinine shows are on -espe- 
+cially "The Real World"- I can't 
+stop watching. It's like a train 
+wreck. I have to watch. I have 
+to know exactly what's going on 
+in Sveilana's life and why every- 
+one hates her. (I told you 1 have 
+to watch!) Or who's "nexting" 
+whom. Or who's raiding whose 
+room. It's nuts. I can lose whole 
+days because of reality TV. That's 
+ridiculous. Whole days!!! 
+
+Why is reality TV so addicting? 
+Are there subliminal messages 
+that keep us hooked? I mean, 
+were Taylor Hicks and Katharine 
+Mil'liee really worth 36 million 
+
+
+
+people's time? I don't think so. 
+Because of my lack of enthusiasm, 
+their numbers weren't 36.000,001. 
+Ha, take that FOX!! ('Course I did 
+watch every episode of Season 1; 
+but that will be our little secret.) 
+
+I really don't understand the 
+concept of reality TV. What's so 
+great about it? We all know that 
+reality TV is not really real. It's just 
+a bunch of hotties running around 
+starting drama, ending drama, 
+sleeping with everyone, drinking 
+and partying-unless, of course, 
+you were as ensconced in PBS's 
+"Colonial House" as I was. (Don't 
+laugh; it was interesting ... and I 
+don't have cable.) But, even PBS's 
+attempt to be hip had its fair share 
+of sex-related drama. 
+
+We can't turn the television on 
+without being slapped in the face 
+with other people's drama. I don't 
+about you, but I have got enough 
+of my own. I really don't want to 
+be involved in anyone else's. 1 ac- 
+tually feel stressed out after been 
+visually assaulted by the newest 
+knock-down-drag-out on "Flavor 
+of Love". 
+
+Now, before you think this is 
+one big whining session, I'll be the 
+first to say that not all reality TV is 
+worthless. "True Life" has educat- 
+ed several of my friends and I about 
+everything from being a porn star 
+
+
+
+to being a Muay Thai Fighter to 
+being a competitive eater. But, 
+for every one constructive show, 
+there are 10 shows that shouldn't 
+have ever made it into our living 
+
+"The Swan" is the perfect ex- 
+ample of a show that, from the 
+moment I heard the concept, left 
+the sour taste of bile in my mouth. 
+FOX's program focused on tak- 
+ing regular-which, in the land 
+of showbiz, means ugly-woman 
+and had them undergo extreme 
+plastic surgery. Then, as if that's 
+not bad enough, they are forced 
+to endure a pageant!!! A frig- 
+gin' beauty pageant that will tell 
+the no-longer-ugly-women that 
+they're still not pretty enough 
+to win. Just thinking about that 
+show makes me mad (I can't say 
+what I'm really thinking-there's 
+too many expletives). 
+
+The reality TV industry boils 
+down to one simple fact: mon- 
+ey. Everyone's in the business 
+of making money and as much 
+of it as they possibly can. To do 
+so, we're willing to relinquish our 
+pride and dignity at any cost. 
+And this is the principle that 
+we're teaching our kids. It's a sad 
+state of affairs in the world to- 
+
+
+
+Online Communities Provide A Home 
+Away From Home 
+
+
+
+By Said EL-Dajani 
+
+Over the last decade or so, in- 
+formation has become accessible 
+beyond our wildest dreams. The 
+ability to log on to cyber space 
+to communicate, shop around, 
+or just kill time has brought our 
+world a little closer together. Two 
+mega-sites that dominate the In- 
+ternet with their networks are 
+facebook.com and myspace.com. 
+While they are both enormous 
+entities that provide information 
+and communication, their lay- 
+outs are completely different, as 
+is the intention behind the sites. 
+I would like to discuss what each 
+site has to offer, and how you, as 
+the reader, who may or may not 
+be apart of this network, can see 
+what each may have for you. 
+
+I personally got involved with 
+facebook.com two years ago in 
+October, when the phenomenal 
+movement swept across my cam- 
+pus like wildfire. Even before I 
+joined the site, which is accessible 
+with a university e-mail address 
+(I believe some high schools are 
+also a part of the network), groups 
+were already established, and my 
+
+
+
+friends down the hall had already 
+produced their page. It was an at- 
+tractive bandwagon to join. I re- 
+ally believe that it still is. 
+You can create groups on Face- 
+book, which allows one to per- 
+sonalize a page dedicated to an 
+activity, an event, a community, 
+or even Steve Irwin - the options 
+there are unlimited. Facebook 
+also gives people the chance to 
+find new friends, lost friends, 
+girlfriends and Facebook friends 
+within a structured demographi- 
+cal setting. 90 percent of Face- 
+book's visitors are college stu- 
+
+Facebook also allows members 
+to create photo albums. Instead of 
+having picture parties like in the 
+early ) "I'llls, we can now download 
+our pictures straight from our dig- 
+ital cameras onto Facebook and 
+organize them as we choose. This 
+has revolutionized Kodak founder 
+George kastman's view on pho- 
+tography that everyone can be a 
+picture taker Needless to say, the 
+majority of pictures on Facebook 
+ate of embarrassing drunk mo- 
+ments - not much of an art to it. 
+
+On the other hand, Myspace is a 
+place for everyone who can han- 
+
+
+
+dle facebook times ten. Myspace 
+allows people to use coding to 
+personalize and customize their 
+pages. The site strongly reinforces 
+the idea of change, independence, 
+and personality. If you are an art- 
+ist seeking exposure, posting your 
+work would be an excellent way 
+to advertise. If you are a musi- 
+cian, movie maker, or stripper, 
+Myspace, allows you to market 
+yourself while building a network 
+of people. You find people on 
+Myspace looking for opportunity 
+or love. Since there are no bound- 
+aries preventing people from 
+joining, Myspace is a little more 
+susceptible to creepy people. 
+
+While these two sites may seem 
+,i little loo liberal, they truly define 
+the age of information in which 
+we live. Whether you are look- 
+ing for a relationship, building a 
+business, or expressing the artist 
+within, Facebook and Myspace 
+are mediums with growing capa- 
+biliiies (hat can complement your 
+lifestyle. Better to join now than 
+later, because catching up is a lot 
+harder than keeping up. 
+
+
+
+
+Longing for Healthy Food Choices 
+
+
+
+By Jenna Tompkins 
+
+
+
+The age old question, "what 
+is there to eat?" has definitely 
+made its way to the IPFW cam- 
+pus. When students have a 
+break between classes or want 
+to get a bite to eat while they are 
+on campus, they have three not 
+so health-conscious choices and 
+one decent alternative. 
+
+Those three high-calorie 
+choices are Taco Bell, Pizza 
+Hut, and the vending machines. 
+Granted, one could probably 
+pick something semi-healthy 
+from all of them, but the chanc- 
+es are likely that one would 
+rather opt for the pepperoni 
+pizza, the hard taco supreme, or 
+a bag of Doritos. Unfortunately, 
+these choices are aiding in the 
+destruction of the human body. 
+
+In continuation of the poor 
+food offerings on campus, the 
+free food we are offered as a 
+bribe to join a group or to at- 
+
+
+
+tend an event is not generally up 
+to healthy standards. Usually, it 
+is (again!) pizza. More groups 
+should try offering cheese, fruit, or 
+vegetables. 
+
+Subway, a fairly healthy 
+choice, still isn't topping my list 
+of places to eat every time 1 am on 
+campus. I like variety. Besides, if 
+you don't order the daily special, 
+then Subway can be a bit on the 
+pricey side. 
+
+So, how could IPFW appease 
+those cheap health- conscious 
+college students? Perhaps IPFW 
+could delete the option of Taco 
+Bell and Pizza Hut and add a caf- 
+eteria that provides a variety of 
+selections from comfort food to 
+salads and wraps. 
+
+The student body is likely to 
+appreciate the choices offered to 
+them and will probably utilize this 
+option more so than the grease 
+soaked pizzas at Pizza Hut. 
+
+
+
+
+Features 
+
+
+
+Knowledge 
+Inspires 
+Support for 
+a Free Tibet 
+
+Students for a Free Tibet 
+enlightens public and 
+pushes for freedom from 
+China's rule 
+
+
+
+By Allison Graber 
+Chief Reporter 
+
+
+
+On one night in 1959, a man, 
+distinct from other men in his 
+country, fled his home in the cover 
+of darkness, fearing for his life. He 
+has since ruled his country from a 
+distance. 
+
+Tenzin Gyatso, the 14th Dalai 
+Lama of Tibet, has been advocat- 
+ing a return to Tibetan indepen- 
+dence, out from under Chinese 
+
+Students for a Free Tibet is a 
+student group sympathetic to the 
+Dalai Lama's cause. With a chapter 
+at IPFW, SFT seeks to work in part- 
+nership with the Tibetan people to 
+regain rule over their country. 
+
+There are over 650 chapters of 
+the organization in 30 countries 
+world- 
+
+S rVd a "•••tfy° u k now 
+
+ipfws what's going 
+
+tT cow- ° n ln Tibet &gt; 
+
+dinator, yOU Will Want 
+
+oversees tQ £ Q some - 
+the half 
+
+dozen cur- thing aDOUt 
+
+rent mem- j t _» 
+
+
+
+inform the 
+
+public of the history and current 
+
+situation in Tibet. 
+
+"We believe if you know what's 
+going on in Tibet, you will want to 
+do something about it," Conrad 
+
+Conrad ascribes her interest 
+in Tibet to taking an Asian folklore 
+class. She read about the history 
+and was shocked she did not know 
+
+In 1950, China invaded Tibet, 
+taking half the country by force. 
+40,000 troops remained to keep 
+the country secure. 
+
+By 1959, demonstrations erupt- 
+ed and thousands were dead by 
+the hands of the Chinese govern- 
+ment. Tibet is still under Chinese 
+authority, while the Dalai Lama 
+and the Tibetan government re- 
+main in exile in India. 
+
+Hilary Edwards, the organi- 
+zation's regional coordinator for 
+the midwest, sees SFT as a way for 
+students to use their power of free 
+speech to promote change. 
+
+SFT organizes workshops and 
+conferences across the country as 
+well as movie nights and lectures 
+on the IPFW campus. 
+
+With a focus on the 2008 
+Olympics being held in Beijing, 
+SFT hopes to bring attention to Ti- 
+bet by boycotting the games. 
+
+"The Olympics are supposed 
+to be an event where people come 
+throughout the world peacefully. 
+It really doesn't seem that China 
+has earned the right to do that 
+when they don't respect their own 
+people," Edwards said. 
+
+People all over the world, in- 
+cluding students at IPFW, are still 
+addressing the plight of the man 
+fleeing in the darkness over 60 
+years ago. 
+
+Meetings for SFT are held at 
+IPFW twice a month. Informa- 
+tion about Students for a Free 
+Tibet can be found at www.stu- 
+dentsforafreetibet.org. Questions 
+regarding SFT at IPFW can be 
+answered by writing to sft@ipfw. 
+
+
+
+
+• r F "I loved it," said Suzy Buchs, a music student at IPFW, 
+
+\)J*-*' "I was raised on that song ..." 
+
+
+
+
+rtofP 
+
+ics X 
+
+
+
+Audience 
+
+
+
+By Louisa Danielson 
+
+How do you make a classic? 
+Is it a formula - something pre- 
+destined for greatness? Or is it a 
+good adaptation of something 
+
+Both of these schools of 
+
+thought likely apply. However, 
+it was the 'borrowing' idea that 
+had the Fort Wayne Philharmon- 
+ic rocking behind Walh Student 
+Union on the evening of Thurs- 
+day, Sept. 8. 
+
+The orchestra, led by asso- 
+ciate conductor Bradley Tha- 
+chuk, played everything from 
+Route 66 to the first movement 
+of Beethoven's Fifth Symphony. 
+The orchestra also added in was 
+a little Hendrix, Prokofiev, and 
+Weill, with a touch of Ravel at the 
+
+
+
+classical compose 
+
+
+
+
+from the Russian alburn by Sting. 
+
+
+Rachmaninov? A short clip of 
+
+
+This album was based on the 
+
+
+Manilow's "Never Going to Fall 
+
+
+"Lieutenant Kije Su 
+
+
+ite Romance" 
+
+
+in Love Again" played before the 
+
+
+by Prokofiev. 
+
+
+
+
+orchestra per- 
+
+
+
+
+Host Da- 
+vidTodoran 
+gave the 
+
+
+
+
+
+
+
+
+Rachmanmovs 
+
+
+
+
+
+
+Sting pre- 
+
+
+Symphony No. 2 
+
+
+
+
+
+
+view, sing- 
+
+
+in E minor. 
+
+
+
+
+
+
+ing with his 
+
+
+There were 
+
+
+
+
+
+
+guitar. "Ro- 
+
+
+distinct similari- 
+
+
+
+
+
+
+
+
+ties in the melo- 
+
+
+
+
+
+
+
+
+dies and motives 
+
+
+
+
+
+
+
+
+even down 
+
+
+
+
+
+
+chestra, 
+
+
+to the slightly 
+
+
+
+
+
+
+was full of 
+
+
+wistful, distant 
+
+
+
+
+
+
+
+
+sound of the in- 
+
+
+
+
+
+
+ticular Rus- 
+
+
+"I loved it, 
+
+
+
+
+that only 
+
+
+a music student 
+
+
+Photo by Nic Pyle 
+
+
+
+
+at IPFW. "I was raised on 
+
+
+
+
+
+
+that song - I didn't know it 
+
+
+
+
+In a di- 
+
+
+was [based on| Rachmaninov!" 
+
+
+rect reversal of c 
+
+
+assical music 
+
+
+Parallels were 
+
+
+also drawn 
+
+
+going rock, the Fo 
+
+
+t Wayne Phil- 
+
+
+
+li.irmiinu •■ sii iiigijiiinu-l pliiyetl 
+
+"Purple Haze" by litni Hendrix. 
+
+The tie-die shirts ami pants 
+added a certain ambience to the 
+rendition. 
+
+"Why did 70s pop artists use 
+classical music themes in their 
+work? "ITheyl couldn't think of 
+anything new," Thachuk said. 
+
+At times, the most recogniz- 
+able element in music is repeti- 
+tion. Thachuk highlighted this 
+point with The Beatles' "Hey, 
+hide." which Todoran, Thachuk, 
+and vocalist Tony Didier per- 
+formed in trio, with Todoran and 
+Thachuk on guitar. 
+
+The concert closed with 
+Ravel's "Bolero." The audience 
+instantly connected with the 
+theme of repetition as the slow, 
+measured beat of "Bolero" grad- 
+ually engulfed the orchestra and 
+erupted in a mass of tapping fin- 
+gers ;ind toes in the audience. 
+
+
+
+
+Hispanos Unidos 
+Teaches Culture 
+and Leadership 
+
+
+
+By Kira Schowe Ruiz said. 
+
+There are currently 12 mem- 
+bers in Hispanos Unidos and 
+Are you looking for opportu- they all donate to the community 
+nities to experience Hispanic cul- in some way or another. 
+ture, sample Hispanic cuisine, and "We talk to high school stu- 
+
+take part in leadership activities? dents about IPFW and we also go 
+If so, Hispanos Unidos may be just to Hispanic Leadership confer- 
+the campus organiza- ^^^^^^^^^^^^— ences," Ruiz said. 
+
+i he iirgain/aliuit 
+When: Thursdays at also helps students 
+noon I understand Spanish 
+
+
+
+Where: Walb 2 
+
+
+
+for you. 
+
+"Hispanos Unidos 
+presents a culture 
+and informs people 
+who would otherwise 
+believe that Hispanic 
+culture is similar to '&amp; 
+that which is shown Why: To promote 
+on TV and in movies 
+of the true culture, 
+Cesar Ruiz, presiden 
+of Hispanos Unido 
+
+
+
+Hispanos Unidos, 
+which is open to mem- 
+bers of all ages and 
+ethic backgrounds, 
+puts on a number of 
+events on campus and also in the 
+
+Noche de Gala, which will fea- 
+ture dancing, music, and free food, 
+is set to take place on Sept. 22. An- 
+other event is Latin in Flavors. 
+
+"This event is r 
+and outgoing because it is ii 
+spring. There will be dancing, 
+sic, performers and also free food. 
+
+
+
+English by 
+acting and speaking 
+with them. 
+
+"We help build 
+confidence, time 
+management, and 
+better leadership 
+skills," Ruiz said. 
+
+Hispanos Unidos 
+meets every Thurs- 
+day at noon in Walb 
+221, where they 
+plan kinship activ- 
+ites and leadership 
+opportunities. 
+"Learning different cultures 
+will help you when trying to find 
+a job because employers don't 
+want people who are closed 
+minded," Ruiz said. "They want 
+people who relate to others out- 
+cheerful side of their cultures. 1 just want 
+is in the everyone to come and see what 
+
+
+
+
+Organization Helps 
+Overscheduled 
+Students Cope 
+
+
+
+By Shannon Buonocore 
+
+
+
+Being a college student can be 
+very stressful at times, especially 
+when you have to balance many 
+things in life. 
+
+Balancing your schoolwork. 
+your job, and really just finding 
+time for yourself can be a diffi- 
+cult task to overcome. However, 
+if your time is managed well, life 
+could be a lot less stressful for you 
+and the people around you. 
+
+First, make sure that you are 
+not putting your schoolwork &lt;iff 
+until the very last moment. Ac- 
+cording to USA Today, nearly half 
+of college students are working 
+more than twenty-five hours a 
+
+Working a job can and does af- 
+fect how students perform in col- 
+lege. Is it worth working all these 
+
+63% of the students polled in 
+the USA Today study said, "With- 
+out working they could not afford 
+college." 
+
+Even though many college stu- 
+dents work these long hours, there 
+needs to be some kind of sched- 
+ule set aside for your schoolwork. 
+
+To help with planning, IPFW 
+offers their students the student 
+handbook planner. 
+
+
+
+By simply writing down what 
+you have to do in the future, your 
+life will become more organized. 
+
+Working so many hours each 
+week cuts into how much time you 
+can spend studying, but there are 
+always options. 
+
+All that you have to do is sim- 
+ply organize these parts of your 
+life. 
+
+Organizing is a great way to get 
+things done and also helps avoid 
+
+If you are required to work, 
+it is going to be difficult to find a 
+large amount of time to dedicate 
+to your schoolwork, but by being 
+organized, you will find that you 
+these obstacles. 
+
+
+
+
+J !a.vi ■■■ 
+
+
+
+g^M^™ 
+
+
+
+Hollywoodland 
+Disappointing 
+Waste of Time 
+
+
+
+By Tiffany Dirig 
+
+
+
+Overall Rating** 
+
+Pretentious film-making 
+is a commonplace 
+jn showbiz. 
+
+These are films thai 
+
+
+
+I coutd'v 
+told you that 
+before we 
+walked into 
+the theatre. 
+This flick 
+
+time and money. 
+I didn't expect 
+
+
+
+made just so the actors may much from Affleck 
+hear themselves speak ... and 
+;so they can make a quick mil- 
+lion — or fifteen, whatever. atrocity that 
+
+"Hollywoodland" is no devil", 
+
+different. Starring Adrian his Reeves wj 
+
+Brody, Ben Affleck, and Di- awful perft 
+
+,ane Lane, this film depicts the ever seen in my - 
+
+
+
+
+s "Dare- exhausting. I've heard Os- 
+
+ranted, car rumors run amuck for 
+
+the most Mrs. Brolin. but f can't see 
+
+i from whence they come. 
+
+; The whole film was a 
+
+
+
+adult life and apparent suicide bill I wouldn't kill a puppy jumbled mess: from open- 
+
+■of George Reeves— television's to see it again, either. trig to closing credits. 
+
+Superman. As for Brody, well, I In truth, it bored me 
+
+', Apparently, period mur- would prefer to listen to senseless. 
+
+|der capers are the "film du him rather than seeing a My legs 
+
+
+
+' this 
+
+
+
+'Make something of substance 
+and I'll quit being nasty, bitter, 
+
+
+
+^.VeVcl and cynical' 
+
+dent is Reeves (Af- 
+
+■fleck). And it's an 
+
+
+
+suicide case; at least accord- larger-than- 
+
+ing to the LAPD. Enter down- him on scrci 
+land-out private investigator, I hate 1 
+
+ILouisSimo (Brody). He's hired that 
+
+
+
+. but 1 
+
+
+
+by Reeves' mother to further 
+
+investigate his death. worst actor aro 
+
+Simogoesdiggingthrough he's also not the 
+
+Reeves' last year or so and ticing to watch, 
+finds some titillating informa- Lane's performai 
+
+tion. shocked me die mi 
+
+Mr. Reeves had an illicit though. 
+
+
+
+were jumping. I 
+kept re-arrang- 
+ing in my seat. I 
+huffed and puffed 
+and checked my 
+watch every five 
+seconds. 
+
+By the way, 
+
+■ the stupid thing 
+
+sucked two hours 
+
+of and Twelve minutes Irnm my 
+
+life that I will never be able 
+
+lit to recover. Thanks a friggin' 
+
+that superficial lot! 
+
+Ti. He's not the I've been told that my 
+
+nd, but brutal honesty when it 
+
+
+
+affair with the wife— Toni 
+Mannix (Lane) — of MGM stu- 
+dio executive, Eddie Mannix 
+(played by Bob Hoskins). 
+Basically, to make an in- 
+
+
+
+, ilni 
+
+
+
+always welcomed. But after 
+being forced to watch stink- 
+ers like "Hollywoodland", 
+my patience is running low 
+at best. Make something &lt;&gt;i 
+l when 1 first substance and I'll quit being 
+
+
+
+a her playing Robin Wil- 
+ms' mother in "lack". 
+l-.ver since then. 1'v 
+
+
+
+sanely long slory super short, enjoyed her 
+
+
+
+sty, bitter, and cynical. 
+I hope "The Black 
+Dahlia" — next week's film— 
+
+disappoi 
+
+
+
+at the end ofthe film, we're left the sappy "Must Love tired of feeling that twinge 
+
+
+
+with three possible 
+for Superman's departure; 
+suicide, murder Eddie Man- 
+nix-style, or murder a la 
+Reeves' fiancee. Lenore Lem- 
+mon (Robin 
+
+
+
+This, however, 
+like she was channeling 
+a cracked-out, melodra- 
+matic, manic episode of 
+
+"Ozzie and Harriet". It was 
+
+
+
+of regret when guin^ 
+
+
+
+
+
+
+a ®. 
+
+
+
+&gt;6 A p- 
+
+
+
+
+2 Q 
+
+
+
+FREE PREGNANCY TESTS 
+
+Monday 11-2 
+
+&amp; 
+Thursday 11-2 
+
+Walk in. call, 
+or e-mail for an appointment 
+
+Walb 214 B in 
+
+Student Organization Suites 
+
+E-MAIL or checkout web 
+
+compushopestudentsiSyahoacom 
+
+&amp; 
+www.compushopestudents.org 
+
+
+
+24-HR PHONE 
+422-3544 
+
+
+
+Campus W 
+Calend 
+
+
+
+
+Nutritious Cooking Workshop: 
+"Heart Healthy Eating: Small 
+Additions = Big Reductions," 
+WU 222-224. noon-l p.m. For 
+
+infonnation,call 1 6647. 
+
+Hispanic Heritage Month Event: 
+
+Panel discussion, "What is a Lati 
+Htspanic7"WUH4-ll6, 1 1a.m. I 
+information, call 16608. 
+
+
+
+Concert: Faculty rvui.tl tciiunne 
+Farrell Verson, saxophone; First 
+Wayne Street United Methodist 
+Church, 7:30 p.m. Free admission fo 
+IPFW students. For information, ca 
+16714. 
+
+
+
+n Heart Association Heart 
+Walk: GC, 9 a.m. For information, visit 
+
+http://heartwalk.kintera.org/frwayne. 
+
+Athletic Event: Women's Soccer vs. 
+Illinois Siate, 4 p.m For information, 
+call 16643. 
+
+Neff Rocks!: "Making the Most of 
+College" special event for freshmen of 
+all majors housed inNefFHall;NF 101, 
+1 1 :50 a.m.- 1 : 15 p.m. Free pizza, guest 
+speaker, resource fair. For more 
+information, call 16448. 
+
+ETCS Colloquium Series: "The 
+
+Reduced-Fill Tank Pressure Control 
+Experiment: Zero gravity aboard the 
+space shuttle," Jihad Albayyari, 
+
+
+
+Spanish Table: WU Cafeteria, noon. 
+Look for the table with Hispanic flags. 
+For information, contact 
+cuiilortnvyiipfw.edu. 
+
+
+
+Student Organization President and 
+Treasurer Training: WU 1 14-116, 
+2-3 p.m. For information, call 16609. 
+
+Eating Disorder-Support Group: 
+WU 234. 6:30-8:30 p.m. For 
+information, call 16647. 
+
+Panel Discussion: "Should Internet 
+Searches be Subject io Government 
+Searches?" I Iclmkc Library. 2nd floor, 
+7 p.m. For information, call 16691. 
+
+Student Organization President and 
+Treasurer Training: WU 1 14-1 16, 
+10-1 la.m. For information, call 16609. 
+
+ACCS Workshop: "Lost Without a 
+Major," WU G08, noon-l p.m. 
+For information, call 16595. 
+
+Panel Discussion: "Immigration and 
+Naturalization," Flelmke Library. 2nd 
+floor, 7 p.m. Presented by Mike 
+
+Downs Center for Indiana Politics and 
+IPFW Constitutional Educational 
+Programming For information, call 
+
+
+
+20 ACCS Workshop: "Math Anxiety," 
+WU Ballroom, noon-l p.m. 
+For information, call 16595. 
+
+ASAP! Student Discussion Series: 
+
+WU Ballroom, noon. For information, 
+call 16608. 
+
+
+
+i. For information. 
+
+
+
+Study Abroad Ini 
+SB176,noc 
+
+call 16494 
+
+
+
+Student Organization President and 
+TreasurerTraining: WU 114-1 16, 
+5-6 p.m. For information, call 1 6609. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+
+$ 1.50 
+
+
+
+WELTDRINKS 
+/EVERY / &lt; 2 00 Cov „ 
+WEDNESDAY Z.° .T° ye * 
+
+NIGHT wifri College f.D. 
+
+E. Wosiingtoi Ctr. at Coldwater Rd. • Next to the Marriott 
+
+
+
+Spice Up Your Mondays! 
+
+
+
+f£&amp;¥ ta ? 
+
+
+
+
+Enjoy a double order of 
+chicken, steak or combo 
+fajitas (enough for two) 
+for just $121 
+
+Regular price $20.99. 
+
+
+
+Frosty, 10 oz. original Top Shelf and 
+Caribbean Margaritas are only $2.50." 
+
+# chjjhs 
+
+SPICEALICIOUS 
+
+Fort Wayne ■ 31 7 E. Coliseum Blvd. • 471 -2979 
+
+
+
+
+a alcohol, "Offer valid every N 
+
+
+
+Ladies 
+Swing into 
+Place at BSU 
+
+
+
+Press release courtesy of 
+IPFW Athletics 
+Department 
+
+
+
+IPFW 
+
+started their fall season at 
+the 2006 Cardinal Classic 
+hosted by Ball State. The 
+ladies finished the two 
+round tournament in 17th 
+place. 
+
+Eastern Michigan took 
+the title with a two round 
+score of 607. The Mast- 
+odons had a team score of 
+668. 
+
+Alison Rathsman led 
+IPFW, tied for 67th with a 
+final of 166. Jacque Speece 
+and Rachel Parks were tied 
+for 72nd just one stroke 
+behind Rathsman with a 
+167. 
+
+Ashley Smith from Grand 
+Valley State took medalist 
+honors with a 145. Becky 
+Hoffman from Ferris State 
+was runner-up with a 148. 
+
+The Mastodons will head 
+to Western Illinois for the 
+WIU Autumn Invitational 
+in Macomb, Illinois on 
+September 17-18. 
+
+
+
+UWGB 
+Blasts Dons 
+
+
+
+Press release courtesy of 
+IPFW Athletics 
+Department 
+
+Green Bay, WI- Senior 
+forward Joshua Okoampa 
+scored four times and, 
+sophomore midfielder To- 
+saint Ricketts added two 
+goals and an assist, as UW- 
+Green Bay blasted IPFW, 
+9-2 on Monday afternoon. 
+The Phoenix (4-2-0) put 
+the match out of reach 
+early, tallying twice in the 
+first 16-minutes. 
+
+Leading 3-0, Okoampa 
+got the first of his four 
+scores at the 37:26 mark 
+beating IPFW goal keep- 
+er Josh Howell to the left 
+
+Okoampa made it 5-0 
+in the 40th minute, when 
+he converted his own re- 
+bound from about 10 
+
+The Mastodons (0-6-0) 
+cut the Phoenix lead in the 
+early stages of the second 
+half. 
+
+Freshman midfielder 
+Josh Sommer blasted a 
+shot, from about 25-yards 
+out, that found the upper 
+left hand comer of the net. 
+Junior forward Chas Parry 
+got the assist on Sommer's 
+goal. 
+
+Then, in the 51st min- 
+ute, Parry took a pass from 
+senior midfielder Evan 
+Coss, beat UWGB keeper 
+Josh Loyd to the ball, and 
+punched it home. 
+
+That is as close as IPFW 
+would get as Ricketts and 
+Okoampa finished off the 
+scoring with a pair of goals 
+
+The Mastodons begin 
+conference play this Sun- 
+day. IPFW will travel to 
+Akron to take on the 12th 
+ranked Zips at lpm. 
+
+
+
+Sports 
+
+
+
+Don's Trampled by Eastern Illinois 
+
+
+
+
+Mastodons (O-^-O) tied the 
+match in the 7^th minute 
+
+
+
+Fort Wayne, IN- The 
+scoreboard could have read, 
+Brad Peters 3-IPFW 1. East- 
+ern Illinois" sophomore for- 
+ward found the back of the 
+net three times in the Pan- 
+thers' win over IPFW, Friday 
+night at the Hefner Soccer 
+Complex. 
+
+Both teams played to a 
+scoreless tie in the first half. 
+
+Peters got his first goal of 
+the match at the 56:12 mark 
+
+
+
+as he chipped a shot over the 
+head of IPFW keeper Josh 
+Howell, into the upper right 
+hand corner of the net. 
+
+The Mastodons (0-5-0) 
+tied the match in the 75th 
+minute as freshman mid- 
+fielder Josh Sommer got the 
+ball ahead to fellow fresh- 
+man Chris Moreno in the 
+
+Moreno headed it past 
+Panthers' keeper Mark Han- 
+sen. The IPFW goal was 
+shorthanded because the 
+'Dons were forced to play 
+
+
+
+the final 22 minutes a man 
+down. Peters got the game 
+winner for Eastern Illinois 
+(4-1-0) at the 82:28 mark. He 
+gathered a turnover in front 
+and had Howell at his mer- 
+cy. 
+
+Peters finished off the 
+scoring in the final minute 
+of play, converting a pass 
+from freshman forward 
+Evan Philpott, from about 
+18 yards out. 
+
+Hansen made two saves to 
+get the win. Howell turned 
+back 1 1 shots in the loss. 
+
+
+
+
+Joshua Howell in lull swing against Eastern Illinois 
+
+
+
+Lynn Chosen As 
+USC Defender 
+of the Week 
+
+Photo by Brenda Jones 
+Defender of the Week: Senior Shannon Lynn 
+
+Press release courtesy of This is her fourth ca- 
+
+IPFW Athletics reer USC Defender of the 
+
+Department Week nod. 
+
+Lynn (Brampton, On- 
+
+IPFW senior goal keeper tario, Canada) had an out- 
+Shannon Lynn has been standing week between 
+named the Defensive the pipes for the Mast- 
+Player of the Week in the odons. For the week. Lynn 
+United Soccer Confer- was2-0 with two shutouts, 
+ence, in voting conducted She backstopped IPFW to 
+by USC sports informa- wins over the New Jer- 
+tion directors. sey Institute of Technol- 
+
+Lynn (Brampton, On- ogy (6-0) and Utah Valley 
+
+tario, Canada) had an out- State (2-0). 
+standing week between Lynn also assisted on 
+
+the pipes for die Mast- a goal in IPFW's win over 
+
+odons. For the week, Lynn Utah Valley State, 
+was 2-0 with two shutouts. This is her fourth ca- 
+
+She backstopped IPFW to reer USC Defender of the 
+
+wins over the New Jersey Week nod. 
+Institute of Technology 
+(6-0) and Utah Valley State 
+(2-0). 
+
+Lynn also assisted on 
+a goal in IPFW's win over 
+Huh v.illev State. 
+
+
+
+Are you a professor in 
+
+need of resources for a 
+
+service-learning project? 
+
+Are you a student group 
+
+that needs help with a 
+
+community-service project? 
+
+
+
+Indiana Campus 
+
+Compact (ICC) is a 
+
+membership organization 
+
+of 45 campuses that promotes service-learning and civic 
+
+engagement in higher education and develops students 
+
+as civic participants. ICC assists students, faculty, and staff 
+
+in organizing events, trainings, and networking. 
+
+
+
+For resources on your campus, contact: 
+
+lgdoucet@indianacampuscompact.org 
+
+317-274-6500 • www.indianacampuscompact.org 
+
+
+
+
+
+WtaV Monday to Friday 9 AM - 5 PM 
+Whore: 641 HOnTHCREST SHOPPING CTR. 
+FORT WAYNE IN. 46803 
+
+
+
+£ |IIHH:I!I1I Who: CPI Harney at 260-484-4300 
+
+
+
+Faculty Senate in Favor of Mid-Con Membership 
+
+
+
+Press release courtesy of 
+IPFW Athletics 
+Department 
+
+The IPFW Faculty Senate 
+has voted to approve the 
+university's invitation to be- 
+come a member of the Mid- 
+Continent Conference. 
+
+This vote paves the way 
+for the Mastodons to join 
+the Mid-Con and begin play 
+in the fall of 2007. 
+
+"The Department of Ath- 
+letics is honored to receive 
+such an overwhelming vote 
+of approval from the Faculty 
+
+
+
+Senate today," IPFW Direc- 
+tor of Athletics Mark Pope 
+said. "Mid-Continent Con- 
+ference affiliation brings 
+so many benefits to our 
+department, our university, 
+and our community. We 
+will now begin to develop 
+the strategy which will al- 
+low our Student-Athletes to 
+succeed both academically 
+and athletically in our new 
+conference home." 
+
+IPFW will join North 
+Dakota State and South 
+Dakota State as new i 
+bers on July 1.2007. 
+
+
+
+Oral Roberts, Oakland 
+University, IUPUI, UMKC, 
+Southern Utah, Centenary 
+College, andWestern Il- 
+linois are current members 
+
+
+
+Lady's Cross 
+Country Dashes 
+through Crusader 
+Invite 
+
+
+
+Press release courtesy 
+of IPFW Athletics 
+Department 
+
+Valparaiso, IN -The IPFW 
+
+placed third out of seven 
+teams in the Valparaiso Cru- 
+sader Invitational, beating 
+out Western Michigan, UW- 
+Miwaukee, UW-Green Bay, 
+and St. Joseph's College. 
+
+Leading IPFW was senior 
+Ashley Ritchey (Leo, IN /Leo) 
+who finished fourth overall 
+with a time of 14:49. Fresh- 
+
+
+
+man Mary Ballinger (Ches- 
+terton, IN/Chesterton) ran 
+the 4K in 15:06, coming in 
+eighth. 
+
+The 'Dons will travel to 
+Terre Haute, IN on Friday, 
+September 15 to run in 
+the Indiana Intercollegiate 
+
+
+
+Men's Cross 
+Country Picks Up 
+the Pace 
+
+
+
+Press release courtesy 
+oflPFW Athletics 
+Department 
+
+
+
+Valparaiso, IN - Last Fri- 
+day, the IPFW men's cross 
+country team competed at 
+the Valparaiso University 
+Crusader Invitational 6K 
+placing fifth overall. 
+
+Notre Dame took top 
+team honors. The 'Dons 
+finished with 125 points, a 
+vast improvement over their 
+opener in Dayton where they 
+finished with 209. 
+
+Hunter Paris (Fort Wayne, 
+IN/Carroll) led the 'Dons for 
+the second week in a row, 
+coming in 11th with a time 
+of 19:43. Mike Ridenour 
+
+
+
+(Fort Wayne, lN/Northrop) 
+and Wes Kuhn (Fort Wayne, 
+IN/Leo) finished close be- 
+hind with times of 20:26 and 
+20:46, respectively. 
+
+Coach Fruchey 
+mented, "This was a much 
+better performance by the 
+men than last week's Day- 
+ton Meet. I think that 
+week's 8K distance will 
+ally favor our men and 
+prove their placing." 
+
+The me 
+try team will be traveling to 
+Terre Haute, IN on Friday, 
+September 15 to compete in 
+the Indiana Intercollegiate 
+
+
+
+
+</pre>        </div>
+      </div>
+    

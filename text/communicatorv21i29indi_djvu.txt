@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i29indi/communicatorv21i29indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i29indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i29indi">The Communicator</a>"
+          </h1>
+          <pre>Sweet Shoppe 
+offers SUVON 
+
+
+
+
+Editorials 
+
+Two ways to increase student involvement on campus are cited/Page 2 
+
+
+
+Photo essay 
+
+Earth Day events spotlighted/Page 3 
+
+
+
+Volleyball 
+
+Team loses to Ball State in tournament championship/Page 5 
+
+
+
+The Communicator 
+
+
+
+VOL. XXI, ISSUE 29 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Quote of the week 
+
+
+
+different form.' 
+
+
+
+Holly Helmke-Hatch 
+
+of women's studies 
+
+—Page 1 
+
+
+
+
+
+Campus Police investigate incident 
+
+
+
+t objective. We arc here I 
+
+
+
+Xpril g. the first sex-related crime reported on and a r 
+
+According to the IPFW police re- related reports l,,si yc:ir. hut none of who do 
+
+
+
+^0^ ND CA -^P^ HalT^rL^^^p^^viaim ZltaltHI 
+
+r—INFOGRAPHSn WE&amp;L~£ W£ 
+
+
+
+Final public lecture is tonight 
+
+A public lecture will be presented tonight at 7 p.m. as part of the 
+ongoing Earth Week activities. The lecture will take place in (.1,!&gt;s- 
+room Medical Room 159 and will feature a lecture by Robert Peters of 
+the World Wildlife Fund titled "Global Warming and the Implications 
+
+Maennerchor will perform 
+
+Maennerchor, a mixed choir nn.t.p. (nmorn^ rnj&gt;lu at H p.m. in Neff 
+
+Macaulay to speak on Friday 
+
+The IPFW School of Education and the IU Alumni Association will 
+present "A Lively Evening with David Macaulay," on FridJ\ .ii . m 
+p.m. in the Walb Memorial Union Ballroom. Macaulay is the author of 
+several books, including "The Way Things Work." 
+
+Study tables to be provided 
+
+Itural Services. All rooms are in Walb 
+vailable; on Tuesday Room 224 can be 
+
+• open, and on Friday. Room G21 will 
+
+
+
+Scholarships are available 
+
+; returned for these scholarships by Tuesday, 
+
+
+
+Office to sponsor program 
+
+Union Room G21. There is no charge to attend the program, but 
+
+Confluence needs artwork 
+
+
+
+English and linguistics, Classroom Medical Room 145. 
+
+Appointments will be made 
+
+Appointments to campus and university committees are now being 
+made by Students' Government. Any student thai wishes to !:■■ i-okm.-I- 
+ered for an appointment should contact Mark Snyder, student body 
+president, at 481-6588 or 482-3553. 
+
+Election Day workers sought 
+
+All Allen County registered voters are eligible to work in a precinct 
+on Election Day. which will be held on Tuesday, May 8. The jobs 
+
+No Paper Next Week 
+
+
+
+
+Bayh speaks at Earth Day 
+
+
+
+Faculty senate members 
+hold final meeting for year 
+
+
+
+Faculty has not had tl 
+
+
+
+Students' Government 
+
+Constitution articles 25! 
+draw senate criticism EH 
+
+
+
+protected than Purdue s 
+
+
+
+By WADE FROMHOLT 
+
+
+
+wording. These t.oinpl.imi. 
+
+
+
+Frazier feels strongly I 
+
+
+
+3 Hatch to leave IPFW 
+
+
+
+approximately 1 
+Flagstaff Most 
+
+
+
+
+
+
+d to appeal a partial 
+
+
+
+
+
+
+and friends and family 
+a real rapport that devel- 
+
+
+
+with clarity and Right no* h »d 
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Campus involvement is 
+just a phone call away 
+
+
+
+this campus is thai 
+have any input i; 
+making processes t 
+scholastic life here. 
+There are curren 
+dent positions 
+
+
+
+mportancc. to students, 
+ago, students who cared 
+lard to acquire these 
+
+y over 50 stu- rignts which are now _ readily 
+
+Lie on faculty available to us, 
+
+
+
+never filled. Many r 
+' name only. Some 
+The students who serv. _.. 
+committees have the same voting lions rarely i 
+rights as the faculty members that for meetings. 
+
+of life for others 
+
+
+
+Students 
+
+Kus committees, among prove the q 
+ings, help decide the types at IPFW through the 
+
+
+
+Sfi 
+
+whether or not smnkuiK 
+allowed on campus, h&lt;&gt;\ 
+
+to be 
+
+
+
+schools, 
+
+
+
+E£ 
+
+
+
+luate, but many om&lt; 
+IPFW, wishing f 
+
+
+
+■ thai they could m.il.r 
+
+
+
+
+Communicator staff seeks 
+talent to fill positions 
+
+
+
+There are also individuals 
+
+as Mark Snyder, who, as a student dividuals with excellent wrilinu 
+
+without an official title, had many skills and leadership abilities for 
+
+ideas to improve the campus that the positions of managi 
+
+' Unnoticed only un- news editor and copy editor. It also 
+
+til lie f ;ut involved. needs writers who are dedicated 
+
+
+
+Poling is back against condoms at IPFW 
+
+
+
+
+People should be living for now, not then 
+
+
+
+
+JJ2H BR1' Academic freedom 
+
+ESF Questioned Communicator article accurate 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+Earth Day events 
+discuss problems 
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+Looking for a fra- 
+ternity, sorority or 
+student organiza- 
+tion that would 
+like to make $500 
+$1,000 for a one 
+
+
+
+
+/^©smiL®^ 
+
+
+week oncampus 
+marketing project. 
+Must be organized 
+and hardworking. 
+Call Joe or Myra 
+at (8001 592-2121. 
+
+
+Help Wanted! 
+
+The Indiana Grille is now interviewing for: 
+
+bartenders and food servers. 
+Full and part-time positions available. Please 
+apply in person, Indiana Grille, across from the 
+
+Coliseum. 
+
+
+
+Burkhart describes Aztec's literature 
+
+
+
+Spanish version, an angel 
+
+
+
+As Christian Spanish re- icanlly 
+
+
+
+Burkhart, "because 
+
+
+
+Christ's crucifixion such a 
+
+
+
+JUST SIGN 
+FOR H.9%! 
+
+
+
+VmirlUCr.dil Unmn ki* niiidc mhiic urn |kii|hm'- then.' s never been a bet- 
+
+drnmat.it rhiintfes in 0111 nih;rniivfl l&gt;..in lee firm- 
+program thnl you are gome to enjoy! Your IU Credit Union loan officer can 
+
+I'iiscmin-.I -ij-n.iture loans will now take your application by phone, FAX 
+
+r.irrv an 1 1 "' I aiinii.d pen i-ntace int.-i iKVw^i, or at any of our convenient 
+
+!■-,! r.iir 1 Nnw !■■ tin' turn- to takeadvan- locations. 
+
+I i,;i.i&gt;I |1iimt\],mI (.ronarii flu'-.r Conl.iil vm.ii [I'fYnlit 1 'nam Imlnv 
+
+rates will be available for a limited time and say, "fd like to sign for 11.9!" 
+
+Take thai vaiatum viai've been dnv- ___ — am _ mm m 
+
+r^^zia^fr IU Credit Union 
+
+
+
+posed to persuade Mary a 
+
+'' ' "P read, then the angels lea-, 
+
+'''.■ '- &gt;' ou and Jesus and Mary disco 
+
+
+
+m 
+
+T 
+
+
+
+wiekly title "Light of Our 
+Salvation: On the Farewell 
+That Our Lord Jesus Christ 
+
+
+
+wright symbolic 
+
+were now part of the Chris- 
+
+
+
+Burkhart said the added 
+
+
+
+pl ay . was perhaps more realistic 
+
+
+
+cording to Burkhart. 
+
+"The Aztecs figured out 
+pretty quickly that the 
+
+
+
+come in from emphasis on suffering in lonial system rhe friar 
+e and mediate the the Nahuatl play stem- who worked in nativ 
+
+
+
+stated this dition of sacrifice, penitence 
+i translation and bloodJetting. 
+
+ciscans, who proselytized 
+
+
+
+archbishops, the Inquisition. 
+
+
+
+text) where you've sacrifice, but the similar ingtiielndi 
+
+igs being created out I need by Burkhart 
+
+ogue between sacred the two groups for distinctly the past &lt; 
+
+and it's part of a different purposes. bunked tl 
+
+ical process where 'In the Aztec point of acholarly 
+
+— ' spiritual c 
+
+
+
+; with the Christian gods through 
+
+
+
+• advantage of the sys- 
+
+
+
+Cash in your 
+books and play 
+
+
+
+JinA 
+
+
+
+• Get a gamecard for each book you sell. 
+
+• You could win a new car! 
+
+• 240,000 prizes in all! 
+
+• We Pay Top Prices 
+
+magnavox RofriMp 
+
+SmartVervsrnart: || ^ A 
+
+—Q/l*- FLYING DISC 
+
+as* 01 IsiB^^^grWs^B 
+
+Top Prices and Fast, Friendly Service 
+
+Roadtrip 
+
+USA 
+
+
+
+483-6100 
+
+
+
+Follett's 
+
+Bookstore 
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the kind of friend a 
+college student needs. He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like a good deal to you, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+Business as Usual. 
+
+aaar 
+
+thttimyBAHK 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+Volleydons fall to Ball State in MIVA tourney 
+
+
+
+
+Attention Graduates 
+
+
+
+d s 10% OFF l v TX* 
+
+Tables, Tents. Chairs &amp; Grills 
+
+MUTTON RENTAL 
+CENTER 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+LAB TECHNICIAN - 40 
+Mechanical engineering technol 
+ground. Will test prodi 
+
+
+
+lology back- 
+product engi- 
+
+
+
+MANUFACTURING SUPERVISOR - Hooting 
+shifts - 40 hours from May - August - Sopho 
+
+
+
+CUSTOMER SERVICE REPRESENTATIVE 
+receptionist duties - must like to work with 
+the public • Flexible hours - S5.35/hr. . 
+
+
+
+Hp 
+
+
+
+Come SOAR during 
+
+&gt;FW freshmen orientation 
+
+July 12, 13, 16-18 
+
+SOAR (Student Orientation And Registration) needs 20 IPFW students 
+to participate in planning and conducting freshmen orientation 
+
+
+
+
+
+
+
+INDIANA UNIVERSITY 
+PURDUE UNIVERSITY 
+FORT WAYNE 
+
+
+
+For more information, call the Office of the 
+
+Dean of Students at 481-6603. 
+To apply, come to suite 113 of Walb Union. 
+
+
+
+Sports 
+
+
+
+
+
+
+
+JUMP START 
+
+a life... learn 
+Red Cross CPR 
+
+
+
+
+S£?s 
+
+
+
+Softball 
+struggles 
+
+
+
+
+"He's selling everything but his PS/2. 
+It's going to be part of his future." 
+
+
+
+How're you going to do it? 
+
+The IBM Personal System/2® not only helps you now, but can get you otf 
+to a fast start in graduate school or on the job. The PS/2® comes with 
+easy-to-use, preloaded software, an IBM Mouse and color display. With 
+a special student price and the IBM PS/2 Loan for 
+Learning, it's very affordable* 
+
+You can also get special prices on three models of 
+the IBM Proprinter."' 
+
+But don't wait too long. Get a jump on the 
+future now with an IBM PS/2. 
+
+
+
+-* 
+
+
+
+PS/2 it! 
+
+
+
+For more information, call your 
+Collegiate Representative at 460-4260. 
+
+Contact Theresa Leal, Certified j '• 
+Education Specialist for delivery ** 
+of equipment. 483-8107 
+
+ComputerLand 
+
+
+
+
+</pre>        </div>
+      </div>
+    

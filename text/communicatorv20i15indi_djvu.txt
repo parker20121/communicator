@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i15indi/communicatorv20i15indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i15indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i15indi">The Communicator</a>"
+          </h1>
+          <pre>Extinguisher 
+found missing 
+
+
+
+
+Fort Wayne Future 
+
+Report discusses IPFW issues/Page 2 
+
+
+
+Women's volleyball 
+
+Sheehan replaces Ball as coach/Page 6 
+
+
+
+Letter to the editor 
+
+Naming a building for Ulmer praised/Page 2 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 15 
+
+
+
+rduc University at Fort Wa 
+
+
+
+January 12, 1989 
+
+
+
+Quote of the week 
+
+
+
+"I feel vindicated. I always knew I was 
+competent and all 1 needed was a chance to 
+prove it. I would like to thank President 
+Ehrlich for giving me that chance." 
+
+—Pat Ashton 
+
+—assistant professor 
+
+— of sociology 
+
+—Page 1 
+
+
+
+Fort Wayne Future 
+
+
+
+IPFW needs funding, housing 
+
+
+
+Aft-lk-no:' 'a.i- iNMU'd hv Fori 27-m 
+
+iV.iu.r I us Lire, Dec. 23. repn 
+
+li- ■■.icf M. ,,[,!,. |,n-M.!nil nt Fori III.; 
+
+i .-■ i:.-l, Ui.ti issued the thai 
+
+■.■|)..tl. s:iiil Fn.l.iv (lie t.r.k Inrcf hiui' 
+
+
+
+■luded Quoting primarily from the Stra 
+
+.NIC !..■!, I'l-m .■].,&gt;(, \\'\-\\ .■■■.lied (iunni 
+
+
+
+'^"l.«" "l- .'.ll.'.'r-"!,', " 
+
+
+
+-INFOGRAPHS- 
+
+V ^OUT TO^ 
+
+Parent contact forms offered 
+
+s offering Parent Emergency Contact Forms. 
+
+nion. Room G25. 
+
+any student, staff or faculty parent. 
+The Single Parent Student's group will hold a Beach Party Potluck 
+)n Thursday. Jan. 26. from 6 to 8 p.m. in the Women's Center. Guests 
+ire asked to bring beach blankets and shades. Reservations must be 
+mde by Tuesday, Jan. 24. 
+
+
+
+Well Power classes to start 
+
+
+
+&gt; applications for its spring program. Well Power i 
+
+
+
+Wednesday, Jan. 18, or Monday, Jan. 
+
+
+
+Communicator seeks editor 
+
+
+
+■. The features editor ■■'■ 'M '--- . 
+
+
+
+Caricatures to be sketched 
+
+
+
+Tibetan monks to perform 
+
+
+
+; 'repiiiii; oi»im-.I.t&gt; flu. [.,._■ i h.rm.oni .■. ill l.iice ,■!.„&lt;■ Friday, Jan. 20, 
+in N't-ff [kill, Room 101. The seminar and the performance are open to 
+
+Hypnotist to appear tonight 
+
+Jim Wand, a hypnotist, will appear tonight at 8 p.m. m NrN Hall 
+Room 101. Admission is $1 for students with valid student ID., general 
+
+Sweet Shoppe The event is sponsored by the Student Activities Board. 
+
+Softball team practice 
+
+
+
+Thursday, Jan. 19, 
+Lady 'Dons are in n 
+Coach Dale Van Hoi 
+
+
+
+
+
+
+ISO to discuss new plans 
+
+The. lniri-o.onxi.il Mo.lcni- organization is holding a general 
+
+
+
+„ i.-| .!■- 
+
+
+
+funding and praised tl 
+
+
+
+
+
+
+.I'PI U..,klIU: &lt;&gt;ll 'I'" II 
+
+a »i) to improve m £e . 
+
+
+
+Pat Ashton 
+
+Sociology professor wins tenure in appeal 
+
+
+
+
+Students interested in manufacturing join club 
+
+'he mooui.o luring held, Bangladore Lingaraj. professor o 
+
+
+
+By DEB! TAYLOR Production and Inventory Control 
+
+Start Writer Soc.ely is o-imo.r ai IPM\ I he , 
+
+student chapter is sponsored by the 
+
+lent chapter of the American society's Fort Wayne chapter and is 
+
+
+
+
+Hie Miur.--tu] 
+
+
+
+'"kilMn S lhe' e Fort Wayne a s^/ma jo riS^n personnel, is 
+
+
+
+•:z ,""",:;;' 
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Fort Wayne Future 
+
+Report of city's views 
+encouraging for IPFW 
+
+
+
+IPFW i 
+
+ture offers ver\ hllie 
+this university Unlike t 
+&amp; Lybrand 
+February, the n 
+and startling 
+" IPFV 
+
+statistics quoted in the report « 
+without reading the footnotes. 
+But the report is extremely 
+
+
+
+s a good discussion i 
+facing IPFW. Anyone 
+
+
+
+But more important is that the 
+report symbolizes greater aware- 
+
+
+
+IPFW on the part i 
+nity. For example this is the first 
+time Fori Wayne Future has stud- 
+ied IPFW It seems strange that an 
+organization with the primary 
+purpose of finding ways to help the 
+city progress " 
+ter of a centui 
+
+
+
+f dormitories. 
+As the report eloquently 
+dorms build a better campus en- 
+vironment by creating a nucleus 
+for student life. 
+
+But neither university president 
+endorses dorms. Purdue Presid 
+Steven Beering says dorms 
+unnecessary because * 
+would live in them. I.U. President 
+Tom Ehrlich says dorms are im- 
+
+the system deserve higher priority. 
+The example he always uses is li- 
+braries (Last fall, I u\ -South Bend 
+Perhaps IPFW 
+
+
+
+WO W G0t/N([ CAU 9 . 
+
+
+
+
+e past. IPFW has relied on 
+
+
+
+In the p. 
+
+legislature to ge i.n ,■- nn ih&lt; 
+
+IFl-'W campus Clearly that strat- 
+egy is ii"l guiriR to work with dor 
+iinti.i ics This report indicates that 
+s&lt;«i i ni i ui ii I v support may be be- 
+coming a viable alternative to 
+relying on West Lafayette and 
+Bloomington. 
+
+One negative point is that the 
+task force relied too heavih on the 
+community leaders and too little on 
+IPFW leaders. For example the 
+report goes into detail about how 
+
+
+
+Today, 
+
+IPFW I 
+International J 
+
+
+
+International students 
+two reasons. First, international 
+students bring a perspective IPFW 
+students would not otherwise en- 
+counter. In an age 
+world interdependent 
+tremely important. 
+
+
+
+Letter to the Editor 
+
+More support for renaming building after dean 
+
+
+
+complaint 
+
+in ii,!iiun;il 
+
+
+
+difficult. This provides a counter- 
+point to Beering's contention that 
+few students would live in dorms. 
+
+Still the report is significant. 
+More than anything else it means 
+the Fort Wayne community is be- 
+ginning to care about IPFW. 
+
+
+
+
+then some" if The '■ , - &lt;\&gt;,:i ■■■■■■,■ university. "philanthropist" is also 
+nunicalor hadn't. The Many students like myself supposed to mean some- 
+lings named after ■ I il pistb get buildings 
+mainly by donating A scholarship iund m r„- n.imed for them, than Jack 
+sums of money to name has been planned, should get his pick of build- 
+rsities, then named with (his in mind, but I ings. He'd probably pick the 
+
+
+
+Guidelines necessary 
+in selecting chancellor 
+
+
+
+Clearly one of the mosl 
+goals to accomplish fo 
+
+chancellor But before t 
+begins, another search s 
+That second i 
+
+
+
+iportant Joanne Lantz, intei 
+
+he new has been with IPFW almost as 
+
+a new as there has been an IPFW 
+
+search sharp contrast to Wallace 
+
+
+
+encountered no proo- 
+dministration 
+
+
+
+find a clear definition of what an West Lafayette or the faculty 
+IPFW chancellor is supposed to be. Fort Wayne. Her honeymoon now 
+
+IPFW chancellors have short enters its sixth month, 
+tenures; the last permanent Answering the question of what 
+chancellor lasted only two years, role an IPFW chancellor should 
+M ■■■;■■ administrative in- play answers another question: 
+
+-Lihihi\ hurts IPFW. The Coopers how wide should the search be? A 
+released last nationwide search, such as the ones 
+been held for vice 
+r or student affairs and 
+rommunity that ultimately for vice chancellor for academic 
+&gt; fundraising efforts. The Fort affairs, would produce a wider pool 
+e Future study released in of candidates than would a more 
+■ questions limited search. These candidates 
+bring with the 
+system wide 
+
+
+
+February, 
+
+
+
+Jdy, released last 
+
+
+
+whims of outside forces? 
+
+Tom Wallace, the las 
+
+chancellor, appears to 
+
+
+
+i the political framework of the 
+the IPFW chancellor has free 
+; chancel- 
+
+
+
+
+Campus 
+
+Calendar 
+
+
+
+
+
+Cultural Exchange Open 
+House. Walb Ballroom, 
+
+
+
+2&gt; 
+
+
+
+The Communicator 
+
+
+
+Starting this semester 
+
+Zenith Data Systems 
+
+introduces 
+a course everyone's taking... 
+
+
+
+data 
+systems 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+
+of Pizza" 
+
+DAILY LUNCH 
+SPECIALS 
+
+"The Shoppes" 
+Location Only 
+
+•i 50 off 
+
+Any Pizza Purchase 
+
+
+
+482-9691 
+
+
+
+4A 
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+
+
+hitthe*wnn-soutH 
+kitti c«* l 
+
+
+
+
+Music 
+
+
+■ :■ 
+
+
+The Fort Wayne Phil- 
+Martin Luther Kmp .li . in 
+
+
+in.iiuI Serwce nn Munir. 
+
+
+lii-l-t ;jt the Plymouth Con- 
+
+
+
+
+
+
+
+
+
+
+. M • .,1 
+pn.urlc an opportunity for 
+
+
+
+
+
+
+
+
+
+
+'■I.inroh, ['ortniit," Stephen 
+
+
+birthday. oao 
+
+
+
+
+Choral Fantasy Show 
+
+
+Film l 
+
+
+Stoyfja^raTa"^ 
+
+
+The Cinema Center will 
+
+
+
+
+Starring award 9 1) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Misc 
+
+
+wtSebec^STnvol^d 
+
+
+The Associated Cliur. hr&gt; 
+
+
+
+E. Main St. classic e 
+
+
+
+graphs reflecting seem d 
+
+pi.--l-w.ir American Life 
+portrayed in Hollywood 
+
+
+
+CONCERNS? 
+PERSONAL 
+PROBLEMS? 
+
+
+
+
+Please call 481-6601 for an appointment. 
+
+
+
+Problem Corner 
+
+
+
+solutions will tie 
+
+
+
+nthony La! Meng 
+&gt; was solved by M. 
+
+
+
+ark Harber and Edward Granzella. 
+
+
+
+
+AT A JOB INTERVIEW. YOU GET 
+ABOUT 20 MINUTES TO COMMUNICATE 
+THAT YOU'RE WELL-EDUCATED, BRIGHT 
+HONEST AFFABLE, MATURE, DISCERNING, 
+
+AND EAGER TO GET STARTED. 
+
+
+
+
+l-'i )R'I UNATE1.Y. YOU CAN SAY MOST OF IT 
+BEFORE YOU EVEN OPEN YOUR MOUTH. 
+
+RertaootUftoss. 
+
+Only our service is old-fashioned 
+
+
+
+START YOUR 
+
+FIRST DAY 
+
+WITH YEARS OF 
+
+EXPERIENCE 
+
+BEHIND YOU. 
+
+■jfrtgr^. BSN B , , ; i n ,f 1 &gt;"" r 
+c? A "?,V ,rKl 
+
+
+
+The Communicator 
+
+
+
+...Accelerated 
+
+Enter college going in the right direction with one of the new computers from Zenith 
+
+
+
+
+
+_al 
+
+
+
+
+M Smn J 
+
+
+B t's a brand new course. Zenith announces a smooth Bn 
+B road ahead in college with new personal computers KK 
+
+^available for fall 1968. EH 
+Just off the fast track, these sleek, small and III 
+
+sophisticated rollers are built with the college student in jlBl 
+
+
+
+
+One look t 
+
+
+
+id the future professional tomorrow. 
+; syllabus and you'll see why this new 
+r. The Bemester starts off in high gear 
+e new road scholars: the Zenith 
+Super Sports &amp; LIMITED EDITION Super Sport. 
+
+These rugged on-road, off-road portables really show 
+their stuff even under the worst driving conditions. And 
+without being gaB guzzlers. With "intelligent power 
+management", power is rationed to subsystems for 
+maximum battery operation. Giving you great mileage. 
+
+Whether you choose the LIMITED EDITION model 
+with an internal 1200 baud modem or the Super Sport 
+with RAM option of 1.64MB with EMS, even the moat 
+advanced course is clocked in record time. 
+
+Setting the curve in ita clans is the new Zenith Z-286 
+desktop PC. This high speed racer runs at 8MHz with 
+zero wait states, is AT compatible and can move up to MS 
+OS/2 technology in the future. And talk about roomy. The 
+Z-286 comes complete with 1MB RAM with expanded leg 
+room capabilities - to 6MB - without using an expansion 
+slot. Plus a single 3.5" 1 ,44MB media sensing floppy drive 
+lets you "read and write" 720K disks. 
+
+It's an accelerated course. The new class of computers 
+from Zenith put you on the fast track in college and get 
+you going in the right direction. 
+
+
+
+SPEED 
+LIMIT 
+Mb 
+
+
+
+(high-speed zone)| 
+
+
+
+•80C88 8-4.77MHz 
+•640KRAM 
+
+• Internal 1200 baud ir 
+
+• 10.5" diagonal LCD 
+
+• Serial port 
+
+• Parallel port 
+
+
+
+• Model ZWL-184-HR 
+
+1 720K floppy drive 
+1 20mg hard disk 
+
+$1799 
+
+
+
+Limited Edition 
+Portable Computer 
+
+
+
+gzm 
+
+
+
+Z-286 LP 
+
+Personal Computer 
+System 
+
+
+
+•8MHz,0 wait states 
+
+
+
+6MB on system board 
+• 1 1.4MB 3.5" floppy drive 
+•40MB hard disk 
+* 2 serial ports 
+j ffl $^?M5^% -1 parallel port 
+
+Ww IP -101 key keyboard 
+
+•MS-DOS' included 
+
+
+
+•Amberorwhite -ZVM 1390 color -F.T.M. 
+pagemonitor monitor monito 
+
+$2299 $2499 $259 
+
+
+
+If UP-GRADE 
+
+
+
+Portable Computer 
+
+
+
+Same as the Super Sport LIMITED 
+EDITION model e 
+
+
+
+RAM option 1.64MB with EMS 
+Numeric keypad port 
+
+
+
+
+£.-"m 
+
+
+
+Dual floppy 
+$1299 
+
+
+
+$1999 
+
+
+
+For more information about Zenith's full range of computers from the 8088 desktops, 286 desktops &amp; portables, 386 desktops &amp; portables contact: 
+
+
+
+Linda Patten Sue Carleton 
+
+Kettler G64 
+481-6800 
+
+
+
+Sports 
+
+
+
+Women's volleyball 
+
+'Cheeks' Sheehan replaces Ball 
+
+
+
+
+DON'T PAY 1C FOR YOUR 
+
+KAPLAN COURSE. YOURS 
+
+CAN BE FREE! REALLY. 
+
+CMAT, LSAT, MCAT, NCLEX, 
+GRE, BAR REVIEW 4 more. 
+
+KAPLAN. THE WORLD'S 
+
+LEADER IN TEST PREP. 
+
+CALL FOR INFORMATION NOW! 
+
+Kaplan Educational Center 
+5060 E. 62nd St., #122 
+Hawthorn Plaza 
+Indianapolis, IN 46250 
+
+PHONE 117/251-3910 
+
+
+
+PART TIME TELLER: Mon.-Fri. 3:00-8:00 p.m 
+Mon , Tues., Wed., Fri 2:00-8.00 p.m. N 
+good moth aptitude. S5.00/hr. Job Number: 
+
+
+
+GROUNDS PERSON 7:30-11 30 o m , full lime 
+
+etc. S4.25/hr. lo start. Job Number l-l-G-2 
+
+IF YOU ARE AN IPFW STUDENT LOOKING 
+FOR A PART TIME JOB, COME IN AND SEE 
+US. WE HAVE MANY POSITIONS LISTED IN 
+OUR BOOKS. 
+
+
+
+f 
+
+
+
+Playground sports come of age 
+
+
+
+
+Friday &amp; Saturday 
+
+
+
+taking your aggressio 
+frustration out on e 
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Men I he OWL Just I he kind of friend a 
+college student needs. He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or nighl. and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+.•muds like ,1 uond deal to vou, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall And get your free OWL 
+card at any office ol Fort Wavne National 
+Bank. Where helping out our Mends is just 
+
+
+
+bu-.lli-.---. ,i 
+
+
+
+FORTWAYNE 
+NATIONAL 
+t/uts my BANK 
+
+
+
+' N SPORTS - /9 
+COLLECTIBLES 
+
+
+
+Work One 
+
+Weekend 
+
+A Month 
+
+And Earn 
+
+$18,000 
+
+For College, 
+
+
+
+Give your hometown Army Guard one 
+weekend a month and you'll get $11,000 or 
+more in paychecks, plus a cash bonus of up 
+to $2,000 as soon as you finish Advanced 
+Individual Training. 
+
+Then, under the New GI Bill, you can 
+get another $5,000 for tuition and books. 
+
+And if you have college loans, the 
+Guard will help vou pay them o" 
+with up to $1,500 extra per year 
+
+To find out more, call 
+your local recruiter. 
+
+
+
+Army National Guard 
+
+
+
+CALL WALTER WALL 
+(219) 424-2764 
+
+
+
+Fencers host tourney 
+
+By JAISON LAKER the six-hour event. The 
+
+VI, 101 I". W.J l.'H-. '. It!' 
+
+ie Fencing Club hosted who has competed for 
+first IPFW Open the Indiana University 
+itationa] Fencing Fencing Team in 
+Bloomington. 
+
+by judging and directing 
+bouts as well as scoring. 
+
+interested students and 
+
+
+
+"1'lK- i-Vm.mo Club b 
+he fii-sl - " 
+
+Eight fencers shared the by judging and din 
+
+
+
+Candlelite Reception Hall 
+
+
+
+Wedding Receptions, 
+Reunions, and other 
+Special Occasions 
+
+• Seats 350 
+• Air Conditioned 
+2415 Shoaff Road 
+Mary Beeler, Manager 
+
+
+
+
+MUFFLERS • EXHAUST • CUSTOM BENDING 
+BRAKES • SHOCKS • STRUTS • COIL SPRINGS 
+
+FAIR'S NOT JUST A NAME ITS OUR WAY OF DOING BUSINESS 
+LOCATIONS TO SERVE VOU 1515 Coliseum 
+
+422-4703 
+4411 Lima Rd. 
+
+482-3618 
+
+
+
+m 
+
+
+
+MUFFLER 
+SHOPS 
+
+
+
+'5.00 OFF 
+
+ANY PURCHASE OF 
+
+'20 TO '80 
+
+
+
+4832 S. Calhoun 
+m 74£0303 m 
+
+
+
+FREE 
+
+BRAKE &amp; EXHAUST 
+
+INSPECTION NO 
+
+OBLIGATION! 
+
+
+
+</pre>        </div>
+      </div>
+    

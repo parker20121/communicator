@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv9i29indi/communicatorv9i29indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv9i29indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv9i29indi">The Communicator</a>"
+          </h1>
+          <pre>ME 
+
+Atm 
+
+
+
+mu» 
+
+
+
+™ COMMUNICATOR 
+
+
+
+FINAL SPRING 
+SEMESTER ISSUE 
+
+
+
+VOLUME IX ISSUE 29 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY 
+
+
+
+Borkowski and Anderson feel Fort Wayne 
+community a valuable resource to IPFW 
+
+
+
+Francis Borkowski and 
+
+
+
+iupport evolution toward 
+
+
+
+~U; 
+
+
+
+
+
+
+IPFW "The duty o 
+
+
+
+engineering at IPFW. 
+
+
+
+&gt; gain support from b 
+
+
+
+
+IPFW has an Concerning [ 
+
+
+
+
+
+
+■ IPFW f 
+
+
+
+professor. Although he said h 
+
+
+
+iased on ability, regardless of need. concerning t 
+
+I I I !! 
+
+iiv-liS". Jiid Hie ti.mu.." Borkowski &gt;jid |j &gt;hci^..f :Sl 
+
+inderson would ultimately like to see style would 
+
+
+
+Borkowski said the board ■ 
+
+
+
+i faculty opinions Another program Bo 
+
+indirect role in more outside speaker; 
+
+
+
+5- Senate adds $1,600 to music budget 
+
+major in Women's Studies. 
+
+ledidnot kriOW What a major |U IIICIUII lllllll nmlilflrfinHlhiisnnl uluihlp "UfoYnnnt In hiirtont r- nmma n.f- rt „!_&gt;... .k„ .... 
+
+
+
+i three-prong thrust 
+
+definition with IU President Ryan and PU 
+President Hansen concerning the nature 
+MirliiMiim'LTMiy (I. ,■, ^piamM ih;i! the 
+
+n nere. ror instance, me Doara couid two presidents wdl try to take back some 
+
+e budget directly to the legislature power during the transition period, "If 
+
+of through Purdue, our fiscal agent, Ryan and Hansen don't want this (uni- 
+
+e long range future. Borkowski sees versity &gt; to become a good university then 
+
+as having a potential for national Idon't want it: " 
+
+ce, with high quality programs from stayasdean.I 
+
+
+
+
+
+
+said he would take i 
+
+
+
+' 'y r ; ' "-' " »"■""■' " ! ■■■"■ !-.'i.',i.' ■„ .■. Hi ■!.;,. „■-.:., jdriiii,. ,,., DivisionofMuiicistoeducate Ludenta, not The 
+
+
+
+Four outside candidates to be interviewed « A T _ . ~ . 
+
+gical education pnofessar of history at the University of ^ AL 1 agrCCmCnt nCar WHCU hOVlCtS S1ZC UD 
+
+ich he was sole Wisconsin (Superior). 
+
+^Z^JLZZ iSJ^J^SiSS anc * decide how to deal with Carter 
+
+'" " rre " t ' y Z ofesser 0f Kdr) " ' ""' l| " ' ' ' lii ^Encyclo- 
+
+
+
+mineralogy, five 
+George Rapp, Robert H, Maier, 
+
+
+
+urrently dean of the College of May ■ 
+
+f (Du i uth) ,, . . "■ Edition* and School -an? Society 
+
+. hilds in John Snyder, scheduled for in 
+
+d iiir interviews are: Robert H. various periodica. ('em oi ivhich he was May II and 12 is currently pro! 
+
+( ! niv«.TSit&gt; ■■' Wi^-on-m (Green sole writer and nine articles on higher hiaton il 
+
+
+
+Trie recent Strategi. 
+Talks (SALT) are one ol 
+
+
+
+Othe I'lMIITNlni' III.' IIII K-3-.UI,: 
+
+Kissinger as "Specifically, a SALT agre 
+
+
+
+Texts", "Alexander the Great" 
+
+
+
+ogy and geology; 17 articles &lt; 
+
+
+
+INTERVIEW SCHEDULE 
+
+ROBERT H. MAIER May 4 and 5 
+
+
+
+KARL W. MEYER May 9 and 10 
+
+
+
+e policy when applied to the Soviet determined by 
+i Kissinger was the Secretary of development o 
+
+
+
+The second reason Smulkstys cited fi 
+
+
+
+Sand USSR reaching an a 
+
+
+
+appeared to depend Lualv* 
+
+
+
+Open Meeting (anyone) 
+
+
+
+.-._:];, irr.&lt;:l-..-..l i.n Iv- [j.-Isl-;, rr^ o i : i r i .-_■ :-r,,uli ij, , 
+
+
+
+
+
+
+JOHN W. SNYDER May 11 and 12 
+
+
+
+t, they perceived the Carter i 
+
+
+
+
+
+
+Smulkstys tration initially a: 
+
+
+
+PAGE 2 THE COMMUNICATOR 5/4/78 
+
+
+
+Wrong time for search 
+and screen hearings 
+
+
+
+Neighborhoods at long last get federal attention 
+
+
+
+Although there probably is no perfect 
+ne for search and screen hearing the 
+
+mi week of cKism?s and exam week is low 
+
+
+
+could rely on their board of trusses, the 
+governor and the lee.1M.1iNi . n. \,,l&lt;- e 
+
+■ .u:.pu- eluef In-uevei . Ihis i&gt; no! the ease 
+..Mill Iniiuru-Punlue. Vnfi Wayne The life, 
+I hf reputation, Ihe eharaeler and I he 
+quality oi this university rests with its 
+:..:eult\ jdmiinsli-.ilors. and students ;is 
+Mining ol Lolirse. thai president Hy;iir." 
+,ikI prr-.nli'nl M.iivm'hs' interests In: with 
+the main campuses. 
+
+It seems clear that Hvan and Hansen 
+want a general manager at this ennipus 
+rather than a chancellor One of their 
+primary 
+
+
+
+
+■ 1 1 uh iniol eli, ini;es lie aei omplished thai, 
+
+„.., , ;l oservraEs|^S letter to the Editor 
+
+^sS^sS^Z Music Division budget cut irks student 
+
+
+
+
+ELVIS COSTELLO AND NICK LOWE 
+
+AT THE 
+CIRCLE THEATRE INDIANAPOLIS 
+
+
+
+
+
+
+
+IS NOW OPEN IN K-MART PLAZA| 
+NORTH OVER TWENTY WATER 
+BEDS ON DISPLAY 
+
+
+
+AND SEE TIM AT KARMA 
+YOUR ELVIS CONNIPTION! 
+
+
+
+
+5/4/78 THE COMMUNICATOR PAGE J 
+
+
+
+campus 
+calendar 
+
+
+
+theatre 6:00 pm, Goegleines 
+Dept. , colloquium 
+
+
+
+Recital, Double Bass, Neff 101 
+
+
+
+Electrical Engineering Technology Alumni 
+
+Reception, Walb 224, 7:30 pn 
+Oklahoma, PIT Theatre, 8 rm 
+
+
+
+SATURDAY 6 
+
+Oklahoma, PIT Theatre, 8 pm 
+Mental Health Technology Brunch, 9:45 am 
+Walb 224 
+
+
+
+SATURDAY 13 
+
+Adult Education Demonstration ' 
+
+Nursing Alumni Luncheon, 11 am 
+
+Kinline, RN guest speaker 
+Foreign Language Placement Exai 
+Library closed 
+
+Semester ends after last class 
+Road Rally, Walb Parking lot, ! 
+
+
+
+SUNDAY 14 
+
+Indiana-Purdue Repoi 
+cation, WANE-JW, 
+Citizens Cable at 
+
+Library Closed 
+
+
+
+:30 pm. Memorial Coliseum 
+
+
+
+Session Registration begi 
+
+
+
+15, 6:30 am, and on Citizens 
+
+
+
+MONDAY 8 
+
+Cap and Gown Distribution, Walb 229 
+
+Last week of classes 
+
+
+
+Cap and Gown Distribution, Walb 229 
+
+
+
+FACULTY NOTES 
+
+
+
+Dr. Sheldon F. Gottlieb , Biological Sciences Department, wrote tl 
+chapter, "Oxygen Under Pressure and Microorganisms'' in the book 
+Hyperbaric Oxygen Therapy , edited by J. C. Davis and T. K. Hunt, 
+and published by the Undersea Medical Society, Inc., 
+
+
+
+Dr. Jack A. Sunderman , currently is teaching G100, G416 Economic 
+Geology, G334 Stratigraphy and Sedimentology, and related courses. 
+This past spring he held a seminar on clay mineralogy and plans to 
+hold a seminar on the geology of Indiana during the coming academic 
+year. He also plans to teach a course in Quaternary geology next 
+
+
+
+Field work and field trips continue to be a major part of Dr. Sunde 
+man's research and teaching. This past summer Dr. Sunderman taught i 
+field course in the Upper Peninsula of Michigan for the Geology 
+Department of Western Michigan University and plans to add some of 
+
+
+
+
+
+
+a week-long field trip associated with the Stratigraphy course. This 
+past fall fifty-seven G100 students and T.A.'s negotiated Salamander 
+Cave and studied other geological phenomena under Dr. Sunderman' s 
+direction, and the Economic Geology class studied limestone, coal, gypsu 
+and fluorspar deposits and processing methods in southern Indiana, 
+southern Illinois, and Kentucky. This spring his G420 Regional Geology 
+class will hike into the depths of the Grand Canyon, studying one of the 
+most outstanding geological exposures in the world, with half the group 
+hiking down the south rim and up the north rim, and the other half work- 
+ing frcm the north rim to the south r' 
+plan to make the trip. 
+
+
+
+Gain valuable experience and training in 
+news and feature writing by working on 
+THE COMMUNICATOR... and ... EARN 
+COLLEGE CREDIT 'During the 1978 Fall 
+semester the Department of English and 
+Linguistics will offer three hours of credit 
+for practical work experience on THE 
+COMMUNICATOR combined with 
+profeuional training in journalistic writing. 
+
+Ifyoure interested in developing writing 
+skills through profeuional training and\ 
+practical experience contact John Logan j 
+or Mike Behr at THE COMMUNICATOR 
+office, Rm. 215 Walb Memorial Union, or 
+fill out the following coupon and drop it in 
+the maiL 
+
+lam interested in earning~3 hours of college 
+credit by working on 
+THE COMMUNICATOR 
+
+Name Phone 
+
+Address Class 
+
+
+
+The Wooded Lot Hair Shop 
+
+Featuring Unue 
+
+
+
+
+2441 Sandpoint Rd. 
+
+
+
+HWXKE 
+
+Iff- 
+
+
+
+104 ROCK 
+
+24 HOUR LIVE 
+STEREO ADULT 
+ORIENTED ROCK 
+
+
+
+EUROPEAN 
+
+DANCING 
+
+DISCOTHEQUE 
+
+COCKTAIL LOUNGE 
+
+
+
+484-5102 
+
+
+
+RENT-A-BAY 
+
+p..-,,.,,.* TIRE REPAIR n„ v.„o. 
+
+13.00 p.r hour Thlngasav, 
+
+"Bar* LUBRICATION 
+
+• MINOR REPAIRS 
+'&lt;£££» •TUNE UP 
+• OR! CHANGES 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+3301 Crescent Avenue • 483-9643 
+Rental bay open 7 daye/wk 7 AM-9 PM 
+
+
+
+5/4/78 THE COMMUNICATOR PAGE S 
+
+
+
+National Student Exchange: 
+an educational alternative 
+
+By DAVID D.DOHERTY tuition and fees." 
+
+
+
+DGTS aludenu win 
+marketing awards 
+
+DGTS: 
+
+
+
+
+
+J 
+
+
+
+Ql MOUNTAIN 
+
+BEEP SEAFOOD SPIRITS 
+
+Since our inception in 1969, it has been the 
+philosophy of MOUNTAIN JACKS that students 
+make outstanding employees. 
+
+Our Company, Continental Restaurant Systems, 
+is presently expanding throughout the United 
+States. Locally, we will employ 160 to 170 people 
+both full and part time, day or night. 
+
+We are interviewing for: 
+
+GOOD PAY! 
+
+paid vacations Food Waiters &amp; Waitresses 
+health insurance Cocktail waitresses FULL TIME &amp; 
+
+FLEXIBLE HOURS 
+FREE MEALS HostCSSCS PART-TIME 
+
+Busboys/Busgirls 
+Dishwashers 
+. uC*' S Cashiers \, ^fify , 
+
+uO^^A Bartenders «^ ¥*&lt;£&gt;» 
+
+lu cr^ e ] Food Pre P ** s* % 
+
+Maintenance Men Qe - 
+
+Management Trainees 
+
+MOUNTAIN JACK'S RESTAURANT 
+
+US 30 and Parnell Fort Wayne, Indiana 
+
+^_________________ An Equal Opportunity Employer M/F 
+
+
+
+PAGE 6 THE COMMUNICATOR 5/4/78 
+
+
+
+9 Unlimited Opportunity ■ Management Potential B 
+
+
+Large national corporation needs D 
+representatives in Fort Wayne, Muncie and north j 
+1 eastern Indiana territory. ! 
+
+
+• No overnight travel. Excellent training i 
+
+program. | 
+
+• Native of the area. • Superb benefit plan. H 
+
+
+Business degree or work Send resume to i 
+
+experience helpful, but not j | vey H 
+
+necessary. 3 year salary Box 2225 [ 
+
+I plus commission to start. p or ( Wayne, In g 
+
+
+An equal opportunity employer, M/F. 46802 fl 
+
+
+
+Best bets for summer reading include 'Night shift' 
+
+
+
+Kalki - Gore Vidal, 
+
+
+
+*rrying the plague, starling point &lt; 
+
+
+
+1 by Ed Rosenthal and Ed totally real circle o 
+
+
+
+Fhe World According To Gafp - 
+Perplexing and exciting, this 
+
+
+
+- David Viseott. M.[ 
+
+
+
+SENIORS 
+
+TO EFFECTIVELY 
+
+COMPETE IN TODAY'S 
+
+TIGHT JOB MARKET, A 
+
+PROFESSIONAL RESUME 
+
+ISA 
+
+NECESSITY 
+
+LET US HELP YOU 
+
+COMPOSE &amp; PRINT 
+
+YOUR RESUME- 
+
+
+
+I Mil, U.S. 24 and fietz Rd. 
+
+
+
+, as demonstrated their won 
+
+
+
+Jipes outside die tower 
+
+
+
+Getting Strong: A Woman's 
+Guide To Realizing Her Physical 
+
+Polenllul Kothryn Lance, Boba - 
+
+
+
+■nduranee, Period.' 
+
+
+
+kill gooka. bro 
+isn'l all true of pat 
+
+
+
+
+
+The author of Hie famous 
+
+
+HELP! 
+
+
+"Wolhcrshlp Down" |5 back 
+
+
+Academic Research- 
+
+
+Wanted 
+
+
+All fields. Professional 
+
+
+Men or women to give Christian Book and Gift 
+
+
+writing &amp; editing. 
+
+
+Parties. Set your own hours, make a good commis- 
+
+
+Send 82 for listing of 
+
+
+sion, management opportunities, enjoy working. 
+
+
+over 7,000 topics. 
+
+
+Enterprises Inc. 6105 Upper Huntington Rd. Fort 
+
+
+Authors' Research, 
+
+
+Wayne. Ind. 46804 
+
+
+Suite 600, Dept. A, 
+
+
+
+
+407 S. Dearborn St, 
+
+
+
+
+Chicago HI. 60605. 
+
+
+
+
+(312) 922-0300. 
+
+
+
+, ANYWHERE, for a pic- 
+
+
+
+■ ..mpl.-MiiL"; of Heir. The war 
+people ('that was UGLY) but for 
+
+
+
+limi'l-- 1 Ik- II 1 &lt;- 1 &gt; Ir.mr v.llh &lt;■ 
+
+
+
+SSSS3 Good music here: Good music coming 
+
+
+
+
+The title of Genesis' latest earlier album, 'The Lamb Lies great 
+
+tlbum. "And Then There Were Down on Broadway" when Gab- way. 
+
+rhree", Is not just a playful rid and Hackett were still with Wai 
+
+leading. Just as the English Genesis. This latest album, how- Boy" 
+
+
+
+ellstener persuasively, calmly, "Double Fun" from 
+
+
+
+t lyrics. Reed on "Street 
+
+
+
+ling of Reggae 
+
+Wayne, and no one plays 
+
+
+
+filled with the pain and trials of a 
+:ction of fluid blues hard life. 
+
+The Band got together with Just 
+Rythm Section's latest, about every talented artist you 
+
+hft^nele 'Imaoinary set " The Last Waltz "' . a 8 reflt 
+Fort albums by Hubert Laws, "Say It 
+
+
+
+hauntingly better than Bob Marley fend the Flora Purim's "That's What She 
+
+
+
+'And Then There Were Three' 
+
+a good album, not as great or "Waiting 
+
+1 nlliant as Genesis Little Feat i 
+
+
+
+■ linj mi 
+ford. Collins, a 
+on the origin 
+band The all 
+
+
+
+"For the last time, Charlie : Stay out of my Stroh's 
+
+
+
+For the real beer lover. 
+
+
+
+
+WHERE DO YOU GO FROM HERE? 
+
+Where do vou eo for challenge, 
+for opportunity? The Navy it* a good place 
+to start. 
+
+If yon qualify, you'll get some of the 
+best training available in highly skillea job 
+fields from aviation mechanic to linguistics. 
+The Navy means the adventure of 
+seeing places like Greece, Spain, Hawaii and 
+Hong Kong. It means doing a job that really 
+counts with people who count on you to do i 
+
+SEE A NAVY REPRESENTATIVE at 
+
+Kettler Hall on May 5th or call 743-5293. 
+
+
+
+GUYS &amp; GALS — 
+
+COME AS YOU ARE!!! 
+
+*§1 WE WANT 
+^TO WRAP YOUR 
+BOD IN JEANS 
+&amp;T0PS 
+FROM OUR 
+STORE!!! 
+
+
+
+
+All famous name brands at discount prices 
+
+
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 COLDWATER ROAD 
+
+ACROSS FROM GLENBROOK PENNY'S 
+
+
+
+BEER WINE LIQUOR 
+
+
+
+
+arts 
+
+
+
+5/4/78 THE COMMUNICATOR PAGE 7 
+
+
+
+7&lt;moiu Jmd Gahm 
+
+GEORGETOWN SQUARE THEATRE BUILDING 
+
+
+
+EXHIBITS 
+BUSINESS LEASE 1 
+OIL PORTRAIT from PERSONAL PHOTOS 
+10-7 
+SUN 12 - 5 
+
+1 QUALITY | 
+
+
+
+featuring Kaildi 
+
+Kisses 
+
+
+
+Hi illy lU-oink 
+
+
+
+Musical 
+to be performed 
+
+&gt; Richard Rodgurs musi&lt;j;il nhin. Sound &lt;..,IIltv in Aiilm 
+
+1 ' ' ■"'" rilnw presented 
+
+i'ihmuw at Cinema Center 
+
+
+
+• SANDWICHES 
+• TRY OUR CARRY^OUT 
+
+
+
+• PIZZA 
+
+Monday Night Only 
+
+7PM ■ 3AM 
+Beerfest 50' glass 
+
+r-club 
+
+
+
+exotic shows nightly 
+AAon. thru Sat. 
+
+
+
+Special celebration 
+Mon. thru Thurs. 5 pm -6 pm 
+
+
+
+Open 11:00 am 
+to 3:00 am 
+
+
+
+
+ty . , ^t^^s^ata' 
+
+
+
+vU}mm f BMti 
+
+
+
+SPECIAL LUNCHEON 11-2:30 
+
+All You Care To Eat $2.95 
+
+Special Gourmet Seafood Buffet 
+
+Thurs.-Fri. Eveninq Only 
+
+"Specialty of the House" 
+
+ALASKAN KING CRAB LEGS S8.95 
+
+gwnFcDcktail HOUR 
+Double Drinks-Single Price 5:00-6:30 P.M 
+5629 St. Joe Road 485-1685 
+
+
+
+
+Good times are great times for the easy taste of 
+
+Budweiser 
+
+
+
+"pat IKat&amp;tn 't "Day 
+
+ENTERTAINMENT 
+
+GIFT BOOKS 
+
+on Sale NOW! 
+
+
+
+
+
+
+Aeudcmy Award Winner! 
+
+
+
+
+unmarried I 
+„,, w r man 4 
+
+
+
+
+NOW SHOWING 
+
+THE 
+CHOSEN 
+
+
+
+
+•S-M THEATRES 
+
+
+
+HELD """-J*™*' J0Jf 
+
+OVER HlJ^X 
+
+
+
+B HffiiH 
+
+
+
+FINAL feok W£ .io* ' 
+
+n/u™ CLOS6 ENCOUNTERS 
+
+
+
+HELD OVER 
+21st WEEK 
+
+
+
+FEVEH i»**^ 
+
+
+
+HELD OVER , ..,,,. 
+20TH WEEK TimS^^R&gt;m 
+
+
+
+STAR. 
+
+WAW 
+
+
+
+WfllHBfflfflCT^ 3rd WEEK WW 
+
+
+
+1)EB0VS|N " 
+
+
+
+STARTS (JHAYMl),' " 
+
+FRIDAY OQnft .^ 
+
+MAY S.1978 Sii-»»~ "■' 
+
+
+
+PAGE 8 THE COMMUNICATOR 5/4/78 
+
+
+
+IPFWs 
+
+
+
+The year in review 
+
+
+
+
+ri ~;ss: The Indianapolis 500'car 
+
+■ arena last fill (photo by Earle -*■ 
+
+F "" k ""' ByDAVEWILKENING tires may be no less that 15 Inches powered by either Ford-Cosworth Turbochargers, In a nutshell, stoce the drivers 
+
+tody Type eat* are built to ta alamet e r . or toake-Offenhauser engine force the : exhaust gasses i back constat lefthanc 
+
+
+
+1977 seasonwitli. ml- ..n- v\&lt; u 
+Concordia Senior i ■,,![,,;,■ 
+
+
+
+Finances presented 
+
+
+
+. ;ii. ilniil^ ' niiKHiic Uu'pronrdm. 
+
+
+
+fender covering U 
+
+
+
+airfoils. These are wings placed 
+
+
+
+The cars don't run on co&gt; 
+1 gasoline, so we're m 
+
+ane is used. This 
+
+
+
+a only four cylin- driver's "Office" which t- 
+er engines will be to adjust the l u i . 1 1 
+
+
+
+n this year at Indy, but 
+
+
+
+I've got Pabst Blue Ribbon on my mind" 
+
+
+
+engines can measure only of adjustment during a race. Cars owner of the car ai 
+&amp; them are turbocharged. when fully loaded. Generally, See you at Indy. 
+
+
+
+
+need a CRASH PAD? 
+
+
+
+
+A TRUE LIGHTWEIGHT BIKE 
+
+
+
+
+=l=-179 95 
+
+
+
+
+
+
+Schwinn Cyclery 
+
+
+
+*&lt;£* 
+
+*!&lt;$ 
+
+
+
+&amp;Sk 
+
+
+
+</pre>        </div>
+      </div>
+    

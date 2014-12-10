@@ -1,0 +1,5336 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator351indi/communicator351indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator351indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator351indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+Communicator 
+
+
+
+1 
+
+
+
+Indiana University-Purdue University Fort Wayne 
+
+
+
+VOLUME 35 
+
+
+
+OFFICE LINE;48 1-6584 
+
+
+
+ADVERTISING: 481-6583 
+
+
+
+New administrative, academic 
+directors join faculty, staff 
+
+
+
+HiliHIl 
+
+
+
+J John 
+
+
+
+The IM scmulci mil sfc Ihe apfwlm- 
+mcnu ur several new depimneni direcion ji 
+IPFW The School of Business ond 
+Managemcnl Sciences I 
+Wellingion as ihe school' 
+begin his Job on Sept. I. We 1 1 rngun currently i^ 
+Ihe (lean of Ihe Graduate School of 
+Adminislralion. Capital Universily, Columbus. 
+Ohio Wellingion holds a doclotale in indusuial 
+cnginctnng. ivilh i rtiisier's in buiincu eco- 
+
+
+
+~Piofe«»)r Wellington was ihe unanimous 
+choice of Ihe SBMS Search Commiltee and 
+imptessed the facully and staff whom he met at 
+JPRV wilh his openness, intelligence and com- 
+mimicnl to (he highest academic standards. ' 
+Vice Chancellor for Academic Affairs Susan 
+
+
+
+Pfcffenbergcr bieppcd down from his position 
+wilh plans (o retire at Ihe end of this Khool year. 
+Replacing Pfeffenberger is Stanley Davis 
+who recently began serving as the new chair of 
+the depanmenl of accounting and finance on 
+July 1. Davis has taughl al Saint Joseph 
+Universily in Philadelphia since 1990- From 
+1990, he was on the nccounlmg and 
+
+
+
+For ihc past I- 
+Indiar 
+
+
+
+for Mar 
+
+
+
+Univi 
+
+
+
+
+
+
+Hann 
+
+
+
+Hannah added ihal Wellington 'has been 
+y successful in walking wilh the business 
+nmunity in Columbus to develop graduate 
+dll and non -credit programs to meet business 
+
+
+
+ountmg and worked 
+
+
+
+apolis. as a director at Rosc-Hulman 
+Insiiiutc of Technology, as Ihc director of 
+Financial Services wilh Enrollment Services at 
+Indiana University, as well as financial aid 
+adviser at Ball State and Valparaiso 
+Universities. ViccChancellor of Student Affairs 
+Frank Borelli said. 
+
+As of Aug- I , Lon Beth Royic took over 
+as director of Student Life. Royse comes to 
+IPFW from Hanover College where she served 
+as assistant dean of students within the Student 
+Life Omcc. Borclli said. Al Hanover, she was 
+responsible for studeni aelivitics, freshman 
+and firsi year studeni transition and residence 
+hall I 
+
+
+
+
+
+
+id Boiclli. "She 
+College in Kentucky II 
+
+
+
+Heavy 'student traffic' brings sea of faces, long lines 
+
+
+
+
+During "rush houi' at Follell' 
+
+
+
+Professor's contributions to mathematics yields research award ! IPFW-Parkview Health Center 
+
+
+
+teaching 
+
+Hamburger was instrumental in 
+
+inging one of the foremost matfic- 
+
+ins of modem lime. Paul 
+
+from Hungary, lo IPFW m 
+
+compares him lo 
+
+lor Wanell was immediately 
+10 l^e idea and sponsored 
+It. Hamburger and Erdos 
+
+■before Erdos' ' ' 
+
+
+
+
+presentations in the spring of 1999. 
+Matthew Kubik director of Ihe 
+Honors Program. described 
+
+Hamburger's work as being likely to 
+1 change the teaching of 
+
+
+
+lalhemi 
+
+
+
+cntly 
+
+
+
+. IS the imporunce of 
+research- [ really believe that a pro- 
+fcisor or university leachi 
+be an effective teacher withaul doing 
+serious research- Ek-en if you teach 
+low-level classes, science and tech- 
+nology and malhcmalics change so 
+rapidly that you need lo tnow what 
+to focus on-" 
+
+Profeisor and chair of the 
+
+
+
+around (he 
+
+to IPFW from 
+Stale Univeisity in 
+
+. /cars as an eschange 
+
+iniversily for 35 Pel«r professor from Hungary. 
+
+Hamburger During his tenure ai 
+
+IPFW. Hamburger has 
+
+
+
+Sciences Van Coufoudaki 
+auard may be presented dun 
+
+
+
+ciplatncd thai he 
+
+:cs agenda committee before the 
+
+Hamburger named many of the 
+ifessors at IPFW whoare involved 
+.crious research and said thai most 
+ninislraiors arc very supponivc of 
+
+
+
+Recently he was named 
+Teacher of the Year for 2000 by the 
+Sigma Xi Club and Researcher of the 
+Year for 1995 by the same 
+Hamburger currently leaches several 
+classes, most notably an honors cal- 
+
+perform research of their own. 
+
+
+
+[n 1999. Hamburger published 
+Set Theory wlih Andras Hajnal 
+through Ihe Cambridge University 
+P(eis--Il Has written for graduaiD 
+
+Hamburger and his siudcnls 
+were featured in ihc spring 2000 
+issue of ■Madiemalics Throughoul 
+the Curriculum," a project newsletter 
+of Indiana University. "When [ 
+designed this course. I was basik:ally 
+implemenlmg new methods and 
+
+honors [course] but ifs n freshman 
+
+
+
+Hamburger said that students 
+
+cscarch papers with professors of 
+leirs, among other honors. "They 
+ndersiand the mathematics and the 
+cicnee ihat they work, much bct- 
+:r-. -that's what the universily edu- 
+aiion is about" 
+
+
+
+Improved signage brings traditional appearance to campus 
+
+
+
+services open to everyone 
+
+
+
+By Mlshanna Wood 
+
+Editor 
+
+IBilMiUdlB!MH 
+
+
+
+is mandatory thai all s 
+rs have a current CPRcc 
+. Nurses arc required 
+
+
+
+The IPF^V-Park&gt;lew Health have a current siaie liccnK 
+
+and Wellness Center, located on the Medical records will be kept on all 
+
+second floor of Walb Union in patients. 
+
+Suite 218. opened on Monday, The center is under Ihc mcd- 
+
+Aug- IS, to serve ihc tampus com- i^al direction of Dr Mark O'Drifn 
+
+muniiy- The new facility will also ^md it will be evaluated and 
+
+help jct.immodiie students living reviewed by Dr. Lany Wjljh, both 
+
+in Ihe upcoming dorms Walt °f whom work for Parkview 
+
+Branson, vice chancellor of finan- Occupational Health- ft is Staffed 
+
+cial affairs, said a contract for one W'l'i ■'"ec health care workers: 
+
+year has been agreed upon. The Salser. ValerieStucky.RJi),.F.N,P., 
+
+administration has hopes Ihat Ihe MS.N and Jeannette Slrother, 
+
+
+
+in of th 
+
+
+
+involved in the operation of the 
+health service- fPRV provides Ihe 
+building for the clinic. Parkview 
+Hospital, working in conjunction 
+
+
+
+
+
+
+worker 
+
+
+
+Stucky and Salser arc nurse 
+practitioners. A nurse praclilioner 
+is a person who has had specialited 
+schooling. The additional educa- 
+tion enables the practitioner lo sec 
+patients and prescribe medication 
+(or injuries and illnesses. Slrother 
+said the clinic will also provide aid 
+to prevent health problems. 
+
+Clients can come into Ihc 
+office for numerous medical pur- 
+poses. The following are a few of 
+the services that will be provided: 
+screening for STDs. (tu show, aslh- 
+
+
+
+
+:cording to Karen Salser, 
+R.N. F.N,P. MS., ideas for Ihe 
+piojcci began last November, The 
+clinic IS currently in its primary 
+stage- At this point, it is functioning 
+in one room which cncompajses a 
+smaller area fgr ctams. Salser fore- 
+
+
+
+With the old signs 
+bccitming run down and 
+nol doing their job of 
+advertising the campus as a 
+
+were added to improve our 
+c and 10 identify 
+
+Ihe public, 
+
+
+
+Lights and landscaping wi 
+be Ihe finishing touch: 
+
+according to Dan ie (son 
+
+
+
+sees a complete cenier by Nov. 1 , 
+
+
+Ihe ba\ hospitals in Indiana, added 
+
+
+'This IS a top-notch facili- 
+
+
+Fox. The new center has already 
+
+
+ty We are very excited," said 
+
+
+conducted physicals for all IPFW 
+
+
+
+
+athletes for their neil season. They 
+
+
+IPrW Parkview Healdi and 
+
+
+eipect clientele to increase with 
+
+
+
+
+more publicity. 
+
+
+
+
+Any client who needs further 
+
+
+
+
+medical assistance, such as an »- 
+
+
+
+
+ray. will be given a »lip and direct- 
+
+
+
+
+ed to Parkview Occupational 
+
+
+
+
+Health. The clinic is afso available 
+
+
+
+
+for some emergency siluations. 
+
+
+
+
+although Salser said it Is still nec- 
+
+
+Dave Danielson, director of 
+
+
+cssarytocall 911. 
+
+
+Ihe Physical Plant, said conslruc- 
+
+
+
+
+
+
+
+
+S63.O0O, Branson said Ihe clinic is 
+
+
+
+
+
+a Redi-Med. The fiied 
+
+
+
+JOBTRAK.com reports employment market growing 
+
+
+
+7, Ihat for Ihc month of July, the "lotal ni 
+
+job opeomgs ■ ' 
+
+SM,48B" increased by 19.6percenl from Ihc num' and has posted jobs from 
+
+ber reported for July 1999. said Kcri Resh Krafi, employers." Kraft said. 
+
+public reLilions manager for JOBTRAK.com, ~ 
+
+JOBTHAK.com reports that the "hottest reierUIive sample of colleges 
+
+grads include those in education; across Ihe nalion" and dislnbulcs a monthly st 
+the job market, Kraft said. 
+
+
+
+jobs" for 
+
+
+
+The job market continues 
+re opponunities and 
+
+lege graduates to fill. with a 69.3 pen 
+
+]OBTKAK.com. cited by Forbes Magazine job posUngs in July 2000 compared lo July 1999. 
+
+as"lhebestiilerorsludenlsand graduates looking and engineering, widi a 47.2 percent increase in 
+
+for ihcir first job or internship." reported on Aug. total job postings. 
+
+JOBTRAK.com "is in Ihe ideal position lo 
+
+
+
+Tient also highlights information 
+nt outlook, hot jobs, salaries, c 
+ing aiid development." Kmft said. 
+
+
+
+conference room, balhioom ai 
+waiting area. 
+
+Salser and Branson said Ihat 
+nic is geared for the IPFW 
+
+ource of payment accepted 
+enter II takes Medicaid and 
+ire as well. In ihe future, 
+hopes that a health fee will 
+be incorporated inio tuiiion cosLv 
+This facility will be beneficial 
+Dut-of-itate students who may 
+
+
+
+w. Salser and Slioihcr 
+working in a room wilh bare walls 
+and no name to identify tlie clinic 
+(except Suite 2181 They were 
+
+phones and trash cans. 
+
+They plan to create buiines-s 
+cards, a website and pamphlets, 
+which give additional information. 
+They hope to have IPFW nursing 
+students volunteer and gtin 
+
+
+
+II the &lt; 
+
+For more infoimalion about 
+e cenier. call 4B1-S749 or fax the 
+inter at 48I-S7S2. You can alio 
+ill Parkview Occupational 
+ealth 11471-0411. 
+
+
+
+
+Opinions 
+
+
+
+Tlie staff gives thanks lo Studeni Govemmenl. 
+Page 4. 
+
+
+
+Features 
+
+The fitness arena in Fon Wayne, Page 9. 
+
+
+
+Sports 
+
+
+
+lU, Duke and other top schools pan of IPFW's 
+first Soccer Showcase, Pages 1 1-12. 
+
+
+
+August 24, 2000 
+
+
+
+waib's second floor houses new lab Medical terminology receives extra section 
+
+
+
+On Monday, Aug. 21. 
+a new compuicr lab opened 
+lis dooi-. lo .'.ludcnlt. li ' 
+localcd in the Walb Sludcnl 
+Union. According lo 
+Mary Schoc'cr, manager 
+of uKi tuppon. ihe new lati 
+u'JII be (he complelion of a 
+long leim gojl sel by iHe 
+unlveisiiy. 
+
+IPFW adopled a live- 
+year plan lo make compul- 
+ers available (o siudcnU 
+Tllis goal IS bawd on ihe 
+
+
+
+jeau Tor cither checking e- 
+mail or doing work on cam- 
+pus' taid Schoelei. 
+
+Compuiei labi pro- 
+vide tludenu wilh accest lo 
+
+
+
+lab brings ihc !•■ 
+of compuler i 
+campus Up 280 
+
+
+
+Other labs arc located 
+in Kclller Hall 
+
+t h c Engineering and 
+Technology Building anc 
+Hclmkc Library, The ne« 
+lab in W,ilb witl have 6? 
+
+
+
+ihroughoul camp u I. 
+brings the loial lo 
+Therefore ihe openin 
+ihii bb will complete 
+
+
+
+)! By Heidi Saliba 
+
+'! Chief Rcponer 
+
+
+
+The course is being on 
+' ai IPFW on Mondayj 
+i Wednesdays from 1:30 to 
+
+
+
+Director and Clinical Auiitani 
+professor Barbara Ellison, the 
+program has "increased by leaps 
+and bounds this year... there is 
+such a demand for Health 
+Information Technology profes- 
+sionals in the Fon Wayne area 
+
+
+
+He 
+
+
+
+
+
+
+Info 
+
+
+
+a Registered 
+
+Admimslrator (RHIA), will be 
+teaching both sections of the 
+c«ursc. Sowers has worked widi 
+Charter Beacon and Si. Joseph 
+Medical Center, and as an inde- 
+pendent consultant. She has been 
+in the health care field (or about 
+
+
+
+-Also new lo the depinment 
+IS a Ceniricate Program in 
+Coding Technology. "We have 
+quite a few people enrolled 
+already.- said Ellison, "...but 
+we'd like lo see it overwhelmed 
+with individuals wanting to gel 
+into tthal certification programi," 
+
+Ellison said that Ihe pn&gt;- 
+gram is limited lo IS students at a 
+time and that lequiremenls for Ihe 
+ificQle can be completed on a 
+
+
+
+full-til 
+
+
+
+
+
+
+Certificate in Coding Technology 
+
+
+
+medical codeis. Medical coders 
+analyze health records to look for 
+diagnose.t and practices that were 
+peiformcJ and examine such 
+things as ireatments ordered, ill- 
+nesses of the paiienUsI and med- 
+ications prescribed. 
+
+According lo lileralure dis- 
+Ihbuied by Ihe depanmcnl about 
+the Ceniticalion. "Research and 
+health ilatislics are also affected 
+
+ly coding at healthcare data." 
+E^c more information, call 4S1- 
+6055 oi visit Ihe web site at 
+itp J/u w w. ip fw.edu/hi I. 
+
+
+
+Help raise money for AIDS awareness by joining IPFW's AIDSWALK 2000 team 
+
+
+
+Big Red Rojo u 
+
+
+
+clowns and face painting 
+will be available for chil- 
+dren. The Allen County 
+Health Depanmeni will 
+idc free HIV lesting 
+
+
+
+
+Panels from the NAMES 
+
+
+
+will be shown. Some of 
+the panels were made in 
+memory of AIDS victims 
+
+
+
+
+Part c panls o( AlOSWALK 1999 
+
+
+
+Pholo by Ed Sch q 
+
+
+
+Join up by c( 
+
+
+
+; oufbyjuininglhelPI^VMailodoi 
+
+' Teamand raising money for AIDS 
+
+"Our peal is lo pul logclhcr 1 1 
+
+ot more," Icam orgnnir.cr and li'FW W. 
+■ BanTynetsaid. ■■Wealsohavc Jinul.-f 
+
+one person fi'om every dtpanmi-m ..i ..f 
+
+
+
+AIDSWALK 2000 
+
+
+
+of in 
+
+
+
+said. The AIDS Dooi 
+
+created by arts sluden 
+
+from Si. Francis, will al: 
+
+be available for viewin 
+
+The DoHFS depict "differ- "' 
+
+cnl emotions provoked by 
+
+AIDS," Weissncr said, 
+
+1 thai Ihc purpose of ihi 
+
+
+
+Pholo by Ed Si 
+
+panel ((om liie NAMES Project memonal qui 
+ndispfay in 1999, 
+
+
+
+organiser and CommunicitKini. .Sjiocijli^i &gt;- 'r'^'-S 
+
+for IPRV. :■;, - A - ; . 
+
+The fourth annual AIDSWALK 1\ V 
+and Festival will be held Sunday. Scpi "^. 'tP 
+10, from noon 10 4 p,m, at La' " ' 
+Panicipanli 
+
+
+
+
+walk will follov 
+
+in Ihe downtown Fort Wayne a 
+
+are scheduled. The Dekall 
+
+
+
+Graphic Courtesy ol Ban ' 
+
+
+
+
+
+
+l-o(cc here in Fon Wa 
+, iho II surrounding counties. Ninciy per- 
+cent of ihe money raised slays in 
+Indiana and the remaining 10 percent 
+ilDScne Indiana, which is then fanned 
+to all the AIDS organiutions within the 
+ri.- The majority of Ihe money is staying in 
+area, Il's not going all over the country or 
+■iver ihe world It's helping people right 
+
+
+
+The AIDSWALK i; 
+
+
+
+Two groups from 
+IPFW, the Psychology 
+Club and Psi Chi, have 
+joined the Mastodon 
+
+
+
+researehers. ihe tragedy 
+lo touch each and every 
+' onally. if not person- 
+
+
+
+
+AIDSWALK 
+
+and Festival 
+
+
+
+By participating in this evenl, ue have been 
+given the opportunity lo work closely with other 
+organizations on campus and in the community 
+who share our commitment of making a differeiice 
+in the lives of men, women and children who have 
+been afTci:lcd by HIV/AIDS." 
+
+
+
+
+inily. 
+
+
+
+id Wcis 
+
+
+
+■ Last. jejrjljei.waik.jtflis«»t-OM(i,-_'._iAIDSWALK and Festival logd u 
+
+: S42,UQ0. ThlriJWir-WffffiHin-l!in|-11iyBiialr- pgmiKsion of Mark St John, prisii 
+was to raijj mm^lhin'^SJlftOO, Already. AlDScrvcIndiana. Inc, 
+
+
+
+A five kilometer 
+...fynirgisingwalkatlion! 
+
+Sunday, Sept, 10, noon lo 4p,ni at Lawion Park. 
+
+
+
+
+We Buy and Sell 
+
+Used Textbooks 
+
+and 
+
+Pre-Owned 
+
+Books 
+
+Special order 
+
+new titles 
+
+Just south of IPFW Campus 
+on North Anthony Blvd 
+
+Serving: 
+
+• IPFW 
+
+• Ivy Tech 
+
+• Indiana Tech 
+
+
+
+BOOKS FOR ALL AGES 
+
+HTTP://www.thebookmark.net 
+3420 North Anthony Blvd • Fort Wayne, IN 46805 
+
+
+
+484-BOOK 
+(484-2665) 
+
+Fax:(219)484-2665 
+
+
+
+Aogusi 24. 2000 
+
+University Religious Forum 
+2000-01 Uclure Series held 
+in WaU) Union Room G21 
+from 12 noon-I:lS p.m. 
+lA simple lunch is served ai 
+noon. Reservations are not 
+necessary. No charge, how- 
+ever, donations accepted.} 
+Sponsored by Canipus 
+Ministry Student Group. 
+Everyone is welcome 
+
+Friday, Sepi, 15; ■'FjiUi and iht 
+UnivcrsMy: The Life of C.S. Lewis" 
+
+Thuudoy. Oei. 19: "Failh and ihc 
+Univerjity: An IPFW Faculiy 
+
+
+
+Thuoday, Feb. IS: ■■Faith and Puce. 
+The Priori ly of Reeonci led 
+RclaIion.(hips" 
+
+
+
+Campus 
+
+
+
+Page 3 The Com 
+
+
+
+Campus Ministry accepts everyone 
+
+
+
+
+By Heidi Sallba 
+
+Chief Rcponer 
+
+HE 
+
+
+
+m 
+
+
+
+ihe gi 
+
+Gales, ihc Campui Ministry of 
+IPFW has much to offer siudenis 
+for the 2000-2001 school year 
+Some of Ihe planned aciivitici are 
+weekly Bible study meetings on 
+campus, a fall retreat il Lake 
+Wiwassee, a Spring Break senice 
+(np 10 Junr' z. Meiico. and a year- 
+
+
+
+□n fjiih issues. 
+
+This year's aclivilics will 
+kick off with 1 picnic at North Side 
+Park on Sunday. Aug. 27. from 3-6 
+p m. Northiide Park is near Norh 
+Side ffigh School and Park Cenier 
+on Pamell. ■■Il's a way for students 
+to meet other students involved 
+with Campus Ministry... and to 
+finj uul a litllc bit of whal we're 
+jbhiui " The event is free and 
+allcudees need nol bring anything. 
+
+The following week- 
+end, Sept. 8-10, is Ihe Full 
+Retreat ai Lake Wawajsce in 
+Syrai-use, End. The cosi is S45. 
+According to Gates. Pislor Ron 
+Williams is scheduled as ihe guesl 
+
+
+
+know God beiicr." The first 
+Sunday night meeling is Scheduled 
+for Sunday, Sepl. IT. Those meei- 
+ings will be held on campus ai 
+Indiana Tech. Gates is ihe Campus 
+Minister for Indiana Tech. as well 
+as IPFW. IPFW will have on-eam- 
+pus Bible studies every Monday 
+and Thunday itnm noan&gt;lp.m in 
+Walbli2. 
+
+Campus Ministry also hosts 
+a faculty prayer meeiing every 
+Wednesday from noon-l2:30 p m 
+in Neff 2S7. The Univeisily 
+Religious Forum, a lecture scries, 
+kicks olTon Friday, Sepl. 15 with a 
+presenlalion eniiJcd, "Faith and 
+Ihe University; The Life of C.S, 
+Lewis.^' The presenlalion will be 
+made by a British actor who is 
+being brought in by the Indiana 
+
+The actot will also speak lo 
+Gates' Religion and Culture class 
+(PHIL 1 12), which is being olTeted 
+for Ihe lirsi time this semester at 
+IPFW. Gales refers lo Ihe class as 
+■Ihc history of Western Christian 
+spinlualily," During Ihe coutse of 
+the class, sludcnts will read works 
+from more than cighly Christian 
+
+
+
+
+
+
+
+II addre.' 
+
+
+
+Photo byHokSi Sal:Da. ^.,u^ napunar 
+
+Campus minlslar Ben Gales and Calholic Campus minister Carol 
+MerklB inform Ireshmen al SO AH. 
+
+will be spent in Ihc open discus- confidential counseling lo anyone 
+
+Sinn of a.isigned reading maiciial, who needs guidance in a private 
+
+We re going lo read cicerpts setting. One of Ihe ministry's core 
+
+from Iheir devotional wrilings. not values, as ouUirKd in its brochure, 
+
+Iheir theological writings. This is "Accepting others by 
+
+isn t a course on a systematic Ihe- tespeciing where Ihey are spirilu- 
+
+"^"^y- Illy and being (eal ourselves in 
+
+This is a course in reading return'^ 
+
+lilcrature of people lalking about An interesting facet to the 
+
+Iheir feelings lowaid God and their outreach of Campus Ministry is 
+
+ideas about issues like suffering, Gates' weekly Spiritual 
+
+prayer, holiness, those kinds of Cybervitnmin which is sent out 
+
+things,. .it includes both Catholic via e-mail to anyone who wishes 
+
+and Protesum writers. Ifs going 10 lo receive it. To sign up for Ihe 
+
+be almost entirely [in| discussion vilomin or (a receive informalion 
+
+lormal. The class is tomplelely on any of these events call 481- 
+
+full. Campus Minjslrv also offers 699? 
+
+
+
+HELP WANTED 
+
+
+
+The Coinmuniccitor is searching 
+for writers and is also looking 
+
+for a News Editor. If interested 
+
+stop by to fill out an 
+application or call 481-6584. 
+
+
+
+Public and Environmental Affairs 
+
+
+
+IPFW ' 
+
+
+
+Make a 
+difference in 
+people's lives.. 
+
+
+
+...consider a career 
+in public service. 
+
+
+
+justice, health administration, or public affairs 
+
+and have a posjiive impact on people's lives. 
+
+The right school. Right here. Right now. 
+
+
+
+
+Anotker Jft^tiP of ^ooJ \p^. 
+
+84-^ Of 
+
+
+
+llclpu. ccIcLratc. 
+
+«tk „ Jclid 
+
+
+
+Sl.OOoff an; 
+boxed lunch 
+with coupon! 
+
+
+
+[ 15% off any 
+I purchase will 
+
+
+
+TEXTBOOKS. 
+
+FREE SHIPPING 
+
+
+
+•WHEN YOU BUY BOOKS AND «NY GEAH ITEM THROUGH 10/15/00 
+
+
+
+
+USE BIG words: 
+
+rnjivM^-j&gt;&gt;iiiMi 
+
+TEXTBOOKS GEAR MUSIC &amp; MORE 
+
+
+
+
+Augusi 24. 2000 
+
+
+
+Opinions 
+
+
+
+Following guidelines in campus posting policy keeps buildings uncluttered 
+
+
+
+
+Staff applauds Student Government for efforts 
+
+
+
+staff 
+Editorial 
+
+
+
+:c reading overjoyed thai s. 
+
+
+
+ruding Ihii m your lulhrobe wiih yea 
+
+
+
+IS been iUgnant tor al 
+
+
+
+None of ihit uould be pasi- 
+ble if il u,'ere nol for the unanimous 
+voles ind etfons of ihe Indiana- 
+Purdue Sludcnl Government 
+Association (IPSGA). We give 
+kudos to Nick Gray foi signing the 
+
+
+
+bill. 
+
+
+
+We V 
+
+
+
+l.ke to give 
+
+
+
+iiludcnl at IPnv. 
+
+All of lis are proud Lo have valions lo mail out the paper ai 
+hid a role in Lhc proccn of putting &lt;jr=e Schamberg, chairman ol 
+
+Saying good-bye 
+
+
+
+The elTons of IPSGA have 
+enablul ut, \o purchase icchnology 
+thai »e have needed for several 
+years. (We arc espceiolly thankful 
+for oui new printei.) 
+
+Il was IPSCA's mlenl lo 
+improve (he paper by increasing 
+our budget and our readership. 
+According lo Sierling, IPSGA had 
+heard complaints about our paper 
+year after year, so our budget 
+remained lhc same. Noiv Ihey have 
+
+
+
+and technology m good use. Thai i&lt; 
+u'herc you. the leaden, come in. 
+We would like some input from 
+you. Do you like having the paper 
+mailed lo your home? What are 
+your likes and dislikes about the 
+paper? li there a topic you would 
+like lo see more of in The 
+Communicalor? Keep in mind thai 
+improiemeni takes lime. 
+
+The siaff of The 
+Communicalor as well as IPSGA 
+values your opinions. Please write 
+lo us or stop by the oiTice of 
+IPSGA in Walb 22S or The 
+Communicalor in Walb 215. We 
+will be awailing your comments. 
+
+
+
+The end of Augusi 
+brings us to the begin- 
+ning of another school 
+year. There are a variely 
+
+eocounlers we will have 
+while walking lo diss. 
+Browsing the contents of 
+the colorful, loosely 
+pinned or taped fliers is 
+an eiperience we've all 
+had- They didn't get 
+there by themselves. 
+
+This form of com- 
+munication is a pan of 
+every campus ihal we. as 
+college students. sc&lt; all 
+the time (We are also 
+some of the people 
+
+
+
+staff 
+Editorial 
+
+
+
+responsible for posting 
+fliers.) Their presence is 
+just like the sidewalks, 
+walls or desks in the 
+I ass rooms -fou nd ai 1 n s 
+
+
+
+
+
+
+lange i 
+
+
+
+increased. 
+
+Did you know thai 
+each message falls under 
+a certain category in the 
+IPFW posting policy? 
+Guidelines have been 
+created by the Campus 
+
+Commiiiec- The policy 
+stales ihal a posting 
+refers to a temporary 
+sign, placard. Ilicr. ban- 
+ner, card and the like. 
+
+We're tired of see- 
+ing nolcboards which 
+contain an indiscernible 
+mass of brightly colored 
+papers adorning our hall- 
+ways and doorways so 
+we thought we'd let you 
+in on some of the guide- 
+lines from the posting 
+
+Almost every type 
+of flier has iu own place 
+on campus. This policy 
+gives information about 
+what lypes of fliers can 
+be posted, where (hey 
+can be posted and the 
+length of lime ihey can 
+
+
+
+moflw 
+
+
+
+
+
+
+organiiation and dates of 
+Its imtial posting. 
+
+This infarrnation is 
+helpful lo the student 
+employees who clean the 
+boards once a week. 
+(Student Life prefers that 
+the organization pulls lis 
+"■ .) Although 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For 
+
+
+
+
+
+
+implc. i 
+
+
+
+n that 
+
+
+
+university 
+
+Sometimes peapl&lt; 
+put ihcir memos in thi 
+wrong place or leave 
+them up after they arc 
+etpiied. Others simply 
+tear fliers down. Some 
+people don'i e 
+approval 
+
+These acu 
+ale a few pjobli 
+campus 
+disheveled, sp 
+
+
+
+versily musi gel 
+
+Student Life Director. 
+Lari Bclh Royse. Any 
+posting thai is llil7 or 
+larger needs lo go past 
+Royse as well. Boyse 
+and Lisa Sprung, issis- 
+lanl director of student 
+
+
+
+fliers and il helps the 
+campus from becoming 
+
+We're nol trying lo 
+be the '■neat police." As 
+Sprung and Royse said, 
+
+posting notici 
+
+deliberate intent. For a 
+copy of the posting poli- 
+cy (which also includes 
+information about the 
+elecu^nic sign board) go 
+to the Student Life 
+Office on the second 
+floor of Walb Union, 
+Suite 231 or call 481- 
+6609. The pamphlet. 
+"How lo prom Die cam- 
+obtained from Bart 
+Tyncr, communications 
+specialist of University 
+Relations at 48 1 -6 170, 
+
+Even though some 
+of you may bcrortie very 
+busy this school year, wc 
+
+
+
+
+
+
+get 
+
+
+
+isuming ai all lo pick 
+a copy of this policy 
+
+and follow il. 
+
+By doing so. you 
+
+will display courtesy and 
+
+
+
+
+The books get delivered 
+Or. It's wonderful. Sleep 
+:ttjally is not thai much of a problem 
+r me eilhei. 
+
+Classes Stan at ten. The Ihmg that 
+has me bummed the most is my buddies 
+are leaving. One is going back lo school 
+and the other is heading lo Guatemala. 
+
+It's not very often Ihal you make a 
+
+friend who will stick with you through 
+
+" "irything. A friend who you may nol 
+
+&gt;u can pick up 
+
+d It's like old 
+
+
+
+-- but because all my 
+
+friends are heading back lo school. 
+
+1 am actually looking forward lo 
+my classes this year. No more general 
+e&lt;J, classes... YEA! It's gieat to know 
+the only classes left are those in the 
+major. Tlic book problem is salved, t get 
+Ihcm online al Bigwordscom. 
+
+It's great because I never have to 
+
+
+
+fora; 
+right where you left off an 
+
+
+
+A friend who you can call at the 
+w'ce hours of lhc morning if you aic in a 
+pmch and Ihey will help you out. I am 
+blessed enough lo have two of these 
+friends. I don't say this anoganlly, but in 
+die humblesl way that I can. 
+
+We've spent the summer doing 
+crazy things. We've gone kayaking. 
+Whitewater rafting and hiking to name a 
+few. ..and then (here are a few things 1 
+won't mcnlion for fear of the authorities 
+
+We don't have diose "Bcsl Fnend" 
+many had in elementary 
+
+
+
+Conventions or parties? 
+
+
+
+
+denual candidate lo tush the other and lo 
+lell us how they are going lo improve the 
+\MiiU: House and the nation. Well, there 
+IS nothing new there. Every candidate 
+stems 10 say this in one way or anodier 
+in every presidential election. 
+
+As I sal and walched both of the 
+conventions. I staned to wonder why die 
+n held anjTOori ' 
+
+
+
+
+
+
+
+
+
+held IS to officially nominate a candidate 
+for each party and to help raise money 
+for lhc campaigns. If there is any other 
+reason why we hold convenlions. it docs 
+nol always seem lo shine ihiough as 
+well. Sad 10 say, but Ihe word pany bet- 
+ter describes what I see going on than die 
+
+They should rename Ihe 
+Democratic and Bepuhlican Nalional 
+Conventions to Ihe Democratic and 
+Republicans Ponies. Seriously, both of 
+die convemioni only seem to be big old 
+paniesfor those who can afford lo attend 
+
+Sure, the candidates give Iheir 
+well-piepaied speeches lo Ihe viewing 
+and lislening audiences. In relum. we 
+
+show support. When you Ihirk about il 
+though, they do not necessarily say any- 
+diing new to us that we have nol heard 
+aboui in die debates, town hall meelings 
+and speeches through out the mondis. 
+
+Texas Governor George Bush Ulks 
+about bringing integrity hock into die 
+While House and Vice -Prcs idem AI Gore 
+speaks about improving die economy 
+
+
+
+school, but HC have Ihe camamdcrie and 
+love that friends have for each other. It' 
+'like the MasterCard commercial when 
+yotf spend a huge amount of money, but 
+the memories are priceless. 
+
+
+
+There ore about 10.000 students M 
+IPFW and as we all head back lo school. 
+I am reminded of something Kramer 
+says on "Seinfeld," "Giddy Up!" We 
+need to get back on our horses and make 
+friends while wc arc here in Ihe present 
+So often we head to class and then race 
+out of the room. 
+
+Why nol go out for coffee and 
+make some new friends? Thai's a harder 
+thing for me lo do than say. but wc can 
+always try right? 
+
+
+
+ound. we have wiUi our buddies 
+It. but Ihe friends we make anew 
+ist be anodier fnend for life. 
+
+
+
+even more so. To lead up to Ihe candi- 
+dates' speeches, politicians such OS John 
+McCain for Bush and President Clinton 
+for Core come out on the open stage and 
+show their support '" 
+
+
+
+It forget 
+
+
+
+
+
+
+Wc a 
+WWF superstars who all 
+ances ai both conveniio 
+well-known person after anodier. 
+
+.After all the speeches are finished, 
+Ihe balloons popped and lhc confetli 
+swept off die floors, we, as a nation, are 
+back 10 the same area we were before; 
+
+didalc tor president and why the other 
+
+The conventions really did nol 
+make any changes or bring any new 
+knowledge. It was a lime to socialize, 
+spend money towards the campaign and 
+pany before, during and aflei lhc con- 
+vention for those who could afford to or 
+
+
+
+An important vote 
+
+
+
+
+Welcome to IPFW, As 
+students, we are faced widi 
+many choices. We must choose 
+whelhrr or nol lo maim a i n a 
+job. whedier or not lo partici- 
+paie in uirac utricular aclivilies 
+
+our majors. Should we pursue 
+graduate studies or maybe try lo 
+find the perfcci job now? 
+
+These are important choic- 
+es, as they will impact our lives 
+in very major ways. However, 
+in Ihe fall of 20{X). we arc facing 
+another very imponant choice. I 
+am speaking aboiil Ihe choice 
+presented lo us in Ihe upcoming 
+November election. First, wc 
+have the choice of whedier or 
+not to vote. Do I vole? Should I 
+
+If so. whom do 1 vole for? 
+Green Pany, Reform Parly. 
+Socialist Parly, Independent 
+Party, Democrat or Republican 
+Ponies, the choices arc endless. 
+In Ihe past mondi. wc have been 
+subject to both Republican and 
+Democratic National 
+Convcnti 
+prirai 
+
+
+
+
+
+
+:ll as a hosl of ihe other chan- 
+nels. We are (old to "Choose or 
+Lose" on MTV and faced with 
+"Indecision 2000" on the least 
+likely of poliiical venues, die 
+Comedy Channel. Should we 
+perhaps just blow this all off 
+and conrinue widi our sludics? 
+
+
+
+Pany. I will focus or 
+
+
+
+We have all known a poinl in 
+lime where one of our political 
+leaders has made a wrong deci- 
+sion, enabled or vetoed a con- 
+lrovei3ial bill or ignored an 
+issue all together. Somelimes 
+we arc lefl scratching our head 
+wondering. Will these candi- 
+dates stand up and work for die 
+causes for which we elect Ihem? 
+Arc diey willing to sacrifice lhc 
+good of Ihe one in order lo sat- 
+isfy die good of ihe many? 
+
+Our primary candidates 
+are George W. Bush (R) from 
+Texas and Albert Gore Jr. (D) 
+from Tennessee. When it comes 
+10 Ihe issues, these candidates 
+are worlds apan. On the issue 
+of taies. Gore is an advocate for 
+child ta^ credits and the Earned 
+Income Credit. Bush faces die 
+same issue with a promise lo 
+
+According to Governor Bush's 
+olTicial platform. "Govemmenl 
+cannot tailor its programs lo the 
+needs of each family. The best 
+way to help all families is to let 
+each family keep more of lis 
+income - and spend il as it 
+deems appropriale.' 
+
+Anodier issue facing us is 
+gun canuol. Gore makes no 
+bones aboul his stance in gun 
+control. As a suong advocate, 
+he has been on the from line of 
+the Brady Bill, which causes 
+polemial gun buyers to undergo 
+a background check (and a one- 
+week mandaloiy wailing peri- 
+od) before purchasing a firearm. 
+This seems like a good idea. 
+considering the violence that 
+has occurred in Ihe Uniled 
+Slates during the ClintOn/Coie 
+admintslmtion. We firsi experi- 
+enced lerrorism and violence in 
+New York City On Feb. 26, 
+l«3, as Ihe World Trade Cenlcr 
+was bombed. 
+
+This incident caused sii 
+fatalities, and wounded more 
+dian 1.000 people. Only two 
+months laler. die United Stales 
+wilnessed die destruction at the 
+Ml. Carmel com pics in Waco. 
+Tevas David Koresh held this 
+complci. He and the Br 
+
+
+
+Firearms onApnl 19.1993. On 
+the second anniversary of the 
+Waco. Texas incident, 168 peo- 
+ple died in Oklahoma Cily. as a 
+bomb ripped through die nine- 
+story building in Ihe middle of 
+the Kansas capital, Four years 
+after thai, on April 20. 1999, 
+many students suffered fatali- 
+ties at the Columbine High 
+School in Colorado. These are 
+certainly good indications of a 
+need for weapons control in the 
+Uniled Stales. Then there is Ihe 
+
+On March S. 1991, Bonnie 
+
+Elmasri inquired aboul a hand- 
+gun to protect her^lf from a 
+husband who had repeatedly 
+du-catened lo kill her. She was 
+denied due lo Wisconsin's 48- 
+hour gun purchase wailing peri- 
+od. Her husband murdered her 
+and her two children just 24 
+hours later. USA Today report- 
+ed in 1992 dial many people 
+rashing to gun siores during Ihe 
+1992 riots were "lifelong gun- 
+contiol advocates, mnninR lo 
+buy an item they thought diey'd 
+
+
+
+r, they were out- 
+r dicy h. ■ 
+
+
+
+wail 13 days to buy a gun for 
+self-defense. The issue is not as 
+clear as poliiical party manage- 
+ment would have you believe. 
+
+These are only a few 
+issues dial are being discussed 
+by our potential leaden. These, 
+among olher important issues, 
+face each and every one of us 
+now and in the future. Il is up lo 
+us. as Ihe new leadership of dus 
+counuy. to decide what a best 
+for OUI children and our fami- 
+lies. I encourage you lo research 
+dtese issues, as staled by the 
+candidates diemselves. 
+
+
+
+Please look inic 
+1 are imponant 
+'W.algore200,coir 
+
+
+
+die it 
+
+
+
+Editorial Board Contact Us! 
+
+
+
+off V 
+J cohol. Tobacco an 
+
+
+
+
+
+
+Research ihe facts as staled by 
+the candidates themselves. Bui 
+more importantly, vole, \tole for 
+die future and what il means to 
+you \tiie for what you consider 
+10 be the impcrtanl values for 
+
+
+
+Editorial Policy 
+
+
+
+MolUsa Frilz, Managing Editor 
+Linda Leslie, Spans Eduor 
+Todd Humm, Fealuits Editor 
+Hcldl SaUha. Chief Rtporter 
+Eric TntT, Editorial Canoontst 
+Ericka Markley, Photo Editor 
+Kalhy DcUgrange, Copy Editor 
+Brian Miller, Adviniiing Manager 
+Doric Rtjnolds, Publuhcr 
+
+
+
+paper 9 holmes .ipfw edu 
+
+
+
+TtUphone: 
+
+Editor: 4S1-6JS4 
+Publisher 48 1 -6585 
+Advertising: 4S1-6SS3 
+
+
+
+IS of The C 
+
+They do not necessarily reflect the views of IPFW. its employees or 
+its student body A column is solely the opiniun of iis author 
+
+Tlie Communicator welcomes responses from its readers. 
+Letters to die Editor and guest columns must be signed, dalcd and 
+accompanied by a current, valid address. 
+
+All submissions made via e-nuil musi be verified by phone or 
+in person. Submissions via mail or e-mail without this information 
+will nol be published, except under extraordinary circumstances. 
+Class standing or tide ire also requested. Addresses and phone num- 
+
+
+
+:r be published, 
+iions must be typewritten, double-spaced and no more 
+ids. Submissions for die netl week's issue musi be 
+■ (0 5 p.m. on die Friday before the issue is printed for 
+
+
+
+The editorial board otThe Communicalor reserves Ihe right to 
+edit all submissions for length, grammar, style and clarity, LcUen 
+deemed libelous by The Communicator's editorial board wilt not be 
+published under any 
+
+
+
+Augusi 3-4, 2000 
+
+
+
+Opinions 
+
+
+
+HitifiimiliTiiKi^Sg^ 
+
+
+
+Welcome to the first issue of The Communicator for the fall 2000 semester. Here is a little information about our staff members who 
+contribute to each issue published weekly during the semester. We hope that you enjoy. 
+
+
+
+I Left: Mishanna Wood has 
+
+ommunicaloi suir far iwo 
+un. Along wilh being editor. 
+ic has also held Ihe posilioru 
+[ news editor and managing 
+lilor. Wood liku woiking ax 
+\c paper because it 
+
+
+
+utihet 
+
+
+
+
+
+
+'.m-'-i.i.H 
+
+
+
+
+She joined Thei 
+
+staff m Januao' 3000. Before 
+
+she became the managing edi- 
+
+
+
+fi^turi: &gt; seclion. T\ic paper hif, 
+given her the ability to wnic 
+difTcrenl types of stories and 
+columns. She enjoys woiking 
+with Ihe rest of the naff and 
+meeting new people through 
+
+
+
+place on campus and is able Ui 
+enjoy her hobby of watching 
+spans while covering cvenu. 
+
+
+
+
+
+
+Right: Heidi Saliba 
+joined the staff of The 
+Comtnunii:3(or Ihis 
+summer. She staned out 
+as a .^taff writer and is 
+
+
+^A 
+
+
+
+
+now ihc i:hief icponcr. 
+A scnio. majoring m 
+
+things Salib.T enjoys the 
+
+Ihe ncw.-spjpcr are doing 
+
+
+Pi 
+
+
+
+
+more about IPFn,V 
+
+
+ChisI Reporter F/ 
+
+
+
+
+
+Left; Brian Miller i 
+advertising m j na 
+for The Communi 
+
+
+
+jnd Ihe every day responsi- 
+bility of being agoodciliien 
+and reptcsenling IPFW. He ts 
+
+
+
+/IPFW t 
+
+
+
+Campus 
+- Calendar 
+
+
+
+for Aug. 25-31, 2000 
+
+
+
+25 S.A.B. "Welcome Back" dance, 
+
+enlerlainrretil by 17" Flocr, WU Ballroom, 
+7-10 p m . for informabon. call 6590. 
+UnilGil Sexualltlcs camping trip, 
+Mongo, Ind , conlmues through Aug. 27. 
+For informalion. call 6609 
+
+28 InlerVarsfty Christian Fellowship 
+(Intornatlonal Chapter) Fort Wayne 
+tour, WUInformahon Desk, 10am .(or 
+(nformalion.call219-749-7S33 
+Soccer Showcase (fealunng NCAA 
+Diuision I Men's Nalional Cfiampion, 
+Indiana University, and NotfeDame, Soulh 
+Carolina. Akron, SI Louis, DuKe. Rulgers, 
+and IPFW], Heffner Soccer Fields, noo n- 
+9pm, continues Aug. 27. Advance 
+iickets, GC, SB and SIO. bckets at the 
+gate, S8 and S15 For infoimaiion, call 
+6643 
+
+Multicultural Services Latin Music 
+Concert, WU Ballroom, 7-1 1 p.m . for 
+informalion.caiiesoi 
+
+
+
+29 Writing Center open house. KT 234, 
+9 a m.-5 p.m , and Aug. 3tl, 10 a m - 
+7 p m . for inlormalion, call 5740 
+
+
+
+30 Fitness Center "Wefcome Back" open 
+house (free Filness Center use), GC. 
+6a.m-flp m. Fonnformalion. call 6519 
+
+31 Writing Center opens for writing 
+consultalion, KT 234, 10 a m,-7 p m . for 
+in forma lion, call 5740 
+
+Upcoming September Events 
+
+4 International Students LaborDay 
+picnic, noon, for infonnalpon. call 
+219-749-7533 
+
+6 College-Level EKamlnatlon Program 
+(CLePl,iai4e, B:30am. 
+Career assessmanlgroup 
+Interpretation, KT 148, 4 15 p m 
+
+5 Center (or Women and Returning 
+Adults dinner for students with families. 
+WUG21, 6-8 pm. fonnformalion, call 
+6029 
+
+1G tJnited Sexualltlas cookout and dance, 
+WU. 6-1 1 p.m.; free admission and food, 
+everyone invited Forinformalion.call 
+
+
+
+19 Omnibus Lecture Series presents Jim 
+HIghlower. WU Ballroom, 7 30 p.m.; for 
+Infotmalion.calieeoa. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+n CELERON 466 SYSTEM 
+
+
+
+.,ae3 ,V STiNE COMPUTER 
+
+
+
+Located in Coldwater Crossing Mall 
+
+Hours: Mon. toThur. 10am-7pm FrI.&amp;Sat 1Dam-Spm 
+
+
+
+Only 
+$499 
+
+
+
+CPU. 32 l.m SDfW.1, 4.3GB Haul 
+Onuo, JOH CID-ROM. Built-in Vioeo anc 
+Sound, TOnflcws 93. Mcmiloi scia 
+iepciaWy, Limited quantity. See 5loia 
+
+
+
+STONE 600 MHz SYSTEM 
+
+with 17" Monllof 
+
+Only Th 
+$999 Li' !S&gt;t 
+
+
+
+2aMBSORAf.1.20GB 
+
+
+
+(fl Dive. at.lB AGP Vii 
+
+
+
+P-lll 500 MHz SYSTEM 
+
+with 15" Monitor 
+
+Only 
+$899 ^' 
+
+Jy5lemiFTciutlej;inietPlil50« 
+
+:pu.wmbsora&gt;.i. lOGBH; 
+
+
+
+STONE 800 MHz SYSTEM 
+
+with 17" Monitor 
+
+$1299 »)S'^ 
+
+System inciuiJos. rniBi P ill BOO€B CPU. 
+128MB PCIMSDRAM, WD 20GB Hare 
+&gt;nvB. aMB AGP Video Caid , SOU CO- 
+ROM, Dviilnond 56H ..90 Fai/I.todem, 
+
+I bit Sound Card, WinOrr/a SB SE, 
+
+- KDS Uonllof 
+
+
+
+ACER 433 MHz Nolebool 
+
+with 12" Screen 
+
+
+
+Otily 
+$1099 
+
+
+
+SDRAM, i 6GB H3n) Drive, 241( CO- 
+ROM. 56K v 60 Fai^Modem. Windcr-j 
+
+
+
+TONE 750 MHz LAPTOP 
+with 14" Screen and DVO 
+
+
+
+Only 
+$2599 
+
+
+
+H1-TI=TSoeon.l28Ml 
+SORAM.ATiVmJwj, lIGBHatd 
+DVD-HOM, S6K . » fsxUfaOsi 
+Windtws 9B. 1 Year Pans and 
+Wananty 
+
+
+
+Stone SOOMHZ Upgrade Upgrade Kit: DFI S7 MB w/512K, AMD K6-2 500 i 
+CPU. 32MB RAM S199 
+
+
+
+HURRY IN FOR THESE SUPER SAV NGS 
+
+
+
+
+$549 S 
+
+
+
+AMD TtiundatHd 
+
+
+
+$89 S&gt; 
+
+■WO20GBArA665400RPM SI 
+IBM55GBU1tM7200RPW. Si: 
+IBM JOGS U 100 72«)RP 
+
+
+
+Thinking about upgrade? 
+
+Want to network your home or office computers? 
+
+Need a new server or high-end CAD station? 
+
+Come to Stone Computer! Our certified staff will help! 
+
+
+
+CqMjPAa_ : 
+
+
+
+I aCcrf ] 
+
+\ LsTnNFM.lMJhiga PHONE: 471-9989 | 
+
+
+
+to Old Counliv Butfd) « ™i •- "i» i. ™ . *.o. 
+
+
+
+"'-•""'"""•' 
+
+
+
+Baam 
+
+
+
+mjJJ.M!Mi-»HL-lM 
+
+
+
+Augusc 24. 2000 
+
+
+
+ORlnlons 
+
+
+
+Pagt 6 The Co 
+
+
+
+Use of interactive video games on the rise 
+
+
+
+
+Imaginf 
+
+please wim iiilie lear or 
+consequence You could 
+fish alt d4y, hum or U'ade 
+•niics with oLher people all 
+day. depending solely upon 
+whai you choose lo do If 
+
+could lum lo a life of crime 
+
+
+
+quickly laking over ihe gam* 
+
+have come a long way since [he 
+CO days of two decades ago They have 
+games Ihai could barely mimic the 
+;nms malch to games that can almost 
+perfecily recreiie Ihe rush of bungce jumping off a 
+dam. Now games have Iheir own liiilc worlds, seem- 
+ingly bif gcr than our own world, but in icalily, no big- 
+ger than D liiilc microchip. These worlds come fully 
+equipped with their own sorts of creatures, landscapes 
+and populations in which characters cTusIomized by the 
+vanaus players ctplore. hoping lo obtain rare and 
+needed ilems. as well as complete different quests. 
+Theu online games come equipped with chal engines 
+thai allow players to talk back and farlh lo each other 
+as though Ihey were having a conversation. This helps 
+players ally wiih each other ot lum against each other. 
+
+latcs real life. 
+
+
+
+I where which can all be played either offline or on servers 
+as they sitch as Ballle.neL There are also games such as 
+fear of Ultima Online and EverQuesl that are piimaiily online 
+I could games in which the player must pay a mondily fee in 
+or U'ade order to play the game. These games seem more real- 
+istic andean have thousands of people playing on each 
+
+amount of people on these games at a lime can be 
+jlaggenng. 
+
+Despite the bonuses for gamers in having very 
+detailed and intense games that simulate reality very 
+elUcienlly, there are many negaiive aspects lo these 
+games. The fiisland most obvious do'"nsidc is the fad 
+that, tor games such as EvecQucsl and Ifllima Online, 
+there is a continuous charge for game play. Though ihe 
+rates may not seem that much by themselves {under 
+SIO per month), over a shon period of time, the 
+amount of money spent is a little more ihan what a 
+new game by Itself would cost. There is also Ihe fact 
+that a lot of the software used in these games call for 
+the very best in hardware such as 3D video cards, 
+lightning- fast processors and top-of-lhe-line sound 
+cards. In order lo play, however, one must pay. 
+
+Another downside to these games is their addic- 
+tive qualities. With a large world for ciplomtion. Iols 
+of side things to da such as fishing and hunting and 
+wilh difTicult tasks for the players lo complelc. the 
+game can become loo dillicult to quit. Throw in 
+human interaction via in-game chat with other players 
+and the time a player will spend online will compound 
+as he or she gets more and more into the game anii 
+more and more detached from everything else. The 
+addictive nature of these games can be very bad for 
+those who play ihcm. 
+
+Many people are overlooking these points, 
+however, as online iniecaclivc games are taking over 
+the gaming industry. By providing users with eiciling. 
+no consequence places to aid them in their escape 
+liable, each from their own mundane realities, the software com- 
+aie making millions of dollars while making 
+u o( people happy around Ihe world. 
+
+
+
+What are your goals for this semester? 
+
+We asked students what their goals are for the fall semester of 
+school. Here is what some of them had to say. 
+
+Photos by Unda Leslis. Spoils Editor, and Malissa Fiitz, Managing Edito 
+
+
+
+Fatnm 
+
+SAB prepares social events for students 
+
+
+
+By HeltJI Salltia 
+
+
+M.C. Hammer and Usher, and 
+
+
+22. and will feature Vic Henley and 
+
+
+Chief KcpoHer 
+
+
+they've even appeared over at 
+Pietes. hut ihis is pretty nice 
+because they're going to be here, 
+and those who are under 2 1 can see 
+them for once." 
+
+
+Eric O'Shea. "It's going to kind of 
+be in 'opposiles atlract" show." said 
+
+
+
+
+with Jeff Foswonhy on some of the 
+■redneck' things and was VJ for 
+
+
+This Fnday. Aug. 25. the 
+
+
+Siudeni Activities Board is bringing 
+
+
+On Saturday, Aug. 26, SAB. 
+
+
+VH-1. Enc O'Shea is the complete 
+
+
+The Seventeenth Floor lo IPFW for 
+
+
+Multicultural Services and 
+
+
+
+
+an on-csmpus concert. According to 
+
+
+Hispanos UnidoS are iinponsonng 
+
+
+he's more up-to-date, more rccetil. 
+
+
+Jcnee Johnson, student body pro- 
+
+
+a concert by a hand called 
+
+
+He's a younger comedian." 
+
+
+gramming director. The 
+
+
+Metenbanda. Merenbanda is a 
+
+
+This year's Midnight Madness 
+
+
+
+
+meringue band from out of Chicago. 
+
+
+will be on Saturday, Oct, 14. 
+
+
+R&amp;B group who do a little allema- 
+
+
+Admission to bolh the concerts is 
+
+
+Johnson said thai details arc sull 
+
+
+tivB also. They're unique because 
+
+
+fre* and open to the public. 
+
+
+being worked out for Ihe evenl. but 
+
+
+Ihey have a full band behind 
+
+
+Scplembcr ushers in the begin- 
+
+
+
+
+them ..they're doing coders of 
+
+
+ning of Club SAB. a ycar-lang com- 
+
+
+
+
+
+
+
+
+
+
+olher musicians thai ore very well 
+
+
+mostly be held on Friday evenings. 
+
+
+
+
+known. They ve loured with TLC. 
+
+
+The first Show will be Triday. Sepl. 
+
+
+See SAB, page 7 
+
+
+
+STUDENTS 
+FACULTY 
+
+Come to 
+
+kinko's' 
+
+and receive 
+
+
+
+m 
+
+
+
+10% OFF 
+
+by showing your 
+school identification 
+
+
+
+
+VlVt.CctrimmaM 'I 
+
+
+
+SUBWAY AT RIVIERA PLAZA 
+
+486-8813 3233 ST. JOE ROAD 
+
+WANTS TO WELCOME BACK ALL STUDENTS AND 
+
+TO SHOW WE CARE WE HAVE MADE SOME 
+
+SPECIALS JUST FOR YOU! 
+
+
+
+On Monday we will give you .50 ' 
+cents off every 6 inch sandwich ' 
+and $1.00 off every footlong I 
+
+sandwich! Must show student ID! I 
+
+I 
+Tuesday is study buddy night. I 
+
+Purchase sandwich, chips and a I 
+drink and we will give your buddy I 
+the same free! With student ID. I 
+
+
+
+m 
+
+tZl 
+
+Co c 
+
+
+
+S B 
+
+
+
+
+jAI 
+
+
+Lett; 'To gel 
+
+
+
+
+|4i«ctL 
+
+
+my CPA up lo 
+
+
+
+
+Pt 
+
+
+proper sland- 
+ings anil lo pass 
+
+
+
+
+L^AL.,.^fl 
+
+
+said Kever. 
+
+
+
+
+Joih 
+
+
+
+
+
+
+
+
+
+
+Rodtfen 
+
+
+Freshman 
+
+
+
+
+
+
+
+
+
+
+Elementary 
+
+
+
+
+
+
+Education 
+
+
+
+Left: "Adjust lo.living in Fori Wayne 
+
+and lo college," said Akis. 
+
+"To make it." said Spnineer. 
+
+'To do belter hen: than in high school," 
+
+said Fen wick. 
+
+'To do good and make money still." ia\ 
+
+
+
+Lett to Right; lEaac Akls Freshman, Business and 
+
+Communications; Kyle Sprungcr, Freshman 
+
+Elementary Education; Max Fenwick, Frethman 
+
+Mechanical Engineering and CtielseA Tolsma, 
+
+Frestiman Elementary Edticallon 
+
+
+
+Words of Wisdom 
+
+
+
+Life is my college. 
+May I graduate well, 
+and earn some 
+honours!" 
+■ Louisa May Alcott 
+
+
+
+"Education is not a product: 
+mark, diploma, job, money- 
+in that order; it is a process, 
+a never-ending one." 
+- Bel Kaufman 
+
+
+
+Studies serve for 
+delight, for 
+ornament, and for 
+
+ability." 
+■Francis Bacon 
+
+
+
+
+Exciting Menu Items! 
+
+Fast Carry-Out! 
+
+Great Prices! 
+
+Located on Campus! 
+
+
+
+GREEN 
+PICKLE 
+D'E-L-i 
+
+
+
+Walb Union Cafeteria 
+
+Hours: 
+
+Mon-Thurs 
+
+7:30am-4:00pm 
+Friday • 7:30am-2:00pm 
+
+
+
+Kettler Hall Cafe 
+
+Hours: 
+
+Mon-Thurs 
+
+8am-2pin /4pm-6pm 
+
+Friday •8am-2pm 
+
+
+
+August 24, 2000 
+
+
+
+Campus 
+
+
+
+Student leaders discuss campus life, future goals 
+
+
+
+By Heidi Sallba 
+
+Chief Reporter 
+
+
+
+f 
+
+
+
+I Joh 
+d year a 
+
+
+
+rung fm 
+jjdcnl of 
+
+
+
+Sludini Body Progian 
+Prcsidcnl nf ihc Srudeni AcLiviiiu 
+Board ai IPFW. She his been a 
+siudem here since 1996 She is a Fon 
+Wjyne mrivc and gridualcd from 
+South Side High School, Johnson 
+was inlcrvicwed about her lole irt 
+;ludcni ai:tivitiu and her plans for 
+the fulure. Here is a partial iranscripl 
+
+
+
+HS: What is your role (as nee ptesi- 
+
+ni Body ProEiamming and presidenl of the 
+iliu Board|. in relationship 10 the sludenls 
+
+
+
+H5:Whai da you like best about this position? 
+
+JI: What I like about this posilion is being able to book 
+difTerenl comedians and ihin^. because it's something 
+ihal I would neier gei a chance la do anynhcic else. 1 
+Ihtnk ihe thing I like ihe best is jusi being an all-around 
+person, a person thai can gu lo some ficuUy things and 
+completely understand it because you're almosi on the 
+faculty edge of the university, but also you're slill a stu- 
+dent and so. you're u.e I l-in formed. In this position, if 
+you sec something that you don't like about Ihc univer- 
+jily, you have a good way of changing ii. Ifyou n-ant to 
+see more student life happen, you con go out and talk lo 
+students, bul then you can go and talk lo Ihe faculty and 
+say. 'let's make this happen.' 1 enjoy thai. 
+
+HS: You're going lo be graduating here neil spring and 
+you bad mentioned about possibly going lo graduate 
+
+
+
+c been looking at placi 
+
+
+
+}i: My role. I guess ihc best way of putting ii. 
+fall lomewhcre in between the facility : 
+■ y of finding out i 
+
+
+
+as California. 
+t. Linda Taylor 
+from ACCS (Academic Counseling and Career Services) 
+
+
+
+
+
+
+II Ihe 
+
+
+
+iking for ways of 
+improving the campus I report loa lot of people on cam- 
+pus and talk to a lot of adminisU3linn and I give them 
+ideas |Thil| sometimes (alls outside my guidelines. I 
+just like being lhai middle person. In ihc long run. I'm 
+pieiiy much the president of Ihe Student Activities 
+Board, so therefore I make sure the meetings are held. I 
+watch the \olCi. make sure things gel done and on ihe 
+oihei hand. I'm kind of like an agent for the school. I 
+rcprcscnl IPFW at conferences such as NACA (National 
+Association for College Acliviiies). I'm a coniact for 
+other students at dincrcnt schools who may warn lo sec 
+what we're doing. [I'm involved in| publicity and I 
+
+
+
+HS: How miny years have you held this position? 
+
+JJ: This is my second year. I was the pro tempore before 
+this. The pro tempore Is almost like ihe vice lo the 
+'ailable, then Ihe pro 
+
+HS: How did you become interested In this? 
+
+JJ: When I was a sophomoie. my second year here, 
+someone came and approached me about SAB, I wis 
+involved in student government in high school bul 1 
+wnsn'l involved here on campus. The president at Ihal 
+lime kept bugging me about coming lo a meeting. So I 
+finally came to one and I enjoyed it. Then I nenl lo their 
+first event, which was Mike Raybum. and I really 
+enjoyed thai and said, 'Hey. I can do ihis.' And so that's 
+when I got involved wiih n. 
+
+( 
+
+
+
+HS: What are your professional goals? 
+
+JJ; I want to do many things, because I've kind of done 
+that all my life. Right now I'm a speech coach, I'm in 
+this [Sludcnt Govcm men t/Aclivi tics] position. I've been 
+looking into interning. I don't like a repciilive life 
+theme; 1 dan'i want to be doing the same ihing from one 
+day lo the nett. I wouldn't mind working for a profes- 
+sional booking agency. TTiat's one of the lop things I'd 
+
+
+
+HS: What arc some life goals 
+
+Spanish lluenlly, I've worked 
+
+on hal&lt; 
+thing. 
+
+
+
+'hile bccai 
+
+
+
+on that for a lone time. 1 
+kind of put my social life 
+so into school and every - 
+
+
+
+Johnson said she'd like to travel lo Spain and ge 
+I Canada than she has traveled previously. She 
+imentisgoingwitha 
+They're Here." The 
+phrase is from Ihe movie "Pollergeist" and will be 
+played out across campus ' " . -. . 
+
+
+
+added that this year. Student Govei 
+
+
+
+Govei 
+
+
+
+Johns 
+
+
+
+Studc 
+
+
+
+nl officers have open office hours if sludenu 
+need to contact any of Iheirteprescntnliv'es. The Student 
+Cfovemmeni office telephone number is (219)481-6586. 
+
+Jenee is on campus every weekday and her office is 
+in Walb 235D Jence can aljo be reached at (219) 481- 
+6S90 oi by fax (219) ^Sl -6045 One may also e-mail her 
+at ituvpsp@holmei ipfw.cdi(, ' . 
+
+
+
+By Held! Sallba 
+
+Chief Reponer 
+
+
+
+IPFW Sludcm Body President Nick Gray his been 
+involved with student govemmeni since Ihe middle of 
+his freshman year. Gray came to IPFW from 
+Tippecanoe Valley High School (west of Warsaw, Ind.) 
+in the fall of 1997. He will gnduale neil spring and 
+would like to teach high school social studies and 
+English. He was interviewed lasl week before fall class- 
+es started and spoke aboul his ideas (or IPSGA (Indiana ■ 
+Purdue Student Govemmeni Association) and his 
+future. Here is a partial transcript of Ihe interview: 
+
+
+
+NG; First of all. I'd like to make Sludeni Govemmeni 
+moreproaciise, inslcad of reactive, to do things before 
+there's a problem on campus. Kind of like our Rape 
+Aggression Defense, the RAD program-, I'd also like 
+lo gel a syllabus from every |1PFW] leacher on the web 
+■ in look and see what's eipected from you and 
+
+
+
+remembei 
+
+wanted lo do fifteen calcul . .„ 
+
+the beginning and I really fought 
+bard and told them it would be 
+cessful if we did it and now 1 1 
+we sell 70 calculolors In Ihe 
+week, with a wailing lisl of 20 ti 
+so obviously there's a huge pusi 
+
+
+
+
+gclar 
+
+
+
+...of the 1 
+
+
+
+[schedules] on for nesl year, I'd like lo 
+
+for die neil year. Some classes are only offered eve 
+three scmeslcrs and ifyou don't hit it right, you're 
+trouble. I wish we could olTer more class times hci 
+I've talked loa lot of older students and they have iro 
+bit gelling into class times here. A ccnain class is on 
+on"eiedonetimeadayandii'snDia very good time, I 
+a real awkward lime. 1 know that's a huge problem wi 
+a lot of people 
+
+HS: What kinds of things have you done in Ihc past l&gt; 
+
+
+
+HS: Privately, as a citizen, whal arc your goals? 
+
+NG: I'd like lo contribule lo society, in some way. 
+Maybe Ihal's why I want lo get inio politics. There |are| 
+a lot of things I don't like about the Uniled Stales, but 
+I'm also very proud of it. I enjoy the freedoms that l 
+have and I realize ihat I may have to give up some 
+things for these freedoms, but lo me it's worth iL 
+
+
+
+Gray also said he would Ilk 
+"join Student Govemmeni oi 
+athletic events and go to see 
+J they put 01 
+
+
+
+ik that' 
+
+
+
+loencourage Sludenls 
+n oiganiulian, go to 
+le plays- Come lo the 
+1 campus I 
+
+
+
+a college fun. being involved." 
+
+
+
+How to coniact your Sludeni Body Presidcni. Nick Gray 
+in person: Most days Gray is available from 12 noon lo 
+2:30 p.m in Walb 22SB, By phone: (219) 48 1 -6588 or 
+by fat: (219) 4S1-604S, He can also be c-mailed al 
+sluptcs@holmes,ipfw.cdu. 
+
+
+
+Activities to continue tliroughout semester 
+
+
+
+SAB, cont'd 
+
+■'lI'sBijinetobca 
+
+
+
+
+
+
+car, so we're hoping 
+to gel a good response from thai, 
+lou," said Johnson. 
+
+On Friday, Oct. 20, Club SAB 
+will be hosting comedians Mark 
+Eddy and Edgar Crui, Eddy inler- 
+iwincs guitar playing wiih his com- 
+edy, while Cnii does more gullar 
+playing and is famous for playing ""^^J^'J,, , 
+pick "If you love guiiar '"""'"" " 
+
+
+
+"this 
+
+
+
+campus in November Hicks was a 
+cast member of the hit iclcvision 
+show "Hangin' With Mr. Cooper" 
+and she has been on various radio 
+
+Vbnscca has appeared on ihc 
+
+Lalino Laugh Festival and other 
+
+shows.On Friday. Dec. E, the final 
+
+show of Ihc semester will feature 
+
+Reboot. I a Blooming ton band dial 
+
+at Piere's and has done 
+
+'Otk by groups such as 
+
+Nails and Fal Boys Slim. 
+
+illy good." 
+
+
+
+
+
+
+■For th 
+
+
+
+The following Saturday morn- 
+ing. Dec. 9, SAB is hosting 
+Breakfast With Santa for students 
+with families and anyone else who 
+IS mtere.5ted in participating. All of 
+Ihe Club SAB comedy events will 
+be held in the Walb Union 
+Ballroom For moie information on 
+Cni7, who is performing on Ocu 20. 
+
+
+
+d Rente Hi^ks,yfill-bc5CipDng,io- 
+
+
+
+usic,'lllat Faj Hiiys Slini.docj, lit., 
+
+
+
+
+and. 
+
+
+
+TTOW 
+
+
+
+
+Features 
+
+August 24, 2000 ■ ^^^■•W"" ^m^m 
+
+Website keeps friends in touch 
+
+
+
+™™""^° 
+
+
+
+Ever Tind yourself conlemphling 
+high ichool memories of clisimaies? 
+Ever wonder whii happened (a certain 
+members of your clasi ih^I peitiafs you 
+were once close wilh. bul now (imply are 
+oul or touch? 
+
+Highschoolalumni com is i quick 
+and easy answer lo tracking down lost 
+Friends, or merely Jusl (ceing where fiir- 
+mcr clasitTuitcs ore in iheir lives. 
+
+The site was created by students at 
+A.C. Floia High School iti Columbia. 
+S C. who "wanlcd an easy way to keep 
+track of each other after graduation." the 
+tile's info page says. And il is Jusl that 
+
+All you ha veto do i* register a user- 
+nime and a passwoid. ond then provide 
+some personal information, like age, 
+addrcit, e-mail, phone, number of kids 
+and anything "interesting" (don't be sur- 
+prised at some of the things you might 
+find oul) (hat you want other members of 
+your class and site users to know about 
+you. You'll then receive a conlirmation e- 
+mnil letling you know you can log into ihe 
+
+
+
+The! 
+
+
+
+a spon- 
+
+
+
+sor. AmeriTrack Inc.. which has helped il 
+expand to include more than 28,000 high 
+schools m the United Stales. The actual 
+
+
+
+number of users depends largely on who 
+
+Some classes, for instance, have no mem- 
+ben listed, while others have 30 or 40. 
+
+IPFW has no 
+
+Napster 
+
+policy yet 
+
+You might 0.1 well use it while you 
+can, before Ihe Recording Industry 
+Associauon of America has its way and 
+Napslcr-lhe best thing to happen lo music 
+since compact disks-geu shul down- 
+Depending on what report you read, 
+Ihe free music Tile sharing database will 
+cither be shul down completely and indef- 
+initely, will be allowed to run as il is with 
+some or no restrictions or will be turned 
+into a subscriber service much like 
+cable-that is you pay IS or 20 bucks a 
+month lo download all the music tiles you 
+want. It all depends on a court decision 
+scheduled for Seplembcr. 
+
+IPPV's Information Technology 
+Services, which oversees sludent compui- 
+ing labs, his no policy on Napster use. 
+says Bob Kosimbanic. DireclOr of ITS. 
+"The incentive is not quite Ihere. There is 
+
+
+
+lime," Kosuubanic says. 'TVe've dis- 
+cussed it at Informalion Technology poli- 
+cy meetings, bul we haven't made a deci- 
+sion yel OS to wheiher we need to control 
+il," Kostnihanic says, "I guarantee that 
+ihete will be a policy if il really starts lo 
+chew up [he bandwidth." He adds that 
+mciiytes FTS not 
+
+
+
+
+
+
+rnthc I 
+
+
+
+hai 
+
+
+
+ilude blocking the MP3 Tiles from com- 
+into Ihe network and limiting the 
+ml of bandwidth that Napster can 
+
+if MP3 nici, 
+
+
+
+Because of ihe nati 
+most of which are about ; 
+byles in siu, it simply is eihnusling and 
+impractical to try downloading them over 
+a standard 28. 8 or SGk home Intcmrl con- 
+nection. Ideally, you'd warn a high speed 
+network connection similar to ihir one 
+available at the sludent computing labs on 
+
+So all you need lo do is download 
+the Napster software, available free at 
+www.napjter.com. set il up. get an MP3 
+player like Winamp (also free at 
+wivw.winamp.com) and you're ready lo 
+Stan downloading and listening to practi- 
+cally any song you can think of. 
+
+Bring along a Zip disk to store ihe 
+programs and Ihe MP3 files, (hough, reg- 
+ular floppy discs ore far loo puny to store 
+more Ihan one MP3 file, if that. 
+
+
+
+
+The state of AIDS: first plague of modern era 
+
+
+
+MIMT 
+
+
+
+December 21. 1997-a dale Mark Price will never 
+forget. Il was the day he wis diignosed with HIV. 
+
+"1 wasn'l shocked by my diagnosis," says the 
+Bloominglon, Ind.. resident and lU masler'i degree stu- 
+dent. "1 lost lovers and friends and seiual partners to 
+HIV from the '80s on. I certainly realized ihat as a sex- 
+ually acuve gay man near 40, il could be cipecled that I 
+would eventually be diagnosed with HIV." 
+
+Initially. Price says the virus "seemed to suike" 
+rapidly, leaving him very sick. 
+
+Afler his body got used lo 
+combination drug therapy, he went 
+10 combat illness and to prolong 
+life. He did, however, begin 10 reco 
+
+Price knows AIDS is a death s 
+
+
+
+possible for Ihe drugs to slop working, thai 
+being developed won't help me or thai I'll expenence an 
+oppoiTumslic infection thai 1 can't conuol. So be il. I try 
+10 keep myself expecting very good things, while under- 
+standing my teolily." 
+
+Thitiealily is shared by a growing number of peo- 
+ple. Price IS Jusl one of Ihe 33.6 million people world- 
+wide diagnosed wilh HIV. To date, 16 3 million people 
+have died AIDS-relilcd deaths. 
+
+The virus is our modern epidemic-our "Black 
+Dealh" or "Bubonic Plague." 
+
+Researchers continue lo pummel us with ihe basic 
+facts of the virus. Anyone can gel it, no mailer who you 
+
+
+
+U.S.. 733.374 people jre HIV positive. 430 
+Americans have died of AlDS-ielated illnesses. , 
+York and California lepon the most AIDS coses 
+136.062 and 113,366 respectively. In compiiri 
+Indiana reports only 5.762 AIDS coses. 
+Worldwide, perhopi ' 
+
+
+
+cnlly suffering Ihe virus" 
+
+
+
+c.lfyo 
+
+
+
+Ihmg 
+
+
+
+e face; 
+
+
+
+:ver&gt; 
+
+
+
+I wasn't prepared 
+for how good my 
+
+ife would be after 
+diagnosis." 
+-Mark Price, HIV 
+
+
+
+II form of 
+
+
+
+day, bi 
+
+presence of death strangle his life. "1 
+wasn't prepjied for how good my life .. , ,rr *. j 
+
+would be after diagnisii:" he "says. "I positive I U Student.} 
+
+have a loving home life, loving and several years oei 
+
+supportive parents and lots of the best fncnds anyone defenses against illness usele 
+
+could hope for " "" majority of peopli 
+
+His diagnosis also "opened" him up lo "positive, *'■'''" f'" years of diagnosii 
+
+^ ^ f l~ Tlie Center for Disea.« 
+
+
+
+Although Ihe n 
+transmission has always tieen hoving se* 
+wilh an infected person, people also get 
+infected by using conlaminaled 
+needle-whether shooting up drugs, getting a 
+tattoo or some oiher needle usc-and mothers 
+can pass Ihe virus on lo Iheir babies 
+
+Once inside a person's body, Ihe virus 
+
+
+
+ISm 
+
+
+
+decimation 
+
+countries South Africa, Zimbabwe, 
+Botswana, Swaziland and Namibia. 
+Nearly II million people are infect- 
+ed wilh HIV in Soulhern Afnca. 
+Life expectancy now dwindles io 
+around 30 years in some African 
+countries. Other countric', m Africa 
+will see a negative population 
+growth for Ihe year. 
+
+Although researchers plainly 
+
+unknown, many believe it came from Africa, The first 
+known case came from a 1955 blood sample of a man 
+who lived in ihe Democratic Republic of Congo in 
+Southwestern Africa, 
+
+An Associated Press article circulated in June 
+reports that some researchers believe Ihe virus likely 
+
+killer" about 1931, The 
+ihconze that, as transportati 
+
+
+
+"I think we sometimes 
+think only gay people 
+can get it; 'it's not going 
+to happen to me.' And 
+here I am saying that it 
+can happen to anybody, 
+even Majic Johnson," 
+-Ervin "Majic" Johnson 
+
+
+
+California doctors first began reporting patients' 
+symptoms thai would later be identified as regular 
+symptoms of AIDS infection in the late 1970s. By 1983. 
+doctors had isolaled and named Ihe virus. 
+
+To combat the virus, corriers cail be treated wilh 
+combination drug therapy, commonly 
+called "drug cocktails." Combination 
+ireatmenis slow down Ihe rale ai which 
+HIV develops or replicates and becomes 
+suonger wiihin Ihe body, while at ihc 
+same lime fighting off illnessei an 
+AIDS-wcakened immune system cannot 
+
+
+
+Pnce remembers being "sick 'as' iQ 
+dog" when he began taking combination 
+drug therapy. Eventually his body got 
+used to Ihe drugs 'Current therapies- 
+nhcn they work-really extend life," he 
+
+
+
+id from Africa, the vi 
+
+
+
+
+
+
+hers quoted in Ihe article 
+continued to develop and 
+c people passed through 
+
+
+
+"AIDS is a life long-siory," he adds, " When peo- 
+ple were dying wilhin months of diagnosis and ttiosc i 
+deaths could be neither ameliorated nor slopped; people | 
+paid alteniion. This wasihe firsT plngiic of the ma^eraLJ, 
+eta in ihis country whose victims were dcmonized by 
+some as deserving of their horrible deaths. 
+
+Such cruelty shocked many people It raised 
+awareness ond determination among people. They gave 
+money They got involved. They cared," 
+
+
+
+RIDS Timeline 
+
+
+
+1931 
+
+
+1940s-1950s 
+
+
+1959 
+
+
+Late 1970s 
+
+
+1983 
+
+
+1987 
+
+
+1991 
+
+
+Present ,, 
+
+
+In Africa. HIV 
+"evolves from a 
+benign sunian infec- 
+
+killet." 
+
+
+HIV gradually spreads worldwide 
+OS transponaiion improves and 
+more people pass through Afnca 
+and are exposed to the virus. 
+
+
+A blood sample stud- 
+ied rcccnlly reveals 
+
+the Democratic 
+Republic of Congo in 
+1 959 had HIV 
+
+
+Doctors in Cabfomia begin 
+reporting symptoms among 
+palienu Ihai would later be 
+altfibulcd lo HIV infcclion. 
+
+
+Researchers iso- 
+late the virus 
+strain that causes 
+HIV, 
+
+
+FDA approves 
+A2T. Ihe firsi 
+
+the AIDS virus. 
+
+
+L,A, Lakers* bas- 
+ketball star Erving 
+'Magic" Johnson 
+shocks the nation by 
+announcing he has 
+HIV. 
+
+
+HIV research contin- 
+ues Id tnake headway 
+as docs development 
+
+
+
+L.ET rm IKIIIfiHTBK VOVII 9S»IIL,e 
+
+
+
+
+The Student 
+Recreation Center 
+
+
+
+For Information call: 
+481-6610 or 481-6614 
+
+
+
+Rental for Billiards, Table Tennis and Darts 
+
+" '" minuta.) 
+
+d 
+
+
+
+Augu5l 24, 2000 
+
+
+
+Feaiupes 
+
+
+
+American Health Fitness 
+
+
+
+Gold's Gym 
+
+
+
+
+Phalo by Todtl Homm. foalufo; 
+David Follrod, also plclurad above « 
+
+
+
+Welcome Back Party 
+
+
+
+
+THE 17 th 
+FLOOR 
+
+
+
+SAB Brings in one of the most impressive 
+
+blends of hip-hop and rap music artists. 
+
+Accented by exciting choreography, The 17th 
+
+Floor has toured with both TLC and MC 
+
+Hammer. They have also appeared with Usher 
+
+on the Keenan Ivory Wayans Show. Come 
+
+check them out as they appear here at the 
+
+Walb Union Ballroom. Admission is free and 
+
+refreshments will be provided! 
+
+
+
+Merenbanda 
+
+"RITMO 
+
+LATINO" 
+
+
+
+
+Latin Music Concert and Dance Chicago Band, 
+Merenbanda will be putting on a show 
+students will not forget. Admission is free and 
+food and beverages will be sold at a nominal 
+fee! 
+
+
+
+
+Get Real with God! 
+
+
+
+What's Happening with the IPFW 
+Campus Ministry Student Group? 
+"Bacl&lt; to School" Picnic with great food 
+and fun, Sunday, August 27th, 3-6 p.m., 
+Northside Park near State and Parnell 
+Weekday Noon Bible Studies on 
+Mondays and Thursdays, Walb 1 1 2 
+Great Fall Retreat September 8-10 
+Free Weekly Internet Devotional 
+
+
+
+CALL US AT 48f-6992 FOR 
+MORE INFORMATION 
+
+
+
+August 24. 2000 
+
+
+
+SRoris 
+
+
+
+Lady Volleydons start season at home Friday ni 
+
+
+
+8y Linda Leslie 
+
+Sporls Editor 
+
+
+
+mi 
+
+
+
+IPFW unti r 
+
+
+
+: the 
+
+
+
+Univereily of Chiric 
+p.m. in the Sumnei auiies 
+Invitational on Aug. 25 at the 
+Gates Ccnicr. 
+
+On Aug. 26, IPFW will 
+compele against Grace 
+College 11 I p.m. nnd againit 
+Wayne Slate il S p m 
+
+Two woidi may best 
+deicribe the IPFW Lady 
+\^llcydani^ work and cinng. 
+
+The 2000 Lady 
+Volleydons rejoin second- 
+year Head Coach Kcllcy 
+Hartley who had a 24-S over- 
+all mark and a 17-1 GLVC 
+record, allowing her team to 
+finish in second place m the 
+GLVC. 
+
+With Just two seniors on 
+this year's rosier, this young. 
+but etperienced group of 
+players is ready to mike iU 
+mark on (he national scene. 
+
+The Lady Volleydons 
+learned a greai deal from list 
+season's 24-8 campaign. First 
+
+
+
+a was the impor- 
+untc ui ijjnsislency on the 
+playmg Held. In certain 
+■ games lost scison, IPFW per- 
+il Tormed brilliantly, but m 
+
+be very vulnerable 
+
+" expect lo contend for 
+
+
+
+ie conference litte, 
+iiii i.,.&gt;i| and 1 e»f 
+
+
+
+Hartley 
+
+Lcadershii 
+important ospci 
+
+
+
+in thr 
+
+
+
+
+
+
+seniors Tami lich 
+
+and Laura Douglas. Their 
+ciperience. maluniy and 
+tremendous work elhic will 
+be motivating faclon Tor the 
+underclaumen. 
+
+Isch and Douglas are 
+iwchlime, First Team All- 
+GLVC selecuons. [sch made 
+1,422 assists (12.37 per 
+game), becoming the [PFW 
+all-time assists leader with 
+4059 tallies, Douglas led in 
+kills with 522 (4.S4 per 
+game) and digs with 421 
+
+
+
+compeiiuve individuals." 
+Hartley said.' Tim Heffton 
+
+They will out work any- 
+one. Tami is the best setter m 
+the conference and Laura is a 
+player that a lot rests on her 
+shoulders." 
+
+The stfength of this 
+yeai's team will be its unpre- 
+dictability. "We are a team 
+thai likes to experiment,' 
+Hartley said. 'We need to be a 
+little more aggressive." 
+
+'We are glid lo open up 
+at home: Charleston is new to 
+the region. Every time we 
+play, a regional match is very, 
+very important. It is much 
+more advantageous for us to 
+defeai a regional team in 
+order to help receive a nation- 
+al bid.- said Hartley. 
+
+Her team lost in a three- 
+game milch lo 1999 NCAA 
+Division II Final-Four con- 
+testant Northern Kentucky in 
+ihe GLVC Champ lonsliip. 'I 
+e:(pect Northern Kentucky lo 
+be the team to beat again,* 
+Slid Hartley. 
+
+The Lady Volleydons 
+suffered the loss of iwo key 
+players from !asl season's 
+
+
+
+squad. Jodi Schnelker and 
+Rachel Brown. Schnelker 
+was a First Team All-GLVC 
+
+Brown was Second Team All- 
+GLVC as a middle hitler. 
+
+This year's squad con- 
+sists of: 
+Setters 
+
+Isch. 5'6', from BertK. 
+Ind.. was the leom captain las) 
+season. She led ihe team in 
+
+
+
+Boissenel. 6'. from Angola. 
+Ind. was named First Team 
+All-GLVC and was second on 
+Ihe icam in kills wiih 359, 
+allcmpls 9-11. kills per game 
+3.49 and was third in blocks 
+per game with 64. 
+
+Junior Deanna Brown. 
+5'9'. from Moorcland, Ind.. 
+had a 31 service ace average 
+
+'Deanna and Courtney 
+are a very important part of 
+our offense.' said Hartley 
+Middle Miller 
+
+Freshman Kirsla Solberg, 
+
+
+
+composed freshman.* said 
+Hartley. Solberg will be start- 
+
+Junior Jenny 
+Millei, S'lr, from New 
+Castle. Ind,. led Ihe Dons 
+with 1.05 blocl:s per game 
+and was second on the squad 
+with 1 .272 attack percentage. 
+
+Junior Mindy Mills. 
+
+
+
+Leffers. 5'6'. comes to Ihe 
+Dons from South Side High 
+School. 
+
+Outside Hlller 
+
+Sophomore Amy Gro% c. 
+S'lO', is from Mansfield, 
+
+
+
+
+Dance/cheerleading team brings fresh start to Gates: seeking recruits 
+
+
+
+Hiy 
+
+
+
+MUJIilllilBJII 
+
+
+
+imer of uncertainty about 
+
+team' performing al IPFW's sporting events 
+and the belief from some members of Ihe 
+former dance Icam. the Silver Dolls, that 
+dance and checrleading are better off being 
+separate, the athletics deputmcni has decid- 
+ed on a combination of both, IPFW is now 
+searching for a maximum of 15 siudenls 
+who are able to do both. 
+
+"I am excited about a new opportuni- 
+ly and start. This is very important at the 
+collegiate level, 1 am happy lo have a com- 
+bined program and bring cicilemeni back to 
+Gates. This is a biand new start for Ihe ath- 
+letic departmenl." said Waller Bowman, 
+director of the alhlciics departmenl. 
+
+In the 1999-2000 school year, the uni- 
+versity has had some struggles in the area of 
+dance and cheerlcadii)g. The new coach and 
+
+
+
+also associate faculty of Ihe theater 
+menu Briciney Coughlin. has hopes that tne 
+new team |yet to be named) becomes a more 
+permanent and established part of Ihe 
+atmosphere at IPFW's athletic competitions. 
+Sin weeks before ihe beginning of 
+last school year, IPFW's cheerlcading coach 
+resigned. Without a coach, sufficient funds, 
+ume lo organize and missing uniforms, the 
+■Ihlelici department opted lo go without i 
+cheerlcading squad. 
+
+However. Ihe Silver Dolls managed lo 
+perform all year for a variety of sporting 
+events, despite similar difficulties. Part of 
+the reason for ihe lesignauon of the Silver 
+Dolls' coach, Kaly Hopkins, was due lo Ihe 
+feeling that there was a lack of gnswih. sup- 
+port from the administration and funds 
+(SSOO for the entire season). Most of Ihe 
+Dolls' supplies come from fundraiser? and 
+they did nol receive scholarships or college 
+credits is many other universily dancers do, 
+according lo Hopkins. 
+
+It looks as if ihe new member? of ihe 
+cheerlea ding/da nee team won'l have io 
+
+
+
+depart- worry about 
+
+
+
+forms will be covered. Dancers and cheer- 
+leaders will pay for iheir own lights and 
+shoes. Coughlin is uncertain if her leom will 
+college credi 
+
+
+
+cheerlcading or gymnastics. 
+
+The perfoimers have to be ready 1&lt; 
+and support the Dons a ' 
+
+
+
+Forth 
+
+
+
+eiled ir 
+
+
+
+mingm 
+
+
+
+crowds, a 
+
+
+
+and won 
+
+
+
+Coughlin is conducting an 
+informational meeting open to men and 
+women, on Aug, 28 al S p.m. in Room 106 
+of Ihe tjates Sports Center 
+
+"II helps 10 have experience and/or 
+natural ability. We arc also loo)ung for a 
+mascot to work with the team." said 
+Cnughhn. 
+
+According to Coughlin. there will he 
+three beneficial woikshops held In the gym. 
+prior to the actual try out. The first workshop 
+IS on Sept. 10 from 2 lo 4 p.m. The second 
+one is on Scpl. 1 1 from 7 10 9 p.m and the 
+Scpl. 14 from 8 lo 
+
+
+
+10 p 
+
+
+
+,. The fina 
+
+
+
+and all of Ihe men's and 
+lall games. For the majori- 
+ty of the season, the members will be 
+required to practice twice a week. "Hard- 
+core practices." as Coughlin described 
+ihem, will be held ihree limes a week during 
+Ihe busiest months of September and 
+October. Many rehearsals arc lo be conduct- 
+ed on game nights. 
+
+leading combined. It requires someone who 
+is a diverse person. Dancing is fluid and 
+cheering is sharp," said Coughlin Some 
+choreography has already been prepared. 
+
+Coughlin's background qualifications 
+are a bachelor's degree in dance perfoim- 
+ance and choreography from Hope College 
+in Holland. Mich., two years of leaching 
+Jazi. ballet and lap al the Nortl^east SchooJ 
+of Dance and one year of coaching ihc colnr 
+
+
+
+Coughlin said she has many names of 
+individuals, including several freshmen 
+from area high schools, who have shown 
+
+"1 am looking for people who love to 
+be involved and support Ihc school." said 
+Coughlin. The produclivily of the team, as 
+far as dance camps and compclilions go, 
+depends on the ability, opinions and aliiludc 
+of Ihe group, according lo Coughlin. 
+
+They may also perform in poradei and 
+local events. The future of IPFW having a 
+dance team and a cheerlcading team 
+depends on commitment and haw the pny 
+gram flourishes, said Coughlin. 
+
+
+
+For 
+
+
+
+additional informatioi 
+
+
+
+
+■-■■^''.'^^T'^gjMf^yj!^?^:^.' 
+
+
+
+student 
+
+Computing 
+
+
+
+IPFW! 
+
+
+
+A major pan ofyour academic life will 
+involvi: using computers to Stay 
+competitive and progress in your 
+courscwork. At IPFW, you'll use 
+
+•^ To e-mail instruirtors and classtr.jtes 
+•^ To access your sluclent information, 
+
+&lt;irop/add courses, and more with 
+
+OASIS (Online Access lo Student 
+
+Information Systems) 
+-^ For research via the Web and the 
+
+Hclmkc Library database systems 
+
+insiruttors post syllabi, assignments, 
+and other material on the Web 
+■'fi To prepare assi^ments in word 
+processing, spreadsheet, and other 
+apphcjlions as required by 
+
+
+
+Student Computing 
+Information on ttie Web 
+
+For UiB latest In IPFW computing 
+Intoimatlon, visll ths Stuttent Camp u ling 
+RMDurtaa Wet) site (or. In ths labs, click Ihe 
+Hums button lit I 
+
+
+
+http://www.its.ipfw.edu/ 
+students 
+
+
+
+Student Computing Resources 
+
+
+
+
+rni rn...piilrt I j1« ivilh Inli-m.'l Affji. hnp; //&gt;.».". Ill Ipfw.cdu/oicf.hlml 
+
+f irt 0&gt;tr liO Siudcnl-Actiii compuicri (PCi jnd Mm) In 9 lihi In S hulldlngi •crou ampul ind • 1 
+mnncil, IjKr println;. 7lp dlii dri.ci, CD-ROM Ind wund aplb(lll) (widl UKr-tuppIUd hndphonc: 
+■ ilinHPci'Jinil WfhP.iWiihlng^rp htlpi// www.lll.lprw.tdu/lll.clinll 
+
+•il utnunii irc pm.idtd lo ill IPFW itudcnli; t'lnill an be imixd fram t-mill kloiki loatcd In cici 
+
+inu mi) fomud ihcli iiudf nl F-mill lonimuilK where. Euh inidcnl ind oindil fPFW orginHiIlon i 
+I'll 10 MO of prnoiu) Web publuhing ipin id be lucd In n&gt;n|uiie1i&lt;&gt;n with unlicnil; reiponiibllllki. 
+
+ilS ((&gt;;illnf AffT.t m Sinilrni Inrn nfuiloTi SJ■ll^ml^ lillp://iu]ll.lprw.cdu 
+
+
+
+tp://mrw.llb,lprn.ed 
+
+
+
+
+
+IPFW HilLiard Gates Sports Center 
+"Welcome Back" Open House 
+
+
+
+Wednesday 
+
+August 30, 2000 
+
+6ani till 8 PM 
+
+
+
+FREE Fitness Center Use 
+
+FREE "Fit Check" Measurements: 
+
+7-8 am, 11-1 pm, and 5-7:30 pm 
+
+FREE Tours 
+
+FREE Refreshments 
+
+FREE Chance to Win a Gift 
+
+FREE Equipment Demonstration 
+
+The IPFW Hilliard Gates Sports 
+Center is the place to get fit and stay 
+fit! Get excited, call a friend and plan 
+to come to the Open House! 
+
+Sponsored by IPFW Wellness and IPFW's Department of 
+Athletics, Recreation, and Intramural Sports. For more 
+information call 481-6647. COME CHECK US OUT!;! 
+
+
+
+Sports 
+
+
+
+Page II The CoiT 
+
+
+
+
+Inaugural men's Soccer Showcase 
+Nations' top players compete on campus 
+
+
+
+leciind-roQnd EJii" Game 1 Loset v 
+Game 2 Loser, noan; Game 3 Lostr v 
+Gamt 4 Loicr 2:30 p.m.; Game 1 Winn 
+vs. Game 2 Winner. 5 p.m ; Game 3 Winn 
+vs. Game 4 Winner. 7:30 p.m. 
+
+
+
+Fundcnbeiger is the Hoosiers' 
+ri-iiimrn,^ scorer wilh 10 goals 
+-high 30 poinls. Ihanks 
+■ ■ - .He 
+
+
+
+
+The Duke Blue Devils, cMehcd by 
+the 1999 ACC Ctuch of the Year, 
+John Rcnnie. took (o equal or better 
+mplishmcnls in 2000. 
+
+
+
+Nine of I 
+
+
+
+■nmg. 
+
+
+
+IZ-ficM fadii 
+
+from IPFWs 
+
+lost Oclobei. 
+
+lion will be comprised of four gai 
+
+day wilh eight teams competing in the invi- 
+
+lalional. Single-day tickeis arc S8 and iwo- 
+
+day pauc! arc $10 in advance ind SIS on 
+
+game day. Advance lickcis aic purohaied at 
+
+the Giles Sporu Center by calling (219) 
+
+•ISl-6643 
+
+The panicipant.t comiisl of iwo-time 
+defending national champion and 
+NSCAA/Adidas Men's NCAA Division I 
+
+
+
+p(e-« 
+
+
+
+poll 
+
+
+
+n II ic 
+
+
+
+ranked S 
+
+
+
+Divi! 
+
+in Ihc NSCAA/Adidas Division II poll. 
+Other firsi-iound match-ups arc Nolfc 
+Dame vs. South Carolina, noon: Akron vs. 
+Qlh ranked Si. Loui;, 2.30 p.m.: 7th ranked 
+Duke vs. 20lh ranked Ruibcr. 5 p.m. The 
+
+
+
+Seven ptayen wilh solid starting eipc- 
+rience return from last season, including the 
+nation's premier goalkeeper and candidate 
+for national player of Ihe year, senior T.J. 
+
+The HoDsiers have dirce players who 
+earned pre -seas on All-America honors 
+accoiding to collcgesocccrcoin: goalkeeper 
+Hannig. junior midfielder Ryan Mack and 
+senior forward Malt Fundenberger. 
+
+Hannig ranks third on the school's all- 
+lime win lisl with an impressive career mark 
+of 56-5-0(918). 
+
+Mack has started all 49 games of his 
+career. Last season he lallictl 
+
+
+
+,vilh 25 anil 20lh 
+on die all'iimc points list with 70. 
+
+Yeagley, a five-time National Coach of 
+the Year, is Ihe winnmgest active-coach in 
+"" ' :n's soccer. He is starling his 
+
+.uu, &gt;u.»u.. ..ith the Hoosiers wilh a record 
+of 478-83-37 (.830). making him one of 
+only six Division I coaches to win more than 
+300 career games and the third best record 
+in NCAA history. 
+
+Under his teadeiship. Indiana has cap- 
+tured eight Big Ten crowns, 13 College Cup 
+appearances and Tivc national champi- 
+onships. He has led Indiana to 24 NCAA 
+Toumamcni benhs. including 13 consecu- 
+tive berths from 19S7-99, a feat no other 
+school has accomptishcd. 
+
+
+
+igh Soccer Fcdciaiio 
+
+
+
+2000 squad, allowing the team to 
+achieve the experience needed to succeed in 
+the ACC Conference and continue to the 
+NCAA Toumamenl. 
+
+In 1999, the Blue Devils accomplished 
+their lii^t ACC Tournament championship, 
+the first regular season conference title; 
+1982. and die No. I final national ranking. 
+
+The Blue Devili finished the regular 
+season undefeated with a 13-0-3 record. 
+They are cunenily ranked Ist in the pre-sea- 
+son ACC poll and 7th in die nation. 
+
+Three Blue Devils arc collegesoc- 
+
+foiward All Curtis, senior middle Robert 
+Russell and junior defciDc Kevin Sakuda. 
+
+Curtis was named bodi the ACC Piayet 
+of the Year and the National Player of Ihe 
+Year in 1999. Lost season he tied Duke's 
+school record with 17 goals. 
+
+Russell was first-team AII-ACC and 
+ACC All-Touinamcnl member. He scored 
+four goals anil assisted on two others for a 
+lulal of 10 points. 
+
+Sakuda assisted on five goals from his 
+
+
+
+defensive position 
+
+Rennic coached Duke's only national 
+championship against Akron in 198(i. 
+Rennie was voted National Coach of Ihe 
+Ycai in 1 982 and ACC Coach of the Year in 
+1980. 'S3. -87, -97 and -99, His school 
+record is 309- lU-26. 
+
+Duke'sdefensc has made 187 shutouts. 
+Duke has been to the NCAA Tournament Id 
+
+
+
+
+ihe abiliiy to change 
+things when necessary and give teams dif- 
+ferent looks Ihroughaut the game, based on 
+what we need,' said Head Coach Bob 
+
+
+
+Jafrfoor)s 
+
+
+
+
+
+We Have Moved ! 
+
+
+
+
+
+
+HOUSE 
+
+803 W. Coliseum Blvd. 
+
+Fort Wayne, IN 46808 
+
+{219)-482-3919 
+
+
+
+803 W. Coliseum Blvd. 
+Fort Wayne, Indiana 
+
+Come see our brand-new 
+store with easier access. 
+. One mile east of our old 
+location. 
+
+iNexl to Chuck E. Cheese and 
+behind Olympic Pools.) 
+
+1621 South Bend Ave. 
+
+South Bend, IN 46617 
+
+(219)-288-1892 
+
+
+
+I 
+
+
+
+/ 
+
+
+
+1 ^Q # @Ji 
+
+
+
+
+Tattoos S Body 
+Piercing 
+
+5719 St. Joe Rd. 
+
+Ft. Wayne, IN 
+
+46835 
+
+Marketplace 
+of Canterbury 
+
+(219) 485-8258 
+
+vfww.gradeatattoos. com 
+
+
+
+^ 'S/" 
+
+
+
+IPWW 
+
+AtMetics 
+
+
+
+
+Coach's Hour 
+
+Wednesday 
+
+8:30 p.m. 
+
+on College Acccs.s 56 
+
+
+
+IPFW Soccer Showcase 2QQ0 
+
+Featuring: 
+NCAA Division I Men's National Champion 
+
+
+
+Indiai 
+
+
+
+lUni 
+
+
+
+IPFW* Notre Damt • Duke • Rutgers 
+South Carolina • Akron • St. Louis 
+August 26 &amp; 27. 2000 
+12 New IPFW Hefner Soccer Fields 
+Fret; to all students »ith valid IPFW ID. 
+
+
+
+7p.m 
+
+
+
+Women's Volleyball 
+Aug. 2 j Charleston 8 p m 
+
+Aug. 26 Grace I p.m 
+
+Aug.I6 Wa&gt;ncSt. 5pm 
+
+Sept. 13 Hillsdale 7pm 
+
+Sepl. IS Lewis 7p.m 
+
+Sept. 16 PaiVslde 
+Sept, 27 Findlay 
+Oct- 6 Edtvardsville 7 p.m. 
+Oct. 7 S.Indiana 3 p.m. 
+
+t3cL25 St. Joseph's 7 p.m, 
+
+Nov.] Indianapolis 7p,m, 
+
+Nov, J No, Kentucky 3 p.m. 
+
+Men's and Women's Soccer 
+AUH.26 Indiana(M) 7:30pjn 
+
+Aug. 27 DukiyRulBcra(M)TBA 
+Scpl. 10 Mi£;,-Rolla(B) l2:3Dp.m 
+Sept. 13 HilMale I2jap,m 
+
+StpL221Juinc&gt;' 6 p,m. 
+
+Sept, 24 Miu.St,Louii l2J0p.m 
+Oct, 7 Parfcside I2J0 p.m 
+
+OcL 13 Bellamiine 6 p.m. 
+
+OculS Ky. Wesley an 12:30 p,m 
+Oct2S Saginaw Valley St- a-.30p.n 
+Women's Tennis 
+
+Sept. 7 Taylor 4p,m. 
+
+
+
+Scpl, 13 E 
+
+lo. Kentucky 
+Sepc.20BcIlarmlne 
+Sept. 21 Lcwit 
+SepL26SLFr^cis 
+Sepl.30lndianapolli 
+Oct. 3 Si, Joteph'i 
+
+
+
+3p.m 
+
+
+
+Page 12 The Coir 
+
+
+
+Spons 
+
+
+
+^,Soccer Showcase 
+
+
+
+cont'd rrom page 
+
+
+
+ruined In I 
+Soccer On-I 
+
+
+
+EAST AII-RooLie honon 
+in I99i ind Second Team 
+A1I-BIG EAST honors i 
+
+
+
+All-A 
+
+
+
+he WHS named 
+,i\ Coach of [he 
+arid HIS named 
+c-10 Cojih of Ihe 
+
+
+
+Incoming 
+
+
+
+Rochcirer. Afier (itjiJuii- 
+ing he playKl pr.ilr i n 
+ally In Cemiilnj f . r -. 
+year ar)d was an .l&gt;-i uni 
+coach al HarvjrJ 
+
+&gt;. rpnv 
+
+The Maslodon's 
+finished last season 
+18-3-3 loosing to 
+Ihc Universily of 
+ChsrleMon 5-0 In 
+
+
+
+
+Piioto hv Unii Uaiir. Spim /u£k)r 
+HillianJQucsSfonsCenQ:Hotff5QfOperuJon(a^W)0-5/lM)l) Mtwliy -Thurday. (ia.nL-10pin.; F™by. bim- 
+8 pJTL'. SoOiniay. 8 im.-^ pm. and Surtlay 1 2 nooi - 6 pjn. 
+
+
+
+1999111 
+
+
+
+le Mid- 
+
+
+
+lion. In Ihe past iwo sea- 
+sons. Rulgeis has allowed 
+Jusi 37 goals in 42 march- 
+es, including 14 shutouts. 
+Bouiilier ha.&lt;^ cighi palms 
+
+and four 
+
+
+
+
+
+
+"There is so rnuch 
+polenlial on Ihls learn.' 
+said new head coach Chris 
+Apple. Apple replaces for- 
+mer coach Mike Berticelh, 
+who passed away in 
+January. Their mosl suc- 
+cessful year was in 1996 
+when ihc Fighling Irish 
+Hnished I7lh in the Tinal 
+Soccer America poll. 
+
+The FighlinE Irish 
+have been picked sevenlh 
+Big East ■' ' 
+
+
+
+ing and ranked sevenlh 
+overall in Ihal calcgAry. In 
+1 1 conference itialches. he 
+lallied seven goals and 
+dished off Ihtee assists for 
+
+
+
+
+
+
+Piesi 
+
+
+
+, Poll. 
+
+
+
+CunenUy. NSCAA/Adidas 
+Men's NCAA Div tl Pre- 
+season pall has the 
+Mastodon's in eighth 
+place. 
+
+Coach Slefankiewicz 
+
+
+
+son scoring record. a 155-120-16 record. 
+
+Apple's four seasons Last season his learn 
+
+as an issislanl coach pro- won Ihc GLVC 
+
+ductd a combined 41-31- Conference Toumameni 
+
+lOiccord (.561). including and made their firsl ever 
+
+(rips 10 Ihe BIG EAST NCAA appearance and 
+
+men's soccer laLimamcnt. finished the season as (he 
+
+head coach NCAA Regional Champs 
+
+
+
+Nori 
+Wesleyan. 
+
+
+
+Free admission for 
+IPFW slu(]ents with 
+valid ID. 
+
+
+
+Gates sports Center's welcomes back campus community 
+
+
+
+By Linda Leslie 
+
+Sport! Edilor 
+
+.WMBHaMBBIII 
+
+
+
+IBB 
+
+
+
+itea sportscaster Hilliard 
+calcd at (he north end of 
+
+
+
+
+
+
+.s, and a slrenglh and 
+
+
+
+deniandsiaffonAug. 
+
+
+
+The open house u- 
+
+
+
+1 Til cl 
+
+
+
+IS of 
+
+
+
+:o Ip.m. and 5 lo 7:30 p.m. 
+OS well a.&lt;; free tours of Ihc facility 
+and free equipment demonslralions 
+'We are conducung Ihis open 
+house in help familianic student 
+wiih our facility.' said iudy 
+
+
+
+Sludenl membership fee i 
+included in Ihc student service fee 
+li fealuies a multipurpose gymnasi 
+um widi a 2.700 seat area, which i 
+home to Ihc (PF\V Masiodons. thrc 
+baskelball/vollcyball touns. a 1/ 
+
+
+
+ballflian 
+
+
+
+racque 
+
+
+
+s, and Ihc fitness 
+
+
+
+On Sept. Si from roon-lp.i 
+and S:30-6:30p.ni., the Gates Ceni 
+(raincrs will be conducting a 'C 
+Slaited" workshop lo leach sludei 
+how to conduct a belter woikoul.t 
+Sepl. 12, from noon-lp.m. and 5:3 
+6:3Dp,m., learn how lo do streng 
+training (o benefit cennin musci 
+and strength (raining guidelines. 
+
+All workshops are free, no re 
+
+
+
+;s four fortahle clothes. 
+
+
+
+Queen Mallcess Set, nol WS5. selling both pieces for $150.00, also Queen Pillow 
+Top Set, nol S595, sacrifice for $200.00, also Full Size Orlho-Sel for $1 25.00. All 
+New in Plastic All with faclory v/arranties from King KoH, maker of quality sleep 
+systems for 102 years. Call 414-0836 for appointmeni Cash/CheckA/isa/MasterCard 
+
+
+
+CU T OUT AND SAVE | — 
+
+
+
+
+■11 eea m.iihii 
+
+
+..rt.. (HOTSgaii 
+
+
+
+
+M. 
+
+
+KIS 
+
+
+Mad. Fr.&lt;&gt;. T 
+n Li.BUMiuim.lc 
+H (JOvu! uxiiil' 
+
+
+Or&lt;(rri Salad 
+oilon nx&gt;lbiiMLir&gt;.&gt;,. Mm, 
+
+
+J.^ Mod 
+
+
+eFrei 
+
+
+■h To OrdtH 
+u'.n 
+
+
+^.. 
+
+
+Soon 
+
+
+.™,i«i 'r 
+
+
+'J.uut 
+
+
+lIUniB dlllfl 
+
+
+
+
+ACCEPT ^S 
+
+
+
+- H CUT OUT AND SAVE ^ - 
+
+
+
+Receive 10% off I 
+any Iggy's purchase | 
+with valid IPFW ID! I 
+
+
+
+Columbia Street West 
+
+
+
+
+135 WEST COLUMBIA STREET 
+
+HTrP://CSTREETW.COM 
+219-422-5055 
+
+
+
+Thurs. Aug. 24 
+
+Blue Moon Boys 
+Frl. Aug. IS 
+Johnny Socko 
+Sat. Aug. 26 
+Reaganomics 
+
+
+
+
+&gt; cn 
+
+
+
+M.O.M.S. 
+
+$3.50 Pitchers 
+$1.00 Drafts 
+Sl.OOMiUer 
+longnecks 
+
+
+
+
+0m if you want vrreat Lolfee, 4^ 
+
+^ tlien it lins to be 4^ 
+
+^ rresnly rtoasted Lonee! ^ 
+
+^ Oof f ee I^o£i,stex*s 4^ 
+
+4^ • I . .X I ll li. I... .1 . ..||. ,. .1. .1 i. . ^- 
+
+^^ e IImIL r„|| I.,l,l, ,„ \M,„I, li C I. ^^ 
+
+^_ •!&gt; ~\\ I,, J,' I I.„|| I,,,.. _^ 
+
+^* * \l,,iii.„,.i;, ,,M II I I ! ^0 
+
+
+
+Only One Coffct Establishment in 
+Fori Wayne Roasts Their 0»ti C«rrecs. 
+
+
+
+•iSS! 
+
+
+
+% f MP, 6:30am -9pBi 
+
+Saturday, Sam - 6pm 
+
+
+
+%: 
+
+
+
+' Coffee Raa«t«rB 
+
+Buy one tasty drink, get one free! 
+
+'with the purchase of anolhef tlrink 
+
+ofequal or greater value. 
+
+OnacofionpDrCEdrcvnwpflrviiii^u:!! 
+t^i^wirianyotTKfonor E'l^vjOO^iiyiOOC 
+
+^JIW «o&lt;th Avraort Bdiu tjBP • 
+UJJAVA • IMSJlOASTiS 
+
+
+
+Coffee Roostex-a 
+
+Use (his coupon and receive a 15% 
+discount lowafds the purcJiase of any of 
+our very own freshly roasted coffees. , 
+
+
+
+* UIOIIosrnA.vnio\^ BoucitaB^ 
+
+• f0BrWt2i.f&lt;DH.««ftK** 
+
+tllJAYA • l,8S8.R0iSTER 
+
+
+
+</pre>        </div>
+      </div>
+    

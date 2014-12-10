@@ -1,0 +1,1988 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv9i1indi/communicatorv9i1indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv9i1indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv9i1indi">The Communicator</a>"
+          </h1>
+          <pre>I 
+
+WIVES 
+
+
+
+the COMMUNICATOR 
+
+
+
+VOLUME 9. ISSUE 
+
+
+
+JNDIANA UNIVERSITY PURDUE UNIVERSITY AT FORT WAYNE 
+
+
+
+Sports Activity Moves To Concordia College 
+
+
+
+
+
+Joan Eaton 
+New Financial 
+Aids Director 
+
+
+
+Fees Increased By 
+$2.00 Per Hour 
+
+
+
+■: ■' 
+
+
+
+Variety Of Sports AvaUable At IPFW 
+
+
+
+The 1977-78 edition o 
+
+
+
+Concordia Senior College fr 
+
+
+
+dare under GOLF: 
+
+
+
+Next Issue Of 
+The Communicator 
+September 1, 1977. 
+
+
+
+any kind of '■Uncle Tom image." 
+
+
+.-...ti-ril mImwi,,: ,|.|.i.„- k. mi iml. such 
+
+
+
+
+-uh:r ■■) u. &gt;..(h&gt; :tr.a ici-iiniy Appkoi 
+
+
+EsSHlS'iSS: 
+
+
+Schwartz C 
+
+
+
+
+The fall varsity schedule gets underwav 
+
+
+
+
+
+
+
+
+
+
+
+
+['r.ic:tcpi&gt;M;iteiI to begin August 15 at 4:30 
+
+
+
+
+
+
+
+
+.i ;&gt;h\Mt:il •:\.-r,iti., s rm he i-.llfT lull ur 
+
+
+Director ) September 3 marks the season p 
+
+
+
+
+
+
+opener m a home match against Purdue 
+
+
+
+
+Itasi J &lt; LI JOc.w.-.iH.- i' !(■■:, K l...| 1M0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O-Reitlv to replace Warnock 
+
+
+wiMi ttir hrst mi-&lt;?i Sepieml.er 3 at Taylor 
+
+
+
+
+six^andlda.cs aT.he new chS tfthTsS™ 
+
+
+INDEX 
+
+
+
+
+-■ ■ -1 1- ■' ' ..... i 
+
+
+fO HANDBOOK 
+
+
+Hi j- ..-h. jlmuMliritiallcnges and potential 
+
+
+
+
+
+
+
+
+1VOML.NS TENNIS In us tirst yar as a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 ■&lt; JMJ Ik, , u . .,11,:., ,, 
+
+
+
+
+
+
+
+
+Marion College. 
+
+
+
+
+
+
+VOLLEYBALL When the nets were 
+
+
+
+
+■M1..T1 c-iurilv and Chief Deputy Sheriff, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r m v:6 s site. rinprepara,ion,oru,e 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+li.i- pr'-onted '" "&gt;^ ..udiwices through- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIT's First 'In Concert' Success 
+
+
+
+minstrels got together f( 
+
+
+
+Academia 
+
+
+
+The StUdeflt'S Responsibility tJ^V^-pSmTfo* SS!"| for PiS^ue^udenls'Luy' *n pre 
+
+
+
+
+n.u.' J- tint M'lon- .rdi-K/K' i 
+
+i.ri. Mir M Itiir-e- .1- lurinuluiri 
+\\i. i .,i km ■, \r.\inns \M 
+MIM.Ils \\h..„.,,,i- r.-s.Mw 
+
+
+
+SCHOLASTIC DISMISSAL - 
+
+
+
+11 
+
+. i.. ■■■ '..'i, I ,,■ !■.. ',•■!..,■ .,„:,,,„,• .,.,. ,* ,.vr,„,., : a | ; n 1 ,!.AU \[. [-KuM n.ASS MiADK i I»[&gt;K ualion index i- 1, ^ !h.,n 
+
+_J5! the faculty and the Hoard of ,1,-nu.- units A student may add courses to a Indiana Uruvesity: "T''u, ',»,',« ., '- l" lil-' \'i",. 
+
+currents,!,,-,!,,!,- .,„-., „,„■ , ,„■ i -.,-"„■ I i.t.Mnuih HAS BEEN DROPPED I 
+
+, . _ . the firsl week of a regular course Is recorded ■•- • ■- n,™,.,™ „„,, „.„.„..,« 
+
+Academic Calendar ^--j^*-*- ^s^T 
+
+
+
+;corded by the follow- PETITION FOR READMISSION 
+
+
+
+SAGA FOODS 
+
+Your Complete Campus Food Service 
+Serving You Daily 
+
+THE FORT 
+
+Located Downstairs In The Union Building 
+
+Monday-Thursday 7:30-5:30 P.M. 
+Friday 7:30-3:00 P.M. 
+
+
+
+THE 
+
+□ 
+
+
+
+BACK-TO-SCHOOL 
+
+SALE 
+
+
+
+
+
+
+
+PANASONIC LIST PRICE $269.95 
+
+
+
+NOW $ 229 95 
+
+
+
+
+^ PIONEER 
+SX-550 
+
+
+
+ISfeSS^ REGULAR $250.00 
+
+distortion, low price. C A I E P D If" E 
+
+'Receiverhasuta-.owphonolpu.noUeleveWOdB ^^Lt 1 KllX 
+
+•Thono equalization adheres to RI. A A standard within *. ^ ^ — - — 
+
+;«o.3d B q $7 7Q95 
+
+• Omiin i^ power output' of 20 watts per channel ML,. ^L ^^ 
+
+i RMS at 8 ohms from 20 to 20,000 Hz with 
+0.3% total harmonic distortion 
+litor circuits * Microphone input 
+
+
+
+
+All 
+
+SCOTCH-BRAND 
+
+AUDIO RECORDING TAPE 
+
+30% Off 
+
+LIST PRICE 
+
+PANASONIC 
+
+RQ309 
+
+
+
+
+Portable cassette recorder 
+
+Includes built-in mike, AC/DC operation 
+
+
+
+NOW $ 39 ? 
+
+
+
+SALE PRICE 
+
+
+
+DR*7A $ | j 95 
+
+
+
+STEREO HEADPHONES 
+
+
+
+H 
+
+
+
+
+SA5070 STEREO RECEIVER 
+
+State-of-the-Art features 
+Including sophisticated FM section 
+
+
+
+Not. exactly as pictured. 
+
+
+
+REG. $179.95 
+
+SALE PRICE 5 
+
+
+
+39 9 
+
+
+
+• F 
+
+
+
+mm 
+
+
+
+ELECTRONICS 
+
+
+
+I 
+
+
+
+440M 
+
+
+
+Multiple-play turntable with base, 
+%~4QAAsO/l4A dust cover, and Pickering cartridge. 
+
+
+
+A M 14.85 VALUE 
+
+
+
+SALE PRICE $ 69 95 
+
+
+
+HOME OF 
+
+
+
+
+IN THE GLENBROOK MALL FORT WAYNE ELECTRONICS 
+...tsn road WAREHOUSE STORE 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+Student Services 
+
+
+
+T.-&gt;h.,,.K r..i.s l &lt;m.pk-i«Jhvllic HKAJ.TH SKUVICKS HANDBOOK FOR STUDENT "'■■ (&lt;'■"" 
+
+student and a professional in the organizations: ' 
+
+Teeing Office, tltc form and A registered nurse is on duty 8 
+
+
+
+111'- r. In participate il 
+
+
+
+-ainedto suit the student organiz-alii, 
+
+
+
+,",,,,,1 counsel NKW URBANIZATIONS wiUl lhe mun &gt; "WmiwjiHo 
+
+I Wayne Medl- Organizations seeking recogni- 
+
+
+
+tting to Equal Rights 
+
+Its and Purdue Indian-, Playr 
+
+
+
+.sri'.iH, s.„ ,.,! ,, ru j Knierl.aiM 
+
+
+
+mg your lime Body President of Indiana-Pur Traditional 
+
+
+
+ning are of Student/ 
+
+
+
+Board of Governors 
+
+
+
+«l„d. i, :.«....,! I in &lt;■ '. m il,,- | {Ksll()Nh | m ,, rrYuKl)KGAN1 . h g f u 
+M»'l«-!,ll r he l.uililir. ,,,&lt;■ ,„-,.i«-i.l^ * 
+
+
+
+, ll« ,■!■ HI 'l!l- I lll.'Mud.-M 
+
+
+
+ZATIONS AND OFFICERS: 
+
+
+
+""■' use, ml handling of the animal(s) 
+l( ' r Safely and Security, 
+ition STUDENT ORGANIZATIONS: 
+
+
+
+■ I Mil-, i KNTKH 
+
+
+
+USED TO fl.KP IKsilM. Ultm.liAM 
+
+
+
+icullv in tlie when Iti.is... ailivilie.-. are lint GKKKK 
+
+
+
+fliiruiL' n-gulai .&gt;'id siunmer ses Kappa Alpha psi Theater, the Day Care Center, 
+
+,„ ,.,„,,,-.,. „-:..ied mtiv,tii-s g;,m/alimi meetings may be re DKI'Ain Mt \ I Al om,A\ - loi subscriptions,' 
+
+Ace- are m&lt; ,i lbs t&lt;&gt; id years served in ihc mfn.e ..f Student ZATIONS: and Student Activities such as 
+
+.ir.il tbe tiuiir- .,ie determined by Services All student organiza- Biology Club organizations, 
+
+demnnri Servites are provided tions are assigned mailboxes American Societv for Personnel We also work to improve the 
+
+; a located in the Student Organi 
+
+
+
+
+
+
+. .-1111.1.1 paysaSr. I 
+
+
+
+
+
+
+Many Student Government mem- 
+
+e n tbe Fatuity Senate Student 
+■\f(.m-- r„niniilkr. l/haneellnr's 
+
+Task Force on Academit Policy, 
+
+
+
+,.t«r &gt;,.ihei s!., Vc.lr.hW- ■! -!.\l- 
+
+c.er.ilK &lt; r vak,r,, : il,e Students v. n- &lt;li 
+
+. |»i,H'^iure cnes.M- „l varmce. led, r,.! a-^ 
+
+«,i" jT'.nii-rl.i.'iji'ii'.M ■■! \.i.;.r, \:i..,t. !.-r fiiforniB- old-" Chrgt 
+
+
+
+ternoon are an integral part of this Engineers 
+
+T'l'll session is open to V- ; year enimnai'ed In participate in University Or 
+
+
+
+
+nuiR up 50&lt;. 
+
+The Batavus MoPed has a gas lank thai holds almost a gal'on. 
+And a gutsy engine that delivers up to 150 miles to the gallon. 
+
+So you can probably nde your Batavus all week before you 
+
+
+
+HEFNER CHEVROLET HAS THE 
+
+**************** 
+
+• ixJBATAVUSMoPED * 
+
+
+
+**************** 
+
+IN STOCK.. .NOW! 
+
+HEFNER Chevrolet 
+
+500E.State 484-5566 
+
+
+
+of Foreign Languages 
+SPECIAL INTEREST GR 
+
+
+
+University Cay ActivMs 
+
+
+
+WANTED: Writers, photograph 
+secretary. No newspaper 
+experience necessary. The 
+Communicator. Room 215, 
+
+
+
+
+Other Services 
+
+
+
+)f the senior Saturday, a 
+alays an im- Sunday. 
+
+
+
+CAFETERIA AND STUDENT 
+
+
+
+during the times Hot meals are served 
+
+proceeding during the breakfast, noon and 
+
+
+
+card-playing brim f 
+
+
+
+Confidentiality Statement coat^k, 
+
+
+
+10 Defiance 
+24 Grace Invit 
+
+OCTOBER 
+
+
+
+15 Goshen 
+
+
+
+US EMERGENCY EVALUATION 
+
+
+29 
+
+
+Findlay 
+
+
+
+
+
+
+
+
+easily recognizable horn signal, 
+
+
+
+
+
+
+B _ klaxon-like in sound. When this 
+
+
+Hen 
+
+
+
+
+«» building ! 1 
+
+
+
+
+
+
+
+
+
+
+FIRST AID: 
+
+
+
+
+
+
+
+
+17 
+
+
+Findlay 
+
+
+
+
+
+
+Indiana Tech 
+
+
+ground floor to the Union. For 
+
+
+22 
+
+
+Manchester 
+
+
+„ emergency assistance, contact 
+
+
+27 
+
+
+Huntington 
+
+
+wi " y Students who have chronic 
+
+
+OCT 
+
+
+'"taderson 
+
+
+
+
+
+
+
+
+
+
+11 
+
+
+Grace 
+
+
+Security and to the Student 
+
+
+
+
+
+
+'"" HANDBILLS 
+
+
+15 
+
+
+Goshen 
+
+
+
+
+Women ' s TENUIS 
+
+
+
+
+Men 
+
+
+s BASKETBALL Con't 
+
+
+SEPTEMBER 
+
+
+FEBRUARY 
+
+
+10 Taylor Invitational 
+
+
+
+
+
+
+Bible College 
+
+
+17 Marion ' 
+
+
+
+
+
+
+IU Southeast 
+
+
+24 Taylor 
+
+
+
+
+
+
+10 East 
+
+
+OCTOBER 
+
+
+
+
+
+
+
+
+I Ball State Invit 
+
+
+
+
+18 
+
+
+IU East 
+
+
+8 State Tournament 
+
+
+
+
+
+
+Indiana Tech 
+
+
+Notre Dame 
+
+
+A 
+
+
+28 
+
+
+Spring Arbor 
+
+
+Women's VOLLEYBALL 
+
+
+
+
+Women's BASKETBALL 
+
+
+OCTOBER 
+
+
+DECEMBER 
+
+
+3 St. Mary's 
+
+
+
+
+10 
+
+
+4 Way Tournament 
+
+
+8 Earlham 
+
+
+
+
+
+
+
+
+12 Marion, Tri-State'- 
+
+
+
+
+
+
+
+
+15 Ind. State, St Fra 
+
+
+H 
+
+
+14 
+
+
+Bible College 
+
+
+
+
+
+
+19 
+
+
+Notre Dame 
+
+
+20 Manchester, AndersonH 
+
+
+
+
+25 Purdue Calumet 
+
+
+
+
+28 
+
+
+
+
+27 St. Joseph 
+
+
+
+
+31 
+
+
+
+
+
+
+
+
+FEBRUARY 
+
+
+Ind. Tech 
+
+
+
+
+
+
+Indiana Tech 
+
+
+NOVEMBER 
+
+
+
+
+7 
+
+
+Huntington 
+
+
+2 Taylor 
+
+
+
+
+
+
+
+
+5 Goshen 
+
+
+
+
+14 
+
+
+
+
+
+
+
+
+18 
+
+
+Valparaiso 
+
+
+
+
+
+
+21 
+
+
+Manchester 
+
+
+Men's BASKETBALL 
+
+
+
+
+
+
+IWIS0 
+
+
+
+
+
+
+25 
+
+
+Tournament 
+
+
+NOVEMBER 
+
+
+
+
+
+
+
+
+25 Sercoma Tip-Off 
+
+
+
+
+
+
+
+
+26 Tournament 
+
+
+
+
+BASEBALL 
+
+
+28 St. Joseph 
+
+
+
+
+
+
+
+
+30 Indiana Central 
+
+
+
+
+MARCH 
+
+
+DECEMBER 
+
+
+
+
+
+
+Indiana Tech 
+
+
+
+
+
+
+25 
+
+
+
+
+10 Indiana Central 
+
+
+
+
+27 
+
+
+
+
+13 Huntington 
+
+
+
+
+APRIL 
+
+
+20 Grace 
+
+
+
+
+
+
+Purdue 
+
+
+29 Tri-State 
+
+
+
+
+
+
+Tri-State 
+
+
+
+
+
+
+15 
+
+
+
+
+
+
+
+
+16 
+
+
+Indiana Tech 
+
+
+
+
+
+
+22 
+
+
+Wabash 
+
+
+7 Taylor 
+
+
+
+
+27 
+
+
+
+
+11 Kalamazoo 
+
+
+
+
+29 
+
+
+
+
+17 Marian 
+
+
+
+
+30 
+
+
+Rose Hulman 
+
+
+21 Defiance 
+
+
+
+
+MAY 
+
+
+
+
+24 Bethel 
+
+
+
+
+
+
+Tri-State 
+
+
+27 IU Southeast 
+
+
+A 
+
+
+7 
+
+
+Purdue 
+
+
+
+SPECIAL 
+
+
+
+3 WEEKS ONLY 
+
+August 22 thru September 9, 1977 
+
+
+
+TI-30-SP 
+
+CALCULATOR 
+
+
+
+Regular Price $21.95 
+
+$18.95 
+
+
+
+
+Also in stock: 
+General Purpose • Scientific - Business • Programmable 
+Texas instrument &amp; Hewlett Packard Calculators 
+
+FOLLETT'S 
+
+
+
+ssr bookstore 
+
+
+
+Phone 
+483-6100 
+
+
+
+Parking &amp; Emergencies 
+
+Motor Vehicle, Bicycle &amp;. Traffic Regulations 
+
+
+
+ES &amp; PARKING AREAS - *&gt;"" p.nln.r .- 
+I in.iy p,iv hv ciisli i.r p.i\rr,II ings are used 
+
+
+
+i unattended for a Office for Student 
+
+
+
+; TRAPPED IN ELE- 5. TROM 1, 2, 4, 5 - Go t 
+
+
+
+lit card. "A" charged lo lime or less ma&gt; purchase I 
+
+lits are valid in any "A" or at 10 cents per hour if the vehfcli 
+
+M.]te Ijw shall have preference "B" lot orange signs). "B" is registered. 
+
+over the regulations when appli- permits are valid in "AB" lots "B" or "B" Pool Permits (blut 
+
+cable. Restricted hours shall be only (b lue signs). Pool cards are signs). Full-time staff employed TRAFFIC H 
+
+from 7 a.m. to 11 p.m. on Monday lo be placed on fhr l..nk "I inside nuiri* than hul(-limc and students persons operating motor vehicle 
+
+
+
+Friday iEus! ol (he I All. UKK TO APPEAR 
+
+
+
+I v,i&lt;r, VATORS - If the elevator breaks 
+
+
+
+il panel. BE CALM, Listen Neff hall 
+
+
+
+i' Department of Safety 
+
+rity within 5 days after FIRE - The alarm in each WEATI 
+
+issued, the Department building is a horn signal with a When 
+
+
+
+mail within 5 days after 11 
+
+
+
+f - ■■ .) ■ i\ I, ,.■!&lt;■,,, d r., I 
+
+unnel cloud or any yudent A((.,i.- f.„ &lt; 
+
+■ ■■■. ■...: ;-■ ,1,. ■■,:.:, „l ,-,, -,,;■,■! ,,, 
+
+■ I &gt;.Jh'ty .Mill .security, tn p;,y a fine duty a 
+
+
+
+i thepossession ol a student or the Motor Vehicle Bicycle and ed h 
+s Fort Wayne Traffic REgulatl. 
+
+tricted hours Fort W.,wm &lt; .mi 
+
+is registered and si.dl -ii.dl ,h 
+
+Saful&gt; ami p,,rkiii|.' prnnii &lt;■ 
+
+
+
+t Wayne Traffic REgulaiions when on the Sludenls taking 
+
+Campus during restricted hours Fort \\..wm&lt; ..it,;.!. \ll students credit hours, SI.! 
+
+"■' s registered and M.df .■ -i..&gt;ll ,h- ■).!.. v ., . urrenl Students taking 
+
+
+
+Security Registration is required when on Campus 
+
+
+
+.;.-.. nn-.suiin-d i.v Mir .lurid, behind the rear vie 
+eg.stration shall be 'a mil ol I In- i.pvmtor's line ot sigl 
+
+
+
+less than five signs, signals, markings and Aiklo^lAr , , , 
+
+staff employed other devices. All accidents oc- /\tllieiICS ' ' ' ' &lt; ' &lt; » 
+
+-■■: iiiiiv pun liar &lt; lining mi I he l-orl Wayne Cam- 
+time fees or use pus shall Ix- reported to the Office SpOrtS Information OffJCC 
+
+Mil )&lt;&gt;,-rnls[HT nl Safely and Security. ' 
+
+le Is registered. Athletics have been a part of In essence Hi. ir.i.oiiht Spm-K 
+
+not purchasing BICYCLE REGULATIONS A liana I'urdue -.in&lt;e us m.ep Inlormalion Director is that VarSlty bpOrtS Concordia Senior College v 
+
+
+
+-- .■&lt;missinnandenre.ll I he Indiana-Purdue Bursar's 
+
+
+
+sonly "A" parking 
+
+
+
+■ office ill Safety .mil observe and obey all applicable- 
+
+
+
+t Wayne has just 
+
+
+
+us volleyball team. We 
+Kathy Kissinger and 
+
+
+
+: main duty of the Sports 
+
+
+
+permit will he issued 
+.ng a temporary or 
+
+
+
+ght on the ia. Included are writing and The IPFW Intramural 
+iible for at mailing news releases, furnish- Program will feature a i 
+d reflector ing photographs, and providing for 1977-76. For the fii 
+
+
+
+iral Athletic Council (IAC) v 
+vern the Intramural Progr; 
+d along with the Student Din 
+
+
+
+May use the metered 
+
+
+
+. Bicycles shall not be 
+
+
+
+jEBfflEffiffll 
+
+
+
+424 EAST WAYNE STREET 
+&gt;RT WAYNE, INDIANA 46802 
+PHONE: 219-423-1574 
+
+
+
+rung ana writing aung we 1M prograrr 
+
+ich of the sports, The IAC, under 
+
+., Conditional, permitted inside any building and scheduling and collecting photo- Larry Bradtmueller, j 
+
+" ' b parked in biry.le i.iek-; iiiaplis and liuahespensil,j|,i\ of ■-chedule for the cor 
+
+
+
+ADMINISTRATION AND EN- but hold r 
+
+
+
+markings, and yelloi 
+
+
+
+I records of Football. Tennis, Golf, Ping Pong 
+
+
+
+Women's Programs in the sche- 
+
+
+
+baseball. Dan Gerrard was the ball teams and Dan will coach t 
+
+Purdue, Fort Wayne in the Anyone interested in trying o 
+
+NCAA, golf championship held for any of these teams shou 
+
+in Wooster, Ohio. The baseball contact the Athletic Departmen 
+
+
+
+Complete Sports 
+Schedules 
+On Page 5. 
+
+
+
+INDIANA-PURDUE 
+
+
+
+
+Once A Year SALEI 
+
+Ml green plants 20% offl 
+(Aug. 12 8. 13 OnlyJRoses $12,50 Doz 
+
+
+
+APPLE 
+
+records 'n' tapes 
+
+...ONE OF FORT WAYNE'S FINEST 
+
+$3.99 SALE 
+SPECIALS 
+
+6 9 « List From Just 4.99 
+7 98 List From Just 5.69 
+
+Large Collection Of 8-Track 
+&amp; Cassette Tapes 
+
+f OPEN SUNDAYS GOr ^' 
+
+^E0R6ET0WN SO, 749-8831 JJ 
+
+
+
+
+ALLEN CO. EXTENSION 
+ATHLETIC FIELD 
+
+
+Sec'ondhToo? 113 '" 
+
+
+Second Floor 
+
+
+CHfLLER PLANT 
+KETTLERHALL 
+Ground Floor 
+
+Bookstore 
+
+
+Chemistry 
+Data Processing 
+
+
+English &amp; Linguistics 
+Mthematics 
+
+
+Study Rooms 
+Typing Room. 
+
+
+Business Offices 
+Copy Center 
+
+PIT^Thea^e 08 ™" 1 
+
+
+Modern Foreign Lang 
+
+Plato 
+
+Political Science 
+
+
+Typing Room 
+
+
+
+
+
+
+
+
+KKStH.'KCE CENTER 
+
+
+
+
+
+
+
+
+Electrical Tec 
+
+
+
+PARKING 
+
+
+
+Meeting -Dining I 
+
+
+
+T2 Psych Central 
+
+T3 Animal Research 
+T4 Safety &amp; Security 
+
+
+
+STUDENT CONDUCT 
+
+
+
+General 
+Regulations 
+
+
+
+Indiana 
+
+University 
+
+Code 
+
+
+
+
+
+
+Purdue 
+
+University 
+
+Code 
+
+
+
+
+
+
+DAIRY TREAT 
+
+WE HAVE 
+SOFT FROZEN 
+
+YOGURT! 
+
+
+
+
+IN A CUP OR CONE 
+100% NATURAL 
+
+WASHINGTON SQ 
+
+6017 NORTH CLINTON 
+
+
+
+CRAKERBARREL SPECIAL! 
+
+| Use Your MasterCharge 
+
+10% DISCOUNT j 
+
+■ When You Bring This Ad With You On All ■ 
+I Art Supplies &amp; Craft Materials 
+
+
+
+Offer Expires Aug. 31 , 
+
+
+
+MACRAME CLASSES 
+
+WEEKDAYS 6:00 p.m.-8:00 p.m 
+
+
+
+I Crackerbarrel I 
+Crafts 
+
+■ Washington Square, N. Clinton St.. I 
+
+LPh. 484-3728 
+Open 10 a.m. Six Days - Closed Sunday_ I, | 
+
+
+
+• Paperback Books 
+
+• Used Paperback Books 
+
+• Hardcover Books 
+
+• Special Order Service 
+
+fOR PAPERBACK OR HARDBACK 
+(We do order textbooks) 
+
+£bock $ A 
+
+(EMPORIUM YA mon - fri 10-8 P.M 
+-.~,;™„„ f SAT. to 5 P.M 
+
+432-5686 SUN.— Closed 
+
+
+
+MCDONALD'S 
+
+St. Joe Center Road Store 
+
+Is Now Hiring 
+Part-Time Day &amp; Night Help 
+
+
+
+Apply in person during regular 
+business hours (7:00 am - Midnight) 
+at 3202 St. Joe Center Road. 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1729 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i1indi/communicatorv20i1indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i1indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i1indi">The Communicator</a>"
+          </h1>
+          <pre>Goodbye, * 
+
+Dean Ulmer 
+
+
+
+
+Student affairs 
+
+Vice Chancellor Borelli begins duties/Page 4 
+
+
+
+Concert tour 
+
+Music professors return from Orient/Page 6 
+
+
+
+NCAA Final Four 
+
+y use takes top honors in tourney/Page 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+August 25. 1988 
+
+
+
+-Quote of the week- 
+
+
+
+"We had a nice spacious area before and 
+tlie area we have now is little more than a 
+broom closet." 
+
+—Kevin Belt 
+
+-President 
+
+-Black Collegian Caucus 
+
+—Page 4 
+
+
+
+Vacancy filled 
+
+Lantz selected interim chancellor 
+
+
+
+-INFOGRAPHS— 1 
+
+Center hosts open house 
+
+The IPFW Women's Center is hosting an open house for studei 
+faculty and staff on Wednesday from 9 a.m. to 7 p.m. Refreshme 
+
+
+
+Placement orientation planned 
+
+
+
+Advertising images examined 
+
+The films -Still Killing Us Softly' and "Stale Roles and Tight Buns" 
+will be shown starting at noon on Monday in suite 222 of Walb Memo- 
+
+and open to the public. The films are sponsored by the department of 
+psychological sciences, the Women's Center and Women's Studies 
+
+LSAT preparation course held 
+
+
+
+
+/ School Admission Test ( 
+
+
+
+/ Continuing Education will 
+
+
+
+;t the course. The fee is $75. Session; 
+idays and Thursdays; due to the L 
+vill be Tuesday, Sept. 6. The course 
+
+
+
+t registration or questions about 11 
+
+
+
+; IPFW pre-law advisor, Georgia Ulmschnei. 
+
+
+
+ISO sponsors welcoming party 
+
+
+
+All-Campus Picnic Friday 
+
+As part of IPFW's new student orientation program, Joanne Un 
+stronger connections and a stronger sense of community. Retres 
+
+Contact service available 
+
+now sign up for the Emergency Contact Service offered hy the IPF 
+Women's Center. The service helps babysitters or schools conta 
+
+register, stop by the Women's Center in suite G25 of the Walb Mem 
+rial Union and fill out a contact form For more information, call tl 
+
+Archivist presents workshop 
+
+phs." a two-hour workshop, will be present* 
+
+
+
+Confederate flag dispute resolved g3|2|_|H^ 
+
+
+
+Ihirr." Career Services offers 
+gVe'lT^p new employment division 
+
+
+
+Wallace leaves post, 
+expresses concerns ^ 
+
+
+
+
+
+
+K* 
+
+
+
+
+1 feeling Fort Student Em| 
+
+
+
+1 geograph- Work study 
+:ommunity, work study after applying 
+
+
+
+■ maybe even where i 
+
+
+
+part of Student Employment S 
+
+
+
+opinion 
+
+
+
+The Communicator 
+
+
+
+Administrative instability 
+a problem for IPFW 
+
+
+
+.._^ ._ 1 the chancellor 
+
+position, coupled with the publicized stability, these oulsidere .have no rea 
+
+disputes with and between the parent son to change their minds, 
+
+institutions on such issues as credit for This ignorance spills over to hur 
+
+jifts. gives the impression of an fund-raising efforts. Simply put, loca 
+
+? ^ ,_„j — 3rg unwilling to donate to ; 
+
+
+
+
+
+
+—from the Coopers &amp; Lybrand Granted, 
+
+study on IPFW fundraising etforls. 
+
+-Phase One Report instability is not bri 
+
+nity donations lo (he 
+
+With the recent departure of Chancel- But articulating s 
+
+■ Tom Wallace. IPFW finds itself in important than 
+
+It IPFW should 
+
+
+
+
+ami ^i^ ^03 
+
+
+
+Are YgB^! 
+
+
+
+
+Ldsl February the consulting firm of 
+Coopers &amp; Lybrand released its study 
+on the IPFW's role in northeastern In- 
+diana and on the crucial issues facing 
+this campus. Constant 
+
+
+
+Consider the difference in personal 
+
+While Wallace believed in central 
+decision-making, Lanlz has almost 
+pledged to be a constitutional monarch. 
+If the two have goals as different as 
+their styles, IPFW could be dramati- 
+cally changing course. 
+Lanlz herself has tried to put the best 
+uggesting 
+
+iceiio-''- ""'"" 
+
+by-product 
+
+
+
+Letter to the Editor- 
+
+
+
+Confederate flag nag 
+
+creates controversy ^^^ [ 
+
+
+
+Parking on campus 
+
+Solutions easy to see 
+
+
+
+
+Eveij w«k T1» Com 
+
+1^ 
+
+
+^ Leners PoUcy ^ 
+
+
+JoMn'mKIS; or 
+
+
+B^=- 
+
+
+The Comrminicator 
+
+
+
+
+VinhTriho AMitUnl Photo Edllor 
+
+
+
+News 
+
+
+
+IPFWs Jack Ulmer dies waiting for transplant 
+
+
+
+
+WELCOME BACK STUDENTS 
+
+
+
+BUY 3, GET 1 FREE 
+
+BUY 3 FOOT LONG SANDWICHES 
+AND GET THE 4TH FOOT LONG 
+
+FREE 
+
+
+
+$1.00 OFF ANYFOOTLONG 
+
+SANDWICH OR REGULAR 
+
+SALAD 
+
+
+
+&amp;sm 
+
+
+
+ieve it's 
+
+= Yogurt 
+
+
+
+RIVIERA PLAZA 
+
+ixl to Fllness Conneclii 
+
+485-1524 
+
+
+
+Yogurt 
+
+
+
+2JiM 
+
+
+
+Yogurt 
+
+
+
+ONLY 
+
+Canterbury Pizza Hut 
+
+is so close and 
+
+offers so much to 
+
+IPFW 
+
+students! 
+
+SAVE 
+10% 
+
+
+
+\ip ^'±f-^ 
+
+
+
+iMPt'J 
+
+
+
+As a special savings for 
+students, simply show us your 
+Student Identification Card, 
+and vtfe'll deduct 10% off tfie 
+regular menu price of any 
+Pizza® food or soft beverage 
+purcfiase. 
+
+Dine in or carryout. Not 
+valid witfi ottier discounts. 
+Expires Dec. 31, 1988. 
+
+
+
+
+IPFW STUDENT DISCOUNT 
+
+VALID ONLY AT: 
+
+Canterboiy Pizza Hut® 
+
+
+
+5801 St. Joe Road • Fort Wayne, Indiana 
+
+
+
+CAMPUS 
+
+CALENDAR 
+
+THURSDAY 25 
+
+* Late registration 
+
+* Staff training and development : MS/ 
+DOS and Shareware, 9 a.m.; PC 
+Cluster Introduction, 1 p.m.; KT 204B. 
+
+* Career assessment test administration, 
+Walb 110, 1 p.m. 
+
+FRIDAY 26 
+
+* Late registration and payment dead- 
+line. 
+
+* Certified Dental Technician Program 
+(CDT), Walb 224, 8 a.m. 
+
+* All-Campus Picnic, Walb Patio, 11 a.m. 
+
+* Staff framing and development: MS/ 
+DOS and Shareware, 1 p.m.; PC 
+Cluster Introduction, 2 p.m. 
+
+SATURDAY 27 
+
+* MILP, Walb 126, 8 a.m. 
+
+SUNDAY 28 
+
+Nothing scheduled. 
+
+MONDAY 29 
+
+* Faculty Convocation, Walb Ballroom, 
+noon. 
+
+* International Students' Organization, 
+Walb G21, noon. 
+
+TUESDAY 30 
+
+* Placement services orientation, Walb 
+Ballroom, 9 a.m. and 6 p.m. 
+
+WEDNESDAY 31 
+
+* Placement services orientation, Walb 
+Ballroom, 9 a.m. and 6 p.m. 
+
+Paid for by Students' Government 
+
+
+
+News 
+
+
+
+The Communicator 
+
+
+
+COLLEGE STUDENTS 
+
+Need a new or used car or truck? 
+We have guaranteed acceptance 
+for student first time buyers 
+through GMAC. Come to the tent 
+sale at the Coliseum Wednesday, 
+August 24th, to Saturday, August 
+27th, hours 9-9, and ask for Greg 
+Kelsey at the Kelley Chevrolet 
+Area or call 484-5566. 
+
+
+
+Borelli outlines goals Wallace- 
+
+
+
+Betore coming lo IPFW. 
+
+
+
+Jrovid" lor "or whether wc / fl-rdtdtW- 
+arc providing needed ser- V-«f*f OtJf 
+
+
+
+Typing 
+
+
+
+
+
+
+. They nesses and commu 
+
+
+
+specialized, but most. Brant 
+
+
+
+'Iwp 
+
+
+
+-^S/NCE 1944 
+
+
+
+w 
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+I — H^ — I 
+
+
+
+To see what Student Em- them as IPFw students, T^l 
+.loyment Services has to Students Employment Ser- §i Mg^ OT^ 
+iffer. students can go to vices has no influence over X •'^^A 
+
+
+
+through the listings. Office an employment agency. I 
+hours are 8 a.m. to S p.m. we don't charge any I&amp; 
+Monday through Friday, B Brant explained. 
+
+
+
+AD/A 
+
+
+
+THE PIICE IS RIGHT 
+
+
+
+$ilvertree 
+Apartments 
+
+
+
+• Spacious Interiors 
+
+• Directly on bus line 
+Washer/Dryer hook ups" 
+
+• Private entrances 
+
+
+
+
+September's Rent 
+
+FREE* 
+
+^ 447-4541 f^uniochyoup 
+
+^X^ select units L^ SaUtligS 
+
+
+
+B«M«0«C&lt; 
+
+
+
+
+meeting with Joy." Belt formal meeting of he 
+Belt returned'the nag. ' _ Rp,t ...im. ,hP n.w ™.. 
+
+
+
+) say the BCC offices a 
+
+
+
+
+Uarno s ^^ 
+
+Pizza &amp; Grinders i 
+
+483-6444 \ 
+
+NOW OPEN SUN. 4 P.M. ■ 8 P.M. | 
+
+MON. - THURS. 11AM, - 10P.M. FRI. S SAl 11A.M. - 12 MIDNIGHT | 
+
+10%off I 
+
+ANY MENU ITEM 
+
+OFFER GOOD THRU SEPTEMBER 30, 1988. ^ 
+
+4602 PARNELL AVE. • PLAZA BY THE GLENN Y 
+
+
+
+TIME NEEDS YOU 
+
+Time Temporary Services needs good people to fill 
+short-term, long-term, and permanent positions. 
+
+EARN GREAT PAY AND FULL BENEFITS! 
+
+Clerical Division Industrial Division Technical Division 
+
+Word Processing Warehouse Engineers 
+
+Data Entry Machine Operators Technicians 
+
+-■■'•' - 1 Labor 
+
+
+
+Social Service 
+
+
+
+General 
+
+
+
+Time assignments are income opportur 
+find out how you can obtain immediate 
+
+
+
+3r Designers 
+
+s, not minimum wage jobs. To 
+
+ployment, call Time today. 
+
+Time Temporaries 
+
+6422 Lima Road 
+
+Fort Wayne, IN 46818 
+
+219-489-2020 
+
+
+
+TimE 
+
+
+
+TEMPORARIES 
+6422 Lima Rd., Ft. Wayne, 46818 
+
+
+
+The Communicator 
+
+
+
+Starting this semester 
+
+Zenith Data Systems 
+
+introduces 
+a course efiryone's taking... 
+
+
+
+'Mini I data 
+systems 
+
+
+
+Features 
+
+
+
+The Communii 
+
+
+
+COMM NICATOR 
+
+...THE ONLY THING MISSING IS "U"! 
+
+
+
+Don't miss outi We need a copy editor and features 
+editor. These are PAID positions! We also need staff 
+writers. To arrange an interview, call 481-6585. 
+
+
+
+
+Musicians visit Orient 
+
+
+
+GIANT SALE 
+
+immPBimmmti 
+
+20% OFF 
+
+ENTIRE STOCK 
+of ART MATERIALS 
+
+
+
+Appletree 
+
+Apartments 
+
+And with the most savings we've offered all 
+year! Althouqh St. Joe Road is under construction, it's 
+still opened from St. Joe Center Road North. Call 
+485-7529 today for directions. We offer: 
+
+* 1-2-3 bedroom apartments 
+
+* Short term leases 
+
+* Pool and Patio 
+
+* Central air conditioning 
+
+* Convenient location 
+
+* Across from golf and tennis 
+
+* Close to University and Fitness Center 
+
+* On Bus line 
+
+* Quiet Suburban setting 
+
+* Fireplaces available 
+
+
+
+6500 St. Joe Road 
+
+
+
+The Communicator 
+
+
+
+...Accelerated 
+
+Enter college going in the right direction with one of the new computers from Zenith 
+
+
+
+V\m Smt 
+
+
+
+sophisticated rollers are built with the college student in 
+mind for today and the future professional tomorrow. 
+
+One look at the syllabus and you'll see why this new 
+class is 80 popular. The semester starts off in high gear 
+with an introduction to the new road scholars: the Zenith 
+Super Sports &amp; LIMITED EDITION Super Sport. 
+
+These rugged on-road, off-road portables really show 
+their stuff even under the worst driving conditions. And 
+without being gas guzzlers. With "intelligent power 
+management", power is rationed to subsystems for 
+maximum battery operation. Giving you great mileage. 
+
+Whether you choose the LIMITED EDITION model 
+with an internal 1200 baud modem or the Super Sport 
+with RAM option of 1.64MB with EMS, even the most 
+advanced course is clocked in record time. ^ 
+
+Setting the curve in its class is the new Zenith Z-286 
+desktop PC. This high speed racer runs at 8MHz with 
+zero wait states, is AT compatible and can move up to MS 
+OS/2 technology in the future. And talk % 
+Z-286 comes complete with 1MB RAM with e 
+room capabilities - to 6MB ■ without using a 
+slot. Plus i^single 3.5" 1.44MB media sensing floppy drive 
+lets you "read and write" 72bK disks. 
+
+It's an accelerated course. The new class of computers 
+from Zenith put you on the fast track in college and get 
+you going in the right direction. 
+
+
+
+ISCHOOL 
+ZONE 
+
+
+
+HIGH-SPEED 
+
+
+
+Z-2B6 LP 
+
+Personal Computer 
+System 
+
+
+
+
+80286 processor 
+!, wait states 
+RAM expandable to 
+on system board 
+• 1 1.4MB 3.5" (loppy drive 
+•40MB hard disk 
+
+• 2 serial ports 
+■ 1 parallel port 
+• 1 EGA + video 
+
+• 101 key keyboard 
+• MS-DOS* included 
+
+• Microsoft* Windows 
+
+
+
+•80C88 8-4.77MHZ 
+•640KRAM 
+
+• Internal 1200 baud modem 
+
+• 10.5" diagonal LCD 
+super twist screen 
+
+• Serial port 
+•Parallel port 
+•RGB port 
+
+•5.1/4" floppy interface 
+•MS-DOS included 
+
+
+
+• Model ZWL-184-HR 
+
+1 720K floppy drive 
+1 20mg bard disk 
+
+$1799 
+
+
+
+Limited Edition 
+Portable Computer 
+
+
+
+■^■^ "'ii^ 
+
+
+
+feUP-GRAPE 1 
+
+
+
+•Amberorwhite •ZVM1390color 
+page monitor monitor 
+
+
+
+.F.T.M. color 
+monitor 
+
+$2599 
+
+
+
+FAST LANE 
+
+
+
+data 
+systems 
+
+
+
+Same as the Super Sport LIMITED 
+EDITION model except- 
+
+• RAM option 1.64MB with EMS 
+
+• Numeric keypad port 
+
+• Expansion chassis c 
+
+• Internal 1200 b 
+included 
+
+
+
+Portable Computer 
+
+
+
+^■-■-ZSl 
+
+
+
+• Dual floppy 
+$1299 
+
+
+
+$1999 
+
+
+
+For more infornution about Zemth's fuU range of computera fix)m the 8088 desktops, 286 desktops &amp; portable^^ 
+
+BYTREX COMPUTER 
+
+SYSTEM 
+
+(219)485-7511 
+
+Fort Wayne 
+
+
+
+sports 
+
+
+
+The Communi&lt; 
+
+
+
+Volleyball final four 
+
+Southern Cal Trojans prevail 
+
+
+
+
+CUT OUT THIS MAP 
+
+AND WE'LL CUT OUT 
+
+YOUR DEPOSIT 
+
+
+
+one year lease, we'll give you one 
+month's Iree rent, on our 1 bed- 
+room apartmenls. 
+It you know wtiere to look, you'll 
+tind a great deal. So keep the 
+
+
+
+■ Tennesse 
+
+1^ 
+
+
+
+oia I 
+
+
+
+
+The Best 
+
+College Roommate 
+
+Money Can Buy. 
+
+
+
+'heresa Leal, Education Specialis 
+
+ComputerLand of Ft. Wayne 
+
+483-8107 
+
+
+
+Comf&gt;ul:erLo^^^^ 
+
+
+
+
+$1 .OOOFF 
+
+
+
+
+Friday, Mary c, by scores 
+
+
+when™ 
+
+
+JLA'host'ed the sessions. 
+
+
+
+
+
+
+
+
+
+
+lured third place Ihe foT 
+
+
+
+
+1988 WOMEN'S VOLLEYBALL SCHEDULE 1 
+
+
+Tues. 
+
+
+
+
+at University of CinciimaU 7:00 PM 
+
+
+
+
+
+
+
+
+
+
+""uscf crach Bo™ Voder has 
+
+
+Fri/Sa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ins who operate a tarm 
+
+
+
+
+
+
+f/Hi'lJSS'LEGE ,:O.PM 
+
+
+
+
+Wed. 
+
+
+Sent. 21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+George lUason was the 
+
+
+
+
+
+
+State, Saginaw Valley 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the east regional to advance 
+to the Final Four. George 
+Mason tell to Cal-Santa 
+
+
+Fri./Sa 
+
+
+Oc,.,/8 
+
+
+at West Point Academy- TBA 
+ST^raANCISCOLLEGE 7-30 PM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+with an overall record of 34 
+Cal-Santa Barbara ended 
+
+
+Fri./Sa 
+
+
+Oct. 21/22 
+
+
+at Lewis University- elooPM 
+
+
+
+
+Sat. 
+
+
+
+
+
+
+
+
+
+
+
+
+StdtorTMason'/itlS 
+
+
+SRsa 
+
+
+Nov. 1 
+
+
+KVoUHNAMENT- '^T" 
+
+
+"southCTn" Carbrought 
+
+
+
+
+
+
+^Si^^' ' ™a 
+
+
+who excited and delighted 
+
+
+Sal 
+
+
+Nov 19 
+
+
+BALL STATE 3;00 PM 
+
+
+the crowd with their yells 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m 
+
+■McDonald^ 
+
+I ■ 1. 
+
+
+
+and help 
+
+
+
+Coins lo McDon.ilcl's* is almosi as r 
+p,]rl ol school as somg lo class. You've 
+us the place lo meel. lo talk, lo have . 
+hmc, to celebrale your vie 
+lorgcl dcteats 
+
+You've made McDonalds 
+■mother place lo cal And 
+McDonalds, we do il all lor y 
+
+
+
+; REGULAR FRENCH FRIES 
+
+
+
+CBS television taped I 
+
+
+
+IPFW RECREATIONAL S 
+
+
+
+BASKETBALL 
+
+
+
+
+
+
+BENCH PRESS 
+
+
+Sept. 12 
+
+
+Sept. 26 
+
+
+Oct. 
+
+
+BILLIARDS 
+
+
+Aug, 22 
+
+
+0CI3 
+
+
+Oct.l 
+
+
+COED VOLLEYBALL 
+
+
+
+
+Sept. 14 
+
+
+Sept. 
+
+
+FLAG FOOTBALL 
+
+
+Aug. 22 
+
+
+Sept. 7 
+
+
+Sept, 
+
+
+RACQUETBALL 
+
+
+Aug. 22 
+
+
+Oct. 3 
+
+
+Oct, 
+
+
+WALLVBALL 
+
+
+Aug. 22 
+
+
+Sept. 7 
+
+
+SEPT 
+
+
+BADMINTON 
+
+
+JAN. 9 
+
+
+Jan. 30 
+
+
+Feb, 
+
+
+BASKETBALL 
+
+
+Jan 9 
+
+
+Jan. 30 
+
+
+Feh 
+
+
+•Coaches Meeting Feb 
+
+
+3 
+
+
+
+
+
+
+BENCH PRESS 
+
+
+Jan. 9 
+
+
+Jan. 30 
+
+
+Feb, 
+
+
+COED SOFTBALL 
+
+
+Feb. 27 
+
+
+Mar. 28 
+
+
+
+
+
+Faculty/Stall 100 MILE CLUB-Sign up at die A 
+
+
+
+MUFFLERS • EXHAUST • CUSTOM BENDING 
+BRAKES • SHOCKS • STRUTS • COIL SPBINGS 
+
+fMRS NOT JUST A NAME IT'S OUH WA Y OF DOING BUSINESS 
+3 LOCATIONS TO SERVE YOU 1516 Coliseum 
+
+
+
+Mi)' 
+
+
+
+MUFFLER 
+SHOPS 
+
+
+
+4832 S. Calhoun 
+
+
+
+'S.DO OFF 
+•20 TO '80 
+
+
+
+_744-0303_ 
+
+
+
+FREE 
+
+BRAKE &amp; EXHAUST 
+
+INSPECTION NO 
+
+OBLIGATION! 
+
+
+
+Put Your Best 
+Foot Forward! 
+
+Part-time Sales 
+
+Radio XhaeK 
+
+The Technology Store 
+
+
+
+FREE 
+PREGNANCY TESTING 
+
+(Results while you v/ait) 
+
+CONFIDENTIAL PEER COUNSELING 
+
+Only 8-10 minutes from IPFW Compus 
+
+
+
+f CRISIS 
+
+SPRBDNANCY 
+'CENTER 
+
+
+
+
+
+
+</pre>        </div>
+      </div>
+    

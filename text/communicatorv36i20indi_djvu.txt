@@ -1,0 +1,5288 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv36i20indi/communicatorv36i20indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv36i20indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv36i20indi">The Communicator</a>"
+          </h1>
+          <pre>Indiana University 
+
+
+
+' Purdue University 
+
+
+
+Fort Wayne 
+
+
+
+if -. ^ Wednesday, February 15, 2006 
+
+The Communicator 
+
+
+
+INSIDE: 
+
+
+
+i Filling In The Gap 
+
+Controversial cartoons 
+published in attempt 
+to combat ignorance 
+about violence PAGEA6 
+
+
+
+Bruiser Wrestling excels 
+despite low expectations 
+PAGE A8 
+
+
+
+/y* 
+
+
+
+i Searching Made Easier 
+
+New search engine aims 
+to help and expedite 
+
+
+
+v.i pfwcommunicator.org 
+
+
+
+1 Pages, 1 Section, Free 
+
+
+
+Complex Unveiled 
+
+
+
+Proposed complex to 
+include indoor track, 
+International Student 
+center, and new bookstore 
+
+
+
+expanding in the future. 
+Recently, Indiana-Purdue 
+Fort Wayne unveiled the 
+concept of a new series of 
+expansions lo Gales Ath let it- 
+Center and the Walb 
+Student Union with small 
+expansions to the Helmke 
+Library and NW Parking 
+Garage. These expansions 
+are temporarily being 
+
+
+
+Student Services 
+
+
+
+( iiiiipk" 
+
+
+
+
+Courtesy Art / contatt@ipfw 
+
+
+
+having an 
+estimated price tag of 
+40 million dollars, and 
+encompassing the entire 
+
+Northwest side of campus. COMPLEX: The proposed Student Service Center would connect 
+^^ Co / nplex ^l 1 c , onnec .! Helmke, Walb, Gates, and the northwest parking garage. 
+
+Walb, Gates, Helmke and r 333 
+
+the northwest garage with 
+sleek, smooth edges and 
+
+
+
+; elevated walkway 
+
+Walb and Helmke along their west for the current Gates Center, but central 
+sides. Not only is this a project that rather a much needed expansion, 
+will add modern beauty to IPFW, 
+
+
+
+all the cardio equipment 1 
+
+
+
+Gates will 
+the same. The idea with the 
+new indoor track is to add more 
+equipment, and to centralized 
+
+
+
+and add 
+
+it with something 
+much different in Gates. 
+There is no p 
+
+
+
+1 for a pool 
+
+
+
+The Student Services t omple: 
+
+
+
+* type of equipment, such as 
+adding more cardio-vascular 
+equipment and rooms to Gates, 
+
+v facility- that much is 
+
+
+
+Branson c 
+
+
+
+■I III. II M 
+
+
+
+Fiiiaiui.i! All, til'- Wall Branson. 
+
+The first of these three goals is 
+
+to build a new indoor track and expansion will give Gates s 
+
+excercise facility. The new track breathing room to either r 
+
+
+
+making it larger 10 belter 
+
+
+
+to be able to Include in 
+the new Student Services 
+Complex that might also 
+include centralization of 
+the academic advisors into 
+one location, the ACCS, 
+Alumni Association and 
+various other student- 
+related offices into one 
+place for ease of making 
+meetings and not having 
+to run from one building 
+or another to get set up for 
+
+
+
+I'nllett's Bookstore giving 
+
+
+
+build a new International 
+Student Center that will 
+function as a social and 
+academic home for IPFW's 
+international students. 
+
+This International 
+Student Center will feature 
+expanded offices, areas to 
+meet, and more as a way of 
+welcoming international 
+students to campus and giving 
+ihcm ,1 place where they can truly 
+feel comfortahle while allowing 
+for better hosting and services 
+them. Along 1 
+
+
+
+Plans also Include expanded 
+offices for all IPFW Student 
+Organizations, replacing their 
+
+► COMPLEX: Page A2 
+
+
+
+Many Black History Month events at IPFW 
+
+
+
+February is Utaik History Month, 
+and IPFW has many programs 
+and events planned to honor the 
+rich history and legacy of African- 
+While some of the 
+dearly passed, not all 
+■re is a recap of the rest 
+
+
+
+Forum will host "African -American 
+Inventors and Their Inventions" 
+from noon until 1:15pm in the Walb 
+
+
+
+public. Hannah 
+for the African-American Historical 
+Museum of Fort Wayne will be 
+speaking. She will be discussing 
+[lice significant African-American 
+" ■ work. A light 
+
+
+
+Feb 16: IPFW 
+Services will host "Men of Color 
+
+I hink Tank Forum" at Gpm in the 
+Walb Student Union Room 1 14. The 
+program is an engaging dialogue 
+
+between a panel and the audience 
+icc,,iiiline,i-sucnl men of color in the 
+of societal views, education, 
+
+
+
+I 
+
+
+
+iheii rule in the speaker on leb I 
+
+
+
+■ free These 
+
+
+
+TAVIS SMILEY 'oT'Ti' ui.'u 
+
+for the youth. This event will he 
+facilitated byQuintonDi\ie,thellTW 
+assistant professor of philosophy 
+and coordinator of religions studies 
+For more information, contact (litis 
+Douse at 481-6604 
+
+IPFW will host Tavis Smiley as 
+
+
+
+airwaves." He has both a television 
+show on PBS and a radio show on 
+NPR. Smiley has interviewed ihe 
+President of the United Slates, Pope, 
+John Paul II and even Fidel Castro. 
+
+► BLACK HISTORY; A3 
+
+
+
+2/15-2/21 
+
+
+
+nii'iiH"tfiii ! iii"fiiim 
+
+■ Anthropology Club 
+
+
+
+New budget changes loans 
+
+
+
+The proposed 2007 
+Federal Budget cuts 
+student loans, hikes 
+interest rates 
+
+By Jamen Ratcliff 
+
+jratcliffSlpfwtommunkator.org 
+
+
+
+and for Plus Loans t) 
+
+
+
+Thebudgetproposestocoinpleieh 
+eliminate the Perkins Loan Program 
+which is distributed by about 1800 
+college; 
+
+
+
+1 advocates have 
+branded the plan as a symbol of the 
+administration's skewed priorities. 
+
+United States Student Association 
+Legislative Director Jasmine Harris 
+had this to say: "The president has 
+been hypocridcal in his stance on 
+
+
+
+I Oiveisequality Meeting 
+
+
+
+Contact Us! 
+
+481-6584 
+
+
+
+The 2007 Federal Budget was ser 
+to congress last week, and the 2.77 
+trillion dollar budget holds sweeping 
+cuts across the board. Some of the 
+hardest hit areas of reform will be 
+in Education and the pocketbooks 
+of all students and school districts. 
+For.college students, the new budget 
+could be a college-ending c" 
+
+Making it t' 
+
+
+
+By dropping this 
+
+pay for their school. 
+Along with this i 
+
+
+
+economic competitiveness in his 
+State of the Union address, then puts 
+these college programs on the back 
+
+
+
+ipfwcommunicator.org 
+
+
+
+upsm 
+
+
+
+eady approved to take effect 
+
+
+
+&amp; will not be a fixed r.ucnft.H 
+
+
+
+Pell drains are distributed by about 
+6,000 colleges. 
+
+The big issue is thai currently, 
+about 50% of the nation's college 
+students use federal programs. By 
+i h.im.mic, [he l.iMiut ol the federal aid. 
+students who i, in inn .illunl Mhmil 
+
+
+
+should be in education." 
+
+Bush administration officials 
+were quick to defend the budget, 
+claiming: "Federal dollars must be 
+spent wisely or not at all. Funding... 
+must be redirected toward programs 
+that either have been proven to 
+work or hold promise of achieving 
+
+effectively." 
+Not every 
+
+
+
+foreign lands, the National 
+► BUDGET: Page A J 
+
+
+
+Indiana-Purdue Student Newspapers, Inc. 
+Walb Union, Suite 215 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+
+Newsroom: (260) 481-6584 
+Fax:{260)481-&amp;045 
+Advertising Dept: (260) 481-6583 
+E-mail: contacn9ipfwcommunlcator.org 
+
+
+
+Violence, 
+riots caused 
+by cartoons, 
+engulf world 
+
+
+
+By Andrew C. Hoover 
+and Chad R. Butterbaugh 
+
+cantactSlpfweommunkator.org 
+
+
+
+"Death to freedom of speech." 
+T.uropc: lake a lesson from 9/11." 
+"freedom ro to hell." 
+Angry Muslim protestors marched through 
+
+
+
+by 
+
+
+
+Janish newspaper, the lyllauds- 
+
+I MORE INSIDE: 
+To see all 12 cartoons that 
+have sparked the riots 
+around the world turn to 
+page 4B. 
+
+
+
+depict the prophet Muhammad, considered 
+by Muslims to he Ihe loundcrol their faith. 
+
+Muslims consider any depiction of 
+Muhammad blasphemous. 
+
+The controversy surrounding the Danish 
+newspapers publishing ol the cartoon began 
+to attract wnildwide .mention 111 the past 
+several weeks, when outbreaks of violence 
+swepi through Iran, Syria and Lebanon, and 
+
+
+
+In Beirut, on Feb. 5, the Danish consulate 
+was burned down. 
+* Protests have swept through Pakistan and 
+
+
+
+assaulted, and i 
+
+
+
+In retaliation, the Iranian newspapi 
+•Hamshari has announced a contest to prii 
+cartoons about the Holocaust intended I 
+offend lews. 
+
+One such cartoon depicts Anne Frank i 
+bed with Adolf 
+coming 
+
+
+
+Hitler reads, "Put t 
+
+
+
+diary, Anne." 
+
+
+
+
+
+
+s currently 
+
+
+
+The death toll over the carte 
+
+IPFW journalism program 
+Ann Colbert sees in the explo; 
+attention surrounding these ev&lt; 
+need and an opportunity ft 
+
+Many of the reactions in the Muslim 
+world, particularly in Iran, "show a lack 
+of understanding of what free debate in a 
+democracy is," Colbert said. "It shows its own 
+lack of sensitivity and awareness." 
+
+Colbert does not expect the decision by 
+Hamshari to cause the same fundamental and 
+violent outrage that the Danish cartoons did. 
+
+The attempt "will miss its mark," Colbert 
+
+
+
+Danish 
+i educate the Muslim world 
+about the workings of a free society, it must 
+not act as though it controls the media. 
+
+But she sees, too, the need for non-Muslims 
+in the west to understand the Muslim world. 
+She says the Muslim reactions are evidence 
+
+
+
+of deep, pervasne religui 
+
+
+
+Khan jusl ihe cartoonsl," Colbert said. 
+
+Colbert says she feels, too, 
+media viewers often lack knowledge of 
+historical facts that surround the events they 
+see in the Muslim world. 
+
+U.S. media outlets, she says, should 
+maintain a "continual effort to show the 
+context" of Muslim-world debates. 
+
+But Colbert believes that the conversation 
+stirred by the media coverage of the Danish 
+cartoons and by the Muslim response can 
+realistically fight what she calls "a lamentable 
+lack of understanding." 
+
+"I'm hopeful that this incident will result 
+
+
+
+
+
+
+Join us tor Black History Month at IPFW, 
+sponsored by tile Office of Diversity 
+
+Dnd Multlcullur.ll Affairs. 
+
+
+
+^■^fc Block History Awareness Forum 1 
+„,^ "The Role of the Church 
+^■^ in the Community" 
+
+
+f^ ASAP! Retention Talk - 
+
+^^ Student Discussion Series 
+^■^ "African American 
+
+^ vm Diversity Game 
+
+T **% Noon- Hit p.m.. Willi) Siudcnll'nlon, 
+
+„f ^^ Wen of Color Think Tank Forum 1 
+
+■ ^^ Rooms 114-116 1 
+
+_^ ^^ MCS Gospel Celebration, 
+
+T ** featuring nilherlone.WIPCboIr 1 
+
+■ ^"^ and local gospel artists 
+
+
+^■^ ^^ "B/ffi-fc ;Mc«. tf/rtt-A Women. 
+
+^^ ^^ Do trc haw anything in common/" 1 
+
+^p^ ^m Xpresston Session 
+^^ ^1 ■Spoken It or*/ Program " 
+
+^^™ ^^^ " p.m., NVfl Hall, Room 101 
+
+4P^h ^™ "6&gt;c«/ &gt;/&lt;•«. (.&gt;&lt;•/;/ ll«/w/(" 
+^^■^ Diversity Breakfast 
+
+^^™ ^"^ R:30-ll:.ULi.iii.,\V;ilhMiic(cMlliilon Ballroom 1 
+
+
+
+The Communicator 
+
+
+
+ebbi 
+
+
+
+Brlanna Belford 
+
+Editor-in-Chief 
+
+bbo1lortieipfwcommunicaIor.org 
+
+Jamie Miller 
+
+Managing Editor 
+
+j m lller@ipfwcom municator. org 
+
+Lana Mabbitt 
+Advertising Manager 
+
+tmabbrtteipfwccmmunlca1or.org 
+
+Chad Butterbaugh 
+
+Copy Editor 
+
+c b u H e rba ugh ©iptwcom m u n 1 c 
+
+
+
+Amy Dunnuck 
+
+Copy Editor 
+
+
+
+Nick West 
+
+Sports Editor 
+
+n west©i pfwcom munlcator.org 
+
+Dan Vance 
+
+A&amp;E Editor 
+
+Andres Ponte 
+
+Oesign Editor 
+
+apc*ite6ipfwcxKnmunic3tor.org 
+
+Andrew C. Hoover 
+
+News Editor 
+
+ahoovertiipfwcommunlcator.org 
+
+
+
+Walb Union Suite215 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+
+Publisher 
+Doris Reynolds 
+
+(260)481-6585 
+
+
+
+EBSEE1 
+
+
+
+Filing taxes online grows 
+in popularity, saves time 
+
+
+
+Despite all the benefits, many people 
+still have not rushed into preparing and 
+filing their taxes online. Some, like Eric 
+Vitz, file by hand using the paper version, 
+and others go to have them prepared by a 
+
+
+
+In 2005, 6H. r i million taxpayers filed their 
+taxes online, according to the IRS. That 
+number was 1 1 percent more than in 2004. 
+The IRS expects a record number this year 
+
+"We expect e-file will continue to grow 
+this year," said IRS Commissioner Mark 
+Everson on the department's website. 
+
+"We remind taxpayers that e-filing is 
+fast, secure, and reliable." 
+
+)an-Marie Zimmerman seconds that 
+
+
+
+Vitz, 
+
+Department of Communications, says that 
+it usually takes a few hours for him to fill 
+out the paper copy but it is not too difficult. 
+He says the main reason he files by hand is 
+because it is free. 
+
+Although it can sometimescostahundred 
+or two more than filing online or by hand, 
+many people still enjoy the convenience of 
+filing with a tax professional. 
+
+Shannon, a representative for an H 
+
+
+
+"The software 
+from year to year and does the calculations 
+for you." 
+
+She actually purchased her tax software 
+from a store and then used it along with the 
+internet to submit here tax information. 
+Similar software is also available on the 
+web now and can be downloaded. Either 
+way. she likes how fast it works. 
+
+"Filing online is really slick because you 
+don't have to deal with mailing anything," 
+explained Zimmerman, "it submits it 
+instantaneously." 
+
+
+
+professionals to file. 
+
+"Taxpreparers might be able to find more 
+beneficial deductions," she explained. 
+
+The IRS entered a partnership with a 
+group of private commercial tax software 
+companies known as the Free File Alliance, 
+LLC in October of 2002. according to irs. 
+gov. 
+
+The partnership was in response to an e- 
+government initiative issued by the Office 
+of Management and Budget's Quicksilver 
+Task Force to improve, among other things, 
+government to citizen electronic potential. 
+
+The agreement was extended for 
+four more years in 2005 with the goal of 
+having 60 percent of all tax returns filed 
+
+
+
+include providing more free online filing 
+options, making filing and preparation 
+easier, and providing greater access to 
+taxpayers. 
+
+The IRS and the government claim that 
+private businesses are being used because 
+they can "provide taxpayers with higher 
+quality services by using the existing 
+expertise of the private sector, maximize 
+consumer choice, promote competition 
+within the marketplace, and meet objectives 
+in the least costly manner to taxpayers." 
+
+Private firms had offered tax filing and 
+preparation online even before the IRS 
+became involved. The difference now after 
+the agreement, according to the IRS website, 
+is that Free File Alliance companies offer 
+both free preparation and e-filing services 
+to qualified taxpayers. Before, according 
+to the IRS, some companies would charge 
+for either the preparation or the filing, or 
+both. Under the agreement, both are free 
+to eligible citizens. 
+
+To be eligible for the Free File program, 
+your adjusted gross income must be 
+$50,000 or less. Each participating 
+software company sets its own eligibility 
+requirements as well. 
+
+For more information on the Free File 
+program or the IRS, go to www.irs.gov. 
+
+
+
+Online gambling pays 
+
+
+
+By Molly McGarrett 
+
+[Duke) 
+
+
+
+Although main college kids soil associate 
+"poker" with plastic chips and pizza in the 
+
+commons room, a growing number of students 
+.in- dunking mme along the lines of computer 
+
+
+
+d its place at Duke. 
+
+Every day, students buy into games on sites 
+like I'okerStars toin in hopes of hei oining poker 
+stars ihemseKis In pulling in tens of thousands 
+of dollars. 
+
+"1 used to pla\ hi high school with my friends 
+really casually, said lason Strasser. a junior and 
+i hrorm le sports writer who was recently profiled 
+in Sports Illustrated for his online poker skills. 
+"Hallway through my freshman year, someone 
+
+
+
+to Sports Illustrated. He has funded 
+
+travels to Europe and other countries where he 
+
+competes in high-stakes tournaments. 
+
+"I like to travel. That's whai poker has done for 
+me," Mrasser said. 
+
+i big spending ends 
+
+
+
+the ordinary for a college student. "I bought 
+
+
+
+University to run Ins business, Smith, a would- 
+be sophomore, got his introduction to poker 
+during his freshman year. "I started playing in the 
+upstairs commons room of Pegram," he said. 
+
+Although Strasser and Smith said they spend a 
+significant amount of time playing poker online. 
+they pointed out that they do not follow any 
+specific schedule. Lengths of playing time lend 
+to vary widely. 
+
+At the height of his interest, Smith said he 
+put in a lot of playing time, but his schedule was 
+mi (insistent. "It went in waves," he explained. 
+"At the peak of it 1 was probably playing 15 to 20 
+hours per week." 
+
+A new group of lalented freshman poker 
+players are also profiting from the online poker 
+
+Old pros and new kids alike s.ud experience is 
+their means of success. 
+
+"I just started playing a lot," freshman Chris 
+
+
+
+Aldiough reading a book on poker might seem 
+like the logical place to start for many student^ 
+Strasser insisted that the best players are more 
+than well-read -- they are well-connected. 
+
+"Everyone starts by reading a book. I don't 
+ai tribute anything I've done to books," he said. "I 
+basically luund players who were belter than me 
+and kepi bugging them." 
+
+Despite the huge pay-off online poker offers 
+many college kids, even star players like Strasser 
+see playing not as a career but rather as a very 
+lucrative hobby. 
+
+"I've kind of lost regard for money," Strasser 
+said. "To play well you kind of have to disregard 
+the money." 
+
+While his parents support his bobby, Strasser 
+said they agree that he should not look to poker 
+
+
+
+Dylan Smith used a portion of (he estimated 
+SAl.lioi! he made ibrougb online poker to hind 
+the creation of In- online tile storage site, www. 
+
+"About half of my money I used to start 
+my business, the other half i invested," Smith 
+explained. 
+
+Currently on a leave of absence from the 
+
+
+
+cramped cubicles inside Walb 
+now and an extensive cooking 
+and kitchen area for hosting 
+caterings, cooking international 
+or specialized foods, and 
+allowing for better hosting 
+arrangements for all groups 
+using the Ballrooms. 
+
+Potential plans include 
+an expansion to the Student 
+Medical Center which would 
+not only expand the options 
+the Medical Center could offer 
+students, but would be strongly 
+focused on giving visitors to the 
+center more privacy. 
+
+IPFW is currently waiting to 
+see the funding issues around 
+the project resolved before ; 
+
+
+
+date can be si 
+
+
+
+Jet 
+
+
+
+i _'■! million dollar ir 
+
+students who study Farsi and 
+Arabic and seeks to help set up 
+
+college programs to teach these 
+
+
+
+College lobbyists see the 
+overall picture for students as 
+grim, despite the new programs 
+in the budget. BeckTimmons, 
+the director of government 
+
+Council on Education sums 
+it simply as "The president is 
+calling for a net cut in need- 
+
+
+
+Banks ordered to raise 
+minimum credit card payments 
+
+
+
+By Justin Thompson 
+
+
+
+monthly payments, as banks 
+comply with orders from the Department 
+of the Treasury. These large banks, 
+
+
+
+these changes because of a joint mandate 
+from the Office of the Comptroller of the 
+Currency, the Office of Thrift Supervision, 
+
+
+
+.- lost gelling n 
+
+
+
+i p.iunriil--, 
+
+
+
+he said. "Some b 
+
+This short-ter 
+from roughly 2 percent on most cards 
+4 percent, will actually help consumers 
+in the long run, Mukri said. Before the 
+
+change, consumers could consistently pay 
+
+
+
+d be falling further and further 
+mm debt," he said. 
+
+American families with credit card 
+balances are an average of $9,000 in debt, 
+
+
+
+The order, published Jan. 8, 2003, i 
+developed in response to inappropriate 
+
+
+
+oihousoiulsol euradollariii 
+
+
+
+s release. 
+
+Banks were given time to initiate the 
+changes, OCC spokesman Kevin Mukri 
+
+
+
+bankruptcies," she said, adding many low- 
+nilies use the credit card as an 
+
+"They'll carry those credit card debts 
+) their grave," she said. "The answer for 
+lese people is not to go into debt on their 
+
+
+
+For many Ohio University students, their 
+credit cards are both the emergency funds 
+and the quickest way to "borrow" money 
+I mm their parents. 
+
+Some students -- and many teenagers in 
+general -- are cardholders on their parents' 
+account, though their responsibility for the 
+payments is somewhat negligent. 
+
+"(My credit card has) got my name on 
+it, but it's my dad's," said sophomore Paul 
+Mc Kinney. 
+
+Other students are responsible for their 
+own debt, and with the rise in minimum 
+payments, that debt can be harder to 
+manage. To avoid the risk of compound 
+interest, sophomore Amelia Maury tries to 
+pay off her balance every month. 
+
+"I don't like putting big purchases on 
+there that I don't need," she said. 
+
+The short-term inconvenience for all 
+credit card holders is outweighed by the 
+long-term benefits, Dunn said. 
+
+"As painful as this is," she said, "it has to 
+
+
+
+My Student Loan Makes Me Eat Dog Food. Com 
+
+
+
+
+
+
+Past drug offenders 
+may get fiancial aid 
+
+
+
+By Kimberly Huebner 
+
+allowing students with prior drug 
+ns to receive financial aid has heen 
+passed in Concuss and is awaiting President 
+Bush's signature. 
+
+The bill was changed from a resolution passed 
+in 2000 that denied access to college financial 
+aid opportunities to students with past drug 
+
+
+
+The changes Congress is passing will give 
+people with a history of drug convictions a 
+chance to start over, said Joseph I'eltilion, interim 
+assistant provost lor finant ial aid at lexas ASjM. 
+
+"It's basically giving the students an option 
+to rehabilitate iheir lives." i'eltilion said. "It's 
+no longer penalizing them in the future for 
+something lhe\ did in the past." 
+
+Pettibon said the new hill may affect a handful 
+of students at A&amp;M. but that he has not seen a 
+problem with drug convictions interfering with 
+financial aid al ihe University. 
+
+Some student v, however, may answer drug- 
+related questions incorrectly on financial aid 
+appln_aiionsor iii,i\ leave tin- questions blank for 
+
+The policy should be in ellect hi 'ginning with 
+the l-all JOOu semester, and students who were 
+denied financial aid belore tlie bill was created 
+will not be reimbursed. Pettibon said. 
+
+Since the first provision was passed, more 
+than 2"i0 organizations have joined under the 
+Coalition for Higher education Act Ileform to 
+urge Congress id repeal the restrictions, said 
+lorn Angell, campaigns director fur Students for 
+Sensible Drug Policy. 
+
+
+
+Even with the changes. ( lll.Mi is concerned 
+about the students being denied financial aid 
+because of drug convictions received during 
+college, \ngellsaid. 
+
+"The fundamental problems of the law are 
+still not being addressed." Angell said. "It still 
+doesn't make sense to block access to financial 
+aid to any students with drug convictions." 
+
+About 175,tH&gt;n students nationwide have been 
+affected by the 111 \ provisions, Angell said. I lie 
+number, however, is probably higher because 
+many students wiih drug convictions will not 
+apply for financial aid lor tear of rejection. 
+
+Annie Davis, a Ireshmati biomedical science 
+and entomology major, said she feels drug 
+should only be a factor if the offenses 
+pea ted. 
+
+S influenced by a friend who 
+for marijuana and needed 
+o college, she said. 
+iven a second chance and was 
+id by a private university in 
+drug-free, her grades have 
+
+
+
+Her opinion v 
+got into trouble 
+financial aid tog&lt; 
+
+Her friend was 
+offered financial 
+California. 
+
+
+
+iproved and she pi; 
+
+tester, Davis said. 
+"I think before I was much more 
+of anyone who did drugs.' Davis 
+all bad peopl 
+
+
+
+i ollege i 
+dgmental 
+
+
+
+Circle K offers 
+many opportunities 
+
+
+
+This week we feature 
+the Circle K student 
+organization. Circle K of 
+IPl-'VV is a community service 
+
+
+
+According to pres 
+Lira Spencer, "Our pri 
+focus is working 
+childre 
+
+volunteer projects 
+
+For example, Circle K of 
+IPfW has helped with Big 
+Brother/Big Sister events. 
+Relay for Life and Making 
+Strides Against Breast 
+Cancer. Circle K. however, is 
+
+
+
+far more than a simple student 
+organization at IPFW. It is an 
+internationally recognized 
+group that is known for helping 
+make a difference in the world. 
+A Kiwanis club sponsors each 
+Circle K group, but college and 
+university students govern 
+the organization on all levels. 
+
+develop college and university 
+students into responsible 
+citizens and leaders with a 
+lifelong commitment to serving 
+the children of the world. 
+
+Being a member of Circle K 
+presents many opportunities. 
+
+"It allows you to network 
+with a variety of individuals 
+who have a common goal of 
+bettering the community 
+
+
+
+by c-mailing the club a 
+at circled iplw.edu 
+expressing an interest l&lt; 
+
+
+
+I realiz 
+
+people who made a 
+
+Davis said she supports die bill to penalize 
+inly those students convicted of drugs during 
+
+
+
+VILLAGE JS% 
+
+
+
+APARTMENTS 
+
+
+
+"I don't think drug convictions should I 
+overlooked altogether," she said. "That would I 
+taking advantage ol the system." 
+
+
+
+Library healdinea a 
+
+
+
+The Walter I . Hefinke I ibrary has come out 
+with a new way for IPFW students to search 
+through multiple academic databases in the 
+press ol an enter key. 
+
+This new feature is called OneSearch, and 
+it is conveniently placed on the bottom of the 
+Helmke library's wehpage for quick and easy 
+
+
+
+research, however, because OneSearch results 
+include many scholarly arrii les and books, items 
+that are just not available for free on the Web." 
+said Pamela Sandstrotn, head of reference and 
+instructional services at Helmke Library. 
+
+Students who are new to OneSearch may 
+take time to get acquainted with the new system 
+before an actual class assignment. 
+
+Assistant librarian Judith t.arrison suggests. 
+
+
+
+&gt;&gt;*% Best location 
+JK% Swimming Pool 
+S&amp;; Pet Friendly 
+;V% Low Rent 
+&gt;&gt;"% GPA Discount 
+
+
+
+Come and apply at the best 
+apartments in the Fort Wayne 
+area. Recieve one free month 
+rent and a discount with a 3.0 
+or higher G.P.A. so™™«» 
+
+
+
+VMAOE GREEN 
+
+APART M E N TS 
+
+
+
+sing t 
+
+
+
+
+
+
+Location, Location, Location 
+
+
+
+Since academic journals are expensive, 
+Indiana University I ibraries sponsors OneSearch 
+to keep it tree for ihe students. 
+
+
+
+for 
+
+daunting for students, but OneSearch v 
+
+to alleviate that problem. 
+
+"OneSearch mimics an Internet search e. 
+like Ooogle, since the results list can be spread 
+over main formats and disciplin 
+
+
+
+
+
+
+
+
+
+
+
+
+QUkktH»ll A1l 0n .»,.-&lt;hi=ur&lt;M MyOnr* 
+
+
+
+
+!T— _ 
+
+
+
+
+". 
+
+
+
+
+
+Courtesy Art / contacng'ipfwcommunicator.ori 
+
+REASEARCH: A screen shot of the new search engine that Helmke Library offers. 
+
+
+
+graduate tit I mil ana University on creating positive relationships between 
+black men and women and explore issues that 
+may hinder this goal. The program will be 
+overseen b\ Deborah ( .odwin -Marks from the 
+IPFW departm 
+
+
+
+Feb 17: 1PI-W Mnliiculiui.il Services will be 
+hosting a Gospel Celebration at 6pm in Neff 
+Hall room 101 on this date. As a pan of the 
+Black History Month events on Campus, this 
+
+
+
+program will eelehrale (lie rich C 
+of gospel music. Local gospel artists the 
+Progressive Baptist Church I boir, A. Terence 
+Brownlee and Approved. Ulna Edmonds, Dora 
+Person, Konlrell Iyer and (he II'IAV Intervarsiiy 
+Christian fellowship Voices ol Inspiration will 
+join theWilherlntee New Voices in Praise f.Ospel 
+Choir and the Blessed Bouncers dance team in 
+celebration of gospel. For more information, 
+contact Chris Douse at 481-6604. 
+
+Feb 18: The IPFW Multicultural Services 
+will be hosting another event, this one entitled 
+"Black Men. Black Women. Do we have anything 
+
+
+
+b.!5: In i\ell !()l In. in 7pm to lllpm a 
+
+
+
+Friday, Feb. 17, 2006, 7:30 p.m. 
+IPFW Walb Student Union Ballroom 
+
+With his late night television talk show, Tctvis Smiley 
+on PBS, and his radio show The Tavis Smiley 
+Show on National Public Radio, Smiley is the first 
+American to simultaneously host signature talk 
+shows on both PBS and NPR, conducting exclusive 
+interviews with former U.S. President Bill Clinton, 
+Cuban President Fidel Castro, and Pope John Paul II. 
+The mission of his nonprofit organization— Tavis 
+Smiley Foundation— is to enlighten, encourage, and 
+empower black youth. Newsweek profiled him as 
+one of the "20 people changing how Americans get 
+their news" and dubbed him one of the nation's 
+"captains of the airwaves." Free tickets are required for 
+Smile) ' s lecture. For more information, call 4814166. 
+
+Free public lecture T Free parking 
+
+Seating is limited. Doors open at 6:30 p.m. 
+
+
+
+.\mcnaln \iy&lt; I ({iiyiae.c uuai»rt,i jam i&lt;h&lt;l nfion request 
+
+Lecture funded by a gram from the English, Burner. Mitchell Foundation. 
+
+
+
+discussion I 
+Not thf Man." This evi 
+
+innMMiny i&gt;l i,,i-mb,-i- 
+Urlun 1 i.i^iic .inil the I 
+
+
+
+if Ik- \'A.\( I! lilt- 
+
+
+
+[ Union G2!a-WG2 
+
+
+
+n until 3pm I n-i- fuoil will Li 
+
+
+
+
+Podium 
+
+
+
+Wednesday, February 15 
+
+
+
+Staff Editorial 
+
+
+
+Mind the gap 
+
+
+
+Congress shall make no law respecting an establishment of religion, 
+?r prohibiting the free exercise thereof, or abridging the freedom 
+of speech, or of the press; or the right of the people peaceably to 
+
+assemble, and to petition the government for a redress of grievances 
+
+
+
+As a newspaper The Communicator has 
+an obligation to report the whole story. The 
+Communicator has decided to print the 12 cartoons 
+based on the fact that they are newsworthy and the 
+public deserves the entire story behind the world- 
+wide violence. 
+
+We have no malicious intent. 
+
+Our intent is to inform the public. 
+
+As journalists— aspiring college students or not — 
+it is our duty to inform our readers. By showing 
+the cartoons, we believe it will stir conversation on 
+campus and in the community. 
+
+Less than a handful of national newspapers have 
+printed ope, a few. or all of the 1 2 cartoons that depict 
+a satirical viewpoint of the prophet, the Islamic 
+religion and even extremist terrorism. 
+
+Their reasoning has ranged from not wanting to 
+disrespect the religion to fear of reprisal from angry 
+Muslims. 
+
+Leonard Downie lr, executive editor of The 
+Washington Post, said, "They wouldn't meet our 
+standards for what we publish in the paper. We have 
+standards about language, religious sensitivity, racial 
+sensitivity and general good taste." 
+
+The Los Angeles Times said in a statement, "Our 
+i and opinion page editors, independently 
+
+
+
+of each other, determined that the caricatures could 
+be deemed offensive to some readers and there 
+were effective ways to cover the controversy without 
+running the images themselves." 
+
+The First Amendment to the Constitution 
+of the United States guarantees us a right to free 
+speech. Regardless whether that speech is deemed 
+appropriate or offensive, we have a right to say it. 
+
+The Communicator is baffled at the lack of national 
+newspapers printing the cartoons and has elected to 
+
+)t simply for the sake of doing it, 
+ve the public interest by providing 
+in a debate where they have been 
+eking. 
+in this post-9/11 world in which 
+curiosity about the Islamic religion has become 
+understandably widespread, for national media not 
+to pay closer attention to the crux of the issue? 
+
+For them to run footage of angry Muslims 
+protesting in the street, burning flags and holding up 
+threatening signs, but not to show the cause of these 
+acts? 
+
+Sadly, many citizens — in the United States and 
+abroad — are misinformed or under-informed about 
+debates within Islam. Stereotypes are rampant, and 
+
+
+
+We do this r 
+but rather to se 
+primary source: 
+conspicuously 1; 
+
+How is it OK 
+
+
+
+hate crimes have become more common since 9/11. 
+The footage of the rioting Muslims only further 
+confuse the public about religious ideology because 
+the media have not fully reported this issue: they 
+have not shown what caused it. 
+
+It should be noted that Jyllands-Posten ran 
+these cartoons as a satirical piece about staff writer 
+Kare Bluitgen's plight in finding illustrators for his 
+children's book about the Prophet Muhammad. 
+Illustrators turned him down for fear of Muslim 
+reprisal because depicting Muhammad — in any 
+manner — is considered idolatrous and sacrilegious, 
+according to Islam's holy book, the Quran. 
+
+The Communicator reminds readers we are not 
+taking a side on this issue, only that U.S. media 
+should take a more comprehensive approach when 
+reporting on it. 
+
+These cartoons are being published with the same 
+consideration that any controversial image would 
+bring about in The Communicator. 
+
+View the drawings of the 12 cartoons and inform 
+yourself. 
+
+We hope your interest will be piqued enough to 
+come to a conclusion on your own and fill in the gaps 
+between what mainstream media presents and what 
+the whole story is. 
+
+
+
+Cartoons courtesy of / http://www.brusselsjournal com/node/698 
+
+
+
+
+
+eJl-i&gt;4^Uc_&gt;f 
+
+
+rUUlfc 
+
+
+\ 
+
+
+-NX 
+
+
+: V - 
+
+c 
+
+
+
+
+^— IMPpi 1 
+
+
+
+
+
+
+
+Editorial Policy 
+
+
+necessarily re 
+
+
+en the views ol IPFW, its employees or its student body. A column Is 
+
+
+solely the op, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+slderedlorpu 
+
+
+bllcafion, All submissions made via email will be verified by telephone 
+
+
+Submissio 
+
+
+ns must be typed, and no mote than 700 words The editorial board 
+
+
+
+
+nicaior reserved the right to edit all submissions tor length, grammar. 
+
+
+
+
+ty. Letters deemed potentially libelous by the editorial board will nol be 
+
+
+published un 
+
+
+e- any circumstances. 
+
+
+
+
+
+
+True comedians show unique, original work 
+
+
+
+Pasquali's Ponderings 
+
+
+
+sang songs about awkward 
+
+
+
+Night Live or stereotypical 
+television shows such as 
+"Freddie," "Courting Alex" or 
+"Emily's Reasons Why Not," 
+although it was neat how they 
+all had similar slogans before 
+airing their season premiers. 
+
+Oh no, I am discussing true 
+comedians, most especially 
+those I find true to heart; some 
+I mentioned briefly last week. 
+
+I mentioned how today's 
+comedians are not the crack- 
+addicted hobos from the 70s 
+and '80s, i.e. Robin Williams, 
+but they have a new sense of 
+comedy ensuring their success. 
+
+First off, my personal 
+: of 
+J, is 
+
+Dane Cook. Let us see, where 
+should I start? 
+
+I first found out about Dane 
+Cook three to four years ago 
+
+
+
+Dane Cook." Cook became 
+
+
+
+i'\pl(iilr.i, (.■specially 
+
+past year or two. Cook's first CD 
+
+and DVD combo was released 
+
+in 2000, titled "Harmful If 
+
+Swallowed." 
+
+The best part about this 
+combination album is that 
+
+
+
+My second favorite comedian 
+is a man by the name of Stephen 
+Lynch. What's that. ..never 
+heard of him? 
+
+popular as Dane Cook, but still 
+holds a strong fan base for his 
+unique talent. 
+
+Now. whatmakes Lynch stand 
+
+
+
+o them than what n 
+
+
+
+
+
+
+
+
+
+released his second album, 
+"Retaliation." In the Feb. 11 
+of "Billboard Magazine," 
+
+
+
+tn hold the mi ruber one spot for 
+lop &lt; omedy Album." 
+
+If the statistics and personal 
+acclaim are not convincing 
+enough for you, then you have 
+no idea what you are missing. 
+
+Dane Cook's originality a 
+
+
+
+genre of his comedy is called 
+comedtc singer/songwriter. 
+
+What I mean is, he sings 
+all of his jokes and stories. 
+Surprisingly, he has an amazing 
+singing voice and plays the 
+guitar really well for his songs. 
+
+1 heard of Lynch the same 
+way I did Cook, from his 
+
+
+
+Lynch talked and played 
+
+
+
+First"Dr.Sleph 
+be called "The Gynecologi 
+Song," Secondly, "Lullaby" i 
+subtitled "The Divorce Song. 
+Lynch likes to switch it up 
+
+
+
+He sings about the 
+in life most peopli 
+and puts his spin on them while 
+singing ,ind playing the guitar. 
+I lie combination is incredible. 
+Lynch has three albums and one 
+DVD currently in circulation. 
+
+Doth Lynch and Cook have 
+that sense of humor I love: 
+straight to the point with an 
+individual touch of absurdity. 
+
+I recommend you checking 
+
+
+
+Cook is a little less offensive 
+than Lynch, so listen to 
+
+first be lii re deciding il ymi 
+
+
+
+Whom, if anyone, is above the law 
+
+
+
+Have a Beard 
+
+
+
+n, illy ver 
+
+
+
+What you see here i 
+2.0 of this particular &lt; 
+1.0 consisted entirely of excerpts from 
+Attorney General Gonzalez's testimony 
+before the senate, with every occurrence of 
+the word "Gonzalez" replaced with "Grand 
+MoffTarkin." 
+
+As funny as that would have been, 
+editing of that transcript in such a way as to 
+fit on this page would have heen so severe 
+as to lay me open to (perhaps justified) 
+accusations of deliberate misquotation. 
+
+Still, for those of you who saw the 
+hearing or portions thereof on the news, 
+the mental image remains apt. 
+
+Gonzalez treated those particular 
+senators, and indeed the entire legislative 
+branch, with a smiling contempt which 
+was shacking even to one who was already 
+extremely cynical regarding our current 
+
+
+
+chard Nixon against several of the people 
+i the "White House Enemies List." FISA 
+ys out the criteria for obtaining a wiretap 
+arrant and establishes a secret court to 
+
+The act has been revised several times 
+nee its initial passage; in fact, it has been 
+vised five times since Sept. 1 1th. 
+
+
+
+It would not have broken the continuity 
+of the event in any way had Gonzalez 
+gone on to say, "I have just received word 
+that the Emperor has dissolved the Senate 
+permanently. The last remnants of the Old 
+Rvpuhln have been swept away.' 
+
+The reality, of course, isn't as 
+as all that. But Gonzalez has, 
+served as a representative of a 
+branch that is completely out of control. 
+
+Let's omit the whole invasion-of-lraq 
+thing for today, and focus on more recent 
+
+The subject of the hearing, during which 
+Alberto Gonzalez insulted a lot of our 
+elected representatives, was the ongoing 
+wiretap scandal, in which President Bush 
+has admitted to repeatedly ordering the 
+NSA to conduct domestic wiretapping 
+operations which violate federal law. 
+
+The fact that this activity was (and 
+is) illegal is really not open to dispute 
+- all federal wiretapping authority stems 
+from FISA, the wording of which is 
+
+
+
+secrecy raises an interesting question. 
+From what we' have been told of the NSA 
+program {which is, of course, not much) 
+it seems highly likely that the FISA court 
+would have issued the necessary warrants 
+
+why didn't they? 
+
+This question was asked, repeatedly, 
+by several of the senators present at the 
+hearing. 
+
+It was not answered. 
+
+Each time, Gonzalez gave vague 
+speeches regarding the president's duty to 
+protect Americans or how wonderful FISA 
+is in lieu of an actual answer. 
+
+I see two possibilities: either the 
+administration thinks the secrecy of the 
+FISA court is insufficient, or they think that 
+they wouldn't get the warrants. 
+
+The first possibility is contrary to the 
+stated position of the administration. 
+
+
+
+In a building so crawling with lawyers 
+as the White House, the suggestion that 
+the illegality nt the program never crossed 
+anyone's mind is, frankly, ludicrous. 
+
+I he mil) pussihilin we .ire left with, 
+then, is that Bush didn't think the FISA court 
+would give him the wiretaps he wanted. 
+
+If the secret wiretap court wouldn't like 
+i inclined to 
+reason for it. 
+so it follows that the more we, the public, 
+knew about them the less we'd approve of 
+the idea. 
+
+This is just a guess, but given this 
+administration's track record I think it 
+likely that the wiretaps involved are fairly 
+indiscriminate; that is, that they are being 
+established with little i&gt;r nothing in the way 
+of probable cause. 
+
+Further speculation is idle, though, as 
+we do not know, and probably never will, 
+the operational details of the program. 
+
+The justification of all of this has been 
+
+We're at war. 
+
+There's a dangerous enemy out there. 
+This notion doesn't disturb people 
+anywhere near as much as it should. 
+
+Congress has not declared war. We 
+aren't engaged with a foreign military. 
+We've suffered a mass murder perpetrated 
+gang of criminal thugs and gone on 
+irelated country where 
+igged duwn in trying to 
+
+
+
+the praises of FISA.. . and in fact, the luslice 
+Department has been calling FISA "a highly 
+flexible statute that's been proven effective" 
+
+
+
+to invade an ui 
+our forces are bi 
+suppress guerilla* 
+
+
+
+is worried about FISA proceedings being 
+leaked in AIQaida. 
+
+Of course, there's .ilwa\s the possibility justified because 
+that H never occurred to anyone that these 
+wiretaps were illegal. 
+
+
+
+ir with, precisely? Al 
+"Terrorism?'' 
+
+e things are whatever the president 
+says they are. 
+
+We're at war, in the end, because the 
+president says w^'re at war. 
+
+Given the nature of the nebulous and 
+undefeatable "enemy" this state of war 
+cannot be other than perpetual. 
+
+saving that these wiretaps 
+
+
+
+j of v 
+
+
+
+excesses committed during the 1960s and 
+70s -notably, the wiretapping of Dr. Martin 
+Luther King, Jr. and wiretaps authorized by 
+
+
+
+fact, the stated position of 
+he Justice Department - and never mind 
+.vhere the legal authority comes from; ask 
+ind the best you'll get will be incoherent 
+■amblings about the fourth 
+
+
+
+well say ili.it these 
+wiretaps are justified because he says so. 
+
+The president and his assorted lackeys 
+have been behaving as though they are 
+above the law. 
+
+What remains to be seen is whether or 
+not they're right. 
+
+
+
+Letters to the Editor 
+
+Response unthoughtful; inappropriate language unnecessary 
+
+
+
+face to IPFW. Shame on Justin 
+Kenny. A sport writer????? 
+What he may have perceived 
+
+
+
+v IPFW' 
+diversity: " 
+
+Indiana University- 
+
+
+
+LTniversity Fort Wayne is 
+committed to creating an 
+environment that enhances 
+learning by recognizing the 
+inherent worth of all individuals 
+at the university. Diversity 
+stimulates creativity, promotes 
+the exchange of ideas, and 
+enriches campus life. 
+
+The term diversity 
+encompasses differences 
+
+of culture, background and 
+experience among individuals 
+and groups. Such differences 
+include, but arc not necessarily 
+
+
+
+that IPFW 
+foster acceptance and create 
+an environment that promotes 
+diversity. 
+
+The remarks by Justin 
+negate the strides made by 
+the university and show that 
+we cannot stop our efforts 
+to educate all regarding the 
+rights of others, including not 
+
+
+
+As a supporter of IPFW 
+athletics, I've watched our 
+women's basketball team work 
+hard on and off the court. 
+
+They, have represented our 
+university as committed athletes 
+even against powerhouse 
+opponents. Certainly, as a 
+sports writer, Justin could 
+
+
+
+identified a MVP 
+
+
+
+Carol Sternberger, PhD, RN 
+
+
+
+PLEASE RECYCLE 
+THIS PAPER 
+
+
+
+
+
+
+Ft. Wayne drivers 
+dangerous in snow 
+
+
+
+Staff Column 
+
+
+
+say everyone. I remember how 
+
+
+
+don't have to drive 
+anywhere. Then I can sit on 
+the couch with my mug of hot 
+cocoa, relax, and enjoy the 
+beautiful snow falling. 
+
+I never minded driving in it 
+until the first snow fall of 2005. 
+Now I'm not a paranoid selii/.o, 
+if you could call me that. Yes, 
+the bad roads tend to make 
+me a little nervous. But, that's 
+not quite it, either. It's also 
+the other drivers who make me 
+
+More specifically, the ones 
+who aren't careful and drive. 
+Why do I care so much? Because 
+every time 1 see someone whiz 
+by me in their nice, four wheel 
+vehicle, I find myself 
+
+
+
+Anyone who knows i 
+enough ought to know by now 
+that 1 love telling stories. 
+
+As I was driving home one 
+Saturday from work around 
+9:30 at night, 1 realized how 
+people forget how to drive in 
+the snow. So, snow only comes 
+four months out of the year. Big 
+deal, right? Wrong. When 1 was 
+driving home on Feb. 11, all I 
+could do was shake my head 
+
+Then there were at least 
+another five who hit the guard 
+rails or the middle wall along the 
+highway. Do people not realize 
+that during bad weather they 
+need to slow down? ApparenUy 
+not since they think as long 
+as they have four wheel drive 
+they'll be okay. Wrong again. 
+
+People with four wheel 
+drive, if they are not cautious 
+during bad weather, are just as 
+susceptible to getting into an 
+accident as those people who 
+don't have four wheel drive. 
+It is like people forget how to 
+
+
+
+on slick roads. The faster they 
+go, the quicker they get to their 
+destination right? Well, if they 
+don't get into an accident first, 
+So, people can't take tlieir time 
+when i lie weather sucks. 
+
+
+
+destination, it would probably 
+be better then ending up either 
+in an accident or the hospital. 
+Avoiding those two key 
+situations could probably save 
+a person quite a bit of money. 
+But, hey, I'm no expert nor do 1 
+claim to be one. 
+
+1 was driving down the 
+highway and there were people 
+just dying past me, probably 
+doing about 50 or CO. Okay, so 
+they were driving SUVs, vans 
+and trucks. Still. 1 was freaking 
+
+whined past me. 
+
+I kept thinking that someone 
+is going to slide into me sooner 
+or later. What is the deal with 
+people who ride your ass when 
+the roads are crappy? What a 
+
+
+
+I would give those 
+drivers a piece of my 
+mind if I could, but I'll 
+just bite my tongue 
+and deal with it. 
+
+
+
+I have to slain on my brakes 
+for some reason, they are going 
+to be screwed if they can't stop 
+
+It is kind of annoying when 
+I'm trying to be careful and 
+other people get pissed off 
+about it. Well, excuse me for 
+wanting to be careful and not 
+get into an accident. I really 
+think that I don't want to drive 
+around a car that is all mangled 
+because I decided to drive fast 
+on crappy roads. 
+
+If you don't like my driving, 
+you better get over it because 
+1 really don't care. I would give 
+those drivers a piece of my 
+mind if 1 could, but I'll just bite 
+my tongue and deal with It. 
+
+When I got home after my 
+hour venture driving to get 
+there, It almost made me wish 
+I lived closer to school. But 
+only just a tiny hint of that wish 
+reached my mind. At least I 
+wouldn't have to drive as far to 
+get home. Then I wouldn't get 
+all worked up and nervous. At 
+least the drive home would be 
+less stressful for me if I lived 
+closer to school and work. 
+
+
+
+Stuck in a world 
+of unbalance 
+
+
+
+Staff Column 
+
+
+
+The other day at work I just 
+
+finished listening to a book 
+
+tape called "Peter and the 
+
+
+
+Along with this I recently 
+listened to the book "Wicked" 
+which deals with the childhood 
+of die Wicked Witch of the West 
+from "The Wizard of Oz." There 
+is also a great musical rendition 
+of this on Broadway. 
+
+
+
+that after listening 
+the two books (I do this at work 
+because 1 key mail all night long 
+and it's either books or music 
+as a choice for entertainment) 
+I had answers to things I have 
+
+
+
+after last semester I learned 
+how important this unbalance 
+really is. In my Principals of 
+Persuasion class last semester 
+we became familiar with a 
+term referred to as cognitive 
+dissonance. 
+
+Simply put it is an unbalance 
+in one's mind that creates an 
+action of some kind. A simple 
+example is that you 
+
+
+
+their side. This embarrassing 
+
+product to solve this need. 
+
+The advertisers have created 
+an unbalance in your mind and 
+given you a solution. Youraction 
+
+
+
+adult, or at least for the most 
+part an adult, I have questions 
+pertaining to more complicated 
+
+
+
+» I sat and thought 
+
+
+
+childhood seem to get answered 
+and a void seems to be tilled. 
+It's a very weird feeling I must 
+
+
+
+I could go on and on with 
+examples, but I feel you can 
+figure them out for yourself. 
+The main point I want to make 
+is that what seems to be a 
+natural human characteristic 
+of questioning and having an 
+unbalance is used against us in 
+
+Answers to questions that 
+will fill a void, products that are 
+needed to create that balance 
+and most importantly our 
+daily tasks we do in searching 
+
+
+
+for i 
+
+
+
+i life's many 
+
+
+
+nd television. 
+
+, this unbalance is all 
+
+
+
+somewhere inside this head of 
+
+
+
+E5E3 
+
+
+
+HlHIJ.UUILI.IJ.i' 
+
+
+
+UH2 uet 
+
+
+
+
+
+^ODej^NCLKSS\C^ V 
+
+
+
+Movie is essential 
+part of growing up 
+
+
+
+many careers tli;it Mill flminsli 
+
+film industries. 
+
+Sean Asiin (in his hrst fcMurc 
+111 in I whu M.trs.is Miki'\ WaKh ,ii)i I 
+Irish Unilin (lirsi movie period) 
+who plays his older brother 
+Hniiul. huih got their siurts wilh 
+"The Goonies." Astin is now one 
+ul tin- bluest n.iniL's in bluvcoll.tr 
+
+
+
+
+
+nelghboorhood kids who call others, roc 
+iheniselves, of all things, The beheveuhle 
+Goonies. this genre. 
+
+
+
+child, and still 
+adult, see that little bit 
+of myself in a characters, making 
+
+
+
+The fact of the n 
+the story is highly i 
+but it just doesn't 
+when you find a film like that, you 
+
+
+
+d the action (for being a 
+
+novie, niied PGI does keep 
+i theede.!' ofyourse.it Now 
+
+
+
+well-seasoned writers Steven 
+Speilberg and Chris Colombus did 
+an amazing job in bringing (his 
+film to life with a brilliant script 
+
+
+
+casting and well— direction. 
+
+1( is odd at that time, or even 
+now, to find such a talented writer/ 
+direcior cmnbonation. 
+
+for those old time fans, the DVD 
+release just adds a new dimension 
+to the findings of a childhood far 
+~ xtras will make you 
+e awsomeness of the 
+idea of chasing pirate treasure 
+with your childhood chums, just 
+
+it has for the past 2 1 years. 
+
+Andforthoseofyouwhohaven't 
+boy are you missing out. 
+But don't worry, I .mi sun- thai this 
+modern classic is unu ih.il will In* 
+around for a few more generations 
+lo enjoy and get a smile out of. 
+
+And I hope those generations 
+get the same thing out of "The 
+Goonies" that my generation 
+
+
+
+Scottish band 
+takes new 
+route with 
+strong results 
+
+
+
+Album Review 
+
+
+
+his co-worker, Dick, while both at work a 
+record store. When Jack Black's 
+
+Barry, questions why iliey are listening to ihis 
+"unfortunate" record. Rob replies that he just 
+wants "something he c; 
+
+
+
+
+creating 
+oiieti sounded dreary 
+
+and mellow, but comfortable, l-ach new album 
+the band would put out sounded very similar 
+to the last, and fans were getting tired with this 
+lack ol change. In 211(1. i the band released what 
+some fans would l .ill their best album yet, or at 
+least one comparable to their most fatuous, "If 
+You're feeling Sinister' i lie disc was their first 
+hillleiigih album not being released In Matador 
+records, and was also bai ked by a new producer. 
+The sound of "fear Catastrophe Waitress" was 
+new, fresh, and upbeat— something not often 
+heard Ironi this Glasgow clan. 
+
+This month marks the release ul their sixth 
+full-length disc, "The Life Pursuit"— a set of 
+joylul, funky and brighi new nines that ibe band 
+sounds so proud of At first listen I thought I bad 
+m. t&gt; be picked up a new Shins record, or maybe 
+. something out of the late '60s by mistake 
+
+
+
+very excited. This is such a wonderful step i 
+the band's music, and 1 hope that the album is 
+hinting at some son of new direction die hand 
+will take. 
+
+Whether you are familiar with the Belles' 
+music or not, "The Life Pursuit" is a fantastic 
+album on many levels. However, be ready lo 
+absorb yourself m some dangerously can by 
+
+
+
+Turn the Winter Blues 
+
+into Caribbean Blue. 
+
+
+
+plore the Open Waters 
+Ball Memorial Hospital! 
+
+
+
+Vou'll have a lol ol fun discovering the many unique ways to develop your nursing skills ji Ball Memorial Hospital, the 
+flagship of Cardinal Health System, In Muncie, Indiana. Sei sail lo a place where people are warm and friendly, 
+technology is innovative, and your advancement potential is endless. Also, just for attending our Nursing Open House 
+on Saturday, February 2Slh, you'll have a chance lo Win a Trip to the Caribbean!! 
+
+
+
+d prepare to embark on the journey lo a sal 
+over 75 years - at Ball Memorial Hospital 
+
+
+
+r. Experience nursing as il 
+
+
+
+Travel around and see the sights with u 
+Tour destinations include: 
+
+• Ortho/Rehab 
+
+■ Critical Care Units 
+
+• Dialysis - Inpatient &amp; Outpatient 
+
+• Surgical Services 
+
+• Medical Specialty 
+
+• Emergency Department 
+
+
+
+To join us, your educational or career 
+passport must identify you as: 
+
+•Recent college grads and senior nursing 
+students preparing to graduate this year 
+
+* Expenenced RNs 
+
+• Nursing students interested in 
+
+Student Nurse Technician (SNT) opportunities 
+
+
+
+it Open House, and you might be exploring the Caribbean as well. 
+
+our lucky Nursing Open House visitors will recetve a Guise lor two lo paradise. You could be sunbalhing in tf 
+
+
+
+Caribbean as you sail through ihe b 
+first 40 qualified nursing profession; 
+
+
+
+e Enchanlmenl ol the Sea. Free tr 
+will be given throughout the day. 
+
+
+
+fe 
+
+
+
+jfi 
+
+
+
+Wish you were here? Why not experience the real thing? 
+Visit: www.cardln3lhealthsystem.org for more details! 
+
+R.S.V.P. to: (765) 751-1483 or (800) 533-7359 
+Email: nursingrsvp@chsmail.org 
+
+Cardinal 
+
+Health System, Inc. 
+The System Works. For You. 
+
+Best Nurses. Best Care. Every Day. 
+
+loipiut • flUddord Community Hospital • Midwest HeaKhStrategies 
+CMS HcaMicare Pharmacta ■ Phyiiaan Network 
+
+
+
+Division of 
+Continuing Studies 
+
+Educational Travel 
+2006 
+
+Civil Rights and the South 
+
+March 3-12 
+
+Malaysia 
+
+June30-July22 
+
+Strasbourg, France 
+
+July 1-30 
+
+Rome 
+
+My'5-19 
+
+optional extension July 20-27 
+
+Japan 
+
+July 10-20 
+
+
+
+
+Dream it. 
+
+
+
+Information meetings for all travel: 
+
+Wednesdays. Feb. 15 or March 15 
+
+5:30 p.m. 
+
+Kettler Hall. Room G44, IPFW Campus 
+
+www/, ipfw. ed&lt; 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY FORT WAYNE 
+
+
+
+'■1-M-L* I' 
+
+
+
+l.i Mi 3 
+
+
+
+
+
+
+
+
+
+around iIr- ring, bickering with 
+calls him a chicken. It is all part of 
+
+It is a show sianed b\ a in.in known in the industry simply as 
+Dick the Brasier Jr. in (he middle parts of ihe century, Dick (he 
+Bruiser was an intimidating force in professional wrestling. The 
+second-coming of the name started bruiser Wrestling in order to 
+help bring some hisiorkulness back to the sports, well before it 
+was considered In most ,is hm entertainment. 
+
+And this night, like most, Dick was there lor tlie ride along with 
+his trust bulldog anil his right hand man (and company CEO) 
+Mike Peden, also known as Mike the Machine. 
+
+If Bruiser started the compam on the right four, it is Peden who 
+keeps it going . handling a majority of the day-to-day work and 
+hoping for a good turnout. 
+
+But Peden couldn't he happier with the growth of the company 
+and how things have been done (he right way. Near (he midpoint 
+of Saturday's show, Peden stood up next to one of the company's 
+workers and looked on into the arena with a wry grin and Five 
+simple words. 
+
+"It's a nice crowd tonight." 
+
+He reveled in tin- atmosphere lor twelve matches, all taped for 
+that weekly spot on the UPN affiliate It is a nice source of for 
+The company is also aincntk working on a television syndication 
+deal which would broaden their range. 
+
+And so as it began, the nifjn also ended. 
+
+Nick Cvjetkovich (Sinn) left with a swollen lip, remnints 
+bloody taste in his mouth and with a freshly won lag-team 
+hell. Bragg made his way out ol the arena, still reeling from 
+
+
+
+
+
+
+
+
+
+Those stars, according to Johnson, don't seem so far anymore. 
+
+"They are closer everyday. You gei to a show like this with (he 
+people and the hacking and it's all good h helps youo 
+I was just a fan and I got on the road..." he said, not knowing 
+exactly how to finish or who lo thank. 
+
+But one thing is for sure, he can thank Bruiser Wrestling. 
+Afterall, it is this company that is taking the chances. 
+
+
+
+
+by Eugene Harding / .■!■ ndnio inlwt ■immiinitatar.org 
+
+
+
+SLAM: Elvis Elliot of the 'Beasts of Burden' slams company namesake Dick the Bruiser Jr.'s head into the ring- 
+post during a match to decide the top contenders for the WWA tag-team championship. 
+
+
+
+Legal issues loom for 
+online gaming providers 
+
+
+
+By Jeremy Turnage 
+
+
+
+(U-W1RE) COLUMBIA, S.C. 
+- Millions of gamers around the 
+world are working hard to keep 
+the games of the past alive using 
+current computing technology. 
+
+The process is called 
+Wikipedia.com 
+"a program 
+for a computer, or other 
+computing device, that can 
+emulate a video game console 
+or handheld, so a computer 
+can be used to play games that 
+were created for that console 
+or lo develop games for that 
+console." 
+
+An emulator simply works by 
+having the emulator program 
+running, and then having a file 
+called a ROM image. A ROM 
+image is a copy of i 
+
+
+
+in the NES community was 
+partly because of the NES' 
+faulty hardware. Who doesn't 
+■ having to blow the 
+
+
+
+have been 
+heated and lengthy. Many 
+gamers believe (hat emulation 
+helps to preserve the games of 
+
+
+
+of asphyxiation was alleviated. 
+
+SNES and Genesis emulators 
+soon arrived as well. Today, 
+this community of dedicated 
+gamers has created emulators 
+for video game consoles all the 
+
+
+
+as gamers want to relive the 
+fun of those games. The most 
+popular arcade emulator is 
+MAME, or Multiple Arcade 
+Machine Emulator. MAME 
+can currently emulate 1000+ 
+arcade games spanning from 
+
+
+
+
+
+
+images. Emulators i.ik 
+ROM images and rut 
+like the video game console 
+would. For example, say we 
+have a Nintendo Entertainmenl 
+System emulator. We can find a 
+copy of "Super Mario Bros." on 
+the Interne! as a ROM image, 
+load up the emulator and then 
+open the ROM image of "Super 
+Mario Bros."The game will work 
+jusi like it did when the NES 
+was hooked up to the television 
+years ago. 
+
+The emulation community 
+has been around for a very long 
+time. The first emulators were 
+weak and often riddled with 
+bugs and incompatibilities. 
+The community got better at 
+programming over time, and the 
+ncomnumitv was 
+
+
+
+&gt; ROM the humble beginners such .-. 
+
+
+
+late 90s games such as "Mortal 
+Kombat" and "Teenage Mutant 
+Ninja Turtles: Turtles in Time." 
+"cated g 
+length 
+arcade 
+
+store dedicated computers that 
+only emulate arcade games. 
+
+
+
+the past as well; 
+that are associated with those 
+games. Other gamers point 
+out the legal ramifications of 
+emulation. Legally speaking, 
+the problem with ROM images 
+is that without the permission 
+of the original copyright 
+holder, a ROM image is illegal. 
+Copyright holders have often 
+gone to the length of getting 
+several prominent ROM sites 
+shut down.The legal difficulties 
+of emulation are quite like the 
+MP3 problem of today. 
+
+Video game companies have 
+found their own ways to combat 
+the problem of emulation. 
+While many companies use 
+legal means to put an end to 
+the problem, others use the 
+businessend of things (o appeal 
+(O gamers craving nostalgia. In 
+the past few years, video game 
+companies have begun to 
+compile some of their classic 
+games into compilations and 
+releasing them at lower prices. 
+Sega has brought together 
+many of its "Sonic" games 
+
+
+
+
+
+
+
+
+
+design. 
+
+Emulation has also helped 
+to bring several Japan-only 
+releases to the United States. 
+Such most wanted games as 
+the original "Mother," known 
+as "Earthbound" in America, 
+and "Final Fantasy" III and V, 
+have been dumped onto ROM 
+images and distributed online. 
+These ROM images were even 
+translated by many fans and 
+
+
+
+released the "Mega Man 
+Anniversary Collection," as 
+well as the just-released "Mega 
+Man X Collection." SquareSoft 
+has re-released many of their 
+games from the popular "Final 
+Fantasy" series on the Sony 
+PlayStation and the Nintendo 
+Game Boy Advance. Gaming 
+companies are coming to 
+
+
+
+Hollywood reps discuss 
+technology at UCLA forum 
+
+
+
+By Easter Khaw 
+
+
+
+(U-WIRE) LOS ANGELES - 
+As audience members checked 
+their handhelds, PDAs and 
+cell phones, representatives 
+from several major Hollywood 
+organizations discussed how 
+changes in technology would 
+affect the entertainment 
+industry paring the University 
+ofCalifornia-LosAngelesSchonl 
+of Uw's 30th Annual UCLA 
+Entertainment Symposium, 
+called "Hollywood: By the 
+NumberS." 
+
+Several speakers discussed 
+how technology has plowed 
+forward at an unprecedented 
+rate, and the enlertainment 
+industry has found itself 
+confronied with increasingly 
+diverse new forms of media. 
+
+The event, held Friday 
+and Saturday at the Freud 
+Playhouse at Macgowan Hall, 
+attracted about 500 students, 
+lawyers, legal scholars, 
+members of the entertainment 
+industry and others interested 
+
+
+
+fallu 
+
+to them, said Grace Reiner, the 
+executive assistant director of 
+the Writers (.itild of America. 
+
+Because the technology is 
+so novel, industries have yet to 
+establish a standard for pricing 
+and how far licenses extend. 
+
+"Change is a huge difficulty 
+it industry." 
+
+
+
+said Michael I 
+vice president 
+development 
+Broadcasting. 
+
+
+
+r.nniln itions and small of 
+let linn alities, others are 
+ready to embrace the future of 
+technology. 
+
+
+
+to choose from. 
+
+However, in regard to this 
+expansion of media options 
+of consumers, Lang said he 
+was noi sure IPTV is different 
+from traditional modes of 
+distribution. 
+
+"The most important 
+(difference) is the price," Lang 
+
+
+
+unlimited, the hours i 
+
+
+
+
+
+
+expand their reaches beyond 
+the traditional television and 
+radio to newer media including 
+the Internet, cell phones and 
+iPods, such as Apple and 
+Disney's decision to broadcast 
+episodes of "Desperate 
+Housewives" and "Lost" on 
+iPods. 
+
+The versatility of the means 
+
+
+
+:omputers, il'ods and 
+televisions. He said consumers 
+will also be able to transfer 
+content between them without 
+any added cost. 
+
+The trend of the market hints 
+at declining media storage and 
+transportation costs, improved 
+compression, and multiple 
+platforms playing the same 
+
+anywhere," Wolzien said. 
+
+Many panelists lauded 
+the new technology and its 
+
+
+
+questions about what existing offers 
+
+
+
+Communications, expounded 
+the meriis of Internet Protocol 
+Television, which she said 
+much greater 
+
+
+
+In addition to discussing new 
+developments in entertainment 
+technology, some of the 
+panelists urged caution when 
+predicting often unpredictable 
+market trends. 
+
+"(In the past), the market 
+changed drastically from what 
+we expected." Reiner said. "It's 
+dangerous for us lo set things 
+
+Karen Stuart, the executive 
+director of the Association of 
+Talent Agents, emphasized the 
+lack of economic models for the 
+
+Companies have to be 
+
+flexible because they cannot 
+always predict what consumers 
+will pay for, Caraeff said. 
+Successful marketing also 
+depends partly on chance; it 
+has to be the right place, time 
+and price to appeal with the 
+buyers. The entertainment 
+industry simply has to keep up 
+with the changing times. 
+
+"There'll always be a role for 
+endeavor," lie said. 
+
+
+
+After this, Wendy begins (o connect the dots. She realizes thai ihey are dung in the o 
+sitting on the coaster and that she has the clues (pictures Irom a Panasonic digital c 
+hardcore product placement there) as to how they're going to bite it. 
+
+
+
+KgE 
+
+
+
+e gruesome as die movie progresses, when, liuallv i 
+
+
+
+Sadly, they've figured o 
+But, haha, little kiddies; n 
+another dumb-a" movie. Don't you want to s 
+
+Geez, I haven't enjoyed a movie this much it 
+
+
+
+ii?!!V 
+
+
+
+! Il w 
+
+
+
+that I a 
+
+
+
+exceptionally long 
+;t have to give it props. Ihe acting was had; the writing was bad; the graph: 
+the cinematography was had: everything ahum this movie was bad. It takes 
+of luck, to make a movie this nauseating and still have it sell. 
+
+I should say. though, thai VVnisie.nl showed promise Merriman 
+
+
+
+isleml\ hail 
+
+s were bad; 
+a crap load 
+
+
+
+■given decern material I guess I should suggest that 
+novie. And if yon do decide to see this— this— well, 
+but if you do see it, go prepared to laugh. Because il it's nothing else, it is 
+
+
+
+general, let alone when discussing something very uncial to their lives. 
+
+He also says that students should know what their major should he before going to college. 
+this is good advice, it is not necessarily realistic Some students fresh 
+clue what they want to do, or they thought they did but 
+
+
+
+of high school r 
+no college, they find out it is 
+
+jompletely different than what die\ thought it would be This is in part due to the high schools lack 
+of preparation lor their students, hveu though high schools oiler job shadowing it does not mean that 
+students will he able to find their calling-especially since there is not a lot a variety in their options 
+
+All in all, this book has very useful suggestions in approaching life to get what you waul 
+While the book can be uselul to collegians, the author stresses that all the critical he has gathered 
+should start at least in high school. Therefore il should he geared more inward high school students 
+before their senior year. That way they can have plenty of nine to plan their lives around ways to 
+impress potential employers. 
+
+
+
+The newspaper of IPFW since 1 969 
+is now available at the click of a mouse. 
+
+
+
+
+Standards compliant 
+
+programming - it works 
+
+great in any browser, PC or Mac 
+
+
+
+i today, and get your campus news and features from home 
+
+
+
+i The Goonies 
+Richard Donner flick is the next 
+classic film review. PAGEA7 
+
+
+
+Till G IMMUNiaiTOR 
+
+
+
+
+i Strong on many levels 
+
+
+
+Arts &amp; Entertainment 
+
+
+
+^OD(|i. N CLASSIC V^ 
+
+
+
+WetJnesday. February 15. ZOOS 
+
+
+
+Third part of "Final Destination" series fails 
+
+
+
+Movie Review 
+
+
+
+I just saw (he best comedy 
+of the year: "Final Destination 
+3." What's thai you say? It's 
+nol supposed to be a comedy? 
+
+
+
+s involved with ihis 
+stinker wanted it to be. Man, 
+someone should 
+the news easily t 
+may be seriously disappointed 
+
+
+
+
+
+
+to suck. Call me psychic, call 
+me smart, call me whatever the 
+heck you want, but know that 
+I wasn't wrong! On the other 
+hand, however, I knew I'd have 
+a helluva good time writing a 
+review for it. 
+
+I magically convinced my 
+roommate to go with me to the 
+movie; telling her that it'd be a 
+hoot to laugh at it, if nothing 
+else. She reluctantly agreed. 
+We trudged into the theater; 
+totally certain that we'd be the 
+only idiots that paid to watch 
+this piece of trash. Much to our 
+surprise, though, we weren't 
+alone. Now, don't get me 
+wrong: the theatre was, by no 
+means, packed. People were 
+
+We found our seats as the 
+
+
+
+anything). They took forever! 
+It was ridiculous. The only 
+things more insane were the 
+horrible, wannabe suspenseful 
+music and the graphics that 
+looked like a kindergartner had 
+designed them. Right then, my 
+
+
+
+So, here's the premise of the 
+third installment of the "Final 
+Destination" empire. (Nplice 
+
+
+
+
+you know exacdy what's going 
+to happen in this one! But. I'll 
+give you a run down in case 
+you haven't. A bunch of high 
+schoolers are at a carnival and 
+one chick, Wendy Christensen 
+(played by Mary Elizabeth 
+Winstead),hasapremoniti( 
+
+
+
+i horrific rollercoaster accident. 
+(I'm hesitant to share this little 
+tidbit, but I will. I completely 
+lost it when she had her little 
+show before the accident; it was 
+the most hilarious thing I've 
+seen in quite a long time!) In 
+response, she freak: 
+
+
+
+UVmk is utterly o 
+grief (excuse me while I wipe 
+away a tear). That's when Kevin 
+(Ryan Merrimanl informs her 
+
+the last six years (i.e. a hopeless 
+
+attempt to lie in the previous 
+flicks). Naturally, Wendy 
+
+
+
+e kids die. 
+They fry in tanning beds. (That, 
+too.'was great!) Of course, they 
+don't die until you've seen their 
+boobs 900 billion times. 
+► DESTINATION: Page A7 
+
+
+
+
+Finding A True 
+
+Calling 
+
+
+
+Superstars of WWA's 
+
+Bruiser Wrestling take low 
+
+budget to a higher level 
+
+
+
+Commentary by Dan Vance • Photos by Eugene Harding 
+
+
+
+t for so-called 
+
+
+
+the night, stood mostly quiet watching the other 
+performers. Almost like a scout, Johnson would 
+
+lean into his partner and point out a certain move 
+r positioning as if he were observing a piece of 
+
+
+
+are run on low budgets 
+
+The venue, which doubles as a training center 
+for profession,!] jnd .imauier boxers and mixed 
+barely holds the capacity crowd, 
+
+
+
+show with link' l.iiil.irv. i 
+
+
+
+But for Johnson, this is his art, i 
+
+as been working on for a very lor 
+
+v, knowing that he hash 
+
+
+
+Ulh-U 
+
+
+
+But that is 
+Wrestling 
+
+Wrestling, takes a significant turn. 
+i Saturday. Bruiser WresUing, 
+
+
+
+nnot afford to keep 
+So. they put on a Ant 
+
+on and eventually of thebig-time, lohnson 
+get to the top. 
+the Indiana-based World twasinHWA HeartiandVftestUngAssociaUoiO 
+during the developmental f.i/e," Johnson noted. 
+In the early part of the decade, theWWE 
+
+
+
+oriel Hashes opt to put 
+
+
+
+show airing weekly in Ion Wayne 
+affiliate, made a Stop in the Summit 
+City for an event which they dubbed 
+"Valentine Massacre" at the River 
+City Fight Club just into downtown. 
+Anditwasonthatnighi whk lithe 
+true warriors of sponsentertainment 
+came to shine among the flood lights 
+feverish working 
+
+
+
+
+
+
+i. And it 
+
+
+
+all about. 
+
+And that is dedication. 
+
+Less than an hour before the 
+event, as upwards of 200-plus people packed 
+small venue, wrestlers began arriving with 
+suitcases for yet another stop on the road. 
+
+"fust like any aspiring pro wrestler who 
+trying to make a name for themselves, you go 
+
+
+
+lie. ' said Drew lohnson. &lt; 
+the Soul Shooters. 
+
+lohnson, who wrestl 
+partner Miquail Norton, \ 
+
+
+
+
+! alongside longtime 
+io wrestles as "Poison" 
+n tag match early in 
+
+
+
+feeder systerr 
+
+in Linn inatti, Ohio. 
+
+"You already had a 
+legendary instructor like Les Thatcher and t 
+you had all of this great talent walking aroum 
+everyday and training with you." 
+
+So all of that brought John; 
+
+
+
+expect out of these performances and e 
+
+
+
+of doing the same, the wrestlers 
+on a show and give the viewers in 
+their money's worth and a whole lot 
+
+
+
+They fly through the air, risking their bodies 
+;h crazy manuevers off the top rope. 
+One wrestler known as Sinn busts his lip open 
+badly and loses blood across the ring 
+
+couple of matches before that. Billg 
+
+takes a rather stiff shot from a 
+
+folding chair, showing that yes this form 
+
+ofpagentryt 
+
+
+
+like this will be 
+
+Instead, they do it tor the love nf the 
+the chance to take what 
+
+
+
+(complete with punpkin mask 
+
+Burden, who are almost salami 
+in apperance, the night and the spotlight 
+
+it from a free standing II light h.meing 
+
+from the ii'ilingi are worth it all. 
+
+And combined, they make WWA: Bruiser 
+Wri'siling work hy simph not letting the lack of 
+funding or thousands of dollar budgets get in 
+
+
+
+Some strong 
+suggestions 
+mix with dry 
+information 
+
+
+
+Book Review 
+
+
+
+► BRUISER: Page A7 
+
+
+
+"The 4 Realities of Success" is written by 
+Bob Roth. The book is about how to become 
+a successful person, and it begins talking to 
+high-school students, then college students, 
+then graduaies. The book has s 
+
+
+
+good suggestions c 
+
+
+
+&gt; approach life 
+
+
+
+start with the positive aspects of the book 
+first. It has a lot of important and useful 
+ideas about how to prepare for life before, 
+during and after college. It also gives good 
+ideas for planning out how people should 
+spend their time as high school students and 
+college students so that what they do then 
+will help them land their job. It also talks 
+about how participating in college events and 
+
+
+
+
+that the author thinks it is the only n 
+you need to become successful, and it seems 
+that he stresses the fact that if you do not do 
+as he says you will most likely not find a job 
+and will not be successful, Unfortunately he 
+does not give you his definition of success. 
+For instance two people may look at success 
+in two different ways. One person sees it as 
+being a wealthy tycoon of a growing industry 
+while the other person seeks to have a family, 
+enjoy life, and find a less time-consuming 
+job to support that type of lifestyle. 
+
+The book itself is quite long and so dry 
+that one can only read so much at a given 
+time — which also makes it hard to retain all 
+the information. It may appear depressing 
+at times because it focuses on pleasing the 
+employer and trying to build your life around 
+them, which gives you no life of your own. 
+This will definitely burn out a person if they 
+are only doing their major or future job to 
+make a lot of money. 
+
+The author uses bullet points for nearly 
+everything he writes about, which is nice 
+since it is easy to read, but the topics he talks 
+about are not in-depth enough to be very 
+helpful, I have encountered at least two other 
+sources that have been more helpful about 
+resumes and interviews than this book has 
+been about those same topics. 
+
+Another problem with the book is thai 
+when he advises students to start saving 
+for college, he says they should start when 
+they are born. Instead it should start with a 
+more realistic age to be more helpful to the 
+students. 
+
+Another disadvantage of the book being 
+brief about its topics is when it mentions to 
+go to your parents for advice about plans for 
+preparing to go to college as well to assist 
+you when you are in college. While this can 
+be true, it unfortunately does not go into 
+detail if you do not have parents like that. 
+For instance, they could be very busy and 
+you might hardly see your parents or the 
+parents could be abusive and withhold that 
+money from you, or if the students are not 
+comfortable being around their parents in 
+► REALITIES: Page A7 
+
+
+
+
+The Communicator 
+
+
+
+Sports 
+
+
+
+i Sports Wrap 
+
+Ritchey, others contribute 
+_ to seven new track and field 
+&lt;f^ school records. PAGE 83 
+
+3 
+
+
+
+SOWN 
+
+O 
+
+
+
+Wcdi&gt;ndjy.F*b™*Yl5 
+
+
+
+men's volleyball returns home for a 
+
+FAMILIAR RIVALRY 
+
+
+
+
+
+IPFW Men - 49 
+
+
+
+76 - Purdue 
+
+
+
+Northwestern - 73 
+
+
+
+Unfriendly confines 
+
+■ Both basketball teams ready to get back in front of home crowds after tough Big Ten road losses 
+
+
+
+
+Photo provided by AP / contnct&amp;lpfwcommunicator.oi 
+r guard Brad Pompey wrestles for the hall against two Northwestern players in a Feb. 1 1 game. 
+
+Lengthy road trip ends with loss 
+
+
+
+
+
+
+The road trip is over. 
+
+Finally. 
+
+It has been i? days and seven 
+road games since the Il'i-U rm-n's 
+
+basketball if, mi l.isi played .1 game 
+in Fort Wayne. 
+
+
+
+i him on and off the c 
+"It's been a long road trip and 
+between getting h.u kin dierlnthm 
+of school, making up assignments 
+along with ups and downs on ihe 
+basketball &lt; nun it can he stressful," 
+he said. "Sleeping on planes and 
+buses a lot is not good sleep ai 
+
+
+
+: from a literal sense they 
+are physically drained. It's tough 
+from two aspects. One, you can fall 
+" l the classroom and 
+two you've got the element of not 
+having the luxuries of sleeping in 
+your own lied and playing in Iront 
+
+
+
+He said he has only been able 
+to attend four total classes in Ihe 
+past two weeks, He is enrolled in 15 
+
+i redii liunrs and II) class sessions 
+
+per week. 
+
+
+
+n Feb. 11. The Big 
+
+an uncanny 57.4 
+
+percent from the field, including 
+
+nearly 74 percent in the first half. 
+
+
+
+points but 
+it was everyone else that put on a 
+shiini.tiu, i link, life attributed the 
+team's blowout loss to the wear 
+and tear of the long road trip. 
+
+"I hope llial they are able in gel 
+their legs hack and minds back," 
+Fife said. 
+
+The team may be without junior 
+forward Ivler Ik'sl. who sprained 
+ins .inkle in ,1 loss at North Dakota 
+State and sat the last two games 
+of the trip. [Jest, ihe team's leader 
+in assists and rebounds per 
+game and third in scoring said 
+
+
+
+llopelullv we can gel lyler back 
+as sunn as possible. I'm confident 
+in / i/elk|o) and Armend. Other 
+
+
+
+
+lie is questionable lor ihe I 
+
+
+
+a concussion. He could miss th 
+remainder of the season. 
+
+i trying to gel back t 
+
+
+
+ligeric siarted in Host's place 
+and scored si), points, grabbed II 
+rebounds and had three blocks 
+and live steals in ihe two games. 
+
+Now that the road trip is over. 
+the team has shifted its focused 
+to the Islanders of Texas A&amp;M 
+Corpus ChrlBti (16-8). When IPFW 
+hooked up with the Islanders early 
+in the road trip. Ie\as AfcM Corpus 
+(hristi gut 38 bench points from six 
+players. Fife said the U 
+
+
+
+► BACK HOME: Page 03 
+
+
+
+Boilers shut down IPFW 
+with late game strength 
+
+
+
+SCORER: Johnna Lewis-Carlisle scored 
+17 points against Purdue on Feb. 9. 
+
+
+
+Look at the scoreboard after ihe game was 
+wasn't easy on the eyes 76-52 
+borderline ugly. 
+
+ut you wouldn't know if you weren't 
+
+e how well the IPFW women's team held 
+
+up against the No. 9 Purdue Boilermakers 
+
+•3) on Feb. 9 in West Lafayette. 
+
+: or 30 minutes the Mastodons hung with 
+
+Boilermakers and refused to be put away 
+
+il the final stretch of the second half. 
+
+1 nine point lead at ihe half and 
+
+grew to 12 at the 17:25 mark before IPFW 
+
+lly erased the deficit with a 12-0 run. 
+
+"I think we just felt like we could play with 
+
+hem." said junior Hilary O'Connell of the 
+
+We started knocking down some big 
+
+shots and that gave us the confidence that 
+
+we needed to keep up the nin." 
+
+At the 10:10 mark IPFW was still in the 
+game, trailing 47-44 thanks to the solid guard 
+play of Johnna Lewis-Carlisle and Ashley 
+
+
+
+: Amy Gearlds, 
+led Purdue 
+with 20. Aya 
+
+
+
+MORE INSIDE 
+Mastodons in Action 
+wraps up the next 
+home games. Page B3. 
+
+
+
+IPFWwillnowbeginasix-gamehomestand 
+to end the 2005-06 season, including two 
+games ai Memorial Coliseum. 
+
+"Having the next six games home is a 
+huge advantage for us. We have been on the 
+road and have done a lot of traveling, so to be 
+home for the rest of the season is really nice," 
+O'Connell said. 
+
+The first two games are against Texas Pan 
+
+
+
+] p.m.] and Wayne Slate 
+
+
+
+finding the 
+
+GR00V1 
+
+
+
+STORY BY JUSTIN KENNY 
+
+
+
+It 
+i 
+h 
+
+
+
+l three games at Middle 
+elurnsa nucleus of a squad that won 
+the second consei uiive year. I bird, each posili 
+tiileni and experience, ivilh the Mastodons starling 
+with 10 seniors, easily the mosi in Cernon's seven-year history 
+with the team. 
+
+"This senior group has a tremendous amount of loyalty and 
+resolve," Gcrtion said Aiooplenf ihem could Mart for any college 
+team in the stale with perhaps I he evi ■ejiiiou ol .Notre Dame. They 
+are without a doubt il 
+direction il has. They a; 
+
+This season will begin with t 
+back of everyone's mind. A w 
+tournament c hampionship and 
+
+"We wanted to give our seniors a mutual goat 
+Gernon said. "We have 10 improve on several things 
+goals. I think we arc well on our way to doing thai." 
+
+Gemon and the coaching si,m natinalh i.irgcied the pitching 
+siafl as needing improvement I'm [his season While the Mastodons 
+hilling and base running was toward ilie top ol the rankings in iht 
+country, the pitching was towards 1 he bottom. 
+[-' "Every off season we have put an onus on one part of our game 
+"this year it was pitching." Gernon said. "As a coach you 
+balance. We were glad in have Midi an offensl 1 
+but wc want balance." 
+'.' IPFW would gladly give up some of its offensive prowess for 
+&gt;. more consistency bum the pinhing si,,ii Hm ihe staff is a year 
+1 older and a year more experienced, and with the 
+to improving ihe arms, the future looks brighter for the men on 
+'the mound. 
+
+"The pitchers really aren't afraid ol hearing the aluminum 
+'■bats ring from giving up cmnai 1." senior Itycin keena said. "It was 
+■ '■a confidence thing last year, but they have a lot of ability. They 
+1 'realize we are behind ihem reads 10 make a play.' 
+
+
+
+
+(lemon has s 
+
+
+
+
+
+
+i confidence in his pitchers so far 
+
+
+
+THE HEAT: Adam Gibson, a former Mastodon 
+catcher and starling pitcher will be a primary 
+closer and bullpen player this year. 
+
+SLIDE: First baseman Caleb Smith tries to beat 
+a tag at second base last season against Wright 
+
+Stale. Smith hatted .30B in 2005. 
+
+
+
+"Naturally, I believe in these guys that they can get it done. 
+' but last year I believe itiev started not believing in themselves," 
+''■Gemon said. "We have lalked 10 ihem about w Milling to get hit off 
+iliof, so you can come back and heal the next guy." 
+;■ ' The pitching struggles ol ;_'()!);", wen- helped by the breakdown of 
+good fielding in some games In games in which IPIW made errors 
+&gt; 'giving opponents extra mils in innings, ibe Mastodons dropped 
+
+
+
+s dei ideil by o 
+
+
+
+-.500 ii 
+
+s rei orit.lhe 
+
+
+
+things, and we 
+being able to 
+said. "We got s 
+
+
+
+
+
+
+nning percentage 1 
+
+
+
+e going to have to have i 
+'one-run games; we have to get better in ihose situations," Gernon 
+said. "And with 15 games at home, we have to take care of the 
+home field." 
+
+While the ilTU bitting was impressive and ihe pitching not last 
+■ 'season, some of thai tan be atiriluiied 10 the held Ibe Mastodons' 
+'-home field is small compared 10 most oilier . &lt;&gt;lli gc and pro fields. 
+n the wind is blowing out lit is neaib ';ii percent ol the 
+
+
+
+said. "When ihere is no wind or tile wind blowe.ig 10. 001 lie! 
+be big. But most of the time the wind is blomm: •.,.\ 
+
+IPFW has taken advantage of the mild winter to get oulsid 
+
+
+
+hingisagood substit 
+
+
+
+1 the field was so important.'' Gernon 
+ield batting practice in. situational base- 
+how people on the base-paths and in the 
+ling off the bat. You cant replicate those 
+
+
+
+
+retime, .1 
+
+
+
+i few- 
+
+
+
+Ties. IPFW will still be behind 
+/hen it opens the season this 
+1 college team in 
+
+
+
+'lie :hern Gernon s 
+
+
+
+■held practi 
+weekend. Those are the breaks 
+part of the country. 
+
+h stinks 10 inn be able to pl.iv any home games for awhile, but 
+that is why we have so many g. stlown Si mill early." Keena said. 
+
+
+
+home held, but could 1 
+Memorial Stadium. 
+"They really want to 
+
+
+
+oingti 
+
+
+
+1 Fort Wayne if the game is ; 
+
+s to bring in marquee teams 
+ark hard to get some games ovt 
+
+
+
+. I loud,, 
+
+
+
+. 1-13) is necessary for c 
+
+
+
+1. We 
+
+
+
+g about the weather.' 
+ral times with Foil W.ivneWi/anK General 
+nd Memorial Coliseum General Manager 
+ling games .n Memorial stadium. The trio 
+
+
+
+Currently, n 
+
+Stadium. Bui the N 
+minds. With the mass of seniors and the stead) improvement of 
+the program under Gernon. this year could see the bar s 
+higher for luiure IPFW baseball tt 
+
+
+
+"Our 1 
+
+
+
+1 has great 
+
+
+
+
+
+
+: made a lot of 
+
+
+
+way \ 
+
+
+
+THE LlNEUP: Meet your 2006 IPFW Mastodon starters 
+
+
+
+Left Field: Nick 
+
+
+
+
+Diem 
+
+
+
+
+Class: Junior 
+
+
+
+
+Hometown: Fort 
+
+
+
+
+Wayne, IN 
+
+
+
+
+2005: Transfer 
+
+
+
+
+from Lincoln 
+
+
+
+
+Trail Communi^ 
+
+
+)1&gt; 1 \ 
+
+
+Colleo^ 
+
+
+
+
+
+
+Hometown: fort Wayne, 
+
+2005: Swiped 33 bases in 
+
+38 attempts while posting 
+
+a 465 on base percentage. 
+
+Batted .339 with three home 
+
+runs, three triples and 10 
+
+doubles while driving in 35 
+
+runs and scoring 45. 
+
+
+
+Field: Sean Kirk 
+
+Se nior 
+
+Hometown: Elkhart, IN 
+
+2005: Ranked in the top 10 in 
+
+the nation in batting average 
+
+for most of the year before 
+
+finishing at ,368, Hit five home 
+
+runs, a triple and 11 doubles . 
+
+while driving in 44. Completed 
+
+the season with a .563 slugging 
+
+percentage. 
+
+
+
+1 
+
+
+
+Shortstop: Tyler Fowler 
+Class: Senior 
+Hometown. Walton, IN 
+d8-of-9 in stolen base 
+ting .278 with a home 
+ubles and 25 RBI. He also 
+scored 34 runs. 
+
+
+
+Third base: Zach Walton 
+Class: Senior 
+Hometown: Ossian, IN 
+2005: Started 44 of 48 games 
+while batting .275 with three 
+home runs, two triples and six 
+doubles. Finished with a .981 
+fielding percentage in right field 
+
+
+
+
+Second base: Brent Alwii 
+
+Class: Senior 
+Hometown: Mexico, IN 
+2005: finished with 
+high 43 hits, with si 
+and 22 RBI while hi 
+
+
+
+
+First base: Caleb Smith 
+
+Class: Senior 
+
+Hometown: Zanesville, IN 
+
+2005: Hit .308 with 16 RBI and four 
+
+doubles while posting a ,988 fielding 
+
+percentage. 
+
+
+
+Starting Pitchers 
+
+Eric Lambert - Senior Closers 
+Cole Uebelhor - Sophomore Adam Gibson - Senior 
+Jake Hollander • Sophomore Travis Johnson - Senior 
+Andrew Porter - Junior 
+
+
+
+
+Catcher: Brent Doty 
+
+Class: Senior 
+
+Hometown: Milford, IN 
+
+2005: Started 42 games for IPFW 
+
+while batting .313. Drove in 31 runs 
+
+with three home runs, one triple 
+
+and seven doubles. 
+
+
+
+Designated Hitter: Nick 
+Millspaugh 
+Class: Sophomore 
+Hometown: Sweester, IN 
+2005: Finished with a .394 
+average despite just 33 at- 
+bats. Drove in eight runs on 
+four doubles with an on-base 
+percentage of ,535 and a 
+slugging percentage of .515. 
+
+
+
+! ! :■■_'■-■.. 
+
+
+
+CS3 
+
+
+
+Your thoughts... 
+
+
+
+Last time you^/Vhat do you Favorite sport 'Cat or dog? Best 
+Who are you? drank mUk? drive? other than . a 
+
+what you play 7 
+
+
+
+Beachy, 
+3B softbaU 
+
+
+
+Dane Fife, 
+basketball 
+coach 
+
+
+
+This 
+morning. 
+
+
+
+I put milk in 
+my mac and 
+cheese the 
+other day. 
+
+
+
+Monday in 
+my vanilla 
+latte'. 
+
+
+
+A Dodge 
+Stratus. 
+
+
+
+Basketball. Cat. 
+
+
+
+Ummm.. 
+Shape. 
+
+
+
+I'm not 
+telling. 
+
+
+
+Red '98 
+Blazer, 
+known as 
+"Ruby." 
+
+
+
+I enjoy 
+intramural 
+
+
+
+Definetely 
+dog. Nick or 
+Justin? 
+
+
+
+Dog. 
+
+
+
+Armchair 
+General, a 
+military mag. 
+
+
+
+Mastodons In Action &lt;mm*m™* 
+
+
+
+Men's basketball 
+
+Opponent: Texas A&amp;M Corpus 
+
+Christ! 
+
+When: Wednesday, Feb. 15, 7 p.m. 
+
+Where: Memorial Coliseum 
+
+Radio: ESPN 1380 AM 
+
+The rundown: The last time the 
+
+Mastodons and Islanders hooked 
+
+up was on Jan. 18 in south Texas 
+
+and A&amp;M Corpus Christi pulled off 
+
+
+
+Men's tennis 
+
+Opponent: Cleveland Slate 
+
+When: Friday, Feb. 17, 7 p.m. 
+
+Where: Pine Ridge Racquet Club 
+
+
+
+Women's basketball 
+
+Opponent: Texas Pan-American 
+When: Saturday, Feb. 18, 1 p.m. 
+Where; Gates Center 
+Radio: ESPN 1380 AM 
+The rundown: IPFW kicks off 
+the first of six home games to 
+close the tumultuous 2005-06 
+season. The Broncs-Mastodons 
+game on Feb. 4 in south Texas 
+went to overtime before Texas 
+Pan-American took the 63-60 
+victory. IPFW was 8-oM2 from 
+the free throw line but made 
+just one field goal in the e 
+''--- MaHc 
+
+the Broncs. 
+
+
+
+Women's tennis 
+Opponent: Southeast Missouri 
+State, Cleveland State: Oakland 
+When: Friday, Feb 17, 4 p.m., 7 
+p.m.; Sunday, Feb. 19, 8 a.m. 
+Where: Pine Ridge Racquet Club 
+
+
+
+Ritchey wins 5,000 
+meter run, adds to 
+broken school records 
+
+
+
+Sports Wrap 
+
+
+
+loihei excellent meet for the IPFW 
+ack team. This time, seven school 
+i' broken ,iml Iwo first plate finishes 
+
+
+
+and Crystina Marline/ sl on. bet I the Held with . 
+12:34.67 time and took first place. 
+
+They also established a new school record, 
+lundly crushing the old school record by 25 
+
+
+
+( iwm.i M.iriiin', .iIm) finished third in the 
+uic Milt- Kim wirli ,i school record time of 
+
+
+
+m.i|oniy of our [cam is from Indiana, ii will 
+be a great opportunity for their families to see 
+ihem race. In addition, we should have very 
+competitive squads in the fall. I believe the 
+lonmiunin will embrace great cross country 
+running." 
+
+Women's tennis 
+
+The IPFW women's tennis team improved ro 
+r i-7 ail era pair ol viuorirs.it Pine ilidge Racquet 
+Club Hie Mastodons dropped Sl. Francis (PA) 
+7-0 and Lipscomb 4-3. 
+
+Against Lipscomb. Heth Miller and Sachi 
+
+
+
+Ashley ( oulson and lieih Miller won their 
+singles matches Coiilson won 2-6, 6-4, 6-2 and 
+Miller won 6-2 and 6-1. 
+
+
+
+it of the d 
+
+IPFW's final indoor meet of the season will 
+take place at the Boilermaker Invitational on 
+
+Cross country 
+
+IPFW has been selected to host the 2006 
+Division I Independent Cross Country 
+
+Championships. The meet will take place on 
+Oct. 2H and will tenure runners horn t .alilornia- 
+Davis, North Dakota Slate, South Dakota Stale. 
+Northern ( olorado. 1 Itah Valley State, I.ongwood, 
+lexas Pan-American and IPFW. 
+
+This will be the first meet hosted by IPFW 
+since its inception into Division I in 2001. The 
+
+
+
+I will leature a 
+
+
+
+for women. 
+
+IPFW's bid for the meet was selected over 
+UtahValle\ States and lexas Pan-American's. 
+
+"This is a great step lot ward for our program." 
+IPFW coach Mike I ruehey said In a statement. 
+
+"I have been asked many limes why we have 
+no home college meets and it really has just 
+been a mailer of limine, and facilities. I am really 
+excited about hosting a lop quality meet and I 
+know our kids ale very excited as well Since the 
+
+
+
+All games are at Pine Ridge Racquet Club 
+until the weather permits the Mastodons to 
+play on their freshly restirfai cd outdoor court 
+on campus. 
+
+
+
+The IPFW men's tennis [cam finished with 
+a 1-3 record over tour home matches in three 
+days (Feb. 10, 11 and 12) but was competitive 
+
+On Feb. 10 the Mastodons fell to Illinois- 
+
+( lucago 4- :f. Carlos ( .on/ale/ and Atiuro Salgao 
+wuiiihcir doubles mad h n--t. Hermann Kuschke 
+and Nathan Jones won their singles matches. 
+
+The following day. the Lipscomb Bison 
+defeated the Masindons I- t.Cuu^.tlcA kuscllke 
+and Salgado won their singles matches for 
+for the men and 5K IPFW. 
+
+Victory finally came IPFW's way t 
+
+
+
+and [ones winning their single- 
+
+
+
+said. "I lorgot what it leels like lo play al home, 
+but I am looking forward to it. and hopclully a 
+win over (Texas A&amp;M Corpus ( luistil can boost 
+
+
+
+
+MONDAY NIGHT 
+
+DM© Tjfifl 
+
+POKER TOURNAMENT 
+
+Qualify for the nationals 
+
+(3pm 0© H®rjm 
+
+
+
+$ 2 COVER 
+
+with Student ID 
+E. Washington Cfr. at Coldwater Rd. • Next to the Marriott 
+
+
+
+WEDNESDAY NIGHT 
+
+
+
+
+(3 WELL 
+^DRINKS 
+
+
+
+Going full circle with athletics 
+
+
+
+Witty Banter 
+
+with Skip Hooligan &amp; Trip McFeeley 
+sports@ipfwcommunicator.org 
+
+
+
+Skip: Well, alter taking a break hum the world 
+of IPFW athletics we arc once again back to 
+eiiligllleu miii mi dn world nl ll'l W sports And 
+
+
+
+before Trip? 
+
+TYlp: Never has. Skippy; and when we don't 
+have anything lo talk about we just make it up. 
+Well, we thought a few weeks ago the IPFW 
+
+men's volleyball team played Hall Slate when 
+m uuilly ii didn't go down until 1 eh I 7. Shows you 
+people oui there our i redihility ub well. What we 
+
+
+
+Trip: Are yon kidding, Skipster; Unless the 
+solthall team plays r .ll more games than the 
+baseball team, or departed pin hers come back 
+to pitch, demon and the baseball men lop the 
+women in wins And that's nothing against the 
+women at all. Gernon is a helluva coach. 
+
+Skip: Agreed. Our men's and women's 
+basketball teams are Finally back on the home 
+end after lengthy mad swings, and it's about 
+damn time. Seems like ive finally will get back to 
+
+
+
+-depth look at the Mark Pope i 
+
+lYip: Let's focus on the baseball team first. 
+Coach Hill Gernon and bis team is coming oil 
+their second-consecutive season with _&gt;() plus 
+wins. An emerging program here at IPFW. 
+
+Skip: Sure seems like i I, even an Ml. It prospect 
+last year as well in Ryan Steinbach. If they can 
+keep it up maybe we can make noise in (he 
+Independent conference. 
+
+lYlp: List year our hilling and base -running 
+was phenomenal. We finished ')ih in the NCAA 
+
+
+
+Skip: I would agiee. good pin hing can do 
+wonders and you can never have enough We 
+have some arms coming in next year, but how do 
+we look this year? 
+
+lYip: Well, we have a plethora ol pitching ibis 
+year, but nothing spectacular siats wise. No clear 
+
+
+
+verbally abusing jerks on the other team, right 
+lYip? 
+
+Trip: That's right, Skippy We know we have our 
+detractors in terms ol us getting on guys hard, 
+home and away. Hut bey, it's i ollege basketball, 
+not middle school. Do you see the guys reaching 
+double digits in wins i his season? 
+
+Skip: I have no idea We should call Miss Cleo 
+up Hut it depends on wbethet or not you count 
+id-State and Marygrove also. 
+
+Trip: This is true. I don'i really, but it would he 
+s finished In double-digits 
+
+
+
+ilid j mi think ol bis performance? 
+
+Skip: Z-tastic. It's good to see him get some 
+minutes, but we needed Best bad fin the game 
+at Northwestern. Not saying he'd make a huge 
+ciillerciice in terms ol a win or a loss, but maybe 
+the score would have been closer. 
+
+Trip: Yeah, it's tough to beat a team that is 
+shooting 7\ percent horn the Field in the first 
+half, let's hope Best is ready lo go for the final 
+games of the si 
+
+Skip: 1 ' 
+" we ha 
+up on the men's side with North Dakota St. and 
+lexas A«AI - CC. It should bea| 
+
+TYlp: I agree, Skippy. And I'n 
+
+
+
+hats sl M he [in.'Ily good as well. 
+
+lot of bitting. 
+
+Trip: Our hitting is incredible. And every 
+home game is so exciting (long, but excitingj. 
+some games lasi season went three plus boms 
+All because runs were being scored in bunches. 
+Gernon's strategy has to be to cut down the 
+scoring of die opponent's and keep his up. 
+
+Skip: And thai all comes back to pitching as 
+well; fielding can only do so much i 
+
+
+
+BOOOO0O0OOOING of their lives. 
+
+TYip: Many of them deserve it, don't they? 
+
+l squeeze some good What about die gals skippy? Slaved close with 
+Purdue for over a halF. 
+
+Skip: Impressive indeed Just think, last year 
+tliev were blown out by over 60 with a similar 
+
+
+
+and has done wonders with the program so far 
+TYip; I agree. Hopclully we keep him around 
+
+here tor quite awhile \nd bis last recruiting class 
+
+was all Indiana high schoolers. I Mum good job a I 
+
+keeping area kids rinse to home. 
+
+Skip: Seems like we've had a good disi iission 
+
+about that before as well. Now on to the girls of 
+
+softball. lasi year was pretty bad for them, can 
+
+we expect things to turnaround? 
+
+TYip: I don't know it we can expect much of 
+
+anything as long as the anient regime remains 
+
+in charge. Hie girls go into the season with two 
+
+pitchers. TWO! 
+
+
+
+identical fake V 
+Softball game. 
+
+TYip: Think of it: if a pitcher tears an ACL 
+or seperates her shoulder or even falls down 
+[he stairs at home, that would mean we art- 
+down to a single pitcher to carry us through the 
+season. I think the outfielders should practice 
+i heir pitching while waiting to make plays. 
+
+Skip: They should do something, get some 
+walk-ons or something. This is irresponsible 
+coaching at its best. I mean, the girls went 14-35 
+last year Whv not replace him? 
+
+TYlp: Good question, my witty banter partner 
+Word is he HAS been bringing in walk cms Bui 
+the\ don't pitch, further deepening a bench that 
+doesn't need bats and fielders. Inn pitchers. We 
+have some talent on ihe squad; it needs to be 
+utiliized to its full potential. 
+
+Skip: Unless we have some shout outs, were 
+not going to win a whole lot. I've pitched before 
+and your arm gels tired I cm only imagine whai 
+the two young ladies are going logo through. 
+
+Trip: They will ' 
+
+
+
+coach Chris Paul and our hackcourt of Ashley 
+Johnson and Johnna I-ewis-Carlisle. 
+
+TYlp: Yeah, good |ob girls Bui 1-20 is Still 2-20. 
+Bui I hey aren't gning up. dial's ,;ood to see. 
+
+Skip: I agree, but we are very undersized as 
+well. We've been i lose but can't get over that 
+hump just yet time will tell iT Paul will get (lie 
+job, but I think our next topic ol discussion will 
+..house (bat, won't be Mr. Trip? 
+
+Trip: Oh most likely. Skippy. And you have- 
+some beef with the bead honi bo, don't you? 
+
+Skip: Yeah. I do. And on a personal note, I 
+think we can do better. Athletic Director Mark 
+Pope is a hell of a nice guy, but really what 
+aieoiiiplishincnls has he given us at IPFW so 
+
+
+
+i soitb.dl held is slightly 
+
+
+
+far with IPFW. 
+
+Trip: So who finishes with nunc wins, baseball 
+or softball? 
+
+Skip: Hands down, baseball, look for them 
+logo for the school record in wins ibis year And 
+
+
+
+Trip: Well, nolthe big oi 
+
+affiliation hill 1 like lo think we have made some 
+strides Home games at Memorial Coliseum, the 
+Soccer Showtase growing Do you 1 1 link we could 
+get someone better? 
+
+Skip: I think we • ould get someone with mure 
+sporis experience Soccer Showcase is definiteh 
+huge, but J think a lot ol that credit goes to Coach 
+Siefankiewic/ I lie ( ulisetim is okay, but if there 
+wasn't beer would yon go to any games there? 
+
+Trip: I'd like to think so, but who knows. I 
+guess we will agtee to disagree on this topic, 
+Skippy, I'm a tan ol the Mr. I'ope. He is a sweet 
+dresser and should do some marathons. Thai guy 
+runs for hours at a lime. So didn't we have some 
+huge news to drop on everyone this week? 
+
+Skip: I 
+
+ol' Gates Center, 
+
+Trip: Oooooo. I'm sold. So everyone should 
+slay luned to further episodes of Wilty Banter, 
+
+Skip: Well yes tor that, and I swear we will get 
+belter as time goes on. Like alter this week when 
+we have some home games. And the huge rivalry 
+in men's vollev ball we talked wrongly about a few 
+weeks ago. 
+
+Trip: Yes, you did. That conies up this Friday, 
+so ail you IPFW Ireelo.idersget some school spirit 
+and come out and root on the men's volleyball 
+learn spank some Ball Stale keysier. 
+
+Skip: hxaclly, so come out, drink a Keystone or 
+six. root on IPFW athletics, not for the marketing 
+department but to have Inn and take advantage 
+ol ihe i rappv campus life Herneiiiher this slogan: 
+alcohol makes anything better. 
+
+Trip: I'll drink to that Skip. Well, we have 
+reached the end of another fabulous journey. 
+Any parting words for our adoring fans? 
+
+Skip: Remember the legacv nl Richard Nixon, 
+Diik Baxter and John Wilkes Booth, all great 
+
+
+
+■■■■■11 
+
+
+
+Now, all your 
+incoming calls 
+can be free. 
+
+
+
+
+Now, 
+
+when people are wasting your time, they're not wasting your money. 
+
+
+
+Free CALL ME Minutes 
+
+(in your local calling area) 
+
+
+
+
+
+
+FREE Incoming Text Mess: 
+FREE Incoming Picture Me 
+
+
+
+1 jout: 
+
+I Nights &amp; Weekends starting 
+
+
+
+
+USC.COM 
+
+
+
+"^ US. Cellular 
+
+
+
+We connect with your. 
+
+
+
+aJptarac«S39.9S or higher. AJ 
+
+
+
+Offer vafad on tw-year service agreement on local and reocnaJ _ 
+
+charges and Bres apply. S0.96 Regulatory Cost Recovery Fee apples Ttefcrtt a tewgcMmr^-rec^riafge 
+
+deans. IMmM MgM and VMand Mnuto vttC rAntey trough ^71O0pm.to6-&amp;ajn.M*&lt;fyStiiMtyMtoto.fWrimaeni 
+
+aridantrtyavaletei^rectMigcAlnwivb£a^ 
+
+any charges ncura) prw O return CiOteDeJ Jan McWeaM AG kiteraOrrt are trademark* ' ' 
+
+
+
+reSaNrty may vary Usage m 
+
+
+
+*ation tee. $1 5 equfpmenl change lee. Reaming charges, lees, surcharges, cwrage 
+up to the next Ml minute. Use of serve* constitutes acceptance ol otr term and can- 
+al calling area only. Free CAli MF* Minutes are ncl deducted (mm package minutes 
+xi requires eeJyedge" data services. 30-Day Guarantee: Customer Is responsbte lor 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,2632 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1425indi/communicator1425indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1425indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1425indi">The Communicator</a>"
+          </h1>
+          <pre>The CoinniDnicator 
+
+
+
+Thyrsday, March 24. 1983 
+
+
+
+Indiana Univeisily-Purdue Univetsily at Fort Wayne 
+
+
+
+Volume XIV Issue 25 
+
+
+
+House reduces 
+budget request 
+
+
+
+By JIM C 
+
+Edllor-lD-CUir 
+
+Tlic House Ways and Means Com- 
+mlllee of the Indiana slate Icglslalure 
+and Ihe CommlsslDn for Higher 
+Edueallon recenliy recommended 
+Funding IPFW an amounl much lesi 
+Ihao IPFW requeued, laid John 
+Camaghl, vice-chancellor (or Finandnl 
+Affaln. 
+
+Lost Scplember. IPFW requesled 
+ttit million from Ihc slale (or use in 
+Iheisas-Blllscal 
+
+
+
+they 
+
+
+
+Ihe 
+
+
+
+sutriciel 
+
+
+
+IPFW requc 
+
+
+
+i lot Ihe a 
+
+
+
+in more than com&lt; 
+
+
+
+it Ways and Means Com- 
+millee IHWMCI however, recom- 
+mended IPFW get $L3,eO5,O0O only a 
+(iOS.OCO increase over IPFWs 82-33 
+request. The Hduic Ihen passed Ihis 
+
+
+
+
+
+
+lor 
+
+
+
+Higher 
+
+
+
+Education said IPFW s 
+
+million, an increase ol Il.l million over 
+
+Ihe M-S3 request. 
+
+The Senate Finance Commillee 
+ISFCI to c.pecled to make lis 
+recommendalion this week aHer 
+considering IPFW's requcat.Camaghi 
+said. 
+
+If the SPC'9 proposed budget is equal 
+lolheKWMC's, the senate will vote on 
+It. I( Ihe budget passes. It then requires 
+Gov Robert Orr's signature to b«»me 
+
+
+
+r budgets are not 
+e Committee will 
+resolve ttie dKference. The House and 
+Senate will Ihen vole on Ihe resolution 
+before Orr signs IL 
+
+To erase a MS2.1 million stale deficit 
+mJecled for June 30, 1%3. Orr signed 
+Into law last December an increase in 
+
+
+
+told ) 
+
+tSOS.OO 
+
+knowledge othow much revenue the tUA 
+Increases produced. 
+
+"Thcydon'tknow ho* much revenue 
+was gained." Cnmaghi said. "So mudi 
+depends on what the tai package has 
+generated." 
+
+Siily-nine percent ol IPFWs income 
+■ate lunds and 26 percent 
+
+„ _... .ItudcQlfees If the slale 
+
+appropriates fewer dollars, students 
+might have to pay more fees if the 
+trustees ol Indiana and Purdue 
+
+
+
+r, Camaghl said, 
+must poy 1111.90 
+»]r class But II 
+
+
+
+Besides raising student fees. Car- 
+naghi said funds to some academic 
+departments might also be cut to make 
+up for a lack ol slate funds. Money 
+could also be reallocated from one 
+deparlmenl to another, he added. "TTie 
+balancing of the budget Is a com- 
+binalion of increasing income from 
+student tees and reallocation and-or 
+reduction of cupendituies," Camaghl 
+
+Whether or nol the SFC recommends 
+a higher mcrease in funds for IPFW 
+depends on how much money Ihe tax 
+increase brings in, Camaghl said. '"nie 
+more money the tax collections show, 
+the more likely we'll gel greater sp* 
+(ropriBtions for the campus." he said. 
+
+
+
+Afghanistan situation 
+tragic, uncontrollable 
+
+
+
+ByANDERSORHEMUS 
+SlaKWriter 
+
+"We must never lei ourselves forget 
+about the tragic situation in 
+Afghanistan," said Phyllis Oakley, 
+head of Ihe U.S. Slate Depaiiment's 
+Afghan desk. Shespokeat IPFW March 
+
+Tlie Iheme of her prcsentallon was: 
+"Afghanistan: Soviets' Vielnam?" She 
+started by expanding on that question. 
+
+"Hie Soviet invasion at Afghanistan 
+Li. as well as the American Vielnam 
+War. something you 
+
+
+
+" she SI 
+
+
+
+■'But y. 
+
+
+
+eally c 
+
+
+
+I. Every conflict 
+this is BO comi^eii. For InsUnce. Ihe 
+Moscow government doesn't have 
+pubUc opinion against them s&gt; the U.S. 
+had during the Vletnatn era, because 
+they lack our democratic system." 
+
+To the hard-resisting guerrillas, 
+Soviet rule since Ihe 1979 Invasion 
+under Babrak Karmal hasn't been 
+achieved. 
+
+"During the last sIk months, the 
+Soviets have acted more aggressively 
+then before and now have oi many ai 
+im.vn troops there. It's a military 
+sUndoff," she sold. "The odds in favor 
+of the 'mulahldin' (guerrillas) are 
+thegrGtically very small, but the Soviet 
+(allure to win over Ihe mountain -based. 
+Independent guerrilla is amaiing." she 
+
+
+
+said, 
+Oskley. a 
+
+
+
+T diplomat with e 
+
+
+
+perience Irom the Middle East and 
+Zaire, said. "The regime is facing very 
+serious problems right now. Tlie whole 
+society is war-lorn. Agriculture and 
+Industry arc so bad ihe Sovlels have to 
+supply big amounts of food and money 
+to keep the country going. 
+
+"One of the saddest parts of the whole 
+war Is Ihe refugees," she said. A fllth of 
+the population, 2.i million people, live 
+in retugee camps, basically in 
+Pakistan. The United Nalions, Red 
+Cross and olher tnlematloDal or- 
+ganlutions are working with the 
+Pakistani people in order to help the 
+fleeing Moslems, she sold, 
+
+United Slates has laken a strong 
+opposition towards the Soviel In- 
+terventlan, and has almost global 
+support "We have urged a negatialed 
+scltlemcnl Including (our basic 
+elements spelled out by the U.N. — 
+complete withdrawal of Soviet forces, 
+sell-delerminatlnn of Ihe people, 
+Afghanislan'B independence and safe 
+return o( the refugees." 
+
+"One major problem Is we don't know 
+what the Soviets' iolenlfons are. We 
+know the occupation is an em- 
+barrassing a((olr for them awj they 
+want perhaps to get oul of iL But we 
+don'l see any signs of Uiot yel at all. 
+They are emphnsliing propaganda and 
+education (or the young Afghans. So. It 
+looks like they are planning for future 
+
+
+
+
+What a difference 
+a week makes! 
+
+
+
+snow from steps outside Ibe Wilb 
+McmotlDl Union Monday miirniDg at ID 
+a.m. "I'leheeo «nrking since live this 
+morning — lome of these guyi have 
+been at It oil alglil." he said. Eight 
+Hark en manned three truck plotn, 
+three tractor plows and two loaders 
+agabut Ihe ill Inchci ol mow which 
+begao to (all lale Sunday. IFhoIo llclll 
+by Julian Franke: pholo (right) by 
+
+
+
+
+Meeks wants investigation 
+
+Keypunch case closed 
+
+
+
+T HENRY 
+
+ike of the political ballyhoo over 
+cenl discovery that Ihe Allen 
+Democratic Parly has been 
+IPFW keypunch equipment 
+lauthoriiBlion. William Bennett, 
+r o( data processing, said the 
+affair was "blown oul ol 
+
+etU distressed over allegatlDns 
+
+
+
+Demoeroiic Parly workers may have 
+tampered wilh the university's com- 
+
+"As part of Ihe chiefs (campus police 
+chief, Maurice Shadyl investigation, 
+we went bach through Ihe computer 
+reports," Bennett said. "We found 
+nothing Id suggest any i 
+
+
+
+meni tacks adequate computer roam 
+monitoring, Bennelt said his "people" 
+din't question the projects students 
+using computers are involved In. But 
+they do supervise the laeltity. 
+
+"Our people do monilor," Bennelt 
+said. "They tour llhe computer room) 
+■[ permits." H( '"" 
+
+
+
+
+
+
+iclllty 01 
+
+
+
+an hour. "They check sfndlhcu 
+
+(or (punch) cards out of stock, broken cost a( I 
+
+keypunches," Campu; 
+
+Bennelt said there has not been lo leave 
+
+"sufficient misuse" ol data equipment requested 
+
+
+
+May 1 prim: 
+
+University policy requires data 
+machines be used only by students, ' 
+
+people involved In campus- related ; 
+
+projecls or private firms with a con- \ 
+
+tract to use Ihc eqaipmenL Kowsvtr, ^ 
+policy does not allow political parllei to ; 
+use university eCjUlpmenU ' 
+
+Mark Hoieen, executive director of 
+the Democratic Party, look full 
+responslblllly (or Ihe unaulhoriied m 
+of the I 
+
+
+
+i He &amp; 
+irsityach 
+
+
+
+1 for 
+monitoring, especially when s' 
+
+
+
+
+
+
+1, the ci 
+
+
+
+new weapons, Oakley said. Bio- 
+chemical weapons. Including different 
+kinds of gases, have probably been 
+tried in guerrilla warfare, she added. 
+One ol the last topics she brought up 
+was concern for how long any civilian 
+population can support a prolraclctt 
+insurgency. It is the hope of the US, 
+
+enough Internal I onal pressure, the 
+Soviet Union will have to negotiate a 
+settlemc 
+
+
+
+Shady , after condtu ting an extensive 
+investigation, said no criminal charges 
+are being (lied against campaign 
+workers who Illegally used the 
+machines. The Democratic Fatly, 
+however, will be charged SI SO to caver 
+\2.&lt;m punch cards and -10 
+
+
+
+houn 
+
+
+
+e, too, considers the &lt; 
+
+
+
+monitorlnftl the room, it will increase 
+
+down on services." he salH "That 
+comes to aboul four to five keypunches 
+or terminals the stttdenls could have 
+acccM to." 
+
+Although computer technicians may 
+monitor the computer room. It was only 
+after an anonymous tip thai school 
+officials determined Democratic 
+campaign workers were using Ihe 
+keypunch equlpmenl lo prepare 
+computer punch cards (or use in the 
+
+
+
+discontinue its use of university 
+
+Bui Charles "Bud" Meeks, front- 
+runner in Ihe Republican mayoral race 
+said he wants Ihc incidenl further in- 
+vestigated. Meeks has called for an 
+indepcndeol investigation to determine 
+wnctncr mayorttl aides were involved 
+in Ihe project and If the Democrats 
+I the computer of 
+
+
+
+
+
+
+Lit of proportion." 
+
+
+
+try to provide studen 
+
+
+
+IPFW plans to air sporting events 
+
+
+
+
+
+
+c whole Af^un people,' 
+
+
+
+Draft registration affects aid 
+
+Administrators evaluate new law 
+
+
+
+By MARY LX&gt;U1SE LOVE 
+
+
+
+wiU b 
+
+
+
+mile al 
+
+
+
+It the IPFW campus 
+
+
+
+congressional act, according to 
+school officials. 
+
+A bill requiring students who 
+apply (or finandsl aid to be 
+registered lor the dratl was passed 
+by both chambers of the U.S. 
+(Egrets It will be enforced by ihe 
+Imparl menI of Educalloo. 
+
+Norman Neuell. eiecullve 
+
+
+
+Newellsald "QuBliriCBlionforlhose 
+loans will go back to using that 
+crilerium. The poor will be olfected 
+
+
+
+middle I 
+
+
+
+leaf the 
+
+
+
+believes Ihe majority of the students 
+are registered, as required by law, 
+
+"However," he said, "lam bothered 
+by the possibility of discrimination 
+againslan age group and special sex 
+lonly males are required to 
+regitleri From that point of view it 
+IS not (air WiU lemales be the only 
+ones educated? And only males go 
+out to fight?" 
+
+New^ said enactment ol Ibe law 
+will increase cosls to Ihe university 
+and sllecl a student's ability to 
+recclv* student loau. Hovever, 
+
+
+
+Protest by students would be the 
+most effective means to bring about 
+any change in the law, as legislators 
+could see ihis as a \argt voting bloc. 
+if preperly lobbied Newell said. 
+
+Director of Admissions Phillip 
+
+
+
+Duld 
+
+
+
+affec 
+
+
+
+rollmen 
+
+
+
+"Personally. I feel tl 
+law. and a person might not be 
+entitled to federal money for college 
+if you violate it," he said. "Hy own 
+sons have reglslered." 
+
+Allhough a U.S. district judge in 
+Minnesota issued an Injunction 
+against enforcement of Ihe law, 
+Mark Franke. director o( schoiar- 
+■hlps and flaanclal aid, said. "As o( 
+
+
+
+July I, Ihe taw goes into effecL We 
+will do whatever Ihe dejurtment of 
+education says. The funds involved 
+are the Pell Grant (formerly 
+BEOGi, government student loans, 
+college work study, national direct 
+student loans and supplemental 
+educatlonol opportunity grants. 
+They might also include grants from 
+Ihe slate because some Involve 
+federal subsidy. Students will have 
+to produce a lorm showing they 
+reglslered or were nol required lo." 
+Franke said he prefers a two-part 
+suggestion form be provided by the 
+post office which would provide 
+students with proof of their 
+r^islratlon. His main concern is (or 
+those who have registered and may 
+
+
+
+
+
+
+r get It in hand 
+
+
+
+quickly and the student must 
+respond quickly. 11 is a coofused 
+mess right now. and the liming is 
+such that II will tie done al the wont 
+possible time, during July and 
+August when registration Is going 
+
+
+
+ByMERILEEFOICD 
+
+SlatfWrller 
+
+IPFW plans on televising Athletic 
+
+Cenler sportbig events on Channel 23, 
+
+the col lege access channel, but needs to 
+
+taping. 
+
+IPFW will run an underground cable 
+from the Multipurpose Building to the 
+
+tiaskelball and volleyball games can be 
+aired on Channel 23. 
+
+Judy Clinton, assistant to the 
+chancellor and direclor of university 
+relations, said she Is trying to get funds 
+to purchase iwo Sony DX IBOO portable 
+color cameras, two Sony portable 
+recorders, new light kits as well as 
+renovate old e&lt;iuipment in order to 
+"Bring the studio up lo snuff." The 
+amount o( the grant was not revealed. 
+
+Cllnlonsaidherofficcputlna request 
+wilh the Cable Television Program- 
+ming Advisory Committee (CATCAPI. 
+
+
+
+CATCAP makes recommendations to 
+city council on how cable franchise 
+revenues should be spent. Cable 
+franchise monies come from Cox 
+Cable's contract with Ihe city of Fort 
+Wayne. The contract specifics "three 
+percent of Cox's revenues must be 
+spent in developing cable TV in the 
+community. We have put In a request 
+with CATCAP (or development here," 
+ainlon said. 
+
+
+
+funding is nol kn 
+
+
+
+a. It's 
+
+
+
+also looking into 
+
+"CATCAP is not the only thing. Wo 
+might turn to students' govemmenl and 
+are already looking into other grant 
+
+Channel 21 donated three Norelco 
+
+
+
+"in storage and need repair, Clinton 
+
+IPFW has some Hitachi portable 
+units that are used (or filming athletic 
+games. But the "unils are ofd and 
+cumbersome. We need to test them and 
+see Kthcoe old units can handle games. 
+We doubt they can," Clinton said. 
+
+"We also have some 'portable' units 
+but llieyare needed in the studio," she 
+said. "We don't want to risk damaging 
+them by on-slght productions because 
+we have no replacemenls for Uiem," 
+
+As a resulU IPFW must contract out 
+to private companies for on-locatloa 
+filming. 
+
+"I am hopeful we will have portable 
+units by nocl fall, but can't guarantee 
+It." Clinton laid. She emphasiied 
+students will twncflt most (rom the new 
+equipment because they do Ihe 
+productions and need Ihe experience. 
+
+
+
+Petitions available for April elections 
+
+
+
+ByMARVLX)UISELOVE 
+Staff Writer 
+
+Student tkn-emment elections will tie 
+April 19 and 10 and Student Body 
+President Ken Schenk said those who 
+w-lsh to run must turn their peliUons Id 
+April 12. Petitions can be picked up hi 
+RoomllBorZ2SlnlheWalb:' 
+
+
+
+Schenk said candidates will be 
+allowed a maximum ol liOO each (or 
+their campaigns. A list of these ci&lt; 
+pendllurcs muft be turned in to the 
+election board prior to dosing of Ihe 
+polls. The election code and api&gt;eal) 
+procedures will be posted In all 
+
+
+
+required areas around campus and 
+may be obtained (rom Don t^raey in 
+Ihe student govemmenl o((ice, room 
+225 of the Union 
+
+Schenk said. "There has been a 
+mistaken Image that the student 
+
+organ tiati on." Schenk said, "Anyone 
+inl crested in running Is welcome to do 
+so T^ie only rcqulremoits are that you 
+must be enrolled (or a minimum of six 
+credit hours and maintain a C avenge 
+or belter. All positions are open: 
+president, vice president, SUBOG 
+chairperson, la senate seat*, and 13 
+SUBOG seats. Petltlooi will need the 
+
+
+
+signatures ol M sludenls 
+
+turned in at Room 118 of 
+
+Foiling will be in the 
+
+
+
+Iween 10:00 
+
+
+
+(ollowlng week. 
+
+Voters must carry one (orm o( any 
+lypc IdenliTicatlon and be taking it 
+least one credit hour with either lU or 
+
+P" ^ 
+
+Schenk said candidates were voted 
+on In the past by party a((iliallon. This 
+year, however, they will be elected on 
+an Indlviikial basis but eandldsles 
+should declare their party preference. 
+
+
+
+J 
+
+
+
+PACE I -THE COMMUNICATOR- MARCH Jf 1981 
+
+
+
+opinion 
+
+
+
+Joining GLVC 
+a good move 
+
+Mondoy alWmoon, wiih lllllc hoopla, Ihe Facully ScnaiB 
+Bpproved a rtiolullon Lo apply tor membership in Ihe Great 
+Lakes VsIIej Confer ence 
+
+Weapplnud the senate's octiDtv 
+
+We would like to see a credible, winning InlercollegiBle 
+iporlaprogromallPFWTIicsenale'aaclion Monday should 
+go a long way In esloblishlng Ihal credibility. 
+
+Tills past lull and wlnLcr. the men's and women's 
+iMskelball leam». the soccer team, the women's volleyball 
+and men'a and women's lennls learns all had exciting. 
+WINNING seasons Some of the wins were easy. Others were 
+hard-loughl Bui who besides a lew loyal fans know tilts'' 
+Prolably noonc 
+
+By Joining Ihe conference, these teams will begin playing 
+Ihe some schools year a/tcr year, and fans will tiegln lo 
+Identify with the varimis schools. 
+
+By playing in a conference, more media eiposure may 
+come to Ihe school as rivalries l&gt;ecome established Sports 
+editors at Ihe local two newspapers and sports directors at 
+the lour Ft Wayne television stallons won't forget the big 
+three ilndlana. Notre Dome and Purduel But they'll start 
+paying m»re altenlion lo IPFW With tnore media covprago, 
+attendance at home games shaild Increase 
+
+Coach Tim RiKsell called the basketball team's win over 
+Ashland the Wggcsl in Ihe school's history. So what? Aahland 
+happens lu be a member ol the Great Lakes Valley Con- 
+
+Ttic soccer lenm set a single-game school scoring record 
+against Indiana Central. So what? Indiana Central is another 
+memberolthoGrcatLaJiBS Valley Conference. 
+
+Anyone questioning Ihe school's ability to compete should 
+
+
+
+look al 
+
+
+
+
+
+
+
+
+
+Willi a 
+
+
+
+lerence member was a win. Ashlonil heat ihe Mostodoi 
+their return engagement. Indiana Central made up for the 
+soccer loss with a baskelball win. Bellarmlne made the 
+soccer team's Tirsl ever NCAA Division 11 game a lough 
+leson by dawning IPFW i-o on the Tuskers' home turf. 
+
+We don't expect conterencc titles the first year in every 
+sporl. But then afiain, we didn't eipecl the men's basketball 
+learn to win IG games. 
+
+
+
+
+
+
+
+
+
+
+
+The Communicator 
+
+
+
+SPRING 
+SPECIAL 
+
+STARTING AT 
+
+Washer, Dryer &amp; Carports 
+
+Weekly 8 to 5 p.m.. Sat. &amp; Sun. 1 lo 3 
+
+3700 Paulding Road, 447-4571 
+
+CASSELWOOD 
+
+
+
+'~~^^!^^^Z^^^^^^^ 
+
+
+
+^^^ ^^y^ 
+
+
+
+U 
+
+
+
+• lUnited 
+ORtical 
+
+
+
+Don't Miss This Special Sale 
+
+Limiled Time Only 
+
+On Sofi Contact Lenses 
+
+
+
+Coll 
+Today 
+
+
+
+484-8516 
+
+
+
+PREGNANT7...W0RRIED? 
+
+WE'LL HELP! 
+
+Free pregnancy testing. 
+Confidential, professional counseling. 
+Call... 
+
+BIRTHUNE 
+
+422-1818 
+
+
+
+All THE CHICKEN YOU CAN EAT 
+
+
+
+2.85 
+
+
+
+Includes Roll. Butter, Veg., Potato 
+Offer Ends 3-31-83 
+
+We're Closed Fri. 4-1-83 
+
+
+
+eampus— 
+calendar 
+
+
+
+THURSDAY 24 
+
+Second Annual Rnse sale, KetCler basement, 9 a.m.- 
+
+9 p.m., sponsored by tfie Council for tfie Recog- 
+nition of DJsableid Students 
+
+Geology colloquium, "Polyphase Deformation in the 
+Scottish Highlands," D-M. Scotford, Kettler 146, 
+3:3Q p.m. 
+
+'SUBOG movie, "The Gay Divorcee,"' Cfvl auditorium, 
+B p.m. 
+
+Baseball, Defiance College at IPFV\/, 2 p.m. 
+
+Sign up for April 1 1 blood drive, Kettler Basement, 
+
+10 a.m -2 p.m. 
+
+FRIDAY 35 
+
+AnthrTjpologv Club, Walb 116, noon 
+
+'Visiting Writers Series, poet and novelist Sonia 
+Gernes, Walb 224. B p.m., sponsored by Depart- 
+ment of English end Lnguistics, SUBOG, Indiana 
+Arts Commission and the National Endowment 
+
+•PIT. "Chicaga," 8 p.m., call 482-5782 
+
+'SUBOG movie. "Twentieth Century." CM auditor- 
+ium, a p.m. 
+
+Payment deadline for SUBOG Gteytona Beech trip. 
+April 1-10 
+
+•Men's volleyball, Notre Dame ac iPFW gym, 7 p.m. 
+
+Sign up for April 1 1 blood drive, Kettler Basement, 
+10 a.m. -2 p.m. 
+
+SATURDAY 26 
+
+Visiting Writers Series workshop, Walb 222. 
+
+10 a.m. -12 noon 
+English, Reading and Math Placement test, Walb 
+
+ballroom, 8:30 a.m, 
+•SUBOG movie. "The Red Shoes," CM auditorium, 
+
+2 p.m. 
+•PIT, "Chicago," 8 p.m. 
+Faculty recital. Masson Robertson, piano. (Meff 
+
+RecitsI Hall, 8 p.m. 
+Baseball, Marion College at IPFW gym, 1 p.m. 
+
+SUNDAY 27 
+
+Campus Ministry presents "Shakespeare's Spiritual 
+
+Universe." Rrst Presbyterian Cfiurch, 3-6 p.m. 
+Faculty redtai. Mary Ator, voice, Neff Recital 
+
+Hall, 4 p.m- 
+Baseball, Wayne State at IPFW, 1 p.m. 
+
+
+
+MONDAY SB 
+
+Mental Health Technology, "Gambling," C. Anderson, 
+
+Neff B74, 9-9:40 a.m. followed by "Terminal 
+
+Illness." S. Meyer, 9:40-10:20 a.m. 
+Sociology forum. "The Honors Program: What Is Its 
+
+Rote at IPFW^" A Dirkes and S. Neely. Walb 
+
+ballroom, noon 
+Friends of Animals, Walb 112, noon 
+Women's Studies, "Battered Women," Walb 224. 
+
+Young People in Broadcasting, TV studio basement of 
+
+Helmke, noon 
+Baseball. Wayne State at IPFW, 1 p.m. 
+Sign up for Apnl 1 1 blood drive, Kettler Basement, 
+
+10a.m.-2 p.m. 
+
+TUESDAY 29 
+
+Lenten Service. Walb 222, 12:15p.m, 
+
+Peter DeVnes String Quartet. Neff Recital Hall, 
+
+B p.m. 
+Baseball, Marian College at IPFW. 1 p.m. 
+Sign' up for April 11 blood drive, Kettler Basement, 
+
+5:8 p.m. 
+
+WEDNESDAY 30 
+
+fvlental Health Technology. "Terminal Illness," S. 
+
+Meyer, Neff B74, 9:40-1 0:20 a.m. 
+Faculty recital, VWilliam Sclilacks, trumpet/compct- 
+
+sitions, Neff Recital Hall, 8 p.m. 
+indiana-Purdue [Inter-Varsity] Christian Fellowship. 
+
+KG46. noon 
+Sign up for Apnl 1 1 blood drive, Kettler Basement. 
+
+5-8 p.m. 
+
+THURSDAY 31 
+
+•Annual Business Conference, speaker Dr. Richard 
+Lesher, president of the United States Chamber 
+of Commerce, Walb ballroom. 11:30 a.m,-4;30 
+p.m. 
+
+•PIT, "Chicago," 8 p.m. 
+
+•SUBOG movie, "A Boy and His Dog," CM auditor- 
+ium, a p.m. 
+
+Baseball. Tn-State at IPFW, 1 p.m. 
+
+Sign up for April 1 1 blot]d drive, Kettler Basement, 
+10a.m.-2 p.m. 
+
+'denotes c^iartje 
+
+For more information on continuing education courses 
+
+
+
+APRIL 
+2-10 
+
+
+
+14-15 
+
+17 
+
+
+
+COMING EVENTS 
+
+Spring vacation 
+
+Placement test. Walb ballroom, 5:30 p.m. 
+
+*PIT, "Cfiicago," B p.m. 
+
+Honors Convocation, Walb ballroom, 2 p.m. 
+
+
+
+ART EXHIBITS 
+A Veritable Likeness: Porlrails of and by George McCullough thru Apnl 8 
+Ceramics: Unda Vi/inger thru April 1 B 
+Department of Rne Arts 
+
+
+
+ON-CAMPUS RECRUITING SCHEDULE 
+
+
+
+March 28 
+
+Uncoln/FW &amp; Associates 
+
+
+
+March 29 
+
+East Alien County Schools 
+
+
+
+Wednesday 30 
+
+H.E.W. Social Security Administration 
+
+
+
+Mareh 31 
+
+General Bectric Company 
+
+
+
+April 1 
+
+R.J. Reynolds Tobacco Company 
+
+
+
+CampuB Cal«mlir )■ apenaarad tiy ]ndiin»-Purt!ua Unhrsnitv at Fort Wiyno forth* um of ill unfva^ 
+
+a tltv dapartmanta and organtialkina. Ham to b* tneludai) In Campua Calandar inuat b* (ulmlnad to 
+
+tlia Offica ot Unlvaratty Ralallona, Kattlar 111 bv B pjn. on tha 'niuraday praeadtng tha mraak ol 
+
+
+
+i^ 
+
+
+
+
+Guest Columnist 
+
+
+
+Irish heritage shown 
+
+
+
+Classifieds 
+
+Ts:tIi;STANG II Hotchbick. 
+
+
+
+steering nnd brakes, air. 
+nnlproofed. radial lires, 
+rear de tagger, brown— 
+mctaUlc. 747-1067. OWO or 
+
+
+
+PORTUNITY I 
+
+
+
+ByMARYH.THUENTE 
+
+
+
+ney. (Pholo by George W. Blnlr.) 
+
+'Dolly Shot' 
+
+Union entertains 
+
+
+
+oe Hcnney's SUBOG- 
+insored visit to campus 
+Mnrcli 16-18 ceiebraled Si, 
+Pfllricli's Day id true Irish 
+Keaney was, as he 
+■•bred. born, and 
+si" in Carna, a parish 
+in Coiinly Cnlway, Ireland, 
+which has long been ac- 
+claimed for Ihc richness ol 
+ill ornl traditions. The 
+beauty and tlmelcssness ol 
+
+scend the comnicrclBUzation 
+and counlerfell bits of 
+Irishry which characterize 
+
+
+
+stories frequently Included 
+song9. He prefaced a breath- 
+taking rendiUon of "Eileen 
+
+
+
+warmcdto eacb ether in t 
+
+Untorlunately. the 
+microphone and amplini 
+which, ' - 
+
+
+
+ut««' 
+
+
+
+laitedMda. 
+
+
+
+Pepsi ^ 
+
+
+
+lage. 
+
+
+
+i Iraditi 
+
+
+
+s St. Patj-icX's Day 
+ally been a 
+
+
+
+Heaney's stories, such as 
+his lale about Ihc adventures 
+of the only Protestant in 
+Connemara (an Iriah- 
+speaking district in (he West 
+of Ireland) and his account 
+of an elderly husband's 
+tevenge on his young wife 
+
+demonstrated how an Irish 
+
+
+
+in the Fort injected an ar- 
+tificialily into his per- 
+tormnnce. One sensed, 
+allhough his audience was 
+obviously delighted with 
+him, Hcaney was not en- 
+joying himself nearly as 
+much as when he performed 
+in Ihe more natural at- 
+: classroom 
+
+
+
+' the Port I 
+
+
+
+the 
+
+
+
+ByMICHAELGEFFEN. 
+
+A delightful mixture of 
+classical music and jau was 
+offered by the Fort Wayne 
+Philharmonic and Rhythmic 
+
+
+
+Union 
+Philh 
+
+
+
+ongoing 
+
+
+
+Spectrum conccrli 
+
+Saying il was an evening of 
+unique music would be an 
+undcrslalenienl, as both 
+Rhythmic Union and the 
+Philharmonic showed Iheir 
+virtuosity an a variety of 
+instruments. The evening 
+opened wilh on interesting 
+work, "Brass Quintet No 2" 
+by Victor Ewald. [I is an 
+extremely difficult piece to 
+|day and the Philharmonic 
+Grass Ensemble handled it 
+with aplomb. 
+
+the "Toccata for Percuss. 
+Instruments" hy Car. 
+l^iBvei. This work ma 
+wonderful use of such var 
+percussion Instruments 
+
+glockenspiel and xylophone. 
+With its varied rhythms and 
+liEhlly-knil 
+
+
+
+Union for nothing. 
+
+The group consists of 
+Robert Chappel] on piano, 
+Chari Haines on flute and 
+pici:olo. George Adjieff an 
+guitar. Bill Moring on bass 
+and Tigger Benford on 
+drums. Each 
+
+concert. Their 
+was "Gentle Awakening," 
+which showed the group's 
+ability to combine melodic 
+jail lines *llh pulse- 
+pounding pprcussion. 
+
+
+
+■Ing the 
+
+
+
+where pubs began to open 
+only on March 17 atout 
+nileen years ago. TTie day in 
+Ireland is more typically 
+celebrated by wearing a 
+sprig of shamrock then by 
+drinking green beer. 
+
+Hcaney delighted his 
+audience in (he Fort on St 
+Patrick's Day evening, and 
+in two folklore classes with 
+
+Irish songs and tales. He 
+
+
+
+conflicts and old traditions 
+such as "January and May" 
+marriages. The wilty humor 
+
+however, was far different 
+from the senlunenlal smile 
+of (he Blage- Irishman. 
+
+Heancy interspersed his 
+songs and stories with a 
+firsthand account of (he old 
+customs and beliefs of (he 
+Irish countryside. He 
+delighted his audience when 
+be told how the countryman. 
+
+
+
+even appi^joch the intimacy 
+of an Irish fireside. 
+Neverlheless. by the time 
+Heaney closed each per- 
+formance by teaching his 
+
+having them sing along wilh 
+him. they glimpsed the 
+power which story and song 
+had in the times before 
+
+A former Director of Ihc 
+Folk Sang Archive at (he 
+Library of Congress has 
+aptly summariied the pav/er 
+of Joe Heaney's per- 
+irmnnces: "Through his 
+oice. his songs and his 
+Bnturies-old yet extremely 
+iahlctraditions. he presents 
+imself as a rare artist, a 
+erformer so accomplished 
+
+
+
+Putt-Putt 
+
+GolS &amp; Games 
+
+
+
+OPEN YEAR ROUND 
+
+
+
+\^l/ IfPUTT-FUIT 
+
+
+
+
+I 
+
+
+
+PrsBflntthiBi |PlITT-H)TT'l 
+WUS ' / coupon and |" 
+receive j 
+
+
+
+$5.00 ■ 
+
+
+
+8 Tokens 
+for $1.00 ' 
+
+
+
+I Coupon expliei 
+I April 7. 19S3 
+
+
+
+je of African tribal 
+
+unique instrument from 
+Uganda called an amsdina. 
+This instrument is a large, 
+coffee (ablc-slied xylophone 
+which needs two people to 
+play it. Chappell and Ben- 
+
+
+
+proposed marriage; "How 
+would you like to be burled 
+with my people?" He also 
+quoted his grandmother's 
+
+
+
+without any i 
+singe gimmic 
+onvenlional a 
+
+
+
+ford's 
+
+
+
+'folksong. " 
+Heaney explained it, si 
+no's singing has "no b 
+
+
+
+I theatrical. 
+:i contrasting 
+iic from the 
+
+
+
+Jan entered the evening 
+with "The Creation of the 
+World." a JaK-influenced 
+piece written for a ballet by 
+French composer Darius 
+Mjboud. lliis remarkable 
+
+American musical idioms 
+such as iau, raglime and 
+blues. II was highlighted by 
+long contra E ling passages of 
+
+
+
+
+
+
+
+
+
+1 the 
+
+
+
+Alter Ihe orchestra left the 
+stage. Rhythmic Union 
+showed (heir talents on the 
+numbers "Saffron Wings." 
+highlighted by a flowing Ilule 
+solo by Chari Haines-, 
+"Beyood The Limit." which 
+conlained a daizling free 
+form guilar solo by George 
+Adjieff; and "In the 
+
+
+
+entertaining gro 
+
+
+
+hilharn 
+
+
+
+formance style of (raditlonal 
+Irish singing were an im- 
+portant influence on the 
+development of American 
+folk music, especially In the 
+Appalachians and Oinrks. 
+
+dancing, ahiging and mnr- 
+
+for many years. Heaney did 
+not atqirove of some English 
+lyrics which have replaced 
+Ihc original Irish lyrics. 
+When someone requested 
+him to sing "Danny Boy," 
+Heaney refused but said he 
+would be happy lo sing some 
+Irish lyrics to the "Lon- 
+donderry Air," the name of 
+the Irish melody to which- 
+"Danny Boy" is sung. For 
+Heaney the lyrics of "Danny 
+Boy" eiemplified the "(ear 
+and Ihes " 
+
+
+
+. under Ronah 
+
+
+
+Onderjka's direcdon, ( 
+msrvclDus job with this 
+
+Rhythmic Union took over 
+Ihe second hair of the concert 
+
+capacity crowd wilh their 
+vcrsatilily. Rhythmic 
+
+Jazz is marked by an 
+amoilng array of percussion 
+and hard driving rhylhms. 
+They showed a proclivKy for 
+a wide variety of musical 
+styles and proved they dan't 
+call themselves Rhythmic 
+
+
+
+dissonant, Rhy(hmlc Union's 
+
+dissonanl bursts (hrown In 
+for contrast. 
+
+The combination of Rhyth- 
+mic Union and Ihe Fort 
+Wayne Philharmonic made 
+for an entertaining evenhig. 
+It was a daring departure 
+from the normal Speclrum 
+fare and showed classical 
+and Jan can mesh well 
+(ogelher. One can only hope 
+
+
+
+Irishmi 
+
+
+
+nusic hails. 
+The English translation of 
+another set ol Irish lyrics 
+about a Danny. Ihe long song 
+"Donal Og" or "Young 
+Daniel." which Heaney 
+perfnrmed for a Folklore 
+class, exemplies the power 
+of aulhentic Irish lyrics: 
+
+
+
+e; you 1 
+
+
+
+1 the e 
+le taken the 
+
+
+
+Isken what Is before m 
+
+
+
+m the crowd taken 
+
+
+
+
+
+
+my fear is great that you 
+taken God from me." 
+
+
+
+Communicator 
+Classifieds 
+
+
+
+50^ 
+
+
+
+
+r communiiy ii| ihis lime. Wc w; 
+
+10 buys gently used, top quulily it 
+ruggllnB oconomic climiile. Vou on 
+
+
+
+-NOW GPEM- 
+
+
+
+HOURS:MON..TUES. SSAT, 10-6, WED..THURS. &amp;FRI. 10-8 
+Ask Abouc Our Consignment Program-21 9/485-3458 ■ 
+
+
+
+HELP WANTED 
+
+Fort Wayne 
+Plasma Donor Center 
+
+$CASH PAID$ 
+
+FOR 
+
+PLASMA 
+
+DONATION 
+
+"Plasma Donors Are 
+Life Savers" 
+
+Bring this Ad for 
+
+a Special BONUS 
+
+(NEW DONORS ONLY) 
+
+SS.OO-lst Donation 
+
+S10.aa-Znd DonaUon 
+
+(WiUirn uniE week) 
+
+HOURS 
+Tues. fi Thutj. 10-5 
+Wed., Fii. t S)L S-3 
+Call far Inlwmilion 
+
+422-7435 
+
+114 W. Washington Blvtf. 
+FoitWajfiie, Indiana 
+
+
+
+Remember the days when 
+
+you could buy something 
+
+for a nickel? 
+
+YOU STILL CAN... 
+
+
+
+COPIES 
+
+
+
+
+
+(Oil STELLHORN RD 
+
+NORTHWOOD 
+
+SHOPPING CENTER 
+INruThcPodOffiMl 
+
+
+
+call us.. 485- 1107 
+
+
+
+STUDENT NURSES 
+EARN AND LEARN 
+
+
+
+ilelhcdBI Ho^Ial of lirduma. \nc 
+D LEARN •ummei cmpkiymiin^ 
+o luve completed it liul 1 q&gt; 
+
+
+
+baud upon IndE^ldua] 
+
+
+
+
+
+
+II Uponc 
+
+
+
+
+
+
+' oltgUc IB 
+
+
+
+hobdayi in ihf wme oica Ol oiha ptulenod clinical «lcc 
+denied aiuJ needed. 
+
+Siudcnu Ruy apply iKglnning Much IS unUI oD iotis aie 
+tfv uilLr&gt;9 317.929-8931 and icquionnj an EARN AND LI 
+InlCTvUzu To npadlle Iho tUrIng pracim tludentl muil tir 
+
+Riniddloo liom sn Lnilrunoi Including vertflcallon ol uicf 
+
+
+
+METHODIST HOSPITAL 
+OF INDIANA, INC. 
+
+P.O. Box 1367, 1604 N. Capitol Ave. 
+. Indianapolis. IN 46206 
+
+An Equal OppoIunBy Employei M/F 
+
+
+
+WHY PAY 
+MORE? 
+
+
+
+
+Golden Earring 
+
+
+
+
+War 
+$5.99 Ip or tape 
+
+
+
+Cut 
+S5.99 Ip or tape 
+
+
+
+^^C 
+
+
+
+9 
+
+
+
+The Final Cut 
+S5.99lportape 
+
+99* Rentals 
+
+Tubes-Outside/Inside 
+Journey-Frontiers 
+Dire Straits-Twisting by the Pool 
+Van Morrison-Inarticulate Speech 
+of the Heart 
+
+TDK 
+SA-90 
+
+Chrome Tape 
+
+$299 
+
+
+
+Outride Inside the Tubes 
+
+S5.991portape 
+
+
+
+WOODEN 
+
+NICKEL 
+
+RECORDS 
+
+
+
+1 Block Soutli of Glenbrook, 
+3627 N. Clinton 
+
+Remember... We Always Feature The Top 
+
+50 LPs And Tapes For Just '5.99 
+
+For Latest New Release Information Call 48^2451 
+
+
+
+PAGE1-THECOMMUMCATOR-&amp;IARCHM.1S83 
+
+
+
+
+double-header 
+
+
+
+Uic n 
+
+
+
+s volleyball 
+
+
+
+I of George Ma: 
+
+in played ihe 
+
+
+
+The Mailodons ployed two 
+lams that were ranked in 
+the Igp twGDiy last week and 
+list InU) mulchis Cnrge 
+Mason Umversily d treated 
+[PFW March and Ball Slate 
+beat the Mastodons luo days 
+
+The Maslodons sfarled out 
+
+
+
+playing good delenic. 
+
+Somclhlng sparked IPFW 
+in the second game, though. 
+
+
+
+and George M^ 
+denied the point wl 
+
+
+
+to gWe IPFW a 16-n win. 
+
+The Mastodons' 
+momentum swmod to carry 
+over iniD the third game ai 
+Ihey look a 3-o lead. Nearly 
+[lawless ptay by George 
+Mason shut dawn the 
+Mastodons the rest ol the 
+way, though, and IPFW 
+sulleced a lS-4 loss. 
+
+In Ihe fourihgame, George 
+Mason look a i-0 lead and 
+
+
+
+
+
+
+The Car 
+
+
+
+jiais w 
+
+
+
+154 u 
+
+
+
+, Mghi Ladles' Night 
+No Cover For Udies. 
+2 For 1, 8-10 &amp; 12-1 
+
+
+
+Wed Nighl Till Midnight 
+
+All Tlie Beer &amp; Bar 
+MlK You Can Diinli For 
+
+'5.00 
+
+
+
+rs: Bjnd'wm-B p.m. Id 
+
+Wed. Dim SiL 
+
+Lounge 4 p.&lt;n.-] i,ni 
+
+Hon. thru SlL 
+
+
+
+Ft. Wayne Entertainment 
+Show Every Tues. Come 
+Before 8 p.m. Featuring 
+The Dr. Bob Band 
+Roulette Wed.-Frl. 
+Mar. 23-26 
+Rich Kldz 
+March 30-Apr. 2 
+
+
+
+s Code Please. You Must Be 21 
+
+
+
+
+ATTENTION 
+IPFW STUDENTS 
+
+
+
+^Essam 
+
+
+
+•CABLE TV 
+'LAUNDRY IN EACH BUILDING 
+•CLUBHOUSE AND SWIMMING POOL 
+•CENTRAL HEAT AND AIR CONDITIONING 
+•SPECIAL LEASING TERMS AVAILABLE 
+
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+Appletree Apartments 
+
+6500 St. Joe Road p™«.,„k.ll«*l.s...eo™;. (H^ 
+
+485-7529 l^C^ 
+
+
+
+It week witnessed a 
+
+
+
+header lo BelJici College 9-3. 
+Ihe Maslodons came back to 
+win the second game 3-1 on 
+Ihe strength ol Treshman 
+Brell Carrel I's Bi» hit ptt- 
+
+GnrraK pilched SlI innings 
+of shutoul ball for IPFW. He 
+allowed* only four singles 
+while striking out three. He 
+got into some trouble in Ihe 
+
+
+
+In Ihe n 
+
+
+■St game, Doug 
+
+
+
+
+
+
+i-FW, allowing 
+
+
+
+
+
+
+hits. IPFW 
+
+
+
+
+
+
+of Ihe fourth 
+
+
+when Ihe Dull brothers got 
+
+
+
+
+id third, Ron led 
+
+
+
+
+g, reaching base 
+
+
+
+
+or. Mike then 
+
+
+doubled lo SI 
+
+
+end Ron lo third. 
+
+
+Pcrel. who 
+
+
+had three runs 
+
+
+
+scored both Vunoers. 
+
+Grovcr ran into trouble In 
+Ihe filth, as did bli 
+
+
+
+third pitcher. Scott Ro 
+got Ihe Mastodons out 
+inning. Bethel had s 
+
+
+
+Any Plans 
+for Lunch? 
+
+Domino's 
+
+Pizza 
+
+DeliversT 
+
+
+
+Call us. 
+
+4B4-0366 
+
+4CD . IZO) Sun 
+llTO-lMOMon.THull 
+n;M- iOOFrl-Sal. 
+DflvBra cany under SZOOO 
+
+
+
+n 
+
+
+
+bottles of ■""^'•■' 
+Coke! 
+
+
+
+L J 
+
+
+
+reliei 
+
+
+
+s. Mall Clark ci 
+
+
+
+with [\ 
+
+
+
+illcd do&lt; 
+for IPFW, 
+The Maslodons got two 
+
+a triple by nghl fielder Mark 
+Perei, which scored catcher 
+Mike Dull, who had reached 
+base on a Icadofl double. 
+Perei scored from third on a 
+sacrifice fly by third 
+basemen Greg McDougal. 
+The Mastodons scored 
+again in the bollom of the 
+siilh without benefit ol a hit. 
+Left fielder Phil Shideler 
+walked, stole second, went lo 
+pilch 
+
+
+
+
+
+
+for Ihe 1 
+
+There 
+
+out of about X at Ihe opening 
+double-header. 
+
+The ncil home game Is 
+scheduled for Ibis aftpmoon 
+1 gainst Dellance 
+
+
+
+College. I 
+
+
+
+
+
+
+Fort Wayne, the game may 
+be cancelled. IPPW is 
+scheduled to play home 
+games this weekend agairal 
+Marion College Salurday 
+and Wayne Slate Sunday 
+Both games start at I p m 
+On March » the Maslodons 
+play Marian College in o 1 
+
+
+
+
+
+
+;rillee fly by 
+- n Dull. 
+
+
+
+intramural update 
+
+
+
+jREASE 
+
+lONKEY 
+
+
+
+mlnuta lyk« (ril prai 
+
+
+
+
+Get your car ready for Florida now with our 
+
+SPRING BREAK SPECIAL 
+
+
+
+
+VoUeyballers lose two 
+
+ByRECGIEllAYES game oui of George Mason's offensively. They played 
+
+
+
+olftns . ... 
+
+Etense." said IPFW 
+Coach Amie Ball. 
+
+When Ball Slale came to 
+IPFW March IB, little went 
+wrong for the Cardinols, 
+■ — "'iggishly 
+
+
+
+Pool A and Pool 
+
+nlEhl at G:30 
+
+playing I 
+
+' The eight teams will be parlicipaling in the annual 
+
+picked on season record and IPFW Fun Run, scheduled 
+
+paired up by a blind draw, for April IG. The date ol the 
+
+TTie malch-upa and Umes fun is subject lo change, 
+
+will be posted on Ihe In- ^H information and sign- 
+
+Iramural Board in Ihe "P shells can be obtained 
+
+Athletic Ccncr, 'tom the Intramural Board, 
+
+
+
+game, bul IPFW made a 
+comeback loclose Ihe gapby 
+one point 7-6. It proved lo be 
+the closcsl the Mastodons 
+would come and Ball State 
+look the game IS-J. 
+
+The third game was all 
+Ball State and ihc Cardinals 
+pul the match away with a 
+
+
+
+: national 
+
+
+
+
+WORLD FAMOUS 
+
+
+
+"(^OfHe^'a^ "Pcti" 
+
+
+
+936 &amp;&gt;tUtxtm. SW. "H*^ 
+
+K-mart PteM East 
+
+
+
+
+IIS COUPON WJDW 
+
+
+
+50%0ff 
+i Frames 
+
+
+
+CnooM Iron ttie entie jeitciion 
+kios tucn as Giona Vand*mii 1 91 
+50% oH tna regiiar once Otfw 
+
+
+
+Southlown Mot 44T-«S90 
+
+Gtentxooli Souoie 4U-e9 1 8 
+
+Open AD Dov SoTuidov ariO SunOov Maa Houn I 
+
+
+
+s 
+
+
+
+
+Be wise. 
+Bank on 
+campus with 
+the OWL. 
+
+
+
+If you dashed lo class without your cash, don'I worry. 
+There's a Fori Wayne National Bank OWL Machine 
+downslairs in the Walb Memorial Union Building. 
+The OWL automatic teller lets you make withdrawals, 
+deposits or transfer funds without leaving campus. 
+How's that for a class act? 
+
+G»t wise today. Get an OWL Card from Fort Wayne 
+National Bank, Indiana Bank or Peoples Trust Bank. 
+And start banking on campus with the OWL. 
+
+fORT WAYNE 
+
+NATIONAl BANK 
+
+
+
+Support The IPFW Red Cross Blood Collection Day 
+April 11, 1933 
+Walb Baiiioom 
+
+10 a.m.-4 p.m. 
+
+
+
+We 
+need 
+your 
+type. 
+
+Donate 
+Blood. 
+
++ 
+
+
+
+American 
+Red Cross 
+
+
+
+Sign Up Far Nn Appoinlfnefit The W»lu 01 Maich 21 &amp; 28 
+In Kettlci Hall Baumtnt 
+
+Monday. Thursday. Friday 10 a.m. -2 p.m. 
+Tuesday. Wednesday 5-8 p.m. 
+
+Sponjored By CSSAC and Delta Gamma Sorority 
+
+
+
+</pre>        </div>
+      </div>
+    

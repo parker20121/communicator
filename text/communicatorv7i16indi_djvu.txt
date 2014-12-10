@@ -1,0 +1,3209 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i16indi/communicatorv7i16indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i16indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i16indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATOR 
+
+
+
+VOLUME VII, Issue 16. 
+
+THIS 
+WEEK 
+
+
+
+Thursday, January 15, 1976 
+
+
+
+! BICENTENNIAL 
+
+
+
+Spoof in 1 
+
+
+
+Wayne E. Steffens hasi 
+written a spoof on how a very 
+patriotic family has prepared 
+itself and its home for the 
+American bicentennial. His opi- 
+nion column can be found on 
+Page 2. 
+
+
+
+Writin' 
+
+
+
+Kathy Pranson, Campus 
+News Editor, writes on ' 
+women's opportunities today 
+as compared to yesterday on 
+page 2. Sorry Ducey, your 
+ERA comment wUI run next 
+
+
+
+Tooth in' 
+
+
+
+20 first year dental hygiene 
+students were capped January 
+11. A story about the ceremony 
+appears on Page 3. 
+
+
+
+Hoof in' 
+
+The Circle K Service Organ- , 
+ization is sponsoring a sock-hop 
+January 17, the proceeds of 
+which will go the Matthew 25 
+Health Clinic. That story is on 
+Page 5. 
+
+
+
+Stuffin' 
+
+Rex Putt reviews four 
+Mastodon basketball games on 
+the sports page. 
+
+Round in' 
+
+Barry Blackburn and Jinn 
+Amstutz round out this! 
+week's sports news: check 
+out what's happening this 
+week on page 6. 
+
+
+
+According to statistics from registrar 
+
+
+
+IPFW dynamic, growing institution 
+
+
+
+A statistical compilation released 
+by the Indiana-Purdue Registrar's 
+Office reveals that the Fort Wayne 
+institution is dynamic, rapidly growing 
+and distinguished by an unusually 
+mature student population. 
+
+Growth is a predominant theme 
+throughout the compilation. The 
+statistical profile traces the evolution 
+of IPFW from its beginning in 1964 as a 
+commuter campus with 2948 students 
+into an authentic university with a total 
+enrollment of 8961. Indiana-Purdue, 
+once the size of an average high 
+schook, has grown in only eleven years 
+into an institution larger than Notre 
+
+During the latest phase of growth, 
+
+
+
+Indiana Purdue's impressive growth 
+
+j may be partly explained by the breadth 
+
+. Although a 
+
+
+
+by 18 percent and female full-tin 
+enrollment by 15 percent. The divisions 
+of Allied Health, Business, Graduate 
+Studies, Science, SPEA, and Technol- 
+ogy experienced the greatest growth in 
+
+
+
+oilmen! In 1968. 
+
+vhich the first four year 
+
+vere completed at IPFW, the 
+
+
+
+nrolii 
+
+
+
+while, 
+
+
+
+ded 147 
+degrees, 104 Baccalaureate, and 
+
+Meters degrees. In contrast, during hundred reside 
+
+
+
+idents of Allen County, almost 
+
+a-quarter reside in the three 
+
+ghboring counties of Adams, Hunt- 
+
+ngton. and DeKalb. Four of every 
+
+
+
+■ trend, the greatest de- 
+crease came in the area of education. 
+Altogether, according to the report, 
+during the Fall registration period, the Altogethi 
+IPFW Registrar's Office recorded a University has conferred 2354 
+total of 1277 new regular admissions, ate degrees, 2666 Baccala 
+// non-degree admissions, and 223 degrees, and 1250 Masters degr 
+ssions a grand total of 6270 degrees. 
+
+
+
+1975, Indiana-Purdue awarded • 
+
+Associate degrees, 460 Baccalaureate 
+
+md 305 Masters degrees, 
+
+1968 the Fort Wayne 
+
+
+
+e distant Indiana 
+
+
+
+New Child Care Center 
+director to be appointed 
+
+
+
+By TOMMY FRANKE 
+
+The search will soon begin for a new 
+director of the IPFW Child Care 
+Center. Nancy Getzin, past director, 
+was asked to leave that post and she did 
+not return to the Center after semester 
+
+Dean John P. Ulmer, dean of 
+student services is no! acting director 
+of the center. Jean Reed is working as 
+coordinator until a new director can be 
+
+The Communicator published re- 
+ports last semester regarding person- 
+nel problems at the Center. Getzin has 
+sent a letter to one of the employees, 
+Glada Landis, charging her with 
+"improper personal conduct" and 
+warning her of possible discharge. 
+
+Landis and another worker, Dar- 
+lene Bililie, were later asked to take an 
+indefinite leave of absence and then 
+were terminated from their jobs. 
+
+Several other employees have left 
+the center since its inception. When 
+contacted by a Communicator report- 
+er, Dixie Weaver stated that she had 
+
+
+
+left the center because "the advisable 
+learning conditions and basic concerns 
+for good child care were not being 
+met." She said she found it difficult to 
+organize her curriculum because she 
+
+
+
+r Bilile had reapplied for employ- 
+fflt at the center. 
+I ilmer also stated that he is in the 
+
+
+
+v up job specific 
+
+
+
+and start 
+
+
+
+received no help from Getzin. She also taking and reviewing applications for 
+the job of director. The committee will 
+consist of Ulmer, representatives from 
+the center's advisory board, and 
+interested faculty. 
+
+Ulmer thinks that the new director 
+will probably be chosen by spring or 
+
+
+
+Getzin. Meg Bloom was fired by Getzin 
+for being critical of center policies in 
+December of 1974. Another past Center 
+employee started working at the center 
+with no experience with small children 
+and finally quit out of frustration, 
+stating that she was offered no help by 
+Getzin. 
+
+When asked if Landis and Bilile 
+would be reinstated this fall since their 
+jobs were terminated because of 
+disagreements with Getzin, Ulmer 
+stated that since they had been 
+terminated, they would have to reapply 
+and go through the regular channels. 
+
+However. Ulmer noted that all 
+positions are filled at the center at this 
+time. He also said that he hired one new 
+teacher to teach the pre-school class 
+recently. He noted that neither Landis 
+
+
+
+Applications available 
+for vet scholarship 
+
+The Office of Financial aids is still 
+accepting applications for the X| 
+Gamma Iota Fraternity scholarship. 
+This scholarship is awarded each 
+semester to a deserving veteran on the 
+IPFW campus. For application forms 
+contact the Office of Veteran's Affairs 
+or Financial Aids. 
+
+
+
+Indiana-Purdue to be named Official 
+Bicentennial University at special ceremony 
+
+
+
+IPFW will be named an Official 
+Bicentennial University in a special 
+ceremony Monday, Jan. 19 at 9 a.m. 
+
+Walter Helmke, Jr., chairman of 
+the Indiana State Bicentennial Com- 
+mission, will present a plaque to 
+Chancellor Donald Schwartz and a flag 
+to Student body President Charles 
+Pratt. 
+
+The American Revolution Bicen- 
+tennial Commission chose to bestow 
+this honor on IPFW because of various 
+programs relevant to the American 
+bicentennial that have been presented 
+by IPFW and because of programs that 
+are in the future. 
+
+The IPFW Bicentennial Commit- 
+tee, chaired by Professor James Haw, 
+sponsored a Bicentennial Lecture 
+Series last fall. Those lectures 
+culminated in a publication. IPFW was ' 
+also involved with other area colleges I 
+in the Friemann Intercollegiate Lee- 
+
+
+
+William Rehnquist, 
+:e of the Supreme Court, 
+was one of the speakers in that series. 
+In February a film series will be 
+presented at IPFW on Colonia 
+Williamsbury. Purdue- Indiana Theatre 
+will present "1776" in March and April. 
+The Library will have several exhibits 
+during the spring semester on the 
+
+
+
+bicentennial theme The Department of 
+Education is planning an exhibit for 
+Glen brook mail. 
+
+The ceremony will take place at 
+the flagpole in front of Kettler and last 
+about an half hour. All students, faculty 
+and staff are invited to attend the 
+presentation. 
+
+
+
+Placement convocation to be 
+held for spring graduates 
+
+Monday there will be a placement 
+convocation in the Student Union 
+Ballroom for all students planning to 
+graduate this spring. The convocation 
+will begin at 4:30 p.m. 
+
+Robert Barkhaus, director of the 
+Career Development and Placement 
+Center, said, "All aspects of the 
+placement procedure will be discussed. 
+Information concerning registration 
+with the placement center and a guide 
+to writing resumes will be distributed 
+at the meeting." 
+
+
+
+
+A partial list of companies and 
+school corporations that will be 
+recruting on campus this spring will 
+also 'be made available "I anticipate 
+that there will be several additional 
+companies that will be interviewing 
+which are not on the list, " Barkhaus 
+
+
+
+said. "Many companies wait until 
+March or April to assess the number of 
+positions that may be open for the 
+coming year. The list will be up-dated 
+periodically." 
+
+Barkhaus will discuss the correct 
+procedures for signing-up for inter- 
+views. Interview sign-ups for past 
+graduates only will be Friday, January 
+30. Sign-ups for other candidates are 
+slated for Monday, February 2. The 
+location for the sign-up sessions will be 
+disclosed at the convocation. 
+
+Tips on the preparation and 
+execution of actual interviews will also 
+be mentioned. 
+
+"The Placement Center has done a 
+great service for the students In the 
+past and this year many career 
+opportunities are again available," 
+said Barkhaus. 
+
+
+
+Malcom Crawford, a physli 
+cooperative IPFW student. The 
+March 1st. 
+
+
+
+Medical Service extends flu 
+immunization program 
+
+
+
+IPFW faculty, staff, and students, 
+as well as members of their immediate 
+families, will be able to receive low 
+cost flu shots from the campus Medical 
+Serice until March 1. Starley Pifer, 
+R.N.. and IPFW medical service 
+director, said that she decided to 
+extend the deadline for the mass flu 
+immunization program, originally 
+February 1, because unusually mild 
+early winter weather and a resulting 
+low incidence of flu apparently 
+encouraged a low turnout for the 
+program this season. 
+_ Pjfer stressedthe importance of 
+
+
+
+booster shots in in 
+for those who have already been 
+innoculated. According to the medical 
+service director, a single shot serves as 
+initial immunization while a second 
+serves as a booster, effective for one 
+
+The flu shots, costing $1.50 each, 
+can be obtained on a drop-in basis at 
+the Medical Service office located in 
+G27 in the Student Union. The office is 
+open Monday through Friday from 8: 00 
+a.m. to 5:00p.m. Appointments may be 
+arranged by calling the office at 5484. 
+
+
+
+transfer students from institutions in 
+other states. A substantial number of 
+
+1 the latter came from distant states, 
+Nino students came in the local campus 
+from California institutions, three from 
+Arizona institutions, and two from 
+
+.Florida institutions. Surprisingly, the 
+state contributing the most transfer 
+students to IPFW was not the campus' 
+closest neighbor Ohio, but the more 
+remote Michigan. 
+
+Indiana-Purdue University at Fort 
+Wayne, dynamic as il is, is distinguish 
+ed by the maturity of its student body. 
+The average student age, as revealed 
+in the profile is 25.1, well above the 
+norm for American universities. The 
+overall maturity of the IPFW student 
+population is significant in light of the 
+vast age range anions [he students. 
+The youngest student at IPFW is a 
+
+
+
+tender 15and the oldest a venerable 73, 
+The unique maturity of the IPFW 
+student population is underscored by 
+its unusually large percentage of 
+married students and the growing 
+number of graduate students. Well 
+over one third, or 38.8 percent of IPFW 
+students are married, and 16 percent 
+are enrolled in graduate programs. 
+
+Most IPFW students earn their 
+way through school. According to the 
+research summary, only 5 percent 
+receive financial aid. Not surprising, in 
+light of the overwhelming percentage 
+of self-supporting students at IPFW, 57 
+percent of the student body is enrolled 
+on a part-time basis. 
+
+The service Indiana-Purdue at 
+Fort Wayne provides for both the local 
+community and the entire Northeast- 
+ern Indiana region is documented by its 
+; record of retaining alumni In the area, 
+i In the course of its eleven year history, 
+I IPFW has acquired 4443 registered 
+alumni, 3346 of which are graduates 
+and 1 102 non-graduates. Of these, 2342, 
+
+
+
+linls-iill I 
+
+
+
+ithe 
+
+
+
+metropolitan Fort Waynt 
+
+additional 554 graduates live in other 
+areas of Indiana, Of all registered 
+
+IPFW alumni, oidy 45(1 live outside the 
+
+
+
+Lebamoff joins 
+IPFW faculty 
+
+
+
+By KATHY FRANSON 
+
+"I was really going to become a 
+professor at one time, with a PhD in 
+European Affairs," said former Ft. 
+Wayne mayor Ivan Lebamoff regard- 
+ing his past experience with teaching. 
+
+"I did my undergraduate work in 
+Eastern Europe and studied Russian, 
+Bulgarian and French. Then I went to 
+law school to finish up the analytical 
+aspects and I stayed in law school 
+instead. But I always loved teaching," 
+Lebamoff explained, 
+
+Lebamoff recently finished a four 
+year term as mayor of the city. He has 
+been added to the faculty of IPFW this 
+semester and is teaching an under- 
+graduate course titled Introduction to 
+Public and Environmental Affairs, 
+V170. He is also teaching a graduate 
+course, Executive Leadership, V566. 
+
+"The Introduction to Environ- 
+mental Affairs Class will deal with a 
+whole spectrum of urban problems, 
+"said Lebamoff. The problems he cited 
+
+
+
+Ithat the class will study included, 
+J housing, education, crime, aspects of 
+| zoning, taxation, and the role of senior 
+icitizens in a community. 
+
+"In the graduate class, Executive 
+[Leadership, which meets Thursday 
+
+nights from 7 :30 to 9 : 10, we'll spend the 
+I time really looking at the logic of the 
+[power structure in relation to the 
+
+democratic theory." He continued, "I 
+[think I can offer a good deal of first 
+;hand experience, and I hope these 
+! students leave with the understanding 
+;of the impact the power theory has on 
+
+politics and how leadership is molded 
+,by it. They'll learn the abilities, the 
+(capabilities, the drawbacks and the 
+
+trade-offs that are all part of 
+[community government." 
+
+Lebamoff feels that he will be able 
+|to draw from his background in city 
+
+government to effectively instruct 
+
+these classes. "I always felt the role of 
+
+mayor was that of a teacher." he said. 
+"I'm looking forward to 'his 
+semester very much." 
+
+
+
+Faculty Senates 
+vote on AROTC 
+
+
+
+By KATHY FRANSON 
+The status of the A.R.O.T.C. 
+program (Army Reserve Officers 
+Training Courses) is still undecided, 
+but steps have been made to bring it 
+closer to campus. 
+
+It has now been passed by the 
+Purdue Faculty Senate earlier this 
+week, and by the Indiana Faculty 
+Senate on Tuesday by a vote of eight to 
+
+
+
+quently, ballots will have to be mailed 
+.to each member and the results 
+counted. "By the time we have all that 
+done," said Helen Gibbons, secretary 
+of the Indiana Senate, "I estimate that 
+1 it will take about two weeks to find 
+
+The reasoning behind the estab- 
+lishment of the courses according to 
+the contract written by the Faculty 
+Senate, is to provide an additional 
+means of financial aid and also a wider 
+span of career choices for both men 
+and women students. In addition, it will 
+serve to broaden the educational base 
+of the university. Since a contingent of 
+US Army personnel is currently 
+assigned to the Indiana Institute of 
+, Technology for the purpose of 
+conducting an A.R.O.T.C. program, 
+and since the commander of that 
+contingent had expressed a willingness 
+
+
+
+10 teach the A.R.O.T.C. courses on the 
+j IPFW campus the issue was set before 
+the Chancellor to take the actions 
+necessary to enable the A.R.O.T.C. 
+courses to be offered. 
+
+According to the contract, this is 
+■ because the presence of the A.R.O.T.C. 
+personnel on campus will result in 
+certain direct and overhead expenses 
+to the university and because the 
+Indiana University existing policy 
+makes provisions for the recovery of 
+some portion of these costs through fee 
+charges and because the Purdue 
+University policy permits only building 
+tdebt retirement charges as fees 
+(currently 18.00 per credit hour) the 
+(A.R.O.T.C. course will be consistent 
+:with that charged for other courses 
+[offered at the campus (currently $21.00 
+Iper credit hour 
+
+The contract also states that the 
+faculty of the A.R.O.T.C. courses will 
+be designated as Associate Faculty. 
+The Vice-Chancellor will assign them 
+to an appropriate existing department 
+or division, as a collateral function of 
+that academic unit for the purpose of 
+supplying necessary administrative 
+and supports 
+
+
+
+An A.R.O.T.C. council will be 
+
+created for the purpose of approving 
+
+and evaluating their goals and 
+
+directions with those of the University. 
+
+Continued on Page 4. 
+
+
+
+r Thurs Jan. IS ism 
+
+
+
+GUEST COLUMNIST 
+
+
+
+EDITORIAL) 
+
+Lebamoff valuable here 
+
+Ivan A. Lebamoff, former mayor of Fort Wayne, has joined the faculty of 
+IPFW. Lebamoff will be instructing two courses, Introduction to Public and 
+Environmental Affairs, V170. an undergraduate course, and Executive 
+Leadership, V566 on the graduate level. 
+
+Lebamoff, who was just barely defeated in the mayoral race by Robert 
+Armstrong in November, comes to IPFW with teaching as well as practical 
+experience in the field of public and environmental affairs, the division to which he 
+was appointed by Chancellor Donald Schwartz, subject to the approval of the 
+Indiana University Board of Trustees. His appointment Is effective January 1, 1976 
+through June 30, 1977. 
+
+Lebamoff received his J.D. degree in law from Indiana University, 
+Bloomington. and was a teaching assistant there from 1954 to 1957. He brings a 
+wealth of practical experience to his new position, including service as a Foreign 
+Service Officer in the Commerce Department of the Federal government, as 
+Democratic chairman for Allen County, and as mayor of Fort Wayne from 1972 
+through 1975. 
+
+His administration as mayor of Fort Wayne was high-lighted by his efforts to 
+involve all citizens of Fort Wayne in the management of city government, 
+regardless of race, religion or sex. His attempts to set promotions in the Police and 
+Fire Departments according to merit, rather than political affiliation of 
+individuals, are to be commended. 
+
+His wealth of experience can do nothing less than enrich the faculty at IPFW. 
+Thank you. Chancellor Schwartz, for appointing Ivan, and thank you, Ivan, for 
+joining us. We all wish you well in your new undertaking. 
+
+
+
+lets see;.. 
+there 15 carl vanqagrift 
+
+AND IVAM.lXeAMOFF-r-'" - 
+NOW'— \WHO. ELSE . . 
+CAN I HIRE? 
+
+
+
+Roosevelt's dog a great meatloaf 
+
+
+
+■ ■ • InUJri-ij • 
+
+id o careful 
+
+
+
+:. STEFFEN 
+nial drawing r&gt; 
+
+
+
+:omfortable home for myself 
+
+
+
+dully n 
+
+
+
+tall i 
+
+
+
+e especially t 
+
+
+
+
+
+
+ally 
+
+e replicas of George 
+
+jorbell playing Hi 
+Star Spangled B 
+ntering the foyer 
+
+1 the torch of as 
+
+
+
+pi.'WllT I.Hl 
+
+Nhfilrliull". 
+
+for guidance, ; 
+of admission and 
+
+V.CSlW.llll 
+
+
+
+
+u will be bathed In red, 
+ght from the specially 
+ooking to the ceiling, as I 
+
+
+
+composed of alternating medallions 
+tive. The wallpaper 
+with apothegms fro: 
+
+
+
+Poor Richard's Almanac' 
+
+
+
+oaf in the shape of Franklin 
+birthday &lt; 
+
+
+
+sparklers in^'ead of candles. Of c 
+
+
+
+ACTION! CAMERA! SPOTLIGHT ON WENDY'S 
+
+t. NORTH ANTHONY SHOPPING CENTER 
+FA mile south of I.UlPurtlueiCampus) 
+
+2.\109 W. BERRY STREET 
+(across from the Fort Wayne National Bank Bktg.) 
+
+
+
+OLD FASHIONED 
+
+HAMBURfiEK 
+
+FEATURING: OLD FASHIONED HAMBURGERS 
+AND OlVfASHIONED RICH, MEATY CHLU "' 
+
+
+
+
+
+i 15«OFF | 20OFF i 
+
+■ FRENCH FRIES i CHILI i 
+
+
+
+«= E 3£!^ BK a 5£ .te„ B! r ! rtmSfttium 
+
+
+
+jet-together with friends would be complete S. Grant. The lyrics of "The Battle Hymn of 
+vithout a generous sampling of my the Republic" are embossed on the ceiling 
+'Artillery Punch" to remind us all of and the bar is in the shape of the conning 
+
+
+
+heritage. For exari 
+21 different decks i 
+
+
+
+insented to bake r 
+
+
+
+sacrificing right along with the pioneers. 
+
+We are especially proud of our game 
+room. The pool table has an embroidery of 
+
+pool cues are in the form of Civil War 
+
+
+
+Our lush shag carpet is a map &lt; 
+campaigns of the Civil War and 
+a Matthew Brady photograph o 
+
+
+
+le or the 
+
+Mill Such 
+
+soldiers 
+
+
+
+windows befi 
+certificate and 
+
+
+
+become pric 
+
+
+
+'. Huge kegs filled with liquor and 
+ig machine gun bullet holes adorn 
+
+life-size, three-dim en Li onal scene 
+g the St. Valentine's Day 
+
+
+
+ly desk .'in what appears to be a 
+indow. is a blow-up of a picture 
+he streets of New York on Black 
+929. There Is a wonderful effect 
+people are actually jumping out of 
+i. The carpet of the 
+
+
+
+■f all the presidents 
+,y family and I are 
+
+
+
+Campus for t 
+brought us the sple 
+Chancellor Schwartz 
+
+
+
+Joseph 
+
+
+
+Washington Schwai 
+this great country 
+' going 
+
+
+
+&gt;wboat. Just imagine! George 
+
+
+
+vulgar misrepi eaemanon oi our 
+its history. This is impossible, s;.._ 
+
+
+
+:ynical people 
+i of our country ami 
+
+
+
+and get tipsy to the upright s 
+
+
+
+OPINION 
+
+
+
+Women -A vital part of 76 
+
+
+
+By ANNE MOROWITZ 
+By KATHY FRANSON 
+
+The front door is open now, and 
+after centuries of trying the lock and 
+waiting on the threshold, women have 
+finally stepped into the world. 
+This is not to say that women 
+never had a taste of what it is like to. 
+possess personal influence and to be 
+confident in their own independence, 
+because they have now and then before 
+the door was again slammed shut. In 
+fact, in the days of ancient Egypt, 
+women (providing of course they had 
+the wealth ) could buy and sell land and 
+personal property (as opposed to her 
+being personal property ) in the same 
+capacity as men. .They were advisors 
+and rulers in government. But what 
+happened to them after/that? 
+
+
+
+dormant. Occasionally a woman 
+believed herself to be a person would 
+come along and make a noise at the 
+door, but she would soon be quieted. 
+After all, as Simone deBovier once 
+said, "There are two kinds of people in 
+the world - woman and human beings, 
+and when women start acting like 
+human beings, they're accused of 
+, trying to be men." 
+
+
+
+Through much of history women 
+were famous or prominent because 
+they were married to a man of position 
+or of equal fame. Of coursethere were 
+exceptional individuals, but that's just 
+exactly what they were-exceptions. 
+
+However, things are changing now. 
+In this Bicentenial year women 
+will be able to stand beside men 
+knowing they are as as much a part of 
+this country's breathing and growing 
+as men. Women have made indelible 
+marks in the areas of industry, art, 
+music, government and sports. 
+
+On January 5, Time magazine 
+featured 11 women on their cover 
+ted 
+
+
+
+
+
+
+ictivities they felt 
+U women took the place of Time's 
+
+COMMUNICATOR 
+
+
+
+traditional "Man of the Year". It was. 
+not that Time felt that it required U 
+women to equal one man, but there had" 
+been so many worthy women so long 
+neglected it would have been impos- 
+sible to choose just one. 
+Their occupations ranged widely from 
+Chief Justice to electricianT 
+
+The dead ends women used to 
+encounter are gone now, but the roads 
+behind them are still rough" 
+Considering that women in this 
+country did not receive the vote unttf 
+August 26, 1920, 56 short years ago, a 
+great deal of catching up has been 
+made by women since. : I 
+
+Just think how far the poor women. 
+of Switzerland have got to go yet-They 
+didn't get the vote until 1974, 
+
+And we thought Switzerland was a 
+civilized country. 
+
+
+
+Letters welcome 
+
+We're happy to print your 
+letters ; but they must be 
+written legibly on one side of 
+I the paper, signed, and no 
+longer than 350 words. Adress 
+all letters to The 
+Communicator, Room 215, 
+. Student Union at IPFW. 
+
+
+
+
+OPEN HOUSE 
+
+FRIDAY, JANUARY 16 
+9 A.M. to 6 P.M. 
+
+
+
+MARKET PLACE 
+OF CANTERBURY 
+
+
+
+We cordially invite The Students, 
+
+Faculty and Staff of the Indiana-Purdue Campus 
+
+to visit our newest Office. 
+
+
+
+Coffee and Donuts 
+
+If you are thinking of selling, 
+please help us celebrate by 
+listing your property with us. 
+If you're looking to purchase, 
+let us show/youjour photo files. 
+
+
+
+
+THE 
+CALENDAR 
+
+
+
+Thursday—IB 
+
+Schedule Adjustments 
+
+12:00 Noon Cont. Ed., Activity Therapy 
+Prog., Rehabilitation Wkah. SU Ballroom 
+12:00 Noon Mental Health Seminar 
+SU Ballroom 
+
+6:30 p.m. Cont. Ed., Preparation for SAT 
+KH-G51 
+
+7:30 p.m. Cont. Ed., Basic Computer Con- 
+cepts KH 150 
+
+Friday -16 
+
+Last day to receive Full Refund for 
+partial or complete withdrawal from class 
+
+2:30 p.m. Film Series, "Play Misty For 
+
+Me" SU Ballroom 
+
+7:30 p.m. Film Series, "Play Misty For 
+
+Me" NH-101 
+
+6:00 p.m. Varsity Basketball, Univ of 
+
+Michigan, Dearborn -Centra I High Gym 
+
+9:00 p.m. C innamon&amp;Hutmeg Coffeehouse 
+
+SU Cafeteria 
+
+10:00 p.m. Film Series, "Play Misty For 
+
+
+
+Me" 
+
+
+
+-101 
+
+
+
+Saturday— 17 
+
+9:00 a.m. Suzuki Workshop KH-146 
+
+2:00 p.m. Women's Basketball, Notre Dame 
+
+Central High Gym 
+
+8^00 p.m. Varsity Basketball, IU-PU 
+
+Indianapolis There 
+
+9:00 p.m. Circle K 50's Dance SU Ball- 
+
+Monday—19 
+
+9:00 a.m. Bicentennial Dedication Cere- 
+monies Flag Pole-KH 
+
+4:30 p.m. Spring Placement Convocation 
+SU Ballroom 
+
+7:00 p.m. Cont. Ed., Speed Reading for 
+Adults KH, G40 
+
+7:00 p.m. Cont. Ed., Creative Pottery 
+SU 214-18 
+
+7:30 p.m. Cont, Ed., Regulation of Freight 
+Traffic Transp. NH=*75 . 
+7:30 p.m. Cont. Ed., Beginning Spinning 
+cV Carding NH-149 
+7:30 p.m. Cont. Ed., Conversational Span- 
+
+
+
+ish 
+
+
+
+147 
+
+
+
+Tuasday~20 
+
+12:00 Noon Cont. Ed., Activity Therapy 
+Prog., Occupational Workshop SU Ballroom 
+12:00 Noon Mental Health Seminar SU 
+Ballroom 
+
+4:00 p.m. Cont., Ed., Emergency Cardiac 
+Care Parkview Hosp. English Hall 
+6:00 p.m. Cont. Ed., Nursing Home Admin- 
+istration KH, G-44 
+
+7:00 p.m. Cont, Ed., Repousse Decoupage 
+SU 218 
+
+7:00 p.m. Cont. Ed., Life Drawing - 
+School of Fine Art 
+
+7:00 p.m. Cont. Ed., Jewelry &amp; Metalsmith- 
+ing (Section I), School of Fine Arts 
+7:00 p.m. Women's Basketball, Huntington 
+College-Central High Gym 
+7:30 p.m. Cont. Ed., Acrylic Painting 
+for Beginners, KH-118 
+
+7:30 p.m. Cont. Ed., Creative Watercolor 
+KH, G41 
+
+7:30 p.m. Cont. Ed., Stock Market Tech- 
+niques KH, 247 
+\ 7:30 p.m. Cont. Ed., Real Estate Broker- 
+age KH, 149 
+
+7:30 p.m. Cont. Ed,, Beginning Bridge 
+NH, 149 
+
+7:30 p.m. Cont. Ed., Macedonion Bulgarian 
+Dancing SU Ballroom 
+7:30 p.m. Cont, Ed., Mui 
+Childhood Educ. NH 175 
+7:30 p.m. Cont. Ed., Com) 
+Seminar KH 249 
+7:45 p.m. Career Education Seminar 
+(IHETS) "Career Education in Elementary 
+&amp; Secondary Schools" KH, G46 
+
+Wednasday-21 
+
+1:00 p.m. Cont. Ed., Macrame SU 218 
+
+6:00 p.m. Cont. Ed., Traffic Mngt &amp; 
+
+Physical Distribution KH, G44 
+
+7:00 p.m. Cont. Ed., Introduction to 
+
+Sculpture School of Fine Arts 
+
+7:30 p.m. Cont. Educ,, Seminar in Color 
+
+Slide Photography NH 175 
+
+8:00 p.m. Cuban Film/Modern Foreign Film 
+
+NH 101 
+
+
+
+c In Early 
+nity Planning 
+
+
+
+5 The Communicator Thura. Jan. 15. 1976 
+
+
+
+
+F RI-SA TAT MIDNtTEl 
+
+Young Frankenstein &lt;pg&gt; 
+Heartbreak Kid &lt; PG&gt; 
+
+
+
+Circle K to sponsor sockhop 
+
+The Circle K Service WFWR disc jockey, Jay contests with awards for such a voluntary private associa- clinic will include physical disease. New sen 
+
+
+
+Orga; 
+
+
+
+n will sponsor a 
+"sockhop" in the Ballroom of 
+the Indiana-Purdue Student 
+Union on Saturday night, 
+January 17. Proceeds from 
+the 8:00 p.m. to midnight 
+dance will be donated to the 
+Matthew 25 Health Clinic. 
+
+
+
+Walker, will serve as master categories as "best dancer" tion composed of members of 
+
+of ceremonies for the event, and "fancy look alikes." several downtown churches 
+
+Admission for the sock- The Matthew 25 Health and representatives of the 
+
+hop, which will be open to the Clinic is a neighborhood clinic local medical community, 
+
+public, will be $1.00 per scheduled to open in the East will offer medical care to 
+
+person and $1.50 per couple. Central Neighborhood next those in need without cost to 
+
+Dress for the dance will be month. The clinic, a non-pro- the patient, 
+
+fifties-style and there will be fit organization sponsored by The neighborhood clinic 
+will be administered by a 
+
+
+
+exams, blood tests, pap 
+smears, and EKG. The clinic 
+will also offer screening for 
+VD, diabetes, hypertension, 
+upper respiratory infection, 
+dental disease, blood poison- 
+ing emphysema, and eye 
+
+
+
+added when needed. 
+
+Clinic sponsors hope to 
+provide care to the needy in 
+their own neighborhood with- 
+out forcing them to face the 
+mountains of red tape usually 
+associated with free clinics. 
+
+
+
+Career seminars to be telecast 
+
+
+
+A series of five 90-minute 
+live seminars dealing with 
+five approaches to career 
+education will be telecast 
+over the closed-circuit net- 
+work of the Indiana Higher 
+Education Telecommunicat- 
+ion System, beginning Jan- 
+uary 20. The programs will 
+stress the community-based 
+concept of career education 
+and will involve audiences of 
+elementary and secondary 
+teachers, post-secondary 
+teachers; the business-labor- 
+industry community, parents 
+and students and health-soc- 
+ial service professionals. 
+
+The series is funded by a 
+$75,000 grant to the Univer- 
+sity of Evansville from the 
+U.S. Office of Education's 
+Office of Career Education. 
+Dr. Robert Garnett, dean of 
+the University's School of 
+Education, is director of the 
+project, known as the Career 
+Education Televised Seminar 
+Series (CETSS). Production 
+and origination of the IHETS 
+network will be from the 
+Radio and Television Center 
+at Ball State University in 
+Muncie. 
+
+Each month a group of 
+
+
+
+:ular needs and 
+interests in the area of career 
+education. Each program will 
+feature a well-known expert 
+in the field, interaction with 
+panelists and guests in the 
+studio, and an opportunity for 
+viewers statewide to question 
+speaker and panelists via 
+teleresponse, 
+eous telephi 
+system. 
+
+The program, telecast 
+from 8:00-9:30 p.m. EST, willl 
+be directed to the following 
+
+
+
+patient advocates. A doctor 
+
+contacting Dr. Robert Bark- w* 11 also *» on dut y whenever 
+
+haus, director. Career Devel- the clinic is open. The entire 
+
+opment and Placement, In- staff will work on a volunteer 
+
+diana-Purdue (482-5656). who basis, 
+will be local host for each', 
+program. 
+
+
+
+Services offered by the 
+
+
+
+Talent school comes 
+to Fort Wayne 
+
+
+
+alk-back 
+
+
+
+
+
+
+20 
+
+
+
+Elementary and Secondary 
+Teachers, Counselors, and 
+Administrators; February 17 
+- Post-Secondary Teachers, 
+Counselors and Administra- 
+tors; March 16 - the Helping 
+Professions; April 20 - the 
+Family-Parets and Young 
+People; May 18 - the 
+Business-Labor-Industry- 
+Government Community. 
+
+The program may be 
+viewed at no charge at 
+Indiana-Purdue at Fort Way- 
+ne in Kettler Hall, Room G46. 
+Further information about 
+the series may be obtained by 
+
+
+
+Beginning in January 
+1976, Fort Wayne will have a 
+talent education program 
+patterned after the early 
+music education school 
+founded by Shinichi Suzuki, 
+the Japanese violinist and 
+teacher. 
+
+Talent Education of Fort 
+Wayne, Suzuki string playing 
+for childfen three years of 
+age and older, is a parent- 
+run, non-profit organization 
+devoted to following Suzuki's 
+philosophy and principles of 
+his teaching methods. 
+
+The Suzuki approach 
+relies strongly on the cooper- 
+ative relationship of teacher, 
+parent, and student. Although 
+it is not merely a violin, or 
+cello, or piano method, it does 
+require careful, patient, per- 
+
+
+
+sistent study and practice on 
+the instrument. Rather talent 
+education is a combination of 
+a philosophy, a technique, 
+and a program of education. 
+There will be a demon- 
+stration in Neff Hall Auditor- 
+ium tonight, Janaury 15, 7 
+p.m. String playing will be 
+introduced by Lorraine Fink, 
+Suzuki specialist from 
+Athens, Ohio. Fink will also 
+lead a string pedagogy 
+workshop-seminar for teach- 
+ers, students, and parents on 
+Saturday, January 17. 
+
+
+
+ROTH, WEHRLY, HEINY, Inc. 
+
+Roth-Wehrly-Heiny, Inc., Ft. Wayne's 
+
+largest real estate firm, has the 
+
+professional knowledge to help you 
+
+select the home m ost appropriate for 
+
+your needs, selling II 
+
+over 80 homes perl 
+
+month, we can alsoff 
+
+obtain the highest 
+
+value for your pre- 
+
+sent home. Call 
+
+IPFW grad Bob' 
+
+Hudson at 7437531 
+
+or 447-2661. 
+
+
+
+l;Cii.l Re °'*°" 
+
+
+
+
+i:hltj 
+
+
+
+Senate resolutions want truth 
+
+
+
+The student senate pass- Student Senate resolution 
+
+ed unanimously resolutions 7576T said, "The Student 
+
+concerning the firearm inci- Senate of IPFW demands full 
+
+dent in Trom 4 and the disclosure of the circumst- 
+
+weekend use of the campus ances of the incident involv- 
+
+buildings Monday night. ing the discharge of firearms 
+
+YMCA membership available 
+
+Again for the spring Single memberships can 
+semester, membership to the be obtained at the Sweet 
+central branch of the YMCA Shoppe in the Student Union 
+will be available to all Building, and family mem- 
+students who hold a valid berships may be purchased 
+spring semester student act- by contacting the member- 
+ivity card at a cost of $9 each, ship director at the central 
+"Y" memberships will also branch of the YMCA. The 
+be offered to faculty and staff only restriction is that the 
+at a special rate of $20 for "Y" may not be used between 
+single membership and $34 the hours of ll a.m. and 1 
+for family membership for P-m., due to the heavy usage 
+the spring semester {Janaury of the facility during those 
+through May 15th). hours. 
+
+
+
+by the Campus Police." It 
+continues, "The Student Sen- 
+ate demands implementation 
+of procedures to minimize the 
+risk of another such inci- 
+
+The second resolution' 
+asked for a review of the 
+program for determining 
+weekend and holiday operat- 
+ing policies. 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRlHDfRS 
+BROASTED CHICKEN 
+
+SAUSAGE ROLLS 
+
+MONDAYS &amp; THURSDAYS 
+
+S1.00 OFF 
+
+ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+* Busby Berkeley's . 
+
+: GOLD V-oW-M 
+
+• diggers ;Ji;77 
+
+« JAN.15-20 8pm $2.00 l *L I { i L L 
+
+• Sal-Sun.Mat.2pm$«Oil»i» i VV ^\^ ivi 
+
+! SPECTATOR 
+
+THEATH ON THt LANDING 
+
+
+
+
+
+Jan. 16-22 
+
+Couples Always Welcome! 
+
+Shows continuous from 1.-00 pm. 
+
+Last complete show starts 8*&gt;0 pm. 
+
+
+
+
+2441 Broadway 456-8804 
+
+
+
+
+J Tli&gt; Cninmimiralor T hurs. Jan. 15. 1WC 
+
+Right to life program scheduled 
+
+"Attitudes Toward Life" displays, information booths, cd by the Allen County Right 
+
+a program concerning the discussion areas, and the film , to Life. The Diocesan °rolife 
+
+right to life will be presented "Who Shall Survice" and speakers Bureau, and Nurses 
+
+Jan. 21 in the Student Union "The First Days of Life" will Concerned for Life. Admis- 
+
+Ballroom from 1-1 PM. be shown several times. i sion is free and open to the 
+
+The program includes The program is sponsor- public. 
+
+
+
+VOTE ON AROTC 
+
+
+
+Continued from Page 1. 
+The Council will consist of two Purdue 
+faculty members elected by the Purdue 
+faculty, and two members of the 
+Indiana Faculty likewise elected by the 
+Indiana faculty, the commander of the 
+A.R.O.T.C. faculty contingent and the 
+chairperson of the academic unit to 
+which the courses are assigned. The 
+of office for the elected faculty 
+members will be two years except in 
+the case of the initial year of this 
+council when each faculty will elect one 
+member for a one-year term and one 
+for a two year term. 
+The chairman of this council will 
+be elected annually by the c 
+members. Only the four elected faculty 
+members are eligible candidates for 
+this office. The chairperson will call 
+meetings of the council as needed, and 
+will report to the Senates on the s 
+of the A.R.O.T.C. council at least o 
+
+
+
+each semester and will also recom- 
+mend any major needed polivcy 
+changes to the Senates for their action. 
+Among the concerns which the 
+A.R.O.T.C. Council should direct its 
+attentions, are the qualifications and 
+effectiveness of the military faculty 
+personnel and appropriate! 
+
+, the fair treatment of 
+students, the adequacy of facilities and 
+supportive relationships and the size of 
+
+If the A.R.O.T.C. program is 
+approved by a majority of the Indiana 
+Senate, the issue will be set before 
+Chancellor Schwartz for a decision. 
+There will be no marching, showing of 
+
+is, mandatory wearing of uniforms 
+or public military demonstrations on 
+the IPFW campus without the specific 
+written invitation of the ROTC Campus 
+Council, according to Vice-Chancellor 
+Francis Borkowski. 
+
+
+
+Solar Energy Institute 
+location pursued 
+
+
+
+IU press to publish Hoosier books 
+
+
+
+
+f Research and 
+
+
+
+?velopmenl Administration will 
+
+
+
+energy policy, and assist in 
+promoting the use of solar energy 
+when it is economically feasible. 
+
+
+
+Department of Commerc 
+
+
+
+ofC 
+
+e would r 
+
+it would b 
+
+
+
+ed with pictures selected 
+n from the Indiana State 
+
+
+
+tory of Indiana frc 
+
+
+
+■ ■!■. greats, Hoosier 
+
+
+
+faces reflect the types o 
+
+
+
+Union board to sponsor 
+Cannonsburg ski trip 
+
+
+
+Accept second best 
+
+
+
+The STudent Union Board 
+will sponsor a ski trip to 
+Canonsburg, Michigan Sat- 
+urday January 24. 
+
+The cost of the trip is $12 
+for activity card holders and 
+$17 for their guests and the 
+public. Each activity card 
+holder is allowed one guest. 
+
+The fee includes round- 
+trip bus fare plus ski rental 
+and a lift pass. Tom Koontz, 
+chairman of the SUB, sug- 
+gests that students sign up 
+early because there are a 
+limited number of seats on 
+the buses. "The trip last year 
+
+
+
+was very successful and we 
+look for another good year,", 
+stated Koontz. 
+
+Activity card holders 
+may sign up in the Sweet 
+Shoppe beginning Wednes- 
+day, January 14. The sale will- 
+be open to the public after' 
+Tuesday, January 20. Acti- 
+vity card holders are asked tb 
+pay a $5 deposit when signing 
+up. The public must pay the 
+full $17. 
+
+Additional information, 
+concerning the trip may be, 
+obtained at the Sweet Shoppe. 
+
+
+
+The Bose 501 Series II. 
+
+Admittedly, it's almost 
+a Bose 901 "• Series II. But 
+it's the only other Direct/ 
+Reflecting 11 high fidelity 
+speaker. You buy it be- 
+cause it costs less than the 
+901. And because it out- 
+performs all other con- 
+ventional speakers up to 
+twice the price. 
+
+The Bose concept of 
+reflective sound has trans- 
+formed mere listening 
+into a total experience. A 
+pair of 50J Series II's 
+literally turns your room 
+into a huge speaker in 
+itself, where you sit and 
+absorb. 
+
+Come in to see us and 
+hear how mere listening has become 
+something else. 
+
+
+
+• F! 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+
+ORT WAYNE 
+
+ELECTRONICS 
+
+
+
+IN THE GLENBROOK MALL 
+
+4201 COLDWATER ROAO 
+FORT WAYNE. INDIANA 46805 
+Tele 1-219-463-3155 
+
+
+
+OTHER GRAHAM STORES IN: 
+INDIANAPOLIS, ANDERSON, CINCINNATI, LAFAYETTE &amp; MUNCIE 
+
+
+
+THE 
+CLASFEDS 
+
+
+
+Student government retreats 
+
+Election reform, merging Dan Randall chaired the reform. The senate hopes to 
+
+the three student entertain- group which discussed the build a code of student 
+
+ment committees, and reor- administration of the Student election laws into the consti- 
+
+ganizing the administration Union. The group focused on tution. 
+
+of the Student Union were the how to create more student The group of senators 
+
+major areas of discussion at a involvmentintheUnionanda who discussed a possible 
+
+student government retreat possible reorganization of the merger of the Union Board, 
+
+last January 3. Union's administrative body. Film Series &lt; 
+
+The senators formed Mike McAlexander was Convocations c 
+
+three groups. Each group chairman of the group which chaired by John Barnets. The 
+
+debated one of the three topic, examined the area of election merger would allow for more 
+
+coordinated planning of pro- 
+
+The retreat was held at 
+the Crooked Lake Biological 
+Research Center. Senators 
+John Barnets, Bob Ross, Bill 
+Hatzigeorgiou, Dan Randall, 
+Cyndy Harris, Mark Spade, 
+Mike McAlexander, and Nan- 
+cy Bollenbacher were pre- 
+
+
+
+TWO FOR ONE 
+
+BIG MAC™ 
+OFFER 
+FROM 
+MCDONALD'S 
+
+
+
+Buy One Big Mac™ and Gel One Big Mac Free. 
+Ofler good only at McDonald's* 1 on 3202 St. Joe Center Road. 
+
+
+
+
+
+Also attending were Ass- 
+istant to the Dean Jim ! 
+Bolinger, Student Body Pre- 
+sident Charles Pratt and the 
+two student government sec- 
+retaries, Julie Randall and ; 
+Gloria Johnston. 
+
+Physics prof 
+presents paper ! 
+
+
+
+a paper entitled "Applicali 
+Standard-Basis Operators t 
+Theory of Electronic and Mag 
+netic Properties of " " 
+
+Conference 
+Magnetic Materials 
+
+
+
+
+
+
+
+
+
+. The paper I 
+
+
+
+Sign of the times 
+
+Sign of the times: Couples '■ 
+
+
+
+Dental hygiene 
+capping held 
+
+
+
+3 The Communicator Th ure. Jan. 15. 1976 
+
+
+
+The annual capping cer- 
+emony for the first year 
+dental hygiene students at 
+IPFW was held at 1:30 p.m., 
+Sunday, January 11, 1976, at 
+the campus in the Recital 
+Hall in Neff Hall. 
+
+Dr. Donald Classify, 
+local practicing dentist gave 
+the major address to the 20 
+hygiene students receiving 
+their caps. Reception of the 
+cap, the symbol of the dental 
+hygiene profession, signifies 
+that the student has demon- 
+strated sufficient mastery of 
+skill to enable her to perform 
+clinical services at the initial 
+
+Dr. Emory Bryan, Sr., 
+member of the Dental Auxil- 
+iary Program Coordination 
+Committee of the Isaac 
+Knapp Dental Society was the 
+master of ceremonies. Other 
+participants included Irma 
+Rumbaugh, practicing den- 
+tist and IPFW dental hygiene 
+faculty member who gave the 
+invocation and benediction, 
+and Dr. George C. Smith, 
+director of dental auxiliary 
+education, who extended a 
+Welcome to the group. Mrs. 
+Clarence Huxoll, supervisor 
+of the IPFW dental hygiene 
+
+
+
+department officiated at the 
+ceremony. 
+
+Judy Van Gheluwe Hunt, 
+president of the Junior 
+Chapter of the American 
+Dental Hygienists Associat- 
+ion lead the newly tapped 
+students in the professional 
+creed. Responses by the 
+respective class presidents. 
+Mrs. Connie *Clair of tht 
+second-year class, and Mrs. 
+Linda Bryant of the first year 
+class, were heard. 
+
+Those receiving caps 
+from the Fort Wayne area 
+were Linda Bryant, Mary 
+Danusis, Jill Reiser, Cather- 
+ine Malich, Janet McCauley, 
+Brenda Merkel, Hope Osborn, 
+Jody Weimer and Linda Zehr. 
+Others receiving the honor 
+are Kylee Baumle, Paulding 
+Ohio; Kibby Calhoun, New 
+Castle, Indiana; Roberta 
+Domke, Farmington, Michi- 
+gan; Susan Frownfelter and 
+M. Lyn Harper of Auburn, 
+Indiana ;K. Elaine Johnson 
+and Connie Troxel of Bluff- 
+ton, Indiana; Jane Richard- 
+son, Lebanon, Indiana; Beth 
+Schaeffer, Waterloo, Indi- 
+ana ; Linda Wannenwetsch, 
+Angola, Indiana ; Susan 
+Schenher, Churubusco, Ind- 
+
+
+
+IPFW receives '500 
+for student research 
+
+
+
+Four Indiana-Purdue 
+University marketing stu- 
+dents were recently present* 
+ed with an unsolicited and 
+unexpected $500 check by the 
+dodge Corporation in apprec- 
+iation for a research study 
+that they designed for that 
+company. The study, conduc- 
+ted by Dean Laytzenheiser, 
+Jay Gerber, Steve Bryan, and 
+Marcia Wilson and directed 
+by Dr. Zoher Shipchandler of 
+the IPFW Business and 
+Economics department as- 
+certained the preference of 
+consumers for a new product 
+that the Polymer Products 
+Group of Phelps-Dodge is 
+iritroducing. 
+
+In a letter accompanying 
+the check the General Man- 
+ager of the Phelps-Dodge 
+Polymer Products group, Jim 
+Pritchard, praised the study 
+
+
+
+Horse care 
+seminar slated 
+
+"Care and Feeding of 
+Your Pleasure Horse" is the 
+title of a special one-day 
+seminar to be offered by 
+IPFW on Saturday, January 
+24. The workshop will be 
+geared to pleasure horse 
+owners and riders of all ages. 
+
+Beginning at 9:00 a.m. 
+and ending at 4 :00 p.m., the 
+seminar will include such 
+topics as general care and 
+feeding, vaccination and par- 
+asite control, common di- 
+seases of the horse, care and 
+treatment of feet and legs, 
+and tips on purchasing a 
+
+
+
+calling it, "well-designed and 
+well carried-out" and adding 
+that, "the results were 
+clearly and concisely pre- 
+sented." The company re- 
+quested that the check, 
+made-out to Indiana Univer- 
+sity, be used by the Business 
+Department to develop simi- 
+lar projects in the future. 
+
+According to Dr. Ship- 
+chandler, the Phelps-Dodgt 
+Corporation was so impress- 
+ed by the student's efforts 
+thai ii plans to include the 
+project in a promotional 
+campaign that it is launching 
+in January at Chicago's 
+McCormick Place Exposition 
+Center. The company has 
+invited the four IPFW stu- 
+dents to attend the Chicago 
+presentation and has offered 
+to pay all their expenses for 
+the trip. Phelps-Dodge also 
+intends to use the IPFW study 
+as a prototype for similar 
+studies that it plans to 
+conduct on the East and West 
+
+Dr. Shipchandler sees the 
+Phelps-Dodge award as a 
+breakthrough for both his 
+own department and IPFW as 
+a whole. The company has 
+supported similar research 
+projects at the Lafayette 
+Campus of Purdue, but 
+according to the professor, it 
+was hesitant about turning to 
+IPFW. He expressed hope 
+that the excellent perform- 
+ance of the four marketing 
+students and the recognition 
+of their efforts by the 
+Phelps-Dodge Corporation ; 
+will attract the attention of; 
+area businesses to the wealth' 
+of resource available at' 
+IPFW. 
+
+
+
+Scotsdale provides... 
+
+...comfort to those in distress 
+...encouragement to those in 
+
+despair 
+...aid to those in need 
+
+For abortion and unplanned 
+
+pregnancy counseling 
+
+Call Rusty Collect 
+
+313-227-6311 
+
+313-836-1471 
+
+Scotsdale Medical Clinic 
+Detroit, Michigan 
+
+
+
+
+CAMPUS BULLETIN BUARU 
+
+
+
+PURDUE UNIVERSITY GLEE CLUB 
+
+
+
+^.S HAPPENING U. f™J CR ?«octar e pf| "RING 
+
+1 -onteinlog ■ dw *'".JL available. " * 
+-nrts nrograms. ts , holders and sei 
+
+,'/ . ,11 activity " rd .™„ be oicked -, 
+free to an fl k-irr , betB and may De „ ". b „a 
+son ticket subscriber f H , u , end 
+
+\" the InCorMtlo" de.k.^ ^ 
+- :\dy Counter. 
+
+
+
+
+. Orgai 
+
+
+
+;rt, Robert Goldstein 
+Club Concert 
+
+
+
+Ticket, $3 . 00, Available from Circle K 
+Student Union Coatroom. Room 1M 
+
+
+
+Film Series 
+
+
+
+January 16, 1976 
+
+
+
+"PLAY 1 
+
+
+
+FOR i 
+
+
+
+Showings: 2:30 PM - Union Ballroom 
+
+7:30 PM - Neff Hall, 101 
+
+10:00 PM - Neff Hall, 101 
+
+Free to all Activity Card Holders, 
+
+others, $1.00 Donation. 
+
+
+
+
+
+WW - Illinois State University 
+10:00 pm 
+Tickets $1.00 at the door 
+
+
+
+
+l°S° c " e °,1 reoreaentati a l0 g tyP ^ 
+
+»" d «'«» tor tne iW^.ottice not la» t fcey 
+
+is requested . «""' sketch or c°M entire " of , tf "• 
+
+a retl eCt iinivetsl- 1 -* ' 
+
+atvd Indiana U-w- w 
+(i.e.. Ltl 
+
+
+
+
+Sat 
+
+
+
+
+INDIAN CULTURAL MOVIE 
+
+"Badthi Ka Nam Dadhi" 
+
+Jrday, January 24, 
+
+7:00 pm, Neff 101 
+
+
+
+fe&amp;?.OT 
+
+
+
+
+
+CLASS OF 197 
+
+
+
+
+■Oi2£cro^st&gt;£ 
+
+
+
+alendar of 
+
+Cap S Gow 
+
+mpus Stud 
+
+
+
+......niraenii to De purchased 
+
+Campus Students - March 1,2 3 
+D.G.T.S. Students - March 9, 70 
+
+All students that have completed 
+their requirements in January or 
+will complete in May or Auqust 
+
+in Commencement^ '" part ' ci P atl 
+
+Graduating Class Party to be held 
+at Goeglem's Barn - May 7. Detail 
+to be announced later 
+
+Class Gift suggestions are being 
+received by the Alumni Office. 
+
+
+
+any questions 
+
+
+
+... -all 
+482-5343. 
+
+
+
+
+: 1PFU. 
+
+
+
+^^^^^""^^^^■^^^■"■"^^^^H irted through the admlnistra tion3 may submit 
+The Campus Bulletin Board is suppn and stude nt organ ^^ copy 
+
+announcements of^c P^ Kettlerb, noon on ^n^^ ^ determination 
+to DoIma x ™°° carried will be subject 
+wide lntere 
+
+
+
+6 The Communicator Thurs- Jan. 15, 1876 
+
+
+
+Masties amass 9-8 record 
+
+
+
+By REX PUTT 
+
+Norm Ziegler came off 
+the bench late in the second 
+half, hit consecutive Held 
+goals, and ignited a faltering 
+IPFW squad, as the Tuskers 
+overcame a 9 point deficit and 
+edged Oakland City College, 
+90-89 in the first game of the 
+St. Francis basketball tour- 
+nament at the Central Catho- 
+lic gym. 
+
+A flurry of Mastodon 
+fouls found three reserves 
+filling starting spots late in 
+the game and enabled the 
+Oaks to gain a 98-79 lead with 
+
+Tusker's depth paid off, 
+however, as they came from 
+behind (o squrak out the one 
+point margin of victory. 
+
+The Mastodons indicated 
+their offensive potential in a 
+well-played first half, as they 
+grabbed a comfortable 52-43 
+halftime lead In the second 
+stanza the persistent Oaks 
+turned several IPFW miscues 
+into points, shooting a torrid 
+field goal percentage. 
+
+The Tusher offense play- 
+ed sloppily after intermis- 
+sion, not scoring at one point 
+for nearly three minutes. 
+With 8:32 remaining the 
+Oakland City Squad regained 
+the lead for the first time 
+
+
+
+since early in the contest, and 
+increased the margin to nine. 
+But the Mastodons ate away 
+at the Oaks lead, and with 
+1:09 left Neal Putt put the 
+Tuskers in the lead for good, 
+
+Mitch Easterly led the 
+Mastodon offensive attack 
+with 27 points and 14 
+rebounds. Teammates Putt 
+and Meyer followed with a 
+dozen a piece, and Martin 
+tallied 21. Slmpon tallied 23 
+for Oakland City, while 
+Gibson and Luttrell each hit 
+double figures with 16 and 17 
+respectively. 
+
+Tuskers Runner-up In Tour- 
+In the championship 
+game of the St. Francis 
+basketball tourney, the host 
+Cougars outscored the Tusk- 
+ers 103-82, defeating the 
+Mastodons for the second 
+time this season. 
+
+The Tuskers were play- 
+ing at a disadvantage, having 
+defeated Oakland City earlier 
+as the day, while the St. 
+Francis squad entered the 
+championship game by wayi 
+of an Indiana Northwest 
+forfeit. 
+
+The Cougars used all of 
+
+
+
+was the standout, scoring 26 
+points. Dave Morelad came 
+off the bench to add 19. The 
+Tuskers were led by Charlie 
+Martin's 22 points, and Mitch 
+Easterly added 16. Helmer 
+and Meyer tallied 13 and 11 
+respectively. 
+
+Martin and Easterly 
+were named to the all-tour- 
+nament team. 
+
+IPFW 117, Purdue North 
+
+The Tuskers, led by Dean 
+Putt's 34 point performance 
+gained their seventh round- 
+ball victory of the season 
+dowing Purdue North Central 
+117-87 at the Central gym. 
+
+The Mastodons' offense 
+got in gear early, jumping out 
+to leads of eight and ten 
+points before increasing the 
+margin to 37-21. The Tusker 
+defense relaxed, but the hosts 
+still held a 59-46 lead at 
+intermission. 
+
+Displaying an intelligent 
+offense, the IPFW squad 
+continued to dominate play in 
+the second half. The visitors' 
+from North Central ignited a 
+
+
+
+brief rally which closed the 
+Tusker margin to seven, but 
+were starved off, as the 
+Mastodons exploded and in- 
+creased their gulge to 30 pts. 
+at the final buzzer, 117-87. 
+
+In addition to Putt's 34 
+points, Mitch Easterly and 
+Charlie Martin tallied 18 and 
+13 respectively. Norm Ziegler 
+hit six of six field goals for 12 
+
+Mastodons lose in Overtime 
+
+IPFW allowed a nine 
+point lead to slip away with 
+4 :41 to go, and suffered a 67-64 
+overtime defeat at the hands 
+of St. Francis in a city college 
+basketball game at the 
+Central gym. 
+
+Missed foul shots and 
+turnovers played the Tuskers 
+late in the game, as the 
+visiting Cougars tied the 
+contest at 55 with no time 
+remaining. The visitors then 
+outscored the Mastodons in 
+the overtime for the victory. 
+
+With Charlie Martin at 
+the helm, the Tuskers em- 
+
+
+
+ployed a deliberate controlled Tuske 
+offense in the first half 
+successfully. The IPFW team 
+led by seven points at 
+
+
+
+able 
+
+
+
+With three straight Tus- 
+ker turnover and eight unan- 
+swered Cougar points, the 
+visitors tied the score early i 
+
+
+
+The 
+
+
+
+Mastodons stuck to their 
+
+with four minutes to play had 
+regained the lead at 50-41. At 
+that point missed foul shots 
+and turnovers haunted the 
+hosts, a plague that the 
+
+
+
+Charlie Martin led all 
+scorers with 21 while team- 
+mates Helmer and Meyer 
+added 16 and 9 respectively. 
+The Cougar's Jerome Frison 
+tallied 19 and Hinton chipped 
+in 15. Brantley contributed 13 
+in the winning effort. 
+
+The Mastodons, won 9-8, 
+host the Univ. of Michigan at 
+Dearborn squad Friday night 
+at the Central gym. Game 
+time is 8 p.m.. and admission 
+is free with activity card. 
+
+
+
+Women s team to 
+host Notre Dame 
+
+
+
+By BARRY BLACKBURN 
+
+Notre Dame University, 
+traditionally a basketball 
+powerhouse, will send their 
+women's delegation to the 
+Central gym on Saturday 
+
+
+
+host IPFW team. 
+
+Last month, the Masties 
+thrashed St. Francis for the 
+second time this season, 
+'75-28. With two convincing 
+victories and a narrow defeat 
+i the squad's credit, Coach 
+
+
+
+afternoon at 2 p.m. to face the Art Johnson is optimistic. 
+
+
+
+Il.rli 
+
+
+
+pow 
+ntest, yet Jero 
+
+
+
+the 
+
+
+
+i- Knsi 
+
+
+
+Hockey team splits 
+four over break 
+
+
+
+
+ByJIMAMSTUTZ 
+
+The Indiana-Purdue 
+Mastodons hockey team pla- 
+yed four games during the 
+mid-year break and posted a 
+1 win, two losses, and one tie 
+record but could have posted 
+a 4-0-0 record with a little 
+luck. In the first game of the 
+four, Purdue's late heroics, 
+featuring a tying goal by John 
+Ossyra with just 40 seconds 
+left to send the game into 
+overtime, overshaded a fine 
+Mastodon effort and gave a 
+well earned tie to the Purdue 
+Boilermakers. A ten minute 
+
+but no one scored despite 
+numerous opportunities for 
+both clubs to give the first tie, 
+5-5 in the Tuskers young 
+history. Johm Zimmerman 
+led the scoring parade for the 
+Tuskers with two goals and 
+an assist. Brother Dick 
+Zimmerman also had two 
+goals and Luke Fletter 
+chipped in with another. 
+IPFW scored once in the first 
+period, twice in the second, 
+and twice in the third. Purdue 
+didn't get on the board until 
+the 2:45 mark of the second 
+period but scored once more 
+in the second and three times 
+in the third period. 
+
+On January 2, the Tusk- 
+ers put out their best effort to 
+date to beat the Western 
+Illinois Leathernecks 7-3 at 
+
+
+
+
+Gunnar Elliot. The Leather- 
+necks had beaten the Masties 
+previously at Illinois 7-4 so 
+the Tuskers returned the 
+
+The Mastodons and Lea- 
+thernecks traded goals in the 
+third period with Luke Fletter 
+getting another 3-goal hat 
+trick to give the Mastodons as 
+Impressive 7-3 win. 
+
+Last Friday, the Masto- 
+dons had a return engage- 
+ment with the Henry Ford 
+City College Hawks, this time 
+at the friendly confines of the 
+Gunner Elliot Ice Arena. 
+Previously in Detroit, the 
+Hawks plastered the Masties 
+11 to 1, hut this time, the 
+winner was the same but the 
+score a lot different with the 
+Tuskers losing a heartbreak- 
+er to the Hawks 2-1. Indiana- 
+Purdue jumped on the board 
+first wit 
+
+
+
+games for IP, to give the 
+Masties a 1-0 lead at the end 
+of the first period. 
+
+Two goals in the span of 
+30 seconds of the second 
+period gave the game to the 
+Hawks despite a tremendous 
+effort by the Tuskers. 
+
+The following day, the 
+Mastodons traveled to Day- 
+ton for an engagement with 
+the University of Dayton 
+Flyers at a cold Kettering Ice 
+
+
+
+Arena. The result was a very 
+frustrating loss and left the 
+Tuskers with the thought of 
+"we wuz robbed." The final 
+score was 14-6 in favor of the 
+Flyers, but that score does 
+not tell the true story. Dayton 
+was the first to draw blood 
+and did so three times with 
+goals at 6:12, 10:28, and 11:09 
+before the Masties could get 
+untracked. The Tuskers roar- 
+ed back with two goals in the 
+span of l : 10 to get back in the 
+game at the end of the period 
+with the score standing at 3-2. 
+At the start of the second 
+period, the Mastodons were 
+flying. John Zimmerman took 
+the opening faceoff from 
+brother Dick around the 
+defense to tie the score just 6 
+seconds into the period. 
+Twenty-five seconds later, 
+Zimmerman (John) passed to 
+Mike Fish who put it in the 
+twine and gave the Masto- 
+dons a well deserved 4-3 lead. 
+Just 2: 14 later, the Mastodons 
+downfall came. Tim Nicode- 
+mus, playing a fine game in 
+goal, was blocked out of a 
+play which tied the score. 
+After a vocal discussion with 
+the official, Nicodemus was 
+awarded a misconduct pen- 
+alty. 
+
+The third period belonged 
+to the Flyers, with only Mike 
+Fish's third goal of the day, 
+an unassisted effort at 12:56, 
+able to save some face for the 
+Mastodons. 
+
+
+
+really think that for the first 
+time this year the team is 
+coming together as a unit." 
+The Tuskers are nearly 
+averaging double their op- 
+ponent's score. While the 
+opposition has averaged 32 
+pts. a game, the IPFW squad 
+has accululated 63 pts. per 
+contest. The Masties have 
+managed only a 29 percent 
+field goad figure, which 
+Coach Johnson fells "should 
+; percent. 
+
+
+
+Indiz 
+
+
+
+i Cent 
+
+
+
+al is the 
+
+
+
+upcoming opponent tonight 
+with the game being played ir 
+Indianapolis. On Saturday 
+the IPFW squad hosts the 
+Irish of Notre Dame at 2 p.m 
+Johnson feels these contests 
+are crucial ones. "These nexl 
+two games could tell quite a 
+bit about the rest of the 
+
+SPORTS SCENE 
+
+
+
+
+Dan Glbhart appears to have the inside move made in this 
+fight for the rebound with a Purdue North Central opponent. 
+The Mastodons won the contest in runaway contest, 117-87. 
+(Staff photo by Norm Fletcher.) 
+
+
+
+Local sports a change off pace 
+
+
+
+the way, moment of reflection 
+seems appropriate this time 
+
+Analysis and excuses for 
+the so-called "major" athle- 
+tic events being old hat, a look 
+at local sports seems to be a 
+refreshing change of pace, 
+especially when viewing the 
+fine performances turned in 
+by our IPFW squads. 
+
+The men's basketball 
+team has been victorious in 
+eight of the last ten outings. 
+
+
+
+
+OTHER DAILY SPECIALS 
+
+Monday &amp; Thursday Skipper's Treat™- 49 
+
+Tuesday Hamburger -- .29 Skipper* 1 -- .49 
+
+Big Shef?- .59 Super Shefk .69 
+
+Wednesday Big Shef-- .59 
+
+Friday Super Shef":- .69 
+
+Saturday Big Shef-Meal Deal -- .95 
+
+■Ju nday..^. Super Shef"Meal Deal - .99 
+
+fliirdCT" — —(coupon- — 
+
+PrJ5?JBIG SHEF MEAL DEAL 
+
+^*BIGSHEF™ /only\ 
+
+1 * REGULAR FRY (Q*\(N 
+
+^--P 1 # SMALL DRINK V V 
+
+
+
+This is a distinct turn-around, 
+since the Tuskers had prev- 
+iously lost six in a row earlier 
+this season. IPFW now owns 
+a season record of 9-8. This 
+week the team hosts the 
+University of Michigan at 
+Dearborn on Friday at 8 p.m., 
+then travels to Indianapolis 
+on Saturday to face the 
+IU-Purdue squad there. 
+
+The hockey team rounds 
+out the second half of 
+Friday's athletic double-lea- 
+der as they square off against 
+the Univ. of Michigan at 
+Dearborn at Gunnar Elliot 
+Ice Arena. Face off is at 10 
+'p.m. 
+
+Luke Fletter and John 
+Zimmerman hold scoring 
+honors with 13 points apiece 
+for the skaters. The Masto- 
+dons have been dominating 
+on home ice, amassing a 3-1-1 
+home record. 
+
+On the women's side, the 
+female IPFW basketball 
+
+
+
+team has a 2-1 record, and 
+will get their first taste of 
+University competition on 
+Saturday as they host Notre 
+Dame at 2 p.m. in the Central 
+gym. Huntington College in- 
+vades Ft. Wayne on Tuesday 
+at 6 p.m. 
+
+And while on the subject 
+of women's basketball, the 
+Ohio State University, after 
+much deliberation dubbed 
+their female roundball team 
+guide humorously. The new 
+name? The "buckettes". 
+
+This writer would like to 
+take the opportunity to urge 
+fellow students to attend the 
+IPFW sporting events and 
+support the teams. With the 
+men's basketball team on a 
+tear, the women's team 
+doubling their opponets 
+score, and the hockey team 
+nearly invincible at home, the 
+weeks to come should be 
+exciting in the world of sports 
+here at IPFW. 
+
+
+
+UPTIGHT! 
+
+
+
+
+WE'RE nOT. Fine LEI/URE 
+
+UJEflR FOR ALL 
+
+TH6 REBEL PEDDLER 
+
+
+
+</pre>        </div>
+      </div>
+    

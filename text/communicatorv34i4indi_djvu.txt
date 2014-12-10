@@ -1,0 +1,4443 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv34i4indi/communicatorv34i4indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv34i4indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv34i4indi">The Communicator</a>"
+          </h1>
+          <pre>the Communicator 
+
+Indiana University-Purdue University Fort Wayne 
+
+
+
+Wednesday, Sept. 17,2003 
+Volume 34, Issue 4 
+www.ipfWcommunicator.oig 
+
+
+
+Largest donation to IPFW announced 
+
+
+
+Willis family 
+gives IPFW 
+$3 million 
+
+By Scott M. Lawson 
+
+The Communicator 
+
+It was a day that saw the offi- 
+cial opening of IPFW's "bridge to 
+the future" and an opening of a 
+record financial gift of $3 million to 
+
+
+
+the u 
+
+
+
+sity. 
+
+
+
+Fort Wayne bi 
+Harris and his family donated the 
+funding. 
+
+In appreciation of that 
+bution, IPFW is naming the bridge 
+The Willis Family Bridge. 
+
+The 1 p.m. ceremony had 
+speakers including the mayor of 
+Fort Wayne, state representatives 
+and IPFW officials. 
+
+Willis' $3 million will be 
+
+
+
+
+crowd of roughly 200 people. 
+
+"That money will be split for students in business, music am 
+
+evenly between the Chair of education, and $1 million unre 
+
+Entrepreneurships, scholarships stricted - and that shows Don' 
+
+
+
+led into the future of IPFW by children of the day 
+million to IPFW Tuesday, the largest amount ever to the institution. 
+
+confidence in the way we'rt 
+
+aging at IPFW," Wartelt said. 
+
+
+
+Photo by Attdr 
+
+center. The Willis family donated $3 
+
+
+
+up until Ihe late 1980s, when he lefl software tor national defense. A 
+and started his own business 
+Willis worked for Magnavox developing command and control Continue Willis on page 10 
+
+
+
+'Christi' criminals set to plea 
+
+
+
+By K. E. Casey 
+
+and Scott M. Lawson 
+
+The Communicator 
+
+Members of an Indiana militia 
+group planned to protest what they 
+considered a morally-objectionable 
+play to cover up their own morally 
+questionable act — murder-for-hire. 
+
+The Cloverdale, Ind. area resi- 
+dents faced a myriad of drug and 
+murder conspriacy charges follow- 
+ing their arrests over two years 
+ago. 
+
+Now, Fred "Capt. Col. K.C, 
+Hawk" Keuthan, 64, and Michael 
+Smoot, 39, are set to plead guilty to 
+
+
+
+lessor charges in an agreement 
+with Owen Circuit Court in 
+Spencer. 
+
+Keuthan and his small band of 
+militia allegedly planned to hire a 
+contract killer to murder a fellow 
+militia member, whom they 
+believed was an informant. 
+
+The killing was slated to take 
+place in August, 2001, during a 
+performance of "Corpus Christi." 
+The militia members were going to 
+use their protest as an alibi, but 
+their plan went awry in more than 
+
+They thought the play was 
+
+
+
+taking place at IU Blonmington. 
+about 30 minutes southeast of 
+Cloverdale. "Corpus Christi" was 
+performed at IPFW — about a 
+three-and-a-half-hour northeast 
+drive away. 
+
+The hitman thev hired wasn't 
+a threat to the victim. 
+
+Police claim that members of 
+the "14th Regiment of the Indiana 
+Stall: 1 Militia" and splinter group 
+"Takeback Indiana" attempted to 
+hire a hit man, but instead con- 
+tracted with an undercover Indiana 
+Statu Police officer. 1 lie undercover 
+Continue 'Criminals' on page 4 
+
+
+
+Governor dies 
+
+
+
+By Alicia Layton 
+and Scott M. Lawson 
+The Communicator 
+
+Flags in Indiana will remain at 
+halt-stall for the next month as the 
+state mourns the death of its 47th 
+governor Saturday 
+
+Frank O'Bannon, 73, suffered 
+a stroke on Monday, Sept. 8 while 
+in Chicago. His family shut down 
+life-sustaining equipment in accor- 
+dance with O'Bannon's living will 
+after his condition worsened dur- 
+ing the week. 
+
+An interfaith memorial is 
+planned for Friday at the 
+Statehouse in Indianapolis on the 
+spot where O'Bannon was inaugu- 
+
+
+
+rated. It will start at noontime. 
+
+On Thursday, O'Bannon's por- 
+trait will be placed in the rotunda 
+of the Indiana Statehouse along 
+with memorabil- 
+ia he com 
+
+his lifetime 
+
+The public 
+will be able ti 
+
+through this dis- 
+play from 
+until 10 
+Thursday night, Q 
+
+Continue Frank 
+'Governor' O'Bannon: 
+on page 8 1930-2003 
+
+
+
+n 
+
+
+
+Dave Matthews (Cover) Band: So much to play 
+
+
+
+Blankets, newspapers, jackets, 
+textbooks and notebooks were 
+some of the makeshift seats of 
+choice for concert-goers Thursday 
+
+The crowd started gathering a 
+little before 7 p.m. as the first of the 
+students and community members 
+began to move into the grassy area, 
+known as the Walb Amphitheater, 
+to claim their seats for the show. 
+Student Life estimates they handed 
+out approximately 400 of the neon 
+pink wristbands to those in atten- 
+dance that night. 
+
+The weather cooperated and 
+the night was perfect for an out- 
+Most students were excited to 
+have such an opportunity to get 
+out and have fun with their class- 
+mates and friends. 
+
+"It's a great opportunity to get 
+out with my friends and show sup- 
+port for the school at the same 
+time," said sophomore Liz Roddel. 
+"It's events like this that make 
+
+
+
+
+and the band played not only 
+pieces of their own music, but 
+sic songs that had the 
+dience sinking along. 
+
+
+
+The people at 
+IPFW are awe- 
+some. They an 
+friendly, helpful 
+and really 
+
+cool. " 
+
+Lance Til ton. 
+DMCB drummer 
+
+
+
+Sophomor 
+Brian Spauld 
+
+
+
+her sen 
+evening. 
+
+
+
+to by Scott 
+e Bobbi Maddox, assistant faculty member Brandy Spaulding and junior 
+ing relax on the grass while the Dave Matthews Cover Band plays Friday. 
+
+a 'real campus." Terrance Alexander added, To know that IPFW brought them 
+
+ttendance echoed "Dave Matthews Band rocks and to here is showing how our campus is 
+
+throughout the have the opportunity to hear a growing and getting stronger." 
+
+cover band like them is wonderful. The concert lasted two hours 
+
+
+
+based out of Athens, Georgia and 
+tour four days a week in 2-3 week 
+sections. They've traveled all 
+around the country and have 
+played in venues both big and 
+small. Their biggest show was at 
+StarFest, an outdoor show, held in 
+Tampa, Florida, where they played 
+on the same stage as Jewel and 
+Sister Hazel. Some of 
+
+the favorite places they've played 
+Continue Cover on page 6 
+
+
+
+building student dorms 
+
+
+
+organizational fair 
+
+
+
+
+w 
+
+
+
+the kevin locke trio 
+Paged 
+
+
+
+arnie ball interview 
+Page 12 
+
+
+
+Page 2 The Communicator 
+
+
+
+Opinions 
+
+
+
+September 17, 2003 
+
+
+
+Editorial 
+
+Back to space, Runway 33 
+
+Plans have been announced the space shuttle will relaunch in the spring, 2004. Wlule thorough 
+investigation* arc nece^sart/ when tragedies happen, we eventually need to tnj again. 
+
+The space shuttle Columbia was due to land at Runway 33. It was scheduled to land at Runway 
+33 like it has countless times before. Runway 33 could be seen as its destiny -- and fate interrupted. 
+
+Every day, we wake up and go through our days. Every night, we have a Runway 33, be that 
+Runway 33 a spouse, or a friend, or something immaterial ? like the desire to move. To establish a 
+new Runway 33. 
+
+Runway 33 is a home. An anchor. 
+
+And yet, eventually, all of us don't get there. We'll travel thousands of miles to touch Runway 
+33 one more time, and something burns us up minutes from her, or him, or it. 
+
+We are no longer anything but a mourned idea. 
+
+That's the glorious thing about it, though. We're all in the same situation. Life is a challenge, 
+and for us to go through our challenges, we need our Runway 33. That one thing that makes us feel 
+like all the miles are worth it. And to not try through our lives to make it back again is to never get 
+off the ground in the first place. 
+
+To do that means you'll only ever know the land. And that's tragic when we alt have the ability 
+to learn so much more. 
+
+The lives of the seven astronauts are not worth more than the lives of seven anyone-else killed 
+anyhow-clse. But those seven astronauts stood up to challenges, personal and otherwise, and said 
+"I'll try." That's where the difference lies. An astronaut is not a better person than anyone else, but 
+they have taken a dream and not just fantasized about it. 
+
+To most, space exploration is a "collective" U.S. dream we share. We want to be in space — to 
+explore. To learn. And when our collective dream turns to nightmarish, people react differently. 
+Some look at it as a financial and human reality check, believing it '$ stupid to go to space because it 
+wastes of money and lives. Most look at it from the standpoint of a challenge. 
+
+We knciu this was eventually going to happen. To say it will never happen again would be 
+naive. But to say we're not going to try would make us spineless. Regret and learn from the mis- 
+takes. Honor and team from the astronauts. 
+
+And don't be spineless in the eyes of our ancestors or our grandchildren. 
+
+Columbia was the first shuttle - John Young and Robert Crippen took it up in '81. For over 20 
+years, that shuttle brought dozens of astronauts back after carrying them to space. And they were 
+all able to return to their Runway 33 of life. 
+
+Editorial 
+
+Devoted to others in life 
+
+Had anyone suggested at the beginning of last week that Governor Frank O'Bannon would out- 
+live actor John Ritter.few would have believed it. 
+
+As it is, Rittcr passed torn/ of a rare heart condition before O 'Bannon succumbed to his stroke. 
+And within this week, the nation also lost two music artists, Warren Zevon and Johnny Cash. 
+In each of these people, toe lost more than their collective contributions of humor, insight and 
+
+We lost people who gave back to us through their talents and devotions. They tried to make us 
+think, feel or work for a better community. 
+
+O'Bannon dedicated decades to Indiana. His dedication wasn't to a political party, but to a con- 
+cept ofHoosiers as people. He was relaxed in discussion - like a grandfather. And he was wise in his 
+advice as a grandfather as well. 
+
+Ritter dedicated dozens of pratfalls to his vieioers and fans via his television shows, and spent time 
+reworking his life so he wouldn't be knoion just as jack Tripper Cash and Zevon both used music 
+and lyrics as artistry; Cash as a dark poet; Zevon as a quirky looker of life. 
+
+They shared their lives with us. 
+
+Mourning is for families and friends. For us, the deaths are a time to reflect on how much we 
+give in proportion to how much we take. 
+
+
+
+Corrections 
+
+
+
+^ story on Mee Kyung 
+Shim's art exhibition said 
+the last day for the viewing 
+~ct. 3. The actual show 
+ends on Oct. 10 at IPFW. 
+
+A layout error left the 
+iphic for Food 
+Thought unclear. Bob Evans 
+ved a 2.5 score on their 
+portions grade. Also witr 
+that story, a jumpline was 
+missing. The story contuv 
+ued on page 6. 
+
+
+
+Editorial Board 
+
+Scott M. Lawson, Editor 
+
+Deborah Dambra, Man aging Editor 
+
+Andrew Welfle, Arts &amp; Entertainment Editor 
+
+Nick West, SportsEditor 
+
+Eugene Harding, Photo Editor 
+
+Katie Pruitt, Copy Editor 
+
+Tim Kanyuh, Advertising Manager 
+
+Josh Vargas, Advertising Designer 
+
+Andy Burnside, Web Editor 
+
+Done Reynolds, Publisher 
+
+
+
+Contact Us 
+
+The Communicator 
+Walb Union Suite 215 
+2101 E. Coliseum Blvd. 
+Fort Wayne, IN 46S05 
+
+Editor: 481-6584 
+
+Publisher: 481-6585 
+
+Advertising: 481-6583 
+
+Fax: 481-6045 
+
+website: coming soon 
+
+
+
+
+Always growing 
+
+
+
+By Debbie Dambra 
+Managing Editor 
+
+When I got out of high school, the three things I wanted to 
+do were: travel, party and be in plays. I must admit that I have 
+accomplished that now decades later, but the realization that life 
+
+ore than a trip, consumption of alcohol with friends 
+becoming "someone else" on stage to act out other characters 
+lives has taken years to learn. 
+
+When did I grow up? I believe it's happened in the last 
+year of my life. Last October, I started my journey into moti 
+tional books, tapes, CD's, VHS's and the like. I even ven 
+tured into diverse subjects such as: the power of positive think- 
+ing, Zen Buddism, self-actualization, aromatherapy, meditation, 
+yoga, astrology, dynamics and Date Carnegie. I even re-read 
+my bible. 
+
+The readings themselves did not make me "grow up," but 
+rather encouraged me to "break out of the box," to explore new 
+ideas and be open for change in my life. Life is constant ch 
+but it is not to be feared. Life is to be lived. Life is to be 
+embraced. Life is to be experienced day by day. 
+
+Life is full of wonder fid insights and many times take you 
+■&gt;ff guard." A friend of mine whose husband died this yea\ 
+told me, "you could not stop his death, but I often thought of you 
+■our strength in adversity many times during his illness." 
+Her remark was based on a year in my life when I was "truly 
+tested" with my stepfather's death, my fiance's death, my moth- 
+being placed in a nursing home and her rehabilitation. But I 
+ver lost my hope or belief that life would be "good" again. 
+I visited a co-worker's husband who was hospitalized and 
+ventilator. My co-worker friend said the family was upset 
+that they could not communicate with him because of the 
+machine. I made him flashcards that said such things as: " 
+hot," "I want to sit up," etc. so he could "speak" to them, 
+took a goofy stuffed animal that played music to exercise and the 
+animal moved as if exercising. Unfortunately, he was comatose 
+by then but the family still played it in his room. When he died, 
+the family took his items home including my stuffed animal. As 
+they left his room they squeezed it and it started its upbeat 
+cise routine and their tears became laughter. 
+
+I believe we all grow up when we want to. Buying a first 
+getting a first job, having a first child and living awayfr 
+home for the first time may seem like the "quantum leap" into 
+growing up, but that's not necessarily so. Generally speaking, 
+1 believe adversity often plays a part in seasoning our grozoth 
+through experience. The real maturity test is understanding the 
+miracles tliat occur every day in your life . . . the good and the 
+bad. 
+
+Many people just exist, they don't live. Many people live 
+the past and don't move forward. Many people run so hard 
+in life that they can 't appreciate it with a calendar of daily activ- 
+ities that offer no sustenance. Many people stay inside and hide 
+from life. 
+
+My challenge to you is not to "grow up" but rather to live 
+life fully and enjoy your time at IPFW. In the words of 
+Mandino, motivational speaker, "Live your life as if you'll be 
+dead at midnight." By giving a daily "end" deadline, you 
+appreciate things more, you are more compassionate with others 
+and you live a fuller, enriched life. You will "grow up" when 
+ant to, when life opens you up like a flower and you have 
+the time to smell the fragrance. Enjoy the other "flowers " along 
+your path and understand that they, too, are growing up with 
+you. 
+
+
+
+Have an opinion about IPFW, The 
+
+Communicator or life? Let us know. 
+
+Write a Letter To The Editor or a guest 
+
+column. Address Letters To The Editor to 
+
+stupaper@stupaper. ipfw.edu or drop 
+
+them off at Walb Union room 215. 
+
+Use your Freedom of Speech. 
+
+
+
+Editorial Policy 
+
+
+
+.Editorials are the opinions 
+of The Communicator. The 
+opinions expressed do not nec- 
+e-^anh reflect the views of 
+IPFW, its employees or its stu- 
+dent body. A column is solely 
+the opinion ol its author. 
+
+The Communicator 
+
+welcomes responses from 
+readers. Letters to the Editor 
+and guest columns must be 
+signed, dated and accompanied 
+by a current, valid address, 
+telephone number and class 
+standing' major or title. 
+
+Letters not meeting these 
+requirements will not be con- 
+
+
+
+sidered for public 
+
+All submissions made via e- 
+mail will be verified by tele- 
+phone or in person. Addresses 
+and telephone numbers will not 
+be published. 
+
+Submissions must be typed, 
+double-spaced and no more 
+than 400 words. 
+
+The editorial board of The 
+Communicator reserves the 
+right to edit all submissions for 
+length, grammar, style and 
+clarity. Letters deemed libelous 
+by the editorial board will not 
+be published under any cir- 
+
+
+
+September 17, 2003 
+
+
+
+News 
+
+
+
+The Communicator Page 3 
+
+
+
+News Briefs 
+
+X-treme Air 
+
+The Student Activities Board 
+will be having iPFW students 
+flying high as they present X- 
+treme Air" Wednesday from 10 
+a.m. until 4 p.m. 
+
+The mobile sky dive simulator 
+will be located on the IPFW 
+Grassy Knoll between Neff Hall 
+and Classroom-Medical 
+
+Building. 
+
+Students standing 
+up for missing 
+Burmese dissident 
+
+
+
+Burmese students on cam- 
+pus are rallying support from 
+the IPFW community to sign a 
+
+petition in an effort to shine a 
+light on the circumstances of 
+Aung San Suu Kyi. 
+
+Aung San Suu Kyi has been 
+jailed since May 30, 2003 by the 
+country's government. 
+
+IPFW student Kyaw T. Soe 
+is asking concerned citi/en- to 
+assist in (hi- Burmese crisis. 
+
+Aung San Suu Kyi is a 
+Nobel Peace Prize winner who 
+has challenged the government 
+in her home country before. 
+
+"I always agree with (Aung 
+San Suu Kyi's) non-violent \\'.i\s 
+to achieve change," Soe told the 
+Joumal-Ga2ette in a recent edi- 
+tion after organizing a protest in 
+Fort Wayne. 
+
+The petition asks the 
+United Nations to bring the situ- 
+ation into the forefront, not just 
+of her, but of the country. 
+
+
+
+"The 
+
+
+
+about her 
+
+
+
+health and safety has grown 
+because her well-being is 
+unknown and doubted," the 
+petition says. 
+
+It asks for her to be released 
+immediately; for an official 
+report to be presented to the 
+United Nations Security 
+Council; and for the UN to urge 
+continued diplomatic pressure 
+on the current government until 
+the "regime nuke-, fundamental 
+political changes." 
+
+Blood Drive 
+
+The Clerical and Service 
+Staff Advisory Committee 
+(CSSAC) will be hosting the 
+annual Blood Drive on Sept. 30 
+at IPFW. 
+
+A Bloodmobile will be on 
+campus from 10 a.m. until 3 p.m. 
+on that day. 
+
+The Bloodmobile will be 
+stab'oned in front of the Science 
+Building. 
+
+Walk-ins and appointments 
+are both available. Anyone who 
+wants to make an appointment 
+can call Penny Leverman at 481- 
+6284. 
+
+
+
+
+Intensive construction has changed the skyline of what will be dorms by next 
+
+
+
+lor IPFW students. 
+
+
+
+The IPFW student housing goes U P 
+
+Building across 
+campus proceeds 
+
+Communicator photographer Leslie 
+Bickis recently had an opportunity to 
+walk into the future -- or at least the 
+future as it is currently being built. 
+
+Bickis was welcomed into the neiv stu- 
+dent housing across the street from IPFW. 
+
+The buildings have been constructed at 
+a rapid rate, although earlier this year, 
+IPFW Chancellor Michael Wartell said 
+they wouldn't be completed until the sum- 
+mer of 2004. 
+
+After that, students will start moving 
+into the townhouse style living quarters. 
+
+Already, a manager has been hired to 
+oversee the students when they are living 
+on the IPFW property. 
+
+Above is a panoramic shot of two 
+buildings under construction. Center is a 
+view from the inside, where mainly lum- 
+ber lines the walls that will one day like- 
+ly be filled with posters and dart boards. 
+
+Right, workers discuss the day's plans 
+for the building process. 
+
+
+
+
+Hispanos Unidos to meet 
+
+Hispanos Unidos Student a chance to meet the officers and 
+
+Organization will host a "Kick-off members of the club. After the 
+
+meeting and Movie Night" on movie, a discussion about the 
+
+Friday, Sept. 19 in Walb Union 114- movie will take place. 
+
+116. For more information, call 
+
+The organization will be 481-6847 or 341-8081; or e-mail 
+
+watching the movie Frida starting galindop@ipfw.edu or 
+
+at 6:30 p.m. and will give students jfitch44@msn.com. 
+
+
+
+Geosciences needs a new logo 
+
+
+
+t the Geosciences office on the 
+
+
+
+in Fhe deadline is October 31. 
+
+■ I" ■ .i ^e&lt;ilo^\ major to enter or win, nor does 
+i geology major to join the Geosciences Club. 
+
+
+
+Two Great Deals! 
+
+
+
+
+Enjoy a double order of 
+fajiias (enough for fwo) 
+for jusf ill! And 10 oz. 
+
+original Top Shelf and 
+
+Caribbean Margarifas are 
+
+only f2* 
+
+
+
+Baby Back 
+
+'N Brew 
+
+Wednesdays 
+
+A full rack of Chili's® 
+famous, double-basfed 
+Baby Back Ribs is jusf 
+
+f9.99! And 10 02. 
+
+Domestic Draffs are 
+
+jusf tl.** 
+
+
+
+
+For* Wayne • 317 E. Coliseum Blvd. . 260-471-2979 
+
+Murf be a* learf 21 year* &lt;rf efle *° =°n™™&gt; afcohoL "Offer valid every Honday 
+
+
+
+"Offer valid Wedneoda. 
+
+
+
+
+
+Ar &amp; iibo 
+
+Delta Gamma &amp; Pi Beta Phi 
+
+
+
+f SORORITY 
+^RECRUITMENT 
+
+
+
+The Sisters of Pi Beta Phi &amp; Delta Gamma 
+
+are looking for new members! 
+
+Join us for the following events' 
+
+Sunday, Sept. 21 - Orientation 
+
+Monday, Sept. 22 - Event 1 
+
+Thursday, Sept, 25 - Event 2 
+
+Ail events are 6 p.m. in Fireside Lounge, 
+
+Walb Student Union 
+
+
+
+Page 4 The Communicator 
+
+
+
+On Campus 
+
+
+
+September 17, 2003 
+
+
+
+Getting 'Organized 
+
+
+
+
+
+the Yl£,U) standard 
+in student living 
+
+
+
+amenities 
+
+
+
+1 Individual Housing Agreements 
+
+■ Furnished Bedroom 
+
+' Furnished Living Room 
+
+1 Fully Equipped Kitchen 
+
+1 Dining Area with Chairs 
+
+1 High-speed Internet and Cable Television Service 
+
+1 Community Center 
+
+1 Social Lounge with Big Screen Television 
+
+1 24-Hour Laundry Facility 
+
+1 Fitness Center 
+
+1 Basketball Sport Court 
+
+' Computer Learning Center/Cyber Lounge 
+
+1 On-site Community Assistant Staff 
+
+■ On-site Management and Maintenance 
+
+Opening Fall 2004! 
+
+
+
+IPFW 
+Student 
+Housing 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY FORT WAYNE 
+
+260-481-4180 
+
+Kettler Hall G98F • 2101 E. Coliseum Blvd. • Fort Wayne, Indiana 46805 
+www.IPFWstudenthousing.com • email: info@IPFWstudenthousing.com 
+
+PROFESSIONALLY MANAGED BY AMERICAN CAMPUS COMMUNITIES 
+
+
+
+September 17, 2003 
+
+
+
+On Campus 
+
+
+
+The Communicator Page 5 
+
+
+
+Mayoral debate Sept. 23 
+
+
+
+On Sept. 23, 2003, at 7 p.m. the 
+IPFW Mike Downs Center for 
+Indiana Politics will be hosting one 
+of several debates between current 
+Fort Wayne Mayor Graham 
+Richard and mayoral candidate 
+Linda Buskirk in the Walb Union 
+Ballroom at IPFW. 
+
+A lifelong resident of Fort 
+Wayne, Graham Richard lives with 
+his wife in one the city's older 
+neighborhoods. 
+
+He is a graduate of North Side 
+High School and Princeton 
+University. Richard is also a mem- 
+ber of Trinity Episcopal Church 
+and holds several board member- 
+ships that include the American 
+Red Cross, Leadership Fort Wayne, 
+Embassy Theatre and Fort Wayne 
+Ballet. 
+
+In addition to Richard's board 
+memberships, he is the owner of 
+Graham Richard &amp; Associates and 
+co-owner of Integra Learning 
+Systems. 
+
+He has also been an Indiana 
+State Senator for four years. He 
+served as Chair of Governmental 
+Affairs Committee and as a mem- 
+ber of the Senate Finance and 
+Education committees. 
+
+Richard says he wants to con- 
+tinue "working every day to build 
+a future for good jobs in Fort 
+Wayne," according to his cam- 
+paign. He credits a $23 million cash 
+surplus to his initiatives and says 
+he is keeping the city "fiscally 
+
+
+
+"I understand that a positive 
+future for Fort Wayne depends on 
+investing in our people, our infra- 
+structure, and delivering the Kimo 
+superbly. I remain committed to 
+doing the things that businesses 
+need to flourish and creating an 
+environment in which opportunity 
+can grow for all of our citizens,'' he 
+
+
+
+He also hopes that young pea- 
+
+
+
+
+aid. 
+
+
+
+The local election for 
+mayor is Tuesday, 
+Nov. 4 
+
+
+
+pie gain insight from this debate 
+Richard believes that "the founda- 
+tion of democracy is built out of 
+our individual votes." 
+
+A 24-year resident of Fort 
+Wayne, Linda Buskirk lives with 
+her husband Ron. Buskirk came to 
+Fort Wayne as a WOWO radio new 
+reporter. She is a graduate of Ball 
+State University with major in jour- 
+nalism. Buskirk worked as the 
+Director of Public Works for Fort 
+Wayne from 1994-1999, and has 
+since earned Indiana University 
+Master of Public Affair degree at 
+IPFW. Buskirk is also a member of 
+Trinity Episcopal Church. 
+
+Since her defeat in the 1999 
+mayoral election, Buskirk as acted 
+as the Vice President of 
+Administration for the University 
+of Saint Francis, in addition to 
+other various public service activi- 
+
+
+
+Buskirk Richard 
+
+Buskirk also 
+serves on the board of directors for 
+several not-for-profit organiza- 
+tions, including Arts United of 
+Greater Fort Wayne and Audiences 
+Unlimited. 
+
+In addition, she has published 
+a booklet entitled "We Can Do 
+Better" where she presents ideas of 
+how Fort Wayne can revamp and 
+bring in business. 
+
+Buskirk wants IPFW students 
+to know that she "will be a tireless 
+lobbyist for mure state operational 
+funding for IPFW." 
+
+"It is critical to our region to 
+have a strong public university," 
+Buskirk has said. 
+
+She has also been quoted to 
+say that she will be looking for- 
+ward to IPFW debate to deal will 
+issues that are important to the 
+community, but more specifically, 
+those issues that affect younger 
+voters and IPFW students. 
+
+More information on the can- 
+didates and the issues can be 
+obtained at their websites. 
+Richard's website is www.graham- 
+richard.com; Buskirk's is 
+
+www.lindabuskirk.com. 
+
+The local election for mayor is 
+Tuesday. Nov. 4. 
+
+
+
+
+Hindi I'u Km/iir'i/ iV[(( mlrr 
+
+
+
+IPFW student Jill Kelly poses for a snapshot while walk- 
+ing between classes on campus recently. 
+
+
+
+coming soon: 
+
+www.ipfwcommunicator.ort 
+
+gett i ng wired. 
+
+
+
+Rage against the campus 
+
+
+
+
+Paperwork, not ill feelings, led 
+to the cancellation of an American 
+Cancer Society benefit event on the 
+IPFW campus Sept 9. 
+
+Fortwaynetogo.com was rally- 
+ing "Rage Against Cancer" -a day- 
+long effort. They planned on hold- 
+ing a myriad of concerts and 
+"extreme athletes" at IPFW. 
+
+They held Rage Against 
+Cancer, but not at IPFW. Organizers 
+relocated it a few days prior, com- 
+plaining FT7S =-T ; 1 
+
+that VTt would be 
+ipfw some terrible 
+
+led^em ka ™ a t0 tU ™ 
+
+into down a cancer 
+
+behev- even f/' 
+
+could be Scotty Van Scoik 
+held on Organizer 
+
+campus. 
+
+Organizer Scotty Van Scoik ~ a pro- 
+fessional road racer since 1997 - 
+says at a meeting held at IPFW on 
+Tuesday, Sept. 2 with IPFW officials, 
+they were given an oral go-ahead. 
+
+"Everything was verbally opti- 
+mistic, to say the least," Van Scoik 
+
+Van Scoik said he and others 
+with the event had even talked \ 
+IPFW grounds crews about where 
+the bikes and concerts were g&gt; 
+be staged. However, he admits he 
+was told the arrangement wasn't 100 pfjolo ^ Cene Warding 
+
+percent complete Still, it wasn't until _ , , „ .. «, _ .« * 
+
+Sept. 5 that he learned the event need- Motocross racer Scotty Van Scoik of 
+ed to find a new location. Warsaw stays still while a BMX biker twists 
+
+On an organizational website above him Tuesday at an alternate site for 
+and again on a local radio station, R a ge Against Cancer. Organizers claim they 
+: wanted at IPFW. 
+
+
+
+I'm certainly not against fighting 
+cancer." 
+
+IPFW Chancellor Michael Wartell 
+
+
+
+IPFW was blasted for not allowing 
+Rage Against Cancer. Van Scoik said 
+"a chancellor" at IPFW denied the 
+request, although he said he didn't 
+know whom. 
+
+"It would be some terrible 
+karma to turn down a cancer event," 
+Van Scoik said. him at) ™ ( me ™» ™ tnat wouia , ™ 
+
+IPFW Chancellor Michael Wartell said onl y happened had they appealed the 
+he had nothing to do with the denial, and request to his office. He noted IPFW supports 
+Vice Chancellor of Student Affairs Edna Neal ™ nv 
+said it was a paperwork situation, not a 
+desire to keep extreme sports and music off 
+campus. 
+
+"Not all of the steps were taken to get 
+the event organized," she commented. 
+
+Wartell said nobody ever talked with 
+
+
+
+ity functions - this weekend 
+the American Heart Foundation held a walk 
+on campus. And IPFW hosts Relay For Life - 
+- what Wartell called the biggest events to 
+fundraise against the deadly disease. 
+
+"I'm certainly not against fighting can- 
+
+
+
+Campus w 
+
+
+
+Calen 
+
+
+
+
+Academic Workshops for students ; 
+for information, call 6595. 
+
+1 8 "Career Fest" and Job Fair, WU 
+Ballroom, 10a,m.-3 p.m. 
+
+1 9 Stump the Career Counselor about 
+Job Searching, KT ground floor, 
+
+22 Improving YourStudy Skills, 
+
+SB 185, noon. 
+24 Natural Highs, SB !68,noon. 
+
+18 Relationships 101 Fall 2003— 
+Ten-Week Workshop Series, 
+
+"ShapingHealthy Relationships — 
+Singles to Seniors," WU, noon- 
+1 p.m.; for information, call 6647, 
+5748, ore-mail tillapau@iprw.edu. 
+Student Life: Student 
+Organization President's Training, 
+WUG21, 1-2 p.m.; for 
+information, call 6283. 
+
+;all 
+
+
+
+CELT Workshops ; to register, i 
+6354 ore-mail hanelins@ipfw.edu. 
+1 9 Vista Training I, KT 205B, 
+
+9:30-1 1:30 a.m. and NFB73, 
+
+1-3 pm 
+
+23 Vista Training H, LB EITC 440A, 
+I0:30a.m.-I2:30p.m. 
+
+24 Academic (Dis)Honesty in the 2I B 
+Century, WU 1 14, noon-1 : 1 5 p.m. 
+
+1 9 Chemistry Seminar: Molecular 
+Design of Enzyme Inhibitors, 
+Professor Xiche Hu, University of 
+Toledo, Ohio, SB 476, noon; for 
+information, call 6289. 
+Men's soccer vs. Detroit, 
+Hefner Soccer Fields, 7 p.m. 
+
+
+
+for Sept. 18 -24, 2003 
+
+
+
+21 Northeastern Indiana Regional 
+Support Program of the 21" 
+Century Scholars' First Annual 
+Scholar Expo, WU, 1-5 p.m.; for 
+information, call 4 1 75. 
+
+23 IPFW Book Group, A Fine 
+Balance by Rohinton Mistry, 
+KT 101, noon; guests and brown- 
+bag lunches welcome. For 
+information, call 6743. 
+Mayoral Debate with democrat 
+Mayor Richard Graham and 
+republican mayoral candidate 
+Linda Buskirk, WU Ballroom, 
+7-8 p.m.; for information, call 
+Andrew Downs, 6691. 
+
+24 College-Level Examination 
+Program (CLEP), KT 232, 
+8:30 a.m.; for information, call 
+6600. 
+
+Honors Program: Coffee house 
+and open poetry reading, KTG35, 
+7 p.m.; for information, call 6924. 
+
+Upcoming events: 
+
+September 
+
+30 Annual Blood Drive, bloodmobile 
+between CM and NF, 10 a.m- 
+3 p.m.; register in SB Students 
+Commons; for an appointment, 
+call 6284. 
+
+October 
+2 Omnibus Lecture Series: Ben 
+Vereen. "An Evening with Ben 
+Vereen." WU Ballroom, 7:30 p.m. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+Page 6 The Communicator 
+
+
+
+A d &amp;E 
+
+arts and entertainment 
+
+
+
+September 17, 2003 
+
+
+
+RB Team brings many music styles together 
+
+
+
+vCDt. 
+
+
+
+I.. 
+
+
+
+scene is a joint production by 
+1PFW students and a few of 
+their friends. 
+
+Aaron King, a.k.a. 
+"King," has teamed up with 
+some of his close friends. 
+Sonny Relue a.k.a. "Kill Time 
+MC," Tony 'Tone," guitarist 
+Ben Porter, Matt Todd, and 
+Josh Hunt to release their first 
+full album "R U Hungry?" 
+
+The RB Team, as they are 
+called, has integrated many 
+aspects of musical talent from 
+a variety of styles. The main 
+focus of their music is hip 
+hop, but they pull from all of 
+their own musical back- 
+grounds to produce songs that 
+both 
+
+
+
+The best thing about this 
+album is everything is origi- 
+nal and comes from countless 
+hours of trying to find the 
+right beats and words. 
+
+This album contains a 
+multitude of sounds includ- 
+ing traditional hip-hop, rock 
+and some freestyle. The com- 
+bination of textures produces 
+style unlike many already I 
+
+
+
+itfu 
+
+
+
+mi luding the be.U hi 
+bone, and vocals sa 
+different times. 
+
+The message: 
+songs are also easy 
+stand through the lyrics that 
+feature no violent messages or 
+much cursing. "We try to keep 
+
+
+
+
+
+
+
+
+
+
+(de variety of infl 
+ids of the RB Team 
+al IPFW students. 
+
+
+
+lead to the unique and ( 
+i group consisting of s 
+
+
+
+"J also substitute for the Fort band for 
+Wayne Philharmonic." 
+
+
+
+c clean," King said. 
+They also pull from their 
+own experiences to relate to 
+listeners. The lyrics of the 
+track "Grimy Love" explain 
+the effect from every guy' 
+
+
+
+"My dad played jazz and 
+
+live music all day ' 
+
+house," he said. 
+
+King's early interest in 
+
+music was followed by his 
+
+enrollment in FWCS middle 
+experience with "that" girl: "1 school jazz band in which he 
+love that girl but I hate that performed with local star 
+girl, I hate that girl 1 really Amanda Perez. 
+
+mis, thai girl, I love that girl In the eighth grade. King day to keep 
+
+but I hate that girl, only girl 1 and Kill Time met and sot 
+love forever ner name is after, began rhyming logethL.. 
+music." Using a karaoke machine said. "I practice trombone design engineer Bob Philips 
+
+King's love of music the two recorded their first three or four nours A dav and (483-1926). 
+began at an early age. His freestyle works. whenever I get time [play on Copies are available at 
+
+
+
+the ensemble for four years, and 
+orchestra for two years. 
+
+"1 also substitute for the 
+Fort Wayne Philharmonic," he 
+said. 
+
+Music isn't an easy area 
+
+to undertake. Countless hours 
+
+of practice are needed every- 
+
+t top perform' 
+
+"1 play everyday," King Entertai 
+
+
+
+illy different exper 
+ences and different 
+lifestyles. 
+
+King is a full time stu- 
+dent with a 2-year-old 
+son who enjoys hear- 
+ing him play the trom- 
+bone while practicing 
+and also part time |ob. 
+Guitarist Ben Porter 
+is a full time student 
+pursuing an English 
+major and has a part 
+time job. As King 
+states, "He is fresh." 
+
+Kill Time is not an 
+IPFW student but pur- 
+sues his full time career 
+as an airplane engine 
+inspector. Their busi- 
+ness colleagues Josh 
+Hunt and Matt Todd 
+are both full time 
+employees in their 
+respective business 
+fields and handle all 
+the book-work for the 
+
+
+
+Tour that featured 
+
+N.E.R.D., The Roots, 
+
+Skills, and Tahb Kweh 
+
+"We got to meet Skills 
+
+after the concert and 
+
+gave him two CDs," 
+
+King stated. 
+
+i While away the two 
+
+- traveled into Canada 
+
+where they were kept in 
+
+immigration due to lack 
+
+of proper identification. 
+
+"They let us out of the 
+
+country without a problem, 
+
+but wouldn't let us back in," 
+
+King exclaimed. 
+
+The RB Team performs 
+every Wednesday night at 
+Legends Sports Bar, which 
+consistently draws a crowd of 
+over 70 people, and will be 
+featured during a fashion 
+show at Club Ink with pro- 
+moter Jazz on October 4. 
+
+Their CD "R U Hungry?" 
+
+is produced under their self- 
+
+ned label. Grimy Kid 
+
+by 20-20 Sound 
+
+
+
+father 
+
+introduced him to the t 
+
+
+
+
+
+
+Overall their recording ™y Roland MC-303 
+
+r has spanned five years Machine. 
+
+id on. He has since'been All the members 
+
+
+
+
+
+
+Wooden Nickel, from King by 
+calling 705-KTNG(5464), or at 
+Legends Wednesday nights. 
+
+
+
+Cover 
+
+continued from Page One 
+
+have been House of Blues 
+and Pierre's. They love get- 
+ting the chance to play out- 
+door venues like the one at 
+IPFW. 
+
+"There's just nothing 
+like playing outside under 
+the stars on a gorgeous night 
+like tonigh," remarked vio- 
+linist Jimmy De Martini. 
+
+The band is officially 
+sanctioned by Dave 
+Matthews Band, and they 
+give a portion of all their 
+profits to Bama Works, 
+Sweet Relief, and the 
+Rainforest Action Network, ,,. ,. , 
+some of the non-profit organ- Violinist Jimmy De Martini and vocalist David Koon play dur- 
+izations also supported by ing their band's concert Friday night at the Walb amphitheater 
+the original Dave Matthews sponsored by the Student Activities Board. Over 400 people 
+in attendance for the show, 
+that opportunity down, but it'd be during their shows. 
+pretty nerve-wracking," said lead "DMB fans are music fans 
+
+vocalist David Koon. overall and generally accept the 
+
+When they aren't touring, they new stuff we throw at them. A lot 
+spend their free-time writing some of the songs 1 write are influenced 
+of the new music, and tweaking by Dave, so they are along the 
+some of the classn tones thev play same type of songs," said Koon. 
+
+
+
+Community 
+Calendar 
+
+
+
+Deportment of Fine Arts presents; the artistry of 
+Mee Kung Shim, "Garden Story_. Oils and Mixed 
+Medio Pointings" On display in the Visual Arts 
+Building gallery from Sept. 2 through Oct. 10 
+Weekdays: 8 a.m. to 9 p.m., weekends: 10 a.m 
+to 5 p.m. Call 481-6705 for more information. 
+
+
+
+The School of Visual and Performing Arts and the 
+Department of Theatre will sponsor a bus trip to 
+Chicago's Oriental Ford Theatre to see th( 
+Broadway musical "Hairspray" n Saturday, 
+January 3. Bus will leave campus at 8:00 a.m. and 
+arrive back at 11 .00 p.m. Upon arrival at 
+Chicago, participants will have ample time for 
+lunch, shopping, and dinner, with a 2:00 matinee 
+of the play. Price is $135 per person. Call 481 
+6977 for more information, or to sign up. 
+
+
+
+United Native American Students also present the 
+Unity Day Picnic, "Sharing of Cultures" 
+Sunday, September 14 from 1-6 p.m. in 
+Walb Student Union Ballroom. The Kevin Locke 
+Trio will be giving donee and flute workshops 
+Admission is free and open to the public. First 
+Presbyterian Theatre presents "Spinning Into 
+Butter" by Rebecca Gilman. Performances are 
+Fridays and Saturdays, Sept. 5, 6, 12. 13, 19, 
+20 and Sunday, Sept. 14 with a preview per- 
+formance on Thursday, Sept. 4 at 7:30. Theatre 
+located at 300 W. Wayne Street. Call 422-6329 
+for tickets and information. 
+
+
+
+Fort Wayne Children's Zoo presents "Storytime 
+at the Zoo" on Aug. 26, Sept. 3, 11, 16, 24, 
+Oct. 2, and 7 at 10:30 a.m. Stories appropriate 
+for children ages 6 and under. Participants will 
+meet at the zoo entrance. Admission is $6.50 for 
+adults, and $4 . 50 for children and sen 
+Children under age two are admitted free. Call 
+427-6808 for more information. 
+
+
+
+The Fort Wayne Ballet presents "Frankenstein" 
+Friday and Saturday, Sept. 26 and 27, at 7:00 
+p.m. Running as part of the Ballet's "Blue Jean 
+Night" series, Frankenstein" is "based on - 
+futurist adaption of the novel by Mary Shelley 
+Tickets are $15 for adults, $10 seniors, stu 
+dents, and children. The Sept. 26 performanc 
+will be preceded by a pre-curtain speech in th 
+Ian Rolland Gallery from 6:15 to 6:45. Following 
+the Sept. 27 performance will be o celebration 
+party from 9:00 to 11:00 p.m. 
+
+The Fort Wayne Botanical Conservatory present: 
+"Pot A Plant Day". Visit the gardens on Sept. 20, 
+from 10:00 a.m. to 5:00 p.m., and receive a free 
+cool-weather annual "Calypso Orange" . Admission 
+is $4 for adults, and $2 for children. Call 427 
+6454 for more information. 
+
+
+
+If you are a non-profit or arts and entertainment 
+organization and you would like your event dis- 
+played inthe Community Calendar, please send 
+information at least two weeks in advance to 
+Andrew Welfle, Arts Editor, The Communicator. 
+Fax: 481-6045, email: stupaper@ipfw.edu 
+
+
+
+
+Band, 
+
+Although they've neve 
+played on-stage with their 
+when asked if the opportunity 
+arose would they take it, they 
+responded with a timid round of 
+agreement. 
+
+"1 guess you can't really I 
+
+
+
+better t 
+
+groups I know Northside seniors Maggie Grimme, Sarah Brimm 
+and they aren't and Jennifer Church relax as they listen to the 
+getting any- Dave Matthews Cover Band. 
+
+where because 
+
+they are too lazy to get out there looking forward to being here 
+
+and sell themselves," said Koon. again in the future. 
+
+De martini added, "Get used "The people at IPFW are awe- 
+
+to eating pizza, a lot of it." some. They are friendly, helpful 
+
+They mentioned how much and really cool," remarked drum- 
+they enjoyed being at IPFW and are mer Lmce Tilton. 
+
+
+
+Don't Forget... 
+
+
+
+The Communicator is still accepting stories for the 
+
+"50 Bucks for 50 Words" 
+
+contest! 
+
+To submit stories, or for more information, 
+
+email s1upaper@ipfw.edu 
+
+or drop by The Communicator office at Walb 215 
+
+
+
+September 17,2003 
+
+
+
+A.&amp;.E 
+
+
+
+The Communicator Page 7 
+
+
+
+singer, and 
+
+
+
+pauses and premature cutaways guest." As ; 
+
+with the sound cues thai were choreographer, Derrick" Woods 
+
+noticeable in the slum-. At one brought to life the zool-suited 
+
+"Judy &amp; Me" got off to a well P oin ' duri ng llu ' Rrs' acl Woods, Cab Calloway in a very white, 
+
+attended, though technically invr so £""'*»"&gt; and '" charae- but audibly accurate version of 
+
+rocky start on Saturday night. ter ' ^ cn ' ' &gt; ll '' ,lu ' sound Uvhni- "Minnie the Moodier". Alter his 
+
+After a short introduction bv c,an kn " w lhat he Llied ll P ,lle number, Rhonda Woods reap- 
+
+... .i.ci^ t O g w j,h ,-, mono- neared as bVttv Hoop, and sang - 
+
+giving. The actress link- bit of I Wanna Be Loved E 
+
+chuckled You (Boop-Boo Bee Doop)' ( . 
+
+
+
+jgh not 
+
+and announced, I am nearly as creepy as |oel Cray. He 
+Rhonda Woods!" She proceeded and his s^Ut as Li/.i Mmel'li (as 
+to sing Sondheims "Send in the Sally Howies) did a tunny dai 
+Clowns" from "A Little Night to "Money, Money," whicn 
+Music." Personally, I liked brought tears of laughter to the 
+
+
+
+
+better than audience's faces. 
+
+After a few more characters 
+and songs (such as Barbra 
+Streisand in Veutl, singing "Papa, 
+
+modern era of mnvipe aiiH r*n Win Moat- Uo?"i \ai™a* 
+
+The lights 
+
+Woods' dressed 
+
+Davis, saying in a 
+
+"They say, 'Bette! Don't be st 
+
+r'essed The HARHD on Joan CRAW. 
+
+■ntleman FORI ID!' I sav to them "Why not? Although few actual students 
+
+dreamily Shes DHEAD! Good!" were in attendance, the 
+
+After exiting tl 
+
+change into her ne&gt; 
+
+Derrick Woods, the tribute artist's talented individual who is trying 
+brother, entered. His presence in to keep alive the Golden Age of 
+the show was unbeknownst to Entertainment, which is losing 
+
+
+
+Woods combined the pauses 
+in between words that was 
+characteristic of Garland in 
+her later years with 
+
+
+
+"Wizard of Oz." 
+
+There were a couple 
+technical problems such 
+
+
+
+'Heavier Things' fall from John Mayer's new CD 
+
+
+
+By Kurtis Meyer 
+
+
+
+■ forced to listen to him in their 
+jirlfriends' cars. 
+
+superior Stevie ' Ray 
+
+
+
+major label release of new material, 
+proves that a fall-out 
+
+In countless 
+Mayer has discussed his love for 
+, especially tunes from 
+
+
+
+.-"Only Heart,"' -could 
+
+
+
+have had a spot on Mayer's- 'covet- 
+ed Hall and Oak's greatest hits CD. 
+The intro to "Split Screen 
+
+
+
+i.ould be topped, but the first sin- 
+gle "Bigger Than My Body," just 
+might match it- with it-, standard 
+Mayer airy chorus followed by 
+some hard rockin' strums on the 
+guitar, this tune won't leave your 
+bead anytin 
+
+
+
+The Communicator 
+
+and Rave Motion Pictures 
+Movie Quote Contest 
+
+Congratulations to Ashley Geron. Last week's quotes were from 
+the movies The Blues Brothers, Sister Act and Old School. Enjoy your $Z5 
+in gift certificates to Rave Motion Pictures. 
+
+Want to be next? Here's your chance. We give three movie quotes 
+of the week. If you guess which movies the movie quotes are originally 
+from, we'll enter you into a drawing for $25 in gift certificates to Rave 
+Motion Pictures located in Jefferson Point Shopping Plaza 
+
+E-mail or write the movies involved and send yoursuiftw#fS\o 
+tupaperSJipfw.edu or drop them off at Walb Union Suite 21 s i nm, ..[••■ 
+due by 1 p.m. Monday. 
+
+
+
+vogue, vogue. 
+
+After the Material Girl horn- 
+
+
+
+age subs, 
+
+most &lt; hill- mem. mg 
+.itk'ction.itc tune on 
+the album. What 
+makes this one so 
+great is that the 
+lyrics keep up with 
+
+take a few obvious- 
+ly pushed rhvmt"-. 
+("so tired, by the 
+
+
+
+r goes into the lir. 
+
+
+
+b\ th- 
+ill bes 
+
+
+
+Gates: Greatest Hit--" changed hi- 
+
+life. 
+
+Listen to his live CD "Any 
+Given Thursday" and you will hear 
+
+bits and pieces ot such cheeky fare 
+as "Girls Just Wanna Have Fun" 
+and "Let's Hear It For the Boys." 
+He constantly defends the 
+
+
+
+"'Come Back to 
+Bed' is so good it 
+could have bet 
+written by Pt 
+McCartney o, 
+bad day." 
+
+
+
+the album's time 
+prosper in 
+
+concert. Mayer's out- 
+ros on Heavier Things 
+an.: unbelievable. 
+
+The "don't hold 
+your love over my 
+head" chant at the end 
+of the Jeff Buckley- 
+
+
+
+
+than the light fare that popped up direction. 
+
+It is both smarter and more 
+aried than his debut. And of 
+let your head hit course, it has an aura of self-confi- 
+the bed without my hand behind dence that is sure to expand with 
+: " " from the Grammy-winning his growing i ' " 
+
+
+
+
+
+
+"Clarity" has a Blackalk 
+hop feel to it. The beginning of 
+"New Deep" mirror-- the beginning 
+of the Dave Matthews Band song, 
+
+influences 
+starts out with a very techno beat, 
+then jumps into a chorus that 
+seems like a mix between Srine &amp; 
+The Police, and oddly enough, that 
+"Strangers Like Me' song by Phil 
+
+
+
+"You: 
+
+does drop s 
+
+
+
+\i,i\ it asks, "how 
+
+I think I need always coi 
+
+batteries'," admitting that, 
+
+
+
+Wonderland," he the album is a p 
+
+this. It features M. 
+
+over shoulder, wit 
+
+He wants us 
+
+posed vulnerability and suscepti- 
+
+
+
+In "Something's Missing," 
+
+
+
+example of 
+
+guitar slung 
+
+
+
+i off i 
+
+
+
+shown in "Split Screen Sadness" you." 
+
+when he says to his estranged Love him 
+
+lover, "you know you're not a quick May* 
+
+
+
+: and so should 
+
+
+
+■uote 1 
+
+"Two mice fell into a bowl of c 
+up and drowned. The second m 
+
+
+
+i. The first mouse quickly gave 
+2 fought and struggled until he 
+
+
+
+i into butter and he crawled his way out. I a 
+
+
+
+Juote 2 
+
+"You almost had me? You never had me - you never had your car. 
+
+. Granny shiftin' not double dutchin' like you should. You're 
+lucky that hundred shot of NOS didn't blow the welds on the 
+intake! Now me and the mad scientist gotta rip apart the block, 
+and replace the piston rings you fried." 
+
+
+
+"Tell Victor that Ramon—the fella he met about a week ago - tell 
+him that Ramon went to the clinic today, and I found out that I 
+have, um, herpes simplex 10, and I think Victor should go check 
+himself out with his physician to make sure everything is fine 
+before things start falling off on the man." 
+
+Quote 1 is from: 
+
+
+
+be around for 
+while. He"knows he's not going 
+anywhere, and "Heavier Things 
+
+
+
+iQuote 3 is from: 
+
+
+
+Classifieds Section 
+
+
+
+On Campus 
+
+
+
+&gt;• Ikurd of Directors should send a 
+
+
+
+jYour nam 
+jEmaU: 
+jAddress: 
+:Phone: 
+
+
+
+Members of The Communicator are not eligible to partici-; 
+pate. One entry per week is allowed, and winners can only! 
+o once a month. 
+
+
+
+Travel 
+
+Spring Break 2004. Travel with STS, America's #1 Student Tour Operator. Jamaica, Cancun, 
+Acapulco, Bahamas. Florida. Hiring campus reps. Call for discounts: 800-648-4849 or www.ststrav- 
+el.com 
+
+Spring Break '04 with StLidentCity.com and Maxim Magazine! Get hooked up with Free Trips, Cash, and VTP 
+Status as. a Campus Rep! Choose from 15 of the hottest destinations. Book early for FREE MEALS, FREE 
+DRINKS and 1 5(}9f Lowest Price Guarantee! To reserve online or view our Photo Gallery, Visit www.studentci- 
+ty.com orCall L-888£PRINGBRBAK! NovSsi 
+
+
+
+r] ravemotionpictures 
+
+
+
+[ the future: now showing ] 
+
+RMP Jefferson Pointe 18 
+
+4250 W Jefferson Blvd 
+
+Fort Wayne IN 46804 
+
+Movie Listings: 260-432-1732 
+
+www.ravemotionpictures.com 
+
+
+
+Page 8 The Communicator 
+
+
+
+Features 
+
+
+
+September 17, 2003 
+
+
+
+Kevin 
+
+
+
+
+
+
+Locke 
+
+
+F ill 
+
+
+HJE£|.V 
+
+
+Trio 
+
+
+
+
+
+
+The Kevin Locke Trio 
+
+
+wk m \ 1 
+
+
+
+
+presented a concert on 
+
+
+■ ■ 
+
+
+
+
+Saturday, Sept. 13 at the 
+Neff Music Hall. 
+
+
+■ ■«■ 
+
+
+
+
+Above, Kevin Locke 
+
+
+
+
+^ "rr , '_^ii 
+
+
+brings some audience 
+members on stage to 
+attempt to parrot his tal- 
+ents. 
+
+
+— -.. — =— '""^T" 
+
+
+i 
+
+
+
+
+&lt;""•« I"*" &amp; *» 
+
+
+
+
+
+
+Below, Kevin, in 
+
+
+^^M 
+
+
+
+
+American Indian dress, 
+
+
+
+
+
+
+performs for the audi- 
+
+
+
+
+
+
+The concert was pre- 
+
+
+
+
+
+
+sented by United Native 
+
+
+
+
+
+
+American Students along 
+Multicultual Services, 
+
+
+
+
+i^3 1 
+
+
+IPGSA, Hispanos 
+Unidos and Bahi of Fort 
+
+
+fc &amp;J 
+
+
+
+
+Wayne. 
+
+On Saturday, UNAS is 
+presenting Jorge Estevez, 
+a curator at the 
+Smthsonian American 
+
+
+■ r Cm 
+
+
+
+
+Museum. His lecture will 
+
+
+
+
+
+
+take place from 7 to 9 
+
+
+
+
+
+
+p.m. in Classroom- 
+Medical Room 159. 
+
+
+^■t Vk W^M 
+
+
+fH 'r^H 
+
+
+
+Eind officials are encouraging 
+Hoosiers lo write .1 persona] note 
+or memory about the governor in .1 
+memorial book. 
+
+Much of the state was stunned 
+by O'Bannon's death. !n the days 
+following his stroke, media reports 
+suggested he was steadily Improv- 
+ing. 
+
+Andrew Downs, the director 
+of the Mike Downs Center for 
+Indiana Politics, said il was a sad 
+day (or the state. 
+
+"It's always a shame when a 
+person passes on," he said. 
+
+Local politics are already 
+being affected. On Saturday, Fort 
+Wayne mayor Graham Richard 
+asked for a moratorium on political 
+advertisements locally until the 
+governor's funeral service "out of 
+respect for the life and work of 
+Governor Frank O'Bannon." 
+
+Saying they are heeding the 
+
+
+
+Governor 
+
+continued from Page One 
+
+words of new Governor Joe service most of his adult life. He 
+
+Kernan, the Democrat Party of spent two years in the United 
+
+Indiana's Third Congressional States Air Force and then received 
+
+District announced there will be a his law degree through Indiana 
+
+memorial service for area residents University. 
+
+to attend "lo celebrate the life" of After working in his home- 
+
+O'Bannon. town as an attorney, he was elected 
+
+The heart of all residents in to the Statehouse and eventually 
+
+northeast Indiana go out to the spent 11 years as the Democratic 
+
+O'Bannon family,*' Dennis Troop floor leader; along with two as the 
+
+with the Democratic Party said in a Senate Finance Chairman. 
+press release. "Indiana has lost one He was a lieutenant governor 
+
+of its great native sons," he added. with Evan Bayh for eight years and 
+
+That service will take place at then was elected twice as governor 
+
+the Friendship Baptist Church, 451 himself. 
+East Douglas Avenue. He is survived by his wife, 
+
+Downs said he has a lot of Judy, three children and five 
+
+confidence in Keman. grandchildren. 
+
+"1 have a great deal of respect. Private funeral ceremony's 
+
+for Joe Kernan. I think he's quite will be conduced in Corydon, his 
+
+capable of being governor," he said, hometown, and later his body will 
+
+O'Bannon died at be cremated. The ashes will be 
+
+Northwestern Memorial Hospital placed in the Cedar Hill Cemetery 
+
+in Chicago. He had been in public in Corydon. 
+
+
+
+WORK 
+
+
+
+It mkm sgsagggMi 
+
+-FLEXIBLE HOURS 
+
+- FT/ FT OPENINGS 
+
+- CUSTOMER SERVICE SALES 
+
+- NO DOOR TO DOOR 
+
+- NO TELEMARKETING 
+
+- NO EXPERIENCE NEEDED 
+
+- CONDITIONS APPLY 
+
+- ALL AGES 18 t 
+
+$$ Fun Work $$ 
+
+www.workforsrudents.com 
+
+(260)471-6113 
+
+
+
+CareerFest, Job 
+Fair on Sept. 18 
+
+
+
+Fair this week. 
+
+Flow do college •-Indents begin 
+their careers? Many students hike 
+that first step by attending job fairs 
+right on their campus. IPFW's 
+office of Academic Counseling and 
+Career Services (ACCS) is sponsor- 
+ing its first CareerFest and job fair 
+on Thursday, Sept. 18, from 10 a.m. 
+to 3 p.m. in the Walb Student 
+Union Ballroom. 
+
+Cathy McGinnis, ACCS employ- 
+ment services coordinator, says so 
+far 20 local and area employers 
+have committed to taking part in 
+
+
+
+the fair. The office has held similar 
+events in the past during the 
+spring semester, but McGinnis says 
+they decided to move it to the fall 
+because "employers say they do a 
+lot of recruiting in the fall. For 
+example, most accounting firms 
+recruit this time of year." 
+
+The event, which is free to job 
+seekers, is designed for IPFW stu- 
+dents, alumni, and the public. 
+McGinnis says this is a great 
+opportunity for employers to meet 
+qualified candidates for full or 
+part-time degreed positions or 
+internships, adding there is still 
+time for companies to register. 
+
+
+
+Relationships 101 
+
+
+
+IPFW will host "Relationships 
+101," a free 10-week wellness 
+workshop series, from Sept. 18 
+through Nov. 20. The Sept. 18 
+workshop, "Shaping Healthy 
+Kel.itmnships: Singles to Seniors," 
+will be in Walb Student Union, 
+Room 224, from noon to 1:15 p.m. 
+The first workshop will discuss 
+the crucial ingredients to healthy 
+relationships and include tips to 
+keep the relationship exciting and 
+fulfilling. 
+
+Panelists include Rachelle Darabi, 
+director of the IPFW Center for 
+Academic Support and 
+
+
+
+Advancement; Carl Moellering, 
+president and CEO of Moellering 
+Management Company; Melissa 
+Montana, general manager of 
+WLAB-FM; Mike Nutter, general 
+manager of the Fort Wayne 
+Wizards; and Bob Yawberg, retired 
+pastor of Broadway Christian 
+Church. 
+
+A simple lunch will be served at 
+noon. Reservations are not neces- 
+
+For more information, contact 
+Judy Tillapaugh, IPFW Wellness 
+Coordinator, at 260-481-6647 or e- 
+mail tillapaugh@ipfw.edu. 
+
+
+
+Miss IPFW contest 
+
+
+
+IPFW will host "Relationships 
+101," a free 10-week wellness 
+workshop series, from Sept. 18 
+through Nov. 20. The Sept. 18 
+workshop, "Shaping Healthy 
+Relationships; Singles to Seniors," 
+will be in Walb Student Union, 
+Room 224, from noon to 1:15 p.m. 
+The first workshop will discuss 
+the crucial ingredients to healthy 
+relationships and include tips to 
+keep the relationship exciting and 
+fulfilling. 
+
+Panelists include Rachelle Darabi, 
+director of the IPFW Center for 
+Academic Support and 
+
+
+
+Advancement; Carl Moellering, 
+president and CEO of Moellering 
+Management Company; Melissa 
+Montana, general manager of 
+WLAB-FM; Mike Nutter, general 
+manager of the Fort Wayne 
+Wizards; and Bob Yawberg, retired 
+pastor of Broadway Christian 
+
+A simple lunch will be served at 
+noon. Reservations are not neces- 
+
+For more information, contact 
+Judy Tillapaugh, IPFW Wellness 
+Coordinator, at 260-481-6647 or e- 
+mail tillapaugh@ipfw.edu. 
+
+
+
+The 
+Communicator 
+
+
+
+Advertise with us. BUY 1/8 PAGE OR 
+
+LARGER FOR 3 CONSECUTIVE WEEKS 
+
+GET 4TH &amp; 5TH WEEK 35% OFF 
+
+Contact Tim Kanyuh at 481-6583 or at 
+stupaper.ipfw.edu 
+
+
+
+Interested in 
+
+Sports Writing? 
+
+Feature Writing? 
+
+News Writing? 
+
+Photography? 
+
+Online media? 
+
+Get in contact with us at 
+
+481-6584 or via e-mail at 
+
+stupaper® ipfw.edu 
+
+
+
+September 17, 2003 
+
+
+
+Features 
+
+
+
+The Communicator Page 9 
+
+
+
+First Person 
+
+
+
+My car, her name is Carly 
+
+
+
+By Katie Pruitt 
+
+The Communicator 
+
+I am not the sort of person 
+who likes cars or really knows any- 
+thing about them. I like my car and 
+I know how I feel about it. ■ 
+
+Carly was my first car and is, 
+to date, the only one I've ever 
+owned. She was my dad's car, and 
+when he decided to hand her over 
+to me, I had to learn how to drive a 
+manual transmission. 
+
+It was Spring Break 2000, just 
+a couple of months before high 
+school graduation. I was 18 and 
+full of confidence. The stick shift 
+took care of that. Over the course 
+of that one week, my self-assurance 
+slowly dissipated until i was bare- 
+ly a shell of my cocky self. 
+
+There is a certain rhythm 
+involved with driving a stick, and I 
+am basically rhythm-less. Why 
+can't 1 just take my foot off the 
+clutch and then hit the gas? Why 
+do they have to happen simultane- 
+
+Gradually, ! developed a feel 
+for the car and my clutch-gas tran- 
+sitions became smoother. But in 
+the mean time, I became very 
+familiar with stalling. 
+
+When you stall a manual 
+transmission (I've never stalled an 
+automatic), the car doesn't neces- 
+sarily stop moving. With my criti- 
+cal father, whom I desperately 
+wanted to impress, sitting next to 
+me, I panicked frequently. Not a 
+day went by that didn't end with 
+my screaming "I give up!" Carly 
+made me earn the right to drive 
+her. When you work that hard for 
+something, it means more. 
+
+I didn't name her until I knew 
+I could keep her. By the time I had 
+mastered driving that car, I knew 
+there was no other car in the world 
+for me. I call her Carly for two 
+equally silly reasons. 
+
+First, I thought it was an 
+amusing play on words that could 
+hide my real reason for naming her 
+Carly. There is a character on a 
+soap opera that 1 watch named 
+Carly. She is feisty and tempera- 
+mental and reminds me of my car; 
+she's loyal without being terribly 
+dependable. It took me awhile to 
+appreciate her, too, but once she 
+wormed her way into my heart, 
+she was there to stay. 
+
+Whenever something breaks 
+or quits working and she has to go 
+to the mechanic, I get an anxious 
+feeling deep in my gut. I know that 
+one of these times, she's not com- 
+ing home. I'm afraid to answer the 
+phone. Denial is comfortable; real- 
+
+I try to make the most of what 
+time I do have with Carly, but I 
+honestly can't imagine my life 
+without her Getting to know and 
+understand Carly hasn't been easy, 
+and I don't know if I could ever get 
+as close to another car. 
+
+With a stick shift, the driver 
+feels more in control because more 
+action is required of him or her. I 
+suppose people who drive auto- 
+
+
+
+
+at IPFW majoring in 
+opy editor for The Communicator 
+
+
+
+braking. I like control Carly gives 
+me that, or she lets me think I'm in 
+control, at least. 
+
+Carly has flaws. I'm not blind 
+to them, and I used to find her infe- 
+
+
+
+she takes me to and from the places 
+1 go but she is herself a place I go. I 
+love driving in the rain. I am pro- 
+tected from the elements, but at the 
+same time, I am right in them. I 
+can feel the impact of the raindrops 
+
+
+
+Carly is somewhat of an 
+inspiration to me ... I've 
+yet to encounter a day 
+when she refused to start. 
+
+
+
+They distin- 
+guish her from 
+all the other 
+gray Honda 
+Civics in the world. It's actually 
+difficult for me to recall all the 
+things wrong with Carly because I 
+am so used to them and they don't 
+really bother me. It's as if I had to 
+list all the things about my best 
+friend I'd change if I could — what's 
+the point? She is who she is. 
+
+I talk to Carly more than I talk 
+to most people I know. When I 
+greet her every morning, I say, 
+"Good morning, Carly. Ready to 
+go?" And she never is. She usual- 
+ly needs a couple minutes to warm 
+up so I start her and then go back 
+inside. After a particularly tough 
+day at work or school, I am very 
+glad to see Carly. I get in, sigh, and 
+moan, "What a day." Then she 
+takes me home, where I leave her 
+in her spot next to the garage. 
+
+Carly is somewhat of an inspi- 
+ration to me. I don't know many 
+people tougher than my car. 
+Seventeen is pretty old for a car, 
+and although she gets sick more 
+often than she used to, she's still in 
+pretty good shape. I've yet to 
+encounter a day when she refused 
+to start. Some days are easier than 
+others, but she always starts even- 
+tually. 
+
+I think the people (and cars) 
+who mean the most to us are the 
+ones who teach us things about 
+life. 
+
+Carly has taught me the virtue 
+of patience. I've spent many chilly 
+nights in empty parking lots wait- 
+ing for Carly to warm up. I used to 
+try to leave right after I started the 
+car, but by now, I know it's just not 
+worth it. The engine needs time to 
+warm up enough so that the gears 
+will shift. I don't rush her any- 
+
+The paradox of Carly is that 
+
+
+
+the . 
+
+
+
+bul 
+
+
+
+I'm safe from 
+them. Rain 
+
+affects me like no 
+other weather 
+can. A slow driz- 
+zle puts me in my 
+favorite mood — 
+pensive, observing, aware of 
+everyone and everything that has 
+nothing to do with me. 
+Experiencing the rain from my car 
+is the best way because I can sit in 
+traffic and look out at the world 
+through the windshield, and while 
+I'm actually out in the world, it 
+can't really touch me. It's not the 
+same as watching the rain from my 
+bedroom window. The house feels 
+too excluded and distant. Standing 
+in the rain destroys the experience 
+because I am too distracted by the 
+wetness to see the rain. Inside 
+Orlv, the balance is right, and lean 
+just watch the rain. 
+
+Sometimes I strive to be invis- 
+ible, and Carly helps me with that. 
+She's a small, gray car, and there's 
+nothing flashy about her. 
+
+She blends well with traffic, 
+and I start to get a feeling of 
+anonymity, of being just one of 
+many, as I drive down whatever 
+street on the way to wherever I'm 
+going. 
+
+Driving gives me a sensation 
+of society like nothing else I do. In 
+traffic, 1 can gain some much-need- 
+ed perspective. Inside one car in a 
+long line, I realize that the world is 
+much bigger than I am, and while I 
+am indeed part of it, I'm just a 
+small part. I watch all the other 
+people inside their cars and won- 
+der where they're going. They 
+smoke, talk on the phone, put on 
+makeup, or drum their fingers 
+impatiently on the steering wheel 
+
+. I'm in my car singing "You 
+May Be Right," and I think I must 
+be two-hundred times happier 
+than these people who can't sit still 
+,it .i stoplight. Too bad they don't 
+have someone like Carly. 
+
+
+
+Have a First Person 
+
+story to tell? Contact 
+
+The Communicator at 
+
+stupaper@ipfw.edu or 
+
+call 481-6584 
+
+
+
+for what it's worth... 
+the jayson blair witch project 
+
+
+
+by scott m. lawson 
+
+
+
+As a journalist, I'd like to thank 
+Jayson Blair. 
+
+For so long, I fretted about 
+things like "getting facts straight" 
+and "getting quotes accurate." 
+Heck, I've spent a lot of valuable 
+time re-listening to interviews to 
+ensure I didn't write "they're" 
+when my source actually said "they 
+
+And to think, this entire time it 
+was completely ethical just to 
+make it all up. 
+
+Had I known it was permissible 
+to fabricate, I would have won the 
+Pulitzer by now. My stories would 
+have been much more intriguing 
+and insightful. 
+
+Dateline: NASHVILLE -- Former 
+
+Vice President Al Gore recalled the 
+misunderstanding that took place 
+while he was running for president 
+in 20(10 about his "helping to invent 
+the internet." He admitted he 
+exaggerated his role. 
+
+"I didn't have much to do with 
+the invention, but I was one of the 
+first two individuals to participate 
+in what would become known as - 
+- 'cybersex'," he said uncomfort- 
+ably today. 
+
+When pressed (ewwww) for 
+details, Gore continued. 
+
+"It's really kinda funny, really. 
+Apparently, one of the real inven- 
+tors of the Internet was in the room 
+next to me. He's named Chuck - 
+he's a real practical 
+joker. He told me 
+in the 'chat room' 
+wed created that 
+he was a naughty 
+college girl. He 
+
+ture, and I'll tell 
+you, I thought she 
+was a hot. So I par- 
+ticipated, because 
+boy was I turned 
+on," he said. 
+
+After 15 minutes, Gore learned 
+the truth when Chuck started 
+knocking on the door. 
+
+"Boy, was I embarrassed when 1 
+found out. He'd sent me a picture 
+of Drew Barrymore. I thought 1 
+recognized her. I even told her so 
+during the ... experience. Chuck, 
+he sure thought it was a hoot," he 
+
+Gore doesn't regret the situa- 
+
+"I like to think I helped baptize 
+America's newest favorite pas- 
+time," he concluded. 
+
+But, wait, I don't have to keep it 
+
+to small-time personality features. 
+I could "enhance" world events. 
+
+Dateline: PARIS - France, in 
+what it called an action of "pre- 
+emptive surrender" turned over its 
+government to the Indian Ocean 
+island chain of The Seychelles 
+
+"We have heard the people of 
+The Seychelles have at least a few 
+ships and aircraft, and we hope we 
+will appease them in our actions," 
+French President Jacques Chirac 
+said. 
+
+The government of The 
+Seychelles, based in Mahe, was 
+surprised by their quick and unan- 
+ticipated pre-emptive victory. 
+
+"I've never been to Europe. I 
+guess it'll be nice to go there some- 
+time," Mahe resident Sy Goddard 
+said as he iistened to a Bob Marley 
+compact disc. 
+
+
+
+
+mission was unclassified. 
+
+"We felt proud to do our duty," 
+Captain Rum Morgan said. His 
+boat, The Good Ship Lollipop, is 
+credited with single-missilly dis- 
+mantling Iraqi military had guys. 
+
+"But it's not a boat, my fricndly- 
+and-intelligent journalist, 11 Captain 
+Morgan told me, a friendly-and- 
+intelligenl journalist who likes to 
+be corrected as long as I'm still por- 
+trayed as intelligent, 
+
+
+
+"It's 
+
+
+
+France, in xvhat it 
+called an action of 
+"pre-emptive surren- 
+der" turned its gov- 
+ernment over to the 
+Indian Ocean island 
+chain of The 
+Seychelles today. 
+
+
+
+■ the difference between a ship and 
+a boat. A submarine is a boat; a 
+dingy is a boat. Hut The Good Ship 
+Lollipop, she's a ship," Captain 
+Morgan said as he offered me a 
+drink of some kind of spicy alco- 
+hol. 
+
+Wow. I've got this career-path 
+down pat. Everyone will want to 
+hire me. Next year's contest is 
+already over. I win 
+the Pulitzer -- for 
+either my Gore 
+story, my article 
+about Ship Lollipop 
+
+
+
+,&lt;Uh(,od. 
+
+
+
+Dateline: HEAVEN 
+-- God conceded 
+Wednesday that He 
+really did put the 
+Boston Red Sox on his Shit List 
+after they sold Babe Ruth to New 
+York. 
+
+"It wasn't so much a curse," The 
+Almighty explained. "More like an 
+arrangement I came to with some 
+souls from the Boston area who 
+were friends with The Babe." 
+
+Yep. Just give me the Pulit/er 
+and a seven-figure book deal. For 
+journalists and writers, that is just 
+more salt in the wound. Jayson 
+Blair is now writing something, 
+and some publishing house will 
+buy it. 
+
+One of the steps of success in 
+writing is publishing a manuscript, 
+any manuscript. It is tantamount 
+to being on a professional athletic 
+team that makes it to the playoffs 
+(the champion wins the Pulitzer -- 
+awkward to wear on your finger, 
+but worthwhile). 
+
+Every serious journalist loses 
+because of Blair, and Blair wins 
+again. Sure, his credibility is 
+diminished, but not his bank 
+
+I'd like to thank Jayson Blair. I 
+look forward to buying his heart- 
+felt book which I'm sure will be 
+filled with fictionalized heartfelt 
+feelings of his remorse. I'd be 
+tempted to take his novel to one of 
+his signing appearances. 
+
+I'm curious if he could still 
+autograph my copy of his book 
+after I jam it straight up his ass. 
+
+Al Gore knows a practical joker 
+named Chuck who would think 
+that was a hoot. 
+
+
+
+coming soon: 
+
+www.ipfwcommunicator.org 
+www.ipfwcommunicator.org 
+
+getting wired. 
+
+
+
+Page 1 The Communicator 
+
+
+
+The Willis Bridge 
+
+
+
+September 17,2003 
+
+
+
+
+
+People look on to the newly dedicated Willis Family Bridge 
+
+Willis 
+
+Continued from Page One 
+
+few years ngo, lie sold Hint busi- "It in fact symbolizes the connec- 
+
+ness to General Dynamics. Hon between people and educa- 
+
+Me now lias a new pet project; tior This bridge is an icon Arid it 
+
+Fourth Wave. It is a business trying will symbolize t 
+
+in .si, iv on tin- cutting edge, WarteU between this great 
+
+said. IPFW is the same way, the the City of Fort Wayn. 
+
+chancellor noted, said. 
+
+The bridge was referred to He said the connecti 
+
+partially as a physical structure, future is growth in educi 
+
+but most of the about ten speakers nomic development an( 
+
+referred to it in an almost spiritual civilization better. He credited group were led by childi 
+
+fashion. Wartell's leadership with bringing attend the IFFW day care facility 
+
+
+
+and partnership with Tort Wayne 
+"Education is my personal 
+passion ... it is the goal of my fam- 
+ily and our Fourth Wave that Fort 
+
+Harris Wayne become a world class center 
+of educational excellence," Harris 
+
+for the explained. 
+
+n, eco- After the ceremony that lasted 
+
+naking about 45 minutes, the adults of the 
+ho 
+
+
+
+W- 
+
+
+
+-91^1 Hjjj 
+
+
+
+Youngster Jessica Clemens looks to balloons as they z 
+lunched Tuesday afternoon at IPFW. 
+
+
+
+Don't forget 
+to Recycle 
+
+this 
+
+newspaper. 
+
+We appreciate 
+
+your support 
+
+
+
+- led adults over the new Willis Family Bridge at IPFW. 
+
+
+
+i 
+
+
+
+4 //Phoenix Rising 
+, Gamestore 
+
+
+
+W&amp; Discount 
+Everyday /^ 
+
+
+
+Novelties- 
+Role-play Games- 
+Special Events- 
+Campaigns- 
+Maqic Cards- 
+Tournaments- 
+
+
+
+
+-Chess Accessories , 
+-Board Games \\J '■' 
+
+-Mini atur es ^"* 
+
+\Comeln 
+
+-Herociix ^andpfay 
+
+-Mechwarrior * 
+
+i 
+
+
+
+-Warhammer 
+
+
+
+&gt;.PHOENlXRlSlNGGAMES.comO 
+
+
+
+Get Ready For Class or College 
+
+
+
+
+4370 Parnell Ave. 
+
+
+
+IN STORE SPECIALS ON 
+SYSTEMS &amp; COMPONENTS' 
+■ Intel Celeron 
+-17- CRT Monitor 27 DPI 
+- 10/100 Ethernet Adapter 
+- 1 yr Warranty 
+
+- APC BTS CeI 1700 - $649.00 
+APC BTS Ctl 2000 = $665.00 
+
+
+
+(In Coliseum Plaza Next To Get Wet) „ apc BTS AMD 1 800 ■ $640.00 | 
+
+Ph 482-7899 - www apluscomputers com 
+
+
+
+$55.00 OFF 
+
+
+
+/Kay Cotvtp. Repair 
+
+
+
+A PIUS COMplTEftS 
+
+Hours: Mon Fni 9 6, Sai 9 1 
+
+( IHlL MIMMIM, MlJSl PlllSEM 
+COUpO* , ONE ptlt CLSEOHin.) 
+
+ExpUts Oct &gt;0, iOOi. 
+
+
+
+September 17, 2003 
+
+
+
+Sports 
+
+
+
+The Communicator Page 11 
+
+
+
+Masto' Mullet likes two SEC battles |gSS£r^ 
+
+
+
+
+Two outta three ain't bad. 
+Meatloaf, baby. Mullet rock all the 
+way. The hat is off this week. The 
+hair is flowing in the cool autumn 
+football breeze and I'm 5-1. 
+
+How about that N.C. State- 
+Ohio State game? What a thriller! I 
+told you Ohio State plays to the 
+level of their opponents. N.C. State 
+isn't a bad team, but it took OSU 
+three overtimes to pull that one 
+out. I bet if the Wolfpack's running 
+back T.A. McClendon was healthy, 
+we would all be singing a different 
+song. He was six inches from win- 
+ning the game! The Buckeyes can't 
+keep this edge-of-the-seat game 
+plan for much longer. Look for 
+them to be defeated soon. 
+
+Boilermaker Pete left a few 
+nice messages on my answering 
+
+
+
+machine about Purdue's lucky vic- 
+tory over Wake Forest. C'mon, 1 
+know ya'll saw it. Purdue CLEAR- 
+LY jumped off side to stop Wake 
+Forest on fourth down. The 
+'Boilers got lucky, but are still a 
+good team. They may be on the 
+verge of a nice winning streak. 
+
+And last, but certainly not 
+least, how about those Irish? 
+Heehee. Two words tell the entire 
+story: pathetic, dominant. Go Blue! 
+
+On to this weekend's games. 
+There are big showdowns with 
+early season conference implica- 
+tions. Watch out for these match 
+
+Michigan State at #23 Notre 
+Dame. This is a non-conference 
+game, but both teams have a sour 
+taste in their mouth from last 
+weekend. The Spartans were 
+defeated on a last second touch- 
+down and the Irish were 
+STOMPED by the Wolverines of 
+Michigan. Each has a quarterback 
+controversy. MSU's Jeff Smoker 
+was hurt in last weekend's game 
+and may not be able to play. The 
+Irish have the awful Carlysle 
+Holiday or youngster Brady 
+Quinn. So whom do you go with? 
+The worthless senior or the raw 
+and inexperienced true freshman? 
+If Ty Willingham has any brains, he 
+
+
+
+will bench Holliday permanently 
+and let the frosh take the reigns. 
+The Irish desperately need a spark, 
+and the kid may provide it. I see an 
+upset in South Bend if Smoker 
+plays. 
+
+Prediction: Michigan State. 
+
+#2 Miami at Boston College. 
+You have to be thinking, "Why is 
+this a big game? Easy. This is 
+Miami's first game of their Big East 
+farewell tour. The Hurricanes' 
+defection from the conference has a 
+lot of Big East programs pissed off. 
+Mighty Miami has a big target on 
+their back and besides, BC always 
+plays the Hurricanes tough. I don't 
+see any crazy upset here, but watch 
+for a fairly close game. 
+
+Prediction: Miami. 
+
+#12 Tennessee at #17 Florida. 
+Look for a shootout in this SEC bat- 
+tle. Both teams love to go vertical 
+with the ball, but the Vols' may 
+have an edge elsewhere. Tennessee 
+has*^ more established running 
+game than the Gators and I think 
+that will give them the edge. The 
+Vols' come out of The Swamp with 
+
+Prediction: Tennessee. 
+
+Masto's pick of the weekend: 
+#7Georgia at #10 LSU. This is 
+another SEC match up to watch. 
+The Bulldogs and Tigers have been 
+
+
+
+Sports writers are needed. Interested? 
+
+
+
+As Sports Editor, my goal is to provide the student body with as much information 
+as possible about IPFW athletic programs, its athletes, coaches, and directors. Furthermore, 
+to enlighten the IPFW student body about national collegiate issues and concerns. 
+
+With only two staff writers, including myself, I cannot fully accomplish my main 
+goal. 
+
+If you have an interest in helping cover IPFW athletic events, sports news or fea- 
+tures, then contact me. You don't have to be a great journalist or have several years of 
+experience, but just some sports knowledge in general. 
+
+Contact The Communicator at 481-6584 and ask for Nick, or email the student paper 
+at srupaper@ipfw.edu. 
+
+
+
+
+5%xican Qrlii &amp; Carina 
+
+PORT WAYNE'* HOTTEST NEW ULTIMATE 
+ENTERTAINMENT COMPLEX 
+
+-Ultimate Entertainment Complex for Dancing, 
+Live Bands, Great Food &amp; a fiesta Good Time 
+-Big wide screen TV's for Sporting Events 
+
+-Billiards games &amp; the ultimate Gathering 
+Experience 
+-Great Selection of Margeritas, Fish Bowls, &amp; 
+Half Yards 
+
+-Headquarters for Bachelor &amp; Bachelorette 
+Parties 
+
+- Special Discounts - 
+4610 Parnelt Ave. Fort Wayne, In 46825 
+Tel: (260) 483-4487 Fax: (260) 483-4604 
+
+
+
+hot and are playing with a lot of 
+confidence. Each has a solid pass 
+and catch combo: Georgia's David 
+Greene to Fred Gibson and LSU's 
+Matt Mauck to Michael Clayton. 
+Both of these combos will put their 
+respective teams on the scoreboard, 
+but it all boils down to one thing: 
+defense. The defenses have played 
+solid thus far into the season, but 
+have basically been untested; 
+therefore, whoever has the best 
+defense will win this game. 
+Georgia lost a lot of defensive play- 
+ers from last season and LSU may 
+have a slight advantage. 
+
+Prediction: LSU. 
+
+This weekend's players to 
+watch are Michigan running back 
+Chris Perry; Miami (Ohio) quarter- 
+back Ben Roethlisberger; and 
+Colorado State quarterback 
+Bradlee Van Pelt. Perry has estab- 
+lished himself as the premiere back 
+in college football and is the early 
+season front-runner for the 
+Heisman Trophy. 
+
+Roethlisberger and Van Pelt 
+square off this weekend it what 
+looks to be a high scoring game 
+between MAC and Mountain West 
+squads. Both players are quietly 
+establishing themselves as two of 
+college football's best quarterbacks 
+and long shot Heisman candidates. 
+
+jCALENDEJfef 
+
+At The Communicator, 
+we strongly urge stu- 
+dents to attend IPFW 
+athletic events. 
+Attending these events 
+allows you to experi- 
+ence and become a part 
+of athletic pride and a 
+developing tradition. 
+It also encourages and 
+provides confidence for 
+the athletes and their 
+coaches. See you at 
+the games! 
+
+SOCCER 
+
+Men: Friday, IPFW vs. 
+Detroit, 7 p.m. 
+
+VOLLEYBALL 
+
+Women: Today 
+
+(Wednesday), IPFW 
+
+vs. Central Michigan, 
+
+7 p.m. 
+
+NOTE: All listed 
+
+events are home 
+
+games. 
+
+
+
+Support 
+your IPF 
+Mastodon 
+
+athletics 
+
+See you at 
+the games! 
+
+
+
+By Staff and News Services 
+
+Men's Soccer 
+
+In a match that was highlight- 
+ed by rough play and wet condi- 
+tions, the Butler Bulldogs shutout 
+the IPFW men's soccer team 1-0 on 
+Sunday afternoon at the Hefner 
+Soccer Fields. 
+
+Butler got the game's only 
+goal at the 24-minute mark. 
+Butler's Andrew Pancio dribbled 
+into the box and ripped a shot to 
+the far post. IPFW goalkeeper 
+
+Peter l [achaj dove fi&gt; his right and 
+made a spectacular one-armed 
+save, but no one was there to clear 
+tin' rebound, and Scott Olsen con- 
+verted into an open net. 
+
+Butler was called for 18 fouls 
+as opposed to 12 for the 
+Mastodons. The Bulldogs were 
+also given four yellow cards in the 
+
+Last Friday night, the team 
+thrashed the University of 
+Wisconsin-Green Bay, 4-0. 
+
+Garrett Buck, Joe Schuring, 
+Trevor Pe.islee, and Selh l-ishdson 
+all scored in the Mastodons' victo- 
+
+
+
+ry- 
+
+
+
+end &gt; 
+
+
+
+i, the 
+
+
+
+
+team's record is now an even 3-3, 
+
+Women's Soccer 
+
+After spotting IUPUI an early 
+goal, it was all IPFW last 
+Wednesday at Ben Davis High 
+School as the Mastodons beat the 
+Jaguars 3-1 in women's soccer, 
+
+The Mastodons tied the 
+match just before half-time on a 
+goal by Sarah Destirmeaux. Katy 
+L.i.ige assisted on the score. 
+
+It was all IPFW in the second 
+half. Kristin Limburg got the game 
+winner, at the 70 minute mark, off 
+a feed from Shacina Hersey mak- 
+ing it 2-1. 
+
+The Mastodons tacked on an 
+insurance goal just six minutes 
+later as Kristin Mahoney beat lags' 
+goalkeeper Jessie Mann off a slid- 
+ing feed from Hersey, to total the 
+final of 3-1. 
+
+The team raised their record 
+to 2-3. 
+
+Women's Tennis 
+
+The IPFW women's tennis 
+team split weekend matches at 
+Hyre park Racquet Club in Akron, 
+Ohio. The team lost 7-0 to the 
+University of Akro on Friday. The 
+Zips swept the doubles point and 
+won five of its six singles matches 
+in straight sets over IPFW. 
+
+However, the team defeated 
+St. Francis (PA) on Saturday 7-0. 
+
+Women's Volleyball 
+
+The IPFW women's volleyball 
+team dropped St. Francis (PA) 30- 
+16, 30-16, and 30-19 this past 
+Saturday night, giving them a 3-0 
+tournament record, and the cham- 
+pionship of the 2003 Medical 
+Mutual Cleveland State 
+
+Invitational in Cleveland, Ohio. 
+
+Nicole Howell and Fabiana 
+Souza led the IPFW offensive 
+attack with 10 kills each. 
+
+Souza also dug up 16 balls. 
+Adding to the defensive effort for 
+the Mastodons were seniors Nicole 
+Ray and Sarah Leffers with 13 and 
+10 digs respectively 
+
+Lindi Bankowski registered 
+23 assists in the match, while 
+Ashlee Roth added 14 helpers. 
+
+With the win, IPFW's record 
+goes to 7-3. 
+
+Souza and Kirsta Solberg 
+uned to the A II- 
+Toumament Team. 
+
+Solberg was named 
+Tournament-MVP 
+
+Cross Country 
+
+The men's and women's 
+teams competed in the Bowling 
+Green State University Mel Brodt 
+Invitational meet last weekend. 
+
+The men placed 6th out of 6 
+teams. Ian Wilson placed 38th, 
+tops for the team, at the time 27:21. 
+
+The women placed 6th out of 
+8 teams. Ashley Ritchey placed 
+16th, best for the women, at 
+18:53.13. 
+
+
+
+Page 12 The Communicator 
+
+
+
+Sports 
+
+
+
+September 17, 2003 
+
+
+
+Coach Ball's overseas volleyball adventure 
+
+
+
+By Nick West 
+The Communicator 
+
+Twenty-three years of experi- 
+ence. Sixth on the all-time NCAA 
+career victories list with 384. Five 
+Midwest Intercollegiate Volleyball 
+Association (MIVA) champi- 
+onships in nine years, , Four NCAA 
+Final Four appearances, Four time, 
+check that, FIVE time Team USA 
+men's volleyball coach. 
+And that is just half of Arnie Ball's 
+
+The IPFW men's volleyball head 
+coach recently returned home from 
+a nine week stint in Daegu, South 
+Korea where he was head coach to 
+the USA men's volleyball team in 
+tin.' World University Games. 
+
+The WUG rank second only to the 
+Olympics, in terms of prestige and 
+compelilion, but share the same rit- 
+uals. There are opening and clos- 
+ing ceremonies; teams are lavished 
+with their country's apparel and 
+flags as they march into competi- 
+tion; and the fan base is vast. The 
+biggest difference: the WUG are for 
+the world's best student athletes, 
+whereas the Olympics are for the 
+world's best overall amateur ath- 
+
+This was Ball's second go-around 
+as the headman and fifth overall 
+with the unit. He started as an 
+assistant in 1985 under friend, Bill 
+Neivlle; was named head coach in 
+1989, assistant in 1991 and 1997, 
+and again head coach this summer. 
+
+"It's just an honor," he says. "It 
+sends chills up and down your 
+spine knowing that in this piece of 
+the world, you are representing 
+your country." 
+
+Indeed it was an honor, as Ball 
+coached his men through the hard- 
+
+
+
+
+The U.S. Men's National Volleyball team poses after w 
+ning the bronze medal in the World University Games. 
+
+
+
+"We did a really good job in preparing 
+some hopefully future Olympians.' 
+
+
+
+"We got to 
+expose these 
+players «vhat 
+
+competition, travel, food, housing, 
+and language are all about," he 
+said. "We did a really good job in 
+preparing some hopefully future 
+Olympians." 
+
+A post 9/11 world, wars in Iraq 
+and Afghanistan, the proximity of 
+North Korea, and SARS outbreaks 
+almost kept the team home. The 
+head of security for the U.S. 
+Olympic Committee gave Ball a 
+Florida meeting in 
+March about the SARS outbreak 
+and tension between the Koreas. 
+
+"We were more scared of SARS 
+than guns," said Ball. 
+
+A day before his team played 
+short of winning the gold Nor(h Korea anti . governrnent 
+
+Ra " did Iead the s 1 uad protests and violence covered the 
+streets of Daegu. He recalls over 
+
+
+
+"You are always a little disap- 
+pointed when you don't win (the 
+gold medal), and that's true of 
+everybody," he says. 
+
+But this was not just a regular 18- 
+to 22-year-old college age tourna- 
+ment. For many of the European 
+and Asian learns, a student-athlete 
+can be a 28-year-old grown man 
+enrolled in three credit hours and | iei ' K | s ' 
+be eligible to play. Ball's squad was 
+the third youngest and will have 
+four players eligible to play in the 
+2005 Games. 
+
+His youthful team may have fall 
+
+
+
+IPFW men's volleyball coach Arnie Ball spoke recently 
+about his adventures coaching the U.S. Men's Volleyball. 
+
+5,000-armed police officers circling 
+the arena and the team's bus before 
+the match against North Korea the 
+next day 
+
+"I never was concerned about my 
+well-being, but I was certainly 
+aware that those people (North 
+Koreans) were there," said Ball of 
+his safety. 
+
+Ball's involvement as head coach 
+of Team USA helps ascertain IPFW 
+as a contender in Division 1 athlet- 
+ics and as university. Though most 
+world volleyball coaches already 
+know Ball by his past experiences 
+and successes, he continues to for- 
+mulate contacts. Case in point, he 
+is always in contact with other 
+world volleyball coaches and his 
+name appears on every WUG 
+media release and website across 
+the globe. 
+
+The IPFW volleyball recruiting 
+process is greatly facilitated by 
+
+
+
+Ball's WUG connection. Because 
+he works with premier volleyball 
+players of the world. Ball hopes to 
+establish connections with their 
+connections. For example, one of 
+the players' friends may be teeter- 
+ing between playing volleyball for 
+IPFW or another school and would 
+be influenced by the players' expe- 
+rience with Ball. 
+
+"Young players are pretty impres- 
+sionable and want to come play for 
+someone who has coached at the 
+highest levels of the world," he 
+
+Ball is not sure if he'll coach the 
+team again. His loyalty to family, 
+friends, and IPFW may outweigh 
+the title of being the second most 
+esteemed volleyball coach in the 
+United States. 
+
+"It depends on my wife," he 
+jokes, "If she says 'yes' then I will 
+probably coach again." 
+
+
+
+Booty-Cheddar Sportstalk 
+
+
+
+By Nick West 
+and Justin Kenny 
+
+The Communicator 
+
+
+
+academic eligibility. L'laretl lied to authori- 
+ties on the actual amount of money and 
+belongings stolen from a vehicle he borrowed 
+back in the spring; and reportedly took an oral 
+exam in order to pass a class and remain aca- 
+demically eligible before List year's National 
+Championship game Is Maurice Clarett's 
+punishment fair? And should he keep his 
+football scholarship at Ohio State? 
+
+Justin: The guy screwed up at THE 
+Ohio State University, you can't much more 
+high profile than thai He got mixed up in 
+1 eBron and Co. and couldn't handle the hype. 
+I le's got his nog, he's got his props, now kick 
+him out of Buckeyeland. 
+
+Nick: Nah, you can't do that. 
+
+Clarett was wrong for what he did. And 
+while l'msure these "several pages" of investi- 
+gations are only the beginning for this kid, 
+you can't kick him out tor U mg to cops. You 
+can suspend him for his so-called "oral exam- 
+ination, ' but not for lying to cops. 
+
+Justin: Lying to cops is a crime!! 
+Does Ohio State want to become Miami and- 
+field ex-cons on their squad? 
+
+Nick: It is a crime, but what Clarett 
+
+needs is guidance. The punks at Miami in the 
+late 80s and early 90s had no guidance. 
+Clarett has arguably the best athletic director 
+in college athletics, and the most professional 
+and father-figure' like coach in college foot- 
+ball in Jim Tressel. Let those two get a hold of 
+
+Justin: I don't think Tressel wants 
+
+anything more to do with Clarett. All of Ohio 
+State wants this Clarett crap to go away. The 
+
+Siickest way is to boot the joker out of the 
+niversity. 
+
+Nick: He does. He recommended 
+
+that Clarett be released from his scholarship 
+only if he wanted to. The other day at a press 
+conference, Tressel seemed regretful that he 
+didn't do more to guide Maurice. With his 
+season long suspension, OSU will gradually 
+forget. Time heals. 
+
+Nick: Let me ax you something. If he is 
+kicked out or leaves, where should he go? 
+What should he do? 
+
+Justin: Play for a D-l AA school. Less 
+hype. Less pressure. Grambling, maybe 7 II not 
+that, keep in shape, sit tight, and declare for 
+the draft in two years. 
+
+
+
+Nick: He shouldn't leave, but if he 
+
+does, Grambling is a far better option than 
+challenging the NFL early entry rule or going 
+across the border to the CFL. 
+
+Topic two: Everyone knows about the 
+downfall of Baylor University A player was 
+murdered by a fellow teammate; the coach 
+tried to cover up the murder, his players' 
+"extracurricular" activities, and academic 
+fraud; the AD stepped down; most scholar- 
+ship players left the learn; and now people are 
+^ailing for the University's President's head. 
+Can things get any worse for Baylor? 
+
+Nick: The program can't get any lower. 
+1 --~ Ul over from Valpar 
+
+
+
+
+
+
+Scott Drew was brought over from Valparai 
+to resurrect this dying program. He 
+should be able to turn things around. Bayli 
+also hired a new AD, Ian McCaw, who has a 
+"fans and people first'' approach 
+
+Justin: Just when you think things 
+can't get any worse, they often do. The NCAA 
+will throw down some mad restrictions on 
+this program It will be years until Baylor will 
+be able to call itself a contending team in col- 
+lege basketball. 
+
+Nick The team was never a con- 
+
+tender in the first place! With teams like 
+kansasand levas. H.iylor will ne\er be a con- 
+tender in the Big 12!! Besides, the programhas 
+already put itself on a two-year probation and 
+withdrawn Irom the upcoming season's Big 
+sy. NCAA probably won't put any- 
+
+Lru They should and will. This 
+
+team looks more like the squad on ESPN's 
+Haymaker-- than anything else. Scandals, 
+drugs, murders. The NCAA will come down- 
+Nick: Maybe. Michigan put itself 
+on probation for violating NCAA polices. 
+Drugs, cheating, improper recruiting, gifts 
+You name it, the Fab Five did it. 
+
+Justin: True, but 1 can't remember 
+
+someone losing his lite in retaliation for Chris 
+Webber calling a timeout when he didn't have 
+
+
+
+players to the NBA anytime soon, after every- 
+thing is over. 1 could probably walk on to this 
+team. 511", 155. .DING!!!! 
+
+Nick: Sad thing is, you probably 
+
+could. But the bottom line is, these kids will 
+still suffer. Fifty years from now, they will all 
+remember their experience at the Baylor bas- 
+ketball program and put their heads down in 
+shame and sorrow. None of this was their 
+fault. Their coach lied to them. The program 
+is lost and their basketball careers and lives 
+have been affected forever. 
+
+Justin: I agree with that assessment 
+
+; before those kids 
+
+
+
+fi#wt&gt;l/n#uirvty\ioUfoow&lt;^ 
+
+
+
+
+Present Student ID for 10% \ 
+off your Food Bill !!! J 
+
+Monday - Monday Night Football and 
+
+Darts - Free Pizza and Hot Dogs at Half-time 
+
+Tuesday - Doc West Singles Dance Party 
+
+Wednesday - Live Acoustic Jam oudoors in 
+Courtyard and in the Hideaway 
+
+
+
+Friday &amp; Saturday - Live local, regional and 
+national bands in the Hideaway. 
+
+Sunday - American Roots Music featuring the 
+Blue Moon Boys and Special Guests 
+
+Experience our Ahi Tuna, Walleye and Cut 
+Steaks. Sandwich baskets and Ernie's Signa- 
+ture Ribs. 
+
+Ice Cold Beer and Hot Pizza for carry-out every 
+night until close. 
+
+•Outdoor dining In courtyard. In Ernie's Pub, non-smoking family dining room, 
+
+and the Hideaway Lounge, 
+•Dally drink specials, free food buffet from 4:30PM to 6:30PM. 
+•Wednesday &amp; Thursdays Buckets of 5 Coors Light for $7.00! 
+
+Located right in the corner of Riviera Plaza, just north of Canterbury Green at 3215 SL Joe Road 
+
+
+
+
+
+
+
+
+
+CALL for Reservations, Carry-out, Private Parties, or our 
+260.492.2030 or FAX: 260.492.2860 
+email: emies@emlesclasslc.com Web: wwwemlesclasslc. 
+
+
+
+Ique Catering at: 
+
+
+
+Present this ad and get a FREE 
+onion loaf with any entree. 
+
+
+
+Come'early • Stay late*. 
+Lunch/ttmei fU^ttme^oincUrxCghJt: Uvrie/ 
+
+
+
+</pre>        </div>
+      </div>
+    

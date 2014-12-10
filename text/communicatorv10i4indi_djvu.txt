@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv10i4indi/communicatorv10i4indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv10i4indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv10i4indi">The Communicator</a>"
+          </h1>
+          <pre>
+
+
+More words of wit. wisdom, and insight issue forth 
+from "The Tower" fhis week on page five. Skip 
+Berry explores the worid of poetry bi-weekly in his 
+column "Lines Outside the Tower, " 
+
+
+
+
+The Who is aging rapidly as "punk" catches up with 
+this powerful band. Inside on page four, critic Steve 
+Riegel examines the Who's latest album, "Who Are You?" 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Vol. X Issue 4 
+
+
+
+Indiana University-Purdue llniversity al Fort 
+
+
+
+September 14 1978 
+
+
+
+Tuition fee boost 
+seen as possibility 
+
+
+
+By MICHAEL BEHR fee increase 
+
+result of inflation and tailing the state, 
+la University Speaking 
+
+
+
+during I9S0 and 1981. 
+
+The l.U. board of trustees approvea a reaucuon oi a.iuu lo a.aoo 
+
+biennial budget of about SM7 million throughout the entire seven 
+
+during last weekend's meeting in I.U. system this year. Ryan e 
+
+
+
+Ryan noted that the in- 
+ul I.U. employees at about 
+of salary and wage level in 
+
+
+
+EPFW 
+legislature wi 
+
+
+
+News release deadline is Thursday 
+
+
+
+nt Senate in 
+secretary 
+
+
+
+
+Thursday of the 
+
+
+
+
+night when Rene 
+quality of the I 
+
+
+
+Parking fee, fine 
+structure overhauled 
+
+
+
+^ilslsi Forensics whets skilk 
+
+1 to seek a new secretary. The 
+
+lent Jim Matthews to confer with « -m % V • 
+
+s^^Eifs^o^r- III reading, speakms 
+
+ther business, the senate heard a C7 X C^ 
+
+
+
+I Dick Rosencrantz that 
+
+
+
+it of providing the cards Forensics program at IPFW gives any ijke to continue the Student Speaker's 
+1 year, said Rosencratz. person the opportunity to develop their Bureau, already established by her 
+dthem. skills in professional speaking. predecessor, San 
+
+
+
+d Forensics 
+■s al IPFw! 
+
+
+
+placing its name on i 
+
+
+
+parking advi 
+
+
+
+il fines will be added 
+faculty or staff member i 
+the fine within 15 days of 
+. In the past only students u 
+
+
+
+eading lo the blind and handicapped. tcrpretatlon. 
+
+ilerprelation. but ullimalely Jan 
+
+
+
+University Renaissance Classic and the 
+Bowling Green Tournament. There 
+they will engage in forensic and oral 
+interpretation events in which students 
+• people of Fori Wayne, One such from across the nation will participate, 
+
+
+
+parking, improper display of permit, around" faculty a 
+will all be two dollars. Failure lo student parking 
+
+
+
+n the English the •'wrltingand delivering of yourown perform a Chris 
+:ulture and Science Fiction rf 
+
+
+
+could further a new 
+
+
+
+bursar's wailing for 
+
+
+
+both full and pari lime students. -W-^ *■ -| « ^ * 1 * 
+
+H™£HaBelI gives mside view 
+
+m a full time student. ^^ 
+
+rhe campus police have been issuing ^— ^ 
+
+'"of Nicaragua's problems 
+
+
+
+
+I'MCATOR. SEPTEMBER I 
+
+
+
+Eflitorial 
+
+
+
+University community 
+should lobby together 
+
+
+
+iboul the real world of inflation. 
+Last weekend al the IV. board of 
+
+
+
+Political realities seemed to ha 
+combined within inflation when I. 
+president John Ryan said thai 
+sludent fee hike is likely during 19 
+and 1981. Ryan stated that t 
+university will determine at a lat 
+date how much revenue can be e 
+peeled to be lost as a result 
+declining &lt; 
+
+
+
+
+
+
+1 I.U. campuses, 
+
+Southeast at New Albany 
+steady enrollment. The loss of 
+je from these students added to 
+pense of inflation has put the 
+
+
+
+illege education 
+n fact one could 
+
+
+
+noney to prevent a fee increase it wil 
+•e making a college education mon 
+xpensive and hence only available V 
+
+
+
+Furthermore il seems absurd thai 
+
+vcighed equally with all the other 
+;late needs. Are there certain items in 
+he various state budgets that the 
+;laie of Indiana could do without in 
+)rder lo afford education for all of its 
+&gt;eoplc who desire il? 
+
+
+
+could ask ihemselvi 
+sludenl fees are already 1 
+state-run university, Of ci 
+
+
+
+■ standpoinl. Legislators 
+
+
+
+cannot be fu 
+Students cai 
+
+
+
+Two years ago students and the 
+slale losi when fees were increased 
+
+anolher fee mcrease Is probable. This 
+election year students, faculty staff 
+
+liie legislative candidates lo present 
+Iheir views on this problem and a joint 
+student faculty 
+
+
+
+FREE 
+
+
+
+PEPSI 
+
+
+
+
+STOP! 
+
+Take A Look At 
+
+The Fort's Festival 
+
+of Salads: 
+
+starring: (Not in Alphabetical Order) 
+
+1 . Orange Corrots 8. Tanta/iz/ng Eggs 
+
+2. Luscious Beets 9 Beautiful Bean Sprouts 
+
+3. Red &lt;S White Radishes /q. Oven Brown Croutons 
+
+4. Fresh Moonlight Mushrooms ;/ Boco Bits 
+
+5. All Shreaded American jj. Tosty Groted /to/ian Cheese 
+Cheese J3. Green Bell Peppers 
+
+6. Round Cherry Tomatoes ,4 presh Sliced Cucumbers 
+
+7. Red Sweet Onions /5 Garbanzo Beons 
+
+Our Own Special Tossed Salad 
+
+PIUS + 
+
+6/ue Cheese French 
+
+Thousand Island Italian 
+
+Russian 
+
+(more dressings are coming I) 
+
+Plus 
+
+From now until September 20 
+get a 
+
+
+
+I COUPON 
+
+II FREE 12 OZ. PEPSI 
+
+I Z) with this Coupon and Purchase 
+
+j8 of a $1.39 or 95- Salad at the Fort! 
+
+^^ Expires Sepl. 20. 1978 
+
+This /s o lot but Jean "The Beon" con hond/e i 
+
+
+
+The Fort 
+
+
+
+Pope should instruct 
+
+
+
+
+THE COMMUNICATOR 
+
+
+
+Tropical Fish 
+
+and 
+Aquariums 
+
+2332 N. Clinton 
+
+Just North of State St. 
+
+Phone 483-4930 
+
+Open: Mon.-FH. 10:00 to 9:00 Sat. 10-6 
+Sun. 12-6 
+
+
+
+WeVe Moved 
+
+The Developmental 
+Skills Center has 
+moved to Kettler 
+1 18. For help in 
+math, English and 
+study techniques 
+(note-taking, text 
+reading, test-taking) 
+come see us. 
+
+HOURS: 9-3 Monday - Friday 
+
+5-8 Monday - Thursday 
+
+
+
+campus 
+calendar 
+
+
+
+CUB 
+
+REPD££ER'S 
+
+COPlER 
+
+
+
+Calendar 
+
+
+
+Faculty notes 
+
+
+
+THURSDAY 14 
+
+IPFW Women's Club Meeting. Walb 224. 7:30 p.r 
+
+
+
+SATURDAY 16 
+
+Men's Tennis vs. Manchester College, 10 a.m.. here 
+
+Young People's Art Glosses begin, Deportment of 
+
+Fine Arts. 1026 W. Berry St. 9 a.m. and 10:30 o.m. 
+Indiana-Purdue Reports on WGL rodio, 7:15 a.m. 
+Indiono University football vs. Louisiana State, there 
+Purdue University football vs. Michigan State at home 
+
+
+
+MONDAY 18 
+
+Sign up for Coed 2 on 2 basketball, Athletic Office, 
+
+
+
+Women's Tennis 
+
+
+
+. Anderson College, 3 \ 
+
+
+
+
+
+
+TUESDAY 19 
+
+Indiana-Purdue Foundation Meeting 
+
+Men's Tennis vs. Grave College, 3 p.m., here 
+
+LRC Seminar: Producing Brochures, Certificates and 
+
+Lettering Projects, 12:30 to 1:30 p.m., Helmke B-35 
+Block History in Perspective movie series: Story of a 
+
+Three Doy Poss, 7 p.m.. Old Fort YMCA 
+Overseas Study Programs discussion, 2:30-4:30, 
+
+Kettler 244 
+
+WEDNESDAY 20 
+
+LRC Seminar: see Tuesdoy 19, 3:30-4:30, B-35 Helmke ' 
+
+Soccer vs. Indiono Tech, there, 4 p.m. 
+
+FRIDAY 22 
+
+Last day to receive partial refund for partial or complete 
+
+withdrawal from class 
+Lost day to execute pass-fail option. 
+
+DR. KENNETH STEVENSON, professor of chemistry, 
+was awarded a gront of $13,000 from the Petroleum 
+Research Fund of the American Chemical Society. 
+His project which is to last for two years, is entitled: 
+"Photoredox of Cu (I) Complexes and Similior Systems." 
+This is the fourth gront Dr. Stevenson has received 
+from this orgonizotion in support of his research. 
+
+DR. BEN BECKER, professor of biological sciences, 
+mode a presentation this post spring at a seminar 
+at the Frederick Cancer Center. His presentation was: 
+"How to Grow Thermophilic Actinomycetoles." In his 
+presentation, he described his methods of isolating 
+and growing these microorganisms. He also described 
+his method of purifying the cultures so thot the concer 
+groups con screen them for cytotoxic activity. 
+
+
+
+DR. WARREN W. WORTHLEY mac 
+the Society of Manufocturing Engineers Certification 
+Committee Meeting regording his activity during his 
+sabbatical leove Jonuary-Moy, 1978. In addition. Dr. 
+Worthley was appointed a member of the Notional 
+Education Committee of the Society of Manufacturing 
+Engineers during its June meeting. During that meet- 
+ing, Dr. Worthley presented o paper: "Summary 
+Evoluotion of Engineers Council for Professional 
+Development Accredited Baccalaureate Manufacturing 
+(Engineering) Technology Programs." 
+
+Warren and Donna Worthley were on o panel for the 
+Parents Without Partners orgonizotion on Wednesday, 
+September 6th. 
+
+Warren Worthley will be attending the Society of 
+Manufacturing Engineers Notional Certification Com- 
+mittee meeting in Detroit on October 6, 1978 as a 
+consultant to this committee. 
+
+
+
+
+
+
+Danforth liberal arts 
+fellowships due Oct. 6 
+
+
+
+qualified diaclplin 
+
+
+
+• by OCTOBER 6. In 
+
+
+
+Appllca 
+
+
+
+award a limit 
+be seniors post-graduate 
+
+
+
+equivalent terminal degree; program. If currently 
+
+college teaching In a field of postgraduate applicants 
+
+study common to the un- should apply through the 
+
+dergraduate liberal arts liaison officer on their 
+
+curriculum in the United campus; if not. direct ap- 
+
+States. Winners will be plication to the Danforth 
+
+chosen by the Foundation's Foundation may be made by 
+
+criteria of academic ac- November 1. 
+
+complishment and In- For further information 
+
+tellectual ability; promiaeot about the program, contact 
+
+effective leaching; and History professor James 
+
+concern for the relationship Haw, 
+
+LD/s still available 
+
+
+
+Orchestra positions open 
+
+; university orchestra Openings In Wind 
+
+
+
+viola, string bass, and cello, *• rench horns p. 
+
+There are concert band All openln 
+
+openings for trombone, tuba, auditions. Thoi 
+
+baritone, French horn and should conia 
+
+
+
+Home Economics convention set 
+
+
+
+Economics Association will scheduled will be discussions 
+meeting Oct. 13 and 14 at Those interested should 
+
+
+
+Correction on student handbook 
+
+
+
+for the Oiild Care 
+
+
+
+AHENTION STUDENTS: 
+
+Charky's Cliar-KIng Family 
+
+Restaurant has openings for: 
+
+Full and part time 
+Wolters/waltresiot 
+
+Hosts/Hostessei 
+Bus and Set-up help 
+
+
+
+PREGNANT? 
+
+Making a decision about a baby you think 
+
+you don't wont? Before you moke plans 
+
+coll 
+
+BIRTHLINE- 422-1818 
+
+We provide hetp-confidential counseling- 
+
+
+
+
+
+
+Who struggles with image 
+
+
+
+
+Victor triumphs in 'Belle' 
+
+
+
+J^pe® oidlside 
+idle tower 
+
+
+
+SEPTEMBER U, lOJS, THE COMMUNICATOR f 
+
+
+
+
+Fastrack 
+
+
+
+
+Lotus Mark I a 
+
+
+winner 
+
+
+Clark all have in common? replaced a year later wilh 
+
+
+qualifying speed which stood 
+tor three years! 
+
+engiliT'and 'ulilijlng the 
+
+
+
+Pupils find teachers 
+at learning exchange 
+
+
+
+Crescent Ave, provides 
+
+
+
+R6DWQDD m 
+
+1432 West Main 743-7543 
+
+FORT WAYNE'S FINEST PIZZA 
+GrIHO£^RS 
+BROASTED CHICKEN 
+SAUSAGE ftoUs 
+
+
+
+'NOW SERVING LUNCH 11:30-2" 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+
+YOU MUST BE 21 -IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+</pre>        </div>
+      </div>
+    

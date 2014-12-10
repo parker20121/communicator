@@ -1,0 +1,4418 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i14indi/communicatorv12i14indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i14indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i14indi">The Communicator</a>"
+          </h1>
+          <pre>rm^ 
+
+
+
+riic 
+
+
+
+(oiiimuifliicalor 
+
+
+
+Volume XII Issue 14 
+
+
+
+tndiona University-Purdue 1 University at Ft. Wayne 
+
+
+
+December 11, 1980 
+
+
+
+City Christmas 
+tradition-filled 
+
+
+
+By CHRIS PYLE 
+
+Christmas is a lime of rejoicing and 
+upholding traditions such as tree 
+trimming, caroling, gift giving and 
+family reunions. But Fort Wayne has 
+many unique traditions of its own. 
+
+Santa Claus and his reindeer, a 
+display that hung on the side of the Wolf 
+and Dessauer Department Store for 
+many years, lighted its way into the 
+hearts of adults and children alike. 
+
+But this tradition faded as a fire 
+claimed the building. The store 
+relocated on the comer or Clinton and 
+Wayne Streets. They adopted a new 
+tradition to take Santa's place; 
+Christmas windows. 
+
+The windows were elegantly lighted 
+
+
+
+and festively decoi 
+
+
+
+ited 
+
+
+
+.VI th 
+
+
+
+mechanical dolls and elves. Yet it 
+couldn't quite match Santa's 
+popularity. 
+
+Now, the building looks deserted. No 
+more store, No more lighted windows 
+No more Santa. No more Santa? 
+Wrong, Fort Wayne National Bank 
+remembered ole Santa and cast him 
+back into lights. Santa and his reindeer 
+now reside on the side of the downtown 
+Fort Wayne National Bank building. 
+
+Fort Wayne has experienced trends 
+in shopping too. Ten years ago. people 
+would cram buses or maneuver busy 
+streets to crowd downtown department 
+stores. Almost every department store 
+had a Santa Clans. 
+
+Today, many shoppers have deserted 
+the downtown area in favor of the 
+shopping malls, and Santa usually is 
+implanted in the middle of a mall. In 
+efforts to attract shoppers downtown. 
+
+
+
+however, parking meters are bagged 
+during the holiday season to allow 
+customers free parking privileges. 
+
+Another Fort Wayne tradition is the 
+lighting of the Christmas tree. Each 
+year, a giant Christmas tree is lighted. 
+People from all over the city gather to 
+witness this gala event. Then in unison, 
+they sing Christmas carols. This year, 
+an estimated 2,000 people participated. 
+
+Christmas is also a time of giving. 
+Fort Wayne Mayor Winfield Moses 
+emphasized some of the organizations 
+that give to those who are not as for- 
+tunate. Some of these services include: 
+Toys for Tots, The Salvation Army, The 
+Christmas Bureau, and WOWO's Penny 
+Pitch. "These are good Fort Wayne 
+traditions," said Mayor Moses. "We've 
+got a lot to be thankful for; things could 
+
+
+
+be w 
+
+
+
+"he &amp; 
+
+
+
+For the past three years, a different 
+interpretation of Christmas has been 
+presented at the Fort. 
+
+Christmas was celebrated in the era 
+of the late 1700s and the early 1800s on 
+November 28 and 29. Members of the 
+staff of Historic Fort Wayne welcomed 
+guest participants from the North West 
+Alliance and from Fort Miegs, located 
+near Toledo, Ohio. 
+
+The span of years past unraveled as 
+spectators "journeyed through time" 
+and observed Christmas past They not 
+only saw a colonial Christmas, but 
+other styles from other countries as 
+well. There were interpretations of 
+Polish, Dutch, Irish, New Englander. 
+English. Scottish. French, and German 
+Christmases 
+
+(Continued on page 7) 
+
+
+
+Ex-Beatle shot 
+
+Lennon dies 
+
+By DEBBIE CANTWELL McCormack, speaker of the House of 
+
+and CHRIS PYLE Representatives. 
+
+The amount of attention granted the McCormack received back page or 
+
+death of John Lennon was significant of__ second page coverage, said Cantor. 
+
+the former Beatle's importance, said "News of the ex J5*a lie's death appeared 
+
+Louis Cantor, B?FW history professor. on the front pages of newspapers, and 
+
+special radio and television tributes 
+
+
+
+"His importance will be sustained," 
+said Cantor, who referred to Lennon as 
+"probably the most important mem- 
+ber" of the sixties' four-man, English 
+rock band known as the "Beatles " 
+
+Lennon, 40, was shot and killed in 
+front of his Manhattan home Monday 
+night as he and his wife, Yoko Ono, and 
+several other people entered the 
+vestibule of the Dakota, (he apartment 
+building where the Lennons lived. He 
+died later in the emergency room of the 
+Roosevelt Hospital. 
+
+Lennon had just released an album, 
+"Double Fantasy," which he made with 
+his wire in what was to be a comeback 
+for the couple A review of that album 
+appears on page five of The Com- 
+municator. 
+
+Cantor, who will teach a Pop Culture 
+class next semester, compared the 
+media attention given Lennon to that 
+accorded the recent death of John 
+
+
+
+i frequent on Tuesday morning. 
+
+The history professor attributed the 
+media attention granted the rock 
+musician as a "dramatic indication of 
+the times and how they have changed," 
+
+Cantor said some people have 
+compared Lennon — who wrote more 
+hit songs than any popular composer in 
+modern history — to Bach, Brahams 
+and Beethovan. "That's putting him in 
+a pretty heavy group," the professor 
+said, but commented he didn't believe 
+the former Bealle would be historically 
+as important as the others. 
+
+Mike Gzybowski, 29, a student, said, 
+"The Beatles were a symbol of the 
+times, and the way he died was a 
+symbol of the sickness in this world. 
+They came on the scene and brought on 
+a "turn on' — mystic religions, drugs, 
+long hair. What he brought and how he 
+died are in contrast." 
+
+(Continued on page 4 1 
+
+
+
+
+This tree, located at the corner of Wayne and Fairfield streets, Is just one symbol 
+ol Christmas. See inside pages for further holiday stories. (Photo by Keith Hall) 
+
+
+
+Freedom and independence important 
+
+
+
+Street people share Xmas season 
+
+
+
+By ROBERT RINEARSON 
+As a heavy snow falls, they stand 
+patiently along the store fronts of 
+Calhoun and Wayne streets. In second- 
+hand coats, with hands buried deep in 
+
+
+
+their pockets, they appear to be waiting 
+for a bus. But as the hours tick by and 
+many buses come and go, few of the 
+faces disappear. 
+Who are these people? 
+
+
+
+
+Many of them are former residents of 
+the State Hospital and the Johnny 
+Appleseed Center, Olhers al one time or 
+another have taken part in several of 
+the drug and alcohol treatment centers 
+in Fort Wayne. 
+
+As I sat in Azars, I saw through the 
+window the mixture of emotions these 
+people conveyed. Some constantly 
+laughed with huge grins exploding 
+across their faces. Olhers stood with 
+emply expressions and stared at the 
+cement below their feet. 
+
+Two men joked insistently with a 
+Salvation Army volunteer who was 
+taking a break, his bell sitting silently 
+at his feet. 
+
+While these people went about their 
+regular daily routine, lawyers, 
+secretaries and Christmas shoppers 
+passed — oblivious to the fact that these 
+people even existed 
+
+I walked over and spoke with a man 
+who'd been standing In the entrance of 
+Murphy's with his face pressed against 
+the window, watching the snow hil the 
+street outside. 
+
+"I don't care. Why should [? I don't 
+have a job, and it doesn't look like I'm 
+overgoing In gel one." 
+
+Ralph Surface, director of Special 
+Services at the Johnny Applcsecd 
+Center, discussed why limes have been 
+so hard for Ihese people. 
+
+"Most who are lucky enough to find 
+jobs must serve in incmul capacities, 
+such as dishwashers or broom 
+pushers." Surface said, And now since 
+times have gotten hard, they were line 
+
+
+
+first to lose their jobs, and Ihey'll be the 
+last to be called back. 
+
+"They gather at either Murphy's or 
+Azar's to share svith each other," 
+continued Surface. "And regardless, 
+rain or shine, with work or without, 
+downtown will continue to be their 
+rendezvous point." 
+
+H.J. Mehall. manager of Murphey's, 
+said, "These are good people and good 
+patrons as well. I don't core if they 
+stand outside in front or in the waiting 
+areas. Besides, wc feel it's a public 
+service." 
+
+Bui M eh all's good samarilan attitude 
+doeslillle to change the status quo. 
+
+"Fort Wayne has a high number of 
+Ihese people," said Surface. "Some of 
+these people have been in- 
+siiliilmnalized for almost 30 years. 
+There are a few still lucky enough lo 
+have families to slay With. But for (hose 
+who don't, finances will only allow them 
+to rent a sleeping room — if they can 
+even afford that." 
+
+As 1 mingled through the crowds, I 
+fell they could sense a stranger 
+amongst them. I could talk and joke 
+with Ihem, but until I disappeared, I 
+could always feel their eyes staring at 
+
+Surface fell it was uncanny how 
+strong their camaraderie is. 
+
+"They (eel they have no one else to 
+depend on except each other, and many 
+are no longer part of a structured 
+program. They've ' been in 
+6l Hullonalized so long, they feel if they 
+accept any Offers, Ihoy will be pul away 
+again and lose Iheir freedom." 
+
+
+
+One of the street people. John, spoke 
+to me about how he felt. 
+
+"The hospital (State Hospital) is 
+behind me now, and I ain't ever goin' 
+back. What the hell? I've got a 
+girlfriend and I don't need anything 
+those places have to offer me now." 
+
+Because of a need for freedom and a 
+fierce sense of pride, most will not even 
+accept what many local agencies offer. 
+
+The Reverend John Fink of the Fort 
+Wayne Rescue Mission told me what 
+they were planning on Christmas. 
+
+"We're going to have a good meal of 
+roast beef, ham and all the fixings. 
+Then throughout the day we're plan- 
+ning entertainment, treats and a gift for 
+each person," Fink said. 
+
+"Now I want to (ell you something. 1 
+don't care who Ihey are. whal they look 
+like, what theeoloroflheirskinis.and I 
+don't even want loknow their name. We 
+proclaim everyone welcome, and these 
+people are not going to achieve 
+anything by standing in front of Mur- 
+phy's," added Fink. 
+
+But Fink sighed when he went on to 
+explain how in many instances Ihese 
+people follow the trend for the increase 
+in suicide during the Christmas season, 
+"It's very depressing indeed," said 
+Reverend Fink. 
+
+Many of (he people I lalked to along 
+the lunch counters of the downtown 
+stores showed little feeling about 
+spending Christmas alone, 
+
+'They are a complete subculture 
+within our system," said Surface "li 
+we arc able In convince Ihem that they 
+no lunger need lo go through this self- 
+
+
+
+deprivation, il will lake earnest people 
+lo gain an initial trust from them. Right 
+now, there's just not enough people 
+willing to perform that service." 
+
+As tne late December evening 
+darkens and the working day comes to 
+a close, for a brief moment you cannot 
+tell the difference between the faces of 
+the office workers retreating home and 
+the people who call the street Iheir 
+
+Suddenly, the seasonal lights are 
+aglow, filling the night with a colorful 
+Christmas aura. 
+
+Al five o'clock. Ihe bells from the 
+Cathedra] ol Immaculate Conception 
+chime throughout (he city. Slowly the 
+slreel people disperse. Some relurn (o 
+Iheir sleeping rooms, while others walk 
+over lo Azar's (or one more cup ol hot 
+coffee, 
+
+From a distance, I follow iwo of the 
+men who have stood in front of Mur- 
+phy's Ihe entire afternoon. They head 
+north towards Main Street Suddenly, 
+they are joined by a woman Iriend, and 
+logether, the three 01 ihem walk lo Ihe 
+light displays 
+
+As they sland m li'oni of Ihe Inrge 
+lighted Santa Claus that illuminates 
+an entire city block, Ihey huddle close, 
+holding hands, fascinated by the beauty 
+nf Ihe display 
+
+It's then I realized lhat never in my 
+life had I seen a finer example Of 
+
+Turning n Ihi Christmas lights, 
+
+still holding linndi ind cherishing lliejr 
+freedom Ihe three walked back into the 
+
+
+
+PAGE2— THECOMMU? K'ATUR -DECEMBER II. 1980 
+
+
+
+OMMOA 
+
+
+
+The Communicator 
+
+
+
+Editors named 
+
+
+
+) If you were given one wish for 
+Christmas, what would it be? 
+
+That's what we asked people on 
+campus last week. Some of their replies 
+appear in "We asked, They Said." 
+. This, however, is our answer. 
+
+If the staff of The Communicator were 
+
+given one wish for Christmas, we would 
+
+. wish ,.. that Christmas lasted all year 
+
+, long, and that the spirit of Christinas 
+
+would never end. 
+
+Unfortunately, come December 26. 
+most of us will probably return to our old 
+selves Unfortunately, it'll be back to 
+■ business as usual, back to day-in, day- 
+nut routines. Back to the same old hum- 
+drum. Back to school, exams and term 
+papers in January. 
+When the next- issue of The Com- 
+
+- municator hits the stands — and the 
+floors — at IPFW, the holiday season 
+will be over, the spring semester will be 
+
+- underway, the year will be new, and so 
+too will some of the newspaper staff. The 
+small core of editors who oversee the 
+production of the weekly paper, 
+
+
+
+however, will all be "Communicator" 
+veterans. 
+
+Sandra Wiley, former copy and 
+managing editors, will begin her year- 
+long term as editor-in-chief. Kim Kuzeff, 
+who has been with the paper two 
+semesters now as reporter and copy 
+editor, will serve as managing editor, an 
+assistant position to the Editor. 
+
+Steve Riegel will continue in his 
+position as arts editor. However, Sports 
+Editor Gary Baumgartner, who will be 
+graduating this spring, will be replaced 
+by Tim Ross, a photographer-writer. 
+Julie Zent will continue as photo editor 
+and Daryl Brandt will be the new copy 
+editor. 
+
+Sandra, Kim. Steve, Tim, Julie and 
+Daryl know what lies ahead and they are 
+anxious lo get started. In the meantime, 
+however, the staff of The Communicator 
+— like everyone else — will be taking a 
+little break. 
+
+Until then... 
+
+Have a very Merry Christmas and a 
+Happy New Year. 
+
+
+
+We asked... 
+
+
+
+We asked. .Students were asked: 
+"If you were granted a wish for 
+
+
+
+Christmas, what would that wish 
+
+
+
+They said... 
+
+
+
+
+They said... 
+
+"I want my grandmother to com- 
+pletely recover from her stroke." 
+Carol Russell, Elementary Education 
+major. 
+
+
+
+"I wish Dr. Sugarmen would curve 
+our principle final grade." Joyce 
+Lothamer, x-ray technology major, 
+
+
+
+
+ET1 
+
+
+
+"I wish this were my last semester 
+at school.'' Ryan Pope, Mechanical 
+Engineering Technology. 
+
+
+
+"I would wish for three feet of 
+
+powdered snow for skiing." Mark 
+Lawler. accounting major. 
+
+
+
+
+
+"My wish would be that my car 
+would be paid off," Michelle Strebig, 
+Nursing major. 
+
+
+
+"I would wish for a trip to 
+Venezuela." Lisa Gaffin, Nursing 
+major. 
+
+
+
+n 
+
+
+
+
+"I would definitely wish for ten 
+thousand pounds of M &amp; Ms." Sally 
+Slick . Nutrition Science major. 
+
+
+
+
+AMONG 
+
+THE 
+LIVING 
+
+By NANCY SLICK 
+
+
+
+
+I-P 
+
+GUEST 
+COLUMN 
+
+
+
+Once upon a final 
+
+
+
+By NANCY SLICK 
+
+'Twas Ihe night before 
+finals, when all through my 
+head, 
+
+Not a neuron was 
+
+stirring— they'd all gone to 
+bed. 
+
+The books had been strewn 
+in array an the floor, 
+
+And the eyelids weighed 
+heavy; the clock ticked past 
+four. 
+
+I thought how the teachers 
+were snug in their beds, 
+
+While visions of failures 
+flowed free through their 
+heads. 
+
+A long, soothing nap I 
+sought, semester now 
+fading, 
+
+I'd taken to drifting and 
+dream serenading. 
+
+And as I dreamt, through 
+my thoughts there arose 
+
+The clouding of data that 
+each student knows. 
+
+I thought of the things of 
+historical fame: 
+
+The dates and ideas, the 
+places and names. 
+
+The twenties, 
+
+progressives, Japan and R. 
+Nixon, 
+
+Jane Adams and Truman 
+and A. Solzhenitsyn. 
+
+Of numerous numbers I 
+thought when I dared— 
+
+How area is equal to pi 
+
+
+
+Chancellor 
+lists Christmas 
+
+
+
+wishes 
+
+
+
+
+Joseph P. Gtusti 
+
+
+
+IPFW Chancellor 
+Joseph P Giusti replied 
+to our question about 
+what wish he would make 
+if he was granted one for 
+Christmas. He said: 
+
+As Chancellor. I would 
+wish for another good and 
+well-deserved salary 
+increase for our faculty 
+and staff; for ap- 
+propriations to equip the 
+multi-purpose building 
+and construct an animal 
+care facility and a fine 
+arts complex ; and for 
+IPFW to continue to be 
+blessed with an out- 
+standing faculty and 
+excellent student body. 
+
+More personally, I 
+would hope that cures 
+could be found for the 
+many dread diseases 
+which afflict millions of 
+men, women and children 
+throughout the world, so 
+that these people could be 
+free to lead long, healthy 
+and happy lives. 
+
+
+
+
+
+
+SPRING 1981 CLASS SCHEDULE v 
+
+morning: hi""!!? l r \" Sl ""' "' U&gt;C "" J&gt; ' »-ii;so 1 
+
+
+
+
+'i!.,M -.[.i Winning 01 
+
+
+
+(frw.t, 5«yr1tr) . 
+
+
+
+■ .... i. 
+
+
+9-H 50 
+
+
+1 orlur, MivU,r, -,lr« 16/7 
+
+•©•I JOI • !,..! (..„ 
+
+lit (IH |, tPl „ ,,,^., „, Htlotjlmr,! .|„-l,., 
+
+
+'■ 10 li 1! 
+
+
+sacurday morning &amp; afternoon: 
+
+
+fHA| BUO U'a.l.,.; F^ndirtnuli 11 . , 
+r*M biil Fir, ufe Dr. .In, II"' 
+
+" — I0Z6 krtu Berry Hrpcl 
+
+
+t-U .nd 1- 
+9-12 irt 1- 
+
+
+Saturday afternoon: 
+
+
+
+
+■ . 01 Financial -LcouMln., 1)1 
+■.•■.*» clan U baoulti 
+
+'-HI '.'^1 HuOt-rn up.im 
+IKI, (]« MoflcTf, Ur.nj 
+EHG Kill Llwenl.rj Coapotlllon 1 
+
+' '■ ■ '• ll I ■■ !■-■■. .11, mi UrII "■■! mill 
+
+
+* li l',-i u 
+12 30-3 I 
+li IS-] 1 
+
+i;- 15-3.0 
+. 1! IS-] i 
+
+
+1 III li ■ Mir »ppmi 1 1,,,,,, 
+■ ■■ lonki .'■,-, 
+
+(ImcM',, World Hillary] 
+
+■:&gt;■- ..,.,.. ,..■,,, ., !•,- ,, | 
+
+
+12; 16-3 
+
+
+- in paiiii 
+
+. ■ 
+
+
+■ ■■ 
+
+1. r ,, 
+
+
+
+Sunday afternoon: 
+
+AST AIM Stellar Aitrongn/ 4-6:50 
+
+W, H303 Hjrlctlmj Ui't It lon-KaMng ... 4-650 
+
+[Wit 0543 Prep, ct mop™*. Instruct. Haurl.U ?:1S-S 
+
+NIIA Al/fl Ho«..(i f.rll. i./Tt... VI'.ijjI Art'. I - J : 50 
+
+KA 153 M,|. ■!,-.. ,ind Tr|.|on..-flr» I 1-3:50 
+
+Plllt 70b Philosoiiny of Hellion 1-3:50 
+
+For a Complete Brochure 
+
+CALL ^&gt; 
+
+4825736 n £»/ 
+
+rdtfkiUttCNlv- RkJiii U •i.Hv.ii l.,l Wiw- J 
+
+
+
+limes r squared. 
+
+Circumference is equal to 
+two pi times r, 
+
+IA useful equation 
+wherever you are). 
+
+And then in crept Chaucer 
+with Dantein tow, 
+
+(He thought to show Virgil 
+anewwaytogo). 
+
+Reciting their stanzas they 
+walked the terrain 
+
+Of my bingling, bangling, 
+bumbling brain. 
+
+And then I heard Chekov 
+contesting my wits— 
+
+"Knowsky das themes ov 
+mein Soviet skits?" 
+
+Musical masters (hen 
+came into sight. 
+
+They snapped, but their 
+Bach was much worse than 
+their bite. 
+
+Then Adler and Jung came 
+to stir my repressions 
+
+To make me remember 
+psychology sessions. 
+
+Following then were 
+Monet and Van Gogh- 
+Painters whose work it 
+was deemed I should know. 
+
+My head, In the hands of a 
+teacher that growled, 
+
+Swam round as I sweated. 
+My heart pounded loud. 
+
+I dreamt or gargoyles and 
+gargantuan gloom. 
+
+I knew 1 was destined for 
+disastrous doom. 
+
+As Ihe struggle was 
+piquing, my brain became 
+numb. 
+
+I dreaded the dreaded 
+exams yet lo come. 
+
+I fell academics was 
+grasping my throat, 
+
+But I knew all my 
+colleagues were in the same 
+
+Knowing our fate, lo the 
+others I prayed, 
+
+"Happy schooling to all, 
+an d to all a good grade ! " 
+
+
+
+By I It . LARKY KRAMER 
+Every year at this lime, 
+the whole western world 
+plunges into an enterprise 
+known as Christmas. 
+
+From an economic point of 
+view, the months of 
+November and December 
+are vitally important, 
+especially during a 
+recession. Business firms 
+leetering on the edge of 
+failure will sink or survive as 
+the gift-buying trends of the 
+shopping public rise or dip in 
+their direction. 
+
+From a social point of 
+view, Christmas is a lime for 
+parties, reunions and 
+homecomings. 
+
+From a medical point of 
+view, it is a time for 
+overindulgence, guilt, 
+depression and physical 
+injuries from domestic 
+fights, unsafe decorations 
+and traffic accidents. 
+
+From a global point of 
+view, it is a time of ironic 
+contrast, as the glow of 
+peace and good cheer fly in 
+the face of world poverty, 
+and rlii- rumbling of troop 
+movements in eastern 
+Europe drowns out the music 
+of the Christmas bells. 
+
+But what about the 
+religious festival that lies at 
+the base of all these points of 
+view? Can there be any real 
+connection between Ihe birth 
+long ago of a so-called 
+"Prince of Peace" and the 
+hubbub of conflicting 
+
+
+
+emotions that washes over 
+us in the last month of the 
+year? 
+
+Maybe therecan. 
+
+The early Church 
+unabashedly appropriated a 
+pagan winter festival lo 
+celebrate the unknown birth- 
+day of its founder. The 
+original pagan feast 
+celebrated the winter 
+solstice as the beginning of 
+the sun's return from its 
+chilling annual retreat. 
+
+In Christianity, Jesus 
+stands for Ihe divine in the 
+human, the good news that 
+there is nothing basic in you 
+or me that makes us in- 
+compatible with absolute 
+perfection, goodness, love, 
+; whatever you want 
+
+
+
+to 
+
+
+
+all the 
+
+
+
+ultimate 
+
+
+
+projection of all that we long 
+lo be. Darkness and cold are 
+not positive evils, just places 
+the light has nol yet reached. 
+
+So should it come as a 
+surprise that even those of us 
+who profess explicit 
+Christian belief sometimes 
+celebrate that belief in an 
+awkward, inconsistent, less 
+than moderate way? Need 
+we be disillusioned because 
+most of us do not yet reflect 
+perfectly the brightness of 
+the unconquered sun? 
+
+The feast itself offers hope. 
+Christmas says it is possible 
+to outgrow foibles, that it is 
+normal to aspire to un- 
+selfishness and maturity, 
+that peace and good will are 
+
+
+
+not unattainable goals. 
+
+Progress in this kind of 
+hope is not automatic. As 
+each year provides ad- 
+ditional opportunities lo 
+develop skill in the art of 
+Chris tmasing, we can work 
+at celebrating love and 
+renewal in ways that are less 
+laden with unnecessary 
+baggage. We can learn to be 
+simple without being severe, 
+to be hospitable without 
+being ostentatious, and to be 
+loving without being 
+possessive or exploitative. 
+
+The carol, "I Heard the 
+Bells"saysitwell. 
+
+"And in despair I bowed 
+my head: 
+
+"There is no peace on 
+earth,' I said, 
+
+'For hate is strong and 
+mocks the song 
+
+Of peace on earth, good 
+will to all.' 
+
+Then pealed (he bells more 
+loud and deep; 
+
+'God is not dead, nor doth 
+God sleep; 
+
+The wrong shall fail, the 
+right prevail, 
+
+With peace on earth, good 
+will to all!'" 
+
+
+
+Correction 
+
+
+
+In a story run in last 
+week's edition of The 
+Communicator, it was in- 
+correctly reported that 
+Citizens Cable would be 
+involved with a hookup at 
+IPFW, and that Citizens 
+Cable has offered to provide 
+all the necessary equipment 
+for such a hookup. 
+
+However, Fort Wayne 
+Cable vision — the city's 
+other cable television 
+company — will be 
+responsible for the hookup at 
+the administration's ap- 
+proval. 
+
+
+
+The Communicator 
+
+
+
+itlkjn by Indw 
+
+
+
+
+AUDIO CITY presents 
+
+CHRISTMAS with 
+
+prices like you've never 
+
+seen before. 
+
+So get out your 
+
+stockings and stop by 
+
+for unique ideas 
+
+for your favorite 
+
+person. 
+
+3413 North Anthony 
+in back of Karma Records 
+
+
+
+Jews celebrate 'courage' 
+
+
+
+BvfllKECEKKEN 
+
+While Chrislians nrc using 
+the last 15 days until 
+Christmas lo prepare for 
+that holiday. Jews are 
+celebrating Hanukkah. The 
+holiday celebration lasts for 
+eight days and concludes this 
+week. 
+
+In America, its close 
+proximity to Christmas 
+tends lo blow the 
+significance of Hanukkah out 
+of proportion, and it lends lo 
+have the same com- 
+mercialization as Christmas. 
+
+Hanukkah does not have 
+the deeper moral 
+
+significance of other Jewish 
+
+
+
+holidays 
+
+Kippur, 
+
+atonement, 
+
+celebration of the courage 
+
+and resiliency of (he Jewish 
+
+spirit. 
+
+The origin of Hanukkah 
+dales back to over two 
+thousand years ago during 
+the time when the forces of 
+Alexander the Great invaded 
+Jerusalem. The Jews were 
+ruled by a Greek king named 
+Antiochus at that time, and 
+he drove the Jews from their 
+temple in Jerusalem. He 
+ordered them to worship the 
+Greek gods, and anyone who 
+refused was murdered. The 
+
+
+
+&gt;-i « j However, a 
+
+Communicator needs you &lt;•*"*&gt; ™* 
+
+•^ humeri for 
+
+
+
+u didn't know that The 
+Communicator STILL needs 
+writers and photographers 
+for next semester ... you 
+haven't been reading the 
+newspaper. Interested 
+students should slop by our 
+office — Suite 215. Walb 
+
+
+
+Memorial Union — today or 
+Friday, or call for an ap- 
+pointment (482-55851 next 
+week. Students can also earn 
+three-hours of credit 
+working for the newspaper. 
+Contact The Communicator 
+for more information. 
+
+
+
+Jews fled into the hills, 
+
+ganiied a revolt which w 
+led by a family called the 
+Maccabees, and fought back. 
+A battle ensued, and the 
+Jews took Jerusalem back 
+from the Greeks. 
+
+When they went to the 
+temple, they found it 
+desecrated with Greek gods. 
+They cleaned it upandhelda 
+prayer service. When the 
+service was ready to begin, 
+they couldn't find any oil to 
+light the temple holy lamp 
+which stands over the Torah 
+and must be kept lit night 
+and day. Some oil was 
+eventually discovered, but it 
+only enough for one day 
+However, a miracle oc- 
+flame 
+burned for eight days. 
+Hanukkah celebrates that 
+miracle, and, more im- 
+portantly, the triumph over 
+the Greeks. 
+
+
+
+Called the "festival 
+
+ghts." Hanukkah 
+
+represents that flame with 
+an eight pronged candelabra 
+called a Mcnorah. 
+
+During (he festival, a 
+candle is lit for every day the 
+flame burned. On (he first 
+day, one candle is lit, while 
+another is lit on (he second 
+day and so on until on the 
+eighth day when all the 
+candles are lit. The Menorah 
+is displayed in a conspicuous 
+place during Hanukkah. 
+
+Today, the flame of the 
+Menorah has come lo 
+symbolize the miracle o( 
+Jewish survival, and it 
+reflects (heir faith in God. 
+
+The spiritual nature of 
+Hanukkah is expressed in 
+the following passage of the 
+Bible which is read during 
+(he prayer service on 
+Hanukkah: "Not by might 
+
+
+
+_ nor by power, but by my 
+' spirit will ye prevail sayeth 
+the Lord of hosts. " 
+
+Hanukkah is also a time 
+for the children (o have fun. 
+They receive gifu and play a 
+game wilh a spinning (op 
+called a driedel. The top has 
+four sides, each inscribed 
+wi(h the Hebrew lelters 
+which sland for N.G.S.H. 
+The lelters represent the 
+Hebrew sentence "Nesgadol 
+haya shem." which means a 
+great miracle happened 
+there. The game is usually 
+played' for candy, and if the 
+top lands on N, the child gels 
+nothing. H, he gels half, G. 
+he gets il all, and S, he puts 
+something in. 
+
+For all Jews, Hanukkah is 
+a time lobe thankful. It is not 
+only Ihe celebration of a 
+miracle, but the celebration 
+of the courage found in (he 
+Jewish spirit. The flame of 
+Hanukkah seems to say that 
+spirit will endure whatever 
+lies ahead and continue to 
+flourish. 
+
+
+
+DECEMBER 11. 1 
+
+
+
+- THE COMMUNICATOR - PAGE 3 
+
+
+
+
+WEEKDAYS 10 a.m.-12 noon 
+
+
+
+WIPU 
+
+
+
+a service of BftF^V 
+
+
+
+8QlFM 
+
+
+
+
+2511 E. 46th St., No. C5 
+Indianapolis, Ind. 46205 
+(317) 546-8336 
+
+
+
+SALE 
+
+ENTIRE STOCK 
+
+OF 1981 
+CALENDARS 
+
+
+
+20% 
+
+
+
+off 
+
+
+
+NOWTHRU CHRISTMAS 
+
+FOLLETT'S 
+
+Ft. Wayne Bookstore 
+
+Ground floor Kettler Hall 
+483-6100 
+
+
+
+
+INSTANT COPY 
+
+JUST A MINUTE AWAY 
+
+
+
+3420 
+
+NORTH ANTHONY 
+
+482-1126 
+
+
+
+IN THE NORTH ANTHONY 
+
+SHOPPING CENTER 
+
+DOWNTOWN INTERSTATE INDUSTRIAL PARK 
+
+232 W. WAYNE 1516 DIRECTORS ROW 
+
+4221585 484-9116 
+
+COMPLETE PRINTING SERVICES 
+
+
+
+WE WANT TO BE YOUR PRINTER 
+
+
+
+
+Male/ n' Tail/ 
+
+2332 NORTH CLINTON 
+
+ONE OF FORI WAYNE'S LARGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIRDS 
+
+AND A FULL LINE OF PET SUPPLIES 
+
+
+
+10% 
+
+
+
+O OFF ANY ONE FISH OR BIRD 
+
+With This Coupon 
+Limit One Coupon Per Customer 
+..-.----.--_ COUPON 
+
+483-4930 "open 7 days a week" 
+
+
+
+3fii*&gt;ftezte tfoi 
+
+
+
+
+Im 1 
+
+1 
+
+
+
+Oj 2511 E. 46th St, fC-5 
+IN Indianapolis, In. 46205 
+(317) 546-8336 
+
+
+
+IEST PREPARATION 
+
+SPECIALISTS SINCE 1938 
+
+CLASSES IN FORT WAYNE 
+
+BEGIN IN FEBRUARY 
+
+
+
+Look beyond graduation 
+—learn a skill. 
+
+
+
+
+r commencement, success comes faster 
+lo those wilh bolh a degree and useful skill 
+The Arrnv offers more ihon 200 skill training 
+programs Look ahead. Serve your counlry os 
+you serve yoursell 
+
+Call Army Opportunities 
+745-4948 
+
+Join the people who've joined the Army. 
+
+
+
+campus 
+calendar 
+
+
+
+THURSDAY 11 
+
+Inter-Varsity Christian Fellowship, Noon, Walb 112 
+
+Women's Basketball, 1PFW at St. Francis, 6:30 p.m. 
+
+
+
+FRIDAY 12 
+
+Nursing Information meetings, Neff 138, 10 a.i 
+
+
+
+SATURDAY 13 
+
+Women's Basketball, IPFW at Northwestern Business 
+College, 1 p.m. 
+
+
+
+MONDAY 15 
+
+French Club meeting, Walb 1 14, Noon 
+
+
+
+DECEMBER 13-19 
+Final exams 
+
+
+
+FRIDAY 19 
+
+Last day of classes 
+
+
+
+SATURDAY 20 
+
+"28:30" half hour television program produced by IPFW 
+
+students will air ot 7:30 a.m. on WFFT-TV, ch. 55 
+Basketball, Indiana University East, 2 p.m. 
+
+
+
+Happy Holidays 
+
+
+
+Compui Colondar li t( 
+of all unlvorilty dopar 
+bo lubmlllod to n.„ C 
+
+
+
+prntodfng Iho wool 
+
+
+
+Inlworilty at Fort Wayno for Iho uto 
+
+.- I..-I...-1 In iho Camput Calondar mutt 
+tllar Hall by S p,a&gt;. on tho Thunday 
+
+
+
+PAGE -1 - THE COMMUNICATOR - DECEMBER II, 1980 
+
+Kids can now 
+talk to Santa 
+
+
+
+By CHKRYL GIBSON 
+
+Children in Fort Wayne 
+can now call directly to 
+Santa and Mrs Clans. 
+
+Ttie hotline does not go to 
+the North Pole, bill to San- 
+ta's workshop ai the Colonial 
+Cresl Nursing Home on 2940 
+Norih Clinton- 
+Even skeptics would 
+certainly .become believers 
+in Santa if they heard Jim 
+Bales, one of IB hotline 
+workers, bellow out "Ho-Ho- 
+Ho", or heard the gentle 
+voice of Katie Klopfenstein, 
+another worker, who speaks 
+ihe pari of Mrs. Claus. 
+
+Fourteen nursing home 
+residents and four sub- 
+stitutes service the hotline, 
+which can be reached by 
+catling the hotline, 433-284B. 
+They work on hour shifts 
+from 1 p.m. to 8 p.m The 
+hotline will be open until 
+Christmas Eve. 
+
+A nursing home resident, 
+Lauretta Limpe, estimated 
+that they receive almost 80 
+calls an hour. Some, she 
+said, are cute, but some 
+children won't talk so you 
+want them off the phone so 
+others can call 
+
+Nina Forshea, the oldest 
+Mrs. Claus, at 90, said that 
+the kids can sometimes be 
+full of pranks. When the 
+phone rang, Nina's eyes 
+started to sparkle. "Santa's 
+workshop... Mrs, Claus 
+speaking. ..Santa's out 
+
+
+
+watering the reindeer.. .I'll 
+give him the order. ..what do 
+you want. ..what else.. .want 
+any surprises. ..we'll try to 
+gel them. ..bye." 
+
+'Two things really im- 
+pressed me. An ll-year-old 
+boy wanted a new suit to go 
+to church, and an 11-year-old 
+girl wanted to have a bra and 
+panties," said Mrs, Klop- 
+fenstein. "One boy asked for 
+a toy I never heard of and 
+told me to go to K-Mart for 
+it." 
+
+Another resident, Oscar 
+Harper, looks like the 
+original Santa with white 
+hair and a mustache. "I get a 
+big kick out of talking to the 
+kids," said Oscar. "A nine 
+year old boy wanted an auto, 
+but I told him I'd have to 
+hitch it to the back of my 
+sleigh." 
+
+"Some kids just want to 
+hear your voice, and I like to 
+talk to kids. They also ask 
+aboul Rudolph," said Bates. 
+
+The callers range from 2- 
+II years. The girls still ask 
+for dolls, and the boys still 
+ask for footballs and 
+basketballs, but Star Wars 
+has been in big demand. 
+
+The center is also making 
+bean bags, puzzles and 
+plaques to give to children at 
+the three hospitals in Fort 
+Wayne. These gifts will be 
+distributed by the residents 
+on Christmas Eve. 
+
+
+
+Continued from page 1 
+
+Lennon 
+
+
+
+Other students at IPFW 
+reacted similarly Tuesday 
+morning. 
+
+"It sorl of shocked me," 
+said Jill Holderness, 19. "I 
+collected the Beatles albums 
+and was still a fan of every 
+member. They (the Beatles) 
+were sort of immortal." 
+
+Mark Wells, 24, said. "So 
+many actors have gotten 
+beaten and stabbed that it 
+'Lennon's death) doesn't 
+surprise me. The Beatles 
+group is immortal, but in- 
+dividually they're not. I got 
+their first album and more 
+than half of their collection. I 
+
+
+
+grew up with them in the 
+sixties. I remember them on 
+the Ed Sullivan Show." 
+
+Sue Lilie. 18. commented. 
+"There will never be a 
+reunion. Everyone wanted 
+them ithe Beatles) to get 
+back together." 
+
+In The Fort, a student who 
+was eating lunch said to a 
+friend, "All the radio 
+stations were playing 
+Beatles music and I knew 
+something had happened." 
+
+Another student played 
+"Imagine," a song written 
+by. Lennon, on the piano in 
+the Fireside Lounge 
+
+
+
+
+•COUPON' 
+
+
+
+WENDY'S 
+
+
+
+55 Wendy's has the taste, just for you. Bring this coupon I 
+O our N. Anthony store and receive a free small pepsi, 
+B coffee, or cold tea with the purchase of a salad, 
+R single or chili. &lt; 
+
+
+
+Faste 
+
+
+r, 
+
+
+
+
+
+
+funnier and 
+
+
+Wl 
+
+
+de 
+
+
+r. 
+
+
+■|3L\ 
+
+
+'■'■'' 
+
+
+
+
+¥% 
+
+
+^Hi^^»..'.' 
+
+
+V- 
+
+
+v-jfc 
+
+
+
+
+
+
+i £&amp; 
+
+
+
+
+iJv-iiL" 
+
+
+
+©3K&gt; ®2*S) 
+
+
+
+.it'll knock you out! 
+
+
+
+CUNT EASTWOOD 'ANY WHICH WAY YOU CAN - ' - ■ i SONMA IOCKE 
+
+
+
+Come on In and lettuce, 
+catsup on your hunger. 
+OFFER EXPIRES DEC. 30, 1980 
+
+__ COUPON ^^^_ 
+
+
+
+
+OPENING EVERYWHERE 
+ON DECEMBER 17TH 
+
+
+
+SATURDAYS 9 p.m.-2 a.m. 
+
+WIPU 
+
+
+
+a service of 
+
+
+
+89iFMI 
+
+
+
+
+&lt;2* 
+
+
+
+d&gt;Lritf 
+
+
+
+p v ' ^ 
+
+
+
+*°&gt;r.of&gt; 
+
+
+
+the 
+
+
+
+DECEMBER 11,1980- THE COMMUNICATOR- PAGE 5 
+
+
+
+Jazz students 
+show enthusiasm 
+
+
+
+&lt;**&gt;' 
+
+
+
+-'* ""*, 
+
+
+
+performers at last week's Jan Ensemble 
+
+
+
+Xmas movies begin 
+
+
+
+By MIKE GEFFEN 
+With Ihe opening of "Flash 
+Gordon" at Norlhwood 
+Cinema last weekend, the 
+Christmas movie season has 
+officially begun. 
+
+Christmas is one of the 
+busiest times of the year for 
+the major studios. The rush 
+to get films nominated for 
+the Oscar, people out 
+shopping and more likely lo 
+spend money on a film, and 
+kids out of school with 
+nothing to do but go see a 
+movie, are the reasons why 
+the studios release what they 
+consider their big block- 
+busters at this time of year. 
+
+With more people going to 
+the movies during this time 
+of year, the competition is 
+fierce as each studio battles 
+for its share of the market. 
+In Fort Wayne, the com- 
+petition is going lo be par- 
+ticularly tight because of a 
+limited number of screens. 
+
+Because of this, a number 
+of the more serious films 
+sure to be up for Oscar 
+consideration will not play 
+here until after the first of 
+the year. These films include 
+"The Fan," "Fort Apache, 
+The Bronx," "The Jan 
+Singer." "Raging Bull," 
+with Robert DeNiro, and 
+"Tribute." 
+
+Of the Christmas films 
+that will be playing here, 
+however, there should be 
+something for everyone. For 
+science fiction fans, there's 
+"Flash Gordon," for Clint 
+Eastwood fans, there's "Any 
+Which Way You Can," for 
+satire fans. Buck Henry's 
+"The First Family" should 
+
+
+
+fill the bill; and there are 
+still some films led over. 
+
+Don't be fooled by Ihe 
+hype, however, because 
+Christmas films are not 
+known for their longevity. 
+Chances are that most films 
+opening this month will be 
+around for only three weeks, 
+not a long-time for supposed 
+blockbusters. 
+
+Keeping that in mind, what 
+follows is a list of films (hat 
+will be playing in town for 
+(heholidays: 
+
+In "Flash Gordon," what 
+Dino DeLaurenliis did to 
+"King Kong," is done again 
+to the comic-strip hero. In 
+other words, it is a high 
+camp spoof aimed 
+predominately at kids from 7 
+to 12. But then what else 
+could be expect from a film 
+written by the man who did 
+the "Batman" T.V. series 
+and featuring music by 
+Queen? 
+
+"Any Which Way You 
+Can" is the film that asks the 
+question, "can Clint Eat- 
+wood make even more 
+money by making a sequel to 
+a film that starred an ape?, 
+or. can an ape save him from 
+another box office 
+disaster?" 
+
+"The Formula" is a 
+speculative thriller about 
+what would happen if the oil 
+companies discovered a 
+formula to make synthetic 
+fuel used the the Nazies in 
+the war. It stars George C. 
+Scott and Marlon Brando. 
+
+"The Arislocats" is Wall 
+Disney's animated film 
+about a pair of kittens who 
+are heirs to a fortune and are 
+kidnapped. The film has 
+little of the magic found in 
+
+
+
+By TIMOTHY J.ROSS 
+
+Jazz! 
+
+"It is the way the pen- 
+dulum is swinging now," 
+according lo John Branam, a 
+member of the associate 
+faculty and the head of the 
+jazz section in the music 
+department. 
+
+Branam is also the 
+director of the IU Jazz 
+Ensemble and the Com- 
+munity Jazz Band. 
+
+Both bands performed in 
+Neff 101, Dec. 2, under the 
+excellent direction of 
+Branam. 
+
+Although the Community 
+Jazz Band is young— it was 
+formed this semester— it 
+played, with a few ex- 
+ceptions, very well. 
+
+The IU Jazz Ensemble 
+followed the Community 
+Jazz Band with an im- 
+pressive set of songs that 
+featured several soloists. 
+The best of the soloists was 
+drummer Scott Weltner, a 
+second-year member of the 
+band. 
+
+The highlight of the con- 
+cert was vocalist Cathy 
+Rowe, who sang a beautiful 
+
+
+
+rendition of "The Children of 
+Sanchez." 
+
+Despite the less than 
+capacity crowd, Branam 
+was pleased with the con- 
+cert. "Considering the 
+shortness of time to prepare, 
+it turned out well. The 
+members really work. There 
+Is a lot of enthusiasm and 
+interest on the students' 
+part." 
+
+The jazz program at IPFW 
+is expanding. The school 
+offers classes in jazz 
+arranging and Jazz en- 
+semble. Being a member of 
+the IU Jazz Ensemble earns 
+credits for graduation, and 
+any interested persons may 
+audition for the band. 
+
+The IV Jazz Ensemble will 
+be holding concerts at local 
+high schools to gain mem- 
+bers for the future. 
+
+There are also two con- 
+certs scheduled for the 
+IPFW campus next 
+semester. The first will be 
+Mar. 11, 1981, and will 
+feature the IU Jazz 
+Ensemble. The second 
+concert, featuring both 
+bands, is planned for April 
+22, 1981. 
+
+
+
+
+Director John Branam leads the IU Jazz Ensemble at their concert last week. (Photo by 
+Tim Ross). 
+
+Lennon album boring 
+
+
+
+most of Disney's other 
+animated films. 
+
+"A Change ol Seasons" 
+might be considered an 
+eighfies version of "Bob and 
+Carol and Ted and Alice." It 
+stars Shirley MacLaine, 
+Anthony Hopkins, Bo Derek 
+and Michael Brandon. 
+
+"First Family" is Buck 
+Henry's irreverent view of 
+ihe While House and politics. 
+Bob Newhart described his 
+character as having the 
+earlhiness of Johnson, the 
+deceit of Nixon, the stum- 
+bling of Ford and ithe in- 
+decision of Carter. Also 
+starring are Gilda Radner, 
+Madeline Kahn, Harvey 
+Kormanand Rip Torn. 
+
+Seems Like, Old 
+Times" is about what 
+happens when a divorced 
+woman runs into her ex- 
+husband, who's also a crook. 
+Neil Simon's script reteams 
+Goldie Hawn and Chevy 
+
+"Nine To Five," starring 
+Jane Fonda, Lily Tomlin and 
+Dolly Parlon. is about three 
+secretaries who conspire to 
+murder their boss. 
+
+"Popeye," director Robert 
+Altman's interpretation of 
+the comic-strip character, 
+featuring Robin Williams as 
+Popeye, Shelly Duvall as 
+Olive Oyl and Paul Dooley as 
+Wimpy, has a script by Jules 
+Feiffer and music and lyrics 
+by Harry Nilsson. 
+
+"Stir Crazy" has director 
+Sidney Portier reteaming 
+Richard Pryor and Gene 
+Wilder in this story about 
+two actors who gel framed 
+for robbery. It is written by 
+playwrighl Bruce Jay 
+
+
+
+arts 
+at a 
+g £ glance 
+
+On the silver screen 
+
+The Cinema Center film this Saturday, Dec. 13, will be 
+"Swing Time," starring Fred Astaire and Ginger Rogers. 
+The film next week, Dec. 20, will be Ingmar Bergman's 
+"Magic Flute." Both films will be shown at 7:30 and 9:30 
+p.m. at the Fort Wayne Public Library. 
+...The Embassy Theatre film club will be showing "The 
+Eddy Duchin Story," Dec. 19 and 21, and "Treasure 
+Island," on Jan. 2 and 4. For more information, call the 
+Embassy box office. 
+
+Treacling the boards 
+
+"Our Town," one of the best American plays ever 
+written, will open at the Civic Theatre, Jan. 2, and run 
+through Jan. 17. 
+
+...First Presbyterian Theater will present "Life With 
+Father," Jan. 9 through 18. 
+
+...Try-outs for "Laura," at Arena Theatre, will be Jan. 5 
+and 6, Director Denny Bechtelheimer is looking for men 
+and women in various age groups. 
+
+Concerts of note 
+
+Stephen Fissel, principal trombone of the Fort Wayne 
+Philharmonic, will be soloist at the Chamber Orchestra's 
+third subscription concert, Dec. 14, at 2:30 p.m., at the 
+Performing Arts Center. 
+
+. .Prokofiev's "Peter and the Wolf" will highlight the 
+Fort Wayne Philharmonic's free Children's Christmas 
+concert, Dec. 20, at 2:30 p.m., at the Embassy Theatre. 
+For those arriving early, there will be a prelude of holiday 
+favorites played by Buddy Nolan al the Embassy organ. 
+
+...The Fort Wayne Dance Collective will present "Nuts 
+and Crackers," a nothing to do with Christmas dance 
+concert, Dec. 12, at 8 p.m., and Dec. 13, at 2 p.m., al the 
+First Presbyterian Theater. Tickets are S3. 50 for adults 
+and $2 On lor children. For reservations call At i link 
+
+
+
+BySUESNODGRASS 
+
+One cannot turn on the 
+radio without hearing the 
+sound of some "new 
+discovery" dominating the 
+airwaves. This usual success 
+story ends up— in a million 
+dollar single, thai is soon 
+replaced, then later 
+forgoiten. 
+
+Such is not the case with 
+John Lennon, one of Ihe 
+founding falhers of rock-n- 
+roll, who has just released 
+his first album, "Double 
+Fantasy," after retreating 
+into seven years of married 
+life with YokoOnp. 
+
+"Just Like Starting Over," 
+his new single on his self 
+owned label. Geffen, is 
+already in the top 40, just 
+three weeks alter its release. 
+
+However, just because an 
+ex&gt;-Beatle has an album in 
+the top 40 does nol 
+necessarily mean that it is 
+worthy of such a position. 
+
+Such is the case with 
+Lennon's new album. 
+
+It seems that through this 
+seven year rest, married life 
+
+
+
+has gotten the best of him. 
+Throughout the album's 14 
+songs, we find our lovers, 
+John and Yoko, forever 
+searching for each other in 
+songs such as. "Every Man 
+Has a Woman Who Loves 
+Him," only to lose it as in, 
+"I'm Losing You," once 
+again regaining this lost 
+love, as in the song "Just 
+Like Starting Over," and 
+then letting us all know that 
+they live happily ever after. 
+Isn't that nice (how sticky). 
+
+Musically, all the album 
+can offer is Yoko's repetitive 
+whining and moaning, that 
+must be tolerated for more 
+than half (he album. 
+
+She does, however, relieve 
+the audience lyrically with 
+such (rite and overdone lines 
+as, "Kiss, kiss, kiss, kiss me 
+love. Just one kill will do," 
+and "Give me something 
+that's not cold. Come on, 
+come on, come on." 
+
+Such pretentious piffle is 
+repeatedly drilled inlo our 
+heads at least five times in 
+every song! 
+
+
+
+John also displays as much 
+talent and ingenuity with 
+lyrics such as, "Even after 
+all these years, I miss you 
+when you're not here. I wish 
+you were here my dear 
+Yoko." 
+
+Perhaps the only im- 
+pressive number on the 
+entire album is Lennon's 
+"Clean Up time," a snappy 
+tune somewhat in Ihe 
+tradition of the Beatles (I 
+guess once a Beatle, always 
+aBeatle). 
+
+It is sad to think that a 
+performer, who at one point 
+was an innovating genius, 
+has lowered himself lo 
+produce an album such as 
+this. 
+
+Love is great, but to listen 
+to an entire album of such 
+sappy dribble, leaves one, 
+simply stated, bored. 
+
+
+
+(Edit 
+
+
+
+
+
+
+This 
+
+
+
+as written before 
+the news that Lennon was 
+shot in front of his New York 
+apartment Monday evening. 
+His tragic death truly marks 
+the end ofanera.) 
+
+
+
+Music adds to spirit 
+
+
+
+The social whirl 
+
+
+
+Singles are invited to Join together for a Chrislmas 
+Potluckon Dec. 13, at 6p.m. allheSherman Street Church 
+of God, located at 902 Putnam SI. Singles are asked to 
+bring l meat dish and a second dish of either a salad, 
+vegetable or dessert. Bring your own silverware service. 
+Plates, napkins and beverages will be provided by the 
+Church of God Singles. 
+
+
+
+By MICHELE DE VINNEY 
+
+Whether wrapping 
+packages, decorating the 
+tree, or piling down Mom's 
+cookies, nothing adds to the 
+Christmas spirit more than 
+the music of the season. 
+
+There is an eclectic 
+assortment from which to 
+choose. All imaginable 
+tastes and styles are 
+represented, and the 
+selections are almost end- 
+less. 
+
+For those who prefer more 
+subdued music, one of the 
+better Christmas offerings 
+comes from Barbra 
+Streisand. Many of the old' 
+standards are featured as 
+well as some songs not as 
+immediately identified with 
+the holidays. 
+
+Especially good are her 
+interpretations of "Silent 
+Night," "The Christmas 
+Song," and "O Little Town of 
+Bethlehem." 
+
+Streisand gives these 
+favorites a beauliful warmth 
+and vibrancy thai is hers 
+
+
+
+
+THE STUDENTS' 
+
+GOVERNMENT 
+
+WISHES 
+
+EVERYONE 
+
+GOOD LUCK 
+
+ON FINALS 
+
+— and— 
+
+HAPPY 
+
+HOLIDAYS 
+
+WATCH THE PAPER 
+FOR FUTURE EVENTS 
+
+
+
+
+alone. The production and 
+orchestration are gorgeous 
+and complement her voice 
+nicely. 
+
+"My Favorite Things," 
+from "The Sound of Music," 
+and "Gounod's Ave Maria" 
+are also lovely additions to 
+this collection. 
+
+The recording is several 
+years old, but (he songs and 
+her performance are 
+timeless. 
+
+Other "oldies-but-goodies" 
+among the holiday albums 
+come from Motown 's biggest 
+acts— Diana Ross and Ihe 
+Supremes and the Temp- 
+tations. 
+
+Both albums demonstrate 
+soulful stylings that made 
+them legends, and their 
+respective harmonies are 
+typically tight. 
+
+Although (he material on 
+Ihe two is almost identical 
+(including "Little Drummer 
+Boy" and "White Christ- 
+mas"), Ihe different 
+arrangements and vocal 
+interpretations make each 
+
+
+
+
+
+
+worthwhile ir 
+
+dividual way. 
+
+One of the newest 
+Christmas releases is also 
+one of the most popular— "A 
+Christmas Together," by 
+John Denver and the Mup- 
+
+Whether you like John 
+Denver or not, it's hard to 
+resist this album, regardless 
+of age. 
+
+The Muppets make many 
+of these familiar tunes more 
+fun than they've ever been 
+before. Miss Piggy's per- 
+formance on "The Twelve 
+Days of Chrilstmas" alone 
+makes this album worth Ihe 
+price, and their version of 
+(he round "Christmas is 
+Coming" is also terrific. 
+
+These are just a_ small_ 
+sampling of what is offered. 
+Whatever the prefer- 
+ence—The Boston Pops or 
+Herb Alperl, Joan 
+Sutherland or Elvis Presley, 
+(he Carpenters or Johnny 
+Cash— there's something for 
+everybody 
+
+
+
+SCUBA 
+
+The New Adventure 
+
+Sales— Service 
+
+Alt major brands of diving equip. 
+
+CLASSES BEING OFFERED 
+
+Bone lo Advanced tevalt 
+
+
+
+Jo, 
+
+
+
+■■■ to explore lii. i I.t.i frontiei 
+,n Your Adventure Now 
+
+
+
+AQUANETIC 
+CENTER 
+
+206 Lincoln Hwy. 
+N.w Hovsn, IN 
+
+493-2904 
+
+
+
+
+
+"Purveyors Of Fine Coffees 8. Teas" 
+Featuring Fine Imported Beers t Wines 
+LIVE MUSIC EVERY THURSDAY, 
+FRIDAY AND SATURDAY NIGHT 
+
+
+
+Fri., Dec. 12 
+
+Sat., Dec. 13 
+Wed., Dec. 17. 
+Thur., Dec. 18. 
+
+Fri., Dec. 19 
+
+Sat., Dec. 20 
+
+Fri., Dec. 26 
+
+Sat., Dec. 27- 
+
+
+
+. Dave Morgan 
+Dave Morgan 
+Gil Bierman 
+
+Dan Owen 
+
+Dan Owen 
+
+Dan Owen 
+
+Pat Webb 
+
+Pat Webb 
+
+
+
+Hours: M-Th. 10 a.m. -12 Midnight 
+Fri. -Sat. 10 a.m.-l a.m. 
+
+
+
+PAGE e -THE COMMUNICATOR -DECEMBER 11. 1980 
+
+
+
+Xmas past j present, future seen 
+
+
+
+The holiday 
+
+opened in good spirit at 
+1PFW last week when Ihe 
+
+
+
+Dickens Dinner opens season 
+
+t season was gliosis of Christmas pas), annual Diekens Dinner, a ^^^^^^^^^ m ^^^^^^^^^^^^^^^^^^^^^^^^ m 
+
+
+
+gliosis of Christmas past, 
+present and future appeared 
+in Ihe form of the thirteenth 
+
+
+
+
+Christmas celebration 
+hosted by Ihe Division of 
+Musk. 
+
+Christmas past was 
+represented in. the old world 
+slyle and entertainment of 
+Ihe feast. The dinner began 
+with a Christmas wassail, or 
+toast, and ended with the 
+customary figgy plum 
+pudding. The entertainment 
+featured readings from 
+Dickens, by Larry Bower, 
+alternated with traditional 
+Christmas music performed 
+in Victorian costume by 
+students and faculty or the 
+Division of Music. 
+
+Christmas present was 
+represented by capacity 
+crowds all three evenings. 
+Guesls included Chancellor 
+Giusti, President Hansen of 
+Purdue, Mayor Moses and 
+many of Fort Wayne's mosl 
+prominent citizens. 
+
+Christmas future was 
+represented in the proceeds 
+of the event, which will go 
+toward music scholarships 
+and the growlh of Ihe 
+Division of Music al IPFW. 
+
+
+
+
+y Bower. Lord of Ihe Manor and hosl of Ihe Dickens 
+r, entertained guesls with readings from Dickens 
+&gt;me Utile known facts about Christmas in the pholo 
+. Below, oflcr an excellent program of Christmas 
+, the University Singers led the guesls at the 
+ns Dinner in singing some seasonal songs. (Photos 
+
+
+
+
+
+
+
+FRI &amp; SAT. NIGHT 
+ALL SEATS S3. 
+
+
+
+
+1 ENTERTAINMENT GIFT BOOKS onSaieNOWi] 
+
+Mdji 12 00 lil 6 p.m. imp! Itnnijp I Roll Atp [[ 
+
+
+
+THE AWAKENING 11 
+
+1:30- 3:30-5:30-7:30-9:30 
+
+
+
+Caddyshack 
+
+1:45 - 3:45 -5:45- 7:45- 9:45 S 
+
+
+
+3ENE WILDER ■ RICHARD PRYOR 
+
+STIR CRAZY 
+
+1:00- 3:05-510 7:15 ■ 9 20 US! 
+
+
+
+DOUBLE FEATURE 
+
+"AMERICAN GIGOLO" "WARRIORS" 
+
+1:30 -5:30- 9:30 (R) 3:*0 - 7:-10 (R) 
+
+
+
+"ANY WHICH WAV 
+
+
+
+"PRIVATE EYES" IPC) 
+
+1 IDHM.O-I »-9 .0 ™ I""" (™l 
+
+1 003 05-5 10-7 M 9 30 
+
+
+
+DOUBLE FEATURE 
+
+'SATURN 3" IN 
+
+:45-5:45-9 45 
+
+
+
+"THE CHANGELING" 
+
+3:40-7:40 (R) 
+
+
+
+IPGl 
+
+
+
+PRIVA TE MiAJAMIN 
+
+1:30 - 3:35 - 5:40 - 7:45 - 9 50 
+
+
+
+Ft. Wayne Blood 
+Plasma Donor Center 
+
+HOURS 
+or 
+
+OPERATION 
+
+W(Jji I rhuredJi 
+MO AM until 6 P.M. 
+
+Wtd. Fri. I SiL 
+
+7:30 am until 4 p.M. 
+
+New Damn Process Up 
+
+To 1 Hair bf let dcaini Wtti- 
+
+ttjl Oflrj-Silnrdji fleht«n 
+
+1-3 PM 
+
+SCASH PAID? 
+
+For Blood Plasma 
+
+Donalions 
+
+One Free Bui lite or 1 in paid 
+
+pitting. 
+
+EARN UP TO 
+
+$60 MONTHLY 
+
+Call lor In lor tuition 
+
+114 W. Washington Blvd. 
+422-7435 
+
+Brine This M lui Boiiui 
+BjPj DOHOHS OWLtl 
+
+
+
+Arthur Hansen, President or Purdue University, and hts wife Joined Chancellor Glusli and 
+his wire In singing Christmas carols at Ihe Dickens Dinner last week. (Pholo by Holden 
+Maccker) 
+
+CLASSICAL 
+
+Sundays 8 a.m.-8 p.m. 
+
+WIPU 
+
+
+
+la service o 
+
+
+
+f IP 
+
+
+
+8QlFM 
+
+
+
+Holiday Sound 
+w Savings 
+
+
+
+
+Warner Brothers , 
+
+
+
+EMMYLOU HARRIS 
+
+LighlOfTheSuMe 
+
+
+
+
+THIN LIZZY 
+
+
+
+BFl 
+
+
+
+$5.29 
+
+
+
+
+DONNA SUMMER 
+
+fncWei CoW tovo/taoiine Up 
+
+Who Do YWhint Wr* feelin' 
+
+Running to, Caver 
+
+£■ 
+
+t\ IntrWu rh. Till, Hit SiW. 
+
+v The Wanderer 
+
+
+
+$6.29 
+
+
+
+Give the gift 
+of music. 
+
+
+
+$6.29 
+
+
+
+
+m 
+
+
+
+ROBERTA FLACK 
+
+and PEABO BRYSON 
+
+LIVE &amp; MORt 
+
+
+
+
+KUJKS 
+
+MAKE THE WOHLD S1AH0 STILL 
+
+KIUIHG ME SOFTLY WITH HIS SONG 
+
+BACK TOGETHER' AGAIH 
+
+
+
+$9.99 
+
+
+
+$5.29 
+
+
+
+m 
+
+
+
+^c%sf^ 
+
+
+
+3627 ,N. Clinton 
+Ft. Wayne 
+483-9290 
+
+
+
+DISCO IS OUT - 
+LIVE MUSIC IS IN 
+
+MINGLES in the Ramada Inn 
+has gone live on Friday 
+and Saturday nights with 
+"FANTASY"! 1 
+
+9-1 No cover charge 
+
+
+
+
+DAMADA 
+
+IV INN A 
+
+
+
+
+
+
+1-69 at State Road 14 
+
+
+J 
+
+
+
+(@ FILM GUIDE I 
+
+
+
+HOLIDAY 1XKS? 
+
+
+
+EXCLUS VE - ONE WEEK ONLY 
+
+
+
+THE MAN WITH 
+BOGARTSFACE 
+
+
+
+ENDS TUESDAY - DECEMBER 16 
+T* I I 
+
+
+
+
+GEORGETOWN 
+
+
+
+
+FINAL 7 DAYS 
+
+*S V A PARAMOUNT PICTURE 
+
+Some films you walch, others you feel. 
+
+
+
+
+GATEWAY ,?"-"" 
+
+
+
+R061NWILLWMS 
+
+
+
+&lt;%t\ 
+
+
+
+&lt;A 
+
+
+
+NOW 
+
+SHOWING 
+
+
+
+ONE WEEK ONLr 
+
+i, WILLIE NELSON 
+
+ty$l DYAN C/VNNON 
+
+^ flaNEYS O CKLE 
+
+r^O[PGl 
+
+
+
+
+ranr 
+
+
+
+Ov\i\i&lt;S£i.we. 
+
+ffiO LI 
+
+
+
+CINEMA 27 1Y.. 4 ° 3 * 
+
+
+
+NOW PLAYING 
+
+Cf NE , RICHARD 
+WILDER PRYOR 
+
+STIR hi 
+
+
+
+Eating binges add pounds . 
+
+
+
+By DEBBIE CANTWEI.L 
+
+Julie thought it a litUe 
+strange when her perfect- 
+fitting designer Jeans no 
+longer fit. At least, she 
+thought it was strange until 
+she hopped on the bathroom 
+scales. 
+
+What she discovered was 
+enough to make a person 
+swear off the whole month of 
+December. 
+
+In less than the holidays 
+are long, Julie had gained 
+five extra, unwanted pounds. 
+What had gone un- 
+consciously into her mouth 
+at Christmas and New 
+Year's Eve — the gooey 
+fruitcake, the milk 
+chocolates, the creamy 
+fudge and the sugar- 
+sprinkled cookies — had 
+settled noticeably on her hips 
+and waistline. 
+
+In less than a month, she 
+
+
+
+had celebrated her figure 
+away. 
+
+But according to a nurse 
+and two nutrition experts at 
+IPFtt, that needn't have 
+happened. A little dose of 
+"common sense," it seems, 
+might have kept Julie — and 
+others like her — in those 
+perfect-fitting jeans. 
+
+The holidays, said Edwina 
+Snyder and Debra Barnard, 
+of (he Consumer and Family 
+Sciences Department, are 
+often "eating marathons" 
+for many people. These 
+binges "tax the body by 
+dumping too much food in at 
+once," added the nutrition 
+instructors. 
+
+There are ways, however, 
+to curb overindulging. 
+Moderation seems to be the 
+
+Be careful of your table 
+behavior, warned Snyder 
+
+
+
+und Barnard. Pay particular 
+at (en lion to the size and 
+portions, as well as types, of 
+food you consume. 
+
+Some of the Hems they 
+caution against are: deep- 
+fried foods like potato chips; 
+thick dips and gravies; foods 
+loaded with sugar or salt 
+(salt causes temporary 
+weight gain of water, plus it 
+makes you thirsty); 
+alcoholic beverages with a 
+cream or liqueur base; and 
+foods high in fats such as 
+butter and red meal (fats 
+contain twice as many 
+calories as carbohydrates) . 
+
+Party hosts should "try to 
+offer lower-calorie foods," 
+said the nutritionists, since 
+more people now are health 
+and weight conscious. Meals, 
+they added, can be planned 
+around fish or fowl, which 
+contain fewer calories, 
+
+
+
+when 
+
+
+
+,1-rvcd 
+
+
+
+especially 
+without the skin. 
+
+"Keep il simple and enjoy 
+(he flavor of the fish without 
+having to doctor il up," 
+Snyder advised. Potatoes 
+are a nutritious side dish, she 
+added, but sour cream, 
+butter or thick sauces ladled 
+on top don't add anything but 
+calories. 
+
+In addition (o cutting back 
+— but not out — on' meals, 
+Barnard and Snyder also 
+recommended regular 
+exercise. 
+
+Starley Piter, the campus 
+nurse, agree. Keep in shape 
+all year 'round she said, so 
+"during those happy but 
+food-filled holidays you can 
+risk indulging a little bit." 
+
+But lo those who can't risk 
+the binge because they're 
+already out -of -shape, and 
+who need to limit the number 
+
+
+
+of bon-bons they sample, 
+Pifer offered this advice: 
+
+— Weigh yourself daily. 
+Don't gain more than three 
+additional pounds, she said, 
+because "if you do, it (your 
+weight) jusl keeps 
+pyramiding." 
+
+— If you anticipate an 
+evening splurge, cut calories 
+during the day. 
+
+— Don't keep high-calorie 
+foods and drink around the 
+house, where you're tempted 
+to indulge. 
+
+— If you splurge too much, 
+there is "nothing wrong with 
+a 2-1-hour fast." But she 
+cautions 24-hours only. 
+
+— Above all, Pifer added, 
+enjoy your'self. "The 
+holidays are a time of 
+sharing friendship. Some 
+food and drink can make it 
+more pleasurable, but it 
+should not be the sole pur- 
+pose to celebrate." 
+
+
+
+. . . and alcohol adds calories 
+
+
+
+The gooey fruitcake, milk 
+chocolates, creamy fudge- 
+and sugar-sprinkled cookies 
+aren't the only calorie-laden 
+holiday goodies. 
+
+Alcoholic beverages also 
+contain a fair amount. 
+
+There are 80 calories per 
+one ounce of alcohol, said 
+Starley Pifer, director of 
+Student Health Services. 
+That's just a "straight" 
+drink — ice or water mixed 
+— without soda, pop or other 
+ingredients At that rate, 
+
+
+
+three drinks alone would 
+total about 240 calories. 
+
+A regular 12 ounce beer — 
+a common drink among 
+college crowds — has about 
+131 calories. 
+
+Besides the high caloric 
+content, alcohol tends to free 
+inhibitions, Pifer explained 
+Once consumed, she added, 
+the ability to rationalize 
+one's drinking or eating is 
+reduced, and over-eating is 
+likely to result. 
+
+Those who do drink 
+
+
+
+Traditions 
+
+Continued from page 1 
+
+
+
+(Continued from page 1) 
+
+Among the festivities were 
+
+crafts, traditions, cooking, 
+
+music making and 
+
+merrymaking. 
+
+A Christmas dinner of long 
+ago was cooked over an open 
+fire. Imagine yourself at this 
+dinner table: roast turkey 
+with chestnut combread 
+stuffing, green beans and 
+onions in cream sauce, 
+parsleyed potatoes, mince- 
+meat tartlets, welsh 
+cakes, pumpkin and apple 
+pies, cider and dry sherry. 
+The stuffing was described 
+by James Yamelle, program 
+director at the Fort as "the 
+best stuffing I've ever had in 
+
+Yamelle emphasized that 
+the Fort not only reflects 
+Christmas of yesterday, but 
+that "many Christmas 
+customs today stem from 
+traditions of long ago." 
+
+Speaking of customs, the 
+Fort Wayne Children's Zoo 
+has developed a unique 
+tradition in the past five 
+years; a lighted "animal 
+city." 
+
+The zoo is a spectacular 
+sight as trees and bushes are 
+decorated with over 42,000 
+lights and 600 lighted bells. 
+
+
+
+Classifieds 
+
+
+
+MERRY 
+
+
+CHRISTMAS 
+
+
+FROM 
+
+
+JEFF the 
+
+
+Singing 
+
+
+Messenger! 
+
+
+Thanks for your support 
+
+
+during 
+
+
+1980. Happy 
+
+
+Holidays 
+
+
+
+
+
+Other sights include 
+animated scenes and cut-out 
+characters, while children 
+have the opportunity to visit 
+with Santa and Mrs Claus. 
+
+But preparation for such 
+an extravaganza takes 
+several weeks. The moment 
+Halloween is finished, the 
+zoo employees immediately 
+begin the task of putting up 
+Christmas decorations. "It 
+takes forever lo put up all the 
+Christmas lights— all 42,000 
+of them," remarked Don 
+Neiter, IPFW student and 
+zoo employee. He continued, 
+"It's like putting up a 
+Christmas tree a hundred 
+times." 
+
+Under the direction of Earl 
+Wells, the zoo will be open 
+December 12-23, and 26-28 
+from 5-9 p.m . 
+
+"To go to the zoo when 
+there is snow on the ground 
+is a spectacular sight; 
+especially when lights 
+reflect off the pond," said 
+Neiter. "It's a great place to 
+bring a date— but bundle 
+up," he warned. "It can get 
+very cold." 
+
+Indeed, Fort Wayne is 
+loaded with a variety of 
+Christmas traditions. 
+
+FOR SALE; Ski rack for 
+Chevy Monza-type cars. 
+Also BR 78-15 radial- 
+studded snow tires. 485- 
+8476 evenings. 
+
+JEFF'S GOING TO 
+FLORIDA! Resting the 
+vocal cords January 7- 
+21. Order holiday 
+telegrams now. 424-1321. 
+
+
+
+
+
+
+
+
+CARRY-OUT 
+SERVICE 
+AVAILABLE 
+
+
+
+AMERICAN FOOD 
+
+LUNCH SPECIALS 
+
+UNDER *3°° 
+
+
+
+•FAST SERVICE -EAT 
+BETWEEN YOUR CLASSES 
+•SERVING LUNCH UNTIL 5 P.M. 
+OPEN lt:0O AM-MIDNIGHT MON-SAT 
+4:00 PM-I0 PM SUN. 
+
+5629 ST. JOE RD. 485-5736 
+
+
+
+PREGNANT? 
+
+DID YOU KNOW? 
+
+At 43 days, electrical brain patterns 
+can be recorded - evidence that 
+"thinking" is taking place. 
+
+WANT TO TALK? 
+
+BIRTHLINE 
+422-1818 
+
+
+
+however, should pace them- 
+selves and avoid drinking on 
+an empty stomach, said 
+Pifer. 
+
+But Edwina Snyder and 
+Debra Barnard, nutrition 
+instructors at IPFW, said 
+alcohol begins to absorb in 
+the mouth, and food will only 
+
+
+
+slightly deter its effects. 
+"Coffee doesn't sober you 
+
+
+
+up 
+
+
+
+either, 
+
+
+
+the 
+
+
+
+sts, adding, "you 
+can't speed up the 
+detoxification of liquor." 
+
+It takes one hour to burn 
+off a half ounce of alcohol, 
+said Pifer, and a person who 
+
+
+
+chugs drinks — drinking one 
+drink after another — runs 
+(he risk of going into an 
+"alcoholic stupor," with the 
+victim eventually passing 
+out. This stale, she ex- 
+plained, can be fatal because 
+the alcohol becomes toxic 
+poison in the body. 
+
+
+
+WORLD FAMOUS 
+
+
+
+"&lt;2*9*ut'*?W" 
+
+
+
+DANCERS-POOL 
+BEER-WINE 
+
+
+
+936 frluuft SW %%&gt;a6 
+Kmart Plaza East 
+
+
+
+424-9639 
+
+
+
+1 MILE NORTH of INTERNATIONAL 
+HARVESTER -NEXT TO MOTEL 6 
+
+
+
+DECEMBER 11.1980- THE COMMUNICATOR - PAGE 7 
+
+
+
+PLAYBACK 
+
+THE ELECTRONIC PLAYGROUND 
+
+CHRISTMAS SAYINGS 
+
+WITH OUR DECEMBER 
+
+COUPON SPECIALS! 
+
+
+
+
+
+COUPON 
+
+OFFERS GOOD ONLY WITH COUPON 
+
+
+
+
+. z 
+
+\i 
+
+■ 3 
+
+° 
+
+1 o 
+
+
+SONY HFX 90 j TDK ADC 90 
+
+
+O* 
+
+
+3 with case 1 3 pack 
+
+$ 6" : $ 6" 
+
+
+zl 
+
+
+
+
+1 
+
+OFFER GOOD UNTIL DEC. 24, 1980 
+COUPON 
+
+
+
+
+
+1010 Coliseum Blvd. E. Ft. Wayne, IN 46805 
+
+483-7510 
+
+
+
+CLASSICAL 
+
+Weekdays 
+
+1 p.m.-4:30 p.m. 
+
+and 
+
+5 p.m.-7:30 p.m. 
+
+WIPU 
+
+
+
+a service of 
+
+
+
+SQiFMI 
+
+
+
+
+
+Ground Floor of the Student 
+
+Union - Walb Memorial Hall 
+
+Breakfast 7:30-10:30 
+
+Lunch 11:00-1:30 
+
+Grill 1:30-3:30 
+
+
+
+Christmas Dinner Wednesday, Dec. 17 
+
+Roast Beef au Jus 
+
+Baked Potato with Sour Cream 
+
+Green Beans Amandine 
+
+Roll and Butter 
+
+Beverage 
+
+Apple Pie or Cherry Pie 
+
+•3.00 
+
+
+
+/MOVING WITH THE TIME5 
+
+
+
+
+
+Fori Wayne 
+PUBLIC 
+
+TRANSPORTATION 
+CORPORATION 
+
+Information 432-4546 
+
+
+
+spoyts 
+
+
+
+PAGES — THE COMMUNICATOR — DECEMBER 11, 1 
+
+
+
+Cagers capture 
+first city crown 
+
+
+
+By MIKE FRANKE ever city college tournament 
+
+The IPFW men's title last weekend in the 
+
+basketball team won its first fourth annual Sertoma 
+
+
+
+
+Junior Forward Rickie Smith was named the Sertoma 
+Tourney Most Valuable Player as the Tuskers defeated 
+Indiana Tech. and St. Francis to win their first ever city 
+college title. Smith scored SI points in the two games. 
+(Communicator file photo) 
+
+•••in brief 
+
+B-ball sign-up til! Dec. 19 
+
+Team rosters for the intramural basketball league must 
+be turned in to the athletic office by Friday, December 19. 
+Blank rosters are available at the athletic office and on 
+the information board in the basement of Ketller Hall. 
+
+The first 24 teams' rosters submitted will form the 
+league for 1981. 
+
+Each team may contain a maximum of 12 players. 
+Additions to a roster may be made after December 19, but 
+no later than Wednesday, Jan. 14, 1981. 
+
+For more information, contact the athletic office, Walb 
+Memorial Union, Room 210. 
+
+Coed volleyball concludes 
+
+The intramural coed volleyball league was to have 
+concluded its four-team tourney last evening with the 
+United Flyers playing the Savage Spikers for the league 
+championship. 
+
+The Flyers defeated the No Names and Ihe Spikers 
+upset the Unexpected to advance to (he final round. 
+
+The final standings, after ten weeks of regular season 
+play, were: United Flyers, 10-1 ; The Unexpected, 9-2; the 
+Savage Spikers, 8-3; the No Names, 6-5; The sting, 6-5; 
+The Greeks, S-6; YPBC-Channel 14, 5-6; The Aces, 4-7; 
+Geology Club, 4-7; the Mutants, 3-8; and DGTS-1 and 
+DGTS-2, both 3-8. 
+
+
+
+Tourney. The Tuskers beat 
+Ihree-time-defending- 
+champs Indiana Tech in the 
+opener Friday night, and 
+then defeated the only other 
+city team to win the city title, 
+St. Francis, in the final on 
+Saturday. 
+
+The Tuskers won both 
+games at the foul line in the 
+last seconds of the games. 
+
+Indian a -Purdue freshman 
+Gary Rinard hit two clutch 
+free -throws with 54 seconds 
+to go last Friday night, 
+which enabled the Tusker 
+squad to upsel Indiana Tech, 
+76-73, in the first round of the 
+Sertoma Tournament. 
+
+The big victory was in the 
+Championship game on 
+Saturday night against Saint 
+Francis. Again, in the Saint 
+Francis game, the Tusker 
+roundballers rode the hot 
+free throw shooting of 
+Rinard to' an overtime 
+victory, which gave the 
+Tuskers the Sertoma Tipoff 
+Championship. 
+
+Reflecting on the victories, 
+coach Ken Workman said, 
+"we won by playing tough 
+defense, and with a mixture 
+of all-around aggressive 
+play." 
+
+Trailing 75-74 with 31 
+seconds to go in the over- 
+time, Gary Rinard went to 
+the line and converted both 
+free-throws. Those two shots 
+would be the difference as 
+Ihe Tuskers held off Saint 
+Francis to post a 76-76 vic- 
+tory. 
+
+The two victories over the 
+weekend gave the Tuskers a 
+4-3 record for the season, 
+which proves thai Coach Ken 
+Workman was quite ac- 
+curate when he said, "I think 
+we have the potential to be a 
+.500 basketball team." 
+
+These early season vic- 
+tories have showed everyone 
+that the Tusker squad has 
+dramatically improved over 
+last year's 4-20 club. 
+
+Transfer Rickie Smith hit 
+for 51 points in the two 
+games and again signs of 
+being the area's answer to 
+Earvin "Magic" Johnson. 
+He constantly found himself 
+open in Ihe second half of the 
+Saturday night game after 
+being hounded the entire 
+first half by Saint Francis 
+defenders. Smilh was named 
+the tournament's Most 
+Valuable Player and was 
+placed on the All- 
+
+
+
+Tournament team. Also 
+selected to the team was the 
+Tuskers' Brian Grady, who 
+scored 40 points in the two 
+games. 
+
+Speaking on Grady's play 
+over the weekend. Workman 
+said, "Brian is taking over 
+the leadership role which 
+will be an important factor 
+for the team." 
+
+Others selected to the All- 
+Tournament team were, 
+Rich Cox of Saint Francis, 
+Jim Dalhke of Concordia, 
+and Doug Gore of Indiana 
+Tech. 
+
+In the team's Friday night 
+victory over Indiana Tech, 
+Coach Workman's crew was 
+forced to come back from a 
+13 point deficit. The clutch 
+shooting of Smith, Rinard 
+and Grady cut the deficit, 
+and along with some good 
+team defense, the Tuskers 
+were able to tie the Warriors, 
+and eventually win the game 
+on Rinar-d's charity tosses. 
+
+The game on Saturday 
+against Saint Francis was 
+tied at 65 after regulation 
+play. That's when Rickie 
+Smith and Brian Grady hit 
+some clutch shots lo put the 
+
+
+
+Tuskers up by 5 in overtime. 
+The Cougars came back 
+though as it took the two big 
+free-throws by Rinard to win 
+the game. 
+
+Coach Workman sees a 
+very important aspect that 
+has been a key to the team 
+thus far. Workman said, 
+"These guys take great pride 
+in coming over their lack of 
+size." Workman's statement 
+is very factual as the Tusker 
+squad has out rebounded all 
+opponents this year. 
+
+The Tuskers' coaching 
+staff will have to find a way 
+to bring the team back down 
+to earth after the double 
+victories in the Sertoma 
+Tournament. 
+
+The team had a game 
+yesterday against Hope 
+College, and they will battle 
+Indiana University East on 
+Saturday afternoon at the 
+Concordia Gym. The action 
+on Saturday starts at 2:00 
+p.m. 
+
+Saturday's game will be 
+the last for the squad until 
+they take to the court against 
+Saint Francis on the 
+Cougars' home court. That 
+game will be played on 
+January 3. 
+
+
+
+
+Brian Grady, also a junior forward, was named to the 
+Sertoma All-Tourney team along with Smith. IPFW was 
+the only team to place two players on the honor squad. 
+&lt; Communicator file photo) 
+
+
+
+Holiday 
+basketball 
+
+
+
+Both of the Tusker 
+basketball team will see 
+action during the up- 
+coming holiday break. All 
+home games are played 
+at the Concordia gym and 
+admission is free to ac- 
+tivity card holders. 
+
+Women : 
+Dec. 13 at Northwestern 
+Business College 1:00 
+Jan.6alMarion6:00 
+
+10-Indiana Tech. 
+(home) 5:00 
+
+12— Taylor (home) 7:00 
+
+13-Spring Arbor 
+home J 7:00. 
+
+Dec, 20 Indiana 
+
+University -East (home) 
+
+2:00 
+
+Jan.3atSl.Francis7:30 
+
+6— Hunlington (home) 
+7:30 
+
+10— Luther (home) 3:30 
+
+
+
+14- 
+
+
+
+i M.ji-1 
+
+
+
+Women drop two starts 
+
+
+
+By CHRIS PYLE 
+
+First game jitters rattled 
+the IPFW women's 
+basketball learn in their bid 
+against Indiana Tech. 
+
+In the first half, only 5 out 
+of 26 baskets were made, but 
+the Tuskers kept plugging 
+away, ending the game with 
+a total of 61 shots and a 33-70 
+
+According to Coach Peggy 
+Voisin, the team isn't 
+familiar with each other yet. 
+"The girls don't know who to 
+Ihrow the ball to, or if Ihere 
+will be someone lo rebound 
+it." 
+
+Sue Hendricks was the 
+
+
+
+leading scorer with 
+points, and Karen Dirksen 
+followed with B. 
+
+But despite the low score, 
+the team learned their 
+weaknesses. "We had our 
+share of violations," said 
+Voisin. "These included 3 
+second violations, double 
+dribbles, and many bad 
+passes." 
+
+In Ihe game against St. 
+Francis, the Tuskers battled 
+to the finish but lost, 60-55. A 
+man-to-man defense was 
+played. The Tuskers even led 
+until the last minute of the 
+first half. Perhaps the loss of 
+
+
+
+the lead was due to ex- 
+tensive foul trouble. 
+Several fouls were made, but 
+Jo Witte was the only Tusker 
+to foul out. Voisin was op- 
+timistic about the second 
+half. "We got inside and 
+drove more often. We also 
+stopped a lot of fast breaks 
+on them (St, Francis)," she 
+added. 
+
+The shooting percentage 
+significantly improved in the 
+second game as well. 
+Dirksen and Hendricks 
+accumulated 16 points each, 
+while Amy Brunow scored 9 
+andWitteconlributede. 
+
+
+
+Among the players, 
+Hendricks was the only 
+Tusker picked for the Ser- 
+toma All Tournament Team. 
+
+Voisin described the team 
+as a "real gutsy bunch of 
+kids." With two games under 
+their belt, the Tuskers feel 
+more confident about their 
+game. Voisin said that the 
+team doesn't look down at 
+their two losses, but faces 
+them as an invitation to keep 
+trying. 
+
+The Tuskers will go into 
+action Thursday and replay 
+St. Francis at the Central 
+Catholic gymnasium. The 
+game will begin at 6:30 p.m. 
+
+
+
+Corrections 
+
+Due to publishing errors, 
+two omissions were made 
+in last week's Communicator 
+sports page. 
+
+The signup for intramural 
+basketball was to have 
+begun last week. Interested 
+Students, faculty and stall 
+arc encouraged to sec Ihe 
+nolke this week and sijju up 
+as soon ok possible. 
+
+AIko. a pholo credit for Ike 
+ll'FW Tai- Kwon On &gt; luh 
+pictures was Inadverlnitly 
+left oul. The pictures were 
+token bj lli-nuis Jtmiliin. 
+
+The CommunUnlar 
+reKrels thr error*, 
+
+
+
+
+^sj^q ==r 
+
+
+
+
+SMALL CAR OWNERS. 
+WeVe got your plug. 
+
+See us for a complete 
+line of gas-saving 
+June-up parts. 
+
+FOBT WAYNE FOREIGN CAJJ 
+
+
+
+
+.IIlBH2S-4«3 
+
+
+
+
+MIKE'S VW . FOREIGN 
+
+CAR SPECIALISTS 
+
+
+
+HONEST WORKMANSHIP 
+
+
+
+
+Ft. Wayne's 
+Oldest Independent 
+V-W Repair 
+Shop. 
+
+
+
+NOW SERVICING HONDAS AND 
+MANY OTHER FOREIGN CARS 
+
+
+
+1720 S. Harrison 
+744-3311 
+
+
+
+3102 E. Washington Blvd. 
+422-0218 
+
+
+
+MAKE YOUR CHRISTMAS EASY 
+
+
+
+
+EASY PARKING IN AND OUT~| 
+
+WE'VE GOT JEANS &amp; TOPS FOR EVERYONE 
+
+ALL DISCOUNTED PRICES 
+THERE'S ONLY ONE, THE ORIGINAL 
+
+GLENWAY 
+
+
+
+3820 Coldwater Rd. 
+
+Across from Glenbrook Penney's 
+
+
+
+BARGAIN CENTER 
+
+
+
+Open Evenings 
+Sunday 12-5 I 
+
+
+
+jgjjv Christmas Gifts That Count 
+
+
+
+Action during (lie cord volleyball league regular season Is seen above. Tlic It 
+Monday anil Wednesday evenings of this week. (Photos by Dick Grossman) 
+
+
+
+
+FOLLETS 
+FT. WAYNE BOOKSTORE 
+
+
+
+Ground Floor, Ketller Hall 
+483-6100 
+
+
+
+</pre>        </div>
+      </div>
+    

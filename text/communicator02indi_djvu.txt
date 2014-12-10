@@ -1,0 +1,2541 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator02indi/communicator02indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator02indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator02indi">The Communicator</a>"
+          </h1>
+          <pre>raA 
+
+
+
+riic 
+
+
+
+Coitimttiiieator 
+
+
+
+Volume XII Issue 2 Indiana University-Purdue University at Ft. Wayne September 4, 1980 
+
+
+
+Police sergeant 
+
+
+
+Maroney resigns a 
+
+
+
+By DENNIS KITE 
+
+Patrick J. Maroney has resigned his 
+position as sergeant in the University 
+Police and Safety Department, ef- 
+fective as of 11 p.m., Aug. 15, 
+
+Maroney stated in his letter of 
+resignation lo Maurice Shady, chief of 
+the campus police. "Interference by the 
+Chancellor (Joseph P. Giusti) into even 
+the most routine of police activities, as 
+well as legal due process, has prompted 
+my decision to leave," 
+
+Maroney continued, "My abilities as 
+a police officer are neither wanted nor 
+needed to perform the new mission of 
+this department," 
+
+Maroney, a veteran of over 10 years 
+on the IPFW force, was involved in an 
+Incident on March 4 in which a woman, 
+who left her lO-year-old child in a 
+parked car blocking a fire lane in front 
+of Kettler Hall, was arrested on a 
+misdemeanor charge. 
+
+As Maroney attempted to handcuff 
+the woman, she struggled and bit him 
+on the hand. She was charged with 
+disorderly conduct, battery lo a police 
+officer and resisting law enforcement. 
+
+Sources have said thai Chancellor 
+Giusti ordered Maroney to drop the 
+_ charges against the woman. 
+
+Speaking on behalf of the Chancellor, 
+Judith Clinton. coordinator of 
+
+
+
+university affairs, said this was not the 
+case, 
+
+"The Chancellor never talked 
+directly lo Officer Maroney," she said. 
+'■He did not ask Officer Maroney to 
+personally drop the charges He said 
+the university would file no charges." 
+
+In theChancellor's eyes, Clinton said, 
+if Maroney, as an employee and 
+representative of IPFW, were to press 
+Ihe charges then, in actuality, the 
+university would be pressing the 
+charges. 
+
+James E, Thatcher, vice-chancellor 
+of financial affairs, said Maroney's 
+reason for leaving IPFW was his 
+"inability lo function as a police officer 
+in the environment that was set tor 
+him," 
+
+Thatcher ^aid he had talked lo 
+Maroney before his resignation was 
+submitted. He had tried lo explain to 
+him Ihat "if you find you can't function 
+as a police officer in this environment. 
+then you should seek employment 
+elsewhere," 
+
+Thatcher said he has the highest 
+regards and respect for Maroney, He 
+believes Maroney thou^t he was doing 
+what was right concerning the incident 
+al Kettler Hall, 
+
+The administration is in the process 
+of trying to change the image and the 
+
+
+
+priorities of Ihe campus police. That- 
+cher said. 
+
+"The top priority isn't running 
+around 100 percent of your time looking 
+for someone in minor infractions of the 
+law,"Thatchersaid. 
+
+Thalcher lays some of the blame on 
+the attitude of a few of the officers on 
+the training they receive at the Indiana 
+State Police Academy prior lo their 
+employment here. The officers 
+graduate from the academy ready to 
+fight crime on the streets, but it's just 
+not the same at this university. 
+
+We have means of handling incidents 
+on this university that are not the same 
+as on the street, Thalcher said. 
+
+In his speech at the Combined 
+Faculty and Staff Convocatiuon. 
+Chancellor Giusti outlined his views on 
+the role of the campus police. "II is my 
+philosophy that the role of the police is 
+one of service and Ihat the police here 
+should first and foremost protect and 
+assist people; and second, protect 
+property," he said, "I have asked the 
+Vice Chancellor to work closely with 
+University Police and Safely to do all 
+possible lo interpret this philosophy 
+into policy and concrete action." 
+
+Chief Shady refused to comment on 
+the resignation. 
+
+
+
+
+Matt Ronahoom, vice-president of the student body and president of the Senate, presides over last 
+Wednesday's Student Senate meeting. (Photo by Keith Hall). 
+
+New constitution 
+Thatcher quits post ^^ Senate agenda 
+
+James E. Thatcher, vice^hancellor lo the university's current level of Insurance Advisory Committee, as well ^^^ 
+
+
+
+James E. Thatcher, vice^hancellor 
+for financial affairs, resigned his 
+position with IPFW lo becomeeffective 
+Sept. 30. Thalcher has been with IPFW 
+for 19 years, 
+
+Thatcher has accepted a position as 
+Vice President for Business Affairs 
+and Treasurer at St, Joseph College, 
+Rensselaer 
+
+Chancellor Joseph P. Giusti, 
+speaking of Thalcher, said, "As Vice 
+(Canceller of Financial Affairs since 
+Dec, I. 1975. Mr Thatcher has served 
+IPFW well. His high level of 
+professional competency and ex- 
+perience have contributed significantly 
+
+
+
+lo the university's current level of 
+academic excellence," 
+
+The Chancellor will now consult with 
+Ihe faculty and staff of IPFW to begin 
+the process of recruiting a new head of 
+financial affairs. 
+
+Thalcher said about his new position 
+al St, Joseph, "It's an opportunity to 
+put my knowledge and experience that 
+I have gained from IPFW (o good use," 
+
+Throughout Thatcher's involvement 
+with IPFW. he has served as a chair- 
+man or member of the University 
+Construction Planning Committee, the 
+University Purchasing - Advisory 
+Committee, and the University 
+
+
+
+Insurance Advisory Committee, as well 
+as numerous other committees 
+
+Before Thatcher's position with 
+IPFW, he worked as the Director of 
+Regional Campus Business and Plant 
+Operation, Business Administrator. 
+Department Business Representative 
+and Staff Auditor with Purdue 
+University. 
+
+In 1977, former Chancellor Donald 
+Swartz, under whom Thatcher also 
+served, commented that Thatcher was 
+responsible for , preparing Ihe first 
+unified- tjudget for the combined 
+Indiana-Purdue campus. 
+
+
+
+Funds delight Tunstall 
+
+
+
+ByBRADLEMNA 
+
+For instructors at IPFW, life is not 
+strictly limited to the classroom. For 
+many instructors, research occupies a 
+place in their academic activities. 
+
+In comparison lo other regional 
+campuses in the stale, IPFW receives 
+one of' the largest amounts of funding 
+for research. 
+
+Graydon Tunstall, director of 
+sponsored research and development, 
+expressed delight in the amount of 
+funding already received this year. 
+According lo Tunstall. IPFW has 
+collected over $150,000 in grants this 
+year, with $102,000 in proposed funds 
+for a Crooked Lake project awaiting 
+approval from the National Science 
+Foundation. 
+
+Grants for projects this year should 
+easily exceed the $279,000 awarded last 
+year, Tunstall said. 
+
+One project already funded is Ihat of 
+Kenneth L. Stevenson, department 
+chairman and professor of chemistry, 
+who is doing basic research into Ihe 
+possible uses of inorganic compounds in 
+solar energy. 
+
+Stevenson, who received his funding 
+from the American Chemical Society, 
+the Solar Energy Research Institute, 
+and the Department of Energy, said he 
+hoped that his work would help in the 
+
+
+
+utilization of inorganic compounds to 
+store energy from (he sun. 
+
+Advocating solar energy as 
+renewable and environmentally safe, 
+Stevenson went on lo say, "Solar 
+energy is probably going to be the most 
+widely used form of energy in the 
+future Sooner or later, we will have to 
+resort to solar energy, because it will be 
+one of the few sources lef t, " 
+
+Less dramatic, but no less important, 
+was a project done last year headed by 
+Harry Gates, associate professor of 
+electrical engineering technology. 
+
+Gales had several senior students, 
+with funding from the Allen County- 
+Fort Wayne Historical Society, develop 
+a "talking" elevator device that 
+enables the blind to more effectively 
+use the elevator. This device, which is 
+now in place in the Allen County-Fort 
+Wayne Historical Society Museum, 
+actually tells a blind person which 
+button was pushed, which floor the 
+elevator is on, and whether or not the 
+doors are open or closed. 
+
+Gates sees this, and other projects he 
+has done, as coming from a "desire to 
+fill a need, primarily to help the 
+severely physically handicapped 
+person lo communicate." 
+
+As varied as the research and Ihe 
+sponsors are, the competition is 
+
+
+
+becoming fierce, as money available 
+slowly decreases. 
+
+The preparation of the proposal for 
+funds and the application to sponsors 
+can easily decide whether or not the 
+grant is awarded, said Tunstall. 
+
+Each proposal is judged on a scale 
+with other proposals by the awarding 
+institution, which looks al such things 
+as cost, feasibility, and the experience 
+of the researcher, 
+
+IPFW employs a strict control on all 
+proposals, which involves having them 
+approved by several administrative 
+offices, Tunstall, and the Chancellor 
+himself, before the proposals are sent 
+to Ihe main campus of Purdue, which 
+distribules them to Ihe proper sponsors. 
+
+Tunstall does maintain a reference 
+list of sponsors for anyone on the 
+campus interested in finding money for 
+a particular project. 
+
+
+
+A revised constitution is among the 
+top priorities of the IPFW Student 
+Senate, which met for the first time this 
+semester on Aug, 27 with eight senators 
+present. 
+
+Steve Westrick, constitutions 
+chairperson of the Senate, said that 
+"there will be a major overhaul of the 
+legislative branch of Students' 
+Government." Westrick and Bob 
+GrietKl. another senator, are the ar- 
+chitects of the new constitution, which 
+will be reviewed by the Senate and 
+voted on by its members in up-coming 
+sessions of the group. 
+
+From other reports by Senate 
+chairpersons, it was learned that the 
+student identification (ID) photograph 
+sessions, held during registration, went 
+well. Plans for other ID photo sessions 
+are being made 
+
+Another report revealed that the 
+Senate used book sale is not going well. 
+Westrick said that this is because many 
+students are returning fheir used books 
+lo the book store where they can get 
+Iheir money immediately instead of to 
+Students' Government where they must 
+
+
+
+wait until the books are sold to receive 
+their money. 
+
+II was decided by the Senate to 
+sponsor a student directory service at 
+IPFW, The directory, using data from 
+computer printout sheets of students 
+and faculty here, will list the names, 
+addresses and phone numbers of those 
+people. 
+
+The Senate feels this is important 
+because Ihe majority of IPFW students 
+don't bear Ihe names of their parents 
+and tracking them down in a phone 
+book can be quite a task. Also, it will 
+help students contact professors with 
+whom they may wish to consult during 
+a difficult assignment , 
+
+The cost of the directory will not 
+exceed 25 cents. 
+
+The Senate also announced that free 
+legal advice will be offered at 5:00 
+every Tuesday at Ihe Students' 
+Government office. Students wanting 
+legal advice are urged lo make ap- 
+pointments. 
+
+One student organization. Students 
+for John Anderson, was approved at the 
+meeting and is now a recognized IPFW 
+student group. Contact Students' 
+
+
+
+Government for more information 
+about this group. 
+
+A hilt was proposed by Westrick for 
+Ihe Senate to receive copies of Indiana 
+and Purdue universities' daily 
+newspapers. This bill was defeated. 
+Jeff Sandy, senator, has made 
+arrangements with the library to 
+receive Us copies of those papers when 
+they are removed from library cir- 
+culation. 
+
+Because of the resignation of several 
+senators during the summer break and 
+Ihe approval of petitions of new 
+senators, the list of current Student 
+Senate members in the handbook 
+edilion of The Communicator was in- 
+correct. 
+
+The current members of the Student 
+Senate are Michael Edmonds, EUen 
+Engleman, Susan Jackson, Mark Wells, 
+Sieve Westrick, Scott Kuehn, Bob 
+Griebel, Jeff Sandy, Ada Fiore, Steve 
+Hunt, J. Phillip Patterson, Ed Snyder, 
+Brad Howard, Dwight Fish. Jim Luker, 
+Diane Hoevel and Blane Ryan, 
+
+Petitions to replace Ihe remaining 
+unfilled seats are now being circulated 
+by the petitioners. 
+
+
+
+
+Blue jeans fade from 
+IPFW fashion scene 
+
+
+
+
+ByMIKESTINSON 
+
+According to a faculty member, this 
+
+year's IPFW students seem lo be better 
+
+groomed and belter dressed with a 
+tendency to wear blue jeans less often. 
+
+Although sandals, novelty t-shirls, 
+and tennis shoes are still very much a 
+pari of Ihe scene, many are opting for 
+skirts, dress slacks, and neckties for 
+classroom attire. 
+
+One student said she was dressed up 
+more because she was either coming 
+from or going to work, depending on Ihe 
+
+
+
+day. 
+
+Another commented that dressy 
+attirewas "just a change of pace." 
+
+A third said that, right now, dressing 
+up just seemed lo be the "in" thing to 
+do. 
+
+So, if you're into Ihe fashion scene 
+and waa' to know what's "hot" and 
+what's "not." check out your fellow 
+students lo see what they're wearing. 
+
+The basic news is that classic dress 
+clothes are in and blue jeans are on 
+their way out. 
+
+
+
+The beautiful weather last week causes an Impromptu musical session in the 
+courtyard between the llelmke Library and Ihe Walb Union building. Tony Henry, 
+singing on Ihe left, an IPFW sludenl. and Gil Blerman. playing the guitar, a 
+graduate student und Instructor here, enlerlaln passersby with a variety of songs. 
+(PholofayKelthllBll.) ^ 
+
+
+
+
+Tennis shoes are still very much 
+Jennifer Johnston.) 
+
+
+
+part of Ihe IPFW fashion s 
+
+
+
+News in brief... 
+
+Trom future looms 
+
+
+
+By MARILYN HURSTON 
+The future of the troms (tem- 
+porary removal office modules), 
+now situated between Neff and 
+Kettler halls, will be decided by 
+Purdue University's Facility 
+Planning Department upon the 
+completion of Building D, said 
+James Thatcher, vice-chancellor for 
+financial affairs. 
+
+The Iroms, which house the offices 
+of the Division of Arts and Letters, 
+the School of Public and Environ- 
+mental Affairs, as well as animal 
+laboratories, are scheduled for 
+removal and replacement by lan- 
+
+
+
+dscaping, Thatcher said of the 
+planning department's current 
+plans. 
+
+"I would like lo see the landscape 
+become an altraclive part of the 
+campus," Thalcher said. 
+
+The offices in the troms will be 
+moved to Kettler and Neff halls and 
+Building D, upon Ihe completion of 
+the latter. 
+
+Previous lo their current use as 
+office buildings, the troms were used 
+as classrooms. The completion of 
+Neff Hall, which added more 
+classrooms, shifted the use of the 
+troms to offices. 
+
+
+
+TV college by '81 
+
+
+
+By CHERYL GIBSON 
+
+Kenneth Ballhaser, director of the 
+Learning Resource Center, said that 
+IPFW is receiving technical hook- 
+ups for Ihe broadcasting of college 
+courses through closed circuit 
+television. 
+
+The slation will begin operations 
+
+
+
+in Ihe fall semester of 19B1 on college 
+education channel 23. 
+
+Classes now being planned include 
+seminars, documentaries and other 
+college related courses. Credit may 
+be obtained by those students 
+enrolling in Ihei 
+
+
+
+Rush events listed 
+
+
+
+The Sigma Phi Epsilon fraternity, 
+IheP Beta Phi sorority and the Delta 
+Gamma sorority have announced 
+their fall rush activities for this 
+semester 
+
+Sigma Phi Epsilon will have a 
+meeting-party al Ihe Wood Creek 
+Apartments Clubhouse (located off 
+of Evard Road) at 6 p.m. on Sept. 13 
+for interested freshmen and 
+sophomore men. Those men who 
+
+
+
+cannot attend the meeting should 
+stop by Ihe Sigma Phi Epsilon office 
+in room 221 in the Walb Memorial 
+Union. 
+
+Pi Beta Phi and Delta Gamma, 
+Greek organizations for women of 
+all class standings, have scheduled 
+meetings in the Fireside Lounge of ' 
+Ihe Walb Memorial Union from 3 lo 6 
+p.m. on SepI H. 6 lo 7 p m. on Sep!. 
+21 and 6 lo 7 p.m on Sept. 28. 
+
+
+
+OPIiVIOiV 
+
+
+
+The Cominunicator 
+
+
+
+PAGE 2 - THE COMMUNICATOR 
+
+-SEPT. 1.1980 
+
+
+
+SG role explained 
+
+
+
+Drive, park...walk 
+
+
+
+The university is gradually coming 
+together like a jigsaw puzzle, with the 
+skeleton structure of Building D being filled 
+In with concrete, and the health, physical 
+education and recreation &lt;KPER* building 
+taking Ihe shape of a facility much needed at 
+this campus (o promote physical education 
+and school spirit. 
+
+With the completion of these two new 
+buildings, nearly 150.000 additional square 
+[eel will be added to the campus. 
+' Building D and Ihe HPER building will 
+improve the offerings of this institution, 
+which in turn should help (o attract students 
+to IPFW. 
+
+But attracting more students here may 
+result in a problem not considered by 
+planning officials. That problem may be a 
+lack of parking spaces for the number of 
+^udenls and staff who come to Ihe campus 
+each day. 
+
+Anyone who was on campus last week 
+knows that finding a place to park was vir- 
+tually impossible A reason the lots cast of 
+the library and north of the Walb Memorial 
+Union were lull was due to construction 
+workers using some of Ihe spots. Never- 
+theless, they hardly monopolized enough 
+spaces to create the musical-chairs-with- 
+cars game played during the peak hours of 
+classes. 
+
+The real reason parking lots were full was 
+due to an 11 lo IZ percent Increase in student 
+fenrollmenls this fall. The Tigure circulating 
+
+
+
+around campus by officials last week was 
+over 10.000 students. More students mean 
+less readily available parking spaces. 
+
+But the increase In students this fall and its 
+effect on parking is nothing compared lo 
+what could happen in the future when 
+Building D and the HPER building are 
+completed. 
+
+If these new buildings help attract even 
+more students to IPFW. the first lesson 
+students will learn here will be that as a 
+■•commuter" campus. IPFW has limited 
+accommodalions for cars used lo commute. 
+
+Unfortunately, the university has not 
+planned lo build any additional parking lots 
+for Ihe new buildings. 
+
+According lo Donald Katter, director or 
+purchasing and general services, parking 
+lots were built after examining the projection 
+figures of students and cars on the campus at 
+any one time and by monitoring the existing 
+lots during peak hours of use He said ii has 
+been found there are alwoys some spaces 
+somewhere on campus. 
+
+"Some spaces" or not, a parking mess 
+looms in the future al IPFW. There wilt be 
+two new buildings and no accessable parking 
+lots lo accommodate many of the students 
+who will come louse them. 
+
+If IPFW was not a commuter campus, lack 
+of planning for additional parking spaces 
+mighl not be Ihe oversight that it Is. But 
+IPFW is a commuter campus, and it looks as 
+though an important piece of Ihe jigsaw 
+puv,/,if"ill be missing. 
+
+
+
+very glad lo have this 
+opportunity to tell you atwul 
+the IPFW Students" 
+Government. Since Students' 
+Government influences all 
+aspects of student life on our 
+camp feel this is an excellent 
+chance to explain our rose. 
+
+Officially, Students' 
+Government acts as the 
+students' representative and 
+liaison with the faculty and 
+administration. II is through 
+this voice that students are 
+able to have their opinion 
+heard and work towards a 
+better university from the 
+students' point of view. 
+
+Structurally, we are 
+divided into two groups— the 
+Student Senate and Ihe 
+Student Union Board of 
+Governors tSUBOG). Each 
+branch has its own special 
+focus. 
+
+
+
+The Student Senate has 18 
+members and is Che 
+legislative arm .of SCudenU' 
+Government. While fuiniling 
+this function, they have 
+worked on such projects as 
+allocating the student 
+athletic-activity fee, a letter 
+writing campaign to gain 
+funding for the health, 
+physical education and 
+recreation building, ap- 
+proving students lo serve on 
+campus committees and 
+recognizing constitutions 
+submitted to them by student 
+organizations. 
+
+The Student Senate also 
+provides such services as the 
+free legal advice program, a 
+used book sale, a carpool 
+matchup service and the 
+making of student ID cards, 
+
+SUBOG has 14 members 
+
+
+
+and is the social and cultural 
+arm of Students' Govern- 
+ment- They are responsible 
+for planning, coordinating 
+and promoting events like 
+the movie series, lectures, 
+dances, concerts, ski trips 
+and Harbor Arbor Days. 
+
+This year we are trying to 
+better focus our efforts so 
+they will be used toward 
+activities and programs that 
+will better interest and 
+benefit the students. 
+
+The Student Senate is 
+looking at the possibility of 
+reorganizing their structure 
+to include a legislative 
+committee. This group 
+
+
+
+
+
+I-P 
+
+
+■ '* M 
+
+
+GUEST 
+
+
+
+
+COLUMN 
+
+
+Ml "^ ~^VJM 
+
+
+By ANN MOMPER 
+
+
+
+people would stay informed 
+on issues perlinenl to 
+students al the slate and 
+federal legislative level. For 
+instance, if a bill was in- 
+troduced to cut financial aid 
+assistance, this group could 
+inform the students and 
+work towards its defeat . 
+SUBOG has added a new 
+
+
+
+activity this year in addition 
+to all its other activities. A 
+spring break trip to Daytona 
+Beach, Fla.. has been 
+planned, 
+
+ThTough legislation, ac- 
+tivities and representation, 
+Students' Government works 
+toward improving all facets 
+ofstudent life at IPFW, 
+
+
+
+New column 
+needs writers 
+
+
+
+Welcome 
+back blues 
+
+
+
+By CLAY 
+HOUSEHOLDER 
+
+After work on Sunday, I 
+attended a "Back lo School" 
+parly and thereafter suc- 
+cumbed lo the dreaded curse 
+of too many beers and chips. 
+
+Getting oul of bed for my 
+first day of classes on 
+"Monday morning" was 
+really a chore. Arriving on 
+campus an hour-and-a-half 
+before class, I proceeded to 
+Ihe Walb Memorial Union for 
+a much needed nap 
+
+/\fter recovering there 
+from the party, I walked 
+around Ihe campus and had 
+the chance lo talk with 
+others who were ex- 
+periencing their first day 
+back in the classroom. 
+
+Doug Sherman, a fresh- 
+man, told me college is 
+"really about Ihe same as 
+going to high school." 
+
+After Doug said that I was 
+a bit awestruck. 1 mean, 
+here is a guy who has never 
+been in college before telling 
+me college is about the same 
+as high school. Come on now. 
+Sure I can see some 
+parallels, but heck, classes 
+here are tougher than high 
+school, aren't they? In my 
+casetheyare 
+
+Parking hassles seem to be 
+on most students' minds 
+these days. About all I can 
+offer is. get u&lt;ied to it folks, 
+things don't seem lo be 
+changing for the better. 
+
+Cheryl Cook, a freshman, 
+said "It took me more than 
+20 minutes lo find a parking 
+spot," And David Ladig, a 
+sophomore, exclaimed 
+"They need a parking 
+
+
+
+
+AROUND 
+THE 
+
+hous3e:i 
+
+
+
+Webster's New Collegiate 
+Dictionary defines "soap- 
+box" as "an improvised 
+platform used by a self- 
+appointed, spontaneous, or 
+informalorator," 
+
+Well, that's exactly what 
+this space is all about — 
+Soapbox is an open invitation 
+lo the students, faculty and 
+staff at IPFW lo express 
+their own opinions spon- 
+taneously and informally 
+about anything. 
+
+This column is different 
+from Readers Write, for- 
+merly Letters to the Editor, 
+which generally addresses 
+issues brought out in 
+previous editions of The 
+Communicator. 
+
+Writers should focus their 
+columns (please, no more 
+than three typewritten, 
+triple-spaced pages) on a 
+particular issue, whether it 
+be serious or humorous in 
+
+
+
+vein. 
+
+We'll be happy to publish 
+your Soaptxix — as long as 
+it's publishable. The 
+editorial board reserves the 
+right to edit all columns and 
+lo not print those which they 
+feel are objectionable. The 
+writer's name, address and 
+phone number should be 
+included on the copy, but 
+only the name will be 
+printed. 
+
+About a year ago, we 
+started a similar column 
+called The Whipping Post, 
+Unfortunately, we received 
+little . response and that 
+column died a quick and 
+miserable death. But we're 
+trying it agin, and hopefully, 
+there will be a few of you who 
+will also give it a try . 
+
+When was the last time you 
+had the chance to get on the 
+soapbox and air your views? 
+
+"riiat chance is here. Now, 
+
+
+
+
+garage here. I came back to 
+school from a job making 
+nearly $20,000 a year. I don't 
+know where my next dollar 
+is coming from, my car 
+burns too much gas and I 
+burn too many calories 
+walking from the parking lot 
+to my classes, I expect lo 
+starve lo death within a 
+week-and-a-half" 
+
+Parking is nol the only 
+problem for students al 
+IPFW 
+
+Robert Sadler, a 
+sophomore, seems to feel 
+there is a lack of cooperation 
+between IPFW and the 
+Division of General and 
+Technical Studies (DGTS)at 
+BarrStreel. 
+
+■I was al DGTS before, 
+and down there I fell as if I 
+were treated like a piece of 
+meal." he said. "I fell like I 
+was not really a part of the 
+universily. The general 
+attitude was not good. Now 
+I'm taking here two of the 
+same basic classes that I 
+took at DGTS" 
+
+Confused was the feeling 
+expressed by one freshman 
+who asked lo remain 
+unidentified. "I'm con- 
+fused," he said, "but I know 
+where my two classes are 
+and where Ihe Union and the 
+library are, so I'm not 
+worried or anything." 
+
+
+
+
+
+The Communicator 
+
+
+
+
+*" ""p bll.h. 
+
+
+Opin»n •■p'nixl M Ih* lml.OT«. 
+
+
+
+
+
+
+
+
+ioryt.a w.\r, Mo™»ing WIrw 
+
+
+ytlK. Of. in Ih* (Olt oi vm'vta 
+xJliorioli, Ihdi ol rh« •diiorlal booid 
+
+
+and IS Ih* polnl Ih. &gt;dirDrlal Cooid 
+i&gt;i*fvn Ihi il9h&lt; &gt;D .dll oil l&gt;II&gt;F&gt; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN* •dOsrlg] DllicM ol Ih* IndiOho. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featuring,,.. Dancing 
+Daily 
+
+from 11:(X) a.m. to 3:00 a.m. Mon. thru Sot. 
+
+
+
+• SANDWICHES 
+
+• TRY OUR 
+
+' CARRY-OUT 
+
+• PIZZA 
+
+
+
+f-club 
+
+You must be 21 to enter. 
+1018 Coliseum Blvd. E. 
+
+
+
+Exotic Shows Nightly 
+Mon. thru Sat, 
+
+
+
+Special Celebration 
+Mon. thru Thun. 5 pm - 6 pm 
+
+
+
+Open 1 1:00 am 
+to 3:00 om 
+
+
+
+74e 
+
+The Jjues £rother$ eat 
+
+4liicago Jaljan leaf 
+
+sandwiches aiid you^an tool 
+
+— -inly at The JJjinchie 
+
+^mporium 
+
+Grand Opening 
+Sat. Sept. 6 
+
+Beer 5" a mug 
+
+from 2:00 p.m. to 4:00 p.m. 
+
+tl09 Taylor St. 
+Just West of Broadway 
+(across from the Scorpion) 
+You mutt be 21 
+
+
+
+campus . 
+calendar 
+
+
+
+FRIDAY 5 
+
+
+
+SUBOG Movie: "Allegro Non Troppo," 7 &amp; 10 p.m., 
+Ballroom 
+
+SATURDAY 6 
+
+lU Board of Trustees at Fort Wayne, 1 p.m., Room 
+224, WALB 
+
+SUBOG Movie: "Allegro Non Troppo," 7 &amp; 10 p.m.. 
+Ballroom 
+
+I. P. Reports: 7:35 a.m., WGL, Captain Captain "ROTC -^ 
+&amp; Army Recruiting" 
+
+Women's Tennis: IPFW at Notre Dame, 10 a.m. 
+
+
+
+LP. Reports: 6:30 a.m., WANE-TV. 5 p.m.. Channel 
+10. Captain Captain "ROTC &amp; Army Recruiting" 
+
+
+
+Compui Calandar !■ ipomorwd by Indlona Untvanlty.Purdua Unl«*rilly at For* Wayn* (or lh« um 
+
+ol oil unUanlty dsponmonts and oroanlxallont. Ilanu to b* Included In th» Compui Calandar muit 
+
+ba iubmllt*d to ih« OHka of UnWanlly Ralolloni. Rm IM, Kolllor Hall by ) p.m. on Iha Thuriday 
+
+prvtadlng tha waak ol publication. 
+
+
+
+tite artis 
+
+
+
+SEPT. 4, 1980 - THE COMMUNICATOR — PAGE 3 
+
+
+
+New theatre*' 
+prof added 
+
+
+
+By MICHELE DeVlNNEV 
+
+The IPFW theatre 
+department has added a new 
+face to lis faculty. Maureen 
+O'Reilly, originally from 
+SeatUe, Wash., has Joined 
+the staff as teacher and 
+director. 
+
+O'Reilly earned her 
+Master's Degree at the 
+University of Washington 
+and served two years on the 
+faculty of Allegheny 
+University in Meadville, Pa. 
+
+Last year she earned her 
+Master's of Fine Arts Degree 
+and taught three classes at 
+the University of Cincinnati. 
+
+Her duties at IPFW in- 
+clude teaching Dramatic 
+Structure and Acting III this 
+fall and Directing and Acting 
+Styles in the spring. 
+
+She is currently in the 
+midst of auditions for "What 
+the Butler Saw.' the first 
+play of the PIT Theatre 
+season, for which she will 
+serve as director. 
+
+O'Reilly said, "Things are 
+always hectic when handling 
+auditions, rehearsals and 
+performances at night, as 
+well as teaching classes 
+during the day." 
+
+Her classes are smaU this 
+semester — she has 14 in her 
+Dramatic Structure class 
+and six in her acting class — 
+but she thinks small classes 
+better serve the individual 
+needs of her students . 
+
+
+
+The small number of 
+theatre majors st IPFW 
+causes the small enrollment 
+in these classes, she said. 
+Basic classes, such as 
+"nieatre Appreciation, fill up 
+fast, but the more advanced 
+classes don't attract many 
+non-majors. 
+
+However, O'Reilly said 
+that people in related fields 
+of study, such as English or 
+communications, should 
+take an Interest in these 
+classes to increase their 
+awareness of the medium. 
+
+O'Reilly enjoys her dual 
+role as teacher and director, 
+and finds them t&gt;oth fulfilling 
+for very similar reasons. 
+
+"There's a great deal of 
+variety in twth. Each student 
+makes a class different from 
+another one," she said. 
+"O'Reilly feels the same 
+about her plays. "I can 
+direct the same play more 
+than once — and the whole 
+experience is different 
+because the people and the 
+approach are different," she 
+said. 
+
+Although directing has 
+been her "main claim to 
+fame," she has acting ex- 
+perience and says, "1 think 
+I'll go into acting full-time 
+when I'm 80. That's when 
+there's a greater demand for 
+women, and then I can make 
+my million." 
+
+
+
+
+Artlink offers 
+contributions 
+
+
+
+Maureen O'Reilly, new theatre professor and director of 
+the first PIT production of (he season. "What the Butler 
+Saw." Chosen for the cast at callbacks last Friday night 
+were Nancy Ansia, Darrell Hankey. Dan Harth. Jeanne 
+Hoffman. Jack Spring, and Carl Sargent. (Photo by Julie 
+Zent.) 
+
+Series offers 
+good movies 
+
+
+
+By NICK STANGER 
+
+Fort Wayne's alternative 
+art space, Artlink, has once 
+again proven its outstanding 
+contribution to this city's 
+fine arts awareness through 
+its latest show, "Paper- 
+works-Invitational," and the 
+addition of its new sales 
+gallery next door. 
+
+The show, running through 
+September 9, features 21 
+Fort Wayne area artists with 
+Qne or two representational 
+works in anything from 
+watercolors, spray cans and 
+pencils, to presses, wrinkled 
+and torn paper and glue. 
+
+Many of the artists, such 
+as Peggy Brown, Debra 
+Clem, Katy Dolk. Julia Lyon, 
+and Maurice Papier, have 
+achieved a certain degree of 
+local or regional fame. 
+
+A look at their works is 
+enough explanation on why 
+this is so. The Paper-Works- 
+Invitational is a tremendous 
+study in a bit of con- 
+temporary design, abstract 
+realities and experiments in 
+spiritual illustration, 
+combined with a very in- 
+teresting, yet disorientating, 
+professional appeal. 
+
+Other artists whose works 
+are represented in the 
+exhibit are Rick Cartwright, 
+Noel Dusendschon, Karen 
+Eckert, Gwen Metric k, 
+Howard Hitzemann, Frank 
+Mannarino, George 
+McCullough, Jim Monroe, 
+Dawn Neuenschwander, 
+Betty Oettel, Dasu Patel, 
+Lois Pieper. Bill Snyder, 
+Craig Stekette, Marilyn 
+Bock Tobolski and Sher 
+Waldrop. 
+
+Also on display in the 
+smaller lobby gallery at 
+Artlink is a series of five 
+woodblock prints by Max 
+Rojos. The prints are rather 
+large for this type of work, 
+consequently opening 
+
+
+
+Classified 
+
+
+
+BABYSITTER HOUSE- 
+KEEPER. One child 
+after school, 10 hour 
+week. A car required. 
+
+']B5-7890 after 5:000. 
+
+
+
+themselves up to a great deal 
+of detail and room to express 
+thought. 
+
+Done in the usual black 
+and white, these extremely 
+emotional prints are over- 
+toned significantly with 
+Spanish subject matter and 
+style. They create a thought- 
+provoking atmosphere and a 
+sense that the artist knows 
+his material and subjects, 
+and has talent. 
+
+Finally, the Artlink Sales 
+Gallery, 1122 Broadway, is 
+open and located next to the 
+existing Artlink. The gallery 
+was opened to provide area 
+artists with a place to 
+display and sell their work. 
+
+At present, a number of 
+oils, watercolors, photo- 
+graphs, lithographs, and 
+brass and pottery works 
+fill the walls. In the future 
+the gallery hopes to display 
+more metal, acrylic, graphic 
+art and sculpture. 
+
+With all the new additions 
+upcoming displays 
+
+
+
+and 
+
+
+
+scheduled for this season, 
+Artlink promises to uphold 
+its tradition as Fort Wayne's 
+unique art environment. 
+
+
+
+ByMIKEGEFFEN 
+
+One of the highlights of the 
+school year is SUBOG's film 
+series. Although this 
+semester's films are more 
+commercial than last year, 
+there are still some good 
+films included 
+
+The series kicks off this 
+weekend with "Allegro Non 
+Troppo." Director Bruno 
+Bozzeto makes "Allegro Non 
+Troppo" men\orable by 
+using a variety of cartooning 
+styles and music in a film 
+that is often called the 
+Italian "Fantasia." 
+
+Bette Midler's per- 
+formance in "The Rose" 
+follows "Troppo" in the 
+series. With "The' Rose." 
+Midler joins the ranks of 
+other singers, like Streisand 
+and Ross, who had strong 
+film bows. 
+
+Next, Joseph Waum- 
+baugh's hard-hitting, factual 
+tale of cops, "T^e Onion 
+.Field," is a powerful in- 
+dictment of America's 
+criminal justice system. 
+John Savage. James Woods 
+and Franklyn Scales all give 
+excellent performances. 
+
+Following "Field" is "The 
+Eyes of Hell," a 3-d trip into 
+the heart and mind of a 
+madman. The film has great 
+special effects. 
+
+One of the scariest films 
+ever made, "Alien." comes 
+next. The film is simply a 
+haunted house thriller set in 
+
+
+
+space, for which the special 
+effects won an Oscar. Be 
+warned; the film is not for 
+the squeamish, especially 
+with the stomach scene. 
+
+From outer space we come 
+a little closer to home with 
+"Breaking Away," a funny 
+and heartwarming film 
+about growing up in 
+America. Dennis Chris- 
+topher and Paul Dooley give 
+great low keyed per- 
+formances. 
+
+"A Xittle-Romance" is a 
+charming film about young 
+\bvev: Laurence Olivier's 
+droll performance gives the 
+film an extra lift. 
+"Romance" is a good film in 
+that it avoids the typical 
+cliches. 
+
+FYom the sublime Olivier 
+we come to the utterly 
+ridiculous, the worst film of 
+the lot, "The Black Hole," 
+Disney's hugely hyped an- 
+swer to "Star Wars." The 
+most expensive film in 
+Disney's history, it stands as 
+a $20 million embarrassment 
+to the studio. 
+
+The film that brought 
+Brian DePalma to the at- 
+tention of critics, "Sisters." 
+tollows. II is a frightening, 
+dark humored film that 
+salutes Hitchcock. Margot 
+Kidder gives a strong per- 
+formance as a pair of 
+Siamese twins, one of whom 
+may bea murderer. 
+
+
+
+depicting various scenes of IPFW 
+are now on sale in Follette's 
+Bookstore on the ground floor of 
+Kettler Hall and at the Sweet 
+Shoppe on the first floor of Walb 
+Memorial Union. 
+
+
+
+Communicator 
+Classifieds 
+
+50* 
+
+
+
+
+UoUe/ ii Tail/ 
+
+
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S URGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIRDS 
+
+AND A FULL LINE OF PET SUPPLIES. 
+
+
+
+10% 
+
+
+
+OFF ANY ONE FISH OR BIRD 
+
+With This Coupon 
+Limit One Coupon Per Customer 
+
+
+
+483-4930 
+
+
+
+. COUPON 
+
+"OPEN 7 DAYS A WEEK" i 
+
+
+
+arts 
+at a 
+^ ^ glance 
+
+The social whirl 
+
+The Student Union Board of Governors ISUBOG) will 
+sponsor a Welcome Back Dance at the Thundorbird Lodge 
+from 8:30 to 11:30 p.m.. Sept, 12 Activity card holders 
+may attend for (ree while the regular admission price 
+will be $2.50. 
+
+Concerts of note 
+
+Dr Joseph K. Meyers of the Division of Music will 
+sponsor a bus tour to Giicago to attend the Lyric Opera 
+production of Mussorgsky's "Boris Godunov" on Satur- 
+day, Oct. 4. Interested persons may also attend a matinee 
+or evening performance of the musical "Evita." The 
+deadline for ticket orders is Sept. 15. 
+
+
+
+
+GALS AND GUYS 
+
+
+
+
+STROLL ON BY 
+FOR BACK 
+-TO- 
+(1 SCHOOL SAVINGS! 
+
+
+
+ALL FAMOUS BRAND 
+
+lEANS 
+AT DISCOUNT PRICES 
+
+
+
+Glenway 
+
+BARGAIN CENTER 
+
+
+
+3B20 Coldwaler Rood 
+
+Across from the Glenbrook Penney'i 
+
+Open evenings 'til 9 Sunday 12-5 
+
+
+
+^ i![.i'ji4cm!ir;TrTmrn 
+
+
+
+FRIDir t SITUIIMT 
+ILL SUTS t2.S0 
+
+
+
+ChMch i Chang's 
+W IN SMO«E"|H| 
+
+
+
+"Rochi Hdkh 
+Pictuie Show" Hi 
+
+
+
+"FtidiT 
+
+Ihe nili'' 
+
+
+
+tWTERTAIMMENTGIFT BOOKS oniigi.«owj| 
+
+S TAHR[P(*)F»njRtS-Sl.SO FIHST MflTIHtt SHOWING ONLY J 
+
+
+
+CHABLTON HE^N ■ BRUNKEUH ^ 
+
+THE MOUNTAIN MEN &gt;^ 
+
+t:30- 3:30 ■ 5:30 - 7:30 - 9:30 
+
+
+
+BRUCE DERN ANN-MARGRET 
+
+M/DDLE AGE CBAZY 
+
+1:45-3:^5-5:45-7:45-9:45 I* 
+
+
+
+' KURT RUSSELL 
+
+|ACK WARDEN ' 
+
+1:30 - 3:35 - 5:40- 7:45 - 9:55 
+
+
+
+USED 
+CARS 
+
+
+
+fmrMinrt i 
+
+
+
+I 30 - 3:30 - 5:30 ■ 7 30 9 30 ■'P^\ 
+
+
+
+* AseasiHRis story of natural love. 
+
+&lt;niE BI&gt;UE I9AGOON 
+
+
+
+2:00- 3 55 ■ 5.50 
+
+
+
+7:45-10 00 iRi 
+
+
+
+* Caddyshatck 
+
+
+
+K3 
+
+
+
+I 45 - 3:45 . 5 45 - 7:45 10:00 ,R' 
+
+
+
+I 30 3:30 - 5 30 7,45 9 45 \ 
+
+
+
+wm 
+
+
+
+2:00 3 55 - 5:50 7 45 10:00 
+
+
+
+NEWTON JOHN 
+
+;PG| 
+
+
+
+"Purveyors Of Fine Coffees &amp;. Teas" 
+Featuring Fine Imported Burs h Wines 
+
+Thursday Night Pitcher Night 
+M off each pitcher 
+
+live muirc every Thursdoy, Friday 
+ond Saturday night 
+
+We/come back 
+
+fo 
+
+IPFW 
+
+Hours: M-Th. 10 a.m. 12 Midnight 
+Fri.-Sat. lOa.m.-l cm. 
+Sun. 7:30-12 Midnight 
+
+
+
+/CST Fori Woyn. X\ 
+
+^ FILM GUIDE W) 
+
+
+
+HOLIDAY 
+
+
+
+
+QUIMBYviLtAGE ..'.?L? 
+
+
+
+
+PAGE 4 -THE COMMUNICATOR —SEPT. 4. 1980 
+
+
+
+Hocker league 
+to make debut 
+
+
+
+Sign-up for the intramural 
+Hocker program will be 
+Sept. J-11, inlramurfll 
+coordinator Kim Heimann 
+announced this week, 
+Hocker is, according lo 
+Heimann. a •■fun-filled, 
+character-building, body- 
+conditioning, non-stop action 
+sport ,,,■' The Hocker 
+program is coed and is being 
+offered for the first time this 
+fallallPFW, 
+
+The game is played with 
+nine players on a team, 
+including four players 
+minimum, on a field similar 
+to a soccer field. A 16-inch- 
+diamelcr. soft rubber ball is 
+moved down the field by 
+basketball dribble, soccer 
+dribble, kick, punch, or slap 
+pass.orcurrey (juggle) 
+
+Game rules and additional 
+information can be obtained 
+
+
+
+from the athletic office. 
+Room 210 of the Walb Union. 
+Also, learns and individuals 
+can sign up at the athletic 
+office. 
+
+TheHockerseason will run 
+six weeks and begins on 
+Sepi, 14. Games will beheld 
+on Sunday afternoons. An 
+exhiblljon game will be held 
+on Sept. 7al I2:3(ip.m on the 
+IPFW alhlelic field to 
+demonstrate how Ihe gahie 
+is played. 
+
+In oiher intramural news, 
+Ihe annual fall lennis 
+tournament will be held 
+Saturday. Oct. 4. Divisions 
+will include men's and 
+women's singles and mixed 
+doubles. Anyone interested 
+in the tourney con sign up 
+Sept 4-33 at the athletic 
+office. 
+
+
+
+Alumni soccer squad 
+to meet IPFW varsity 
+
+
+
+The sixth annual IPFW 
+Oldlimers Soccer Game will 
+be held this Sunday at 1:30 
+p.m on the IPFW soccer 
+field. This is a pre-season 
+game pitting the current 
+varsity soccer squad against 
+a team made up of former 
+IPFW soccer players and 
+
+
+
+alumni Tlie series currently 
+stands at three games lo two 
+in (avor of the varsity teams, 
+Craig Bobay is serving as 
+alumni chairman and asks 
+any IPFW soccer alumnus 
+Ihat has not been contacted 
+lo call him al 4B4-0149 for 
+details. 
+
+
+
+Cheerleaders organizing 
+
+
+
+There will be an 
+organizational meeting for 
+the IPFW cheerleoding 
+squad on Monday, Sept Sal 
+400 p.m. in Room 2Z2of the 
+Walb Union 
+
+Any IPFW students, male 
+or female, interested in 
+
+
+
+becoming an IPFW 
+cheerleader are asked lo 
+attend and encouraged to 
+bring a friend. 
+
+Additional information can 
+be obtained from Teri 
+Eberwine, Athletic Office. 
+Room 210. Walb Union, 
+
+
+
+Soccer coach still accepting tryouts 
+
+
+
+Any male students 
+interested in trying out 
+for the IPFW varsity 
+
+
+
+soccer squad sliould 
+report to coacti Ed 
+Stefankiewicz in the 
+
+
+
+athjetie office, Room 210 
+of the Walb Union no later 
+than Friday. Sept. 5. 
+
+
+
+CAMPUS MAPS 
+NOW AVAILABLE 
+
+
+
+for use by your student organization. 
+They're free,., call tfie Office of 
+University Relations at 5721 . 
+
+
+
+
+.^'i'fAt J. .^'/ftJJfrW". Ground Floor of Student 
+J'-'W-wirr "r--"4w Walb Memorial Hal 
+
+
+
+START YOUR DAY WITH OUR BREAKFAST SPECIAL 
+
+
+
+"~7 I 8 I 9 f To I n r 12 
+CHECK THE VARIEH OF TOPPIHGS AT THE SAIAD BAR 
+14 I is i \b~\ vi I 18 I W 
+
+DAILY GRILL SPECIALS - SANDWICH 
+
+
+
+~22 I 23 I 24 I 25 | 26~ 
+POTATOES, SOFT DRINK AT ONE 
+SPECIAL PRICE 
+
+
+
+28 I 29~ I 30 I 
+
+BREAKFAST 7:30 A.M.10:30 A.M. 
+FULL SERVICE LUNCH 11:00 A.M.-1:30 P.M. 
+
+
+
+-nS 
+
+
+
+=53 
+
+
+
+rO- 
+
+
+
+POST THIS CALENDAR AT HOME 
+
+
+
+WIPU-FM 
+
+89.1 
+
+Highlights of the Week: 
+
+
+
+THURSDAY 
+
+%m.t 
+
+
+
+FRIDAY 
+SEPT. 9 
+
+
+
+SATURDAY 
+SEPT. 6 
+
+
+
+SUNDAY 
+SEPT. 7 
+
+
+
+MONDAY 
+SEPT.! 
+
+
+
+TUESDAY 
+SEPT. 9 
+
+
+
+10:1)0 p.r 
+7:30 p.r 
+•:00 p.n 
+
+12:00 p.r 
+3:00 p.r 
+9:00 p.n 
+
+10:00 o.r 
+3:00 p.r 
+
+7:30 p.r 
+10:00 p.r 
+
+13:00 p.r 
+
+7:30 p.n 
+
+8:00 p.n 
+
+
+
+tWEDNESDAY 
+
+SEPT. 10 7:00 p.r 
+
+
+
+THE BOSTON SYMPHONY OIICHESTRA: 
+
+Eugene Ormontiy conducts on "Ail-Brolims" 
+progrom featuring violinist Joseph Silverstein 
+and cellist Jutes Eskin, 
+JAZZ REVISITED: Tliey All Play Waller. 
+
+DIALOGUE: Joe Slabelli discusses issues of 
+local importance with l&lt;nowledgeable guests, 
+THE CHOIRS OF BERLIN: The Berlin 
+SIngakademle. 
+
+THE CAMBRIDOE FORUM: Should We 
+Teach Religion In the Public SchooliT 
+WIPU-FM OPERA ON RECORD: Mozart'i 
+"The Magic Flute." 
+
+LISTENER'S DELIGHT: Listeners moy request 
+their favorite classical works at 482,5691, 
+
+THE SACRED SPELL: Boch's Contoto No, 80, 
+Ein' feste Burg" is (eotured, 
+GENIUS OF TOSCANINI SPECIAL: Verdi's 
+Requiem is presented by host Jomes Berry, 
+
+HOW THEY SANG: Man la Man. 
+THE BEST OF BROADWAY. 
+
+VERY MUCH ALIVE ond PRIME TIME present 
+issues of importonce to Older Americans, 
+EUROPEAN PERSPECTIVE: The Fight Agolnst 
+Inflotion; ttow's Europe Doing? 
+MILWAUKEE SYMPHONY ORCHESTRA: 
+Kenneth Schermerhorn conducts on "All- 
+Prokoflev" program, 
+
+GREAT PERFORMANCES: Verdl'i "Macbeth" 
+
+Q simulcosi with Chonnel 39, WflGU-TV, 
+starring Normon Bailey, Patricio Johnson, 
+Nicoloi Ghiourov and Neil Shicoff, 
+
+
+
+You Won't Find It Anywhere Else! 
+
+A Broadcast Service of Indiana University-Purdue University ot Fort Wayne 
+
+
+
+t^ 
+
+
+
+i:^ 
+
+
+
+:^ 
+
+
+
+'BACK TO SCHOOL' SALE 
+
+
+
+
+
+Specl«U)iFVc«d ;. RECORD SE 
+
+DEVAWP CARLOS SANTANA 
+THE SWING OF OEUGHT 
+
+including: 
+
+SwapjnTari/FtuilefMBtan 
+
+Gokl«nHouf8( Love Theine From "SpMtocus" 
+
+SongFo'MyBiolhei 
+
+
+
+K.4K \is\ Ip 
+
+'5.95 
+
+
+
+
+K-'W list 1|) 
+
+!5.95 
+
+
+
+
+JEFF BECK 
+
+THIiRE AND BACK 
+
+
+
+I 
+
+
+
+ElBKki 
+
+
+
+
+EDDIE MONEy 
+
+PLAyiHefORKlWS 
+
+
+
+
+H.'IH list Ip 
+
+55.95 
+
+
+
+K,')K lisi Ip 
+
+»5.95 
+
+
+
+
+t.QS list Ip 
+
+^6.99 
+
+On 
+
+CBS 
+Records 
+
+and 
+Tapes 
+
+
+
+Give the gift 
+ofmtisic. 
+
+
+
+,S,')R list Ip 
+
+S3.99 
+
+
+
+RAMSEY 
+
+LEWIS 
+ROUTES 
+
+including; 
+
+WMspH Zona JTonMBio/Comaewh Jack 
+
+Cotois In Space/CtyBlsIa "N Saquanca 
+
+
+
+
+K,')X list Ip 
+
+6.95 
+
+
+
+3627 N. Clinton Ft. Wayne 483-9290 
+
+
+
+Ok 
+
+
+
+
+*.;:'»,»:&lt;i'-'&amp;tea.. 
+
+
+
+</pre>        </div>
+      </div>
+    

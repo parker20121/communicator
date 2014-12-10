@@ -1,0 +1,1580 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator12indi/communicator12indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator12indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator12indi">The Communicator</a>"
+          </h1>
+          <pre>October 15, Day of Commitment 
+
+
+
+October iO dawned cold. The 
+arch began early and by noon, 
+osl parllclpanls were off the 
+impus. Three abreaEf, In ser- 
+UB silence they walked south- 
+
+
+
+
+
+
+1 the r 
+
+
+
+Traffic was controlled by four 
+policemen. A few people left 
+their cars (o waich. The bypass 
+was backed up only to HlRhway 
+37 and the coliseum. The earl- 
+
+chllled grass. No one toudiedthe 
+tank but the photographers. Per- 
+haps ten Victory In Vietnam sup- 
+porters walked parallel to those 
+who marched to the park for the 
+memorial service. The police 
+
+
+
+by Karen Griggs 
+
+blockea auto access Co the park. 
+The variety of people present 
+Is worth noting. Approximately 
+100 high school and Junior high 
+students were present, many ner- 
+vously holding flowers. Families 
+with small children and many 
+clereyrnen sat together. Students 
+Irom the [UP campus were In 
+the majority, othersrepresented 
+were St. Francis, Crosier Broth- 
+ers, and Indiana Tech. Few fac- 
+ulty members were In evidence. 
+Despite serious sound diffi- 
+cult les the service began. The list 
+of Allen County dead service men 
+was read as part of the 40,000 
+
+
+
+clergy and civilian, the most 
+fervent were Scot Gill le and Rabbi 
+Weller, Pettyjohn Issued a call 
+for blood donations for our sold- 
+!ers, Tbe reading of the list 
+of the dead coullnued as the 
+money for the V^. hospital was 
+collected, the final total being 
+$384, 
+
+
+
+By 1:30 
+
+
+
+time, alter the 
+
+
+
+sang "Where 
+
+
+
+
+COMMOlNI 
+
+
+
+lost partlclpaiil; 
+e campus. Acllv- 
+
+down aller 
+IS mortal ser^ 
+October 15 for Iha Fort Wayne 
+Campus was a serious day of 
+; marchers cornmltment, conducted In t 
+the flowers qulel dlsnUted manner. 
+
+
+
+-.•11 1365 
+
+
+
+
+
+Volume 1 Number 2 
+
+
+
+Fort Wayne, Indiana 46802 
+
+
+
+OclobeT 24, 19G9 
+
+
+
+
+■er by Mart louder. fCer 
+
+
+
+$2,500 allocated to Union Board 
+
+
+
+The allocation of 52,500 to the 
+Union Board was the main Item 
+ot business at the senate meeiLng 
+on October20.An Informal budget 
+was presented by the Board and 
+B motion made by Tom Newman 
+Stated: "1 moie loallocaie S2,SO0 
+to the Student Union Board but 
+It a profit up to and Including 
+$2,500 Is earned that profit will 
+be returned to the slush fund." 
+The motion was passed by a 
+majorlly vole. 
+
+Doctor Green named 
+
+The olflclal adoption of a 
+faculty advisor to the Student 
+Senate was another important ar- 
+ticle uoderlBken by the seialors. 
+Doctor Frederick Green of In- 
+diana University was named and 
+voted upon. 
+
+The filling ol a Purdue va- 
+cancy' In the Student Senate was 
+neKt on the agenda. Those peti- 
+tioning for the seat were Cathy 
+Schertzer, David Quintz, and 
+Steve Lynn. David Quanti was 
+elected and seated. 
+
+Resolution introduced 
+
+
+
+Michael Nusbaumer was then 
+requested to present a bill en- 
+titled "OrgBnlEatlODai I'sa of 
+the Student Government Office"', 
+The bill deals with the official 
+use of Room 10-1 - the designated 
+Students' Government office. The 
+bill was voted upon and passed 
+by a majority. 
+
+CXher Items on tbe agenda 
+Included naming Jim Brown as 
+Secretary ot the Interior and 
+maJting the president pro tem- 
+pore a member of the Executive 
+Cominltiee. 
+
+
+
+fhe entire program progre 
+
+
+
+
+
+
+^■t'^:~&lt;tthi=:.««| 
+
+
+^Hf^^' 
+
+
+1 
+
+
+5 aSv^^ 
+
+
+1 
+
+
+.' J Mr 
+
+
+1 
+
+
+^ 
+
+
+i 
+
+
+
+proud 
+Assis 
+
+
+of the manner i 
+font Dean R.J 
+
+
+which 
+MongCJ 
+
+
+1 
+
+
+
+
+M 
+
+
+1 
+
+
+
+
+
+
+1 
+
+
+
+Student Advisory Committees 
+emphasize involvement 
+
+
+
+As part ot the continuing em- 
+phasis on greater student In- 
+volvement In university aCalrs, 
+student advisory committees In 
+the Departments of English and 
+German, Indiana University at 
+Fort Wayne, have been formed 
+
+dents and faculty. 
+
+Dr. Sylvia E, Bowman, pro- 
+fessor of English and chairman 
+of the English Department, I,U, 
+
+
+
+YOUNG DEMOCRAT CONVENTION 
+TO BE HELD HERE 
+
+
+
+Fort Wayne, Indiana - - The 
+annual convention of the Indiana 
+College Voung Democrats will 
+be held In Fort Wayne tor the 
+ftrsi time October 24-26 with 
+various programs scheduled tor 
+the Indiana- Purdue Fort Wayne 
+Campus and the Cerber Haus 
+Motel. The announcement was 
+made by Klrby pence, presldeot 
+of the I.U.-Purdue Young Demo- 
+
+The three - day affair will 
+bring to the city 150 representa- 
+tives from the 30 affiliated col- 
+leges. Among the highlights will 
+be the adoption ot resolutions 
+and the election ot state officers. 
+
+The convention will open on 
+Friday, October 24, with regis- 
+tration of representatives sched- 
+uled from 7 to 10 p.m., at the 
+Gert&gt;er Haus. Several receptions 
+
+
+
+presidents of all Indiana Univer- 
+sity campuses Young Democrat 
+
+On Saturday, October 25, reg- 
+istration and committee meetings 
+will continue at 9 a.m. At 2p.m., 
+the convention will open with 
+ICYD president Terry Straub 
+presiding as temporary chalr- 
+
+
+
+Reporls win be heard from 
+committees on rules, constitu- 
+tions, credentials, and resolu- 
+tions. 
+
+The keynote address, during 
+the afteriwon session, will fea- 
+ture C}ordon St. Angelo, state 
+Democratic chairman, who will 
+discuss ''Your Role In the 
+party," 
+
+The evBQlne session will lie 
+highlighted by the annual ban- 
+quet, scheduled for the Gerber 
+Haus, which will feature an ad- 
+ress by Larry A.Conrad, special 
+legislative assistant to Sen. Birch 
+
+
+
+Bayh. His topic will be "The 
+National Scene Today,'' 
+
+Honored guests whDhavel&gt;een 
+Invited to attend the banquet In- 
+clude former nith District Con- 
+gressman J, Edward Roush, [van 
+Lehamoff, Allen County Demo- 
+cratic chairman, and Darryl 
+Martin, president ot the Iitdlana 
+Young Democrats, 
+
+On Sunday, October 26, the 
+final session will begin at 11:30 
+a,m. with John D. BottorfJ, form- 
+er Indiana Secretary of State, 
+serving as permanent chairman. 
+Resolutions for the consideration 
+
+presented and will cover such 
+fields as education, tables, penal 
+reform, and national, foreign and 
+domestic policies of the NDton 
+Administration. 
+
+Following the nomination of 
+candidates, suteoftleersof ICTi'D 
+will be elected tor the cotnlog 
+year atxl the convention will ad- 
+
+
+
+Bt Fort Wayne, said that the 
+student advisory committee for 
+English will serve as consultants 
+about department currlculumand 
+standards ot teaching, promote 
+student actlviiies relative to the 
+study of literature, help with 
+student -faculty social and edu- 
+cational functions sponsored by 
+the department, and, upon Invita- 
+tion, deliberate with English fac- 
+ulty committees concerned with 
+student activities and publica- 
+tions. Dr. Bowman added that 
+the appointment of the advisory 
+committee was accompllahed 'o 
+encourage more sludenl Involve- 
+ment In the department and to 
+give students a voice In the 
+department's program and activ- 
+ities. 
+
+Members ot the English ad- 
+visory committee are J. Drew 
+Racine, chairman; Craig Thorne; 
+Michael Per rlgno; Steven R. Bun- 
+nell; Ron LehrmanjKerby pence; 
+Deborah Robbins; Cindy Slem- 
+Inskl; and Mary walle. 
+
+Dr. Donald Richards, assis- 
+tant professor of German and 
+chairman of the Department of 
+German at i.U, here, stated that 
+the purpose of the German slu- 
+denl advisory committee Is to 
+advise the German faculty con- 
+cernlng student I 
+
+partment'B curriculum and poli- 
+cies. Dr. Richards said he be- 
+lieved this will provide the open 
+channel needed between the stu- 
+dents and faculty. Members of 
+the committee are Linda Trues- 
+dale, Ros«l Callmeister, Susan 
+Chapman, Robert Young, Dennis 
+Caerte and Harold Dlstler. 
+
+
+
+
+
+
+Editorial 
+
+Peace is a majority goal 
+
+Lecture story by Karen Griggs 
+
+LOYALTY TO AMEBitrt IS OF IIH.HKR PRIOR- 
+ITY TtlAS' LOYALTY TO A TKMPOilARy LEADER. 
+RESPONSIBLE DISSENT AGAINST ANY POLICY 
+WHEN CONDUCTED PEACEFULLY IS A RIGHT 
+AND DUTY. OUR GUARANTEE TO PEACEABLE 
+ASSEMBLY INCLUDES GIRL SCOUT MEETINGS. 
+HOME ECONOMICS CLUBS, AND YES. VIETNAM 
+MEMORIAL SERVICES. 
+
+THE MORATORIUM HAS NOT HURT THE PRO- 
+GRESS IN PARIS FOR THERE IS NO PROGRESS IN 
+PARIS. PRESIDENT NIXON MUST ACT UPON THE 
+WISHES OF THE MAJORITY BUT NOT AT THE 
+EXPENSE OF THE MINORITY. PEACE IS A MA- 
+JORITY GOAL. ONLY OUR MEANS TO THIS END 
+DIFFER. VE DO NOT SUFFICIENTLY APPRECI- 
+ATE OUR FREEDOMS NOR EXERCISE AND GUARD 
+THEM CLOSELY ENOUGH. 
+
+NON-VIOLENT DEMONSTRATIONS ARE AN IN- 
+TEGRAL PART OF OUR CHECKS AND BALANCES. 
+
+GuesI Editorial 
+
+
+
+A conservative estimate 
+
+
+
+Student President against Moratorium 
+
+
+
+I have bet!ii askL'd lo clve my 
+viawB on the moratorium, both 
+otflclally and privately. 
+
+0(flc;lally, i feel that each 
+student should (let ermine for 
+himself whether hP should march 
+
+debate, except by pxpresslng my 
+personal views In a small flyer, 
+because 1 [eel as Sludanl Body 
+presldeni, 1 represent the entire 
+Gtmlent body uhlc^h was much too 
+divorsllled for me to take an 
+(iKIclal position. 1 tell 1 could 
+not separate my personal and 
+niriclal roles to the exienl need- 
+ed lo voice my opinions publicly. 
+
+TIr' Student Assembly, as a 
+body, roll the same as landvoled 
+a non-lnler[orence policy In the 
+moratorium. However, as Indivi- 
+dual senators, Ihey felt Ihey could 
+tnilet'd represent I he student body 
+and Ks many diverse opinions 
+and therefore, as Individuals and 
+senators, they entered the debate. 
+
+They did In fact represent the 
+sludenl body In that there were 
+s for, a^lnst, and apattia 
+
+
+
+1 1 
+
+
+
+like t 
+
+
+
+i get 
+
+
+
+out of Vietnam without allowing 
+communism any further ground. 
+I agree that we would probably 
+still be flehtine the war of 1966- 
+69 If It were not for tbe peace 
+movement, but President Nixon Is 
+trylnc lo end ihu war and needs 
+
+Uens lo end the war quickly and 
+honorably. Therefore 1 am a- 
+galnsl ihe moratorium because 
+It puts too much pressure on 
+President Nixon and the United 
+Stales and noi enouEh on North 
+Vietnam, the one holding up the 
+peace lalks in the first place. 
+If anyone doubts thlspositlon. 
+
+
+
+plica 
+
+
+
+
+
+
+
+
+
+e Im- 
+
+
+
+My personal f 
+
+
+
+
+
+
+Cofdell Mathieu 
+
+
+
+ISU Policy calls 
+all citizens 
+
+
+
+lOGB 3 
+
+
+
+:. It hi 
+
+
+
+ten months and 10,000 American 
+lives since the new President 
+with llie "plan" to Pnd thetJnIled 
+Stat&lt;''s military presence In Viet- 
+nam assumed ofTicc. Granted an 
+&gt;inusi)3ll&gt; 
+
+
+
+throughout the entire United 
+Stales began again an effort to 
+maxlml^ public pressure tor 
+aging: a broad 
+
+
+
+1 of ; 
+
+
+
+s to 
+
+
+
+nbytl 
+
+
+
+
+
+
+e II m 
+
+
+
+this Presldeni lias (ailed i 
+our nation closer lo the peace 
+he promised. With eadi passing 
+day, the cost of the war to our 
+nation In terms of human life, 
+national resources, dnmesiic di- 
+vision and discontent 
+
+role of American leadership in 
+the name ofworld peace continues 
+to dwindle. The time has once 
+again come (or Ihe people of tlie 
+I'nlled Slates to register their 
+profound disapproval of Amer- 
+ica's military presence in Vlet- 
+
+October 15, 1969 marked the 
+begliuilng of a new kind of mor- 
+atorium. On that day students, 
+faculty and concerned titliens 
+
+
+
+work aEalnsl the war. The method 
+is a recurring moratorium on 
+"business as usual" to allow 
+people lo spend that day partlc- 
+ipatini; In anti-war programsaod 
+memorial services in their local 
+community. 
+
+The moratorium wll be 
+lengtliened by onp day each month 
+
+firm commitment to a definite 
+timetable for lolal withdrawal 
+or until a negotiated .settlement 
+is reached. 
+
+This program Is a call to ail 
+citizens; In the community, in the 
+high schools, and In the colleges. 
+We invite all people regardless 
+of their views or opinions to 
+discuss, to learn and to act on 
+one of the most presslriE Issues 
+in our nation's history — the 
+
+
+
+by Don Shickey 
+
+
+
+On October 7, 1965, 
+live students from across the 
+idv.pst found their way to Chl- 
+eo lo help Dr. Phil Crane win 
+
+iiie Concresslonal Primaries 
+i&gt;&gt;i&gt; I3ih dlstrlcl. 
+
+Ten years ago one would find 
+* runservatlve students wl!l- 
+E lo work In a Congressional 
+Imary, especially those 200 
+lies away. This was due to the 
+
+i^ candidate himself. The reason 
+students could 
+
+live candidates was because the 
+typical conservative candidate 
+was sixty, bald, and outfitted In 
+a drab grey suit and bow tie 
+(Sorry Ross). 
+
+Dr. Crane Is typical of a 
+strong trend In the opposite dir- 
+ection. Crane is young, good looh- 
+
+
+
+il iss 
+
+
+
+he's 
+
+
+
+PS. ^'e: 
+
+
+
+ih'- 
+
+
+
+preferably with Its present bor- 
+ders. I realize the military as- 
+pect cannot be Ignored, but I 
+dislike Ihe corruption of the pre- 
+sent military establishment In 
+Vietnam and (he war of attrition. 
+1 also dislike the way we became 
+involved and the fact that even 
+not declared war. 
+
+
+
+Student Government Comment 
+
+
+
+by Mai1( Souder 
+President, Student Senate 
+
+
+
+As one of the "few senators" 
+who helped to organize the In- 
+famous Leadership Retreat, It 
+
+behind It, the methods of selec- 
+tion, what took place, and the 
+believed success of the retreat. 
+The Leadership Reireai was 
+
+successful retreat was held two 
+years agOi, The retreat held last 
+year resulted In some sludeni 
+government [lEhting, The Idea of 
+taking selected freshmen was 
+dropped after Iho (irsl year. 
+
+When the Stiideni Assembly 
+was asked to allocate $700 (or a 
+Leadership Retreai last spring, 
+WW referred II lo commlllee. 
+Qolller, .Mike Nusbaumer, 
+
+
+
+
+
+
+rveil o 
+
+
+
+tram the Senate and Don Crote 
+represented the Union Board. 
+With requested and appr&gt;&gt;ctaled 
+help from Dr. Manges and hours 
+of studying, plannlnf, and re- 
+vlewlnj; thn Idea, the cjDmnilliee 
+
+S?0O (or a Leadership Retreat. 
+Only one senator voted acalnst 
+
+We decided that ther.^ should 
+be ihree major goals: 1) Initiate 
+
+iDio student government, 2) fur- 
+ther develop presenl student 
+"leaders" and 3) recomtnend 
+solutions for solving present 
+lampus problems. 
+
+The malor problem was de- 
+termining who .&lt;ihould l&gt;e Inviied. 
+Those students servUlg i-ither on 
+the Senate or the Union Hoard 
+were Invited as well as other 
+leaders such as Cordell Mathleu, 
+Student Body President, and Ron 
+Rice of Project Abelard. Dean 
+ManEC-i .s-pent the weekend with 
+
+
+
+us, as (lid Dr. onwood from llie 
+Purdue faculty and Dr. Harper 
+from Indiana, Dr. Frledel from 
+PIT also attended. Dean Smith 
+and Dean Hroylos each spoke at 
+
+How does one rhoose twenty- 
+five freshmen from approximate- 
+ly nineteen hundredT We con- 
+sidered many methods and fin- 
+ally settled on a combination. We 
+first limited It to only those 
+freshmen attending orientation. 
+Of those, we sorted out atiout 
+two hundred to interview. Then 
+about twenty-five of those inter- 
+viewed were selected. 
+
+This may .seam arbHr3ry,but 
+one doesn't invest six hundred 
+dollars In students who have 
+never, In the past, dc'monstrated 
+oulstattdlng leadership qualities. 
+It's true that there wilt be "late- 
+one before "blooms". 
+
+We feel the Leadership Re- 
+treat was surn-s.sfiil. The pre- 
+sent student leaders learned 
+much, as well as getllne many 
+excellent suggestions and pro- 
+posed solutions. .\Iain of the 
+
+Idenced by Ihe staff of this new s- 
+
+At the same lime, we urge 
+students Interested in Student 
+Government or the Studeni Union 
+Board to Join. Just because you 
+didn't attend the Leadership Re- 
+treat doesn't make you incapable 
+of being In Student Government. 
+We are considering haUng anoth- 
+er open Leadership Training Ses- 
+
+urge you to come to Room 104 
+because, unfortunately, '• late- 
+bloomers" look a lot like card- 
+playnrs. 
+
+
+
+
+- Ine, well dressed, and solidly 
+
+
+
+more dedicated lo conserva- 
+tism than ha is to Ihi- Republican 
+party, 
+
+I do not mean to say tliai the 
+young conservatives have cap- 
+tured the Republican party. II 
+they had, Hugh Scoii would not 
+be minority leader of the Sen- 
+
+tlves have mad.' ureal (rains. For 
+evidence I clle "Duk" Lukens, 
+Fulton t^wls 111, "Bill" Rich- 
+ardson, David Keene, Barry 
+Goldwater, Jr., Phil Crane, etc. 
+
+Thus, I feel It Is my duty to 
+warn the old guard Republicans, 
+off guard Democrats, and miscel- 
+laneous morons CLIndsay, Percy, 
+and Brooke) that a ticket com|»s- 
+ed of young conservatives Is very 
+possible In 197G. 
+
+
+
+Letters 
+to the editor 
+
+
+
+Dear Ediior, 
+
+I Would like lo consralulato 
+you and ihe Communicator staff 
+for tlie (bie coverage of the two 
+major views cuncenilng the re- 
+cent .Maralorlum. However, (or 
+clarity, I think that the purposes 
+of S.A. M, should be further ex- 
+plained. 
+
+As thename(SiudentsAB»insl 
+the Moraiorlum) implies, this 
+organization opposes the ^to^a- 
+lornim Iwcause It Is felt that 
+the Moratorium places stress In 
+the wrong place, namely Ihe pre- 
+senl admlnlstrallon. Instead of 
+the Communists In North Viet- 
+nam, Also, the purpose of S.A. M. 
+Is to back the policies of Iho 
+prosenl government and the peace 
+negotiations In Paris. 
+
+
+
+Rex Teepte 
+
+
+
+SAM "Not yel 
+begun lo fight' 
+
+
+
+™1P 
+COMMUNICATOR 
+
+Published weekly by sludenrs of i- U. - Purdue 
+Regional Campus al Fort Wayne, Indiana 46802 
+Phone: (219) 483-8121 Extension 386 
+
+EDITOR-LN-CHIEF Stephen Huddleston 
+
+MANAGING EDITOR Jennifer Bosk 
+
+BUSINESS MANAGER Beih Wertman 
+
+FEATLUE EDITOR Karen Griggs 
+
+PHOTOGRAPHY EDITOR . . Johannes M- Limbuff; 
+
+
+
+Wh, In audents Against the 
+Moraiorlum, (eel our campaign 
+was sucfessful, especially con- 
+sidering ihal SAM was only of- 
+ficially formed lasl Tuesday. 
+While the damage was done lo 
+the p('acp effort, as shown l)y 
+North Vietnam's enthusiastic en- 
+dorsement of the Moratorium, 
+we feel we demonstrated that 
+here In Fnri Wayne studeniopln- 
+ion was divided on trii issue, 
+SAM distributed about 5,000 bro- 
+chures and flyers In Ihe local 
+
+at the Indiana- Purdue campus. 
+We also had distributed all GOO 
+of our Co to Class stickers by 
+early Wednesday morning. 
+
+While somewhere between COO 
+and 300 people attended the Mora- 
+torium sessions at the Indiana- 
+Purdue campus, which is an ad- 
+mittedly significant number, tha 
+total was balloned by curious 
+high school kids, many of whom 
+were merely taking the occass ion 
+lo skip school. The total attend- 
+
+lunlor high and high school stu- 
+dents. This means the Indepen- 
+dent Students Union spokesman 
+who was quoted by the press 
+
+of at least a thousand" over- 
+esflniaied hlsorganlzatlon'ssupM 
+port. 
+
+Other pro - moraiorlum 
+spokesman had estimated class 
+attendance would be off by 40%- 
+60^. SAM checked class atten- 
+dance from early mornlni! on 
+thru Wednesday evening, and 
+while In some classes attendance 
+was 40rfl-60ri off, the average 
+percentage drop from normal 
+was about 105. In some classes, 
+attendance was higher than nor- 
+
+Sludents Against the Mora- 
+torium, lo quote a bmousAmer- 
+Ican, has "not yet begun to 
+fight." The national Vietnam 
+Moratorium Committee vowsthat 
+they will continue escalaiing 
+their protests every month until 
+the war Is ended. It's some- 
+what of a self- fulfilling suie- 
+ment, seeing as they are help- 
+ing to prolong the war, SAM 
+will continue our battle. The 
+students aren't one-stiot "glory- 
+mongers," SAM Is fighting a 
+bailie It cannot and will not 
+
+
+
+I. P. Communicator 
+
+
+
+October 24. 19E9 
+
+
+
+
+■ONLY 
+
+
+PUniJC PRES. 
+
+
+SURE 
+
+
+lOR IMMEDIATE 
+
+
+WITHDRAWAL WILL 
+
+
+PI-R- 
+
+
+SUADH 
+
+
+NIXON TO 
+
+
+END 
+
+
+THE WAR •■ 
+
+
+
+
+llr. Bon 
+
+
+imm SpocL 
+
+
+
+
+
+
+■THE VIETNAM MORA- 
+TORIUM ... 15 THE 
+ONLY WAY THAT THF. 
+HKOPLE OF THE COUN- 
+IRV CAN DEMONSTRATE 
+-TO THOSE WHO HOLO 
+POLITICAL POWER." 
+
+Seo. Eugene MaCarcby 
+
+
+
+I. P. Conuminicaior 
+
+
+
+Hamm takes Schmidt 
+on forfeit; Burns wins 
+
+
+
+A view frofn within: 
+
+
+
+Representative to speak on U.N, 
+
+
+
+by Gary Trowbridge 
+
+
+
+TLe diamplonahlp »nd ruo- 
+oer-up leama of last yuAi both 
+scored victories Sunday In Dag 
+toolbaJl. Himmwonrrom Schmidt 
+OD a Torfell, and Burns boat 
+WIIILamB In a squaaJier, lZ-6. 
+
+In the Burns- Will lams game, 
+Williams swred llrsl. missed 
+the extra point iry, and led 6-0 
+at the hall. In the second hall, 
+quarterback Burns hll Werling 
+on a pass. Werling ' 
+
+
+
+In the ti 
+
+
+
+Ralp:i Townley, chief of the 
+
+Anima.1 and Fish Resources Pro- 
+
+iDutesuddendeath gramme, United Nations Devel- 
+
+followed, both opraent Programme, will speak 
+
+
+
+teams had several unsuccessful 
+drives. Finally Burr 
+
+OD the B yard line 
+ditrh defensive play 
+of wuilams' leam. 
+
+
+
+I was stopped 
+
+
+
+United Nations; 
+from Within, Monday, Oclotwr 27, 
+at Indiana VnlversUy at Fort 
+Wayne. The talk Is scheduled (or 
+
+
+
+2:15 I 
+
+
+
+
+
+
+. ■! p.n 
+
+
+
+ffalrs and was a member o( 
+le United Nations special tUnd. 
+[e is (he author of several pub- 
+i, Including a tioak on the 
+and operation of the 
+United Nations. 
+
+Townley's appearance here is 
+sponsored bv the American As- 
+
+
+
+sociation of University Women, 
+
+the Rotary club, the VWCA and 
+the League of Women Voters. 
+Evangelos CoufoudaMs, lecturer 
+in political science at l.ii. here, 
+is coordinator of the proBram 
+which Is tree and open to the 
+
+
+
+
+
+
+In Room 107 a 
+
+
+
+talk: 
+
+
+
+
+
+
+
+
+
+a TD 
+
+
+
+:&gt; tie 11 
+
+
+
+
+
+
+tra point try failed, and lime r; 
+
+
+
+bracket, Townley, who was born In 
+
+by forfeit trom Horncasile, England, attended the 
+ReluB, and Turner won on a for- Universities o( Nolllngham and 
+telt from Bramd. London. He joined the United 
+
+Nations Secretariat In 1951 as 
+
+secretary- general for Economic 
+
+
+
+"Streetcar" 
+
+continues run Union Board meets 
+
+
+
+Purdue- Indiana Theatre o- 
+pened Ihelr '69 season last 
+weekend with Tennessee WUl- 
+Iftms' A Streelcar Named Desire. 
+The play Is a hard-hitting drama 
+of tensions and confllcla between 
+Stanley Kowalskl, played by Dave 
+Thompson, his wife, Stella, (Suzl 
+WInansJand Blanch, Stella'ssls- 
+ter, porlrayed by Julie Buchhelt. 
+It centers around Blanche Bu- 
+Bols who, after losing her south- 
+ern plantation, has come to live 
+with Stanley and Stella. 
+
+
+
+
+Apply in person at T-50 
+or leave note in 102, 
+also mailbox in Student 
+Lounge. 
+
+If your group or Organi- 
+zation was left out, con- 
+tact us tor future events. 
+
+
+
+Definite decisions concerning 
+two major events of the year; 
+Ihe penny Carnival and the Deans' 
+Ball, were made at the meet- 
+ing of the Union Board on Mon- 
+day, October 20. 
+
+Other members of the cast 
+include Doug Opdycke, JlmOkle- 
+shen, Mary Mawhorr, Peg Bios- 
+ser. Erin Halsema, Tim Blay- 
+lock. Randy Parker, Kalhy Gar- 
+land and Glen Fey. 
+
+Tickets are on sale at the 
+box office located outside the 
+cafeteria. The play will continue 
+Us run October 2&lt;Hh, 25th, and 
+close on (he 261h. 
+
+
+
+
+
+
+They decided lo gl 
+ceeds of Penny Carnival lo the 
+Slate School. Tables to adopt one 
+of the ISO orphans that are com- 
+ing for the event wtll be set 
+up new week. All clubs have 
+one week left (o respond lo lel- 
+ters concerning booths for the 
+carnival sent out by the Union 
+
+The Deans' Ball was discus- 
+sed that evening. There will be 
+two bands for (he aUalr titled 
+
+
+
+MOUNTAIN VALLEY 
+
+
+
+(1-69 to PokaBon Park ExI 
+
+
+
+WELCOME STUDENTS 
+
+
+
+Friday, October 24 - "AVCR" 
+Saturday, October 31 - " Touch of Blue " 
+
+
+
+\ 
+
+
+
+For limited time only. 
+
+
+
+
+with 
+
+
+
+fep/^Oecq^ 
+
+
+
+
+For a limited lime only— get ll'.e line, nalionslly advertised loilelry 
+
+products that you want and need. And, 3ll you pay is OOt lor packing, 
+
+freight and handling. 
+
+Why this couple of bucks worlh for 3M? The marulactutet of these 
+
+great toiletry products just want you lo try them— so that you will 
+
+know fiow great they are. That's why they have askeil your College 
+
+Store and Campus Pac to put this deal together as a speclil student 
+
+service program. 
+
+But there is a limit to only one ptr iludenl while they last. 
+
+INDIANA-PURDUE 
+Campus Bookstore 
+
+
+
+
+RICHARD J. THONERT 
+
+has been appointed 
+
+campus representative 
+
+for 
+
+Guarantee Mutual Life Company 
+
+Dick offers a full line of life and heakh Insurance Plans 
+
+for college men and Homen. 
+Res. "18-0971 Office 742-9483 
+
+
+
+ick and Associates 
+1520 Anthony Wayne Bant Buildmg 
+Fort (Tayne. Indiana 46802 
+
+
+
+Guarantee Mutual Life Co. 
+
+
+
+Page; 
+
+
+
+I. P. i:onitiunlGator 
+
+
+
+</pre>        </div>
+      </div>
+    

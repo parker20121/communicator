@@ -1,0 +1,1208 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i14indi/communicatorv8i14indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i14indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i14indi">The Communicator</a>"
+          </h1>
+          <pre>j^Eesi^r 
+
+
+
+THE 
+
+
+
+COMMUNICATOir 
+
+
+
+^ 
+
+
+
+S^ 
+
+
+
+VOLUME VII, ISSUE 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY at FORT WAYNE 
+
+
+
+DECEMBER 2, 1976 
+
+
+
+jyr J • , , • J J . . Students wallop 
+
+IMew academic structure aids administration ±' i - oi /I O 
+
+
+
+divisions, three hfeaded by deans and two b; 
+less confusing decision-making process i 
+
+
+
+
+
+
+ind the Vice-Chan- mise Thestru 
+
+n the form of a "With the restructuring we are able lo 
+
+1 is presidents. After nearly a full year of study Chancellor Borkowski. A few of these duties 
+
+■As by the Ad-hoc joint steering committee a consist of establishing new programs and 
+
+viU new structure format was presented to the beginning a working relationship with [he 
+
+the faculty for a vote. Purdue faculty voted faculty In development of curricula. "We 
+
+»;• Beatty, Hawn, Christie swing 
+in film offering ^Shampoo^ 
+
+
+
+8 having an admlnis- playing ability of their v. 
+
+
+
+le miserable physical condition and 
+
+
+
+n 18 on 5 situation. Taking the 
+
+
+
+e not playing attempted 
+
+
+
+! apparently unprepared faculty 'This \ 
+
+
+
+Beverly Hills, is Friday's Film ^eries 
+
+
+
+oftheDivisionof ArtsandSciencesatlPFW superstud and sometime hain 
+
+
+
+escort for Jackie to a party Lester is t] 
+
+
+
+. During the party, 
+
+
+
+according to Ray film, set on Election Day, 1%0, he manages another party. This party is 
+
+lancellor. Depart- to do both, but not without sacrificing his than the boring bash for the ; 
+
+divisions report happiness. lot of decadent, wealthy youi 
+
+n who then meets George has quite a few paramours, doing everything imaginablt 
+
+
+
+:K^!.iu!£hxS'^'d Student Government addresses grievances 
+
+
+
+e Student Senate was that o 
+
+
+
+Dean ot Faculty, and then the C 
+
+
+
+this party, Jill finally catches George 
+ir life. When George gets back home, he 
+
+
+
+
+
+
+report to the Vice-Chancellor and 
+
+
+
+students special discounts ton merchandise 
+
+
+
+', December 7, 
+t Union Bldg 
+encouraged ti 
+
+
+
+Eighth annual Penny ;.s.e.a„™™.«o, ,„„..c..o.e&gt;„„ ^ 
+
+^ ^ , , , ^.'rJ'.';[Z"'r"XrZ!.t Opinion survey 
+
+Carnival 'tremendous success' S^HSS^ e^e^t GaUup Spring semester financial 
+
+-•■- -■ - - ■■ - -■ -''-'■'''"^'''"^""■f'ala^n'ThrpK^^^^ tospeakhcrc . i p i •! i i 
+
+,,ac.rea»„a.„„e„ _ -.„,,,„,„.„,, aiQ tuncls availabie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+prize most original), "Basketball Toss," by 
+
+
+
+
+
+
+
+
+Bean Bag Toss," by Speech and Hearing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+can Gramii-Happy Days," by Uia Junior 
+
+
+a child having run can express. What made 
+
+
+
+
+the day special was how the litUe kids made 
+
+
+
+
+
+
+
+
+
+
+Beta Ph. (ise prize most enthusiastic), 
+
+
+
+
+■Apple Bob," "Disco Cliairs."and "Qown's 
+
+
+
+
+
+
+
+
+elation, "Bo»llng," by the Geology Club, 
+
+
+Day Care Center. 
+
+
+
+is supposed lo represent the aim- 
+
+
+
+I the Gallup Poll i 
+
+
+
+Arnold, and d 
+
+
+
+X credit hours 
+'on (BEOG). 
+
+
+
+George and Sue McCullough: two artists of many talents 
+
+
+
+We're not really Into this commercially. ' 
+
+Sue Mc Cullough 
+
+
+
+
+"/ like painting portraits on stained glass." 
+
+George Mc Cullough 
+
+
+
+THE COMMUNICATOR 12/ 2/76 PAGE 2 
+
+
+
+EDITOR ULS 
+Dickens Dinner open to students 
+
+The Dickens Dinner, coming up on December 1st. 
+2nd, 3rd and 4th. is the largest annual event sponsored 
+by the IPFW Music Department. 
+
+Special arrangements have been made by the 
+department to include students this year. The new 
+arrangement is that students may attend the program 
+on any of the four days, pay one dollar, receive coffee 
+and doughnuts, and benefit from the programs. 
+Students also have the option of paying 55-25. thereby 
+
+
+
+program this year. The event i 
+the department, with no n 
+SUBOG, students" government 
+The efforts to include studen 
+year, while certainly 
+enough. It is difficult 
+
+
+
+understand why they 
+function, when they are 
+card which is supposet 
+
+
+
+y paying for a activity 
+
+
+
+! or of minimal c 
+
+
+
+r is obvious. The event, in order 
+students, in order that I 
+attend, must be subsidized more heavily by 
+government. The easiest way to take can 
+subsidization would be for the r 
+
+
+
+making provisions 
+
+.0 be able to attend 
+
+^ function at a minimal cost. The next best way 
+
+
+
+i certain amount of students t 
+
+
+
+would be for SUBOG to buy a 
+manner with which they usi 
+
+
+
+Music director explains charges 
+
+
+
+■ersity Musical Organiza- Dinner. 
+
+
+
+
+
+
+Vets' benefits 
+^not so bad' 
+
+
+
+ti Bill Miller's education while attending classes 
+3" benefits in at this campus. To site myself as 
+
+campus continually since August 
+
+IS, but Miller received $8,316 from the govern- 
+
+
+
+t AFX-AURORA-Jackis Stewart 
+
+MONOKOTE dr m AA 
+
+OPAQUE 4 TRANSPARENT ^ ■ W V 
+
+
+
+PHILS HOBBY SHOP 
+
+
+
+
+
+,„po»sibk. lor veteran ,..pend 
+
+
+
+
+
+
+N6.1 
+
+
+SEE MR. DIKER 
+
+AT HEFNER'S 
+
+CHEVROLET 
+
+FOR A 
+
+SINCERE, 
+
+HONEST DEAL. 
+
+
+No. 1 
+
+C. Diker 
+484-5566 
+
+
+
+concerls presonted by Ihc Jazz SUBOG'sJ37.O)0, Obviously, Uiej 
+and Symphonic wind Emsemble' Ui'allend Iree, We are nol 
+
+
+'■'COHMUNICAIOR 
+
+
+L"ll1,p"ced! on re".lde '"^. 
+puWIsh "d" " " "" ""' '° J 
+
+
+ifAMPT'* MIMSTRV PORinvi 
+
+
+
+
+Should IPFW have dorms? 
+
+YES: To serve our goals ™f£™£^»5rH§lfsw£S^^^ ■ 
+
+ByTIMPETERSON can'bap^n Le^Xy! wmroTdorms" e |lSive°rsl?lUdI ! 
+student senates worked toward making IPFW an academie surrounding community- that ot leather and tacUitator, that : 
+
+home or work. Isolating students (rom faculty and students future public policy and socioeconomic change, : 
+not help to build a community here at IPFW, We learn to students from other campuses may have suffered culture ; 
+™e all in peeTcaruTgr^upl'^J^ln self Inter^sTand arSiirclure may Se iZexciUng, the atZsphere'may be 
+
+Interests, Dorms should be high on the list, less we become reflecting on its philosophy, a county studying Its history, a ; 
+Iboughl when we first came here to study electronics or 
+
+NO: The city is the dorm ^^^Hi^SHJsHrl 
+
+ah':°atriiihriirco:i^-?heTa-pCn^ aX':i=^LrsTo:Vutc-i^:;far= 
+
+part or the higher education scene, I'm inclined to think that a completely different picture. The atmosphere in our coffee 
+community Is nol too largel price to pay tor the sense of Ideafilled, training-oriented atmosphere? Why build walls 
+goTesidenlfal,""""' ''°" '"'"' "" '"" '°^'°"'' °""''°''' wl™r;ind ou^r dorms Ire whe?ever°we'"liv!i? 
+
+
+
+
+FOLLETTS 
+
+
+
+483-6100 
+
+GROUND FLOOR KETTLER 
+
+
+
+l»! Kj.V&gt;^-y^-«»v^.^'?^^ 
+
+
+
+SERVING LUNCH FROM 11-3 ig 
+
+6 DAYS EVERY WEEK 6 
+
+
+
+At learnin g resource center 
+
+Wide range of skills taught 
+
+
+
+THE COMMUNICATOR 12/2/76 PAGE 3 
+
+
+
+ALASKAN KING CRAB LEGS^^^6.95 | 
+
+GIANT COCKTAIL HOUR 
+
+4:30 to 6:30 P.M. | 
+
+Double Drinks-Single Price | 
+
+5629 Sf. Joe Road . "r; 485-1685 (^ 
+
+
+
+1 
+
+
+
+Pizza ihn 
+
+
+
+bridge or chess partni 
+
+
+
+
+Pizza Inns Old Fashion Thick Crust 
+Pizza ... or our Original Thin Crust. 
+Your Choice . . . Both from the makers 
+of America's Favorite Pizza 
+
+
+
+Covington Plaza 432-5534 
+
+State and Crescent 484-1556 
+
+Georgetown Sq. 749-9581 
+
+
+
+Wayne. The exchange 
+
+
+
+Lecture on ideal society set 
+
+
+
+DAILY LUNCH SPECULS 
+
+
+
+Tues - 2 pes. Sicilian &amp; Sakd 
+Wed - Italian Beef Sandwich 
+Thiira - SpaghelU &amp; Mealbalk 
+
+
+
+
+c 
+
+
+
+coupon 
+
+, «- \ DAILY 
+
+* ^" ' LUNCH SPECLVLS 
+
+
+
+^^^bleHpntaitsl ^wo locations 
+
+
+
+1 FREE SOFT DREVK 
+
+WITH LUNCH 
+
+-INSIDE ONLY 
+
+Exp. 12/15/76 
+
+
+
+-JL. Georgetown 
+^ 2910 Maples 
+
+* Clinton a. C 
+
+
+
+n the results: meeting a 
+
+
+
+The GRAHAM SYSTEM 502 is better than 
+the remarkable GRAHAM 500. Here's WSt 
+
+
+
+
+Remember when breakfast was 
+
+really breakfast? Weren't those the mornings 
+
+you felt like a dragon slayer? 
+
+
+
+How do you feel this morning? 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+I 
+
+
+
+Ei. 
+
+
+
+msi 
+
+
+
+mm 
+
+
+
+
+stop by for 
+
+BREWFflST 
+
+tomorrow 
+
+
+
+THE FORT 
+
+
+
+lOCATED IN THE STUDENT UNION 
+
+
+
+2 Eggs, Toast, Hash Browns, 
+
+Coffee or Juice 
+
+85- 
+
+
+
+2 Pancakes, Bacon, 
+
+Coffee or Juice 
+
+85' 
+
+
+
+Serving Breakfast 7:30 a.m. to 10:30 a.m. 
+
+
+
+THE COMMUNICATOR 12/2/76 PAGE 
+
+
+
+
+as you grow. 
+
+
+
+THE COMMUNICATOR 12/2/76 PAGES '' 
+
+
+
+'Blue Moves' 
+signifigant 
+
+
+
+iR | 
+
+
+
+F rom now until eternity the best 
+movie ever made 
+on the subject. 
+
+
+
+
+Ingmar Bergman's 
+
+SCENES FROM 
+A MARRIAGE 
+
+
+
+stamng LIV ULLMANN 
+
+
+
+ECON-O-CHANGE 
+
+TIME S MONEY-SAVING 
+
+SPECIALS... 
+
+TO PROTECT YOVR AUTOMOBILE! 
+
+
+
+
+OIL CHANGE 
+
+4 QUARTS 
+ALL WEATHER 
+
+10W30 OIL 
+
+OIL CHANGE &amp; LUBE 
+
+4 QUARTS &lt;tr\AQ 
+
+ALL WEATHER q&gt;"J'*7 
+
+10W30 &amp; FILTER 
+
+OIL CHANGE, LUPE, FILTER 
+
+5 QUARTS 
+ALL WEATHER 
+10W30SLUBE ' 
+
+ANTI-FREEZE FLUSH 'N FILL 
+
+COMPLETE ANTI- * A^Oq 
+FREEZE FLUSH 'N FILL * 1 fl^^ 
+2 GAL. MAX. 
+
+
+
+$2^9 
+
+UBE 
+, FIL 
+
+$-749 
+
+
+
+10^ 
+
+
+
+1102 E. STATE BLVD. 
+FORT WAYNE 
+PH. 483-9695 
+
+
+
+XAAAS 
+
+
+
+GIFT 
+
+
+
+SAVINGS 
+
+
+
+
+BIG DISCOUNT PRKES 
+
+FAMOUS BBAMDS 
+
+GUYS &amp; GALS JEANS 
+
+BIBS, TOPS, JACKETS 
+PAINTER-PANTS 
+
+DRESS SLACKS-FLANNEL SHIRTS 
+GOUCHOS &amp; SPLIT SKIRTS 
+
+
+
+IF HE OR SHE LIKES IT- 
+WE'VE GOT ITf 
+
+
+
+llenWay Sunday 12-5 
+
+"'lain 3.,. ..,.,.,.„. 
+
+
+
+'^Van Gogh' at 
+Performing 
+Arts Tuesday 
+
+
+
+^ through the 
+
+
+
+HELD OVER ..«!H,7.lFn 
+
+4THWEEK WARNING 
+
+
+
+' fe*? 
+
+
+
+WILDEMESS 
+FAMILY P- 
+
+
+
+
+
+
+ft«4«r3r.fo^h JO^ H_ UW. TO SET TO l&lt;^B^ 
+
+a«, oostmi sh.rti ass li'i ^— 
+
+(i*=-«. iu-fr^ M!S li'^ Jf ^ THIS COUPON WORTO 
+
+aw«ii- skbI. iMts II jM 1*'- ^^ \cj^. ofF alV PuRcimse 
+
+
+
+LUNCHEON 
+SPECIALS 
+11 to 3 
+
+
+
+
+HAPPY 
+
+HOUR 
+
+4:30 to 10:00 
+
+
+
+Coluwhig at Harrison — On The Landing 
+
+
+
+-NnVE LIVES 
+
+MBVOR'S WrVES- 
+
+
+
+
+I ALL CINEMAS EVERY DAY $1.50 TIL 2:30| 
+
+tssBSlsSissBltMisiss 
+
+
+
+
+COME HAVE BREAKFAST 
+
+WITH US 
+ittf^ S AT MCDONALD'S' 
+
+^B YOU BUY THE 
+
+-^«^ EGG McMUFFIN 
+- K AND COFFEE 
+I^# ..THE JUICE 
+IS ON US ! 
+
+We're close by. . . right on your way ™ 
+only 2 minutes from campus. 
+
+3202 ST. JOE CENTER ROAD 
+
+) FREE JUICE P 
+
+
+
+
+H-r 3202 ST. , 
+
+
+
+COMMUNICATOR CLASSIFIEDS 
+ONLY 50' 
+FOR THREE LINES 
+
+
+
+Our years of experience, 
+
+dedication fo photography, 
+
+and a qualified professional staff allow us 
+
+to MAKE TIME STAND STILL/ 
+
+
+
+
+
+
+THE COMMUNICATOR 12/2/76 PAGE 6 
+
+
+
+Men's basketball season opens 
+
+
+
+The Maslodons opened Iheir Wilberforce. thesecondhalf when the Cougars with St. Francis cood offensiv 
+
+season Saturday with a hard On Tuesday IPFW faced cross- TW W 
+
+',:^''ZV!^'Z"J'T. ir™"rh'iLr,T„f,r.i,r„' HockP'V tf*nm 
+
+lighl d^'cnsive conlest wilh U.e decision. SI- Francis was led by -■■-■. t-^ l^ » 1/ C' J t/WZ'XJl/l 1 1/ 
+
+Waslodons cjingine lo a 26-JS guards Sylvesler Allen with 2S _ •/ 
+
+
+
+Did you Know? 
+
+At 8 weeks your child's fingerprints ar( 
+
+destinct? A characteristic uniquo to the 
+
+individual for a lifetime. 
+
+
+
+wins on road sEiilHr" 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRIHDCRS 
+BROASTED CHICKEN 
+SAUSAGE RqUs 
+
+MONDAYS a, THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+
+YOU MUST BE 21 -IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+Brateman Brothers' 
+
+PRE-CHRISTMAS SALE 
+
+
+
+All leather Leisure-Cowboy Boots 
+
+Women-Men Si zes Reg. 49 "-59 « gale Price 39"-47" 
+
+BUTTON OR SNAP 
+
+Group Western Shirts 30% Off 
+
+Assortment Of Colors- 
+Paterns-Designs 
+
+Reg. 26" assorted colors ' 
+
+sjZKj^-i-xL Joggi ng Suits SaleJ'riceJ9:'8 
+
+^t«-""39" , Sizes 36-60 
+
+Fleeced Lined 14oz Blue Denim 
+Jackets &amp; Coats 
+
+
+
+REG. 
+
+SALE PRICE 7"-13'' 
+
+
+
+</pre>        </div>
+      </div>
+    

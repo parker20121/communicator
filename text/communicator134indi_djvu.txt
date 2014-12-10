@@ -1,0 +1,2488 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator134indi/communicator134indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator134indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator134indi">The Communicator</a>"
+          </h1>
+          <pre>The 
+
+
+
+C^oifiiiiMiiicatoi* 
+
+
+
+Volume XIII Issue 4 
+
+
+
+IncSana UniversiEv-Purdue University at Ft. Wayne 
+
+
+
+Thursday. September 1 0. 1 981 
+
+
+
+Controversy fills meeting 
+
+Senators nix election 
+
+
+
+ByWAYNKBTEFFEN 
+
+MansRlnil E^dllor 
+
+'"7Til« mfFling bt^fln In contravmy 
+anil I* hcadlnK Umard lidlcuJois," uld 
+Elten EngJeman, IPFW ilutJenl body 
+vlcepresldenl, of U&gt;e Student Scnale'a 
+flnt fail meeting. Sept. 1 
+
+Englcman frequenlly rcllEd on hp- 
+gavel, once even Ihreatening to have 
+olhrr lenaton "lil on 11" In her efforti 
+lo control one of that body'i longer and 
+
+TtietKtfft'silwnelorconlcnitonwaia 
+reiolullivi iniroducod by Steve 
+Wnlrtck to prohibit o ipcclal election 
+10 till alu Senate leala atlll vacant aller 
+loil aprlng'i general elect I Dn. 
+Wctlrick'a resoluUon contended tlut 
+since pelUlonen hove been approved 
+b&gt; thi&lt; Svnali- to nil these vacancies, a 
+sptclnl election 1&gt; unneccuary. 
+
+Jcf( Sunily, Senate parllamcntorian, 
+inld the Sludimt Saiala conatllutlon 
+requires anoiheretccUan. 
+
+"Slntc I here were «o many vacancies 
+left in the Senate after the general 
+clecllnn, the Senate did not have a 
+quorum and could not conduct any 
+bunlnew— In eluding approving the 
+pelltioners," Sandy said. 
+
+The Issue wflshotly deboled with a lot 
+of diiflgrccnipnl centering around the 
+
+
+
+definition ol (he word "quorum" in 
+"Robert's Rules of Order " During Uie 
+debate, Don CuHey leveled a peraoral 
+attack against Sandy. 
+
+"Your Job perrormance ai 
+parllamcnlarian has not been good 
+Vou have hindered this organiialloo 
+and been derelict in your duties." 
+Guffcy said 
+
+Gurfey then handed out a petition Ui 
+recall Sandy from office. 
+Wlien \r&gt;la uere finally cost. 
+
+dissenting vole 
+
+Tuo new senators and two executli-e 
+ossislanU were also swotn in from »ix 
+petilioneni TTie new senators are 
+Barry Baumgartner and Don Moore, 
+and the executive assistants are Tim 
+Coolman and Paula Kramer. 
+
+
+
+But e 
+
+
+
+n this 01 
+
+
+
+
+
+
+marked by disruption. Before the vote, 
+Engleman called (or a closed session 
+debate during which personal 
+qualiricatiotis of each of (he peUllonen 
+were to be diiciascd. All guests were 
+asked to leave (he room during the 
+debate. 
+
+The reporter covering the meeting 
+for file Com muni color, citing the open- 
+door legislation and "the student body's 
+
+
+
+right to know," refused to leave with 
+Ihe other guests. 
+
+Volca were again raised In 
+argument over the Issue before 
+Engleman finally adjourned the 
+meeting. Most senators then carried on 
+(to debate In her office while olber 
+soialon simply went home. 
+
+Some ten minutes after the (l«t 
+meeting had ended, the second Student 
+Senate meeting began. A secret vole 
+was taken, and the new members of 
+Senate were wel craned Several 
+senators expressed hope thai thcec Ju&lt;t 
+swam in wouldn't take Ihlt particular 
+session as representative of all Student 
+Senate meeting. 
+
+Also on the agenda was discussion of 
+a bill to spend MOO on a computer for 
+the Sludenl Senate olFices. Bruce Clark, 
+who introduced the bill, asked for an 
+indefmile postponement so that more 
+Infortnatlon could be gathered. Sup- 
+porters of the bill state that Internal 
+office work In IheScnatcwouldbemore 
+quickly and efficiently done, and they 
+point especially lo ideas pertaining to 
+setting up a more effective sludenl 
+carpooi. Opponents, however, see 
+problems in securing the computer 
+against unauthorised use 
+
+
+
+
+
+
+
+Inequality persists for women 
+
+
+
+By TItOMAS DUBLIN 
+
+Editor'! Nete: This Is the third In a 
+leriei of article) exploring "Working: 
+Cliangei and Chokes." In this article, 
+historian ThomBi Dublin ol the 
+Unlvenlty of Calllomla, San Diego, 
+arguei thai women hmve made some 
+gains In the world of work, bat that 
+Inequality perilsls. This lerlet was 
+wrlllen for COURSES BY 
+
+NEWSPAPER, a program ol 
+Unlverally Eitenaloa. Unlvenlly ol 
+Cillfomli, San DIrgo. with funding 
+from the Nallonal Endowment for the 
+llumanlllei. 
+
+Copyright to Itll by llir Rcgesli of 
+IhcUnlvenltjofCDUIornli. 
+
+Even a casual glance at U.S. labor 
+gUllsllcB reveals Incredible choiigei 
+over the past ccnlury In both the 
+compostllan of the female labor force 
+and Ihc nalurc of the Jobs women 
+perform. 
+
+Equally Btrlhlng, the number of 
+women working has shot up so 
+drnmallcolly that one might argue thai 
+this quenlilaltve change has been so 
+great oa lo constltulc a qualltnlive 
+change In socio I roles. 
+
+Despite these changes, however, 
+work today for the vast majority ol 
+women serves lo confirm their 
+aubordlnnlion and dependence In a 
+world In which the predominant values 
+remain firmly masculine, 
+
+American women Tirsl began lo work 
+in large numbers outside of their own 
+homes In the second quarter of the 13th 
+centur&gt;', when the cotton Icrille mills 
+ollcrcdcosh wages to tens of IhoiEan* 
+of daughters of New England farmers. 
+By llie e\'e of the Civil War, sewingond 
+sbocmaking came to challenge the 
+lending role of Icxllle manufacturing as 
+occupations lor women. 
+
+Domestic Herviints, however, 
+probcibly outnumbered female factory 
+workers throughout the 19th ecntury. 
+although reliable early employment 
+stalisUes for women are rare. By IBSO 
+domestic service employed 1.2 mlUlan 
+women.and faclory work. 1.0 milllan. 
+
+All other major occupations tagged 
+far behind: in 1890 there were only 
+about 250,000 women teachers, 100,000 
+in retail sales, and a mere TS,00O ofHce 
+workers. Blue-collar work dearly 
+
+
+
+
+8,300 vie for 2.800 spaces 
+
+Two lots unused 
+
+
+
+dominated 
+
+as the 19th century drew loa close. 
+
+Who were these blue-collar working 
+women ol the turn of Ibe century? 
+Almost all were young, single im- 
+migrant women supporting them- 
+selves, or daughters ot immigrants 
+helping to support their families. Only 
+about one in eight working women was 
+married. Even among Immigrant 
+women, few expected lo continue 
+working after marriage. 
+
+A study of working mothers in New 
+York t^ty in 1910, for example, found 
+that the absence or illness of husbands 
+was the prime factor thai led these 
+women loseekpaidemplDymenl Black 
+married women were the main en- 
+ception to this pallern, for the 
+precarious economic position ol 
+foulhcm black families led a high 
+proportion of black women lo conlinue 
+in agricultural or domestic labor alter 
+marriage. 
+THEJDTH CENTURY 
+
+These pa ttemschangcddramatically 
+In the 20th century. Between IB90 and 
+I97B the number ot working women — 
+defined here as wage earners — In- 
+creased from about 
+
+
+
+proportion ol fi 
+
+
+
+kl Ihe s 
+
+
+
+cent of the overall lobor force, a figure 
+that Is steadily Inching upward. The 
+greatest share in this increase is the 
+result of married women entering paid 
+employment In 1390 less than 5 percent 
+of married women worked outside their 
+homes; by 197S this Figure stood at '14 
+percent. In 1990 married women 
+composed about 12 percent of working 
+■women; today they are Iully60 percent 
+Equally significant has been the shill 
+in the nalurc ol the occupations women 
+hold in the economy Almost two-thirds 
+
+occupations In 1900. with almost 29 
+percent in domestic work, and 2i 
+percent In factories. By iSfTB, less than 3 
+percent ot women were employed in 
+domestic service and only u percent 
+worked as factory operatives. 
+
+In contrast, clerical occupations have 
+come lo dominate the contemporary 
+female workforce, accounting tor more 
+than a third of all emploj-ed women 
+Service Jobs and professional oc- 
+cupations — especially leaching and 
+nursing — Jointly constltulc another 
+third With the transformation of the 
+American economy in the 20lh century. 
+the white-collar portion of the female 
+laborforcegrewfrom IB to 63 percent. 
+IContlnanlaaPageZI 
+
+
+
+By SANDRA WILEY 
+
+Editor-ln-chlet 
+
+The 9,300 people who bought IPFW 
+parking permits this tall to be eligible 
+lo use the 2.800 compus parking spaces 
+might agree with John R, Camaghl, 
+vice-chancellor for rmanclal affairs, 
+who said last week that IPFW is seemg 
+the very worst ol its parking problems 
+right now. 
+
+Carnaghi said he thinks the parking 
+space shortages are due in part to 
+sludents coming to the campus for 
+reasons other than for classes, such as 
+buying books or visiting counselore. 
+
+He also said that some ol the parking 
+- spaces are being Used by the workers 
+building the campus' two new 
+buildings TTiese workers will be 
+leaving the campus soon, Camaghl 
+said, with the completion of the 
+
+Regardless ot the reasons tor limlled 
+parking spaces available, Carnaghi 
+said, the Illegal parking by students In 
+non-authorized areas — such as on 
+campus roadways or In grassed areas 
+between paved lals— will not be 
+
+Vehicles parked Illegally will be 
+licketed. Camaghl said, because two 
+legal parking lots are not yet being fully 
+used by students. 
+
+
+
+ng filled, Car- 
+naghi said, are the lol north of the Walb 
+Memorial Union Building and the lot 
+west of the campus, across the St. 
+JoEe[* River from Keltler Hall. (See 
+accompanying map. I 
+
+Bolh litlle-used lots, he said, arc 
+about one-halt mile walks from Kottlcr 
+Hall. 
+
+"We're encouraging people lo park in 
+both these Iree lots," Carnaghi said As 
+an lncenUvetausinglheselots,hesaid. 
+the unlvec^lty is willing to refund the 
+cost of the parking permits to students 
+using the free lots. "Df course, we'll 
+have to process the refunds through the 
+university, but students will get the 
+refund." (^maghl said. 
+
+He also noted I' 
+
+
+
+
+
+
+r has r 
+id there 
+
+
+
+enUy r 
+
+
+
+ding lo that Id 
+
+
+
+
+nrcpaved 
+
+Maurice Shady, chief of IPFW's 
+
+police and safety, said the campus 
+
+police will begin regular patrols of the 
+
+cross-river lot if students begin to use 
+
+Currently. Shady said, his officers do 
+not patrol that lot because students 
+aren't using the lot For instance, he 
+said, "The only Iwo cars that have 
+parkM there this week have belonged 
+lo fishermen." 
+
+Shady also warned that workers at 
+
+
+
+Ihc Allen County Extension, which 
+borders the east sideof tho campus, are 
+upset about ve hi el is belonging to 
+students being parked on their lot. THey 
+have threatened. Shady said, to have 
+the v^lcles towed away 
+
+Shady said the large numbers ol 
+vehicles on the campus has alio 
+resulted in trairic Jarns during the pe«k 
+noon-timeand evening hours. 
+
+Although campus police olflcen 
+direct traffic during these peak hours at 
+the Inlenectlon of the campis' south 
+and west drives. Shady said the offleer* 
+can do little lo speed up the traffic 
+becaise the otticers have no control 
+over theslgnal light on Coliseum Blvd. 
+
+"I guess whai they really do is keep 
+peoples' tempers in check," Shady 
+
+To help alleviate the Irattic Jams on 
+the west side o( Ihe campus. Shady 
+suggested that those parking on the 
+east side of the campus exit an U.S. 37 
+(Crescent Ave i "I'msurethoy'dflndlt 
+faster than waiting in those long llnea 
+lat the west exit)," Shady said. 
+
+Carnaghi said no plans are being 
+made lo increase Ihe number or siieof 
+campus parking lots at this time- He 
+said a decline in enrollinenl is expected 
+in the fulure, and money put into soon- 
+to-t&gt;e un needed lots could be belter used 
+ir other things. 
+
+
+
+Bennett sets new goals 
+
+
+
+William Bcanelt. new head ol 
+IPFW'i compuUng aod data 
+processing department. &lt; Photo by 
+
+
+
+f^oviding technical support Ihal will 
+pul IPFW's computing and data 
+processing departmcnl in the forefront 
+ol industry is the long-range goal of 
+William Bennett, that department's 
+
+Bennett, who came lo the university 
+from ITT's Aerospace Division where 
+he was manager of Systems and Data 
+Processing, began his jobhere Aug. 3. 
+
+"Were struggling with Ihe demand 
+(to provide technical support lo in- 
+dustry),' Bennett said, "but we'll meet 
+it and try to figure out where It's going 
+— preferably staying aheadol it," 
+
+Bennett said be expects an even 
+greater demand for computer courses 
+In the fulure as 
+
+
+
+the production benefils ol computer*. 
+As this demand increases, Bennett 
+said, computer courses will probably 
+become more and more a part of the 
+required curricula of many fields of 
+
+Bennett, 36. received a Bachelor of 
+
+
+
+Sclen 
+
+
+
+\ degre. 
+
+
+
+from Indiana Stale University In 1972. 
+After graduating, he worked in data 
+processing departments at CBS and 
+MagnavoxbeforegoingtolTTwherehe 
+worked eight years. 
+
+The new department head, an 
+Indiana native, now lives In Decatur 
+with his wife. Vicky, and their soim, 
+Carl, 16, and Douglas. 13. 
+
+
+
+Disabled gain mobility 
+
+
+
+»v JACKIE W10RA 
+Stall Writer 
+
+Wheelchair-bound students and 
+students on crutches hove few 
+problems with mobility on the IPFW 
+campus, said Debbie Grimm, 
+counselor tor disabled students. 
+
+Until recently, this was not true. 
+
+Doors ihal opened In only one 
+direction and entrances blocked by 
+stairs wiire two of the major 
+barriers lo mobility at IPFW that 
+students in wheelchairs had to 
+overcomeas recently as 1?79. 
+
+Since Ihen, many of these oti- 
+stacles have been eliminated. 
+Grimm said. For instance, the doors 
+connecting the wings ol Kettler Hall 
+to Its mam hallways have been 
+removed, making the w1n^ more 
+accessible to the handicapped. Also, 
+automatic doors hav-c been Installed 
+In all the campus buildmgs so that 
+students In wheelchairs can avoid 
+the entrances wlOi steps. 
+
+According to Grimm, the Han- 
+dicapped Student Commlllee, made 
+up of students with tfiverse 
+disabllltiea, reviewed Itx plans for 
+Building D and the athletic buildiDg 
+
+
+
+terbuildlng mobility tor disabled 
+students, Gnmm said. Tills sum- 
+mer, grounds crews replaced many 
+of the sidewalks that were cracked 
+and uneven thai posed hazards to 
+blind students and students on 
+crutches, as wellas those confined to 
+wheelchairs. 
+
+The Walb ftlcmorial Union plaia 
+and the rampbelwecn Netf Hall and 
+the Helmke Libtiiry also were 
+
+In the past, handicapped students 
+had difticully getting around 
+campus in the uintertime because 
+
+
+
+she said, "and I have to make sure 1 
+don't forget which one It Is." 
+
+Grant Neuhaus, a Junior who uses 
+crutches, saidhetiKihBshadaneasy 
+time getting around campus "I 
+drive my car from building lo 
+
+
+
+ig," he said. Neuhaus said one 
+best features on campus is the 
+ora, "The elevators are really 
+he said. "It it wasn't for Ihem, 
+Id be a lot harder to get around 
+the buildings." 
+
+
+
+the si. 
+
+
+
+
+
+
+accessible .. 
+
+
+
+d bolh ti 
+
+
+
+iaited adequately Last &gt;-ear, they 
+uad no such problem,. Gnmm said. 
+"Snow removal was excellent," she 
+said, praising the physical planl 
+emploj-ees she said were quick to 
+respond to adverse weather con- 
+ditions. 
+
+So far this semester, disabled 
+students have had no problems with 
+mobility, Gnmm said. "Getting 
+around campus has been 95 percent 
+hassle-free," said Carmen Doiesa, a 
+freshman who is coolined to a 
+wheelchair She said the only 
+
+
+
+1 she h 
+
+
+
+: had L 
+
+
+
+automatic doors 
+Memorial UniOD. 
+"One of Ihe doors is out Of order," 
+
+
+
+
+Campus police report thefts 
+
+
+
+By SANDRA WILEY 
+
+
+
+:rEity police and safety, eL&lt; auto 
+nade to remove at least one other 
+/oatrangetBlhal tried to force her 
+
+
+
+According to Maurice Shady, chief of Unh 
+stereos were reported stolen, an attempt was 
+stereo, and a female student was grabbed by t 
+10 accompany them during the first weckof cla^ 
+
+"We want to heighten students' awareness that these things are happening" 
+Shady said. "If you see someone doing something auspicious, notify theuimpui 
+police," he said 
+
+The six thefts and Uie attempted theR. Shady said, occurred during daylight 
+hours. He said it's likely that someone may have seen the thefts oconring, 
+although none has come forth to offer any Information about them. 
+
+According In Shady, the owners of the stereos said their vehicles were locked at 
+
+The femalesludenl, who was accosted by two males, was leaving her vehicle Ina 
+lot east of Kettler Hall to attend a class at 9 a.m.. Shady said. One of the men 
+grabbed her arm and said. "You're coming with us," Shady said. The woman 
+broke loose from ihe grasp and ran, he said, and later contacted the unlvenlty 
+police. 
+
+All students should be leery of the approach ol strangers when entering or 
+leaving their vehicles, Shady said. 
+
+He also reminded students that the campus police will provide an escort service 
+to vehicles when requested to do so. 
+
+Philosophy class still open 
+
+Sludenl spa cesarestillav-atlableina philosophy class to be caUecast by IPFW. 
+
+Beginning the week ot Sept 7, the first of two weekly classes may be viewed on 
+Fort Wayne CaMeinianwl 23 on either Mondays or TUesdaysat 10 to ll;15a.in, or 
+2 to 3: 15 pm., or on Saturdays at 10 toll: ISa.m. 
+
+The second class may be viewed on Wednesdays or Thursdays from 10 toll;15 
+a.m. and 210 3;15 p.m., or on Sundays from 3 tol; IS p.m. Both weekly classes may 
+be viewed matizen's Cable Channel lOoD Saturdays from 4 to5:3Sp.m. 
+
+Toenroll in theclass, contact ibe IPFW admissions of Dee by Sept. 10. 
+
+
+
+PACEI -THE COMMUNICATOR-SEPTEMBER 10. IMl 
+
+
+
+OPIi^IOIV 
+
+
+
+The Communicator 
+
+
+
+Working 
+
+
+
+Student Senate 
+lacks legitimacy 
+
+
+
+On Scpl 2. Ihe IPFW Sludtnl Stnali 
+voted lUcIf inlo offiL-e over the cil&gt; 
+Jecllons of its parllamenlarian and in 
+viobljon of its conslilullon 
+
+While many mcmbcra of Ihe Senate 
+seem to believe (his is a trivial matter 
+and hardly worlh Iheir own or the 
+sludcnl body's concern, The Com- 
+munlcalor believes difrcrcnily. 
+
+If Ihis university is considered as a 
+community, then ihe Sludcnl Senate is 
+Ihe govcrnmen! of Ihis community, and 
+lis actions and decisions arc the com- 
+munity's body of law. 
+
+Within the body of law, the constitution 
+represents the ultimalc law. that against 
+which all other taws are measured. 
+
+ir the Senate circumvents Its con- 
+stilulion, then it is setting itself above 
+the law — a direct violation of all 
+democratic process. 
+
+The differences of opinions over the 
+necessity of a special election Is 
+shrugged off by many In the Senate os 
+"a disagreement in interpretation." and 
+therefore somehow mysterious and 
+unsolvablc. It is. as Ken Schenk, student 
+body president, put it. "a black hole." 
+Some things in Ihis debate, however. 
+are not a mailer of Inlcrprelalion. no 
+matter what some senators would like us 
+to believe. All committees, govern- 
+mental or social, must have a quorum to 
+conduct any business. This is so that the 
+majority's will may be done and the 
+minurity may be heard 
+
+Returning to Webster, a quorum is 
+defined as "the number (usually a 
+majority) of officers or members of a 
+body that when duly assembled is legally 
+campctcnl to transact business." Before 
+proceeding, the word "usually" in this 
+definition should be explained. 
+
+If a body at some point decides that a 
+number other than a majority may 
+conduct business, (hat body must enter 
+this number in the minutes of the 
+meeting with the full consent of its 
+parliamentarian. AFTER that time, this 
+other number may make decisions. 
+
+This was not the case last summer 
+when the petitioners were approved. 
+Only now that questions have been 
+raised does the Senate look back and 
+say. In effect, "Oh, well. We'll call that 
+other group a quorum." 
+
+Many scnolore say they feel a special 
+election would be too inconvenient, lake 
+loo much lime, and possibly break up 
+what they perceive to be a very good 
+Senole, 
+
+The luxury of convenience does not 
+override the responsibility of due 
+process of law. Anv senator who doesn't 
+have a desire equal to his or her 
+
+SG distributes activity cards 
+
+Activity cards (or studtnls enrolled (or nine or more credit 
+hours wUi be distribulcd m Room 225 in the students' 
+govenuncnt offices, of the Wolb Memorial Union from lo 
+a.m. lojp.m. on'niuisdny,Sepl. 10, nnd Friday. Sept. II. 
+
+Studcnis must bring Ihelr pink lecslDlcmentsstiowing thai 
+the acliilly toe tias been paid. ACH cards may be used tor 
+idenlinealinn al all. lOl honored fU'iili _, 
+
+
+
+i o( blue-coUai 
+ploymeDt. 
+Finl. the appljcatii 
+
+
+
+responsibility, who feels that "we should 
+bend the constitution just this once." 
+should not be in the Senate. 
+
+If this Senate is as good as so many 
+believe, then why not let the student 
+body decide? TTiose who petitioned largely responsible i 
+should run for office. Elections at IPFVJ current movement of 
+being what they are, the Student Senate ["^^ .** »'','";^ ""^ well-paid 
+wouldn't lose 3 single candidate As or 
+petitioner said, "I've got mor 
+signatures on my petition than som 
+elected senators received voles." provisions of Ibe 19W Civil 
+
+Bul (he law is Ihe law. Ihe constitution Rjghis 
+IS the constitution, and the election last sex discrimination 
+spring didn't elect a quorum by any 
+legitimate definition of the word. 
+
+There are Iwo groups who are direct 
+victims of the illegal acts of the Student 
+Senate. The first are the petilioners who 
+worked very hard to join the Senate 
+what they were told 
+manner. II is they who must go through 
+the election process, because the other for' 
+
+
+
+
+lemu. tbe 
+Qumben 
+
+than 2 percent of the female 
+vorkforce — but in- 
+CTcasiogly women are found 
+in the txillifing trades or are 
+workiog ti plumbers, 
+electncians, er in repair 
+services once exclusively 
+
+
+
+pressures ( 
+■mployers 
+The result has been 
+eries of affirma 
+jises and settlements that 
+orooer ''^"^ required major cor- 
+hrnlmh '"'■°'^ and 
+
+lo pay damages 
+discriminatory 
+
+
+
+strength 
+collar occupaUon^ 
+helped prcd i 
+leadership lo deal 
+changing patlernst 
+I decades. 
+In Uii 
+
+
+
+illhough not a quorum, were practices and lo develop 
+
+elected legitimately plans for Integraling women 
+
+The second group is the student body mlo areas where they are 
+
+victims because they were not given the underrepresenled in the 
+
+chance to exercise their rights, whether workforce. Although the 
+
+or not they would choose lo do so •'""^'^^ Department has 
+
+The Communlcalor calls on the Benerally reached com- 
+
+president of the student body. Ken P"""^ set lements before 
+
+Schenk, to veto Steve Westrick's Sl^^of fciionhas Ie^7 
+
+resolution and to begin the special improvements m women's 
+
+election process as soon as possible employment opporlumi I es in 
+
+Failing that, John lllmer. dean of skillodhlue^ollarJotB. 
+Student services, should call a special The second factor in the 
+
+election. gains of women in skilled 
+
+Like all Student Senates before it, this trades has been the Increase 
+
+Senate claims to be interested in the '" women's participation in 
+
+good of Ihe student body, organlied labor, both as 
+
+Like all Student Senates before it. Ihis '"='^'«" and os olficas of 
+
+senate wants lo be taken seriously by ZZ^-L^t u^^^. 
+
+,L , , ■...&gt;. unions. These gams nave 
+
+Ihose of us who provide lU funds. beenreflecledarS^promoled 
+
+Howarewetobeheveony of Ihisif this by the growth of the 
+
+Scnale chooses lo ignore the constitution CoaljUon of Uibor Union 
+
+that it wrote and refuses to present the Women (CLU.Wi. which 
+
+students with the chance lo elect ALL of has been an advocate far 
+
+its representatives. women's issues wiihin the 
+
+It doesn't msller how many people AFL-CIO and has con^ 
+
+vole in an election so much as it matters b-ibuied to a new awareness 
+
+that Ihey are given the opportunity to « w'"ji*ns"ghlSDntheparl 
+
+express themselves. officiob'" 
+
+
+
+numt&gt;er^ of working w 
+In the structure of u-omen s 
+employmenl. and in the 
+numbers of women in 
+traditionally male oc- 
+cupations, what is most 
+striking is Ihe persiswncc of 
+patterns of inequality that 
+have their roots in [he early 
+19th century. The fact 
+remains that women today 
+
+Giclusive responsibility (or 
+homemakingand the rearing 
+ofchildren 
+
+In ihls conlejil, the in- 
+creasing proportion of 
+working mothers means a 
+double burden of work at 
+home and on the Job These 
+dual responsi bill tits often 
+lead lo complicalions — such 
+as child bearing and rearing 
+- that conflict with women's 
+(ull parllcipalion in the 
+world of work and hence 
+
+
+
+in COURSES 
+
+NEWSPAPER are those of 
+Ihc authors only and do nol 
+necessarily reflect those ol 
+the University of California, 
+the National Endown 
+the Humanities, or Ibe 
+particlpaling newspapers 
+
+
+
+
+
+
+"Itar 
+
+
+
+rotcsi 
+
+
+
+liilnglh 
+
+
+
+ABOUTTHEAUTHOR 
+TI10MA5 DUBLIN 
+
+THOMAS DUBLIN 
+Associate Professor 
+
+
+
+F 
+
+
+i 
+
+
+
+
+» ^i? 
+
+
+°siir 
+
+
+Dancing Daily 
+
+
+*PO0L 
+
+
+
+
+
+
+♦ SANDWICHES 
+
+
+
+
+"^■mTaS" 
+
+
+* TRY OUR CAFWY-OLIT 
+
+
+
+
+™. f-club 
+
+
+* PIZZA ""..JlT^a: 
+
+
+"«; 
+
+
+
+
+
+in members and 
+
+
+
+wage labor. 
+
+Real equality for working 
+women will be achieved only 
+as the broader domestic 
+sulMrdlnallon and depen* 
+
+
+
+The Cominunicator 
+
+
+
+
+THE PINK PANTHER STRIKES AGAIN 
+
+
+
+
+SUBOG FILM SERIES SEPT. 
+7:00 and 10:00 p.m. 
+
+STUDENT UNION BALLROOM 
+
+FREE To Aclivlly Card HDlders 
+
+Others '1.50 
+
+
+
+aU1i]-{-I-M36. 
+
+
+
+STUDENT UNION BOARD OF GOVERNORS 
+
+
+
+
+OveriAfhelmed 
+by High Prices? 
+
+
+
+SHOPGLENWAY 
+
+BARGAIN CENTER 
+
+JEANS • M/ESTEBN SHIBTS 
+
+•BIB OVERALLS • SWEATERS 
+
+•BLOUSES • 
+
+DRESS SLACKS • PAINTER 
+
+PANTS • TOPS OF 
+
+ALL KINDS 
+
+
+
+ALL FAMOUS BRAND NAME 
+JEANS AT DISCOUNT PRICES 
+
+Save 15% 
+
+with your student 
+discount card 
+
+Gienway 
+
+Bargain Center 
+
+3820 Coldwater Boad 
+
+Across friDm Gtentrool. Pemey's 
+
+Mon-Fn 10-9 Sat 10-6 Sun 12-5 
+
+
+
+campus— 
+calendar 
+
+
+
+FRIDAY 1 1 
+
+Concert by "Sircus," Walb Plaza 8 p.m., free 
+
+
+
+SATURDAY 1 2 
+
+SUBOG movie "The Pink Panther Strikes Again." 
+
+ballroom, 7 &amp; 10 p.m. 
+Men's soccer, Bluffcon College at IPFW, 10 a.m. 
+Tae Kwon Do meeting. Walb. 2nd floor. 1 p.m. 
+Women's tennis. Huntington College at IPFW. 
+
+2:30 p.m. 
+
+
+
+SUNDAY 13 
+
+Women's tennis, IPFW at St. Mary's College, 1 p.n 
+
+
+
+Id tb* Office olUoli 
+
+
+
+fVlONDAY 14 
+
+Women's Studies "What Do Feminists Want?" Walb 
+224. noon 
+
+
+
+TUESDAY 15 
+
+Men's soccer. IPFW at Indiana Central, 3 p.m. 
+Coed cross country. IPFW at Manchester College. 
+4 p.m. 
+
+
+
+WEDNESDAY 16 
+
+Dental lab tech department guest lecturer. Dr. 
+
+Varoujan Chalian, lU Scfiool of Dentistry. Walb 
+
+224, 10 a.m. 
+
+
+
+iliv-Pnidue Unl&gt;nal(v *I Fail Wiyni [or Ih* u 
+3 be Included In Cunpn* Cdeodu miul b« lu 
+itnl.Kettla 102 by 5 p.m. on ibr rtiuiidiv pi 
+
+
+
+the arts 
+
+
+
+SEPTEMBER ID. 1981 - THE COMML'NICATOR - PAGE S 
+
+
+
+
+Suzuki method ea!&lt;eB lean 
+
+
+
+Kids imitate sounds 
+
+
+
+a mataeycle THej are, 
+houcvtr, lessons urbere a 
+child leams lo play an in- 
+Onimcnl such as IlirF piano, 
+celio or violin betorc leam- 
+
+me Suiukl method. 
+developed by Japanese 
+
+miEician Shinichi SuzuU, 
+leaches a diild lo leam 
+music u a language a 
+[earaed- Suiuki referred lo 
+ihe melhod o( "The Molher 
+Tongue Approach" In Ihe 
+^me way a child imitates 
+and memoriu3 the sounds of 
+3 langyage and laler assigns 
+
+sounds, so docs Ihe Suzulti 
+
+
+
+sounds and laier the 
+
+symbol, or no(e- 
+
+Ttae Suzulil Talent 
+Education Program oFfered 
+at [PFW was organized in 
+IWO at the suggestion of 
+Joj-anne Jones, instructor in 
+music Dave Tovey came 10 
+IPFW. and uith a&gt; stiilents. 
+established the Suiiild 
+jTOgram on campus Ttie 
+number of sludenU has now 
+groH-n lo 50 with ages 
+ranging from t wo-and -one- 
+half (o lourleen years old. 
+
+Tlie program cDfUists of 15 
+weelily. ' " ' 
+
+
+
+B-faich 13 called tbeSicilienDe 
+RigldooD- Tbe icvd names 
+come frmn tbe name of the 
+piece o( music being leajD- 
+ed. Tbe student is given a 
+special Suiuki tuHoo that 
+
+
+
+-n,r 
+
+
+
+major dlffensce 
+the 
+
+
+
+les 
+
+
+
+plus 
+
+
+
+Modern films kill comedy, wit 
+
+
+
+regularly whedulwt group 
+sessions thai help reinforce 
+what the child teams 
+privately There is also a 
+theory class that is oIFered 
+
+
+
+ByHIKEtiEI'TEN 
+
+Aril Writer 
+here Is Cnry Cranl now 
+- Where. 
+
+
+
+[ mailer 
+
+
+
+c nlm- 
+
+
+
+ihai 
+
+for I 
+
+makers like Howard Hawks 
+and ErnsI IjiSMsch' These 
+people were pmrlili oners o( 
+seemingly dying art In 
+ipSophifllicaledco/ncdy. 
+
+
+
+Their film 
+40b h. 
+
+
+
+. style a 
+
+
+
+il lhe3&lt; 
+
+
+
+It that 
+
+
+
+vanished I 
+movie screen. The humor in 
+iJiclr nims came Irom truly 
+wilty dlalc^uc. delivered by 
+oclors who had an elegant 
+sense ol liming and who 
+knew how to play alf each 
+other The humor came out 
+of the characters; not oul ol 
+Juvenile situations, like the 
+comedies today, To sec an 
+e^iomple of their classic 
+comedy, one need only to 
+sUiy up and watch the lole 
+showforlilma like "Bringing 
+Up Baby," "His Girl 
+Friday," "Trouble In 
+Paradise," "Boll Of Fire," 
+nnd "Twentieth Cenlury." 
+
+
+
+past four years 
+
+
+
+"Animal House," released 
+In ISTB, was [unny In spots, 
+but II lacked a good script 
+and had no cohesion. II was 
+simply a series of sketches 
+about college life strung 
+together, with no depth or 
+chiracleriiatlon at all. No 
+movie mogul expected much 
+from the film. They were 
+wrong. It had the right 
+demographics, hit the right 
+market, and went on to 
+become the largest grossing 
+comedy In nlm history, 
+mahlngoverJM million. 
+
+Unlortunalcly. il started a 
+
+Film in the "Animal 
+House" school, like "Cad- 
+dyshack." "The Hollywood 
+Knights," "Meatballs" and 
+"Slripcs," appeared in rapid 
+succession, and most of 
+llicsc films had the same 
+Faults. 
+
+Tlie common denominator 
+is their silcom tone and the 
+level oF acling There is no 
+oF fun Id these Films 
+
+
+
+ditloncd by telniston lo 
+think these bad sitcoms arc 
+Funny People laugh at things 
+not because they think they 
+are Funny, but because they 
+think they are supposed (o 
+laugh 
+
+This TV. mentfllily has 
+slipped over Into the way 
+people view films. Why else 
+would people , chortle with 
+laughter at the caveman 
+scenes In "History oF the 
+World. Pari I," or double 
+
+"Caddyshack" where Bill 
+Murray meets Cheiy Chase 
+inhisaparlment? 
+
+Humor is 5ub&gt;cclive, and 
+what may be sophisticated 
+and Funny to one person, 
+may not be to someone else 
+If nims like "Coddyshack" 
+and "Cannonball Run" are 
+sophisticated and Funny, 
+then wit is In an oxygen tank 
+somewhere dying. 
+
+The upshot is this. We have 
+a whole generation who 
+
+
+
+down in his dclighlFully mad 
+performance In "Bringing 
+Up Baby," or seeing the 
+Tracy Hepburn chemistry in 
+"Adams Bib" or "Pal and 
+Mike." Except tor Woody 
+Allen, there Is no filmmaker 
+today who IS making 
+comedies with wil and style 
+to match these films. 
+
+However, Iherc Is hope. 
+The only comedy released 
+Ihis summer Uiat even ap- 
+proaches the wil of the films 
+of the 30i and 40s. "Arthur," 
+has madeover 127 million. 50 
+
+
+
+Another sign of en- 
+couragement 15 the release 
+of Billy Wilder's new film 
+this Oirislmas, "Buddy. 
+Buddy." Wilder wrote and 
+directed such classics ol 
+sophistitaled comedy as 
+"NinolchkB." "The Apart- 
+menl," "Irma lo Duce," 
+and "Some Like It Hot." 
+
+sophisllcaled comedy is 
+down, bul not out. I only hope 
+that it continues I 
+
+
+
+levels Ihe 
+through 
+From the first. reFerrcd lo as 
+pre-twinklc. to level ten. 
+
+
+
+teaching 
+
+Suzuki apfroach is tbe 
+conslanl participation 
+required oF the parenL 
+
+"When a parent comes lo 
+me saying I wont my child to 
+leam. I say fine. You leam to 
+play first." said Tovey. 
+"Parents are everything," 
+hepcrinledout. 
+
+The parent must know how 
+to work with tbe child. They 
+accompany the chdd to 
+lessons and play a recor(!hng 
+oF the music the child is 
+learning 20 limes daily wlien 
+the child IS doing things 
+
+notation. other than practicing the 
+more ad- instrument This "en- 
+
+andlng ot iironmenlal lislening" has 
+liie child memorizing how 
+the song should sound which 
+Is then imitated when the 
+student plays (he in- 
+strumenl. 
+
+
+
+arts 
+at a 
+^ ^ glaucc 
+
+
+
+On the silver screen 
+
+
+
+The SUBOG Film {ot (his seek wiU be The Pink Panlber 
+Strikes Again." which will t&gt;e shown al T and 10 
+Saturday . in the Walb Memonll Union Ballroom 
+
+
+
+Dance classes to begin 
+
+The Fort Wayne Donee Collecllve will begin Fall cLusi 
+Sept. 14. oFfering insiructlon in modem dance, jazi. bollcl. 
+tap. aerobics. &gt;'Oga, and dance exercise Special children 
+classes will also t&gt;e offered. Registrallon will be From lOa n 
+tolp.in..Sep(. II.atl126BroadwBy. - 
+
+
+
+Current art exliibits 
+
+
+
+The Fort Wayne Mineimi of Arl will hold a reception For 
+Selections From the SarnBobyFoundntionCoUectton" from 
+toSp.m.Sepl.ll. 
+
+The cxhibil "Thrt* Women Artlslfi" cl.i&gt;i».lhls Friday al 
+the IPFW Deparlmenl of Fine ArLs. llGfi VV Uern' St 
+
+
+
+Music cycles with time 
+
+
+
+"1 it 
+
+become less ol a tranqullizi 
+For the masses and become 
+more of a message carrier 
+like it was In theeos," James 
+Oejtri, keyboard man ol the 
+rock group Blondie predicls. 
+Blondle drummer Clement 
+Burke compares It "lo a 
+record playing over and 
+~ cydicaland 
+
+
+
+Desth explains Ihit return 
+to the 'Ms as part oF a never- 
+ending cycle. He describes 
+this unique evolulion that he 
+believes will take place in 
+fllDyea 
+
+
+
+
+Ihe ■ 
+
+again and again " 
+
+Dcsb-i and Burke 
+plained the cycles in 
+
+
+
+by Jos Schllli 
+
+"The 'BOs are Iho *60s all 
+again. We have e 
+
+
+
+hngarllsi 
+
+
+
+"The 
+
+
+
+mis new wave genre are 
+going to start making music 
+that 13 and 14 year old kids 
+will live to. Mioic will 
+become a philosophy agam 
+as 11 did In the 'GOs." 
+
+"The thing that's hap- 
+pening to music now is the 
+black InFluence," says 
+Burke, who also lees a 
+repetition In the sound, lo 
+fact. Deslri and Burke say 
+that Blond le's roots are 
+black. 
+
+
+
+^Ulikpaf these 
+
+Big Discounts! 
+Save up to $3.00! 
+
+Records 
+
+
+
+Top artists! 
+Major labels! 
+
+Classics included! 
+Many, many selections in this special purchase. 
+
+Follett's Fort Wayne Bookstore 
+
+Ground Floor Kettler Hall 
+483-6100 
+
+STARTS SEPT. 9, 1981 
+
+DON'T MISS THIS SALE!! 
+Come early for best selection! 
+
+
+
+d 
+
+
+
+FILM GUIDE 
+
+
+
+i) 
+
+
+
+
+wMI^ ' * ' *-" ^^i^^^^*- 
+
+
+
+
+'amanw 
+wanted to meet girls. 
+
+
+
+STRIPES ^ 
+
+
+
+
+PAGE* -THE COMMUmCATOR -SEFTEMBER 10. 19 
+
+!Sp01*t»_ 
+
+
+
+WECANTAKIYOU 
+Sn.000 CLOSER 
+TO YOUR DECREE. 
+
+
+
+
+Women's match rescheduled 
+
+
+
+Ky S\KE FRANKE 
+Ben Becker, IPFW 
+women's lennls coach. ha» 
+unique probJcm on his hands. 
+Is he going to have enough 
+pinyere lo ficJd a squad? He 
+nt'od.1 Dt toast six players, 
+and he hiis only seven oul for 
+Ihe team. Ihe [rouble Is 
+galling J 
+
+
+
+le pU 
+
+
+
+p. Job 
+
+
+
+made planning a schedule 
+and keeping II atmogt Ini' 
+possible, 
+
+"Ifallsevcnshan' up, we'll 
+be a winner." Becker said 
+Becker feels he has the 
+taknl lo do well Thai may 
+have been true last Saturday 
+when Ihe Icam was 
+scheduled to play Saint 
+Joseph's College, Unfor- 
+lunalely, IPFW didn't show 
+up. Only two ol the women 
+had turivid In their 
+physicals. Regular season 
+play canoQl occur until a 
+player has her phi's leal 
+completed. 
+
+ItKldenls lllie this made 
+
+
+
+coach Becker fee! It's jusl 
+loo early to gel organined for 
+Ihe regular season. He said 
+that there wns a good chance 
+Uiat Saint Joseph's would 
+have had a problem com- 
+pleUnga team thissoonalso. 
+According to Becker, 
+problems of this nature have 
+been frequent. 
+
+Coach Becker feels that 
+being Involved In sports Is a 
+very Important aspect of 
+college. He said, "tt'9 a good 
+chance (or a person lo round 
+oul an education, an op- 
+portunity to meet others," 
+He SFCS (00 many students 
+going through college not 
+knowing anyone, and gelling 
+Involved in sports is a good 
+way lo combat thai problem. 
+
+Some of Ihe women work 
+and can'l attend practices. 
+Coach Becker understands 
+that problem. "I'll practice 
+even If only one person 
+shows up,"he said. 
+
+Coach Becker is hoping 
+thai more women wilt try oul 
+
+
+
+tennis interesl. come oul nnd 
+see 10," said Becker. 
+
+This year's team has Iwo 
+e&amp;caplains, DcDc Hipeloe 
+and Norma Knoop Other 
+team members arc, Helen 
+Wapps. Lois Schmidt. Deb 
+Turner. Roiannc Wearly 
+and Natalie Ellis. Coach 
+Becker had another possible 
+candidate for the team 
+tr&gt;ingoiilthi.sneek 
+
+The team's first match 
+will be on Saturday against 
+Huntington College on the 
+IPFW courts. The Saint 
+Joseph's match will be made 
+uplatcrlnlhcjear 
+
+The team practices dally. 
+Practices arc Monday thru 
+
+
+
+Wet 
+
+
+
+
+
+
+Thursdays 
+Fridays at 
+Any prtepccllve 
+should show up al 
+
+
+
+
+
+
+Cross country team optimistic 
+
+
+
+HyJIMCHAPMAN 
+
+TMo years ago, cross 
+countfj' was a sport at IP- 
+FW. But lor reasons 
+unknouTi U&gt; many, the sport 
+was erased from the Tusker 
+schedule of (all sports. Mow, 
+coed cross country Is back 
+for 1981 
+
+Since IPFW is rebuilding 
+1« crnss counlry program, 
+one would expect the coach 
+of thai sport here to predict a 
+
+John Endsley, the' IPFW 
+coed cross country coach. 
+
+During an interview East 
+Friday iSept. 4), Endsley 
+dlspla^-ed a surprisingly 
+opUinlsIlc outlook on Ihe 
+upcoming season. 
+
+"'We have a tremendous 
+oullook We have runners 
+who wilt surprise a lol of 
+people this year. They're 
+experienced, and they're 
+working hard." 
+
+According lo Endsley. the 
+strength of Ihe team comes 
+not only from their talent, 
+but from their togetherness. 
+
+
+
+mllmcnt to help gel Ihis 
+
+program oft lo a gooJstart," 
+
+Each routine thai the 
+
+
+
+will put In his or her input 
+con cemlng wa rm -u ps . 
+
+The IPFW cross country 
+team's weakness Is that the 
+program itself Is new and 
+inexperienced. 
+
+"Moat cross country teams 
+start practicing in July. We 
+had a late start, but Dave 
+Skelton (alhlellc direclorl 
+has been super In helping us 
+set up our program," 
+Endsley said. 
+
+in slore lor the running 
+TUskers, but a prediction on 
+the upcoming schedule now 
+
+
+
+of the program, I don't know 
+
+
+
+abe ginning progr.im." 
+
+Since cros.'^ country at 
+IPFW Is coed, both the 
+women and the men will run 
+five miles al the scheduled 
+NCAA DMsion HI meets. 
+
+Some ol the experienced 
+runners whom Endsley 
+dude Ron 
+Brad Stevens, 
+
+
+
+and Huntington 
+
+
+
+Intramurals start soon 
+
+
+
+Amie Ball, sports mformatlon director, has onnouoccd 
+Ihat Intramural sports activities will once again be a part of 
+IPFW estra-curriculore^-enls. The days and times In which 
+the sludeniE can participate In the Intramural events will be 
+listed oulside o( the athletic office, located on the third floor 
+odbeWolb Memorial Union. 
+
+Ball also announced that the HrsI semester schedule for the 
+athletic events has been planned. 
+
+Entry dales to sign up u&gt; participate In men's and women's 
+tennis, touch foolball. and coed volleyball will open on Sept, 
+N, IS and 21 respectively. Men's and women's table tennis 
+will also open for entry tor participation on Sept. 21. TTie 
+entry dates lo participate in tennis, touch football, table 
+tennis and coed volleyball dcse on Sept. 23, 30, Oct. 2 and 9 
+respect 1 It ly 
+
+The cnliy date lo parbcipatc in men's and women's 
+billiards will be Nov 6, and the enlry date to partidpale in 
+
+
+
+New 
+soccer 
+field 
+
+
+
+on soccer-baseball 
+field which will be located I 
+the IPFW lenniscourls, 
+Dave Skelton, olhletie 
+ireclor, said the playing 
+■|eld will be non- university 
+undcd. and nill be built with 
+i'olunleerhelponly. 
+Skelton also announced 
+hat the field could pouibly 
+id&gt;' for competition by 
+llof 19S2forthei 
+
+
+
+I THE FORT GROUND FLOOR WALB MEM. UNION | 
+
+25' OFF 
+
+AT THE TACO BAR 
+IN THE FORT 
+
+jON WEDNESDAY, SEPTEMBER 16, 1981 ONLY | 
+
+Present this coupon to castiier 
+Limit - one coupon per customer 
+
+
+
+COUPON COUPON COUPON COUPON 
+
+
+
+Tuskers rout 
+Purdue-C alumet 
+
+Bj MIKE ROEGER 
+Sun wnier 
+
+SlrdieTT MladcD Kralj and Art Slefoski each scared a pau" 
+o( goals to spearhead an impressive IPFW opeong-day 
+loceCT victory over Purdue-Calumet. Saturday, frO 
+
+The win. 00 a gr^y afternooo. got the Tuskers started off 00 
+the right foot in purruilof the NAIA playoll berth 
+
+Kralj opened the sconng when he rebounded a Mark 
+Gabrel ihol al the X minute mark of the match Thuly 
+sfconds later, Kralj took a centering pais from right winger 
+Jim Sharpe and headed the ball high into the net to give the 
+Tuskers a comtnandingZ-Ohaiftimelead. 
+
+A freshman. Kralj 13 eipected'to develop into a great 
+player, said head coach Ed Stcfanklewict "He'll be our 
+leading scorer." the coach said of Krai]. "He's kuid of laid 
+back, buthelays the ball onto the other players super " 
+
+The Iwo second-half goals by Slefoski and Ihe shut-out 
+pvrlarraance by goallender Mark Blessing were oi-er- 
+jliado*ed by Ihc referees red-car&lt;fing (our Purdue playere 
+over a three mlnule period. The red-card parade started 
+when Pete LaMaster upped the Ticker lead to Ihrw. five 
+minutes inlo the second half. Thereterees handed liroyellow 
+cards to two Laker players who had complained thai 
+LaMasler was ollsides when he scored. TTiese two yellow 
+cards ujBet the Lakers to the poml they started grabhmg 
+TiEker players and carrying them off ihe ball, .Misko 
+Tnlunoiic was the first lo he disqualiried Seconds later, 
+Carlos Rojus followed his teammale to the showers, as he 
+was followed by Branko Waric, who was followed by Leo 
+Nasclmcnio, 
+
+Stefankiewicz cleared his bench with little more than thirty 
+mlnules lefl in the game. The Lakera, olready ploying w-'.!. 
+only six players plus their goalie, put Brian Gaskey, a one- 
+legged player, into Ihe nets. 
+
+The Tuskers Ihen seemed to get over-aniious, as they 
+were continually called for being offsides as they tried to 
+penetrate a seemingly revitalized Laker defense However, 
+when the Tuskers did manage lo get around the sticky 
+defense, Gaskey came up wilh some brilliant saves on point- 
+blank shots. Thai was unlil Slefoski found the range al the28 
+minute mark of Ihe half. Slefoski look a pass from Curt 
+Mirwaldl as he brokeinon Gaskey loscore. 
+
+For Ihe nest 15 minutes, the Tujkers were imaWe to solve 
+the L^ker riddle until Mirwaldl added goal of his own wilh 
+Iwp mlnules to go in the game Then, before anyone reallied 
+what had happened, Slefoski added his second goal with a 
+mlnule, ten left in the match. The Lakers threw in the lowel 
+wilh ISseconds left, aslhe players left the field, 
+
+Afler Ihe game. Stefankiewicz said he knew the Lakers 
+were an undisciplined bunch, and thai he knew they would 
+slarl arguing amongst themselves, "Our game plan was to 
+score first." Stefankiewicz evplalned "We wanted to lake 
+the game lo Ihem." About the scries of red-eards, 
+Sicfankicwici said. "It was ridiculous. I didn't think It would 
+gellhalbad," 
+
+Though Blessing gels credit for a shuloul, he had plenty of 
+help from a defense anchored by sweeper James Hen- 
+mueller "That was his first game al sweeper," the coach 
+slated. "He played a super game. He went oul Ihereand took 
+
+The TUskers won't rest on the laurals of this opening day 
+win. for they still have 15 more games between now and a 
+possible playoff berth. 
+
+New people hired 
+
+
+
+Basketball practice to start 
+
+
+
+The positions of HPER 
+Building facility manager 
+and adminislration coor- 
+dinator for the athletic 
+department have been filled, 
+according lo Dave Skelton. 
+athletic director. 
+
+Ken Workman. IPFW 
+basketball coach, will be the 
+locilily manager for Uie new 
+HPER building, Skelton 
+said. His duties include 
+direcling the athletic center 
+(unctions of scheduling and 
+
+security and control of the 
+building, setting up ei|mp- 
+menl and supervising the 
+personnel related to issue of 
+equipment and building 
+uliliiaiion. 
+
+Barb McDonald, who is 
+also the new women's 
+basketball coach and a 
+native of Miami, Florida, 
+has taken ihe position of 
+admlnislralioncoordinator. 
+
+Her duties include coor- 
+dinating the administrative 
+functions of intercollegiate 
+athletics related lo 
+eligibility, schedules, of- 
+ficials and team business 
+
+
+
+Her duties nlso include 
+supervising coaching and 
+home event staffs and 
+direcling deparlmenlal 
+auxiliary endeavors. 
+
+
+
+Ft. Wayno Blood 
+Plasma Donor C«nte 
+
+Houns 
+
+
+
+(CASH PAIDS 
+For Blood Plasmj 
+
+
+
+SUBOG 
+
+PRESENTS 
+
+SIRCUS 
+
+-IN CONCERT- 
+SEPT. 11 
+
+8:00 P.M. 
+
+STUDENT UNION OUTOOOR 
+
+AMPHI THEATER 
+
+IN CASE OF RAIN: STUDENT UNION BALLROOM 
+
+Activity Caril Holilers FREE 
+Non-Activily Cartt Holilers FREE 
+
+
+
+^.^Uiu^i-ic^afc 
+
+
+
+N ■oatp Of oovunoh 
+
+
+
+baskElball coaching s 
+will bold la or^iniutii: 
+
+bukelbdil candidates &gt; 
+pm. Thursda). Sept I 
+--- o&lt; It* ' 
+
+
+
+a I trad. .AnytBe inlertsied. 
+tut not previously con&gt; 
+lacted, is welcome 10 attoid 
+
+
+
+Valb 
+
+
+
+Memdnal Cmi 
+
+Discussion wOl include Ihe 
+required prr-scason con- 
+(Etlor prc^m, physical 
+exams, practice plans, the 
+sdiedule, and expectations 
+of the coaching iUII tor 
+program involvcmenl 
+
+All [reviously contacted 
+candidates are eipectwi to 
+
+
+
+Writers tcanted 
+
+
+
+"Tiling for TDe Com- 
+municator should contact a 
+staff member in Room us ol 
+Ihe Walb Memorial llnion 
+
+
+
+SCHOOL GOT YOU DOWN'' 
+GET YOUR FUTURE 
+OFF THE GROUND. 
+
+LEARN TO FLY 
+
+Lowest Rates In 
+
+Fort Wayne 
+
+Call 482-1691 Evenings 
+
+
+
+(219) 426-7491 
+(219) 745-4949 
+
+
+
+
+?ArAplicrtiAliA T^Ucc 
+
+
+
+1014 Coliseum Slid. East Ft. Wiyne, In. 4(805 
+
+
+
+WORLD FAMOUS 
+
+
+
+
+
+
+936 0iU4Mm fW, TtMi^ 
+
+K-mart Plaza East 
+
+MILE NORTH OF INTERNATIONAL HARVESTER -NE-^T TO MOTEL 6 
+^ZZ-T\2^ 11 DDa,mU.r„3 00a,Bm 
+
+
+
+
+For Subscription Information See 
+
+Campus Bulletin BoariJs or Contact Your Campus 
+
+Representative Kevin Keating at 445-8013 
+
+
+
+</pre>        </div>
+      </div>
+    

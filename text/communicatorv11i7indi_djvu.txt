@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv11i7indi/communicatorv11i7indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv11i7indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv11i7indi">The Communicator</a>"
+          </h1>
+          <pre>Communicator 
+
+
+
+The 
+
+
+
+Volume XI Issue 7 Indiano University-Purdue University at Ft. Wayne October 4, 1979 
+
+
+
+First day on job 
+warms minister 
+
+
+
+
+A program vendor at the MUSE anti-nuclear concept 
+in New York City September 23 made her views on 
+nuclear power very clear. See related photos, page 
+five. (Photo by Ed Snyder) 
+
+
+
+Mayor Bob won't promise moon 
+
+
+
+
+During the question ; 
+
+
+
+Humanities program lagging 
+
+
+
+Sm | Ce 'nd le«ersTu*r1culu^ committee council agenda wilhin a itmi'i ..t tl.. j..lrt.-r| jn.l action on the proposal! 
+
+
+
+changes to update the proposal v 
+
+
+
+f, professor of English, is "l'hi.-&gt;. 
+
+
+
+opinion 
+
+
+
+Fresh senate — 
+a controversy 
+
+
+
+
+
+
+, never ignites adjusting lo Ihe demands of college c 
+
+
+
+on. Last week, the senators started student government could cause a new 
+
+First semester Ireshman arc ihe issue below the mandatory C average. 
+
+To boost interest nut help till senate Senators have become im-b^hlr m Mir 
+
+.mil SUBOG vacancies, most of the past due to low grades - and it would be 
+
+slitution (o allow lirsl semester Iresh- milv in lose l hem shortly afterwards 
+
+roroiitheSludeni Iweaiise ni low grades. 
+
+
+
+a C ave 
+A source reported that only three fresh Input and volunteers. The first 
+
+
+
+government, SUBOG 
+
+
+
+I' grades would I*' evaluated 
+lo determine Ihen eoiilinuril rlie.ilulily 
+
+They could then elect to serve on the 
+
+
+
+I even these 
+
+e fair . basic experience in student government. 
+
+
+
+'ii ■ .im|in-. Hi.. n Ihe vehement Ihiee &lt;i[ip 
+
+can offer. and the rest &lt;&gt;I the senati 
+
+men also are compromise with tins 11 
+
+
+
+
+Letters to the editor 
+
+Poolster pleased 
+
+
+
+1 The Communicator 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+program. The rules for 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+letters we get. the 
+
+
+1 One of the best 
+
+
+
+
+
+
+
+
+l_ "" 
+
+
+
+
+
+ITOU&gt; YOU.XF YOW LEI F\P.S1 ilMS-VTER •bTudtwYb GG.tt.tvJ 
+TV\t itNIVTEXT WOlAUft &amp;E.T OUT Ot WM\ld'\ • 
+
+
+
+Technology dominates life 
+
+
+
+wl|ippin| 
+
+
+
+
+cub 
+
+reporter* 
+
+corner 
+
+ASP A to hear Fritche 
+
+
+
+Laughlin to hold meetings 
+
+
+
+
+
+
+Prisoner seeks pen pals 
+
+
+
+The objeelive of r^de K dvily i:.&gt;. ii 
+
+
+
+Their Siudenl S 
+
+
+
+RENT-A-BAY 
+
+•TIRE REPAIR S°p'."l", 
+
+•LUBRICATION '«""' 
+
+•MINOR REPAIRS °°;&lt;-°»» 
+
+•TUNE UP 
+
+•OIL CHANGES SlTu,.. 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+
+
+
+WE'VE GOT JEANS 
+FOR EVERYONE 
+
+THERE'S ONLY ONE, THE ORIGINAL 
+
+GLENWAY 
+
+BARGAIN CENTER 
+
+
+
+campus " 
+'calendar 
+
+
+
+OCTOBER 
+
+THURSDAY 4 
+
+Men's Soccer vs. St. Joseph's, at home, 4 p.m. 
+
+FRIDAY 5 
+
+"Freewheelin"' plays ot the Lantern, 9 to 12 p.m. 
+
+"The Sailor Who Fell From Grace With The Sea", 
+
+the Fort, 7 and 10 p.m. 
+Purdue Club Football Luncheon, noon, The Shrine Club 
+
+
+
+10 c 
+
+
+
+
+
+
+Men's Soccer vs. Purdue Calumet, at home, noon 
+RAP Session: "Are You A Slow Reader?", noon and 
+
+5:30 p.m., Kl 16 
+Indiana-Purdue Reports on WGL Radio ot 7:35 a.m., 
+
+Guest: Clark Butler 
+
+SUNDAY 7 
+
+Indiana-Purdue Reports on WANE TV ot 6:30 a.m. and 
+on Citizens Coble at 5 p.m. 
+
+MONDAY 8 
+
+Tony Thomas and his dummy Leroy roam the campus 
+
+Women's Volleyball, at home, 6 p.m., vs. the Bible 
+
+College 
+Women's Tennis vs. Taylor, at home, 4 p.m. 
+
+
+
+FALL RECRUITING 
+SCHEDULE 
+
+
+
+Graduate School of Business 
+NCR 
+Honeywell Corporation 
+
+WEDNESDAY OCTOBER 17, 197' 
+Metropolitan Life Insurance Co 
+Internal Revenue Service 
+
+THURSDAY OCTOBER 18, 1979 
+
+Coopers &amp; Lybrand 
+
+Lincoln/Ft. Wayne &amp; Assoc, ln( 
+
+
+
+John Hancock 
+
+MONDAY OCTOBER 22, 1979 
+Purdue University Personnel Servio 
+Lazarus Department Stores 
+Phelps Dodge Copper Products 
+CTS of Berne 
+
+TUESDAY OCTOBER 23, 1979 
+
+UARCO 
+
+Square "D" Company (Huntington) 
+
+XEROX Corporation . 
+
+WEDNESDAY OCTOBER 24, 1979 
+GTE Data Service 
+Simsome Industries 
+Newnam Foundries 
+
+
+
+THURSDAY NOVEMBER 1, 1979 
+Armour Dial 
+The ARO Corporation 
+Koeneman &amp; Krouse 
+
+(Certified Public Accountants) 
+
+FRIDAY NOVEMBER 2, 1979 
+Fort Wayne National Bank 
+
+North / 
+
+
+
+MONDAY NOVEMBER 5, 1979 
+CTS Microelectronics 
+American Security 
+National Steel Corporation 
+
+
+
+WEDNESDAY NOVEMBER 7, 1979 
+U.S. Gypsum &amp; Co. 
+United States Navy 
+
+
+
+THURSDAY NOVEMBER 15, 1979 
+Essex Group 
+Montgomery Ward 
+
+
+
+on the inside 
+
+
+
+Shady named security chief 
+
+
+
+
+
+
+Fires plague Ball State 
+
+
+
+
+™;™£ u ™' c h "° d Nor ' 1 ' Legal highs can be hazardous 
+
+
+
+ORIGINAL MOTION PICTURE SOUNDTRACK FROM THE WHO FILM 
+
+QUADROPHENIA 
+
+
+
+«dor| 
+
+
+
+
+On Polydor 
+Records &amp; Tapes 
+
+
+
+1 3.9B list Ip/tape 
+
+sB.99 
+
+
+
+3627 N. Clinton 
+Ft. Wayne 
+; »CM 483-9290 
+
+
+
+
+
+OLD 
+
+
+
+
+e3 
+
+
+
+
+Ts hi dCPenney 
+
+
+
+ways to charge' 
+
+
+
+the arts 
+
+
+
+
+Lama proves 
+popular in US 
+
+
+
+IPFW students 
+at no-nuke rally 
+
+Two IPFW students, Ed Snyder 
+and Steve Morgan, were &lt; 
+
+
+
+Anti-Nuke rally at Battery Park 
+in New York City on Sept. 23. 
+The rally, reminiscent of gather- 
+ings In the late '60's. Included 
+appearances by Jane Fonda, Tom 
+Hayden, Ralph Nader, Crosby, 
+Stills and Nash, Jackson Browne 
+and Jesse Colin Young, as well 
+as many others. Ed Snyder Is 
+responsible for these photo- 
+graphs of the &lt; 
+
+
+
+Jazz notes 
+
+
+
+
+Corea-Burton effort Ions overdue 
+
+«/«/ ^^ i"-..K ..( i..unhroi aiiik'Uvc thc Dalai Urn* will be tri 
+
+
+
+linger Flora Piirim. Return 
+
+
+
+iSTVliK Boston are"a ^"T i^""u n'\Tl \ mmM column for^'Cnrf i 
+
+■ Hier. I hi Jiiuli -■Ii.m. 1Im'|.|. ,;,r&lt;l ,,,. ,,„.,. ,. .,,.,, Mr - . i , . ■ I in,,,,,,,',,, : , Keyboard" and ^f lj§ 
+
+wrillen by bassist's let e n&gt;''..bnl.«rv in.--.pmti luMlier ,„,.,, . 1(l( |' .in j,me. durmti by l,.it isk Forever thi- debul album Die Hur -C'orea com- ^ ^ •»- L Al 
+
+Swallow, all of which are w,lrds of P raise °" I* thelhirtiesandforties. Between 1962 and 1%K. k . ; , , lir ,, d Jr , e r - ;m( .|| on bmadon proved to he magic m • _* M •» *• ^T-» rf&gt; 
+
+dying ('"tci pi. &lt;&gt;■■&lt;] with Mojito ,-,.,. ( | s . Stanley &gt; "l.irke on sevm years ai;o. Thisencore Oltlll vC 
+
+
+
+the players. four. Traces of Bart 
+
+in U I9°3. HeVgTn playing^" Book TeVJeW 
+
+
+
+SsvSeIS Goodbye, good little victim 
+
+
+
+High society 
+
+SUBOG is sponsorim 
+
+
+
+Z On the 
+
+
+
+Theatre events 
+
+
+
+Page 6 - The Communicator — 1 
+
+
+■ ursd.y. P.M. 1979 
+
+
+FOR SAIE 1977 Honda 
+
+
+fob sale »oiick«.-bus 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mornings. 
+
+
+BRUCE MET VOU al Ihe 
+
+
+HELP WANTED 
+
+
+
+
+
+
+IMMll'IATKl.Y Work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S»,le 127. Dallas. Texas 
+
+
+
+
+
+
+
+
+HERE 
+
+READERS WORLD 
+
+
+
+Pregnant? Take Care 
+
+Of Yourself And Your 
+
+Baby. If You Need 
+
+Help or Just Someone To 
+
+Talk To, Call 
+
+Birthline 
+
+4221818 
+
+
+
+Colony Liquors Inc. 
+
+Riviera Plain 
+
+Colony Specials 
+
+
+
+
+
+i"?* "* CAN "WAIT Y 
+
+
+
+* AS 
+
+
+
+*hP3ems 
+
+
+
+:omedy for adults "M^V 
+who can count. |%^ 
+
+
+
+* rockvii y 
+
+
+
+— 
+
+
+
+*?j5 
+
+
+
+HorsroFF 
+
+
+
+The Legacy ^ j 
+
+
+
+fa^TCll I 30 3 30 5:30 ■ 7:30 . 9:30 
+
+
+
+THE 75* MOVIE 
+IS BACK. 
+
+Join the Embassy Theatre Film Club... 
+
+20 feature films for $15 
+
+Membership. Beginning Nov. 4th 
+
+SUCH GREATS AS: 
+
+CAMELOT JAILHOUSE ROCK 
+
+EAST OF EDEN GASLIGHT 
+
+MAME FINIAN'S RAINBOW 
+
+AT THE CIRCUS WEST SIDE STORY 
+
+HOUSE OF WAX 
+
+A minimum number of members is needed for this fantastic 
+deal to be possible. Please purchase before Oct. 15. 
+
+FOR MORE INFORMATION CALL 424-5665 
+
+OR SEND YOUR CHECK NOW 
+
+TO 
+
+EMBASSY THEATRE FILM CLUB. 
+
+BOX 1266 
+
+FT. WAYNE, IN. 46801 
+
+
+
+Fort Wa&lt; 
+
+
+
+Film Guide 
+
+
+
+
+EXCLUSIVE 
+FINAL WEEK 
+
+
+
+AUDIENCES WILL 
+
+SIMPLY CHERISH A USD 
+
+BREAKING AWAY, 
+
+
+
+
+
+
+
+4834930 
+
+
+
+Stale/ ft' Tad/ 
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+OF FRESHWATER FISH AND AQUARIUMS 
+
+
+
+10% OFF ANY FISH 
+
+
+
+"OPEN 7 DAYS A WEEK" 
+
+
+
+R€DW0DD INN 
+
+1432 West Main 
+
+GRlHD£RS m m 
+
+SAUSAGf R 0LLS 
+iVtElNCREDlBLl 
+MtATBAU 
+SANDWICH 
+
+
+
+
+
+Live Rock Music Returns 
+to Ft. Wayne! 
+Dallas's 
+Junction 
+In the 
+Gerber Haus, 
+
+Clinton at the By-Pass 
+
+Oct. 2-0ct. 6...Strut 
+Oct. 90ct. 13...Rasmataz 
+
+HAPPY HOUR-- 
+
+7 to 9:30 
+
+Tues.-Thurs. 
+
+ALL drinks Vi price 
+
+Open Tuesday through Saturday 
+
+
+
+
+featuring.... Dancing 
+Daily 
+
+from 11:00 a.m. to 3:00 a.m. Mon. thru Sat. 
+
+
+
+Exotic Shows Nightly 
+Mon. thru Sat. 
+
+
+
+• SANDWICHES 
+
+• TRY OUR 
+CARRY-OUT 
+
+• PIZZA Special Celebration 
+
+Mon. thru Thurs. 5 pm - i 
+
+
+
+r-club 
+
+
+
+Open 1 1:00 i 
+to 3:00 . 
+
+
+
+Dalai Lama 
+
+The Reincarnation of Buddha 
+
+
+
+
+On the occasion of ihe become monks or nuns, worldly inferos!, such as aporoat In- -&gt;ti. , ihe means have no inlrinsic value 
+day visit In Ihe United prayer and intensive also fascinated him and he the pursuit of religious ethics The observance of Bud- 
+
+hislory .if Tibet, and ol i lie » necessary lo understand emotional, religion, and an Another significant eon can only he considered 
+
+eullureandceremonv develop ihe analytical reasoning is associated with Universal Void An un- proper menial attitude of 
+
+are lamili.ii will, Ka^-eni Un 'uehi . for this reason very The Dalai Lama was an "i.d n.iiure of reality all sentient beings is the 
+
+die practices of Ihe East. to Income monks proficient studeni. and each Westerners ■ .,nd Tibetans a Buddlmi hie 
+
+such as mediation or Already two of Tenzin stage ot Ins equation *as &lt;•«- he. ause it deals with Some people feel thai 
+
+The person of Ihe Dalai pursuing monastic studies The brief outline of Hud ronlideoev ,e, percent km. acceptance leiniahhes in 
+
+Lama i winch mei.n.s "Ocean The eldest. Thublen Norbu. dhist world view presented Western science relies this life, and this has 
+..I W.Ml.un . i&gt; re&gt;..gn,?ed is imu In mg in exile in Ihe here is meant to provide upon empirical — or ob- political implications 
+
+
+».s._ •■ 
+
+
+
+cen- member in ihe l.l«-i..n realms of though: of the "Is way of gaining ,„ : r,culioiai ,o.-io,m .„.(] Ik M „ __ J ^ _i„l_ j 1*1 
+
+r u e la °; as. "asss s s.sr 1 """*' x*^, BMa « zlz.* risks Mondo sick, not slick 
+
+
+
+Four Noble Truths I 
+
+
+
+recorded Ccss.it o! ^ili-riin; ami its m :i causes condi-i. n Tints 
+
+iospiiilil.il I'all' liken lo achieve Hie ar..,l, sis i,I Pie on)*! . ep'ihl. 
+
+
+
+and dignitaries 
+
+
+
+■■an language and as a product C 
+
+
+
+ganlnsielign.ii-educalii-n Ivsainiiialains m the form compli 
+
+h-nrlor andceicniouy. dialectical argument took (the I 
+
+
+
+lis purpose is lo discouraged. Fewer than 
+
+
+
+edeieelMr. ' « ■* ■! i- — 
+
+
+
+
+
+
+
+
+
+Lt-sei \ c-hieie-, Mali.e..,,!,. 
+
+Tantrayana (the Yogic 
+
+
+
+phliltl &lt;ii Ihe i'lbvlan people 
+
+
+
+USE OUR 
+
+CLASSIFIEDS 
+
+PHONE 
+
+482-5585 
+
+
+
+
+For the real beer lover. 
+
+
+
+HEWLETT PACKARD'S HP 41C. 
+
+A CALCULATOR. A SYSTEM. A WHOLE NEW STANDARD. 
+
+
+
+
+
+%m 
+
+
+
+
+THE CALCULATOR. 
+
+
+"Extra smarl'Tard Reader. 
+
+
+
+
+
+
+
+
+
+
+registers— expandable to 319 registers or up to 
+
+
+
+
+2.000 lines. And for power, ease-of-use and 
+
+
+THE SYSTEM. 
+
+
+efficiency -RPN Logic. 
+
+
+
+
+
+
+
+
+capability leis you name and label programs, 
+
+
+
+
+
+
+"F.«ira smart" Card Reader. Records programs 
+
+
+
+
+and data back unto blank mag-cards Load 
+
+
+"Customize" it. Reassign any standard 
+
+
+
+
+function, any programs you've written, or pro- 
+
+
+
+
+grams provided in the Application Modules— to 
+
+
+
+
+any keyboard location you want (Blank keyboard 
+
+
+
+
+overlays let you notate these assignments.) 
+
+
+
+
+Continuous memory. Even when turned off, 
+
+
+
+
+the HP-41C retains all your program, data and 
+
+
+
+
+
+
+
+
+
+
+like those found on m..n\ f«&lt;er\ ncms Wand 
+
+
+language to learn And alpha capability lets you 
+
+
+
+
+
+
+
+
+
+
+routines; 10 conditionals, and 56 internal flags: 
+
+
+Application Modules. A growing library of 
+
+
+specific loop control; indirect addressing; local and 
+
+
+preprogrammed solutions to a wide range ol 
+
+
+
+Available approximately Nov. 1 
+
+Follett's Fort Wayne Bookstore 
+
+
+
+sports 
+
+
+
+
+ILJ'" ;: :,.r |i .,,,, Ill IPFW splits 
+
+Mike Reed still bedfast Wlt/l CoUQUrS 
+
+Mikv Uivl. n.niiiT Wiivih' Chii-uHM \\Vsk&gt;y Hospital, It C 1 
+
+
+
+Wanted: Cheerleaders 
+
+
+
+Women's basketball callout 
+
+
+
+on tin- I out.'.. ii^. .Irf.'alini; 
+
+
+
+SEMESTER IN SPAIN 
+
+**only $2,189** Feb. 1— June 1. 1980 W 
+
+Beginner or advano/.i Snn.lv S,.jimh -n heautiful Seville, Spain. Earn 2 full FOR 
+
+years college uci. \ ■ u ime cost as a semester here. EVERYONE 
+
+
+
+Whether you're a beginner or advanced, 
+you'll learn Spanish much better than you 
+
+tests prove il Spanish isn't all you'll learn. 
+You'll experience the culture, make lifetime 
+Spanish friends, and see this part of the world. 
+Our enthusiastic alumni write and tell us 
+their semester in Spain was the highlight of 
+their college career. Call us collect. We'll give 
+you their names, addresses and phone numbers 
+to contact for yourself. 
+
+SEMESTER INS 
+
+Call (616) 942- 2 
+
+
+
+Professor Barton Siebring, former Spanish 
+)rofessor at Calvin College for 10 years will 
+
+Come with us Feb. 1-June 1, 1980. Round 
+np jet from Toronto, Canada, room, board 
+ind full tuition all for only S2.189. (Govern- 
+
+id grants apply. 
+
+Spanish, and 
+cost as sitting 
+live in Spanish 
+
+t miss this opportunity, ipace Tills up 
+all us collect at once for more details, 
+will be accepted ' 
+
+
+
+
+
+
+You 
+
+
+
+East Collier S.E., Grand Rapids, Mich. 49506 
+- A program of Trinity Christian College 
+
+
+
+BUSINESS STUDENTS 
+
+
+
+
+international fraternity of 
+
+delta Sigma pi 
+A f rofpBBtmtal SuBtneaa IFratmrttg 
+
+Find out what It's all about 
+
+Sunday October 7, 6:00 p.m. 
+
+Walb Union Cafeteria 
+
+
+
+
+THE 
+
+HANDS-ON 
+
+PERSONAL 
+
+COMPUTER 
+
+CENTER 
+
+IS READY FOR YOU 
+
+
+
+3606 EAST MAUMEE AVE 
+FORT WAYNE, IN 46803 
+4233422 
+
+[ 800 552 3666ll«inia!.800-348-46I9|oulolsWel 
+
+
+
+</pre>        </div>
+      </div>
+    

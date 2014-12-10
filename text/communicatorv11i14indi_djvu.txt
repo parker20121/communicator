@@ -1,0 +1,1412 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv11i14indi/communicatorv11i14indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv11i14indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv11i14indi">The Communicator</a>"
+          </h1>
+          <pre>Communicator 
+
+
+
+The 
+
+
+
+Indiana University-Purdue University at Ft. Wayne December 6, 1979 
+
+
+
+Giusti shifts key areas 
+
+
+
+structuring, under academic affairs a 
+:h is streamlining These areas formei 
+
+
+
+
+director of Student Dei 
+
+
+
+Medley, final PR candidate jf ud . dha bec £ on8 to 
+
+
+
+Sandstrom, Provost 
+
+
+
+
+
+
+ostburg Slate College 
+
+
+
+rc|H',-|li'ill&gt; told Hi. Tiber. in people 
+
+
+
+I.U. trustees approve Corso's stay 
+
+
+
+Residence rati' hikes and plans for a Prnpnsed residence hall increase 
+
+"■' !.-:&lt;u..i. iiiiikiiiiL'iu Hl«)i.iruii!;if, ■!. .-.. ■(! i ; 1 1 . ■ , 1 1 ,n i u .It- room ra te 
+
+
+t ™w , " C r a e'creaUoS' 1 "buiEg '"" AvfNl.V'l-Vn'.l (' '^v'l'Ln?'""^ '"'"' '""''"' I.';,' 1 '',' I,"',"""'',, 'v ,'""', ""' "'""''',' ''!■" hi' '",, ','' anlcentmling 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+presentcontract,whichexpiresinl981, The trustees also deferred board and women, and office space. The studiedfurtherbeforcboardaction. Tit „ n.d.ii k.nnm.-i deeded i&lt;&gt; n. , the ■ 1 ■■ ' , ■ ■■ [..&lt;■ nary studies in 
+
+
+Bottomed out 
+
+
+****»***+***..* pr.pos.1. 
+
+
+
+
+EMS woes: rust never sleeps 
+
+
+By ROBERT RINEARSON Until 1973, Fort Wayne depended on medical technicians who have com- slre et and into oncoming traffic. An miles registered on their odometer, all Board of Safety, Bald, "1 really don't 
+
+
+
+
+
+
+is bad enough in itself, but if you are Mayor h.M, r ' . , , . ■ - r r uiihiin,: w^ .thk' d. pn.vnk i ■■■■ ■ ::&lt;■■■:■ hi-j^Nc-iv i ti, . n, ■ I . &gt;[&gt; ■.'/... ihv.3ri.--l, Hk- Addine 10 k,\i.s', woe-., H.iypok rrpkn-e 1 ^ . I i &lt;■ ■ ■ ■ cars was never con- 
+
+
+invoiv.'d in niir in F&lt;u-i Wayne, the procured from the federal government, at the scene and on the way to hospital EMT received a broken arm for his observed, "Nobody knows exactly Hldered." 
+
+
+
+
+problem was established. Before, police were equipped to do "We have no preventive main- tour vim ■!-.■ We've h. ■&lt; -n ink! to wail an EMS van makes more "lighl and 
+
+
+of Purl Wovne Emergency Medical Lel&gt;;im&lt;.ff . ■ n p I .Ic. ,1,1 lv -p would &lt;"e scene, provide rudimentary first program was vuung— through 1975 and available." in a similar period nf lime 1 he ili'iikmi 
+
+
+Service personnel is excellent, your free more p,.hee off K ers '«-, perform aid and deliver him to a hospital. 1976 - the vans were serviced Many EMT's feel the city ad- (he vans give mute testimony to the 
+
+
+real problem may lie in whether or not direct police .,,.,,,■. ,,i.d m-i .,t-t as The city now has three EMS vans in regularly. But then ihe little things minislr. and ah, i-f&gt;iu.f.-il k.ve u ■■■ 
+
+
+you'll survive the trip to the hospital in ambulance drivers." active service. They are housed in began 1.. build up. everylhine; from failed ir, provide EMS with adequate Thecnndiikn of ihe vans isbulnncnf 
+
+
+one of EMS's decrepit and rusted Randy Raypole present director of various fire si.v ,.r.„ -, the ah, 11 ,-. ,',- ;. m ,;■ .11 .n.-i k...k support. the problems which anger the EMTs. 
+
+ambulances. EMS, added, "We have emergency are manned by a staff of 35employes. ahsorbers needed replacing. The "They have no idea whal we're Earlier this year, themedJcsandother 
+
+
+"Besides the vans in service, we have rescue-equipment ii.li -.hov.ed .ii'iisuf ubnul."s;,Hlone medic EMS persnrmH mniraeird (heir nwn 
+
+
+^^^^ three backuD vehicles," Raypole said. wearandtear Well, von can't afford to Asked how many councilmen have brand of "flu," which was very similar 
+
+
+M— fJPW. 1 ~* Wf l 
+
+
+EMS handles approximately 1,100 to have an oxygen regulator go out during ridden in .01 .imbuljncc to become in Hie -'hi,,,. 1 1 1 . ' ' epidemics .jmonn 
+1,600 calls each month, the director anemergency." acquainted with the- system, be- replied, |-olicemcii. At issue were working 
+added. Chassis can be replaced, and they "Nolone." conditions. 
+
+
+
+
+Bob Coleman, an emergency medical usu.dk. ..re. .,ft.-r ., pen-dnf lime Bui Fi;.ypo]e ,.id thai U,.ynr Robert (Conllnuedonpagefl) 
+
+
+
+
+technician (EMT) who first entered in order to buy new ambulances, it Armstrong, in fact, had ridden, during ———————————————— 
+
+
+Hv ^^^^. mmm l ml ^k- 
+
+
+that field in Huntington, said. "Here the would cost just under $30,000. That the course of one shift, in one am- ■ 
+
+
+
+
+
+
+BLJP '"""""'" 
+
+
+with the rolling stock. equipped irrlil jII ' ' 1 'hub Ik ■ IH.I^.i.itii 1 ' 
+
+
+
+hone shift of EMTs, 
+
+
+
+
+
+
+
+opinion 
+
+
+
+PR director, 
+image related 
+
+
+
+Realogue 
+
+Readers lash out at Iranian issues 
+
+
+
+IPFW is screening candidate again 
+
+
+Ft. Wayne and its surrounding com 
+
+
+
+
+
+
+
+
+Too many times tins campus Ims l»'en 
+
+
+
+
+cnmpletclv imiurcd or overlooked in if'. 
+
+
+
+
+&lt; "Mini) ■ la Hie community it ser- 
+
+
+
+
+ves Too often II'MV li..s been releirol 
+
+
+
+
+to as "Bypass U." or "Bypass High. 
+
+
+
+
+
+
+
+
+A good director of university relations 
+
+
+m-&gt; jlk'il Hit.' image of Uk- university is 
+noteworthy. 
+
+
+
+
+with the potential here foi good [nil. lie 
+
+
+
+
+
+
+
+
+
+
+vacated by Carl Vand.igrifl, who will 
+
+
+cam|ius television studio as necessary 
+
+
+
+
+
+
+
+
+Candidate Richard Morrison, 
+
+
+portant for this campus. IPFW Is 
+
+
+
+
+
+will soon University &lt; 
+
+
+
+i,|, M- neUweek Kereutlv, ai chileclund &lt; \i udid.i le Keno Atkinson. publi&lt; 
+
+.„,,, ;j Il n.| ( oM-ili.Trc..l -ilt.i.-ditv n-lations director at Frostburg Stale noi prim unsign. 
+
+were made public. College in Maryland. 
+
+
+
+ulivilic-. such as sporting 
+
+
+
+i corn classes and Cniitmuin)', Isdue.d inn 
+munity. Activity 
+
+
+
+|,'. , •„„.„„ „„i,.,.s ;,i ,...!,.„. ;,|«| ri-lutiom C 
+
+
+I. ri'liiU- unil | null' llns 
+
+
+.•'.■i ni'iil nuisl IM' i-iiminunii-.-iU-cl •■x|i.-in&gt;liin; iiiii-riH-&gt;. Mi. ... .. 
+
+
+
+
+
+
+. r M ,usc Itlis ...-tivilv lu ll&gt;. iml.lii In AH thai 
+
+
+
+
+in. ■ :,st- &lt;&gt;r ipi.-w. ll«. public is Uic cily or decision. 
+
+
+
+
+The Commiiniruto 
+
+
+
+
+u. r !_ ..».»., rXXJZSZ, - fc/ffE 
+
+
+
+
+
+
+
+
+
+
+,: ,■::: "■'■ '■■' ' ',' 
+
+
+^.X~^,:\:r ' 
+
+
+
+
+
+
+
+
+
+
+z2^'is£ys2:£p j i 
+
+
+■;.'. :■;„;,' :.: ,■:„..:.. 
+
+
+
+
+
+
+juumfci^ 
+
+
+
+
+
+
+
+1 &amp; 2 Bedroom Apartments 
+1 &amp; 2 Bedroom Townhouses 
+Spacious apartments 
+Air-conditioned 
+Laundry Facilities 
+Swimming Pool 
+Convenient Location 
+Near Bus Stop 
+
+Rents from only $185 
+
+
+
+OFFERING: 
+
+9 MONTH 
+
+STUDENT LEASES 
+
+Call: 483-3196 
+
+Parnell Avenue at U.S. 30 By-Pass 
+
+HOURS: Mon.-Fri. 9-6 
+Sat. 12-4 
+
+
+
+NOW YOU CAN 
+
+EARN OVER 
+
+$6,500 WITH 
+
+ARMY ROTC. 
+
+
+
+Before you graduate from college! Because now, you can com- 
+bine service in the Army Reserve or National Guard with Army 
+ROTC. It's called the Simultaneous Membership Program (SMP). 
+And, depending on your academic year when you enter, SMP 
+can help you earn over $6,500. 
+
+Here's how it works. If you qualify and a vacancy is available, 
+you become a member of an Army Reserve or National Guard unit 
+as an officer trainee and, at the same time, enroll in the Army 
+ROTC advanced course at your college. Your Reserve or Guard 
+membership will pay you at the minimum level of Sergeant E-5, 
+and you'll receive $100 a month during the regular school year as 
+an Army ROTC advanced course cadet. 
+
+At the end of your second year of advanced ROTC, you'll be 
+commissioned a second lieutenant and, assuming there's a vacancy, 
+serve with a Guard or Reserve unit while you complete the 
+requirements for your college degree. 
+
+So if you'd like to earn over $6,500 while you're still in college, 
+get into SMP. Because SMP can help you do it. You can bank on it! 
+
+For further information, contact the Profess or Military Science, 
+
+Maj. O'Neill 
+
+or Capt. Captain 
+
+Trom 4, Phone 482-5247 
+
+
+
+a 
+
+
+
+ARMY ROTC. ARMY NATI0NAI GUARD. ARMY RESERVE. 
+
+
+
+cub 
+
+reporters 
+corner 
+
+"Big O", other pros to appear 
+
+
+
+"Lifestyle Colloquium" the Rev. 
+
+
+
+Sally Merrill award begun 
+
+The Department of spring semesters of th 
+
+
+
+? during the recognition of her 
+
+
+
+Needy can food drive planned 
+
+sponsoring a Needy Farmly cri1 ldrcn 
+
+Canned Food Drive. The food Thc B | ack student 
+
+drive will begin on Wed- Assemblv nwinbcis sin 
+
+nesday. Dec. 5 and end Dec cere | y „„ pl , , hl , ur . v ,. r s.i&gt; 
+
+Z1 Th h h fjlUl " ' '" " d '"' dt ' n ' 
+
+Club holds holiday meeting 
+
+special speaker at the Dec building, room' 110. Spedal 
+
+1 -"■""&gt;■ m-Hini: ni : |„ ,•.„„.,. „,,,-, .h„„.„„ v.,11 
+
+Gay Activists slate meeting 
+
+
+
+Sexism at IPFW explored 
+
+The \ml somin,-,) m Hu- Philosophy, and Kathy 
+
+
+
+i Dean, of the IPFW up 55 percent of the IPFW 
+
+
+
+Here's your 
+chance! 
+
+
+
+
+We're now taking orders 
+
+for Christmas Custom 
+
+Framing. Place your 
+
+order now. No orders will 
+
+be accepted after Dec. 15. 
+
+Art &amp; Decorating Supplies 
+for every student's needs. 
+
+Draw/tig tables, lamps and 
+accessories available 
+
+
+
+i Ask '&lt;" 
+
+I 411 Well St. 
+
+
+
+Page 3 — The Communicator — Decer 
+
+campus 
+calendar 
+
+
+
+The Trustees c 
+
+of Indiana University &lt; 
+
+cordially invite t/o 
+
+
+
+marking the breaking of ground 
+
+for the Classroom/ Laboratory /Office Building 
+
+Indiana University-Purdue University at Fort Wayne 
+
+Walb Memorial Union Ballroom 
+
+Thursday, the thirteenth of December 
+
+at three o'clock p.m. 
+
+;cepfion immediately 
+
+
+
+THURSDAY 6 
+
+PIT presents: Jacques Brel, 8 p.m. 
+
+Film: The Threepenny Opera, Kettler 246, 7:30 p.m. 
+
+B.F. Goodrich Management Training Seminar, 7:30 
+
+a.m. to 5 p.m., Walb 224. 
+Placement test, Walb ballroom, 5:30 p.m. 
+Indiana-Purdue Reports on WIPU, 3:45 p.m. Guest: 
+
+Gary Blumenshine. 
+Intervarsity Christian Fellowship, Walb lounge, 12:30 
+
+
+
+Jane Pittman, 7 and ' 
+t home, 7:30 p.m. 
+
+
+
+FRIDAY 7 
+
+Film: Autobiography of Miss 
+
+p.m., Walb. 
+Men's Basketball vs. Marion &lt; 
+PIT presents: Jacques Brel, 8 
+
+
+
+SATURDAY 8 
+
+Men's Basketball vs. Concordia, there, 7:30 p.m. 
+
+PIT presents: Jacques Brel, 8 p.m. 
+
+Tri-State band and choir concert, 8 p.m., Walb 
+
+
+
+•ittman, 7 and 
+dio, 7:35 a.m. 
+
+
+
+tO p.m., Walb. 
+ndiana-Purdue Reports 
+Guest: Gary Blumensh 
+
+
+
+SUNDAY 9 
+
+Indiana-Purdue Reports on WANE TV, Ch. 15 ot 6:30 
+a.m. and on Citizens Cable at 5 p.m. Guest: 
+
+University-Community Symphony Orchestra concert, 
+8 p.m., Neff 101. 
+
+MONDAY 10 
+
+Intervarsity Christian Fellowship, Nefl 147, noon. 
+
+Women's Studies: "Sexism At IPFW," Walb 116, noon 
+
+
+
+Annual Christmas Dinner, Club Olympia, 6:30 p.m. 
+
+THURSDAY 13 
+
+Building "D" Groundbreaking, 3 p.m., Walb ballroom, 
+
+PIT presents: Jacques Brel, 8 p.m. 
+
+B.F. Goodrich Management Training Seminar, 7:30 
+
+
+
+j 224. 
+
+
+
+
+3413 NORTH ANTHONY 
+
+
+
+WE BRING YOU THE STARS 
+ON ALBUM AND TAPE 
+
+
+
+
+PEACHES AND HERB 
+"TWICE THE FIRE" 
+
+
+
+"QUADROPHENIA" 
+SOUNDTRACK 
+
+
+
+ARS 
+"ARE YOU READY?" 
+
+
+
+POLYDOR RECORDS 
+
+AND KARMA 
+
+OFFER YOU THE BEST IN MUSIC 
+
+
+
+GET THE MOST ENTERTAINMENT 
+
+FOR YOUR MONEY 
+
+WITH RECORDS &amp; TAPES 
+
+
+
+on the inside 
+
+
+
+To avoid attack ... 
+
+
+
+
+employ™ will diagram. 
+
+
+
+
+
+
+... determent measures suggested 
+
+
+
+n had lo Parks explained. 
+
+
+
+
+
+
+Tenure: Reports positive in 21 of 28 cases 
+
+Promotion and-or tenure submitted to the department After an imii.il reo.ni- ch.m.'t.-llor. Uu-n ihe dian- Kvery professor must year in wr 
+
+case reports [hat were diaii pn-.n l&gt;v il&gt;.- l.'iciilK mnnl.iNMi om.'.-rmiig the cellor, then the respective submit a case report for lob A 
+suhniilU-d b\ 1PFW ,n,.-mh,T. ii r ,n 1J .'.n's..r. luihr applicant's acwplabiliu fi.r pirsi.lmtl ,.| Ihr iniivi-rMiy, &lt;■ ooi'' al H"' 'I"-' of his probation 
+
+Realogue- continued from page 2 
+
+
+
+RENT-A-BAY 
+
+•TIRE REPAIR JXt2&amp; 
+
+•LUBRICATION ''"«»° u ' 
+
+•MINOR REPAIRS ^--^ 
+
+•TUNE UP 
+
+•OIL CHANGES SSSTk*. 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+3301 Crescent Avenue • 463-9643 
+
+
+
+Ruby's Records ■4(PM 
+Has Moved **&amp; 
+
+
+
+WITH AN EVEN GREATER SELECTION OF 
+
+•Rock •Bluegrass 
+
+•Jazz 'Country 
+
+•Soul «Rock 
+
+•Disco 'Blues 
+
+Come on out for the best prices and the 
+
+selection around. Remember 
+
+there's no extra charge for special orders. 
+
+
+
+OIFI CERTIFICATES AVAILABLE. 
+
+
+
+
+EASY PARKING IN AND OUT 
+
+WE'VE GOT JEANS &amp; TOPS FOR EVERYONE 
+
+ALL DISCOUNTED PRICES 
+THERE'S ONLY ONE. THE ORIGINAL 
+
+GLENWAY 
+
+
+
+BARGAIN CENTER 
+
+
+
+
+
+
+DAN AYKROYD NED BEATTY-JOHM BELUSHI LORRAINE GARY MURRAY HAMILTON - CHRISTBPHER LEE 
+TIM MATHESON -TOSHIRO MIFUNE WARREN DATES ROBERT STACK TREAT WILLIAMS 
+
+■ ■ ■'' 'Ur-A 
+
+imtuiu (utitai mumwd mimi simnckeis wninoMwimisM . ■ ■■•■. ..,.'.■ ■•'&gt; "-'•■■ 
+
+to* brMHRI AlfOSiBOBHU m JOW HUE - ta JUh'i »" "•' "'''"' -".^ctoJMIIK-IJ^WIIlNMira — ' 
+
+COMING FOR CHRISTMAS 
+
+
+
+
+Purveyors Of Fine Coffees 8. Teas" 
+Featuring Fine Imported Beers &amp; Wines 
+
+Thursday Night Pitcher Night 
+*1 off each pitcher 
+
+Live music every Thursday, Friday 
+and Saturday night 
+
+Thurs., Dec. 6 Gil Bierman 
+
+Fri., Dec. 7. Bill Ochoa 
+
+
+
+Sat., Dec. 8 
+
+
+
+Bill Storey 
+
+
+
+Hours: M-Th. 10 a.m. -12 Midnight 
+Fri. -Sat. 10a.rn.-l a.m. 
+Sun. 7:30-12 Midnight 
+
+
+
+New Year's fj?§ Party, &amp; Dance 
+
+at the Hayloft 
+
+Music by "Destiny" 
+
+
+
+Doors open at 8:00 p.m. 
+
+
+
+MOVIE: Autobiography of Miss Jane Pittman 
+
+
+
+SKI TRIP 
+
+Dec. 21 to Cannons' 
+
+X-Mas Semi-Formal Dinner Dance 
+
+Dec. 15, 7 p.m. Marriott 
+
+
+
+
+IKDWODD INI 
+
+
+
+GRlttDfRS 
+
+
+
+
+SAUSAGE R OUS 
+^ElNCREDlBLt 
+MtATBAU 
+SANDWICH 
+
+
+
+Live Rock Music Returns 
+to Ft. Wayne! 
+
+Dallas's 
+Junction 
+
+In the 
+Gerber Haus, 
+
+Clinton ot the By-Pass 
+
+Dec. 4-8...Strut 
+Dec. 11-15...J3X 
+
+HAPPY HOUR - 
+
+7 to 9:30 
+
+Tues. -Thurs. 
+
+ALL drinks Vi price 
+Open Tuesday through Saturday 
+
+
+
+PAraphertiAta P**Uce 
+
+
+
+
+featuring.... Dancing 
+Daily 
+
+from 11:00 a.m. to 3:00 a.m. Mon. thru Sat. 
+
+• SANDWICHES 
+
+Exotic Shows Nightly 
+
+• TRY OUR Mon. thru Sot. 
+CARRY-OUT 
+
+
+
+■PIZZA 
+
+
+
+Special Celebration 
+Mon. thru Thurs. 5 pm - 6pm 
+
+
+
+r-club 
+
+
+
+
+the arts 
+
+
+
+Woody Allen would be proud 
+
+
+
+
+THE COST 
+OF GETTING 
+SICK IS 
+ENOUGH TO 
+MAKE YOU 
+SICK. 
+
+
+s 
+
+Coll 
+
+
+a 
+
+
+485-7525 
+5720 SI. Joe R 
+(Aira, 1.™ i|. 
+
+t| NATIONS 
+1 1 INSURAh 
+
+
+IDE 
+CE 
+
+
+
+EMS, from page one 
+
+
+
+
+Ground 
+breaking set 
+
+
+
+Wayin- Raymond Pipert, 
+secretary of Indian.. f,M.uli\ 
+
+
+
+PRINTING 
+
+W/dkUWait! 
+
+
+
+Photocopies 
+
+6o ow e r 
+
+
+
+lk* ,, 
+
+
+
+w. P 
+
+
+
+£ 
+
+
+
+rj 
+
+
+
+I tried everything.. Sulfuric Acid, Nftro', TNT.... 
+But nothing worked, until I heard about 
+
+The Hair Center and roFFier products 
+
+BEFORE AFTER 
+
+flfP) lfth8 
+
+JO Hair Center Art 
+
+3*2**&amp; RoffuR' \ ~ 
+
+S Hurt, &amp; 
+
+7?? could do rhi« for him, feffiSfi^ 
+
+
+
+
+think of whit wo 
+could do for you! 
+
+
+
+WSk 
+
+
+
+10% Discount on all Roffler products until Jan. 1, 1980 
+
+™ Hair Center 
+
+BARBER &amp; BEAUTY SHOP 
+JModHJorthofMc^^ Phone 7454531J 
+
+
+
+: cm 
+
+\ ELOS i i 
+
+^ GREATEST 
+
+i HITS 
+
+
+
+Slatewood's 
+Sounds of Christmas" 
+
+
+
+
+ti:. :: :V" : 
+
+
+
+$4.89 Tapes $ 4.89 
+
+Stop in for details and to register for Slatewood's "Sounds of Christmas" drawing on December 21st. 
+
+
+
+llfcOEDSf^ 
+
+
+
+3627 N. Clinton Ft. Wayne 483-9290 
+
+
+
+sports 
+
+Cagers get first win 
+
+Nip Bible, 73-71 
+
+„ ,. , . call the Tusker squa( 
+
+i"; 1 '';' ;■;; ' '\'"' i 'j'"\ ,:,,! •■■&lt; ■•» ..■.•..■..-.. n... v 
+
+
+
+• in brief 
+
+
+
+
+
+i the professionally typed. 
+
+
+
+Women cagers debut 
+
+Split pair in Sertoma 
+
+
+
+ASKED. EXPERIENCED 
+
+) GUITAR l^ifi'i'. 6 
+
+I.E CB5S0K.' Run, 
+
+
+
+'"lheh.lt righ ' 
+
+
+
+E MUSIC 1 
+
+(MENC) I.U.-P.U. Fort 
+Wayne student chapter 
+
+
+
+nights and mor- 
+
+
+
+as The Bililr . ., II, ■,;, ■...,) 
+ool. an exception .11', ., 1 ,. 
+
+
+
+
+UNIVERSAL PICTURES PRESENTS 
+
+AN ASPEN FILM SOCIETY WILLIAM E. McEUEN 
+
+DAVID V. PICKER PRODUCTION 
+
+A CARL REINER FILM 
+
+STEVE MARTIN 
+
+ThejERK 
+
+
+
+ADETTE PETERS, CATLIN ADAMS.. JACKIE W 
+
+, .RTIN, CARL GOTTLIEB, MICHAEL ELIAS ' ::STEVE MARTIN &amp; 
+ICKER. WILLIAM E. MCEUEN , CARL REINER *- -n 
+
+
+
+Coming For Christmas. 
+
+
+
+SNOW POWER! 
+
+Drive with peace of mind this winter. Drive on the tough traction 
+tires from Cooper. Especially designed for traction in snow, ice, 
+and mud. These tires dig deep to power you through winter 
+driving conditions. 
+
+
+
+
+WEATHER-MASTER 
+
+Regular Snow Tires 
+
+RADIAL 
+
+SNOW TIRES 
+
+
+
+
+yrrt 
+
+
+
+WHALE TIRE 
+WAREHOUSE 
+
+
+
+2 CONVENIENT CASH &amp; CARRY LOCATIONS 
+NORTH: Coldwotet &amp; the By-puss 48- 
+
+
+
+SOUTH: Southgote Plo*o 7 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,2232 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i21indi/communicatorv7i21indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i21indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i21indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATOR 
+
+
+
+ffl 19 ,916 
+
+
+
+*-&gt;uS 
+
+
+
+WStersA* 
+
+
+
+.crsUy-Purduc Univcrsilv a! Fort Wayne 
+
+
+
+THI/ 
+WEEK 
+
+
+
+
+Strikes 
+
+Is it "unprofessional" for 
+teachers to picket? In fact what 
+does "professional" mean? Stu- 
+art Lynn takes the word and 
+attitudes about it apart on page 2. 
+
+
+
+Scenes 
+
+Find out why "Barry Lyn- 
+don" might be destined to be a 
+
+Kimberly Pontius details the 
+
+
+
+
+Shots 
+
+
+
+DeBerry charges racism; 
+Schwartz. Fairchild reply 
+
+
+
+R&gt;r: 
+
+
+
+i:ki\m:i i 
+
+
+
+The story of Clyde DeBerry and his 
+
+The thing that makes it complicated is 
+DeBerry's unique position. When he was 
+
+appointment in General Studies, although 
+there was and is no academic department 
+by such a name. General Studies is listed 
+under Special Programs. So, DeBerry had 
+i academic appointment even though his 
+
+
+
+
+
+
+
+
+
+n.oin 
+
+
+
+DeBerry was to be evaluated. A person with 
+an academic appointment would normally 
+be evaluated yearly by the faculty in his own 
+department. Since there was no one in 
+General Studies but DeBerry himself, 
+Chancellor Don Schwartz asked the General 
+Studies Council to do the evaluation. 
+
+The Council, headed by Dr. David 
+Fairchild, oversees the implementation of 
+
+
+
+Ihe General Studies IVoe/am Sctmai 
+tum, together with Dr Honor Mages. \ 
+now working in New York, would evr 
+DeBerry as an administrator 
+
+When interviewed. I-' n. child sa 
+was sensitive to DeBerry's siiLeest ion , 
+
+evaluate him On lh.' alhei hand, he s; 
+
+
+
+evaluation, suggested two things: &lt;l&gt; 
+DeBerry's title of Associate Professor of 
+
+General .Studies mil be renewed; and &lt;2&gt; his 
+appointment as Director of General Studios 
+not be renewed. 
+
+Fairchild explained that there was a 
+
+
+
+In that same issue. Obadiah C. Bodili, 
+Chnirman of Ft. Wayne Blacks for Justice, 
+wrote a letter to the editor stating that the 
+phasing out of DeBerry should be exposed. 
+However, according to Schwartz, 
+DeBerry had not been sent n letter expiring 
+his employment When asked why DeBerry 
+had been fired, Seliw.nl/. pointed h 
+
+
+
+having an appointmc 
+
+denied any racism on t 
+
+The Fort Wayne l\ 
+
+
+
+rings 
+
+
+
+Sanders discusses 
+TV documentaries 
+
+
+
+MarleneSande 
+cumentaries fot 
+mpus yesterday tc 
+
+
+
+Work on a documentary begin 
+
+
+
+to distort a subject. Sanders commented 
+that she is often tsked her opinion of a topic 
+before the actual filming takes place. "We 
+go into it tthe filming} with an open 
+mind-we don't know our conclusions till we 
+finish our work," she stated. 
+
+
+
+
+
+
+irned 
+
+
+
+what people 
+id try to do I 
+
+
+
+subjects," she said. Suggt 
+vetoed because the subject is too specialized 
+to be of general interest, because it may be 
+covered in a short period of time, or because 
+
+network. Cultural subjects often "get short 
+shrift," Sanders said, because they are not 
+
+
+
+r paid for appearing in a docur 
+
+
+
+is being edited 1 
+
+
+
+works are unlikely to hire anyon&gt; 
+to be prepared to put in a lot of y 
+
+
+
+efilm 
+
+
+
+t expect everything to flow smoothly." 
+
+Sanders began at ABC as a corres- 
+lenl twelve years ago. after spending 
+'ears in other broadcasting jobs in New 
+
+
+
+President's job 'extensive' 
+
+
+
+Major offices of Student Governmei 
+will soon be changed through elections. Th 
+IPFW Student Government is similar i 
+structure to the Federal gi 
+
+
+
+■an generally help e 
+
+
+
+closely together. The dichotoi 
+
+
+
+students, faculty, ; 
+
+
+
+sident of Student Govi 
+
+
+
+Chat 
+
+
+
+
+
+
+Faculty Stearing Committee. 
+
+Another duty Is the development of new 
+programs 3nd plans. "This can be very 
+
+of Student Government, Charle Pratt, who 
+
+
+
+line would probably be something like th&gt; 
+development and passage of the nev 
+
+programs, and the coupon booklet that wa 
+passed out in the beginning of last fall." 
+
+required to be the official representation o 
+the students at meetings andceremonia 
+
+
+
+I that an informal group of student 
+
+
+
+ling and they help us out another 
+commented Pratt, while he added, 
+ant to work with them, not against 
+
+
+
+working with the faculty and adm 
+for student needs. Similarly, 
+several faculty group committee: 
+for student input and these co 
+
+
+
+
+
+
+/of the 
+
+
+
+
+
+
+e pa- 
+
+
+
+explained, "the president has to make sure 
+that the expenditure won't deplete the 
+resources a great deal." The offices of 
+Student Government include that of 
+
+treasurer deals mostly with "day to day" 
+
+
+
+problems involving a class or a professor," 
+
+In a case of an academic problem it is 
+
+the Student Govenment president who must 
+Jict as a mediator between both parties and 
+pelp see that a reasonable situation is 
+
+
+
+the president. Naturlly he will 
+&gt;ach other's compliment and 
+
+and philosophys though in order 
+» run smoothly. 
+
+
+
+
+
+
+
+
+
+Whcn asked to respond to iho dismissal 
+controversy, DeBerry said he thought he 
+was being treated unfairly Hr &lt;atd he 
+believed it was because of his ra&lt; e He said 
+
+he did not even know Fairehlld's committee 
+evaluation was going on until h" was "tipped 
+off by another administrator." 
+
+
+
+bad uol even, 
+publications. 
+
+.Ir.WtllJI .L.liim 
+
+
+
+
+
+
+catlinu I 
+
+
+
+
+
+
+thee 
+
+
+
+
+
+
+evaluation. H 
+
+with DeBerry and suggcstci 
+
+limits inr the council lo consider. 
+
+Fairchild then pulled out a file of things 
+DeBerry had submitted and read off the 
+contents: a 30-page personal vita, and IVj 
+pages that interpreted il, plus a 12-page 
+
+
+
+I 'ma- 
+
+
+
+lting h 
+
+
+
+without rank. 
+
+The reasons why DeBerry was no! gl 
+rank and why Ins academic appoinlrn 
+was not renewed will probably n 
+
+
+
+;, and confident 
+
+
+
+■ Fairchild: 
+
+
+
+t worked i, 
+i report i 
+
+
+
+
+
+^ 
+
+
+__ i^ 
+
+
+■il 
+
+
+W A ' 
+
+
+
+
+
+
+Ki!\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^^^^^^B^^HB 
+
+
+
+estcd in prolonging the 
+
+agony between myself ami my employers ' 
+
+He added, "There are a handful! of people 
+
+who do not want me and my kind around." 
+
+Fairchild was then asked why DeBerry 
+
+
+
+cpliedthnl all of this was 
+ning he was informed the 
+Jo the cvaluallon, Fairchild 
+iceting of the council 
+n-csenl. He informed 
+
+ilked at length 
+
+
+
+Mark Anderson's model ear will he cOiihiled nevt week al the IHTIi Automotive 
+Kngiiieormy, toneless and Imposition in Detroit. The model features halchbui k 
+plexiglass windows, ami upholstered seats, 
+
+SAE shows electric 
+scale carat exhibit 
+
+
+
+standpoint "Since n 
+someday be work in 
+
+
+
+i features everything 
+
+
+
+;;■■■ 
+
+
+re. Mi Alee,-,. 
+
+
+S33SE 
+
+
+expos,. 
+
+
+hiz\ 
+
+
+stess 
+
+
+s 
+
+
+is currently 
+
+
+"ll,X"l ™*l»i:- 
+
+
+
+and McAleecc 
+ip will increase suffi 
+o place IPFW first n 
+
+
+
+Library chosen for federal 
+micro film pilot program 
+
+
+
+
+
+
+ol Federal Herniations The purpose of the 
+program is to determine the feasibility and 
+practicality of continued microfilm publish- 
+ing on Ihe part of the Government Printing 
+
+
+
+e of the microform products. 
+
+quality procured through com- 
+urces. adequacy of packaging. 
+
+
+
+Counselors introduced to IPFW 
+by luncheon program 
+
+
+
+conventional hardcopy c 
+
+
+
+from Chicago or something, to work on some 
+kind of project, they could work with 
+students from right here who might be just 
+
+
+
+Pratt reflected on a few unt 
+that are also delegated to the pre 
+feeding the rabbits during th 
+ground was covered with snov. 
+
+
+
+g done that should only I; 
+
+
+
+uidance Counselors commenced last working v 
+jesday. February 17. in Ihe Student Union "Basi 
+
+uilding (The annual program, sponsored which we 
+
+
+
+procedure for high s&gt; 
+
+
+
+iin- hide the hitfh school credit programs al effect 
+Ihe IPFW campus, updating of new or are be 
+
+current student Iwnlv profile A question and explaii 
+
+
+
+Spring break date changed 
+
+
+
+Herniations is an ideal vehicle for 
+project. Since 25 percent of th, 
+routinely updated on a quarterly b 
+code is entirely revised once a ye: 
+
+Although the Government 1 
+Office is the world's largest printe 
+until now avoided publishing in n 
+
+
+
+braries, the agency will likely publish 
+i.nr, government dru unients m that mode 
+
+
+
+e ,ii microfilm publishing liy 
+
+
+
+program manager for 
+
+
+
+Edltortol/ 
+
+
+
+Action rewarding 
+
+
+
+Opinion 
+
+Faculty needs bargaining power 
+
+
+
+S end their rights 
+
+
+
+rights for people should v 
+
+
+
+[eluding fringe benefits, and his 
+
+
+
+Elections at 1PFW to fill 2G positions in students' government will be held 
+March 2 and 3. 
+
+These posil ions are I radii mindly filled \&gt;\ niiiny of I he same people year .ifler 
+' year When a per Jim gels invulvi.il in the limit inn of government at any level, be II 
+students' ynvernmenl, local, state or national, M seems to lie highly contagious, and 
+repeaters for certain offices are the norm rather than the exception. 
+
+Offices open for candidates are the positions of Student Body President and 
+Vice-president, fourteen senatorial posts, and ten positions on the newly -formed 
+Student Union Beard of Governors iSUBOdi Any sludenl with an interest in filling 
+ime of these highly critical posts, who is talking al least three credit hours al IPFW 
+
+So far there have been two students expressing a desire to run for the 
+presidency of the student body: Cyndy Harris, with Mike McAlexander as 
+vice-president, and Mike Heimann, who as yet has announced no running mate. 
+The senatorial positions and the posts on SUBOG have drawn little competition al 
+
+The purpose ot I his editorial is nol to provide a newsy re-cup on who is running 
+against whom, bul In stimulate more than the normal interest in Ihe affairs of 
+students' government. 
+
+Any person who intends to seek one of the twenty si\ positions mentioned 
+above can expect In work extremely hard for a lull year Any of the positions open 
+for eanihcaev call for lormal meetings every week of the school year, and even 
+some during Ihe summer and Holiday recesses There is nothing easy about a 
+person's coininiiioent to students' government Yet, the rewards more than justify 
+[he effort. 
+
+If elected to one ol Ihe posts, you will lie expected fi&gt; represent Ihe student body- 
+in any number of ways, snmopnsihve, some not You will he expected to create a 
+budget concerning your area of interest, which in the case of the president and 
+vice-president and Ihe student senate, will entail Ihe complete budgel of 
+approximately (120,000, You will be asked lo participate in many of the social 
+functions all cndanl to a position in students' government You will be asked advice 
+and consent from both Ihe admmisiraiioii and the facility, both of which, contrary 
+to general knowledge, do ask advice of students at times. 
+
+Most Important Ol all, however, you will be taking an active part in 
+representing the student body at IPFW To be one of the persons who fulfills this 
+[unction is to make \ooi college education more meaningful, an experience that 
+cannot be judged in Icrmsol material gain, of which there is nunc You will simply 
+if Ihe members of the student body who "makes Dungs happen" at IPFW. 
+
+
+
+you ready (or Indian-Pu 
+ive been around for a 
+spreading the "White c 
+
+
+
+o feel s 
+
+
+
+1 iJikJialy." 
+
+
+
+dally for 
+
+
+
+irsons (by "merit:'), 
+me except to the 
+
+
+
+sily, ihe though! o( hundreds of 
+■ctual eggheads" carrying picket 
+eems ludicrous and ineomprehens- 
+
+
+
+advanced educat- 
+
+
+
+Ihe really difficult job el teaching children 
+before they get to college or who may not 
+ever go to college. I Administrators like to 
+speak about "collegialily," and this abused 
+word is constantly used to attempt lo put 
+union supporters into a socially inferior 
+category. 
+
+"Collegialily" refers to a situation in 
+which nominal administrators and nominal 
+faculty are considered co-equals; a "come 
+let us reason together" approach which 
+
+
+
+of higher education of which I have direct or 
+indirect knowledge, ' - collegiality" is s joke. 
+
+present, faculty governing bodies (usually 
+
+"'senates") exist to provide a facade of 
+faculty governance (itself an elitist 
+proposition which presumes faculty preem- 
+
+
+
+
+
+
+e that 
+
+
+
+/ilh other kids who care should t 
+
+
+
+tough ] 
+
+
+
+
+
+
+u want lo become one of the "in" few, and a B.P.O.C , i Big person o 
+. make tracks up to the second floor of the Student Union, gel a pelitin 
+required ;m signatures and "get where Ihe aclion is!!" 
+
+
+
+Letter 
+
+
+
+
+
+Film criticism unfair 
+
+
+
+
+".c"™"r 
+
+
+To the edit 
+
+
+r: 
+
+
+worked ol movies consistenilv this 
+
+
+year 
+
+
+JUCl(iNI,.„l 
+
+
+Committee 
+
+
+is been a greal deal of student 
+recent days of Film Series 
+Ihnlrman Mike Folk's decision 
+
+
+Student Body President Charles Pra 
+informed of Ihe problem but has mi 
+nclion. As a result Folk ha.! no, Iioki 
+
+
+;rr 
+
+
+K"r" 
+
+
+ti, cancel 
+
+
+;30 movies on Fridays. The 
+
+
+cancel Ihe 2:Jn showing -So it studci 
+
+
+s feel 
+
+
+a la&lt;k «■, 
+
+
+Folk is on, 
+
+
+■nds the Film Series Chairman 
+of three students on the Film 
+litfee. He and flay Recce both 
+
+
+Folk but simply drop by renin li'Ja 
+Union Building nr call -182-5^5;i and a 
+
+
+It 
+
+
+3K1! 
+
+
+
+
+•ntly run by 
+
+and -or 
+
+io real authority These senates form 
+Kiel's, deliberate, and pass resolut- 
+tie.' die admim-ir. ilmns are making 
+
+turns At Indiana-Purdue Fort Wayne. 
+
+enialive of the Indiana and Purdue 
+lMianve systems, responsible to the 
+liveisity Presidents and Boards of 
+es Policy is not made hy faculty (not 
+
+"of, by and for the people " It is 
+isiercd to us by an appointed elite. 
+isible in theory to Ihe people ot 
+
+
+
+are elecled by adult citizens For 
+■r endeared itself to American lh&lt; 
+lie who own stock-should 
+
+
+
+^--democratically. That excuse, 
+
+become educated in such things?), 
+plied to the political sphere-certai- 
+
+nions become means of allowing 
+&gt;nomic power for working people 
+nost ot us) against employers who 
+se hold all the cards. That is why 
+
+ons. They have gotten the notion 
+
+making, although they began as, 
+
+tl people, employed by academic 
+
+the functioning of the orgainzal- 
+
+trresling example of the need for a 
+mes from the most recent IPFW 
+ce with faculty salaries. (1 don't 
+
+
+
+hat can be reasonably expected of a 
+member Current suggestions for 
+lion and tenure at IPFW, although 
+rea is traditionally a "faculty 
+
+nd are so absurdly stringent thjat 
+1 pull will obviously determine who 
+Is and who fails if they go into effect. 
+
+
+
+iltemptingtofru 
+
+o make budget a 
+
+o faculty membi 
+
+Collegialily h; 
+
+
+
+enot perfect instrumer 
+
+.n the flexibility that r 
+' (although this is not 
+
+
+
+together Mei 
+beginning of tl 
+
+
+
+misleading fact that the state legislature 
+had approved a 9 percent salary increase. 
+Not only did this represent less than the cost 
+
+
+
+below the 1967 level), but this 9 percent was 
+
+' . Traditionally faculty salary increases 
+.are determined on the basis of "merit." This 
+/s a good theory, but in practice it has been a 
+political tool-used by non-union employers 
+everywhere to reward workers who "go 
+
+those who cause trouble. Some improve 
+
+committee, although created by the 
+
+
+
+"c-ollegiality." Rather, the choic 
+
+
+
+Govrinei Rowen has taken a 
+
+
+
+COMMUNICATOR 
+
+
+
+Announcing a new 
+lU-Purdue program 
+which trains you for 
+
+management 
+before you graduate 
+
+
+
+Many jobs you'll find as a 
+college graduate are designed to 
+develop your basic management 
+skills. And often require a year or 
+more before you get any real 
+supervisory responsibility. 
+
+Army ROTC gives you your 
+management training up front... 
+while you're still in college. Then 
+challenges you with instant respon- 
+sibility in your first job as an Army 
+officer. And starts you out at over 
+$10,000 per year. 
+
+And now, lU-Purdue offers you 
+Army ROTC courses on campus. All 
+current freshmen and sophomores 
+are eligible. 
+
+Sophomores: you must apply by 
+April l for a special six-week 
+summer program at Fort Knox, 
+Ky., where you'll prepare, mentally 
+and physically, for advanced ROTC. 
+
+
+
+You'll earn over $500 while you're 
+there. And incure no obligation until 
+you register for ROTC in your junior 
+year. It's then you start earning $100 
+per month (up to 10 months per 
+year) for your last two years at 
+lU-Purdue. 
+
+Freshmen: you can pre-register 
+for ROTC this spring and double up 
+on 1st and 2nd year courses next 
+year. Again with no obligation until 
+your junior year. 
+
+Veterans: if you have two or 
+more years of college remaining, 
+you already qualify for advanced 
+ROTC and may pre-register this 
+spring. 
+
+For details, see your academic 
+advisor or contact Major Dick 
+Reinholtz in Room 288F Neff Hall or 
+call 482-5416. 
+
+
+
+Army ROTC finf 
+
+Learn what it takes to lead. v *— 
+
+
+
+
+••••••••••••••••••• 
+
+
+
+Thura. Feb. IS. 1976 
+
+
+
+
+rTALENT SEARCH 7^ 
+
+
+
+{jLUjtUi JT U1J.1 I SANDUSKY OHIO 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE'S FINEST PIZZA 
+GRlHDCRS 
+BROASTED CHICKEN 
+
+SAUSAGE RqLI-S 
+
+
+
+MONDAYS « THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+
+GET DOWN 
+
+GET DOWN 
+
+GET ALL THE 
+WAY 
+
+
+
+Court upholds mandatory fees 
+
+
+
+THE 
+
+CLR//1FIED/ 
+
+
+
+the Washington Suprer 
+
+case brought against thi 
+sity of Washington t 
+conservative students. 
+
+had argued that they si 
+the student govenment s 
+
+
+
+plaintiffs' rinhis ;ie;iir 
+traditional need and dest 
+
+
+
+legality of 
+;nditure 
+fee funds « 
+
+
+
+for rulings on the legali 
+
+several specific expenditures- 
+
+allegedly used 
+
+Washington attorney familiar 
+
+questionable expenditures took 
+place, guidelines and review 
+procedures have been imple- 
+
+impruper expenditures. 
+
+"The guidelines are just 
+window dressing." says the 
+plaintiffs' attorney, Richard Sa- 
+unders. "They (the UW adminis- 
+tration! don't do anything to 
+oversee that the student program 
+is balanced. They leave it 
+
+
+
+h they disagree," said the 
+
+,V istuiii'iil government i is 
+•tally unchecked in its use of 
+fees nundiliiriK exlr.Kleil 
+
+
+
+■ASUWfonsiitiition and get n 
+1 enrolled students they have 
+
+
+
+'N /* 
+
+
+
+
+Bodies 
+for sale. 
+
+
+
+Come in and take a picture yourself using our new CANON 
+FTb's. Bring along your favorite model or just shoot a still here 
+ie store. To give you the whole picture, so to speak, we'll then 
+i develop your Fre 
+
+
+
+Roll or Bla 
+
+Film inou 
+(you're \ 
+
+
+
+nd White 
+iur dark room 
+welcome to 
+ind you'll see 
+for yourself how easy it 
+iStouseaCANON FTb. 
+Demonstrations at both 
+orgetown and 
+Wells Street stores. 
+
+ck Kimbler the 
+
+
+
+Street sti 
+
+
+
+! to \ 
+
+
+
+ny questions you 
+light have concerning 
+
+CANON products and 
+
+useage. 
+
+
+
+WE'RE DEMONSTRATING! 
+
+Wednesday, February 25 All Day 
+Both Locations 
+
+Canon BODY L , 
+
+ISJU-nnJjg only $192.00 
+
+
+
+
+Oameira 
+
+
+
+EUROPE 
+
+teMMsr 
+
+
+
+Bridge league to 
+I conduct tournament 
+
+
+
+RESEARCH 
+
+FREE CATALOG! 
+
+
+
+Ruth McConneil 
+
+iruy Columbia City, form 
+isidenl of the League a 
+
+
+
+Best -selling Paperbacks 
+from Follett's Bookstore 
+
+
+
+1. Bugliosi: HELTER SKELTER 1.95 
+
+2. Hirschfield: ASPEN 1.95 
+
+3. Hoffman: CROCKERY COOKERY 1.95 
+
+4. Morgan: TOTAL WOMAN 1.95 
+
+5. Smith: EAGLE IN THE SKY 195 
+
+6. Heller: SOMETHING HAPPENED 2.25 
+
+7. Paul: PHOENIX ISLAND 195 
+
+8. Rogers: DARK FIRES 195 
+
+9. Jakes: THE FURIES 1.75 
+10. Thompson: TATTOO 2.25 
+
+
+
+foll e tts 
+bookstore 
+
+GROUND FLOOR KETTLER HALL 
+
+
+
+It takes two hands 
+to handle a 
+(W)hopper! 
+
+
+
+Try our Leap 
+Year Special. 
+
+
+
+■•College admin- anything 1 
+
+
+
+
+Leap Year Special. 
+
+
+
+Buy one Double Meat Whoppe 
+
+Get one Double Meat Hamburger FREE. 
+
+
+
+Have ft, 
+
+r/^tvavs* 
+
+
+
+THE 
+CflLEflDAR 
+
+
+
+Sunday - 22 
+
+Monday - 23 
+Wednesday - 25 
+
+
+
+PIT musical to 
+celebrate America 
+
+
+
+musical comedy, presented by reographed by Larr 
+
+
+y Life, 
+
+
+highlight the sixth annual Ind- the local campus, tl 
+iana University Women's Day features three performe 
+
+Sponsored by the IU Alumni dance some of the bes 
+Association, the program will numbers from famous A 
+
+
+..SylvKI 
+
+
+Student Union ballroom. Follow- The Women's Day 
+ing the noon luncheon. IU tee is composed of t 
+
+the hour-long PIT performance of Coulter, Anita Lamo 
+"Bicentennial '76: A Salute to the McComb, and Patricia 
+
+
+3 
+
+
+Prison ed center 
+
+
+
+
+needs instructors 
+
+
+
+
+A newly established Center "academic year. 
+for Prison Education Develop- Teaching experien 
+
+
+...«■. 
+
+
+Bloomington is recruiting instru- instructors must own an 
+ctors to leach undergraduate bile or have access to tra 
+
+
+n"£™: 
+
+
+
+polis. the Indiana Youth 
+in Plainfield. and the 
+Reformatory at Pentlle 
+
+
+
+of all 
+
+
+
+ROTH, WEHRLY, HEINY, Inc. 
+
+Invest in your future and let I PFW 
+Grad Bob Hudson help select a home 
+for you. Stop in and see our photo files 
+at our newest con- 
+venient location 
+the Market Pla 
+of Canterbury, o 
+call 486-2411 o 
+447-2661. 
+
+
+
+
+
+In Revleuu 
+
+'Barry Lyndon' a superb movie 
+
+
+
+n lacking in this 
+y Lyndon," a film by 
+
+
+
+w expected at th 
+o acknowledge tt 
+
+i&gt; suffice to say Ih 
+
+
+
+j II v 
+
+
+
+I, for Kubrick would nol 
+Vt settled for anything less. As 
+u might have assumed by this 
+int, I am very fond of Stanley 
+ibrick's ability to create. 1 
+
+
+
+
+
+
+Scotsdale meets the needs of the 
+woman with ah unplanned pregnancy. 
+
+
+
+Compassionate counseling 
+by people who care. 
+
+
+
+Jbys 
+
+
+
+i dele 
+
+
+
+Barry and Lady Lyndon (Ryan O'Neal and Marisa Berenson) ride in a carriage in (his s 
+from Stanely Kubrick's "Barry Lyndon." The movie is based on a novel of the same nam 
+William Makepeace Thackeray. 
+
+
+
+URF to present 
+'Hearts and Minds' 
+
+The University Religions es interviews photographed spc- 
+
+Forum IPFW will be presenting cifically for the project. "Hearts Director-Co -Pro due. 
+
+"Hearts and Minds," the Acad- and Minds" includes interviews Davis, who also made tl 
+
+emy Award winning feature with General William West more- Award winning "Selli) 
+
+documentary produced by film- land, former Secretary of Defen- Pentagon," says of "Hi 
+
+
+
+i,iu ImnltT 
+
+m. it would 
+e chain of 
+
+■I |irvv. ili.nl 
+
+
+
+.TlltlTIIIl'll! Ill Wt'Jllth illKl It 
+
+
+
+technique . 
+The sound track utilised in 
+"Barry Lyndon" is also very 
+effective. For all of Its mystical 
+beauty and simplicity, it will 
+haunt your memory for a very 
+
+
+
+Extreme atk'iitum should h 
+focused on the eandlelighl seem 
+of the film. Through the use c 
+specially designed lenses, l 
+
+
+
+charm of thai p:n-ticul;ir period taeliireu hy Carl Zeiss West, 
+Yet he never fails to interject that filmaking first has been acconu 
+human factor which Hives to us a 
+focal point to relate to. "Barry 
+Lyndon" is not a swashbuckling 
+story of heroics, but a tale of one 
+
+
+
+The scenery Is 
+nd the colors are 
+feel that the film 
+is creativity, is 
+real experience to 
+
+
+
+r Davis and E 
+
+
+
+eider Sunday, 
+
+
+
+n attempt l&gt; 
+
+
+
+Young vision series 
+at art museum 
+
+
+
+ndersland what 
+
+nd what we have become. It is 
+i psychological than polili- 
+and it is not a chronology of 
+
+people's feelings." 
+
+Co-Producer Bert Schneider, 
+who also produced such highly 
+
+
+
+Geoffrey Holder 
+here February 1 9 
+
+
+
+Wayne visiting Professor at Yale Univc- 
+•sity's School of the Drama. 
+
+He has combined his ti 
+nost recently in the hit Brood- 
+
+
+
+ATOUeH 
+
+cRySSELL 
+
+- aa\ "HARRY 
+
+REEMS 
+
+™ +b STEVENS 
+
+
+
+plus ' 'Broccoli Patch ' ' 
+
+Feb. 20 to 26 
+
+Couples Always Welcomel 
+
+Shows continuous from 1.-00 am 
+Last complete show starts 8.O0 pm. 
+
+
+
+
+
+2441 Broadway 456-8804 
+
+
+
+| ALL CINEMAS EVERY DAY $1.25TIL 2:30 1 
+
+
+rTM/w;i',v»T*]-&gt;iifl^m 
+
+
+tanley Kubrick's 
+
+BARRY LYNDON (PG) 
+
+
+
+
+CEI533B!£5C3EilS^3 
+
+
+Diana Ross "MAHOGANY" (PG) 
+
+
+„„,„;„:»,.,« 
+
+
+r.V.i'iiih.-i'.'.'JuVTI 
+
+
+FINALWEEK 
+'GRIZZLY ADAMS" (G) 
+
+
+"»*"™™ M '» 
+
+
+
+NOW SHOWINGI 
+
+
+
+
+^^rlH6 Man Who Would Be King 
+
+
+
+fclMttMibfttitslMltoiaDfclHtostsUa gc]«s&gt; 
+Daily at 2:00-4:30-7:00-9:30 
+
+
+
+
+We service 'em all 
+
+
+
+TELRAD is this area's complete 
+electronic service shop. Beside's 
+authorized factory service on 
+Magnavox, RCA, Admiral, Sanyo, 
+Lloyd's, Juliette, and many others, 
+we have the facilities and staff to 
+handle any job you would have... 
+fast and economically. 
+
+With our experience in audio 
+equipment the only line we 
+choose to sell is Magnavox's 
+line. Stop in and we'll show you 
+why. 
+
+
+
+
+LUNCH 
+
+^Moble^pmaits 
+
+
+
+7y\""j "Lily; an Italian Vacation for jour mouth!" 
+
+
+
+Rd. (Near Georgetown Squar 
+
+
+
+MARSHA MELLO 
+and 
+KANDI KISSES 
+
+
+
+
+exotic shows nightly 
+Mon.thru Sat. 
+
+
+
+Special celebration 
+AAon. thru Thurs. 5 pm -6pm 
+
+Open l&gt;:00am 
+to 3:00am 
+
+
+
+
+
+'! .Tin: Uimni unif.ilor 1 
+
+
+
+Tuskers advance to record 13th win of season ... 
+
+
+
+Mastodons in double figures, ; 
+
+breaking 13th win of the scaso 
+an 86-77 verdict over IU Gary la 
+
+Wednesday evening at the Co 
+
+
+
+the hustling Gary squad In the 
+second half after the visitors had 
+cut the lead to five. 
+
+The Mastodons hit a fantastic 
+
+minutes, es they jumped oul inlo 
+
+
+
+a different variety. At 7:48 Meyer 
+
+
+
+st half wi 
+
+IU Northwest emerged in II 
+second half with vengeance ( 
+their mind, as they played wi 
+determination, outhustling 11 
+Tuskers in all aspects of It 
+
+
+
+■ I.i.-viMltk;. h. 
+
+
+
+hand by a 
+
+
+
+began run 
+allowing tl 
+
+
+
+i :-;,„■! 
+
+
+
+n around as Meyer 
+
+
+
+"I never /aw /o many 
+different kind/ of Jean/ In all 
+my life, and at dkount price/, 
+loo!' 
+
+
+
+Glenway 
+
+Bargain 
+
+Center 
+
+
+
+
+3820 Coldwater 
+
+across from Ayrway north 
+
+next to the new Sambo's 
+
+
+
+OPEN EVENINGS 
+
+
+
+SUNDAY 12 9 
+
+
+
+CLEARANCE SALE! 
+
+ON ALL FAMOUS BRAND GOLF EQUIPMENT 
+
+everything at 
+
+COST 
+
+plus 10% 
+
+
+
+
+20% OFF 
+
+
+
+OFFER GOOD THROUGH 
+FEBRUARY 28th 
+
+DJ's Court &amp; Sport 
+
+IN GEORGETOWN SQUARE " 
+
+
+
+
+NEW! 
+
+MCE MAXI-MINI 
+
+THE LATEST MAXI MUM TUK POWtR WITH 
+MINI-MUM S1ZI 
+
+
+
+
+up)) 
+
+
+
+t Communications, 
+
+
+
+m\ 1 CORT WAYNE 
+
+^ I 1 ELECTRONICS 
+
+
+• 
+
+
+
+I SUBSIDIARY OF GRAHAM ELECTRONICS 
+IN THE GLEMBROOK MALL 
+
+
+
+.but lose 14th chance to Huntington college 
+
+
+
+d Hummel completed a 
+
+
+
+nisfortune in the second fram 
+intil the hustling Tusker secon 
+tring began to bring the visitor 
+
+
+
+age 6 points during that 
+II, and a desperate 
+t attempted ignited by 
+
+j having 
+
+
+
+Hockey team defeats iU 7-5, 
+comesbackinlast 10 minutes 
+
+
+
+■ ,.|a. 
+
+
+
+null! ; 
+
+
+
+
+
+
+;ame after t) 
+
+r lll'.'ki'il ,JW:j 
+
+
+
+W hockey 
+
+
+
+11 :47 to go in the first period. 
+team defeated After a flurry of activity around 
+'niversity, 7-5, the 1PFW goal, Don Wells, with 
+ul at Gunnar .in assist from Petro, slipped the 
+Friday night, puck past Masty goalie Rick 
+paced by Bob Wynn. The Maslodons had two 
+
+
+
+e period. 
+
+
+
+i Faili 
+
+
+
+Did you know the 
+color of your baby's 
+eyes is determined 
+
+at conception? 
+
+Want to talk? 
+
+
+
+Thompson put the Tuskers u 
+
+
+
+icCampbell tacked • 
+
+
+
+second period. Mike r 
+
+
+
+later, Tom Tracey burned tl 
+Hoosier goalkeeper unassisted ; 
+the Masties regained the lear 
+4-3. With eight ticks left on tr 
+clock, Tracey again peppered tl 
+puck past the IU goalie with a 
+assist from Dick Zimmermat 
+
+
+
+ipson, then staged 
+their own. With 
+
+1 help from Mike 
+
+
+
+behind the Masties' goal, the 
+goaltender was relieved from 
+duties. Bob Thompson prom- 
+ly gained his hat trick and put 
+
+ms by slapping the puck 
+
+
+
+friendly confines of Gunnar Elliot 
+precede the affair at 9 p.m. Face 
+
+
+
+LIVE ^ 
+
+IN CONCER T! ^ 
+
+MWMMWMWBWM* WW Hi — — — ' 
+
+
+
+BICENTENNIAL GREATS! 
+
+
+
+Appearing in Concert at the 
+
+EMBASSY THEATRE 
+
+"The Most Explosive 
+Force in Jazz" 
+
+COUNT BASIE 
+
+AND 
+HIS ORCHESTRA 
+
+
+
+
+Wed., March 3 at 8:30 p.m. 
+TICKETS: $5, $6, $7, All Seats Reserved 
+
+
+
+
+Wednesday's 
+12:30p.m. 
+Kettler 243 
+
+
+
+</pre>        </div>
+      </div>
+    

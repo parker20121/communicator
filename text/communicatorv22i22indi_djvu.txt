@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i22indi/communicatorv22i22indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i22indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i22indi">The Communicator</a>"
+          </h1>
+          <pre>
+—Quote of 
+the Week- 
+
+
+
+ProfeSSOr writes book on first 
+all black radio station Page 5 
+
+
+
+
+
+
+People, pets, intrapersonal style Page 3 | 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 22 
+
+
+
+Indiana University-Purdue University at Fort Wayn 
+
+
+
+i. n&gt; I, ;, l»&gt;| 
+
+
+
+Gulf 
+
+
+
+ids 
+
+
+
+INFOGRAPHS 
+
+
+
+Measles vaccine 
+available 
+
+
+
+
+
+
+Election volunteers 
+needed 
+
+
+
+[ Snyder, student body [ 
+
+
+
+Weight Watchers 
+
+
+
+Opera performance at 
+IPFW 
+
+
+
+Mu.lcnls ll'I'W activity card 
+lo'. i.'i.'iih.i, contact the music de- 
+
+Volunteer, make 
+money 
+
+ll'RW dental research group 
+needs volunteers to take part in 
+
+
+
+Adult CPR class 
+
+
+
+Women's History 
+Month events 
+
+Former Harvard professor 
+
+
+
+Fitzgeralds and The I 
+speaking March 26 at ' 
+
+
+
+Political future 
+bright for Bush 
+
+
+
+.Ml/ ■'lie u.v. willllli: lo tlrl.-l'.ilr . 
+
+According In White House sourc 
+
+
+
+
+i/Es Rape Awareness Week instituted 
+
+
+
+
+
+
+harm than good for the United States, is sponsoring t 
+
+
+
+SludenLs' tiovernment. 
+
+
+
+According to the 
+
+
+
+vill strengthen." Uni 
+
+
+
+iii-'AiH iii-i.-il fi i ■' »-~ mlti-m.-- 1'i'oplt 
+
+
+
+
+
+
+Enrollment increase, funding decrease creates educational crunch 
+
+
+
+|-n.|m,,.&lt;l l,iifl|-.rl ,i . ■■■i;;,miikp j||(j| . r . |(j| 
+
+uburn sees the relationship be- (hey can U 
+
+
+
+TOTAL ENROLLMENT °5SX 
+Source: IPFW Office ol the Registrar 
+
+
+TOTAL CREDIT HOURS ENROLLED \ZyTyon 
+
+
+FALL 1 
+
+
+fall r~ i*, 66 , 
+
+
+
+
+
+
+1 F 990 C 
+
+
+r^ L I ZJ 
+
+
+"srUSi Ik"! J.„ 
+
+
+TrBS^HH- 
+
+
+s ^ e « II I IIIIIIIIIIIIIIIIIIIIU 
+
+
+«»«lllllllllllllllll!lllllllllllllllllllllltllllllllll — 
+
+
+1 1 1 1 1 1 ! 1 1 1 ? § ? ? ?• 1 
+
+
+BSfs'Sffss'sasssssag 
+
+
+
+.'/"'!'„, 
+
+
+ecause they were full," said 
+st year only 31 percent 
+
+
+"Opporlu 
+
+
+op accepting new st 
+
+
+H 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+Communicator 
+
+
+
+|uw Mm I ■ 
+
+
+
+Kelli Beery Allen Smith 
+
+Copy Editor Photo Editor 
+
+Dan Hyde John Gruse 
+
+
+
+ing Manager, Graphics Editor 
+
+
+
+
+
+
+
+
+
+^ 
+
+
+
+Just Say Whoa 
+
+Law enforcement tactics 
+
+result in 'witch hunt' 
+
+
+
+::;;!; 
+
+
+
+? gulf war. We need t 
+
+
+
+craze and Hie current drug war. The analogy i 
+
+' exactly neat. After all, drug abuse 
+" is doubtful however 
+
+
+
+represents a re;tl problem in our society, 
+[luil any &lt;&gt;l the people ronvieled of moonugm i 
+were actually guilty of practicing witchcraft, 
+ends there. 
+
+Neither system is truly interested in eliminating the problem 
+hut Hither server to promote I lie illusion of one. 
+
+Between the ISth and 17th centuries, the peak years of the 
+witch hunt craze, an estimated half million people were con- 
+victed, and mam were executed tor I he ei ime of witchery. How 
+could o in, m\ people he uii.juslly eonvielei!'.' There was a prnlil 
+to be made. The Church/Male only funded witch hunters who 
+ice in eradicating the 
+, they arrested people 
+
+
+
+
+New look for rooms 
+
+Group hopes to improve learning environment 
+
+
+
+perpetuating I 
+How is that 
+
+coupons in a 
+
+
+
+3 cycle of more money for more 
+ke the drug war? In Warsaw, fi 
+fleers have taken to placing 
+cal newspaper in order to mail 
+
+
+
+them. Thus, 
+
+
+
+Wayne also boasts IPFW take 
+
+
+
+The Anthropology Student Organi- ing called The ToweY of 
+
+
+
+Learning, all Japanese, 
+
+
+
+Pittsburgh. Each classroom i 
+
+
+
+perpeluale,] 
+
+
+
+ludgct. Just like the v 
+perpetuate the proble: 
+
+"andthe'mo ""' 
+
+allotment I 
+
+
+
+The Classroom Medical 
+
+
+
+
+
+
+lit nip, (he drug war is SIOO.OOO in 
+excess ol (he existing police operating budget. After years of 
+receiving sue)] mnuuie local governments are not likely to give 
+up siim.uiin ot their budgets bv claiming victory in the drug war. 
+
+These "Clip 'n Narc ' coupons, which instruct the bearer to 
+turn in any suspu n&gt;n . neighhoi ■-. .-.hew the dangers of putting a 
+profit in modern day law enforcement. How? Innocent people 
+could he damaged by overly suspicious neighbors. 
+
+If the intent of the drug war is not to " 
+abuse, then what is its purpose? Like the 
+the middle ages, we are being handed i 
+rather than keeping an eye on our g&lt; 
+
+mylhing other than devilish misdirection, then 
+
+program would acknowledge tile real disease which plagues OUT 
+society Unemployment, poverty and tack of education about 
+mind-altering drugs are the diseases of which 
+merely a symptom. 
+
+
+
+■ painting into the faculty 
+
+
+
+Officers' 
+
+
+
+Smoking lounges are unnecessary, unfair expense 
+
+
+
+
+Opinion ' 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Abortion laws 
+
+Writer questions Bells' claims 
+
+
+
+
+
+
+really happened to Becky 
+(or sure). Beckv lull v. a- know 
+
+
+
+cial bypass. The I 
+
+
+
+vmina "oiri-c Heaih is cvnin.iprf hv "kely indiKvd j im-. ;&lt;n i.&gt;v DthiT have court permission for th 
+
+
+
+- who only wish to further 
+
+
+
+really concerned about 
+
+
+
+young girls and their relationship 
+
+
+
+Win ■.'.uiil.1 Becky have an illegal gers n 
+
+
+
+Nursing student calls abortion murder 
+
+
+
+knifes, hurn-nut ."lnn-m- .1 
+
+
+
+ic, 1 am sorry for the aboul despenlch irimi.; 1 
+r daughter Becky Bell the killer. We as a peopl- 
+11 an illegal abortion. I nation need fo deal with 
+
+
+
+lis l,„&lt;h I 
+■■ In 
+
+
+
+Button pushers exemplify 
+lazy American attitude 
+
+
+
+in solving the basic 
+
+
+
+Animal research has value l&amp;iKiS. V 
+
+™^rTiz S^^rsS-tisK ' PREGNANT? 
+
+
+
+
+Fan bashes review of 'Master Harold' 
+
+
+
+Boys," left me feeling bitter, Sam 
+
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+Kitty litter 
+
+Cats parallel human shortcomings 
+
+
+
+
+
+Attention 
+Indiana 
+University 
+Students! 
+
+
+
+The Trustee Selection Committee of Indiana 
+University is seeking currently enrolled students to 
+serve on the IU Board of Trustees. 
+
+Applications are available to interested students 
+at the Kettler Hall Information Desk and in 
+Students' Government Offices, Walb Suite 225. 
+
+Applications must be received by the Committee 
+by March 15, 1991, to be eligible. A selection of 
+candidates will be interviewed by the committee. 
+Application status will be sent to all candidates by 
+April 8, 1991. Interviews will be held in 
+Indianapolis, on Friday, April 12, 1991, with a 
+projected selection made by April 19, 1991, which 
+will be sent to the Office of the Governor of 
+Indiana for final review and appointment. 
+
+For more information, stop by Students' 
+Government or call the office at 481-6586. 
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The Underground 
+
+Under the Landing in 
+
+
+
+Street Wesl 
+
+This Sunday: Jill MacPherson 
+
+&amp; Kathy Wesl/Two Penny 
+
+Hangover/Adverse Yaw and 
+
+Zlo Fisher 
+
+
+
+If you think you re all 
+
+alone... your not! 
+
+We deal with the 
+
+problems of unplanne 
+
+pregnancy everyday. 
+
+
+
+When you tyvc blood 
+you give anolhci hinhd.iy 
+
+anotlier;inni\ers:ii)i 
+
+another talk witJi.ilrinkl, 
+
+anotlier iaugli, 
+
+anotlierliug, 
+
+anotlier cliance. 
+
+
+
+CORK-N-CLEAVER 
+
+Now accepting .ipplic.i 
+
+es, busboys, hostesses 
+and day and evening 
+broiler cooks. Apply in 
+person between 2 and 
+4 p.m. Monday I liil.ty 
+Fun and professional 
+atmosphere. 
+Experience required. 
+484-7772 
+
+
+
+NFOGRAPHS 
+
+
+
+Queen of Black Theater' to come to IPFW 
+
+
+
+
+history and political s 
+
+
+
+Calhoun Street. People whi 
+
+
+
+Midday diversion 
+
+
+
+Women's history celebrated in March 
+
+
+
+Zetkin, a pletely vanished with t 
+
+
+
+:,iifl rvrnl.s, Wi.rni-n • Hisl,.r&gt; 
+
+
+
+ten's Day actually 
+■ Socialist Party in 
+
+
+
+ATTENTION 
+
+
+
+x# 
+
+
+
+o** 
+
+
+
+gtUBEHTS S FACIJt,.,, 
+
+.DOMESTIC 
+
+
+
+, 1 1 'i ii m -.- 
+
+FACULTY) 
+VALID ON 
+
+
+
+
+&lt;@ BOSCH 
+
+
+
+With over 30 years technical experience we can service all makes of 
+import vehicles from Audi to Yugo and those in between. (We also have 
+over 50 years experience on American cars.) We guarantee it! From 
+electrical to heavy mechanical work •- WE DO IT ALL! Let's get 
+acquainted today! 
+
+INTRODUCTORY COUPON OFFER 
+
+n r™ 
+
+
+
+ELECTRONIC TUNE-UP \ 
+
+reg. *49*° 
+$0/190 6«8cyl. 
+
+\J^4cvt slighllymor 
+
+
+
+COMPLETE OIL LUBE 
+SERVICE 
+
+
+
+&gt;13 90 
+
+
+
+1 1 ^ 
+
+
+
+vvun coupon inru .wj-si , . \ 
+
+
+
+i coupon thru 3-23-91 
+
+
+
+COOLING SYSTEM &amp; 
+
+RADIATOR SERVICE 
+
+$3490 
+
+
+
+
+Call 436-64 00 for appointment 
+
+
+
+TIME CORNERS 
+
+5825 Covington Road at W. Jefferson Blvd. 
+HOURS: M-F 8 to 6, Sat. 8 to 2 
+
+
+
+Computerized Car Care 
+
+'DISCOUNT MAY NOT BE USED WITH COUPONS OR OTHER SPECIALS. 
+
+
+
+Scholarship 
+
+available to IPFW students within 
+the next couple of years, according 
+
+
+
+ili If .i.-MUllrd ■-["'&gt; llh.Mll&gt; 
+
+
+
+most probably attending I 
+
+
+
+
+
+
+oing Adults are presenting e 
+
+
+
+M,ir.ii -.ft., has a presentatic 
+
+
+
+t Group's reading of 
+Confederate Widow 
+i Gurganus will take 
+
+According to Dilorio, a special 
+women's magazine, "Bloomer," fea- 
+
+will be published during the month. 
+
+room Medical Building Room 272. 
+window display featuring a significant 
+
+
+
+changed else thi 
+
+
+
+Intimacy 
+a casualty 
+of battle 
+between sexes 
+
+
+
+sion and dating. 
+
+Learning to Live with conflict in 
+
+gression and conflict management, 
+
+
+
+:ipants eventually realiz 
+
+
+
+New constitution ratified by senate 
+
+
+
+.L-ni.- (luVL'tmiuni Ps-i-sidi-nt .\ 
+
+
+
+1 Government. The vote 
+
+
+
+ting for this change for a long 
+
+
+
+The third addition allows for SAB t« 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Classifieds 
+
+
+
+CLASSIFIED HATES Displays 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"'"- 
+
+
+
+
+
+
+
+
+
+
+'!!; 
+
+
+
+
+
+
+
+
+
+-Textbooks for Salo 
+
+
+
+tmSrn 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Professor reflects on radio days 
+at first all black music station 
+
+
+
+B&gt; MM U M KF1! 
+
+
+
+
+wm station went from being a tiny : 
+
+
+
+Cantor said he enjoyed \ 
+
+
+
+Memphis, Tenn., Cantor saw 
+
+programming revolutionized ai 
+
+
+
+jt WDIA is scheduled to be in ■■ 
+
+
+
+
+n the air as was the first to do all 'b 
+
+
+
+
+£coi/ts 
+Were. a.Her 
+
+because of 
+
+5 lie.. 
+
+
+
+interest 
+CaolUvhen 
+
+When Scouts 
+
+. discovered 
+
+
+
+cite. Itnj 
+a res y/ra£ 
+
+his H use 
+
+head. 
+
+
+
+
+tej,W«fck { 
+
+UMwfov 
+
+
+
+M 
+
+
+
+fJi* fiat -ffme '" ksUf 
+fUt every TV m campus 
+
+
+
+v U«Von 
+^ Hie Otf I 
+
+
+
+ys 
+
+
+
+Goldwater grants 
+
+IPFW students up for 
+
+academic scholarships 
+
+
+
+I was rriilly pl.'.isr.i v 
+
+
+
+Ilaymcr and James 
+e bolh planning to atlci 
+
+w)l. Allhrnighllio Iw.mi 
+
+
+
+Barry will be notified a 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW all of the 
+above rewards can be acheived MuHipli' M-hi.l.ir-lnp- ■.\iU In 
+awarded by the parent Fort Wayne local American Production 
+and Inventory Control Society Chapter, at the regional 
+$500.00 grant, and at the national * 
+gift will be given. ' ' 
+
+
+
+00 educational 
+APICS topic 
+of inventory control, production activity, J.I.T., 
+M.R.P., systems resource management, or planning and 
+forecasting can win a cash reward. Your faculty advisor can 
+help with recommendation and these scholarships will be based 
+on each students need and ability. All papers need to be turned 
+in by March 15, 1991. So come to our monthly meeting every 
+third Thursday at 6 P.M. in Walb Union Room 222 and meet a 
+practicing professional face to face. Learn how an APICS 
+open employment doors for you. For further 
+
+
+
+certification 
+
+info see your faculty 
+
+485-3387. 
+
+
+
+rcallJohn at 493-4311 c 
+Thanks! 
+
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+SUMMER RECREATION ASSISTANTS - Ni 
+summer. 2-4-G-5. 
+
+Be sure lo attend the Summer Job Fair on h 
+
+
+
+
+INDIANA UNIVERSITY 
+PURDUE UNIVERSITY 
+FORT WAYNE 
+
+
+
+
+AT SERA TEC WE 
+
+DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+THAT'S WHY WE... 
+
+
+
+• Use Sterile, Disposable Equipment 
+
+■ Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise - Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+
+• Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED PLASMA 
+
+EARN S 2S°° A WEEK DONATING PLASMA 
+
+
+
+NEW d» 
+
+DONORS * 
+RECEIVE 
+
+
+
+10 
+
+
+
+SERA TEC BIOLOGICALS 
+
+921 Clay Street 
+Fort Wayne, IN 
+
+
+
+CALL OR STOP B' 
+TUES.-FRI. 7AM.-»M 
+
+CLOSED MON. 
+NEW DONORS 7 A.M.-; 
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the kind of friend a 
+college student needs. He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like a good deal to you, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+
+
+Fon\ 
+
+NATIONAL 
+
+that's my BANK 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Athletics, academics at IPFW 
+
+
+
+
+
+
+U'.iyii'' iinrl Indy, we've been 
+
+
+
+II ri.Jr '■ 
+
+I II'KW l)v [nhTcollc[.',i;ilf 0|ht 
+
+I'. Hwl|.;.'l li.i-. n-ir,, |,orn -lui.^' 
+
+
+
+iji|)l''iii''iit'-'l wild -*i l»;ir.rd 
+
+
+
+Lady 'Dons 
+drop a pair 
+on the road, 
+finish at 19-9 
+
+
+
+successful season for the IPFW Lady 
+
+
+
+
+Volley dons' streak at 5 
+
+
+
+Sophomore Quorum -. [ m . ■ ^. ■ J k I 
+
+he IPFW VollejH.inj ,i r .(,|,„| ,i, Vollev*™ »-ith eight kills 
+rung streak to five with three The next night IPFW beat Mr 
+
+"eIed Fei to "o'lumbili, ^h^and Milwa ^«i"'the Alhletic&amp;nler. 
+
+? ball teSon'freOhirfltate "^W*" &gt;™« to™ IPFW i) 
+
+tour games. 9-15, 15,10, 15-11, jjjjf M anli ,n ,lrSl place ln ' 
+
+ie Ball. "This is the competition match road W P tomorrow. The fi: 
+
+lavetobeat." sto P 1S prov °. ut ■ on Saturday 
+
+mor Tony Luhning led the face Brigham Young Universil 
+
+eydons over the Buckeyes with IPFW defeated BYU earlier tl 
+
+tike added 22 ' kills "3" eight On March 12, the Volleydo 
+
+ks. attempt to repay University 
+
+i March 1, IPFW hosted a non- Southern California for defeat 
+
+erence match against Tri-State home on Jan. 26. USC is the NC/ 
+
+/ersily. top-ranked team and is the defending 
+
+10 
+
+
+
+p&gt; 
+
+
+
+i -'■,:„„ ,,l NKt' Ihe \" 
+
+
+
+JW ^J&amp;a 
+
+
+
+9*** 
+
+
+
+
+
+HUB 
+
+
+
+American 
+Red Cross 
+
+
+
+24-HR 
+
+M 
+
+HERE! 461-6318 
+
+
+
+pari- 1 
+
+
+
+Updated weekly, JOBLINC offers you access to our current 
+job openings, 24 hours a day, seven days a week. We 
+have exceptional career opportunities available for the 
+right person, with unlimited growth 
+potential. That might well be YOU. 
+
+
+
+Why not give us a call TODAY, or stop 
+
+by any one of our many banking centers 
+
+and pick up a JOBLINC card. It could be 
+
+the beginning of a mutually rewarding "UNCOLN" 
+
+relationship. NATIONAL 
+
+An Equal Opportunity/Affirmalive Action Employer BANK 
+
+
+
+n 
+
+LINCOLN 
+
+
+
+Indiana University-Purdue University 
+at Fort Wayne 
+
+
+
+Student Directory 
+
+1990-1991 
+
+
+
+
+Provided by Students' Government 
+
+
+
+Now available in Walb Union 
+
+Sweet Shoppe. 
+
+Available Monday in Folletts' 
+
+Bookstore, Kettler Hall. 
+
+
+
+</pre>        </div>
+      </div>
+    

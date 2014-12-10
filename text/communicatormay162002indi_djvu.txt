@@ -1,0 +1,2779 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatormay162002indi/communicatormay162002indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatormay162002indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatormay162002indi">The Communicator</a>"
+          </h1>
+          <pre>Thursday 
+May 16, 2002 
+
+
+
+The 
+
+
+
+Communicator 
+
+Indiana University — Purdue University Fort Wayne 
+
+
+
+Student Housing Initiative 
+
+
+
+Site Design 
+
+
+
+Pending nnnnctng. the IPFW 
+Student Housing Initiative should 
+begin this summer, said Wait 
+Branson, vice chancellor for 
+FinaneinI AfTsirs at IPFW. 
+
+a plan to can- 
+struct seien residence halls, a com- 
+
+
+
+munity building and a large pedes- 
+trian bridge crossing Crescent 
+Avenue, is piojecled to be complete 
+by the fail semester or2D03, he said. 
+TTie completion date may be 
+pushed backunlil the fall of 2()(M if 
+problems with fmancing 
+
+
+
+Branson. 
+
+The huusing complex will fca- 
+luie 558 apartment style bedrooms. 
+Student renten can choose from 
+one, two and four bedroom 
+
+
+
+will develop the seven residential 
+halls and \\i\t serve as superintend- 
+ent and landlotd ofthe propeny. 
+
+Each apartment will be 
+fully furnished with chairs. 
+
+
+
+Construction on 
+jected 10 begin this su 
+financing, T^c cotnpli 
+
+
+
+the nc\v IPFW student housing comple^ is pro- 
+mmer and lo be completed by Till 2003. pending 
+:x will be located on the cost end of campus, near 
+ross fitim Crescent Avenue, A pedestrian bridge 
+sidcnts who uiih to walk to clou. American 
+Hill develop the apartment- style student housing 
+
+
+
+
+Coufoudakis served 35 years with IPFW 
+
+
+
+Esteemed professor to retire this June 
+
+.1 
+
+Iheinsli- Coufoudakis 
+
+looking forward to hearing 
+about the progress IPFW will 
+
+
+
+By Kathy Delagrangt?, Editor 
+
+Currenl Dean of the School 
+of Arte and Sciences Van 
+Coufoudakis is teliring this 
+June after 35 years of service 
+at IPFW. 
+
+"I started here when 
+Kettlur Hall was the only 
+building and there were only 
+two faculties," Coufoudakis 
+
+Coufoudakis earned his 
+Bachelor's degree in Public 
+Administration while attending 
+school in Beirut. Lebanon. He 
+
+Public Administration and a 
+Ph.D. of Political Science and 
+Intenutiunal Relaticms fn&gt;in the 
+Univei^il)' of Michigan. 
+
+After completing three 
+years of graduate teaching at ' 
+the University of Michigan, 
+Coufoudakis Kad planned to 
+go to Cotifomia to ivork as a 
+teacher, only lo suffer the 
+effects of an educahon budget 
+
+
+
+Shortly thereafter, 
+Coufoudakis came lo IPFW and 
+began his extensive invotvc- 
+menl ivith Ihe university. 
+
+MairJy interested in politi- 
+cal sdcncc, Coufoudakis has 
+focused on interna lional poli- 
+tics and posl-WWII foreign 
+policy and security policy. 
+Geographically speaking, his 
+interests lie in Southeastern 
+Europe and the Eastern 
+Medilcrranean region. 
+
+As part of his work, he 
+travels extensively through- 
+out the United Stales and 
+intertutionally, "I do a lot of 
+niy own research and am 
+often asked to give lectures in 
+the United Stales and 
+Europe." Coufoudakis said. 
+
+In addition to being dean 
+of the School of Arts and 
+Sciences, Coufoudakis also is 
+a member of the Fort Wayne 
+Intemalional Affairs Forum, a 
+
+
+
+city group on foreign policj' 
+with which heconducis a por- 
+don of his research. 
+
+"I've done a fair amount of 
+work in Washington D.C., 
+mainly lobbying on foreign 
+
+
+
+as dean where he coordinates 
+all ul Ihe programs of the 
+School of Arts and Sciences 
+and also works closely with 
+faculty promotion, tenure and 
+
+
+
+Mediterranean politics, 
+also done a lot of public 
+
+
+
+From 1981-1987, he was the 
+director of Ihe Indiana 
+University Center for Global 
+Studies where he helped allo- 
+cate grants, arrange confer- 
+ences and support faculty 
+with interests in international 
+politics. 
+
+From 1991-1995. 
+Coufoudakis served on the 
+exccuhve committee of Ihe 
+West European Center of lU 
+Blooming ton. 
+
+En 1996, he began his work 
+
+
+
+Although he is retiring to 
+Florida. Coufoudakis is not 
+plarming on slowing down 
+any lime soon. He is president 
+of the fir^t private university 
+in Cyprus, Greece. "In this 
+role, I II be working to help 
+slandan - " 
+
+
+
+IPFW grow 
+and develop 
+
+
+
+: the ii 
+
+
+
+L The 
+
+
+
+umversity has over 4.200 stu- 
+dents, one-third of which are 
+foreign students. It is also an 
+all English instruction univer- 
+sity, so this will be an interest- 
+ing chatlenee." 
+
+Althou^ he is end ted by 
+Ihe Idea of relocating and 
+beginning a new chapler of 
+his life, Coufoudakis 
+acknowledges thai he will 
+
+
+
+develop and mature, it will 
+nice to hear what happens," 
+Coufoudakis said. 
+
+In March. Indiana 
+University awarded 
+Coufoudakis the Ryan Award 
+for his contributions to the 
+university. He also received 
+an Honorary Doctor of 
+Humane Letters from Indiana 
+University at the IPFW com- 
+mencement ceremony on 
+Wednesday. May 15, 
+
+
+
+Inside 
+
+
+
+Highlights, p. 3^ 
+
+
+
+Sports, p. 7-B 
+
+
+
+Dancesport 
+offers monthly 
+dance at IPFW 
+
+
+
+Each month. Fori Wayne Dancesport and 
+the United States Amateur Ballroom Dance 
+Association (USABDA) sponsor a dance in 
+the Walb Union Ballroom. In addition to 
+their regularly scheduled dances. USADDA 
+has two special events coming up this 
+September. 
+
+On Friday, Sept. 13, Spike and the 
+Bulldogs will perform at the 'SOs &amp; '60s 
+dance m the Ballnxim. Authentic dress from 
+Ihe era is suggested, but is not a requirement. 
+Attractions for Ihe evening will include 
+music and dancing, contests, vintage cars 
+and refreshments. This event is expected to 
+sell out, so don't hesitate to call and resei^'C 
+your tickets. 
+
+Saturday, Sept. 21 will kick off the annual 
+National Ballroom Dance Week. Dance 
+demonstrations and general dancing will 
+take place in Ihe central area of the main 
+floor of Glenbrook Mall. From 730-10:30 
+p.m., a dance wM be held in Walb Ballroom. 
+Tickets will be available at Ihe dixir. 
+
+Ticket prices range from S5/student 
+(Sa/student USABDA member) to 
+SlO/adult [S6/adult USABDA member). 
+To reserve tickets, call Rulh Beyer at 447- 
+5654. 
+
+
+
+Page 2 The Communicator 
+
+
+
+Opinions/Highlights 
+
+
+
+Letter to the Editor 
+
+
+
+s s&gt;-n„njTnous w.th 
+)Li aware (hal if you 
+receive a packing lickcl on campus, vou will be fined five 
+limes Ihe amouni you would befint'd anywhere else in Ihc 
+[ily7 Did you know Ihal Ihe parking melers at IPFVV cosl 
+
+
+
+sage Ihat we will nol be taken advanlage of 
+
+I'd also like lo know why Ihc professors find it nea?s- 
+iary lo change the text o( a course nearly everv other year 
+' " ■ Ihe "lalesl addition." Are you telling me that 
+1 profound discoveries in the field of analo- 
+
+
+
+IPFVV find it necessary lo continually fleece ils students? 
+
+And don't even get me started on Ihe Follell's 
+Bookstore with its price gouging scheme. 1 recently visited 
+several websites lo find the besi price on a particular text- 
+book. The book in question was "Mathematics For 
+ElemcntaryTeachers, A Conceptual Approach," Nalurally, I 
+slartcd my query at eloUetl.corn whicn listed the book at 
+S103 new and S?3 used. 
+
+Next I visited lexlbookx.com and found Ihe price lo be 
+S8IBanewandS65.17uscd. 
+
+Finally, the third website I visited was half.com which 
+had a listing of "like new" for S5B50, 1 encourage every stu- 
+dent lo research textbook prices on Ihe web. Let's send 
+
+
+
+about Of is this simply a way ol forcing Ihe student to spend 
+an additional S30 for a new text? 
+
+After all. the school does receive 2 1 percent of the pro- 
+ceeds from each book sold (13 percent back lo the bookstore 
+and eight percent to the school.) 
+
+Remember students, you are the ones who pay the 
+salaries of Ihe professors and administrators here at IPFW, 
+They have a vested interested in keeping you happy. 
+Complain loud and complain often. Sooner or later, some- 
+
+Sincercly. 
+
+Jason Pat Ion 
+
+Sophomore. Elementary Education 
+
+
+
+Whats up this summer 
+
+May : 
+
+SOAR — 6-10 p.m., Classroom Medical lobby. Neff lobby. 
+
+Fine Arts lobby 
+United Sesualities Camping Trip 
+Friday 5/17 
+
+United Sexualities Camping Trip 
+Saturday 5/18 
+United Sexualities Camping Trip 
+
+Swnday ^1X9 
+
+United Sexualities Campmg Tnp 
+
+Wtiln;s&lt;l» 5W 
+
+Unilcd Sexualjbcs Prism Discussion Group. 7-9 p m., WUllO 
+
+Friday 5(21 
+
+Sigma flii Epsdwi Graduation Fart)', 7-10 p.m.. VVU Elallroom 
+
+Wednesday 5/29 
+
+SOAR — 6-10 p.m.. CM lobby, NF lobby. FA lobby 
+
+United Sexualities Prism Discussion Group, 7-9 p.m.. WU 110 
+
+Thursday 5/30 
+
+SOAR — 6-10 p.m.. CM lobby, NF lobby. FA lobby 
+
+tune; 
+Saturday 6/1 
+
+Uruled Sexualities Kings Island Thp 
+
+T\iesdayy4 
+
+SOAR — 11 ajn.-2 p.m.. CM lobby. NF tobhy. FA lobby 
+
+Wednesd^ 6/5 
+
+SOAR — 2-6 p.m., CM lobby, NF lobby, FA lobby 
+
+United Sexualibes Fhisn Ehscussion Group, 7-9 pjn., WU 110 
+
+Thurgday 6/6 
+
+SOAR — 1 1 a.m.-2 p.m., CM lobby, NF lobby, FA lobby 
+
+Wednesday 6^2 
+
+United Sexualities Prism Discuwion Group, 7S p.m., WU 110 
+
+Delta Gamma Rccruitirrent Workshop, 7-9 p.m.. WV 222-226 
+
+Sahirday 6/15 
+
+United Sexualities Zoo Trip 
+
+Tuesday 6/18 
+
+SOAR — il a,m.-2 p.m., CM lobby, NF lobby. FA lobby 
+
+Wednesday 6/19 
+
+SOAR — 11 a,m,-2 p.m.. CM lobby, NF lobby. FA lobby 
+
+Umted Sexualities Prism Discussion Group, 7-9 p.m.. WU 110 
+
+Phi Cafe Philo. 7-9 p.m.. Borders 
+
+Thuniday 6/20 
+
+SOAR — 2-6 p.m„ 0.-1 lobby, NF lobby. FA lobby 
+
+USABDA Monthly Dance. 7:3O-10i3O p.m.. WU Ballroom 
+Wednesday 6/26 
+
+United Se^uabSes Prism Discussion Group, 7-9 p.m.. VVU 110 
+Saturday 6/29 
+
+United Sexualities Gay Pride Festival, II a.m.-9 p.m.. 
+Headwaters Park 
+
+)uly: 
+Wednesday 7/3 
+
+United Sexualities Prism Discussion Group, 7-9 p.m., WU 110 
+
+
+
+■works: Delta Sigma Pi. Soda 
+
+
+
+Wednesday 7/10 
+
+SOAR— 11 a.m.-2 p.m., CM lobby, NF lobby. FA lobby 
+
+United SeiuaLties Pnsm Discussion Group, 7-9 pjn.. WU 110 
+
+Thursday 7/11 
+
+SOAR — 11 a,m.-2 pm.. CM lobby. NF lobby. FA lobby 
+
+Friday 7/12 
+
+SOAR — 2-6 p.m., CM lobby, NF lobby, FA lobby 
+
+Saturday 7/13 
+
+USABDA Monthly Dance, 7JO-1030 pjn, WU Ballroom 
+
+Wednesday 7/17 
+
+United Sexualities Prism Ehscussion Group, 7-9 pjn., WU 110 
+
+Campus Ministry Open House, 7-9 p.m., WU 222 
+
+Thursday 7/lB 
+
+Delia Gamma Feouilment Workshop, 7-9 pjn., WU 222-226 
+
+Wednesday 7/Z4 
+
+United Sexualities Prism Discussion Group, 7-9pjn., WU HO 
+
+Tue5d.ff 7/30 
+
+SOAR — 11 a.m.-2 p.m., CM lobby, NF lobby, FA lobby 
+
+
+
+SOAR — 2-6 p.m„ CM lobby. NF lobby. FA lobby 
+
+Uniled Sexualibes Prism Discussion Group. 7-9 pjn., WU 110 
+
+Au gust : 
+Thursday 8/1 
+
+SOAR — H a.m.-2 p.m.. CM lobby, NF lobby, FA lobby 
+
+Wednesday 8ff 
+
+Uniled Sexualities Prism Discussion, 7-9 p.m.. WU 110 
+
+Sunday 6/11 
+
+Phi Kappa Thela Meeting. 6-9 p.m.. \VU 110 
+
+USABDA Monthly Dance. 730-10-30 p.m., WU Ballroom 
+
+Tuesday 8^3 
+
+Campus Ministry Open House, 7-9 p.m., WU 222 
+
+Wednesday 8/14 
+
+United Sexualities Prism Discussion Group, 7-9 pjrL,WU 110 
+
+
+
+Phi Kappa Thela Meeting. 6-9 p.m., WU 110 
+
+Monday 6n9 
+
+Delb Gamma Reouitmcnl Workshop, 7-9 pjn„ WU 114-116 
+
+Tuesday 8/20 
+
+Delta Gamma Recruitment Workshop, iioon-2 p.m., WU 110 
+
+Wednesday 8/21 
+
+Uniled Sexualibes Pnsm Discussion Group, 7-9 pjn,, WU 110 
+
+Dcltsi Garruna RecruitmenI Workshop, 7-9 pjn, WU 114-116 
+
+Thursday BJ22 
+
+Delia Gamma Rrcmitmenl Workshop, nootv-2 pm, WU 222-226 
+
+Sunday 8&lt;^ 
+
+Phi Kappa Tlieta Meeting, 5-9 p.m.. WU 110 
+
+Tuesday 8/27 
+
+Newman Croup Catholic Mass, noon-1-30 p.m., WU C21 
+
+Wednesday 8ftS 
+
+Uniled Sexualities Prism Discussion Group, 7-9 pjn..WU 110 
+
+September 
+
+Fri' i ay 9/] 3 
+
+Fort Wayne Dancesport/ USABDA present Spike and the 
+BuUdogs 5&amp; &amp; 605 Dance, 730-1030 pjn.. WU Ballroom 
+
+Infonnalion courtesy of the Office of StudodLifewdipagE: 
+
+liltp:lljiiiinv. ipfiu-eduls tu lifelca Icndarslevcit tsfMay,jve]itm 
+
+
+
+litorJal Board 
+
+
+
+ContactJi 
+
+
+
+From the 
+Right 
+
+Nathan Diehl, 
+
+Staff Columnist 
+
+dielvuO lig^tulmes.ipfiv.edu 
+
+
+
+
+
+
+Fashion, abortion and sex 
+
+Good'hye 'from the right' 
+
+1 am oilen asked Ihe question. "What are your lop 10 morals, and why?" 
+Good question, but although 1 have many moral standards that I alwa&gt;-s 
+
+attempt lo hold lo, il is probably impowible lo select a lop 10, and I could 
+
+iwrile an entire book on why 1 hold lo my moral slarKlaids, but Ihavcrmly my 
+
+little weekly column in Ihis IPFW Cbmmuniailor. 
+
+Due to my extremely limiled ^ce and my uncanny ability of strongly 
+
+disliking typing, I'D jusl keep this short, limiting my moral discussions In^y 
+
+As much as 1 like modem culture and cun-ent fashion trmds, I have lo 
+say Ihat modesty is still a trail that is very attractive. If s too often Ihal we're 
+pulled iniD thinking that ifs perfectly normal for a lady lo wear loiv-cut jeans. 
+3 high-nst Ihong and a barely-thete shirt. 
+
+Skirvlighl shirts were unheard ol |usl a lew years ago. while today no 
+lady's wardrobe can be complele vvilhout a full line of shirts lo show off every 
+curve ol her breasts. 
+
+Ladies do not under- 
+stand what such seductive 
+clothes do lo a man. A 
+man is sight-onenled and 
+sexually aroused by visual 
+stimulation, such as a 
+short skirt or a Ughl shirt 
+By wearing such clothes, 
+you are causing men lo 
+undress you in Iheir 
+rrunds. 'tou are as good as 
+naked lo rrunv. and 1 greatly prefer to leave my lady's body a wild mystery — 
+unknown and a great pievenlabve lo lust. 
+
+Another moral code thai I believe strongly in is thai human life is 
+extraorduunly preaous, I think that Hollywood is partly to blame for the 
+doivngrading of human life. Movies routinely portray murders and thai ifs 
+okay lo kill it the need arises. 
+
+TTie trends after the infamous Roe v. Wade decision were horrifying, the 
+number ol Americans who beLeve in aborton growing steadily until about 10 
+
+Sars ago, and some studies have indicated an increasing number of people 
+lieving that abortion is murder. 
+
+Life is precious, and should never be taken God gave you Ihe life you 
+have, and only He rriay lake life from you in His timing II should never be 
+one person's choice I o terminate anotl^r's life, whether thai lite isoided at the 
+end of a loaded shotgun or in at the hand of an aborbonist. 
+
+Human life is nol like ihat of arumals. Humans actually have feelings, 
+develop lifelong rcLilionships tvith other humar\s and search lor somelhing lo 
+fill the voids and empty holes in Iheir live. Humans an? created in the image 
+of God, a spiritual being oealed to worship our creator. 
+
+Perhaps most alarmingly, 1 have been appalled al Ihe current rate of sex- 
+ual activity. Hollywood glorihs sex. lis silcoms attempting lo shoiv that sex 
+itself is tunny, all while families are failing, sexual perversion is on a rise arul 
+STDs are commonplace. 
+
+Humans were created to enjoy sex lothe fullest in the insblutionol mar- 
+riage and only in marriage. Sexual relabons oulside of a marriage covenanl 
+breed disb\isl and dislo^t&gt;', unhappmess and discontoil. 
+
+Sex is more than a guy getting some and seeing some action. It is more 
+Ihana lady lirully feeling accepted It is Ittfspirihiar soulful and physical 
+bond between a n^an and woman. It is nol a step that should be entered into 
+lightly or for kicks. 
+
+Sex is resen'cd lor marriage, and any sexual relations oulside the con- 
+fines o( marriage are wrung. 
+
+These are just a few of the morals 1 believe in and alwaj'S try to stand 
+strong believing. You don't have to agree, and you don't have lo disagree, but 
+I'm happy that you've read my cnlunm. 
+
+For those ol you who are reading your first issue ol The Cinnmunkalar 
+and to Ihe seasoned velerar\s, I challenge you lo never lower the morals you 
+hold, lo reexamine the morals you do believe in and to hei^len your morals 
+where needed. 
+
+God will forgive you oi amlhing you've ever done lo compromise the 
+morals He has set forth. You only need to ask for that forgiveness, and Ihen 
+live life lo the ultimate en]oymenl. 
+
+
+
+Rituals of passing 
+
+
+
+By Dawn Early, Managing Edilc 
+
+
+
+By r 
+
+
+
+aw, some would s 
+■s from pre-school li 
+
+
+
+22 years. 
+
+Now on the verge of yet another graduation, thoughts ol starting again 
+are only slighlly subdued by thoughts of finally getting out. 
+
+Learning lo count to 100 and wnle in cuisive. spelling bees, science fairs, 
+ball games and lunch lines are inlermixed betivecn rituals of passing. 
+
+It wasn't thai long ago. four years to be precise, Ihal I was wearing a white 
+cap and pressed goivn. One of the mosl momenlous days of my entire life was 
+characterized by strong winds and tornado watches, combined with the laugh- 
+ter of family and friends. 
+
+Pride filled both my grandmother and me as 1 slood al Ihat podium, 
+addressing the entire audilorium. f allempled lo summarize the previous 13 
+years and all of Ihe ups and downs in less than five mmules of discourse. 1 felt 
+mature and accomplished, ycl ready to tackle Ihe challenges of college life. 
+
+Four years prior lo that, 1 was a p imp le-and -brace-laced 14-year-old 
+awaJling a small slip of paper which would push me on into high school— the 
+mosl prized possession of all of my friends. Completion o( junior high was tnv- 
+ializpd by the immense glorification of becoming a "high-schooler ' 
+
+Only hvD years had passed since I sal in an elementary audilorium antic- 
+ipaling my passmg into junior high, where all the older and cooler kids await- 
+ed. For Ihe lasl time we sang songs as an entire class and received awards for 
+Ihings such as science projects and perfect attendance. 
+
+11 had been six long years since Ihe ritual had been performed. 
+Kindergarten seemed so far back, before boyfriends, before lesls and before 
+detentions. 
+
+II was then Ihat I could still remember my hrst graduation of all lime. TTie 
+one from pre-school. It was there Ihat 1 wore a si/e6X sundress and a paper cap 
+while I carried my favorile Cabbage Patch doll doivn the aisle. It was Ihen that 
+1 was five, and years away from SATs and dales. It is now that a whole new 
+
+
+
+Editorial Policy 
+
+
+
+Kalhy DtlngnmgE, Editor 
+Down Early, hianaging Ediwr 
+Todd Ilumin, Ncms Editor 
+Joriah CrLsoiort. Features Editor 
+Rtnee Thompson, Special Sections Ediio 
+JcnnlTer Uunllcy, News Reporter 
+Dcaniei Zhic, Plioio Editor 
+Adam Taylor, Copy Editor 
+Brandon Schwarw, Reporter 
+EWaStutzman.Atliertuing Mannger 
+Doric Rtynatds, Publisher 
+
+
+
+The Communicator 
+
+Suite 215. Walb Student Union 
+
+2101 E. Coliseum Blvd. 
+
+Foit Wayne, IN 46805 
+
+stupapcr@holmes.iprw.cdu 
+
+Editor; 481-6584 
+
+Publisher: 481-6585 
+
+Advertising; 481-6583 
+
+Fax; 481-6045 
+
+
+
+Unsigned editorials are Ihc opinions of The 
+Communicator. The opinions expressed do nol 
+necessarily reflect the views of IPFW, ils employ- 
+ees or its student body, A column is solely Ihc 
+opinion of its author. 
+
+The Communicator welcomes responses from 
+its readers. L,ellers lo the Editor and guest columns 
+must be sipicd, dated and accompanied by a cur- 
+rent, valid address, phone number, class standing 
+or title ajid major. Letters without these require- 
+ments will not be considered for publication. 
+
+All submissions niade via e-mail will be veri- 
+Fied by phone or in person. Submissioiw via mall 
+
+
+
+or e-mail without tlxis information will nol be pub- 
+lished, except under extraordinary circumstances. 
+Addresses and phone numbeis will never be pub- 
+Submissions must be typewritten, 
+double-spaced and no more than 400 words. 
+Deadline is 6 a.m. on Ihe Monday prior lo Ihe print 
+date to allow for limely consideration. 
+
+The editorial board of The Communicator 
+reserves the righl to edit all submissions for 
+length, grarrunar, style and clarity. Lctlers deemed 
+libelous by The Communicator's editorial board 
+will not be published under any circumstances. 
+
+
+
+Campus Highlights 
+
+
+
+Center for Reptile a nd Amphibian 
+
+# Conservation and 
+
+Management 
+
+To conduct research on the ecological rtquin- 
+ments af endangered reptiles and amphibians, provide educa- 
+tional opportunities fi)r a variety of educational levels andpro- 
+vide outreach materials regarding reptiles, amphibians and can- 
+serration. 
+
+Future plans include summer research projects on endan- 
+gered snakes like the copperbelly water snakes, eastern mas- 
+sasauga and timber rattler; enhancing existing iveb materials 
+and development of brochures on species in trouble. 
+
+
+
+Semper Fedlis Society 
+
+To provide camaraderie for current, 
+prior and those interested in becoimng 
+marines. More specifically, to give officer 
+candidates experience in leadership posi- 
+tions. 
+
+
+
+Psi Chi 
+
+
+
+To encourage, stimulate and rnainhifn 
+excellence in scholarship and advance the sci- 
+ence of psychology. 
+
+Fall semester plans include a recruitment 
+party and fundraisers for a not-for-profit 
+organization. 
+
+
+
+K 
+
+
+
+CoiiUcI Bob Snowball al 348-7247 
+
+
+
+I OfHce hours: 
+! Neff 
+
+Hall 375 
+O . fficgts; Nicole Egly, presidi 
+
+
+
+-S p.m., Monday-Friday 
+
+
+
+Office houre: By appointment in the biology departmenl, located 
+
+in the Science Building. 
+Officers: Bruce Kingsbury, direclor 
+ConUcl Brace Kingsbuiy at 481-57SS or by email at 
+. kingsburHipfu^edu or duck oul their wcbsile at // 
+
+Ir Delta Sigma Fi 
+
+■ I A professional fraternity OT^an\zxd to foster tlie study of 
+
+bulinRis in univcnitics; to encourage sdiolarship, social actinih/ 
+and tite assaeiation of students for their mutual advancement by 
+researrh and practice: to promote a closer affiliation betiveen thccc 
+mereial world and studenti of commerce: and lo further a higher sti 
+
+
+
+" Rpta 1 
+
+
+
+Beta Phi 
+
+Greater academics, sisteriwod, giving back to the 
+ity and getting involved loith campus activities. 
+The members of Pi Beta Phi would love to see you at their 
+formal recruitmejit, scheduled from Sept. 8-16. 
+Oftict; Walb2I0A 
+Officers: Anne Hull, prcsidenl 
+Check out their website! ineta@pibetaphi.org 
+— To become a membec, you need only have ilSlor 
+betlerGPA and be a full-time student. 
+
+
+
+Kristin Richc, 
+
+
+Viccpr&lt; 
+
+
+sideni 
+
+
+
+
+Kristine Jehle, treasu 
+Contact Psi Chi at 4S1-6968 oc by 
+
+
+email at 
+
+
+
+
+Check out their websi 
+
+
+cl 
+
+
+
+
+
+
+http:llusrrs.ipfii'.edulps 
+
+GPA. hjve taken nine c're 
+have completed three lem 
+
+
+Duneed 
+it hours 
+
+
+only have 
+in piycho 
+
+
+Dgyand 
+
+
+
+Services for Students with 
+Disabilities 
+
+
+
+dard of cor 
+fart of the 
+
+
+
+rcial ethic 
+
+
+
+t and Oic ci 
+
+
+
+Office: Walb Union 214 
+
+
+
+
+pffirers; Harold Allen, president OulitnedDvuiini- 
+
+
+omi 
+
+
+Dave Clawson, senior vice president 
+
+
+
+
+
+
+
+
+Jen Yoder, vice ptcs. pledge education 
+
+
+
+
+
+
+
+
+Check out their wcbsilel 
+
+
+
+
+httpJlum&gt;w.studen t. ipf«&gt;-edul%7Edspl 
+
+
+
+
+—To be a membet you reed mainUin a ZJ) or higher 
+
+
+^ 
+
+
+GPA uid be a butlneu major. 
+
+
+• 
+
+
+
+ASL 
+PAH! 
+
+
+
+For people interested in American Sign 
+
+Language (ASL) to practice their skills and to interact i 
+
+the local deaf community. ASL PAH! is a small organiznti 
+
+would love to have your support and membership! 
+
+Summer plans include a social gathering meeting 
+
+Glenbrook Mall food court on May 20 from 6-9 p.m 
+
+Office: Audiology and Speech Sciences Department, Nefl 
+
+
+
+in accordance with the 1990 AD/\ and Section 50i oftlie 1973 
+Reliabi'itntioii Act, students jeho meet Ihc federal standards of disability 
+can request equal aeceis to university programs and facilities through this 
+department. Some of the serrrices provided include coordination of sign lan- 
+guage interpreters, alternate format instructional materials and accom- 
+modated test proctor services. 
+
+SSD co-hosts a series of ADA teleconferences throughout tlu 
+year. Conferences include "Design Issues in Children's 
+Environments- on June 16 at 1 p.m. in Walb Ut and 
+h "Accommodating Students with Psychiatric Disabilities in 
+
+that the Classroom" on Sepl. 17 at J p.m. in Walb 114. 
+
+
+
+I., Monday-Friday. Walb 
+
+
+
+Anthropology Club 
+
+To stimulate and encourage student body interest 
+and involvement and (o promote community loide inter- Tobep 
+
+est in anthropology, s, 
+
+from Sept. 4 to Dec. U, a Luncheon Lecture Series will be 
+held on Wednesdays at noon. Weekend trips are also in the planning 
+for the semester. The club also offers free tutoring for students and is plan- 
+ning a second annual Spring Break tnp. 
+Office-. Kettler Hall Room C11B 
+pfficiT^; Laura LeFever, president 
+
+Rick Brown, vice president 
+Jdi^I Rupcecht. treasurer 
+Contact the Anthropology Qub at 481-6272 or by email at anthroShohncs-ipfw.edu. 
+, Check out their wcbsitcl wwtu.ipfiii.cdulsocalantliroclubldefault.htm 
+•^ — Open to all entolUd IPFW studcnli. A 52 dues tkargt will bt collected. 
+
+
+
+tthe Office hours: 8 a. a 
+
+Union Room 113 
+Staff: Susan Borror, director 
+•79 Margie Guthrie, SSD specialist couns 
+
+Lois Eubank, SSD lab assistant 
+Contact SSD at 481-6W7 
+Check out their websilel ujiow.ipfiu.edulssdJ 
+
+
+
+a mailing list or to contact ASL PAHI, 
+nail to aslpah@holmcs.ipfw.edu 
+iratSLP2005eiaDLcam 
+
+
+
+■ Delta Gamma Fraternity 
+
+A social group organized to foster high ideals of scholarship, leadership and friendship 
+
+among college womai. Recruitment is scheduled for Sept. 8 at 5 p.m. and Sept. 11 dr 13 at 6 
+
+p.m. in Walb Union. 
+
+Office hours: 9 a.m.-5 p.m., Walb Union 210B 
+
+Officers: Harmony Sutton, president, Mindy Laubhan, vice president of programming, Lindsay 
+
+Osttnan. vice president of membership 
+
+Conlart Delta Gamma by email at dellagShoImcsiphv.Gdu. 
+
+Check out their website! uniin:sludent.ipfw.edul~deUag 
+
+National website — iiniiw.deltagamina.org 
+
+—To become a member: you need only have a U GPA and be a female enrolled at IPFW. 
+
+
+
+iMn)arl 
+
+
+
+
+' Board ' 
+Cannes 
+
+
+
+Sernesteirs 
+Mon-Fri 
+9 am - 9 prrt I 
+Wdlb Student Union 
+Ground Floor 1 
+
+
+
+'Rental for Billiards, Table Tennis and Darts 
+
+4c per minute (Simonis cloth table 8c per minute.) 
+
+
+
+Get out of line and 
+
+get to -'^'" 
+
+The Bookmark 
+
+for , ' 
+
+college textbooks! 
+
+We sell used 
+
+college textbooks I 
+
+to students for ^ 
+
+all local colleges. 
+
+Just south of '^ 
+
+IPFW Campus \ 
+
+on N. Anthony Blvd. ,,J 
+
+484-BOOK (484-2665) ^ 
+www.thebookmark.net if£^ 
+
+
+
+We Buy &amp; Sell 
+Current College 5 
+Textbooks! -- - 
+
+
+
+-Books For All Ages- 
+
+
+
+n^^^ 
+
+
+
+
+
+Campus Highlights 
+
+
+
+
+/To assist ivith studeni 
+organizalions/aclivities, Uadersliip lUvclopmcnl. 
+m stviUnt liousing and SOAR. 
+
+/* In addition to Hit- summer SOAR sessions, fall 
+
+iemester events include iirclcome back activities, slu- 
+^ dent organization fairs and a leadership retreat. 
+
+g Tlic Office of Student Life is a great 
+
+■ students, particularly uiHh respect to in 
+about Clients, policies and organizations. If students 
+tare looking to become involved in campus life, slop by 
+the Office of Student Life and get connected. 
+
+\ Office hours: B a.m.-B p.m., Mooday-Friday 
+
+\ Staff: UriBclhRoyscdircclor 
+
+Audrey Moore, assistant director 
+Laura Simmonds, administrative assisia 
+- . Contact Student Life at 481-6609 or by email 
+^^ stulireeipfw.edu 
+
+^^ Check out their website! 
+
+^^ wwtu.ipfw.edu/stulife ^ 
+
+Feminist Majority 
+Leadership Alliance 
+
+To provide progressive students with opportunities I 
+(D develop leadership and organizing skills; to learn | 
+
+about cutting edge issues and to be connected with the 
+larger pro-choice and feminist movements. Ilieinis 
+FMLAwas created to develop bold new strategies 
+programs to advance women's equality, non-violence, 
+
+onomic development and most imporianlli/, empoit 
+
+ent of women and girls in all sectors of society. 
+Upcoming events include discussion 
+
+I topics such as racism, repraducl 
+
+mer choices and social activism. i 
+
+embers will also be speaking at ct 
+
+
+
+I groups on differ- 
+rights movement, 
+ions community 
+
+
+
+QlfJCfi Center for Women Si. Returning Adults, Waib G25 _ 
+
+Officers: Susan Renfroiv, acting president I 
+
+Contad FMLA at 481-6029 or by email Susan Renfrew at I 
+
+renfrowsSipfw.cdu. 
+
+— Ta be a mvinber. one itiauld have similir ideali is Idcnlilicd ■ 
+
+^ . ^ . ^ . ^ . /* 
+
+
+
+IISl Campus Ministry 
+
+ijclr'ii To offer Bible studies; recreational 
+'■V'l and social ei'ciits; locnl and nation- 
+
+_. 'projects; loorship services; 
+
+■tnd an annual Spring 
+trip. Campus Ministry is a safe 
+e your spiritval questions and to 
+fal with God, yourself and others. 
+Upcoming events include nii open house on June 
+3 Olid 30 in Kettier 154, imd }uly 17 and Aug. 13 iii 
+Walb 222. All open houses arc from 7-9 p.m. Campus 
+Miuisty night at a Wizards game will be July 20 and 
+a fall pianc will be held Sept. 7 at 330 p.m. 
+
+
+
+Offi« houi^; 
+
+
+9 a.m.-l p 
+
+
+m., Monday- 
+
+
+Union 135 
+
+
+
+
+
+
+nffiriTfi: Rri.i 
+
+
+n Harmon 
+
+
+president 
+
+
+Eric 
+
+
+
+
+ice president 
+
+
+Dav 
+
+
+d Love, tr 
+
+
+asurer 
+
+
+Trisha Hunn, s 
+
+
+ecrPtary 
+
+
+
+Contad Campus Ministry at 481-^992 or by email at 
+
+galobeipfwj^du. 
+
+Check out their wcbsilpl biuunij.ipfw.edul ministry 
+
+
+
+in (vr Welme Ink Issie |Ain|, ISIh) ( Cei NtM! 
+
+(all lo Advertise; 481-6513 
+
+
+
+P/T Package Handlers Needed 
+
+• A.M. or P.M. shifts available 
+
+• No weekends 
+
+• Tuition Assistance Program 
+
+• Great job for full or pan-time student! 
+
+• A.M. 2-7 or P.M. 5-10 o'clock 
+
+Qualifications 
+
+• Clean background check 
+
+• ISyeareofage 
+
+• Able to lift SO lbs 
+
+• Willing to work in fast paced environment 
+
+Join the FedEx family today! 
+
+
+
+Ground 
+
+4750 Industriil Rd 
+Ft. Wayne, fN 46825 
+
+
+
+Features 
+
+
+
+PageSThe Communlcalor 
+
+
+
+Department of English continues to expand for new semester 
+
+
+
+By leniiifei Hunllc)'. Reporlei 
+
+The dcparlmtnl of English 
+.ind Linguislics is conlinually 
+updating lis curriculum lo meet 
+sludenl needs. As sociely 
+changes, di lie rent course o(f Br- 
+ings and programs are being 
+imp tern en led lo remain curronl. 
+
+The department Li develop- 
+ing a new program for certifica- 
+tion (cir teaching EngRsh as a sec- 
+ond language (TESOL). The 
+TESOL program will consisl of 
+15 credits, one grammar class, 
+two methods classes, one class 
+
+
+
+on language acquisition and a 
+praclicum that will offer class- 
+room experience in the student's 
+area of interest. 
+
+Advanced expository writ- 
+ing a entering the industrial age 
+with Stuart Blvlhe's class, 
+"Wriling m Ihe bigilal Age." 
+According lo Blythe, the class 
+focuses on the technological 
+tools that an.' now available for 
+distributing writing. 
+
+The Lntemel and other elec- 
+tronic media have changed the 
+meaning of literacy For cen- 
+turies, habits have been based on 
+
+
+
+the pnnted page, but changes in 
+the last 10 lo 15 years have 
+opened new options for print. 
+The class will explore how the 
+rules for pulting together a paper 
+cliange when it is being posted 
+on the web instead o! in more 
+traditional formats. According to 
+Blythe. this class has evolved 
+from "Literacy in the 
+Technological Age," a class he 
+taught last year. 
+
+The area of children's lilera- 
+lure IS expanding as schools 
+emphasize literacy and acknowl- 
+edge Ihe need lor students to 
+
+
+
+read literature from many cul' 
+lures. Lewis Roberts, previously 
+in charge of Ihe children's litera- 
+ture course at lUB, is joining 
+IPFW's English faculty this year. 
+
+In Ihe tall, Roberts will offer 
+courses in children's literature 
+and in literature for young 
+adults- He takes a hands-on 
+approach, which will include a 
+picture book project and evalua- 
+tion of books for inclusion in a 
+school library. 
+
+The National Writing 
+Project will arrive this summer 
+as Kathenne Freclar^d, a special- 
+
+
+
+ist in composition pedagogy, 
+works in developing the 
+Northeasi Indiana Writing 
+Program Site, part of a national 
+program. 
+
+This program will offer 
+workshops for practicing teach- 
+ers and will provide ongoing 
+
+'The department of English and 
+Lmguistics and the School of 
+Education will host the first four- 
+week institute opemtcd solely by 
+IPFW in the summer of 2003," 
+Richard Ramsey said. 
+
+In addition to classes, the 
+
+
+
+English department sponsors the 
+Visiting Writer's Series which 
+brings nationally known authors 
+and poets onlQ campus. These 
+aulhore teach workshops, visit 
+classes and give readings. 
+
+The English department 
+also hosts Ihe Sludenl-Faculty 
+Reading Series, which allows 
+campus writers to share their 
+work. Confluence, Ihe student 
+literary magazine, is another 
+way for students lo share their 
+work. T&gt;ie spring 2002 issue is 
+currently available tot purchase 
+in Classroom Medical Room 145. 
+
+
+
+Honors Program: An overview 
+
+
+
+By lenniter Huntley, Reporter 
+
+The Honors Program has 
+enperienced a lot of growth 
+and development over Ihe 
+
+Kst six years. According lo 
+rector Matthew Kubik. the 
+growth of the Honors Program 
+has created some wonderful 
+opportunities for students. 
+
+By offering honors cours- 
+es that also fulfill IPFW gener- 
+al education requirements, 
+students may now obtain the 
+Honors Certificate without 
+taking any courses outside of 
+their degree requirements. 
+
+Course offerings have 
+been expanded with the sup- 
+port of the vice chancellor of 
+Academic Affairs. Several fac- 
+ulty have received curriculum 
+t rants lo design General 
+ducation Area Vl, Advanced 
+Study honors classes. Foreign 
+travel opportunilics can also 
+be used to meet Honors 
+Program requirements. 
+
+Students gel more indi- 
+vidualized altention from pro- 
+fessors and are able to pursue 
+personal interests with H- 
+options and a more coordinat- 
+ed honors project experience. 
+This also gives students the 
+opportunity to create a part- 
+nership in learning wilh a fac- 
+ulty mentor. Students are 
+encouraged lo explore differ- 
+enl aspects of a problem and 
+
+
+
+take a more m-deplh look at 
+information. 
+
+The Honors program 
+strives to bridge the gap 
+between disciplines. Many 
+honors classes are interdisci- 
+plinary. Professor Peter 
+Hamburger's calculus class is 
+one such example. Mentors 
+from many disciplines team 
+with his shidents for their cal- 
+culus projects. Hamburger 
+won a teaching award for his 
+outstanding work in this class. 
+The National Science 
+Foundation and Mathematics 
+Throughout the Curriculum 
+support his efforts. 
+
+Events and activities 
+sponsored by the Honors 
+Program provide an opportu- 
+nity for students and faculty to 
+join in discussions as equals. 
+Many of these ate also inter- 
+disciplinary. Each semester, 
+the department of theater 
+invites honors students and 
+faculty to attend a dress 
+rehearsal and discuss the per- 
+formance with the director 
+and cast aflerwards. The 
+Honors Program also sponsors 
+museum trips and cultural 
+events as well as less formal 
+les and recep- 
+
+
+
+Many honors facult}' and 
+dcnis have been nahonally 
+i or inlemationally recog- 
+ed. During the 2001 
+
+
+
+National Collegiate Honors 
+Convention, IPFW had numer- 
+ous presentations by students 
+and faculty, more than from 
+many of Ihe other schools 
+from across the country. IPFW 
+had four student and six fac- 
+ulty presentations. Kubik has 
+made three national presenla- 
+tiot\s as a represenlabve of the 
+IPRV Honors Program. Heidi 
+Saliba worked with a visiting 
+professor from South Africa on 
+an H-ophon. They presented 
+their research at convenBoris in 
+PiHsburgii, Egypt and Germany. 
+
+1l\e establishment of the 
+Honors Center has made a 
+dedicated space for honors 
+faculty and students. The 
+room, located in Keltlcr Hall 
+Room G35. was designed as a 
+collaborative effort between 
+honors student Melissa King 
+and Kubik. It was recognized 
+at the NCHC convention. 
+
+These developments in 
+the Honors Program have 
+occurred within the last six 
+years Kubik says that he 
+could nol have accomplished 
+so much wilhoul Ihe support 
+of the Honors Program 
+Council, especially thi 
+
+
+
+of honors faculty and mentors 
+have also made the growth 
+and progress possible. 
+
+
+
+Purdue Band upholds decades of tradition 
+
+
+
+WEST LAFAYETTE, Ind, 
+(PU News) — Walking in the 
+footsteps of S2 years of band stu- 
+dents preceding them, membeis 
+of Ihe Purdue "All-American" 
+Marching Band will take their 
+own lap around the famous 25 
+mile oval track at the 
+Indianapolis 500 on Sunday, 
+May 26, as it plays for the race's 
+openmg ceremonies. 
+
+Purdue's band will also be 
+featured in the 500 Festival 
+Parade at noon on Saturday, 
+May 25. The parade begins at 
+North and Pennsylvania and 
+winds its way through down- 
+town Indianapolis Tne broad- 
+cast of the parade (available in 
+central Indiana on CBS affiliate 
+WISH-TV, Channel 8), ivil! pro- 
+vide a special feature spot to the 
+|omt performance of "God Bless 
+America" by Ihe band and the 
+West Point Glee Club at Ihe 
+beginnmg of the coverage. 
+
+A crowd of more than 
+300,000 people is expected for 
+the 500 Festival Parade. TTiere 
+are many stretches of the parade 
+route that permit open viewing, 
+but tickets can be purchased for 
+preferred seating m Ihe bleach- 
+ers linmg the route. Tickets are 
+S1250 lo S25. Call (800) 638^296 
+(or more information. 
+
+The Purdue marching 
+band's first director. Paul 
+"Spoils" Emrick, forged the ini- 
+
+
+
+tial relationship wilh the 
+Indianapolis 500 in 1919, the 
+race's ninth year of existence. 
+Always interested in promoting 
+his band and Purdue. Emrick 
+welcomed the chance lo be asso- 
+ciated with Ihe young race that 
+was quic)(ly establishing an 
+mtemaliona! reputation. At that 
+time, the band was a milit:ir)' 
+unit of men enrolled in Reserve 
+OfficerTVaining Corps at Purdue, 
+
+Marcus Gilbert, a 1925 
+graduate who lives in Carmel, 
+ind.. has fond memories of Ihe 
+Indianapolis 500 parade. 
+
+"We played for the 
+Indianapolis 5O0 every year." 
+Gilbert says. "We'd ride down on 
+the Monon railroad or buses the 
+day before, and Ihe boys would 
+get lo see the town. The Purdue 
+Band always leads the parade." 
+
+The parade Gilbert refers lo 
+IS the Parade of Bands thai 
+begins at B a.m. at the track on 
+race day. Each year Purdue 
+invites bands across the 
+Midwest lo parlicipate in the 
+event, which is dominated by 
+high school musicians. This year 
+17 bands will participate. The 
+greater Lafayelte area will be 
+represented by the Pride of Tri- 
+County Marching Cavaliers. The 
+Speedway High School "500" 
+Marching Band will represent 
+central Indiana. 
+
+Folloiving a tradition begun 
+
+
+
+
+PhDio courlosy of HVrtv. pun/us.. 
+
+
+
+83 years ago. only the Puniue 
+band plays for Ihe opemng cere- 
+monies. It will back up the West 
+Point Glee Club in the National 
+Anthem. As in years past, the 
+band will perform "Anierica the 
+Beaulifuf" with Florence 
+Henderson and "Back Home Again 
+in Indiana" v/ith Jim Nabois. 
+
+Tlie 500 Feslival Parade was 
+added to the race month activi- 
+ties in the mid-1950s. The Purdue 
+"All-American" Marching Band 
+has appeared in every parade 
+
+
+
+PERSONAL &amp; 
+
+COMMERCIAL 
+
+.SELF-STORAGE 
+
+
+
+
+• HEATED &amp; AIR CONDITIONED UNITS 
+
+• 24 HOUR SECURED ACCESS (7 DAYS A WEEK) 
+■ HEATED &amp; Am CONDITIONED UNITS 
+
+• DIGITALLY RECORDED SECURITY 
+•RESIDENT MANAGER 
+
+
+
+420-1111 
+
+
+
+||]21li(«ttKunBlvd.FI,WsyDe,IH4HD5 
+e'lnall n bI; ttllwMiiiB@t{in-bflliWiii 
+
+
+
+t-AKEAVE 
+
+
+
+Behind Frank's Nursery 
+Off Coliseum Blvd. 
+
+
+
+
+CriiUCttrisiccipIti 
+Mialmitri, lira, Diimir &amp; Amirciaa Eiprtti 
+
+
+
+The excitement begins at . . . 
+
+Canterbury Green 
+
+Apartment Homes 
+
+^4e otdcf, (MUf^ to^ iCvef 
+
+
+
+• On site 18- hole golf 
+course 
+
+• Tanning beds 
+
+• 4 sparkling pools 
+
+• 3 tennis courts 
+
+' 2 raquetball courts 
+
+
+
+• Fitness Center 
+
+
+
+" Washer &amp; Dryer in 
+Every Home 
+
+
+
+• Clubhouse 
+
+• Parks with picnic area 
+
+
+
+Basketball j&amp; volleyball 
+courts 
+
+
+
+
+* certain conditions apply 
+
+Call Our Office Today! 
+
+260-485-9687 
+
+Northeast • 2613 Abbey Dr. 
+
+M-F 9-6, Sat. 10-5, Sun. 12-5 
+
+
+
+t^ 
+
+
+
+
+^Sprint Store 
+
+
+
+
+We did your homework 
+
+
+
+Exclusive College 
+Student Offer 
+
+
+
+=^50 
+
+instant rebate 
+
+witti a 2-year Advantage Agreement 
+and service plan of $34,99 or higher. 
+
+
+
+Offer valid at participating Sprint Stores with a valid student 
+identification card from qualifying colleges and universities to 
+new customers with good established credit 
+
+Or you can receive $25 off instantly for new customers with 
+good established credit when you purchase and activate a 
+new Sprint PCS Phone and sign a 1-year Advantage 
+Agreement of $34.99 or higher. 
+
+
+
+^^ Sprint Store 
+
+
+
+The PCS Center 
+
+
+
+Elkhart 
+
+422 East Bristol 
+
+219-264-4100 
+
+Fort Wayne 
+Coldwater Crossing 
+5525 Coldwatsr Rd. 
+219-482-7271 
+
+Fort Wayne 
+Covington Plaza 
+6336 W. JeHerson Blvd. 
+219-436-1445 
+
+
+
+Indiana 
+
+Kokomo 
+Kokomo Plaza 
+621 South Resd Rd. 
+765-452-6500 
+
+Marion 
+
+3022 South Western Ave. 
+
+765-668-GOOO 
+
+South Bend 
+
+State Road 23 and Ironwood Dr. 
+
+2035 South Bend Ave. 
+
+219-277-7727 
+
+
+
+Indiana 
+
+Warsaw 
+
+Woodland Plaza 
+
+3638 East Commerce Dr. 
+
+219-269-5001 
+
+
+
+Lima 
+
+3215ElidaRd. 
+
+419-331-9596 
+
+
+
+i^ttna « M) VfVcten S«(n 
+
+
+
+■I ia hxOv dcOdli Wtrz 
+
+
+
+lUrRribile Httuu amM toad loul Ft uil cncc si rmnuM (Ao-f JlSlesty lenninaUnlniniliuUSgrnlFCSJIiSvaggAtiRiTiaii. AruneHindiMSMie 
+n aetBsi m cmums erivi cfurys nv&gt; inA &lt;Wa mn nsr tc nnbria) wth anunixriH (mmicni. ixana. cattia a 0B6m ml a nx taiilti wih Cutij 
+^ €^21X7 S^iTK SpccfVn LP AD rig^ reserAd SfinnL 5^M PCS. Spud PCS Qui ftiSftAVtt liantpd logo vt tnrSemarVi al 
+
+
+
+Sports 
+
+
+
+Page 7 The Communkator 
+
+
+
+1/9 mile indoor track 
+rully, there are t*vo per- 
+-s who accept appoint- 
+md IraL 
+
+ested ij 
+
+
+
+getting mining one's 
+I [«gu1drlilress routine, he goals and des _ 
+could punJiascltuee sessions with a program lo mecl that 
+trainer for S80 and together they individual's likes and 
+would set up an initial plan lo ^^ dislikes, "You have 
+meet thai person's goals. ^^^p^^ lo base 
+
+
+
+By Kathy Delagrangc, Editor 
+
+
+
+The Hilliard Gales Sports 
+Center, however, is one of those 
+rare finds. Located near Walb 
+Sludenl Union, the Gales Center 
+provides free memberships for all 
+IPFW students. The only require- 
+ment? Be enrolled Cor classes. 
+
+There are a number of ways lo 
+get in shape at the Gales Center. 
+The strength and conditioning 
+room is equipped with both tree 
+and machine weights. A cardiovas- 
+cular room provides stationary 
+bikes. treadmills, 
+
+Stairmaslers and Elliptical ^^ 
+EFX Cross Trainers. The ^^ 
+
+facility also offers ^ 
+five racquel- ^a 
+ball/hand- ^^ 
+
+
+
+V 
+
+
+
+P/iQjos by Renee Ihompscn. Editor ol SpBcial Secl'ons 
+Students take advantage of the Gates Center facilities, 
+enjoying the many amenities the center has to offer. 
+
+
+
+According lo 
+
+lapaugh, one of the 
+
+mportani aspects 
+
+a fitni ■ 
+
+' fitnc 
+
+
+
+
+Fitness Corner 
+By mill Robey, 
+Sports Columnist 
+
+
+
+^ the habit of eating 
+
+^k ligbl and eicicising, it 
+
+r becomes easier to keep up 
+with it on a regular basis," 
+Tillapaugh said. 
+Tdlapaugh, a registered dieti&lt; 
+^^A enjoying is also available to provide n 
+
+^^^^ fihiess." said tional consults. There is a fee of S80 
+^^^ Judy Tillapaugh, for Ihrec sessions. 
+
+fihiess and wellness For rnorc iriformation, contact 
+
+coordmator at IPHV. Judy Tillapaugh at 481-6647. 
+
+
+
+
+An alarming trend is sweeping 
+the nation. For lack of a belter term, it 
+is obesity. 1 recently logged on lo my 
+AOL account and 1 laughed al what I 
+saw. Well, it really wasn't all that 
+hmny, but 1 couldn t help it. 
+
+AOL listed the lop 10 fattest dhes 
+in the United States. Rest assured. Fort 
+Wayne did not make the lisl. Our socie- 
+ty is gradually slipping into some very 
+unhealthy habits. 
+
+Even if you don't have those 
+noticeable extra pounds, almost evet\- 
+one has someltiing they wish they could 
+improve upon. Lefs face it' a slender 
+body is not always a good indicator of 
+fitness. Many of us can't jog a mile 
+wilhoul getting winded. W e 
+
+all have our eicuses as to why we 
+don't cat right or cierclse. I have some 
+of the solutions lo those excuses. Over 
+the upcoming 
+
+
+
+
+
+
+.such a 
+
+
+
+Whe"!! 
+
+
+
+and how they relate to a 
+healthy lifestyle. 
+
+Praper diet accounts tor a large 
+
+i&gt;ntage of the fitness equation. 
+
+■&gt;- goal IS to lose weight, 
+
+lone up or lo pack on big muscles, 
+each requires a different approach. 
+Some balanced diels should mclude 
+supplementation, however, there has 
+been much debate about the use of 
+supplementation. 
+
+Supplementation range from 
+vilamms to performance enhancers. 
+Many make claims that they caruiol 
+support, wlule others are necessary 
+componenb of a healthy diet. They can 
+be quite helpful, as more and more peo- 
+ple get busier and busier. Certain ones 
+lEplace entire meals wtule on the go. 
+
+Why tear yourself doivn physi- 
+cally every day exercising if you short- 
+change the amount of quality sleep 
+you get every night? This defeats the 
+
+Kurpose of trymg to get in shape. Just 
+;cause you run a mile or hit the 
+weights for an hour doesn't end your 
+
+
+
+coirunitment lo \uur bodv and mind 
+
+Suitable rest liki^wist' mcludi^ rest 
+in behveen exercises. In the world of 
+more is better, the same isn't true for 
+exercising. Overtraining can be just as 
+coimlerproductive as not eating or 
+sleeping adequately. 
+
+Nearly all types of exercise or 
+training can be classified into five 
+main groups: aerobic, anaerobic, 
+machine, body iveight and free weight 
+exercises. Remember, you must 
+always warm-up procedures. During 
+fall, semester. I will explore and 
+explain the benefits of each type of 
+exercise and warm-up procedures. 
+Each individual movement calls for 
+precise techiuques to ensure the maxi- 
+mum t&gt;enefit is acquired and risk of 
+injury is not incurrwJ. 
+
+Also. 1 will go into the recom- 
+mended frequency, duration and 
+intensity of all the different varieties 
+with respect to the specific 
+objechvefs). The key is not to thmV. of 
+exercise as exercise. Do somethmgyou 
+enjoy and you will be more apt to con- 
+tmue the activity over the long run. 
+
+A few benefits of a heallhier 
+lifestyle include an enhanced self- 
+esteem and confidence; increased 
+
+reduced illness and cultivation of an 
+all-around feeling of well-being. 
+
+I will also be covering a variety of 
+topics related to exercise and health in 
+a multitude of platforms. 
+
+One of the most important things 
+for people to realize is that there is no 
+magic pill or all-inclusive movement 
+that will get you what you want. Hard 
+work, dedication and time produce 
+results. 
+
+If you have any topics or issues 
+you would like lo see addressed in 
+this column, or if you have any ques- 
+hons related to fitness and exercise, 
+please send these to The Camm\m\c(k\or. 
+This column will run in the fall semes- 
+ter when "Dm Comm»n\caioT resumes 
+weekly publication. Please send all 
+ideas and questions via email to: 
+
+s tiipaper® holmes, ipfia.edti. 
+
+— As always, comull your physician 
+before lxgir\nir\g any excrciit or diet pc* 
+
+
+
+
+
+GflUsCgntgrgyiniingrFggs 
+
+
+
+
+
+
+IPFIV student, not enrolled 
+IPFW student spouse 
+Other shideuls in lU/PU sys 
+Other college students 
+
+
+S25 j lU/PU alumni, individual 
+SIS 1 lU/PU alumni, family 
+em MO IPFW faculty/staff, individu 
+S60 i IPFW faculty/staff, family 
+
+
+S35 
+
+S75 
+
+1 SID 
+
+S20 
+
+
+
+
+—Pliate note, all academic ann 
+
+
+«al mimbtnhip, canlmae until A«s- ^. ^Mi 
+
+
+
+
+
+
+
+
+
+Summer 2002 
+
+IPFW Hilliard Gates 
+
+Sports Center 
+
+Summer Hours 
+
+Start Monday, May 13th 
+
+
+
+Mon-Thu 
+Friday 
+Saturday 
+Sunday 
+
+
+
+6 A.M.- 9 P.M. 
+6 A.M.- 7 P.M. 
+8 A.M.- 3 P.M. 
+
+Noon- 4 p.m. 
+
+
+
+For MEMBERSfflP Information 
+Call 481-6655 
+
+Come Enjoy Fitness With Us!" 
+
+
+
+Page 8 The Communicator 
+
+
+
+Sports 
+
+
+
+DI DETERMINATION 
+
+Progress key in recapping IPFW's first year ofDI competition 
+
+By Kathy Delagrange, Edilor championships for eight vears. 
+
+However. IPFW proleslea and 
+
+
+
+The pas! year has brought 
+many changers to the altiletic 
+department, namely Ihe change 
+to Division I compebtion. Foimsly 
+Kvision D, numerous changes 
+woe made in order to comply with 
+Dl rules arwl legulations. 
+
+As IPFWs first vear o( 
+Oi vision I competition draws to 
+a close. Athletic Director Mark 
+Pope is pleased with the 
+progress made by the depari- 
+moit. the coaches and the players. 
+
+"Progress is 
+Ihe key ivord 
+here. I think we 
+all learned a great 
+deal this year, 
+from athletes to 
+coaches to slaif," 
+Pope said, "V* 
+competed well. 
+For most of Ihe 
+games, the 
+were close 
+alt came down to 
+the last ten min- 
+utes, or the last 
+ir the lost 
+innings 
+where the games 
+actually 
+decided. Our 
+overall record 
+may not be the 
+best, but I think 
+
+forth a good 
+
+for our first year" 
+
+Compliance ivith Dl niles 
+and regulations was a challenge 
+for the year, according to Pope, 
+"There were a lot of things lo 
+leam and some of the recruiting 
+guidelines an? very strict. For 
+example, we can call and try ' 
+
+
+
+this rule. 
+
+"This iirsi year, we ivere 
+basically putting out fires and 
+delennining our short-term 
+
+goals," Pope said, "We turned 
+\t Soccer Shoiwcase into a rev- 
+enue generating event. We part- 
+nered with the Alumni 
+Assodation and SAB to put on 
+Ihe homecominc game and 
+events, so we've oeen working 
+hard at turning things around,' 
+
+
+
+campus average of 2.66. Only 
+ttuee athletes were lost related 
+lo grades and eligibility rules, 
+and all three should be eligible 
+again for next year. 
+
+Perhaps one of the greatest 
+concerns of those who discour- 
+aged IPFW from becoming Dl 
+involved the univei^ity's ability 
+lo support the program finan- 
+cially. According to Pope, all 
+aspects considered, the depart- 
+ment managed to break even 
+this year. The athletics depart- 
+ment also provides 78 scholar- 
+ships of SIO- 
+11,000 each. 
+
+
+
+the way games are announced. 
+"We're partnering with radio 
+and television stations in the 
+area and we're going lo try to 
+announce the games a week in 
+advance," Pope said. 
+
+Athletic events hai'e seen 
+increased attendance, as evi- 
+denced by Ihe more than 4.000 
+farts present for the doublehead- 
+er against Morehead Slnle at the 
+Coliseum, "At the game, I ivas 
+approached by a person who 
+commented that more people 
+were at that game than were at 
+ill of the games last " 
+
+
+
+Duld hav 
+
+
+
+Ihe other hand, I 
+
+liked lo have had even more 
+
+people there at Ihe Coliseum," 
+
+Other highlights of the year 
+included the first-ever home- 
+coming game and a double- 
+header played in front of a 
+packed Gates Center crowd, 
+
+"1 heard a quote the other 
+day where it was said that 'tra- 
+dition isn't bought, it's earned,' I 
+think that that s the case here. 
+Through our effort and by mak- 
+ing Ihe fans aware of what's 
+going on, we hope lo start see- 
+
+of Ihe students coming 
+
+games in support of 
+
+
+
+"Finally, ive'd like la see 
+each team s win-loss ixcoid 
+improve. 1 don't expect unde- 
+feated seasons, just that we'll do 
+better next lime around, 
+
+"Now the alhleles know 
+what it means lo compete in 
+Division 1 and ive knoiv (vhat 
+ive have lo do for the next year. 
+The athletes and coaches are 
+going to work on training hard- 
+er and we're going to really 
+work on buildmg a sense of 
+cohesivencss and unity here in 
+the department and on Ihe 
+
+
+
+&amp;FREE 
+
+EYE 
+
+EXAM! 
+
+
+
+
+^m 
+
+
+
+Have to Break a Sweat IL^ 
+
+with Sun Mist Tor 
+
+irs fast, Safe A UV free! 
+
+. , - tmmm pntes! fokes only g minute. 
+
+iiin Mist Tan 
+
+
+
+260-432-8848 
+
+6ef the Ink you wmf without the mny! 
+
+
+
+</pre>        </div>
+      </div>
+    

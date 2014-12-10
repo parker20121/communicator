@@ -1,0 +1,3341 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorfeb202002indi/communicatorfeb202002indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorfeb202002indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorfeb202002indi">The Communicator</a>"
+          </h1>
+          <pre>WEDNESDAY 
+
+February 20, 2002 
+
+
+
+The 
+
+
+
+Communicator 
+
+Indiana University — Purdue University Fort Wax/ne 
+
+
+
+Volume 36, 
+
+
+
+News Briefs 
+
+Nursing students 
+to sponsor new 
+Parkview facility 
+
+Thf Sigma Thela Tau 
+InlernalLonaT Honor Society ol 
+Nursing jnd the nursing stu- 
+denis (mm Ihc Univeisily of 
+Salnl FMncis and IPFW are 
+sponsoring I he opening of Ihe 
+new Ronald McDonald Family 
+Room located al Parkview Hospiut. 
+
+"This is a very worlh while 
+projccl involving nursing stu- 
+denis- from IPFW and the 
+UniversiLy of SainI Francis." said 
+Sarah Deckman. chapter presi- 
+dent of Xi Nu at-larce at IPFW 
+.ind U5F. 
+
+"IPFW students Michelle 
+DeArmond and Kellv First have 
+been involved with planning 
+and coondin.iling this co-spon- 
+sored event. We encourage the 
+collaboration lielwecn students 
+from both universities," 
+
+An educational program will 
+be held on Wednesdav, Feb. 27. 
+from 7-9 p.m. at Ihe University 
+of Saint Francis in Room 151 of 
+the Docrmct Family Health 
+Science Building, 
+
+Joyce Grolri.in RN, MSN will 
+speak on families coping with 
+cnronic illness in children. Lisa 
+Pacula will speak about the serv- 
+ices provided by the Ronald 
+McDonald Family Room. 
+
+Those who plan to attend are 
+encouraged to bring one of the 
+following items to support the 
+Ronald McDonald Family Room: 
+"designer" siic Klccncn; dispos- 
+able razors; set of while Corelle 
+dishes: small bags of chips; juice 
+boxes; granola bars or snack 
+pack cereal boites. 
+
+Please call Denise at 4M-3239 
+
+Dance Theatre of 
+Harlem appoints 
+EDriLWaj5ie_ 
+native as director 
+
+Jetomc D. Grant, a Fort 
+Wayne native, has recently been 
+appointed director ol marketing 
+for the Dance Theatre of Harlem. 
+
+Grant joir\s Danct Theatre of 
+Harlem from the YWCA of Now 
+York City where he was director 
+ol Special Events and Event 
+Marketing. 
+
+While there. Grant oversaw 
+lliL' iii.irt.otinK and publicity of 
+
+
+
+
+Theatre and at New York's City 
+Center 55lh Street Theatre 
+
+Grant received a Bachelor of 
+Arts in Theatre and Dance from 
+Indiana University-Purdue 
+University Fort Wayne prior 1o 
+receiving a Master of Arts in 
+
+
+
+Adm 
+
+
+
+India 
+
+
+
+University, Bloomingti 
+
+During his master's program, 
+he was awarded the International 
+Society of Performing Arts 
+Administrator's Seruor Fellow, 
+which he completed at the New 
+Jersey Performing Arls Center in 
+Newark, N.J. 
+
+"I'm happy to join Artistic 
+Director Arthur Mitchell and 
+CEO Ernest Littles in their vision 
+to ensure Dance Theatre of 
+Harlem's growth in market lead- 
+ership," said Grant, "and to help 
+lead one of the world's most 
+prominent and prestigious cul- 
+tural ir\stilulions and ballet com- 
+panies into 2002." 
+
+
+
+On The Web 
+
+
+
+Index 
+
+Opinions 2 
+
+Features 3 ,4 
+
+Sports 5 
+
+Highlights...- 6 
+
+
+
+
+Photo by Todd Hamm. News Editor 
+
+
+
+Love at the Lapin Agile 
+
+
+
+Jason Graf, left, and Kasey Foster share a kiss in a scene from the play "Picasso al t 
+Lapin Agile" during a dress rehersal on Tljursday, Feb. 14. Graf plays Freddy, the 
+Lapin Agile bartender, and Foster plays Germaine. a waitress al Lapiri Agile. The 
+action of the play involves a fictional meelin^ between Pablo Picasso and Albert 
+Einstein at the Lapin in Ihe early I^ODs. 
+
+
+
+Forum to prepare 
+students for business 
+world dress, trends 
+
+
+
+21 Alive's Jaiiette 
+Luu to host event 
+
+By Todd Hamm, News Edilor 
+
+Students will have Ihe chance 
+to learn how to dress for job 
+interviews and the business 
+world work place during a Feb, 
+
+
+
+The 
+
+
+
+lor 
+
+
+
+Success," will feature models 
+from local apparel outlets and 
+business professionals in a fash- 
+ion show setting from noon-l 
+p.m. in the Walb Union Ballroom. 
+
+The Olf ice of Student Life and 
+Academic Counseling and 
+Career Services at IPFW arc 
+sponsormg Ihe event, txiri Bclh 
+Royse, director of Student Life, 
+said Ihe free event applies to 
+every student. 
+
+"'Dress for Success' will help 
+bring our students up to speed 
+in ptofessiorial trends," Royse said. 
+
+The forum features three tar- 
+get areas: informal dress, inter- 
+view and general businesE etiquette, 
+
+TTie Casual Corner Group, 
+which will include Petite 
+Sophisticate. Casual Comer and 
+August Max Woman, will pro- 
+vide models lor the show. 
+Marshall Field's will be using 
+
+
+
+student volunteer models. 
+
+The models will walk down a 
+runway dressed in business and 
+
+As they showcase appropri- 
+ate clothes, commentaton will 
+describe the general rules of 
+what to wear and what not to 
+wear during interviews and r 
+business mcelings, said Kristin 
+Woods, a career counselor al 
+Academic Courueling, 
+
+According to Woods, Michelc 
+Mansfield of Positive Impact 
+Coruulting, Inc. wiL lead the por- 
+tion of the program that will 
+locus on first impressloiu and 
+genera! etiquette. 
+
+She added that MansHeld 
+"does a great deal of ir 
+
+
+
+ALso participating in the pro- 
+
+gam is Mary Beth Phelps ol 
+oodwill Indiishics of Northwest 
+Indiana. She will be working 
+with two volunteer modck to 
+demonstrate "Dress lor Success 
+on a Budget" according to V\bods, 
+Local retailers and other pro- 
+
+
+
+Program to address diagnosis, 
+treatment of ADHD 
+
+
+
+lU's business school to help 
+establish MBA prograin in Croatia 
+
+
+
+BLOOMINGTON, Ind. — (lU 
+News) Indiana University's 
+Kelley School ol Business will 
+help Croatia's lour universities 
+to establish an international- 
+standard MBA program that will 
+help build a climate for econom- 
+ic growth and loster stability 
+among Ihe nations ol the former 
+Yugoslavia, 
+
+The VS. State Department has 
+awarded a 5320,000 grant to the 
+Kelley School, which will assist 
+the Republic of Croatia's lout 
+universities in establishing an 
+English- language MBA program. 
+
+The Consortium ol Faculties 
+of Economies in Croatia (CFEC), 
+ivhich includes the University of 
+Zagreb, the University of Split, 
+the University of Riitfea and the 
+University ol Osijck, will work 
+with faculty from the 'Kelley 
+School to design , ' ' 
+
+
+
+■iablc. ; 
+
+
+
+-lablc t 
+
+
+
+MBA program to serve the needs 
+of Croatia and the ividcr region. 
+"With this new program in 
+Croatia, the Kelley School is 
+building on its considerable 
+experience in the trarwition 
+economies, ol Eastern Europe 
+and our experience in develop- 
+ing and implementing new 
+degree programs to meet market 
+needs and shjdent enpeclatiotu," 
+said Kelley School Dean Dan 
+Dallon. "We look forward to 
+working with faculty Irom 
+
+
+
+English -language MBA program. 
+This effort extends and comple- 
+ments our previous program 
+development efforts in Hungary 
+and Slovenia," 
+
+Bruce Jaflee, Kelley School 
+associate dean for academics, 
+will serve as the project's ditec- 
+
+
+
+cessful MBA progr 
+involves creating sound admin- 
+istrative policies and procedures. 
+This pro)ecl will provide oppor- 
+tunitics'for Kelley School staff to 
+be integrally involved, as wclL 
+
+One of the main problems fac- 
+ing Croatian enterprises is the 
+serious lack of qualified man- 
+agers, including practitioners 
+and policymakers who are able 
+to diagnose and -olve current 
+problems, and also to plan strate- 
+gically lor Ihe future. In order to 
+grow. Croatia's businesses must 
+participate more actively and 
+cllectively in international mar- 
+kets, and expertise for doing so 
+must be developed more broadly 
+and at a higher level. 
+
+In the lost decade, more than 
+140,000 young college-educated 
+Croatians have left Ihe country, a 
+trend that has severely impacted 
+the nation's economic growth. In 
+mid-October. Croatian President 
+Stjepan Mesic called together 
+representatives of the govern- 
+ment and the busini^ss communi- 
+ty to dL-iCuss the netd to establish 
+
+
+
+a stronger link between the 
+country's educational institu- 
+tions and the pressing needs ol 
+Ihe labor market. 
+
+This new centralized English- 
+language MBA program should 
+contribute significantly to meet- 
+ing these needs. Regionally- 
+based, it will also play a central 
+role in educating generations ol 
+business professionals who will 
+form a strong network of person- 
+al and business relations. This 
+network will be imporlant in 
+building stronger economic ties 
+among the countries of the for- 
+mer Yugoslavia and elsewhere. 
+In doing so. it will also make a 
+significant contribution to stabil- 
+ity in the region. 
+
+The proaram will lav the 
+groundwork for an expanded 
+network ol faculty and graduate 
+students in Cenlral and Eastern 
+Europe, a primary interest of the 
+Kelley School for many decades. 
+
+With strong partnerships 
+in Hungary and Slovenia, 
+Croatia's neighbors, Ihe Kelley 
+School will be able to include Ihe 
+CFEC program and its faculty 
+and shidents in this active regiori- 
+al partnership. 
+
+The program will Ije based in 
+Zadar. a mid-sized city on the 
+Adriatic coast (population 
+100,000), The mayor of Zadar. 
+Bozidar Kalmeta. has provided a 
+building for the program. 
+
+
+
+The IPFW Division of 
+Conlinomg Studies, in coopera- 
+tion with ine psychology depart- 
+ment, 15 otfcring a seminar on 
+■ Allention Deficit Hyperactivity 
+Disorder (ADHD); Diagnosis 
+and Treatmehl" March 5 from 6 
+to 9 p,m, on the IPFW campus. 
+
+Prevesh Ruslagi, M,D,, med- 
+ical director of inpatient psychi- 
+airy at St. Josepn Hospital in 
+Fort Wayne and clinical associ- 
+ate professor of psychiatry at 
+Indiana University, will be pre- 
+senting the program, 
+
+ADHD affects five times as 
+many males as females and is 
+present in three to live percent o( 
+all school-age children. For 50 
+percent of that population, the 
+problem persists mio adoles- 
+cence and adulthood, 
+
+IVhy is ADHD being diag- 
+nosed more frequently now than 
+before? IVhat are the long-term 
+effects of medicatioru7 Can 
+
+
+
+
+
+
+"These and 
+
+
+
+.._.i;dill.T. 
+comorbidity. 
+
+behavioral tr 
+
+The seminar will benefit par- 
+ents, educators and anyone dealing 
+with ADHD, as well as profes- 
+sionals who can earn continuing 
+education credits for attending. 
+
+IPFW is approved by the 
+American Psydu&gt;logical Associate 
+(APA) to oiler 3.0 Continuing 
+Educatio 
+
+ogists, Participalioi 
+nar will earn 0.3 Continuing 
+Education Units for social work- 
+ers and marriage and family 
+therapists. 
+
+The cost is S69 per person, or 
+attend with a friend for S63 (reg- 
+istrations must be subinilted 
+together). 
+— Informalion courlesy of a Muftw- 
+
+
+
+'Atlas' a success at contest 
+
+
+
+'On the Town' 
+opening pushed 
+back one iveek 
+
+Opening night for the sprmg 
+musical "On the Town." has 
+been delayed by one week due 
+to the nKtnt success ol the IPFW 
+department ol theatre at the 3-tth 
+annual Keiuwdy Cmter American 
+
+
+
+; Colle 
+
+
+
+The; 
+
+
+
+Fest 
+
+
+
+OiC/ACTFl Regional Competiticii 
+Jjn. 9-14 mEvansville, Ind. 
+
+"On the Town" will now be 
+presenled on May 3. 4, 9, 10 and 
+1 1 at 8 p.m. and May 5 and 12 at 
+2J0p.m. 
+
+■The dates for the musical 
+had to be changed, to anticipate 
+that we might be invited to 
+
+
+
+Wastvinglon." said Larry L. Life, 
+ctiair and artistic director of the 
+department of theatre. 
+
+"We are excited and ready to 
+perform this play for ; ' 
+
+
+
+In the past, "Dames at Sea" 
+and -Hair" have olso been 
+finalists in Washington D.C. 
+The Kennedy Center American 
+College Theatre Festival is a 
+national theater education pro- 
+gram that aims to identify and 
+promote quality In college-level 
+theater productions. 
+
+The original one-act play, 
+-Atlas's Cigar," written by stu- 
+dent Betsy Breitenbach. " " 
+
+
+
+of 
+
+
+
+yeai 
+
+
+
+.cl 
+
+
+
+alter a receni performance at 
+KC/ACTF. "Atlas's Cigar" will 
+be competing for Ihe chance to 
+go to the Keruiedy Center in 
+Washington, D.C. in April. 
+
+An official ol the national 
+committee of the KC / ACTT has 
+called and advised the IPFIV 
+department ol theatre to 'save 
+your sets, props and costumes," 
+a good indication ttut the play IS 
+l&gt;eing seriously considered. 
+
+Al the recent regionat compc- 
+liljon. studoit Carde Buglcwkz's 
+oi\e-act play "Depth Percepbon." 
+received second place in tliis 
+year's One-Act Playwrighting 
+Competition and Breitenbach 
+came in third with her piece 
+
+"illed "Ambivalence," 
+
+
+
+
+Playwrighting Compelit 
+received very favorable com- 
+ments and a standing ovation 
+
+
+
+Photo by Denniez Zhie. Photo Edilor 
+
+
+
+jazz Bash 
+
+An IPFW student reads poetry al the Black Collegian 
+Caucus's Jazz and Poetry Bash, on Feb. 15. The event 
+showcased the talents of IPFW students and the greater 
+Fori Wayne community who read poetry and played 
+
+
+
+Page 2 The Communicator 
+
+
+
+Opinions 
+
+
+
+
+matter of going public: 
+
+To pee or not to pee, that is the question 
+
+
+
+lopic or a 5lliialion that |U5l doesn't sit righl 
+with me. One sucli situation occurred hvo 
+yeais ago at Germanlusl here in Fort Wayne. 
+
+For those of you who may be unfamil- 
+iar, Germanfcst is a celebration oF German 
+heritage held each summer. Housed in a 
+lent downloivn, the festivities mdude per- 
+/omianccs by German bands, opportunilics 
+la dance lo polka music and the chance to 
+parlicipalc in a rousing rendition o( Ihe 
+Chicken Dance." And o( course, perhaps 
+the thing lor which Cermanfest is best 
+known— beer. 
+
+Now, wilh this background informa- 
+tion, il may become painlully apparent that 
+beer, iaree crowds, Dcei. an outdoor venue 
+and well, more beer, can lead to an inleresl- 
+ing bathroom situation, namely the use o( 
+Ihe port-a-potty. 
+
+Being a somewhat sheltered person 
+(and apparently luckier than I realized), 1 
+had never had the misforhine of using a 
+porl-a-polly. Somewhere deep m my sut 
+conscious mind, 1 must have had an idea of 
+
+
+
+... I and Ihe discovery thai Ihe door didn' 
+latch completely. Luckily, one of my friends 
+had chosen the same line and was next m 
+line. 1 poked my head out and asked her to 
+guard the door. 
+
+Somewhat reassured that I would not 
+be disturbed, I was able lo take in my sur- 
+roundings. A non-Hushing toilet sat mches 
+away, daring me to look inside. 1 stood there 
+
+
+
+of Iransferiing filth and potential disea.&gt;^ 
+
+Although my friend fell victim to liic 
+large quantities of relatively cheap draft beer 
+and was forced lo heed nature's call, she did 
+have the common seiue lo wash her hands. 
+Some of you may be \s(ondering why 1 
+chose to rant about this issue in the middle 
+of ivinler, two years after the fact. Well, lo 
+satisfy your curiosity, it is because 
+
+
+
+._-_^.-__ my friends is in the process of build- 
+engaged in a battle of ' ing her first home. Because the 
+wifls; mine and the porl- " Qf :3 (( plumbing is not connected yet. Ihcif 
+a-polly's. The port-a- • Jlttll • is a port-a-polty on her properly for 
+polty won — 1 jusi could •—,.!. , .. • the conslruclion workers lo use. 
+nol bring myself lo use , ^QltoriSl • '^'*"- ^"hough my friend has 
+a public outhouse. . _ avoided Ihe contraption like the 
+After stepping out plague, an interesting situation arose 
+of Ihe blue morwier, ]•••••••••• last week. 
+
+tried lo walk lo the hand sanitizer dispenser Alter working on Ihe house one night, 
+
+at a normal pace, even though 1 wanted to my friend relumed the nent morning, only 
+rush over and cleanse mysellof feeling iike lo be greeted by a foul-smelling front yard. 
+
+
+
+illerly disgt 
+
+iplion is. However, the full realization 
+did not hit me until that nighl. 
+
+After surviving being flung around the 
+dance floor by little old men in ledeihosen, 
+my friends and I decided to make a foray to 
+Ihe blue port- a-pot lies. 
+
+Oh, how we longed for a normal rest- 
+room as we stood in line and wailed for 
+
+I should liavc wailec until 1 got home. 
+
+Upon sleeping inside Ihc plaslic closet, 
+which seemed more like a modem-day out- 
+house, 1 was greeted by both an unpleasant 
+
+
+
+* contaminated wilh an invisible organ- 
+ism, I wanled lo shout, "Unclean, uncleanl 
+Clear Ihe way lest ye suffer a similar fatel" 
+
+As 1 washed my hands for a lengthy 
+period of time. I was appalled to notice that 
+many of the people exiling the plaslic out- 
+houses were simply relummg to the festivi- 
+ties inside Ihe lent. 1 can understand the 
+
+
+
+Someone nad lipped the porl-a-potty 
+over. She believes it may have been inten- 
+tional because the device was standing Ihe 
+night before, and in Ihe morning, it was on 
+its side. Some opllmisls may be considering 
+Ihe notion thai wind or Mother Nature 
+upsel Ihe porl-a-polty's balance, causinc it 
+Although these are pN 
+
+
+
+stand failing 
+
+enough when someone leaves a regular 
+bathroom without washing, but somehow it 
+seemed more urmerving that anyone ivould 
+use something as polenhally dirty as a port- 
+a-polty without wastung up aftcr^vards. U115 lUlVll. 
+
+I like to lhi[\k that livis was a moral vic- 
+tory for me in thai 1 refused lo compromise 
+my standards by using a plaslic mechanism Kiiliiy Dir/n^rnn^^r, Edili 
+
+
+
+These stories confirm ^^vo Ifungs for me. 
+
+1) Port-a-potlies are disgusting and lo be 
+avoided whenever possible. 
+
+2) People just don't have enough lo do in 
+
+
+
+Equal rights: Is equal really equal? 
+
+One ot my greatest pet peeves involves equal nghls 
+You micht think it odd that a nght-win^-d pcr^n hkc myself i 
+ivould Jciualli be in fsvorof eoual righL' Aiier ,ill v.e .tie iiis*d 
+with Ihe notion iful onU liberals st.ijid tor c-qual n^hts 
+
+In actuality, nghl-winKed people .ire for is^ual nghL'.— we sim- 
+
+Ely aren't for giving special tign is to groups oi people. Li'll-wingcd 
+beral.'., however, would likeyou to belie e that they stand for the 
+equal rights of alt people. Ur\lortunjtely, not all liberals actually ^^ 
+stand for equal ri^ts. Many liberals stand for unequal rights whiles 
+hidingundet Ihe umbrella of 'equal rights.' Let megivcyoujti.st ' 
+one ctamplc of liberals standing for special rights. 
+
+Liberals are, for the most p.ut tVoOioice. belie\-ing that it is 
+solely 3 right of the mother to choose it she disircA lo allow her 
+baby to be bom or if she ivishcs lo end her Kiby's lite 
+
+Asa male, if 1 choose tohavcsv.v wilh my girlinend and she 
+becomes pregnant with my child, the Pro-Choicc movement , 
+
+believes I have no ri^l lo decide the life or dcalh of my own child. \ 
+Let me give you a ouick biology lesson. In case you didn't know it 
+yet, storks don't deliver babies. Babies are conceived when Ihe 
+sperm of a man meels the egg ot a woman. You see, il lakes both a 
+mar and woman to make a baby- 
+When you take away my right lo make decisioiw tegatding 
+my own child and give tnal rcsponsibilily totally lo my girlfriend^ 
+you are giving my girlfriend special ti^ls, and that is not fair. We 
+are all equal, thus, ine lerm "equal rights," You sec, in any icbtion- 
+ship, the choice ccists 
+
+long before the liny Frnm th*^ 
+
+baby is developing in rrOrTl IMC 
+its mother's uterus, 
+TTiE choice is encoun- 
+tered in the bedroom, 
+where each person 
+has Ihe opportunity 
+to say -No" lo sex. 
+
+rnough of 
+
+
+
+Right 
+
+
+
+
+
+
+olakc 
+
+
+
+
+dam well belter bo enough of 
+
+actions. If I fear l,iking rcspori.iibilily lor my 
+
+obviously not ma Into enough lo be having sex. 
+
+Liberals Irv lo portray the rro-Litc movement 
+and pro-man. when the I'co-Lile movement is just Standing for Ihc 
+
+!)roli.\:tion of equal rights. Both individuals, wiielhcr mollxcr ot 
+ather, deserve lo have a say in the life Ihey have created together. 
+Quite simply, it is not fair lo declare thai a falher has no say in the 
+decision of whether or not his child will he allowed lobe bom. 
+
+The Pro-Choicc movement would have you believe thai, in 
+order lo be classified as Pro-Llfe, you must be in opposition to 
+abortion in any circumstance, even in ca.ws of rape, incest or 
+endangermcnt of the mother's life. 
+
+The fact is just Ihe opposite. If you can recall George W. Bush's 
+stance on abortion, he is Pro-Life. and would never accept being 
+called Pro-Choice. Yet Bush opposes abortion, except in case of 
+rape, incest and when Ihe mollicr's life Ls in danger, 
+
+Vou see. Pro-Life simply means that you don't believe thai a 
+woman should have the right to end Ihe bfc of the child as a means 
+of birlh control. Pro-Choice means that you believe Ihat a father has 
+no choice, and th.it a woman not only has her choice, but licr 
+child's father's choice, as well. 
+
+Think about Ihat for a minute. Don't lake the all the m^ia's 
+reporhne as fact. Don't think thai Pro-Life people are psycho righl- 
+winged ranalics. The majoritv of the American populalion holds to 
+a Pro-Life stance similar lo that of President Hush. 
+
+As college students, I don'l believe we should blindly follow 
+Jn Ihc moral decline of our country and continue to trivlalixca tin&gt;' 
+life thai took two people — one female and one male — lo produce, 
+and turn that life into a fierce a tgii men t. 
+
+Tlie argument should fiave laken place long ago. in Ihe bed- 
+room. II you aren't strong enough to say "No" in the bedroom, then 
+allow me to offer you some advice. 
+
+Simply put, don't let yourself be put in a sihjahon where yuu 
+may be forcM to compromise. You have a choice, whether you are 
+female or male. Set firm in your mind what you choose lo do. and 
+when you do il. sland up and laki^ responsibilily for your actions. 
+
+Don't be afraid to sland up to the powers that be and Say 
+"No" in Ihc bedroom. For a lot of people, thai is Ihe only choice 
+Ihal they're left wilh. 
+
+It's not that hard, really. After all, no means no. 
+
+
+
+Standing tall sometimes means being willing to bend 
+
+
+
+By Stephanie Sample, Slalf Writer 
+
+Although I have grown to appreciate and 
+expect Ihe painful chill of our norlnem Indiana 
+winlers, I do no! leel al all guilty for t&gt;cing so 
+happy about the relatively mild one we have eipe- 
+rienced this year. However, Jack Frost did send us 
+Ihal ice storm three weeks ago, just lo prove Ihat 
+IV e had not been overlooked. 
+
+Sine* he is apparently making so few appear- 
+ances this year, he has made sure that Ihe time he 
+does put in is well spent. Being a city-dweller, the 
+storm produced no real emergencies or obstacles 
+tointenupl my regular schedule. My out-of-toivn 
+friends, however, were not so lucky. 
+
+1 heard countless horror stories of week-long 
+power outages and heroic acts of bravery lo save 
+quickly- thawing, perishable food items. While my 
+country-folk friends were learning how lo cope 
+
+
+
+trees remaining in my pari of lotvn. 
+
+For those of us who made it lo school the day 
+after Ihc storm, we got lo see our campus dressed 
+up like a winicrtime fairy land. Since this was the 
+day that glass-blowing artist Dale Chlhuly was in 
+town, my imagination aulomalically likened the 
+dear, sparkling ice thai covered the trees to the 
+skilled touch of a glass artisan. 
+
+
+
+The shot of the day (on campus) was a tree 
+between Ncff Hall and the Science Building. The 
+weigh! of the ice caused Ihe tree lo bow. so that Ihe 
+lop of its head grazed the ffosled. crispy grass 
+benealh. creating a solid arch of ivood and ice. I 
+almosi never slop in transit between classes, bul 
+the image of thai tree manipulated in such a way 
+stopped me in mid-slride. 
+
+1 stood there, dumbfounded. I was reminded 
+ol a story I read as a child. 11 was a fable aboul a 
+reed anci a tree. A storm comes and the reed sur- 
+vives because it moved wilh the elements. The 
+tree cracked and fell with the force of the wind. 
+
+The intended moral is this: II Ls belter to 
+move with the elements than lo sland rigidly and 
+break because of them. I always appreciated the 
+little tale, Hmvever, I noiv tuve many problems with il. 
+
+First of all. as you can see. a Iree can bend 
+with Ihe slotm ana survive, same as the reed, 
+although these bending Irecs arc much less preva- 
+lent. Tliere are some people who stand firm, but 
+know ho*v to bend when they have lo. It is an 
+in|uslice tJial these people, the bending trees, go 
+urunentioned in the fable. 
+
+Next, breaking doesn't always mean death or 
+failure. \Vhen I pulled in the driveway of my 
+childhood home after my encounter with Ihe 
+bending tree. I noticed that the Russian olive tree 
+in our side yard was destroyed. Russian olives are 
+
+
+
+very brillle, bul hearty trees and in the sprmg Ihcir 
+flowers produce a sweet fragrance Ihat permeates 
+the enhre neighborhood. It was depressing lo gaze 
+at It in all of ils dismantled misery. 
+
+However, there is still hope. That tree has 
+been chopped down, destroyed by strong winds 
+or ruined by an ice slorm once every five years for 
+as long as I can remember, and eveiy lime it pows back. 
+
+My family has accepted the tree and ils 
+unwillingness lo die. We quit trying lo destroy it 
+years ago. Noiv I find myself at a place I have been 
+m.iny limes before. Can our Russian olive come 
+back after yel another blow? It's Ihe same anlici- 
+palion and nervousness Ihal basketball fans feel 
+every lime Michael Ionian comes out of retirement 
+
+So really, the old fable of the reed and the Iree 
+should be updated lo mclude tivo other possibih- 
+lies: The tree that bends and Ihe tree Ihat breaks, 
+but keeps coming back, Wilh the addilion of these 
+tivo elements, the whole moral of Ihe slory is lost. 
+Mother Goose would be mighty upsel with me. 
+but I am a member of Ihc press and it is my 
+responsibilily to expose fallacies. 
+
+My new and improved version of the fable 
+conlaiitt four characters: the reed, the liee Ihal 
+breaks, Ihc tree Ihal bends and the tree Ihat breaks, 
+bul keeps coming back. 
+
+A reed thai bends and moves wilh the ele- 
+ments is graceful and fluid, but also very fragile. A 
+
+
+
+reed can be mowed over, stepped on or uprooted 
+by human hands. Being flexible is good — being 
+too flexible and easily uprooted is not. 
+
+TTic tree that breaks without regenerating is 
+still Ihe character that is Ihe leasl attractive, ^1osl 
+would nol want to be represented by Ihe slubtram 
+tree that breaks. 
+
+The tree Ihat bends and moves wilh the 
+storm IS beautihil in its contorted state, bul il is 
+othenvisc just another skirmy Iree planted in an 
+allcmpl to bring some semblance of^nalure lo our 
+urban surroundings. Normally, we walk on by. 
+
+The Russian olive thai grows back after fre- 
+quent attempts lo destroy it is not so graceful as 
+tnc tree that Dends. but when il is healthy and pul 
+together, il is the most beautiful Iree 1 know. 11 
+seems Ihat all the possibilities have an Achilles' 
+heel, just proving llial there are no sure bets. 
+
+Although the moral of the onginal fable fails 
+when updated, my version of Ihe tale provides 
+one of equal importance. All but Ihc broken tree 
+thai refuses to bend will survive the slorm. The 
+character an individual chooses to emulate is 
+largely a mailer of personality and character. 
+
+1 admire the grace of a fragile, flexible reed, I 
+pity the stubbonuiess of a broken Iree Ihal refuses 
+to grow. I marvel al the splendor of a tree thai 
+bends, bul I'm secretly rootmg for the tree that 
+stands firm and, although broken, refuses to die. 
+
+
+
+Editorial Board 
+
+
+
+Contact Us! 
+
+
+
+Editorial Policy 
+
+
+
+Knthy Deloerange. Ediror 
+DntTD Early, .iriinujm£ EJilor 
+Tbdd IlDmm, tJ^i Editor 
+Jonah Crismare, Faiiujii Ediior 
+Rencc ThompsoD. Special Seciioni Ed 
+Adam Spielh, Sports Eduor 
+Dtanin Zhle. Phoio Editor 
+Adam 'Hijlor, Copy Editor 
+Braadon Scbwaric, Rtpoitct 
+EUa StuUnian, Adttrtiiing Managtr 
+Dorie ReyDolils, Publithir 
+
+
+
+The Commiinicalor 
+
+Suite 215, Walb Student Union 
+
+2101 E. Coliseutn Blvd. 
+
+Fort Wayne, IN 46805 
+
+stupaper® holmes, ipfw.edu , 
+
+Editor: 481-6584 
+
+Publisher 481-6585 
+
+Advertising: 481-6583 
+
+Fax: 481-6045 
+
+
+
+Unsigned editorials are the opinions of The 
+Communicator. The opmions expressed do not ncc- 
+cssanly renecl the views of IPFW. its employees or 
+its sludent body. A column is solely the opinion of 
+its author 
+
+The Communicator welcomes responses from 
+ils readers. Letters to the Editor and guest columc\s 
+musi be signed, daled and accompanied by a cur- 
+rent, valid address, phone number, class standmg or 
+title and ma)Of Letters without these requiremenis 
+will nol be considered for pub Iica lion- 
+All submissions made via e-mail will be veri- 
+fied by phone or in person. Submissions via mail or 
+c-mail without Ifiis mformation will not be pub- 
+lished, except under extraordinary ■ 
+
+
+
+Addresses and phone numbers will never be pub- 
+lished- 
+
+Submissiorw must be typewritten, 
+double-spaced and no more than ■100 words. 
+Deadline is 6 a.m. on Ihc Monday prior to Ihe print 
+dale to allow for limcly consideration. 
+
+The editorial bMrd of The Communicator 
+reserves the ri^t to edit all submissions for length, 
+granunar. style and darily Letters deemed libelous 
+by The Commumcator's editorial board will nol be 
+published under any ci 
+
+
+
+Features 
+
+
+
+Page 3 The Co 
+
+
+
+Toast and Jam's open stage brings musicians and fans together 
+
+
+
+y Ryan Shepherd. Siafl Wnler ed houw;. Bui doni be dis* 
+
+
+
+You mighl heara ban|o — or 
+a mandolin. Thcfc's J good 
+chancer Ihat you'll hear a 
+Buddhist niedil3lion bell. Don'l 
+be surprised jf you hear (he 
+^mall pipes (they're like bag 
+pipe*, only smaller). And there 
+-luld be somf beat poetry 
+
+
+
+Ihro 
+
+
+
+II ll's eve 
+
+I, chantes a 
+
+
+
+n vaguely n 
+
+
+
+1 thai i 
+
+
+
+
+
+
+it will n- 
+
+
+
+il to Toast and Jam's open stage. 
+
+"We lotus on Ihc music 
+here, and il Ihat's not your 
+thing, then you an? in Ihc wrong 
+collet houso." 5a)'s Jill Mozena, 
+who ruru "Toast and Jam with 
+her husband Al. 
+
+People who iiltcr in Ihc 
+doors lor open stage range from 
+teenagers loadulls in (hcirsiilies, 
+
+■Talent ranges from begin- 
+ners to cxpcrls, but everybody, 
+is greeted with open .irins by 
+the audience when Ihcy sil 
+behind thai microphone. 
+
+And that audience gets 
+pretty big sometimes: around 70 
+peoplpsqueezc into thcicnovat- 
+
+
+
+&amp;, 
+
+
+
+ith Ihc 
+
+It's not unusual lor the 
+person neit to you lo sirike up 
+a con versa lion ll's not unusual 
+lo Icam a few ricw names in a 
+night and it's certainly not 
+unusual (or everyone to get 
+inio Ihc performances. 
+
+"For S2.06. you can have a 
+
+She refers to the SI 
+
+charge, plus the cosi ol 
+
+Ihe cheapest drink Ihat will 
+
+meet Ihe one drink miiumum. 
+
+Toast and (am truly is a 
+
+MD»;nas se« lo that. 
+
+Jill often asks Ihe audience 
+lo quiet down in between per- 
+formances and every performer 
+is introduced by name. She is a 
+musician herself and begir\s 
+every open stage with her own 
+pcrlormance. and docs her best 
+lo make everyone who pcr- 
+(onns at Toast comfortable. 
+
+"It's like going from home 
+lo home." said Dwayne Eby, cre- 
+ative force behind Point of 
+
+
+
+
+
+
+
+Departureand a regular at Toast about two and a half 
+
+and Jam even before il ollicially tails performing at 1 
+
+opened its doors lour years ago. )am a "great enpericnc 
+Other musicians appreciate Chad Thompson. 
+
+■ '" John Minion, professor of English and litej 
+
+been IPFW. is a relalive 
+
+
+
+f fotklor 
+
+
+
+t ipnv, h 
+
+
+
+coming to Toast i 
+
+
+
+I Jar 
+
+
+
+for 
+
+
+
+lommg back because he en|o&gt;-s 
+the "very rela.»ed atmosphere." 
+Local musician Matt Sturm 
+says, 'It's the best place lo 
+come when &gt;-ou want to go 
+
+Songwriler Rich Callender 
+has been a regular since Toast 
+opened its door^. He likes the 
+place so much that he asked his 
+girlfriend to marry him here. 
+She said yes. 
+
+Toast has also attracted 
+attention from outside of lotvn 
+as well. Regional bands from 
+Chicago and Michigan have 
+performed al Toast wnlle pass- 
+ing through. Even bands from 
+as far away as California and 
+Germany have ventured up on 
+Ihe stage. 
+
+If you aren't a performer, 
+there are plenty of other ways 
+lo enjoy Ihe music. Guitar class- 
+es are taught by Eby and by Jill. 
+Local radio station f\^NI comes 
+out occasionally lo broadcast a 
+program called "Folk Tales." 
+
+Toast even makes and dis- 
+tributes CDs occasionally. Right 
+now Al has produced Best of 
+theopenstagenights, but keeps Toast and Jam 1998" and "A 
+
+
+
+Photo by Ryan Shepherd. Staff Writer 
+nd jam, located al 426 E. Wayne StreeL 
+
+
+
+Ven Special Solo Acoustic 
+Evening with Sunny Taylor." 
+
+However. Al is quick to 
+pomt out Ihat music isn't the 
+only thing that goes on at Toast. 
+"\^'re not single dimensional 
+by any means," he says. 
+
+"The Victorian-style house 
+has t&gt;een going through renova- 
+tions for over five yeai5. The 
+Mozenas have even won an 
+award Irom ARCH for reslora- 
+tion. Art dosses are held in con- 
+junction with Big Brothers- Big 
+Sisters. TTie Morenos are also try 
+to help in "maintaining Ihe 
+integrity" of the East Central 
+neighborhood. One never 
+knows what kind of special 
+class or even! mi^l by happen- 
+ing on any given rdghl. 
+
+But urtimalely, il comes 
+down to a focus on the music, 
+and ii'snol hard to Slav focused. 
+
+Toast and Jam Is located al 
+■126 E. Wayne Slreet. Open stage 
+is held on Wednesday evenings 
+from S-UJO p.m. with other 
+musical events Thursday 
+through Sunday. For a calendar 
+of upcoming events or more 
+information, call 422-4526. 
+
+
+
+The dangers lurking in Ecstasy 
+
+Use of recreational drug has many side effects 
+
+
+
+By Meg Ross, RN. Guest Writer 
+
+Ecstasy was first discovered in 1913 and 
+introduced as an appetite suppressant in 1914. 
+The Federal Drug Aaminislration did not legal- 
+ize Ecstasy because ol the severity of its side effects. 
+
+The dnig's potential for recreational use 
+was overlooki'd until Ihc 1960s By the 1970s, 
+psycliialnsis were rallying together in hopes ol 
+receiving approval to use Ecstasy as a form ol 
+psychiatric treatment. Ecstasy enables the 
+patient lo lose his or her verbal inhibitions dur- 
+ing a therapy session, thus aiding the psychia- 
+trist with treatment. 
+
+In 1988, Ecstasy was olHcially added to the 
+FDA's list ol scheduled narcotics. Ecstasy 
+received a rating of Schedule 1, joining Ihe likes 
+ol cocaine, marijuana and heroin. 
+
+llisthedrug'sfalsesenseofecstasy Ihathas 
+kept the paily going. According to a report in 
+"Altoholism and Drug Abuse Weekly, total 
+emergency department visits involving Ecstasy 
+inocascd 58 percent from 1999 to 2000. 
+
+The United Slates Department of Justice 
+estimates that over two million tablets are smug- 
+gled into the United Stales each week. The aver- 
+age cost of a single pill ol Ecstasy can range from 
+as low as S7 lo as high as S30. 
+
+A variety of olher substances can be mixed 
+in with Ecstasy during manu la during, increas- 
+ing the drug's potential danger. Ecstasy can be 
+combined with methadone, iSO, opiates such as 
+heroin and Hentanyl, or strong anesthetics such 
+as Kclamine 
+
+A person's emotional state is balanced by a 
+system ofneurotransmitlcr^ which are chemicals 
+in the brain. An excess of these chemicals 
+induces a stale ol euphoria; whereas a depletion 
+
+
+
+into Ihe brain, causing a false seruc of euphi 
+or ecstasy. After the stores of chemicals are 
+ie!ca.scd. the brain is then lacking Ihe amount ol 
+chemicals needed to maintain a balanced emo- 
+tional slate, hence a slate of depression or com- 
+ing doivn effect is experienced. 
+
+Researchers Zakzanis and Young from the 
+University ol Toronto conducted a one-year long 
+study lo examine the neurolovic potential of 
+
+
+
+Ecslasy Their findings, published in Ihe "Journal 
+of Neurology." concluded Ihat the brain can lake 
+up to a year to replenish the chemicals needed lo 
+maintain a balanced emotional slate and proper 
+memory functioning after using Ecstasy 
+
+Ecstasy was shown to cause damage lo 
+brain neurons that release serotonin. The dam- 
+age was shown to increase with repeat uses. 
+
+The inability lo recall a person's first and 
+last name, the route to a destination and loss of 
+vocabulary are potential adverse eflecis enperi- 
+enced by repeal users of Ecstasy. Heavy users 
+can continue lo experience memory loss up to 
+two weeks after discontinuing use ol Ihe drug. 
+
+An episode ol acute psychosis related to 
+Ecstasy use was documented in the "Journal of 
+Psychoactive Drugs." A 26-year old man was 
+admitted to the emergency room after viciously 
+attacking seven automobile drivers. That night 
+his friends had dropped a single pill of Ecstasy 
+inIo his drink. 
+
+■ ; left Ihe bar, he began lo experience 
+
+
+
+Alter days al investigating. Ihe only logical 
+conclusion was Ihat Ihe otherwise healthy indi- 
+vidual had esperienced a psycholic episode. 
+According to Inc authors, tnere are 12 docu- 
+mented cases ol psycholic episodes related to 
+use of Ecstasy, 
+
+Ecstasy involves a deception ol Ihc setises. 
+The feelings ol euphoria, well-being and 
+enhanced mental and/or emotional clarity are 
+the result of Ihe maiupulation ol Ihe brain's 
+chemicals. This manipulation has been docu- 
+mented to leave the user wilh the risk of devel- 
+oping permanent brain damage. 
+
+Young adults and teenagers seem lo believe 
+the promise of an out-of-body experience, but 
+are unaware of or choose lo ignore the dangers 
+that lurk behind the coating of each pill. 
+
+These parly-goers are putting their lives at 
+risk for the promised experience of reaching a 
+stale ol ecstasy. 
+
+
+
+a The 
+
+
+
+aWeb! 
+
+
+
+Four Reasons to Join 
+the lU Credit Union: 
+
+
+
+1 . Quality member service 
+
+■ Fast, friendly, personal service 
+
+• Cdll Of visit your on-campus branch — We'll be 
+happy to help youl 
+
+2. Outstanding Loan Rates 
+
+• Vehicle, Sisnature, Home Improvement, 
+Home Equity, Mortsages 
+
+3. Easy access to your account 
+
+• Visa® FLASH Cash and Check card 
+
+• Web Home Teller, Internet banking accessible 
+from vAVw.njcu.org 
+
+4. Full-service on-campus branch 
+
+
+
+Teller/Member Services'. 
+Kelter Hall #l9aF 
+eiOl E Coliseum Blvd. 
+Fort Wayne, IN 46805 
+(219) 481-6263 
+
+
+
+loan/AcJmlnlstrathfet 
+Walb Sbjdent Union S125 
+2101 E Coliseum Blvd. 
+Fort Wayne, IN 46805 
+(219)481-6273 
+
+
+
+lU Credit Union 
+
+We Find More Ways to Help! 
+
+HOURS: Mon - Wed &amp; Fri 9 a.m. - 4 p.m. • Thure. 9 a.m. - 1 p.m. 
+
+
+
+Plants suffer from spring fever 
+
+
+
+WEST LAFAYETTE. Ind, 
+(PU News) - The sporadic mild 
+winter weather in Indiana has 
+Irickod some plants and flowers 
+into thinking it is spring, but a 
+Purdue University expert says 
+most landscape plants and flow- 
+ers are likely uninjured by the 
+Huclualion ol warm and cold 
+temperatures. 
+
+Rosie Lerner, Exiension 
+Home horticulturist, says tem- 
+perature changes are not unusu- 
+al in Indiana. Most landscape 
+plants and llowers should be 
+able lo endure the Hucloations 
+since severe cold weather has 
+
+"The lack of severe weather 
+and extended mild weather we 
+have experienced is certainly out 
+of the ordinary," Lemer says. 
+"Temperature fluctuations, in 
+general, are common, but are 
+more often experienced in 
+
+
+
+forced perciuiial bulbs, ;uch 
+tulips and crocus, out of d 
+mancy much earlier Ihan r 
+
+
+
+plants are making 
+arrival, the bulbs should not be 
+heavily damaged in coldei 
+weather, Lemer says. 
+
+
+
+roots of other perennials should 
+remain undamaged undergroimd. 
+"It is possible thai spring's 
+display of tlolvers may beallect- 
+cd. but Ihe planis themselves 
+should be fine. Flowers that did 
+display blooms in the winter 
+could have a reduction in lloiv- 
+ering potential this spring. 
+
+
+
+When spring happens, it will be 
+more clear whal winter has done." 
+
+Even though Indiana has 
+experienced some periods of 
+weather reaching 40 degrees and 
+above, bulbs are planted four lo 
+eight inches belotv ground level 
+and remain cooler than the out- 
+side temperature. Bulbs must go 
+through a chilling period of 10 to 
+13 weeks at 40 degrees or below 
+in order lor the flowers lo 
+bloom, she says. 
+
+Lemer says that Irccs in 
+their dormant slagc are not 
+risk for damage unless Ihc le 
+peratures get seriously low. 
+
+Rain fell over much 
+Indiana recently, which the stale 
+needed due to drier than ni 
+conditions lor most of |anuary. 
+Planis and flowers naturally lose 
+moisture through the winler and 
+if il is not replaced, injury is like- 
+ly. Lemer says. 
+
+
+
+/IPFWt 
+
+
+
+Campus 
+^ Calendar 
+
+
+
+for Feb. 21-March 6, 2002 
+
+
+
+Welah to Go. .-Weight Loss Protiram. 
+
+WU GZ1 , noon; for infofmation, call 6647 or 
+
+e-mail Iillapaugh 
+
+2^ "Fiber Factor lor Weight Lois," 
+
+28 "Shopping Secrets. " 
+
+21 University Religious Forum: "TTie 
+
+Htstorv ol African American Churches In 
+FortWayne.V/U 222, noon 1:15 p.m.; 
+(or information, call 6992. 
+Picoisoat the Lopin Agile, WT, 8 p.m.; 
+alio Feb. 22 and 23. For information, 
+call the box office, 6555. 
+Hockey Club vs. Flndlay, Memorial 
+Cohseum, 10:30 p.m., free. For 
+information, call 6921 . 
+
+23 Annual Great Men and Women Diversity 
+Breakfast, WU Ballroom, 8;30- 
+
+10:30 a.m.; for information, call 6604. 
+Encounters' Dinner at Blaggis and 
+Cosmic Bowling, depart from 1PFW, 
+5:15 p.m.; for information. calM179, 
+National Engineers Week's banquet and 
+engineering scholarship awardi,WU 
+Ballroom, 6-10 p.m.; for information, call 
+5710- 
+
+24 Men and women's tennis vs. Lipscomb 
+University, GC, time TBA. 
+
+25 Video Series; Africans In America, 
+
+
+
+2b AAUW-IPFW Book Group, A Lesson 
+
+Before Dvlnj by Ernest J. Gaines, KT 101, 
+noon; guests and brown-bag lunches 
+welcome; for Information, call 6B3 J. 
+
+27 Oress for Success Seminar, WU 
+Ballroom, noon-1 :30p.m.; for 
+information, call 6BS3. 
+
+2B Educator's Town Hall (for future 
+
+teachers), SB 168, 5:45-7:45 p.m.; free 
+and open to the public. For Information, 
+call 260-745-1736. 
+
+
+
+1 Fine ArU Visiting Artist Exhibition: 
+Cerarulc Form: Rebecca Coffmort ondHed 
+Krouse. VA Gallery; continues through 
+March 24. For Information, call 6705. 
+Center for Women and Returning 
+Pizza dinner for students with families, 
+WU Ballroom, 6-Bp.m,; for Information, 
+can 41 40. 
+
+Theatre: Tennessee Williams: The 
+Foolish Dreamer. WT, S p.m-; also 
+March 2. For information, call 6555. 
+
+G)n certs; for Information, call 6714. 
+3 Faculty Artist Series; Masson Robertson, 
+piano, NF Recital Hall, 2:30p.m. 
+Music Therapy Clinic Concert, WT, 
+7 p.m. Free; reception follows the 
+
+5 Fort Wayne Area Community Band and 
+IPFW Symphonic Winds, Performing Arts 
+Center, 7:30 p.m. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+Features 
+
+
+
+
+Curtain CaCC 
+
+
+
+ciion on Hoblil s part. 
+
+Too bad il didn'l iool Ihe 
+judiente afler Ihey saw the 
+whole (ilm. 
+
+When two olher Allied pns- 
+OT^efS, IwD Tuskeegee airman, 
+an? nabbed and seni off lo con- 
+, they too suffer Ihe 
+
+
+
+lack . 
+
+
+
+spai 
+
+
+
+English-speaking Cemtan para- 
+
+1 went lo see "Hart's War," troopers behind Allied lines to 
+
+Ihe newesi in Ihc siring of war creale as much organiied chaos 
+
+movies Ihat have reccnily as possible, 
+swept movie-going audiences Hart and his 
+
+nationwide. Fans vcnluic lo the soon-lo-be brainless 
+
+heaters, expecting 10 see action, companion have 
+
+intensity and combal with the misfortune of 
+
+blood and gore equal to or asking directions of 
+
+greater than "Saving Private two of these pseu- 
+
+Ryan," Based on the previews, I do-Ameiican mili- 
+
+Ihought the story was some- lary MPs. 
+thing like prisoners in an Allied From that point 
+
+POW camp rioting agairwt their on, Harl spends the 
+
+German cflplors or maybe a rest of Ihe war m 
+
+new spin on "The Great Luft Stalag VIA. 
+
+Escape This camp com- 
+
+That's not what I saw, mandant isn't at all 
+
+Muchlikeeverybodyelsc, I was likeColonel Wilhelm 
+
+surprised, Klink. Despite the 
+
+Aside from a few minutes of presence of Red 
+blood and gore in Ihe beginning 
+when somebody's brains are 
+put on Ihc face of the guy neil 
+to him. an unyielding tree slop- 
+ping a last moving jeep and an 
+accidental Allied air-based frat- 
+ricide, the aclual story was 
+omitled from the previews. 
+
+The real story involves 
+
+
+
+. the 
+
+under Ihe care and charge of LI, 
+Harl in the wonderfully preju- 
+dicial world of Barracks 17. 
+
+One black airman is 
+framed for hiding a weapon 
+and is summaiily executed. 
+I'/hcn the white enlisted man 
+accused of framing him comes 
+down with a case of rigor mor- 
+tis, Ihe remaining black airman 
+is put on trial for the murder. 
+
+This is where the so-called 
+action movie lakes a turn for 
+llic boring and tl 
+
+
+
+. For 
+
+
+
+Cross packages, Sgl. 
+Schullz is nowhere 
+to be found, 
+
+A lack of space 
+forces the senior 
+Allied commander of 
+Stalag VIA lo house 
+Lt, Harl with Ihe 
+enlisted men in 
+
+...ivyer s'ludcnl son who Barracks 17. That 
+
+I Yale lo be a highly qualified commander is none other than 
+iper shuffler at headquarters Colonel William McNamara, 
+Ihc Ardennes region shortly played by Bruce Willis, 
+lore Christmas 1944. More than likely, director 
+
+VVhcn thai son. Lieutenant Gregory Hoblil ("Pnmal Fear"' 
+
+
+
+"The presence 
+of a well- 
+known action 
+movie star 
+like Willis is 
+bound to help 
+continue the 
+facade of 
+making a 
+non-action 
+movie look 
+like an action 
+
+
+
+movie. 
+
+
+
+annoyed as Ihe 
+slory unfolded and 
+I realized that this 
+
+
+
+cliche, showing Ihe 
+somewhat overdone 
+concept of a black 
+man being inspired 
+by a good lij:ht 
+again,'.! the piC|u- 
+
+
+
+Tommy Harl {Colin Farrcll). 
+asked lo drive a captain back lo 
+his unit with some complimen- 
+tary bubbly, Ihe two are 
+stopped by a couple of MPs. If 
+you remember your history Ics- 
+sons.you will know thai part of 
+the German offensive m the 
+Ardennes con.sisled of landing 
+
+
+
+and -Frequency") felt Willis' 
+
+presence wouici boost boK office slrengll. _. _ -...„ 
+
+' Ti'l fault him in his defense of the Allied 
+
+
+
+best work I have 
+ever seen of Ihe star 
+ol "Die Hard," but 
+I have to admit 
+how impressed I 
+ivas with the acting 
+of Farrell. This 
+dor portrays Ihe intricacies of 
+character bom to be a litigator 
+nd paper shuffler being 
+iroivn into combat and out of 
+his element, then being placed 
+
+1 Ihe 
+
+
+
+iplivity, only tc 
+
+
+
+thinking. The pre; 
+
+well-known action ,. .-, 
+
+like IVillis is bound lo help con 
+linue the facade of making . 
+
+
+
+accused of murdering a fellow 
+
+Despite Ihis one bright spot, 
+overall, the movie was not 
+
+
+
+Binge drinking and college life 
+
+
+
+By C&gt;THhia Volk. RN, Guest U'nter 
+
+Many surveys and studies 
+have examined 6inge druildng 
+by college students. According 
+lo an article in the "Journal of 
+American Health," colleges can 
+be divided mio Uxree categories: 
+high-binge schools, in which 
+more than 50 percent of the slu- 
+denls are binge drinkers, medi* 
+um-bingc schools, in ivhich 36 lo 
+50 percent of the students arc 
+binge drinkers; and loiv-binge 
+schools, m which zero to 35 per- 
+cent of the students binge. 
+
+Frequent binge drinking 
+makes up two-lhirds of all alco- 
+hol consumed by college 
+drinkers These sludcnls con- 
+sume a median of 14^ drinks 
+per week. Binge drinkers also 
+account for three-fifths of Ihe 
+most serious alcohol-rclaled 
+problems on campuses. 
+
+College students use a gen- 
+der-specific definition of binge 
+drinking. Typically, males have 
+to drink more lo be classified as 
+a binge drinker. For example, a 
+male musi have five drinks in a 
+row lo be considered a binge 
+drinker, whereas a female may 
+only drink four. 
+
+Sororities or fraternities 
+and athletes were the Iwo 
+groups reported to binge drink 
+
+
+
+Student Life provides liousing Inelp 
+
+
+
+By Rj'an Shepherd. Slaff Writer 
+
+WanI lo get out of Ihe 
+home or closer to campus, but 
+can't find a place worth the 
+extra cost? 
+
+Biding your lime until 
+dorms arc constructed? 
+
+The IPFW Office of Student 
+Life maybe able to help you find 
+Ihesalution to your pioblems. 
+
+IPFW students arc entitled 
+to several discounts around 
+town with their student IDs- 
+even on housing. 
+
+Some apartment complexes 
+offer students between three 
+and 10 percent off Iheir monthly 
+nnil, while others offer a flat S20 
+deduction. 
+
+The Student Life wel?sitc 
+(\vivw. ipfw.edu/stulifc/Index.h 
+Im) also offers other housing 
+services lo IPFW studenK 
+
+Advertising space is avail- 
+able lor students seeking room- 
+mates. Search engines 
+
+
+
+through IPFW 
+
+Advertising space is free lo 
+IPFW students. You can include 
+specifications, such as whether 
+you are seeking a male or female 
+roommate, a IF apartment cost 
+information, comments and 
+how you can be reached if Ihe 
+person is interested. Several 
+advertisements are currently 
+posted on the site. 
+
+Advertising space is avail- 
+able by calling 481-6609, or visit- 
+ing Walb Union Room 115. 
+
+Apartments .com, the first 
+of hvo search engines available 
+through the site, allo^vs you to 
+search for an apartment by city, 
+state and maximum months rent. 
+
+Beware, searches won't 
+yield much in the way of cheap 
+housing. A search tor apart- 
+menls less than S350 per month 
+will only result in lour complex- 
+es in Ihe Fort Wayne area. 
+However, a search for apart- 
+ments for less than SSDO per 
+month will gel you an addilion- 
+al 10 results. 
+
+Don't stop looking after 
+
+
+
+iiAvm6 kw Ai&gt; mm copy 
+
+even mediS So ^g 
+
+ad-tfeptiise in 'Glie 
+eontWKnieeitiop? 
+
+
+
+HAVE YOUR PROBLEMS SOLVED 
+WITH ONE PHONE CALL! 
+
+
+
+CaU Ella Stutzman 
+
+
+
+From these groups, at least 
+
+drinkers. The degree to which 
+the students believe their cam- 
+pus has an alcohi 
+strongly related ti 
+
+Approximately half of all stu- 
+dents believe alcohol usage is a 
+problem on their campus. 
+
+T^e result of a 1999 college 
+alcohol study at Harvard School 
+of Public Health reports thai at 
+colleges with a high binge drink- 
+ing rale, students who were not 
+binge drinkers were more likely 
+lo encounter the secondhand 
+effects. These include coring (or 
+Iheir intoKicaled roommate, 
+mierruptcd sleep and studying, 
+and being insulted and humili- 
+aled- 
+
+Sludies done by Weitzman 
+and Kawachi have shown that 
+those students who participate 
+in volunteer activities and have 
+a higher than average income 
+had at least a 26 percent lower 
+individual nsk for binge drinking. 
+
+Those individuals who con- 
+sumed alcohol in high school 
+
+college and consume more Ihan 
+thc«e who began drinking in 
+college- While males are mote 
+likely to be binge drinkers and 
+are the most likely lo have col- 
+legc-educnted pan'ote Individual 
+
+
+
+who believe their peers 
+
+more alcohol than they do otlen 
+
+coiwume more themselves. 
+
+By gaining knowledge as to 
+why college students binge 
+drink, colleges wdl be able lo 
+develop effective educational 
+programs to promote a healthier 
+life slylc. 
+
+The article. "Prediclois of 
+College Students' Alcohol 
+Consumplioiv Implications for 
+Student Education," suggests 
+that interventions large ling 
+
+Klentially modifiable psycho- 
+jical factors have shoivn some 
+effects in reducing alco- 
+
+
+
+Wco 
+
+
+
+imptic 
+
+
+
+Binge drinkers repori fe(ver 
+
+5 alive effects about alcohol 
+feel thai alcohol u mote 
+:&gt;enioi than do social drinker;. 
+Bv increasing students' 
+w of the benavioral and 
+
+
+
+hoi consumption, the ai 
+alcohol consumed 
+reduced. Many coUcg 
+es are issuing penaltii 
+and official admonishments. 
+
+For those individuals who 
+have a problem wilh alcohol or 
+other substance abuse, or know 
+of a classmate who does, there is 
+help available ituoueh counsel- 
+ing services in Walb Student 
+Union, or call 481-6601 for an 
+appomtmenl. 
+
+
+
+laities, hnes 
+
+
+
+using one search engine. 
+Interestingly, a search for apart- 
+ments under £350 per monl&gt;i on 
+Aparhnenlsfortwayne.com, the 
+second site, will yield twice as 
+
+
+
+matcnes. This site also offers the 
+added benefit of searching by 
+area in the city if you want to 
+make sure that the apartment is 
+close to campus or work. 
+
+Neither search engine 
+offers any information about 
+discounts for students, but con- 
+tact information is readily avail- 
+able on both sites. 
+
+For more in/ormation on 
+Student Life, sludenl discounts 
+or housing for IPFW students, 
+contact the Office of Shident Lile 
+in Walb Union Room 115. or call 
+4S1-6609. 
+
+
+
+Janette Luu, area clothing retailers, interviewing consultants and 
+
+'IPFW STAFF JOIN FOR THE FIRST ANNUAL "DRESS FOR SuCCESS" SHOW 
+
+[Wednesday, Feb. 27, from noon-1;30 p.m., in the Walb Union 
+' Ballroom. Learn how to put your best foot forward at your next 
+
+' INTERVIEW. For more INFORMATION, CALL STUDENT LiFE AT 481 -6609. 
+
+"Tapestry— A Day for Women" weaves threads of renewal and 
+self-growth for women of all ages. On April 26, hear the stories, 
+! experience the laughter, challenge yourself to grow and find 
+lyour thread in the tapestry designed to entertain and inspire., [| 
+[1 1 Keynote speakers are Elliot Ensel and Erin Brockovich. 
+
+
+
+
+
+
+"If you haven't 
+
+yet decided on 
+a major, take a 
+
+SPEA course. 
+It will open 
+
+your eyes to a 
+
+new perspective 
+
+on the 
+
+importance of 
+public service. " 
+
+
+
+icily «l„t 
+
+
+
+"Even afict my first rno k 
+college, I had J'el to decide c 
+1 svanted lo do following my under- 
+gradujtt snidiu- 1 needed i coune of 
+study thai would piovide citensivc 
+preparation for ihteeprospects: (1 ) both 
+privile and public wclor employment; 
+(2) graduate \cvt\ biisincissnidy; and (3) 
+law (chool, SPEA fully met ihac goals. 
+
+■Courses in SPEA Jnvoht more thin 
+simply encounieting uiJ remembering 
+information. I have become engrossed in 
+the unique oppominity I havtbeen given 
+10 icalize the importincc of public 
+scclor affairs. 1 have gained l new respect 
+rai(hoseinvolvedinpubUcaffiin-ihese 
+people truly have a desire to help others. 
+
+
+
+LOOK FOR 
+
+THIS COURSE: 
+
+SPEAtfllO 
+
+IntradDCtlon 
+
+lo 
+
+Public nitalrs 
+
+Yoirii leam aboui 
+current Dubllcallaln 
+Uiioughanln-deDil] 
+iDDkaipollcu-maUna 
+aiall levels Dl 
+flovemineniand 
+eiamlnetiow 
+piilillc policy relates 
+
+
+
+4SI-6583 
+
+
+
+
+Sports 
+
+
+
+Page 5 The Com 
+
+
+
+
+
+/^^^^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mastodon Scoreboard 
+
+
+
+
+
+
+Thursday 2/H 
+
+
+GRACE COLLEGE 
+
+
+W 94-77 
+
+
+
+
+WnmFn-H Ritki-tblll 
+
+
+L 86-73 
+
+
+
+
+Saturday 2/16 
+
+
+LIPSCOMB UNIVEEISITY 
+
+
+
+
+
+
+QUINCY UNIVERSITY 
+LEWIS UNIVERSnr 
+
+
+L3-1 
+
+L3-1 
+
+
+
+
+Friday 2/15 
+Solurday 2/16 
+
+
+
+
+Hockey 
+
+Friday 2/15 
+
+
+RNDLAY (al Memorial Coliseum 
+
+
+L8-5 
+
+
+
+
+Biubali 
+
+Friday 2/15 
+Saturday 2/16 
+Sunday 2/17 
+
+
+Spalding Univcsily (©Harrogale, TN 
+Quincy Uruversity (eHarrogalc, TN • 
+Lincaln Memorial (t gami?} 
+
+
+1 game) L4-8 
+game) L5* 
+
+L5-n 
+
+
+
+
+
+
+Upcoming Events 
+
+At Chicago Stale Uruversity 7 p.m. 
+At University ol Missouri- Kansas City 7 p.m. 
+
+
+
+
+Tuesday 2/19 
+Saturday 2/23 
+1\jMday 2/26 
+
+
+
+
+
+
+JSil 
+
+Al lurui 
+
+
+7 p.m. 
+
+
+
+
+Tuesday 2/19 
+
+
+
+
+Men's VolkjLbaU 
+Fnday 2/22 
+Salurday 2/23 
+
+
+At Loyola University 
+Al Quincy University 
+
+
+7 p.m. 
+7 p.m. 
+
+
+
+
+Saturday 2/23 
+
+
+TBA (© Memorial Coliseum) 
+
+
+10,45 p.m. 
+
+
+
+
+Tuesday 2/26 
+
+
+At Indiana '^ulhi.'a?! 
+
+
+2pm 
+
+
+
+
+
+Olympic X-Games 
+
+
+
+By Jon Teder 
+
+
+
+5t Wrilei 
+
+
+
+Well, [he Winter Olympics sfartcd 
+just (occnlly. and I gotta say I'm a little 
+confused. What exactly am 1 watching? Is 
+it the Olympics or the X-Games? I am hav- 
+ing trouble liguririg out if I'm watching 
+ESPN or NBC. 
+
+Every lime NBC opens up their 
+Olympic coverage, the sound ol some rock 
+band's one-hit wonder is playing. These 
+arc bands that uiU not be talking about 
+their platinum album that sold millions 
+and made them tmc lock stars 20 ycais 
+down the road. 
+
+What is more likely is that they will 
+be tcllinc their kids stones of the good ole 
+days. "Remember when our music was 
+playing during the Olympics? And then 
+then.' ivas tlut great Iclcvision shot of Bob 
+Costas wearing a turtle neck." 
+
+Is this what these prestigious games 
+
+
+
+know what a luger is, they're basically an 
+■ athlete," or "idiot" (you say tomato, (say 
+tomato). They arc those who put their 
+bulls on a liny sled while traveling 90+ 
+mph on a track with many twists and 
+lunw. They do this just so that when they 
+trash in turn three, they can say, "I came 
+into that turn with a little loo mudi speed." 
+
+Obviously! Bye, bye. Now enjoy your 
+slay at Mormon Memorial Hospital, 
+
+And as if all that wasn't good 
+enough, Ihe^ have come up with the 
+skeleton. This is the same as luge, only 
+
+
+
+
+
+
+3. Women's 
+
+
+
+Let's lake cose numero i 
+snowboarding, the halfpipe to be exact, is 
+an event in which women fly down an ice 
+hill on a snowboard as crowds chani Ihe 
+competitors' names, "Lei's go Sunflower! 
+Let's go Sunflower!" 
+
+If I hear one more snowboaiding 
+announcer say. "Wow. look at Sunflower 
+nail thai heavy 720 McTivist ivhiie she 
+does a grabble on her board," I think I'm 
+goingto hurl. 
+
+They have even tried to upgrade the 
+luge events. For those of you who don't 
+
+
+
+Mastodons unable to hold off Oilers 
+
+
+
+By Adam Spiclh, Sports Editor 
+
+Perhaps if Ihe Memorial Coliseum 
+announcers at the Friday nighl Fort 
+Wayne Kornel game would have 
+armounced Ihc IPFW hockey game 
+that was to follow, Ihc 7,000 or so fans 
+would have stuck around for some 
+great collegiale aclion. 
+
+Unfortunately, most of those 
+clad with orange and black realized 
+that they had a 10 p.m. bedtime. 
+
+Howev 
+
+
+
+Snod atone (scored by IPFW's Doug player punching an IPFW pbu'r 
+art and Sfiannon Rose), but only Teammate Cecif Pans retaliated 
+
+allowed two more goals in the and pushed the Findby plaj-er. and 
+
+
+
+remaining periods. Who said i 
+can't play hockey? (By the way. the 
+United States' women's Olympic 
+team is pbying great.) 
+
+Alter both Hart and Rose 
+crashed the net for their Iwo early 
+goals, the Mastodon deferue began to 
+colbpse. Unclear marking and con- 
+tinued failure to clear Ihe puck 
+
+
+
+Parw was peruliied. forcing the Dons 
+to pby a three on five. Pans later 
+foughl wilh Findlay's Brandon Ruhe. 
+who instigated the fight. Yet again. 
+Paris got the short end ol the slick, 
+receiving five minules fighting and a 
+game misconduct penalty 
+
+By then, Findby began to con- 
+Irol the puck at center ice. Defcrwive 
+mistakes by 
+IPFW created 
+
+
+
+do ( 
+
+
+
+Fndi 
+
+
+
+
+right 
+
+see if Ihe newly 
+established IPFW 
+Division [I Club 
+Hockey le.im 
+would be able to 
+improve 
+respectable 
+
+
+
+ey parents 
+raffling off stylish 
+IPFW jerseys and 
+half-and-half lick- 
+els. trying to r.iise 
+money for next 
+season for this 
+eKpensive sporl. 
+Players wer 
+wearing the prc-game shirt and lie 
+and making their rounds for inler- 
+
+acknowledgmcnt of their participa- 
+tion in the new school sport, 
+
+Wilh the crowd dwindled down 
+to around a 1,000. the game finally 
+staffed around 10u30 p.m. 
+
+Not even one minute inlo the 
+
+f;ame. the Dons found their first goal. 
+PFW's Geoff Paris dumped the puck 
+into Ihe Findlay zone, directly to 
+Oiler goaltcndcr Rob Tache. 
+
+Tachc mis-pbyed the puck and 
+It slipped past Vier. And yes. I said 
+"her ' The Findby female net-tender 
+gave op Iwo more goals in the first 
+
+
+
+IPFW's T.J. Wagni 
+
+
+
+Pholo courtesy of LRC a 
+Er crashes the Findlay net in the first period on Friday, goals for the 
+
+Oilers, 
+
+allowed Ihe Oilers to mount a three Despite their difficulties, the 
+
+goal comeback lo tie Ihc game at the Mastodons showed no fear in ttic 
+
+end of the first period. fighting stats, if there are such stats in 
+
+IPI^W picked up their game in hockey. The game ended with an all- 
+
+Ihe second period and managed lo out leam brawl, resulting in several 
+
+find two more scoring opportunities. Oilers receiving blows on their backs. 
+
+Freshman Matt Sheets picked up Nevertheless, the IPFW hockey 
+
+a rebound and found Ihc back o( the team has much to look forward lo. 
+
+net just Iwo minutes into Ihe period. They are a young team, consisting of 
+
+Hart netled his second goal on the mostly freshman and sophomores, 
+
+night after three allempts to put away "We should be a strong team next 
+
+a rebounding puck in front of Ihe season." Sheets said. Alter four 
+
+Oiler net. games. Sheets is lending the team 
+
+But that would be all the scoring with 14 points, 
+
+for IPFW. as they were plagued wilh Be sure to catch Ihe next game ot 
+
+penallies throughout the game. Poor the Memorial Coliseum on Feb. 23. 
+officiating led to a missed Findlay 
+
+
+
+New IPFW Track and Field Records 
+
+
+
+Men's : 
+
+Andy Bodey: Po)e vault @ 14' 
+
+Ryan QuL'senberry: Indoor weight @ 43'5" 
+
+lason Ai-nett: Shotpul @ 43'1" 
+
+
+
+Women's: 
+
+Stef Asher: 5K @ 19 min, 30 see's 
+Gina Pruitt: 800m @ 2 min, 20.5 see's 
+
+
+
+
+instead of sledding with your feet first, 
+vou sled with vour head first. That way 
+^hen you crasn, you slam yourself head 
+
+
+
+first into the wall. 
+
+Bye, bye. Now enjoy your stay at 
+Nformon Cemcter)'. 
+
+And I just don't understand why 
+(hey call it luge or skeleton anyivay. Isn t 
+it really just sledding? 
+
+I Ihink that when an Olympic 
+announcer is talking about the eveni, he 
+should say, "Hi, and welcome lo idiot 
+sledding and bieger idiot sledding." 
+
+What ever happened to the old lime 
+
+They're gone and they ain't coming 
+back. NBC is not interested in keeping the 
+games prestigious. They're inleresled in 
+making them so hip that Britney Spears 
+will be Ihe person who lights the torch in 
+Athens for Ihe summer games. 
+
+Don't gel me wrong though, 1 still 
+like the OlympiX. 
+
+
+
+SPORTS WRITERS 
+\ NEEDED! 
+
+
+
+ANTK 
+
+
+
+SPOKTS I 
+/ (PAID posniox) 
+
+If Interested Please Contact Kalhv 
+
+260-481-6584 
+The Communicator 
+
+
+
+Classifieds 
+
+
+
+THERE'S A FINE LINE BETWEEN THE 
+2DTH CENTURY AND THE 21ST. IT'S 
+CALLED IRS s-/;/s for Businass. 
+
+
+
+TRAVEL 
+SPRING BREAK 
+
+
+
+PROPERTIES TRAVEL/ SPRING BREAK 
+
+
+
+
+
+Visit Tbe Communicator on Ihe web: 
+.siudenlJpfw.edu/~stupaper 
+
+Read past issues ■ Special content not 
+found in printeii issues 
+
+
+
+Spring Break Tickets! 
+
+Gel 1 FREE MTV audlente ticket lo select shoin when you book your 
+
+Spring Brealc through Student Cliy.com' i3o lo MTV.miti or call 
+
+StudcntCily com al 1-800-1443 For dttAili! 
+
+Tours and tickets are limited. 
+
+
+
+
+Page 6 The Com 
+
+
+
+Highlights 
+
+
+
+Febfuary :o. 200: 
+
+
+
+Whafs up this week: 
+
+
+
+Wednesday. Feb. 20 
+
+Anthropology Cub Speaker Series, noon-l p.m., 
+KelllerC46 
+
+Pagan Student Alliance Meebng, 7JO-10 p.m., Walb 
+114-116 
+
+United Sexualities Prism Discussion Group, 7-9 p.m., 
+Walb 222-226 
+
+Phi Cafe Philo, 7-9 p.m.. Borders (off campus) 
+
+Delta Sigma Pi Chapter Meeting, 9-10-30 p.m.. Kettler 101 
+
+Thursday, Feb. 21 
+
+Campus Ministry University Religion Forum, noon- 
+1:15 p.m., Walb 222-226 
+
+Campus Ministry Bible Study, noon-lp.m., Walb 114 
+
+Newman Catholic Student Group Catholic Mass, 
+10:45-11:45 a.m., Walb 110 
+
+Friday. Feb. 22 
+
+IVCF ML'eting. 7-9 p.m.. Walb 222 
+
+Saturday. Feb. 23 
+
+Campus Ministry Walk Through the Bible, 8 a.m,-4 
+p.m.. Classroom Medical 159 
+
+United Sexualities Diruier and Bowling, 5:30-11:30 
+p.m., off campus 
+
+UNAS Meeting. 1-3 p.m., Walb 110 
+
+Sunday. Feb. 24 
+
+Delta Sigma Pi Meeting, 5-9 p.m., Walb 110 
+
+Pi Beta Phi Meetmg, 4-9:30 p.m.. Walb 222-226. 
+
+
+
+Campus Ministry Bible Study 2i3(&gt;4 pjn., V\Mb Blue Room 
+
+Phi Kappa Thela Meeting, 6-9 p.m., Walb 114 
+
+Delta Ganuna Meeting, 5-9 p.m.. Walb G21 
+
+Fellowship for Christian Athletes Meeting, 7:15-8 
+p.m., Walb Blue Room 
+
+Monday, Feb. 25 
+
+Campus Ministry Bible Study, noon-l p.m., Walb 110 
+
+Hispanos Unidos Walb Ballroom Dance Class, 7-10 
+p.m., Walb Ballroom 
+
+Book Fair, all day, Kettler ground floor 
+
+Speech and Hearing Qub Meeting, noon-l p.m.. Neff 270 
+
+SCREAM Meeting, noon-l p.m., Walb 222 
+
+Tuesday. Feb. 26 
+
+Fun Hicks (SAB), 10 a.m.-4 p.m., Walb Ballroom 
+
+Campus Ministry Staff Prayer Meeting, noon-1230 p.m.. 
+Neff 257 
+
+Book Fair, all day, Kettler ground floor 
+
+ANIME 101 Anime Showing, 6-8 p.m., Walb 116 
+
+Wednesday. Feb. 27 
+
+Anthropologj' Club Speaker Series, noon-l p.m., 
+Kettler G46 
+
+Pagan Student Alliance Meeting, 7:30-10 p.m., Walb 
+114-116 
+
+
+
+Information courtesy of the Office of Student 
+Life, from their webpage at: 
+btt}rJhuiifiv.ii.ifiv.cdiilshilife/calctidarslci'eiits/Feb_ei-e.htjH 
+
+
+
+Pi's problem of the month 
+
+Each month for the remainder of the aca- 
+demic year, the IPFW Math Club PI will pose a 
+problem, and everyone is imited to submit a 
+solution. At the end of the year, the under- 
+graduate student who has submitted the best 
+set of soluhons ivill receive a gift certificate. 
+
+Soluhons to February's problem should be 
+submitted to PI. department of Mathematical 
+Sciences. Room 200. Kettler Hall, either in per- 
+son or by campus mail by 5 p.m.. March 8. 
+
+February's Problem 
+
+
+
+On Feb. 2, the date, written in year-month- 
+day format, was 02-02-02, which uses only 
+two different digits. In the same format 
+(with year, month and day each using two 
+digits), what is the first day in this millenni- 
+um that uses six different digits? 
+
+As a bonus problem, find the total number 
+of days in the millennium that will use six 
+different digits. 
+
+
+
+Because the January problem was late in 
+appearing, the deadline for solutions will also 
+be extended to March 8. In case you missed it, 
+
+here is the original problem: 
+
+January's Problem 
+
+
+
+The challenge for this month is to deter- 
+mine, with explanation, for which positive 
+numbers ii is it possible to divide a square 
+into H smaller squares. (The small squares 
+may be of different sizes.) 
+
+
+
+^Sprint Store 
+
+
+
+The PCS Center 
+
+
+
+
+
+Save $70. 
+
+On any new Sprint PCS' Phone. 
+
+
+
+Only at Sprint Stores. 
+
+For a limited time, get a S70 mail-in rebate on any new Sprint PCS Phone. Activation is 
+required. Rebate and qualification terms vary based an credit history. See delails below. 
+
+^^ 4000"""/ 39^;^ WKhtheSprintPCrFreeaClBarPIan, 
+Nationwide Long Distance is included, every minute, every dav on our nationwide 
+network, teaching mare than 230 millian people. You'll get 350 Anytime Minutes + 
+3650 Night &amp; Weekend Minutes, with a one-year Sprint PCS Advantage Agreement 
+
+Sprint Stares: Hands-on demonstrations, free test calls, expert help. 
+
+
+
+
+
+12191 »t-4lOO 
+
+
+
+
+Mw-5.tlO.rt.4em 
+
+
+
+
+Sunllpm-Spm 
+
+
+^SprintStore 
+
+
+Fonvvtr- 
+
+
+
+
+CdUvrtUrCnjuina 
+
+
+www.iprintpM.com 
+
+
+SSaCeUwiUrRl 
+
+
+
+
+\imta-in] 
+
+
+
+
+Mijn.S.tlO..&gt;«f&gt;ni 
+
+
+
+
+Suni;[m.Spm 
+
+
+
+|]19)UG.1US 
+Mon.SiI lOvn^tTi 
+
+
+
+fill Snitfi Road FU. 
+
+Ptliin.SiM[ltiD4(ni 
+Sun llpm-Jpin 
+
+
+
+SouinBlfld 
+21BSSiUhBtndA&gt;«. 
+(ilJI 177.7717 
+Ue»-S(l 1ll*ni.Spni 
+SuilZpn-EpB 
+
+
+
+riSEUtRd. 
+
+(41)1 m -eat 
+
+Mon-SlI lOoitfpm 
+Suni:«iD.Seo 
+
+
+
+</pre>        </div>
+      </div>
+    

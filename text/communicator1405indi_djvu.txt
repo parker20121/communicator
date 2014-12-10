@@ -1,0 +1,1478 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1405indi/communicator1405indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1405indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1405indi">The Communicator</a>"
+          </h1>
+          <pre>The Coniniunicator 
+
+
+
+Volume XiV Issue 5 
+
+
+
+September 16. 1982 
+
+
+
+Classical, jazz 
+survives at WBNI 
+
+
+
+llyCI 
+
+
+
+lulfWrll 
+
+
+
+LMVKRi 
+
+
+
+When IPFW wlUid/cw lU lupporl 
+from unJviraUy public raUo lUtlon 
+WIPU. Ihe future ol northeait India ni'i 
+cnly doBilcal ond Jau muiic lUUon 
+wai In doubL Many uw II u (Ik end ol 
+public radio In this urea. Bui Ihe 
+comhiiulian of ■ delerTnlncd italf and 
+devoled liilcnen hai Iraniformed Ihe 
+nlflUoo Inio WBNI. an onllrely te\l- 
+■upporUng, independent corpora Hon 
+funded tiy donalloiB and grants. 
+
+The staff vacated Itirlr ofllcea and 
+iludio in Uic basement of Helmiic 
+Library In Marcli ol Inil year during 
+the flood, and liave [clocated al the 
+yWCA VlllB on North Weill Slreet. TDe 
+remodeling i&gt; now nearing completion, 
+and tb«e niUoclive new onica are not 
+only larger than Uiosc at (tie achooi, but 
+
+Another new riiiure nt WBNI Is Tim 
+Sinaieton, the new generol manager of 
+Itie itaUon. Singlelon la an auisUnt 
+proiewor ol communlcBlioni al IPFW. 
+lie tind resigned from the school and 
+accepted his new position on Aug. IB, 
+bul as there was difficulty In Tinding a 
+fall replacemenl. he will continue lo 
+leach on a parllime basis &gt;1 IPFW In 
+addllion to hli new Job 
+
+"Everyone's been very un- 
+
+obllga lions of both Jobs," Single Ion 
+said. ■■But Ihii will likely be my last 
+
+
+
+of this station, '■ he said. ■'We have a 
+Icn-year lease, so we're planning on 
+belli around tor awhile." 
+
+■'We have wme pfoblemi,^^ he ctn- 
+Unued, "the greaieil of which Is 
+fmandng. As we are a public radio 
+■lalion, we depend heavily on Ihc 
+
+
+
+operating costs We also have lo buy « 
+'"er and sludio equipm^t 
+
+11 leased from the school, 
+
+. them back." 
+
+to purchase Ihls nr* 
+cquipmenU we've applied for a (edctal 
+grant. Singleton said T^is grant 
+
+
+
+osts Wei 
+
+
+
+and they w 
+
+
+
+;. We need i: 
+
+
+
+«, W.OOO Irom 
+
+
+
+WBNI Is having an open house OeL I. 
+with free relreshmenta, informaUoo, 
+and toursof the station available. They 
+are also having an '■October Radiolesl" 
+from OcL t-ia which is the time ihey set 
+aside lo accept pledges and raise their 
+operating upensei Someoltbespedal 
+evenls planned arc a live broadcast 
+from Norlhside auditorium ot a recital 
+by visiting Karl Haas, host of the 
+popular, natloiuliyiyndJcaled "Ad- 
+ventures in Good Music," on Oct. a, and 
+a luncheon for "Beading Aloud " host 
+Dick Estell on Oct. 10. 
+
+
+
+Irom Die National Telecommunicalioos 
+and Information Administration. If this 
+gronl is approved, our new Ironsmlller 
+will double our broadcasting radius, 
+and we will have the potential of 
+reaching hundreds of ihousands of new 
+listeners throughout norlheastern 
+
+
+
+(ransmitlera 
+
+
+
+h the fi 
+
+
+
+!s for I 
+
+
+
+I. We si 
+
+
+
+1 decision on our grant In lale 
+September or October '■ 
+
+Another kind of community lupporl 
+WBNI is dependent upon is nnumberof 
+volunteers who do everything from 
+answering phones during fund- raisers 
+lo on-lhe-air announcing with )ao or 
+classical music programs. 
+
+"I'm very proud ot our volunteers, " 
+Singleton said ■■» Inkcs a lolof people 
+to keep us on the air There are only 
+lour paid positions al the station. The 
+rest of the work is done by over W 
+
+
+
+ipcnses Bul we 
+have some long-range goats as well," 
+Singleton said. "If we can increase our 
+broadcast strength, add to our staff, 
+and develop salelllle capabilities, wc 
+will be eligible to becvme a NaUonal 
+Public Radio affiliate. As an alflliale. 
+we would be eligible (o carry some of 
+Ihclr popular programs, such as 
+'Ptalric Home Companion.' This Is sllll 
+a way down (he road, but It's locluded 
+
+The fuiure of public radio in this part 
+of theslate looksmore secure with each 
+success WBM tallies. 
+
+"Well be here as long as the public 
+wants us," Singleton said. 
+
+Judging from Ihe community efforl to 
+keep this slalion viable during I 
+
+
+
+asily li 
+
+
+
+1 year. 
+
+
+
+Pond looks into dog fights 
+on request of constituents 
+
+
+
+UyltKtiGIBIlAVES 
+Slat! Writer 
+
+Although a '■dog fight" has come 
+mean a good, compcUlivc game 
+sports, real dog Tighllng tor the purpc 
+&lt;rf gambling is neither good nor gan 
+ond one concerned rcpresenlnOve is I 
+
+
+
+talked 
+
+
+
+veterinarians in and around Fori 
+Wayne, and I got dlfferenl answers. 
+While two of them said that they felt 
+dog fighllng wasn't a problem, one 
+died an occasion when a bulldog was 
+found on IhejlrceLThedogwas lorn up 
+prell)' bad, and dog fighting was 
+.thought to be the cause,^' Pond said. 
+
+
+
+xith I 
+
+
+
+light. 
+
+
+
+invcallgalcd otganiicd dog lighting in 
+northcasl Indiana on word from one of 
+
+"A lady wrote mc a letter paying that 
+she had heard ol illegal dog fighllng 
+around the area She had no specific 
+cases, bul was worried Ihal it was goUig 
+
+This call prompted Pond to look 
+further Into the ptobicm of Illegal dog 
+flghls and Id find out the magnitude of 
+Ihc situation. She first sought out the 
+opinions of local veterinarians, she 
+
+
+
+
+
+
+: local police depart- 
+ments Pono said Ihe Fort Wayne dty 
+police fell dog fighting was not a 
+problem bul Allen County police 
+Ihought there was occasional acbvily 
+allhaugh no arresis had been made. 
+
+"This is one of Ibe pfoblen 
+lo control dog fighUng. I 
+come upon a dog light be I 
+there Is nothing you can di 
+possible lo prove ihal Ihe dog light 
+existed oiler the fact, " Pond said. 
+
+
+
+charged with a class B misdemeanor 
+thot corries a sentence ol up to ISO days 
+in jailand-oraflncaluplaliooa So, in 
+effect, not only are those who stage the 
+dog Tighls responsible, but so is anyone 
+watching 
+
+"The besl way to catch and slop this 
+activlly Is lo make people aware of Ihe 
+silualLon If anyone rmd) out about dog 
+
+
+
+m trying 
+less you 
+happens. 
+
+
+
+'Food and People' 
+
+Diets may change but tastes don't 
+according to columnist's research 
+
+
+
+IVAVEltLEV ROOT 
+
+I^DITUR'S NOTE: This tl Ibe leeand 
+In ■ tiriei of nrlidei eiploring '■Food 
+
+
+
+ve itiape 
+
+
+
+iiies Ihc factors 
+
+
+
+inght green fieida of Ireland, 
+iful lo the eye. offer poor 
+enl for meal plants, but 
+for the potato, w^ilch became 
+
+
+
+Military move 
+changed eating h: 
+
+
+
+of b 
+
+
+
+&gt; ofti 
+
+
+
+American diet. This lerles 
+
+(or "Coursei by Newipaper," ■ 
+program of University Ellenilon. 
+University ol CsilfDmla, San Diego. 
+with funding Irom Ihe Natlooal En- 
+
+
+
+! conquered In IB£ 
+B.C.. lor enample. Ihe Roman Army 
+returned from Ibe East with an 
+acquired taste for Oriental dishes and 
+Greek cooks to make Ihem, thus 
+replacing Stoic simplicity with imperial 
+
+
+
+vagance 
+
+
+
+I Ihe Bar- 
+
+
+
+topped [he Roman Empire six 
+centuries later, they destroyed the llsea 
+it communication which had been 
+wringing to 11 the foods of the whole 
+
+
+
+than those pertaining to eating. 
+
+In western Sicily, for example, diick 
+peas are cooked by being stirred 
+briskly in a kettle with heated pebbles. 
+II would be much easier to set the peas 
+over Uie flame on which the pebbles are 
+heated, but this habit has been 
+Ingrained since pr^NeoUlhlc times — 
+ticfore people had learned lo moke 
+cooking vessels that c 
+
+
+
+evaporated, when Ihey are deemed to 
+be cooked. This habit dates lo Ibe 
+period before men had teamed to cook 
+
+And yet. despite resistance, people's 
+eating habits do change, otherwise we 
+should still be feasting on pebble-baked 
+chick peas and sunsimmered Cels. 
+CEOCH.'tPllIC FAl-TORS 
+
+Ealing habits may be shaped by basic 
+gngraphiCBl factors Most Important. 
+ol course. Is the kmd of food aviil- 
+
+
+
+splny lobsters. But ... Solenia 
+
+retreated into Ihe brush several cen- 
+turies ago to escape pirate raids. 
+
+The ancient Greeks held fish in llUle 
+esteem, through snobbery. Any serf 
+with a hook could easily take a fish; II 
+was therefore considered unworthy of 
+
+
+
+ecause of pirates and malaria; today, 
+iDugb their Island has given its name 
+I a fish. Ihey eal Utile seafood. They 
+imply never lajuired Ihc hahil- 
+
+
+
+- of whole populations, of 
+I, or of their merchanU. 
+rationsdo not really change 
+s. they merely move Ihem 
+
+ens, in their southern drive, 
+lugh Norlh Africa to lis 
+AIIanllE coast, and into Spam. southerD 
+Fnnce, and Italy, and in their northern 
+drive U the walls of Vienna They left 
+behind new foods ispsnachi and new 
+techniques. Including dislilUng and the 
+art of making the Hne, flaky, rnsny- 
+
+
+
+A.MERICAN CUISINE 
+
+
+
+
+
+
+
+Ugly takes new meaning 
+as bartenders fight MS 
+
+
+
+By REGGIE HAVES 
+
+Staff Writer 
+
+In Ihe ongoing fighl against multiple 
+
+sclerosis (MS), the term "Ugly " has 
+
+Being understanding, groclaua, 
+lovable, and youthful are Ihe only 
+qualincaUons needed to become an 
+ugly bartender against MS. 
+
+Along with radio slallon 9»), Ihe 
+Northern Indiana Chapter of the people w I 
+Mullipie Sclerosis Society Just wrapped year-old i 
+up the 3rd Annual Fori Wayna UgJy groupwhi 
+Barlender Contest the primi 
+
+"An ugly barlender is )ust a nice said. 
+personfightingagalnstMS,"uidCarol The Ni 
+Ver Wiebe, Director of Development optlmislii 
+for the Northern Indiana Chapter contest, [ 
+
+"The bartender who raises the 
+
+
+
+^ Dayton contest grew Into a 
+al ugly bartender conlcsl, and 
+pandcd every year since. This Is 
+ird year for the contest In Fort 
+r. and the fourth nationwide, " 
+
+
+
+)l the ri 
+
+
+
+najorily of ll 
+
+
+
+"This year Ihe contest has brought 
+out volunlcerlam inaction. When one ol 
+our staff would go to n partlcipaling 
+bar, Ihey could Just sense the ex' 
+cilemenl of the people toward the 
+contest.'^ Dicnell said 
+
+But despite public owareness and 
+Involvement, MS remains one of the 
+mnil baffling of all diseases. 
+
+The disease, which disrupts the 
+central nervous system and Interferea 
+with the brain's ability to direct bodily 
+functions. sUII h. 
+
+
+
+fact,e 
+
+
+
+
+
+
+! of M, 
+
+
+
+
+
+
+
+
+
+I. The 
+
+
+
+15 auction 
+
+
+
+r washes or selling T- 
+sturts fcvery twenly-five cenis turns 
+into a vote." Ver Wiebe said. 
+
+The conlesi, which ran from August l 
+through September ^, drew over 7S 
+participating bars around northern 
+Indiana. The winner ol the contest will 
+bo announced al an awards banquet 
+September 19. Carolyn Dieneil, Fund 
+RalEing Coordinator, explained Ihe 
+
+■The idea sprang oul of an ugly 
+barlender contest in Daylon, Ohio. The 
+Dayton contest came atuul when a few 
+people were sitling In a bar discussing 
+MSandoneof them said 'Wouldn't II be 
+
+
+
+■'Our goal was to raise t3a,000, but we 
+think that will be exceeded. Of the 
+money that we do raise. 40 percent will 
+go lo the NaUonal Mullipie Sclerasls 
+Sociely for research, and Ihe other W 
+percent will be divided among Ihe Z7 
+county MS chapters lo be used for 
+patient services." Dieneil said. 
+
+Dieneil was quick to credit much of 
+
+
+
+n the money, or 
+3 contest does is 
+of MS and gels 
+ie cause. Those v 
+
+
+
+discovered. Allhaugh " 
+being tested constantly. Wendy Condon. 
+Patient Service CoordlnaUr at the 
+Northern Indiana Chapter, views new 
+
+
+
+
+
+
+with MS are extremely 
+They^ve been thrown 
+snake venom, new diets — everything, 
+inaltcmplslocureMS. Oncstuib'even 
+came out with what they called a cure 
+lor MS, when they hi 
+
+
+
+icro is n 
+
+
+
+h MS will 
+
+
+
+
+veloped. Ihe people 
+
+
+
+Condon alio expressed concern over 
+Ihc publlc^s perception ol MS. "Not all 
+MS viclimi are In wheelchair!. Some 
+people conftue MS wilh MD imuscular 
+dystrophyl, bul they are not alike. 
+Many MS victims hold down full-time 
+jobs. More MS vicUma work Ihan Ihose 
+wilhMD," Condon said. 
+
+It is through events such as Ihe Ugly 
+Barlender conlesi, that people will 
+better understand mullipie sclcrocii. 
+
+
+
+
+
+
+ling will I 
+
+
+
+I change greens, i: 
+
+
+
+America inherited them al a 
+propitious period, that of the Tudors. 
+Tudor cooking was sturdy ... food that 
+wentwellwiUi beer and whiskey ... and 
+... dishes under loo much salt and sugar 
+
+Spices were rampant, too, as were 
+Ihe more assertive herbs and con- 
+diments. Ilwasa period not much given 
+lavegelibles ... but the consumplioD of 
+meat, poultry, and game was heavy ... 
+
+New foods did not change the nature 
+of American cooking ... The Anglo- 
+Amencan cuisine barely registered the 
+existence ol American Indiaa cookine. 
+though lis conlribulions were not 
+negligible' hominy, clam chowder, 
+oj'ster slew. Bosloo baked beans I! I. 
+and. after the ledlers imparted the pig. 
+SmilhTield ham, a Cherokee inventlaa. 
+
+The South absorbed easily the new 
+foods imparted from Africa by Negro 
+slaves: okrs, black-vyed peas. coUard 
+
+
+
+Successive waves of immlgrallDn 
+brought European cuisines lo America, 
+bul they seldom entered the main- 
+stream unchanged .. 
+
+There has been no lack. In the nearly 
+lour centuries since ihe Pilgrims of 
+New England and Ihc Cavaliers of 
+Virginia brought Tudor eating habits to 
+Americo, ot assaults by foreign ealhig 
+habits on Ihe citadel of Anglo-American 
+cooking: but the fortress has held firm. 
+
+basically the English cuisine. 
+
+The views expressed In '■Courses by 
+Newspaper" are Ihoae of the aulhor3 
+only arx) do not necessarily reflect 
+those of the University of California, 
+Ihe National Endowment tor the 
+Humanities, or ihe participating 
+newspapers and colleges. 
+
+Copyrtghl ic) 1983 by the Regents of 
+the University of California. 
+
+
+
+NEXT WEEK: Robert 
+Director of the Govemn 
+sumer Nu Iritio o Center, 
+Changing American OleL" 
+
+
+
+. Rlick. 
+
+
+
+SG sponsors student assemblies 
+
+
+
+A series ol monthly meetings sponsored by the IPFW S 
+designed to increase communication between SG and the 
+noon Monday, Sept. 20 in Rm. 146, Kellier Hall 
+
+SG said it hopes to bear students' problems and compi 
+own projects 
+
+All questions will either be answered Immediately, a 
+Individualsor committees lor research, these said 
+
+
+
+Is and report on its 
+;iven lo the proper 
+
+
+
+Library tours resume today 
+
+Tours at the Allen County Public Library I ACPLI will resume today and be 
+conductcdby members oIlheFriends of Ihe ACPL every Thursdny at 2and7:M 
+p.m Theloursstnrl inthclobbyollhelibrary. 
+
+Historical society tours free 
+
+Anyone wishing lo visit the Alien County Fori Wayne Hlsloricol Sodely. 301 
+E Berry Street, will be admitted free everj- Wednesday from 9 a.m. to 5 pJD. 
+Sociely membersare admitted free every day 
+
+The Historical Sociely is open Tuesday through Friday from 9 a.m. to S p.m. 
+and Saturday and Sunday from noon to S p.m. 
+
+Former embassy counselor to speak 
+
+Moorhead C, Kennedy, Jr., former economic counselor at the US Embassy 
+in Iran during Ihe November, 1980 Iranian mllilani takeover, will lulureon "A 
+New World View of Peacemaking" Sept. 17 at 7:J0 p.m, al the First 
+Presbyterian Church Sane tuary,3«i West WayneStreel. 
+
+Kennedy served m US. Embaisiei in Chile. Lebanon. Greece and Yemen, He 
+also served in the National War College and was founder and ifirector ol Ibe 
+Office ol Investment Affairs at the U.S. Department of Stale. 
+
+
+
+PACE3— THE COMMUNICATOR — SEPTEMBER IS. ISM 
+
+
+
+o pinion 
+
+
+
+Abortion notice law unfair; 
+places women in danger 
+
+
+
+Classifieds 
+
+
+
+EDDKG PHOTOS: Ihirty- 
+
+
+WRESTLING CLUB vlll 
+
+
+
+
+riavc 1 meeting for U&gt;- 
+
+
+album and npentacrd 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+more lD[armaUaii. oil 
+
+
+*inli, 719-1SJ9 
+
+
+
+
+
+l.U.S DiiKict 
+Judge CaleJ Holiler rriiBed 
+loprtvenl Indiana'! abortion 
+notice law from taking eflect 
+befm-e the court dcddes 
+whether or rwt the law Is 
+coniUtullonaJ. Ontll the 
+court makea lla dedslon, any 
+
+aborllDn on a young woman 
+under IBwIlhailho' parents 
+consenl could Tncc up to 
+elghl years In JdH and a 
+110,000 rinc. 
+
+
+
+ulthelau 
+
+
+
+
+
+
+n notice 
+
+
+
+iiratficts the 
+Supreme Court decision 
+legalizing abortion. Some 
+proponents of the new law 
+say that requiring minora to 
+gel parmlal permlsiioo will 
+help bring lnmiWa closer 
+together. T^ls is ridiculous. 
+It Is the business neither of 
+the Rovemment nor the 
+courts to pass judgement on 
+how "dose" lamlliw should 
+
+
+
+PREGNANT?...WORRIED? 
+
+WE'LL HELP! 
+
+Free pregnancy testing. 
+Confidential, professional counseling. 
+Call... 
+
+BIRTHUNE 
+
+422-1818 
+
+
+
+
+
+
+i^%^ '■ 
+
+
+
+Klll£l'S\KI-:ABh;,\L'TII-"L'L 
+WAYTO SI lOW'UX'k LO\1-: 
+
+
+
+Keepsake' 
+
+
+
+
+Keepsake ' 
+
+OIAMDND CENTER 
+
+Your Locally 
+
+Owned &amp; Operated 
+
+447-3706 
+
+
+
+50%0ff 
+
+Frames 
+
+
+
+Foi a »Tff ad ttn* 0(1^, coma to S*n1ca Optlcd ov) grt 
+»0*cHI&lt;»&gt;huo»MMc t 1or^otftQm«fche»jafW d Ma»r 
+kiM ■» Gfeslo V&lt;m«UI.OM0CCBM. tmCMdkvi 
+Olo«. audTJld«iiWled to nmudt»»p»T*&gt;d ofc&lt;w B1i 
+'™~~~~'"" ' «tt*ordOT&lt;l onmgooHorti 
+
+
+
+Jid moy nol tw comMra o ullTi . 
+
+
+
+Southtown Mall 447-9890 
+Glenbrook Square 484-8*18 c 1 
+
+OpwiAJDoySQiuaavanOajnoavMoiHcun ^S 
+
+
+
+the need, not 
+
+
+
+lional, the law could 
+
+
+
+said. 
+
+"The most painful pari for 
+these young women Is that 
+this I pregnancy I has been 
+the most major dramatic 
+secret they've ever had. and 
+
+publicly and sometimes lie 
+reprimanded by a Judge (or 
+no t us in g birth con trol . " 
+
+An abortion, let alone a 
+prepiancy, la traumatic 
+enougli on a Iwnage woman 
+wllhoul the government 
+sticking Its nose in Ihealfair. 
+
+
+
+
+WORLD FAMOUS 
+
+
+
+"(^af«e^'4' 'Pc€^" 
+
+
+
+
+
+
+936 gtUuam. ^Ivd. Thnti 
+
+K-mart Raza East 
+
+: NOmH Of rVTBHinCfUll KlfWESIEB-NBO 10 MOIB. B 
+
+
+
+Your Art Supply Headquertflrsl 
+
+•Lirgs InitnlDry 
+•Studinl DlicDunli 
+•SpecUl DidBtlnfl 
+
+
+
+
+SUPERIOR at WELLS 
+
+Fun Wff^. n*Bia 46B02 
+324-5229 or 434-5235 
+
+
+
+
+This calculator thinks business. 
+TheTI Student Business Analyst 
+
+ihh-rpKljp:, VouqIio 
+iKxil.ih]t^laH&lt;nwt 
+
+Guufcbiv^. Buuncu 
+pralcuonhdpcduiuilicii 
+lo hdp you get ihc ruu o&lt;j 
+of cnEcubiar and cIaur(X)m. 
+
+
+
+
+pcampus — 
+calendar 
+
+
+
+THURSDAY 1 6 
+
+Mid-day Diversions, Aquarius Park, 11 a.m.-2 p.m. 
+Women's volleyball. City Tournament:, B p.m. 
+Men's tennis at Goshen College, 2 p.m. 
+
+FRIDAY 1 7 
+
+"SUBOG movie. Jusf a Q\^o\o. GM auditorium, 8 p.m. 
+Women's volleyball at Wright State Tournament, 
+3 p.m. 
+
+SATURDAY 1 8 
+
+•Fort Wayne Dance Collective, Neff Recital Hall, 8 
+
+p.m. 
+Women's uollEyball at Wright State Tournament, 
+
+3 p.m. 
+Men's soccer, Indiana Central at IPFW, noon 
+Women's tennis at Goshen College, 2 p.m. 
+Coed cross countf^ at Grace Invitational 1 1 a.m. 
+
+SUNDAY 1 9 
+
+Women's tennis at St, Joseph's College, 1 p.m. 
+
+
+
+MONDAY 20 
+
+Faculty Senate, KG46, noon 
+
+Soc/Anthro fonjm: "Wy Oays \n Memphis wUh Elvis," 
+
+speaker Louis Cantor, Department of History, 
+
+Walb 110. noon 
+Women's Studies: Whal Students Need to Know. Walb 
+
+116, noon 
+Mid-day Diversions, Aquarius Park, 1 1 a.m.-2 p.m. 
+
+TUESDAY 21 
+
+Medical Security Plan seminar, K1 OBAB, 9-1 1 a.m.__ 
+Women's tennis, Goshen College at IPFW, 3 p.m. 
+Ivlen's tennis, Manchester College at IPFW, 3 p.m. 
+
+WEDNESDAY 22 
+
+Inter-Varsity Christian Fellowship, KG46 noon 
+
+Interviewing Skills workshop, Walb 224, 8 a.m.- 
+
+12 p.m. 
+Men's soccer at Bethel College, 3:30 p.m. 
+Women's Volleyball, Ohio fvJorthern University at 
+
+IPFW, 7:30 p.m. 
+
+THURSDAY 23 
+
+Mid-day Druer^ions, Aquarius Park, Poor Howard. 
+
+11 a.m.-2p.m. 
+"SUBOG presents: An Evening with Geoffrey Holder, 
+
+Walb ballroom, 7:30 p.m. 
+Women's volleyball, Notre Dame at IPFW, 7 p.m. 
+Men's tennis, Grace College at IPFW. 2:30 p.m. 
+
+
+
+ART EXHIBIT— September 10-October 1 
+
+The Fabric of Lite: Traditional Weaving of Nigeria 
+by Lisa Aronson, Rne Arts Auditorium, 1026 West 8erry St. 
+
+
+
+Campua Calandar La «ponaorwl by indluia-Purtliia Unhmr^iCT at Fort IWayna f oi 
+■tcy dapartRiBntB and organ Izatlons. ilwna u b« ineludad Ln t^ampua Calandar i 
+Cfia Ofllea ol Univarslcy Halation, KMUae 111 by 9 pJn. an tha Thunday - 
+
+
+
+arts 
+
+
+
+SEPTEMBER ts. ISW - THE COMMUNICATOR— PAGE S 
+
+
+
+'DoUp Shot' 
+
+Wrath of summer releases 
+most disappointing failures 
+
+
+
+'Roses' attempts to entertain, flops 
+
+
+
+By MICHAEL 
+
+ArtiWr.~ 
+
+I'm back. conUnulng my 
+hxik Bl this lummer's lilmi: 
+
+"Consn Ihc Earbsriin" 
+wu H prewnlloui bore TTa 
+good things InUii '■ 
+
+as (he elftcUve i. 
+
+Coman'i molher was klllwl 
+■nd Sandahl Bergman and 
+Jimca Carl 
+
+
+
+
+^HT]^ 
+
+
+
+Dancer, Choreographer, 
+Director, Actor, Author, 
+Painter . 
+
+
+
+ind the uncoU n 
+
+
+
+Geoffrey Holder 
+
+
+
+in person 
+
+Walb Union September 23 
+
+7:30 p.m. 
+
+$1.00 - students (with activity card) 
+
+$3.00 - general admission 
+
+
+
+
+COME SATURDAY 
+MORNING 
+
+to the Blue Mountain for a 
+Continental Breakfast 
+featuring foods from 
+Bagels to Bllntzes and 
+
+our own gentle eye opener 
+
+...the Mimosa [a smooth blend of 
+
+AsD Champagne and orange [uice] 
+
+P.S. Try ana of our French CrolBaantv." 
+
+133 ColumWa on We Landing 
+*Goo(mel Cottee 4 Tea *Happy Hour Mon.-Fn. 
+AfmixinM Be«r *Conlinental BreaktasI 
+
+*Entertalnmem Nightly Sat. 3-1 
+
+Oy 11 u. H u. It-TH. 11 Lm.1 u. m. « ULl u. UT. 
+
+
+
+'Italian Pocket 
+•B.L.T. &amp; Avocado 
+"Beef &amp; Avocado 
+ta"K-i&lt;do"pira&amp;ra&lt;jj 'Seafood Pouch 
+
+(Shrimp &amp; Crab meat) 
+Brtiklm 6-10:30 Mon-Sil, Sart 8-12, Otun 11:00 i-m. lo UJX p.m. 
+
+
+
+Rock *n Roll 
+with class 
+
+505 E. Coliseum Blvd. 
+
+
+
+"2 for 1 Drinks 
+Wed. &amp;Thui. 8-10 
+
+
+
+'Vz Price Happy 
+Hour 4 p.m. lo 
+
+
+
+YU- 
+WANNA 
+
+Sept. 15-18 
+
+Dress Code Please. You Must Be 21. 
+
+
+
+TAKE THE 
+
+
+
+
+
+
+
+AND HERE'S A MONEY-SAVING OFFER TO PROVE ITI 
+
+-COUPON 1 
+
+BUY ONE URGE SANDWICH AT MCDONALD'S® 1 
+
+AND GET ANOTHER ONE \ 
+
+8 
+
+_ C 
+
+S Your choice of: Big Mac* , Quarter Pounder w/Cheese®, McRlbru, z 
+] Chicken McNuggets* , Filet-o(-Flshs or Egg McMuKIn* j 
+
+I Redeemable at McDonald's^ atSZOI St. JosCnlr. Rd., Ft. Wayne. IN. ■ 
+' Ono coupon ptr cuitomir. plBaiB.EipIt""- " "■" ' 
+
+
+
+MAKE $1Z200 FOR 
+
+COLLEGE WHILE YOU'RE 
+
+GOING TO COLLEGE. 
+
+W:in( a pan-nmt )ob (hai dfinn r hun youtKiadci' Or campus 
+ii[c?GivcitiurkiaiArmyRoi:r^culiiiaweekc™iamon[handacoup!c 
+ofsummrisdunngcoUcRC. and ihu-y 11 ffvc you overSI2.C00 fur college 
+
+Up 10 S4.0OOin loHcRC aid u younruii far joinini; tnoir units 
+Another 56.000 for four years of monihly wcclicndi and iwo-wrek ium- 
+mcr sdna Plus over 52,200 dial you II cam dunng mo iurnmer tram- 
+mBpcriodi All while you're B&lt;-'"i"R'f'C"™«&lt;'"'"*"&gt;l'&lt;W AnddomR 
+
+
+
+
+485-6432 
+
+
+
+PAGE &lt; — THE COMMUNICATOR - HKFI tMBEB 16, 1«2 
+
+
+
+
+</pre>        </div>
+      </div>
+    

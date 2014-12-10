@@ -1,0 +1,2941 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv37i15indi/communicatorv37i15indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv37i15indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv37i15indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA UNIVERSITY 
+
+
+
+PURDUE UNIVERSITY 
+
+
+
+FORT WAYNE 
+
+
+
+Wednesday 
+
+January 10, 2007 
+
+
+
+The Communicator 
+
+
+
+Volume 37, Issue 15 
+
+
+
+01/10-01/16 
+
+
+
+—a 
+
+
+
+The Greatest, 
+Boomers,Gen-Xers, and Mil- 
+lennials: Creating and Under- 
+standing" Kettler 234. Noon- 
+1:50 p.m. 
+
+
+
+♦ Jason Laipply's "Evolu- 
+ion of Dance" Watb Ballrooi 
+-1 p.m. Free Subway. 
+
+
+
+♦Men's Volleyball 
+Francis (PA), Gates Center 
+7p.m. 
+
+Classroom Assessment 
+with elnstmction," Kettler 
+205B, 1:30 p.m.- 2:30 p.m. 
+
+♦ Weekend classes begin. 
+
+m 
+
+
+
++ Men's Basketball vs New 
+Icrscy Inslilulc of lechnnln^. 
+Vlemorial Coliseum, 4 p.m. 
+
+♦ Men's Volleyball vs Penn 
+State, Gates Center 7 p.m. 
+
+mm 
+
+
+
+♦ Campus Closed: Martin 
+Luther King, Jr. Holiday 
+
+IIIMIIIWHI 
+
+♦ Barry Scotl's "A Tribute 
+:o Martin Luther King, Jr." 
+Walb Ballroom, noon. Free 
+Pizza. 
+
+
+
+o 
+
+
+
+Are you an 1PI-W 
+
+organization that isn' 
+
+posted on our 
+
+schedule? 
+
+
+
+Contact Us! 
+
+Indiana-Purdue Student 
+
+Newspapers, Inc. 
+
+Walb Student Union 
+
+Suite 215 
+
+Phone: (206)481-6584 
+
+Contact &lt;" iptwi'iHiiniuniciiKn-.i-ir^: 
+
+
+
+Winter eased by health check-ups 
+
+IPFW's Health and Wellness Clinic offers a way for students and faculty to shed those unwanted pounds 
+
+
+
+By Kira Schowe 
+Sports Editor 
+
+
+
+Blood pressure, weight, body 
+fat. body mass and blond sugar 
+were recently the subjects of an 
+event held in Gates on Monday 
+January 8. The IPFW depart- 
+ment of Athletics Recreation 
+and Intramural Sports and 
+IPFW/Parkview Health and 
+Wellness Clinic sponsored the 
+event. 
+
+This event is a good base 
+line for people to start keeping 
+track, and staying involved with 
+their bodies and fitness, said 
+Kate Black, a certified personal 
+trainer whom was helping out 
+with the event. 
+
+This event which is a free 
+service offered to the com- 
+munity is held on every sec- 
+ond Monday of every month 
+through June. The intention of 
+the 'health screenings' is to as- 
+sist IPFW students and mem- 
+bers of the community to keep 
+track of their health. 
+
+
+
+So why are these health walk, soccer on conl, crisp IPFW is also offering a free 
+screenings so important? days, ice skating with you hour with a personal trainer/ 
+
+For starters, the consulta- kids, Nordic skiing through a nutritionalist to give individual 
+tions aid in the prevention of snowy pasture," are all ways workout and weight loss/gai 
+heart attacks, cancer, diabe- to keep active through the win- tips. For more information en 
+tes, obesity and high blood ter according to Personal Best 481-6647. 
+pressure. With the screenings Healthlines. 
+themselves take 
+about 10-15 
+minutes from 
+start to finish 
+the time spent 
+might end up 
+saving your 
+
+
+
+also offered 
+tips on exercis- 
+ing and staying 
+in shape when 
+the 'winter 
+blues' hit. 
+"A trip to the 
+park with your 
+dog, bicycle 
+rides when the 
+
+through, an 
+
+invigorating Wadl&gt; Ho ibrook-using a body fat 
+
+pre-dawn impedance analysis to determine 
+
+
+
+
+Photo by fin Pyle 
+tier. The body Fal meter uses (Ik- (irliuipU- of bioclectricnl 
+individual's body fat percentage, 
+
+
+
+
+SAB plans for an 
+activity filled semester 
+
+
+
+With a new semester here. 
+Students Activities Board 
+(SAB) has a full itinerary of 
+events planned for the students 
+at IPFW. 
+
+Pat Shirley, Student, Body 
+Programming Director for 
+SAB, said "I am excited about 
+all our activities but I am really 
+looking forward Jusdon Laip- 
+ply's 'Evolution of Dance*. His 
+YouTube video was the most 
+watched video of the year." 
+
+Liapply 's "Evolution of 
+Dance" will take place in the 
+Walb Ballroom on Thurs., Jan. 
+1 1 , from noon until 1 p.m. Free 
+Subway sandwiches will be 
+given away at the function. 
+
+However, SAB has a num- 
+
+
+
+ber of other festivities planned 
+throughout the semester. These 
+range from sporting events to 
+the return of Clearly You Crys- 
+tals, for Valentines Day. 
+
+With IPFW's athletic de- 
+partments recent induction to 
+the Mid-Con Conference, SAB 
+is aiding in the attempt to boost 
+student attendance at the sport- 
+ing events 
+
+Shifley says, "Ihope students 
+will come to the athletic events 
+we sponsor - we are handing 
+out free t-shirts and hoping to 
+build more student support for 
+our athletic teams." 
+
+Robert Burns, a member of 
+SAB and a Student Govern- 
+ment Senator, feels that home- 
+coming week is the most suc- 
+cessful activity put on by the 
+activities board "because it al- 
+
+
+
+lows most of the student body 
+to participate in the events and 
+allows us to gain exposure." 
+
+Even though Homecoming 
+has come and gone. SAB has 
+a similar event planned for 
+the spring semester, "Spring 
+Fling", held the week of April 
+16-20. 
+
+Bums says that students 
+should "get involved. The 
+number of events that people 
+miss out on because they don't 
+take the time to read a tlyer or 
+as questions is just a shame. 
+If people took the time to get 
+involved they would enjoy 
+the campus experience much 
+
+The 
+
+
+
+sponsored by 
+usually free or very 
+
+
+
+
+ipsru 
+
+
+
+India riii -Purdue Student Newspapers, 
+■ inc. Walb Union, Suite 21 5 
+£ I 2101 Coliseum Blvd. East 
+
+Fort Wayne, IN 46805 
+
+
+
+Newsroom: (260) 481-6584 
+I Fax:(260)481-6045 
+Advertising Dept: (260) 481 -6583 
+E-mail contacteipfwcommunicator.org 
+
+
+
+Andrew Welch has his blood pressure checked at the health 
+screening on Monday. 
+
+
+
+Podium 3 
+
+Arts &amp; Entertainment.... 5 
+
+
+
+► sab 
+
+From Page 1 
+
+low cosl and not only supports 
+h hcallhy. growing campus, bul 
+enriches Ihe whole collegiate 
+experience," said Burns. 
+To get more information on 
+any SAB activity or event stop 
+by Walb Union 225 or read the 
+fliers posted on doors or bulle- 
+tin boards around campus. 
+
+
+
+Free checking 
+Free online bill pay 
+24/7 account access 
+Bank-by-Phone 
+Online Banking 
+On-campus branch 
+Market-leading rates 
+Low fees 
+Friendly, fast service 
+
+
+
+All IPFW students, 
+
+faculty and staff are 
+
+eligible to join 
+
+IU Credit Union! 
+
+Open your 
+account today! 
+
+IU Credit Union 
+
+
+
+www.iucu.org 
+Kerrler Hali, Rm 198F 
+
+210! Coliseum Boulevard Eo 
+
+Fori Wayne, IN 46805 
+
+260-4816263 
+
+Open Mon. - Ffi. Sam - 4pm 
+
+
+
+Campus W 
+Calend 
+
+
+
+
+1 1 ACCS Express Lanes: 1 5- 
+
+minute drop-in resume critiques, 
+KT109,noon-2p.m.For 
+information, call 16595. 
+
+12 Weekend classes begin. 
+
+Athletic Event: Men's Volleyball 
+vs. St. Francis (PA), GC. 7 p.m. 
+For information, call 16643. 
+
+1 3 Lunch with an IPFW Scientist: 
+
+"Robotics," Yanfei Liu, assistant 
+professor of engineering; Science 
+Central, 1 1 :30a.m.-l p.m. For 
+
+..call 260-424-2400. 
+
+
+
+Athletic Events: Men's 
+Basketball vs. New Jersey 
+Institute of Technology. Memorial 
+Coliseum. 4 p.m.; Men's 
+Volleyball vs. Penn State, GC, 
+7p.m. For information, call 
+16643. 
+
+
+
+for Jan. 11-17, 2006 
+
+
+
+15 Martin Luther King Jr. 
+Holiday. 
+
+16 Writing Center Opens for the 
+Semester: M-Th 10 a.m.- 
+5p.m.;F10a.m.-2p.m.;Su 
+1-5 p.m. For information, call 
+16028. 
+
+17 ACCS Express Lanes: 15- 
+minute drop-in resume critiques. 
+KT109, 1 1 a.m.-l p.m. For 
+information, call 16595. 
+
+National Student Exchange 
+Information Session: KT G98, 
+noon. For information, call 16595. 
+
+ASAP! Student Discussion 
+Series: "Student Involvement," 
+WU 222-224-226, noon. 
+For information, call 16608. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+Wood Creek 
+
+APARTMENTS 
+
+
+
+
+
+
+ood Creek Apartments • 260-4 
+
+
+
+
+
+
+8 $ Scholarship Money $ 
+
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+
+
+
+We h ave. a great deal for Full time students 
+One month's rent free 
+•+ NO application fee 
+l±jNO security-deposit 
+
+
+
+•Money for those pursuing 
+
+an IU degree or a Purdue 
+
+degree. 
+
+
+
+•Most applications require 
+
+the parent, step-p; 
+
+spouse, or you to be an IPFW 
+
+alumni association dues 
+
+paying member. 
+
+
+
+Check out the applications on the rack 
+outside of Waib Student Union, Room 125. 
+
+mmmmmmmmm 
+
+
+
+
+Podium 
+
+Style at IPFW represents diversity 
+
+
+
+By Jessica Ruckn 
+
+
+
+As the t\ 
+gins, one of the aspects of 
+campus life that I look for- 
+ward to the most, believe it or 
+not, is fashion. 
+
+Trudging through six inch- 
+es of snow with eighty pounds 
+of books on my back is not 
+my idea of fun, but as I schlep 
+from Classroom Medical to 
+Kettler Hall, I keep my head 
+up and watch all of the differ- 
+ent people pass, although I'm 
+not typically looking at their 
+faces. I am mesmerized by 
+their style. 
+
+We as IPFW students don't 
+have a lot to look forward to 
+in the middle of January, what 
+with the heaps of snow and 
+frozen nasal cavities that we 
+battle as we debate the merits 
+of walking all the way across 
+campus for yet another class 
+or running home to our still- 
+
+
+
+warm beds. 
+
+But I take that opportunity 
+of walking across campus to 
+really look at all of the fash- 
+ion parading past me. 
+Our student body is so incred- 
+ibly diverse, and being from 
+any and every point on the 
+globe, we really are a melt- 
+ing pot of cultures and back- 
+grounds. Those cultures are 
+personified by what we wear 
+and how we wear it. My fa- 
+vorite place to walk on cam- 
+pus is the main walkway from 
+Helmke Library to Kettler 
+Hall. 
+
+Everyone walks that way 
+at some point in his or her 
+school week, and it is the per- 
+fect vantage point for people 
+watchers such as myself to 
+really sit back and enjoy our 
+campus culture. 
+
+I know as well as anybody 
+else that style is a reflection 
+of personality. 
+
+
+
+personal opinions. Really 
+looking at someone (without 
+resembling a stalker, obvi- 
+
+dication of the person under- 
+neath, but for a true analysis 
+of a person, of course we are 
+to look inside. 
+
+I understand that most who 
+read this article will brush it 
+off With the thought that this 
+is a "fluff' piece. However, 
+my challenge to you is to stop 
+looking at your shoes or your 
+cell phones when you walk 
+across campus or sit in the li- 
+brary, and take a closer look 
+at the diversity here at IPFW. 
+
+We are not nearly as bor- 
+ing as we are projected to be 
+and I have so much respect 
+for the people who represent 
+their style their own way be- 
+cause they want to just for 
+themselves, and not because 
+they want so desperately to (it 
+in with others 
+
+
+
+
+Mere megapixles of truth 
+
+
+
+Said Said Something 
+
+
+
+If you haven't seen it yet, 
+then I only advise that you 
+don't which means you prob- 
+ably will anyways. Confused? 
+I knew I was when I was ap- 
+proached about a certain video 
+that leaked 
+
+■onto the 
+Internet. 
+And let me 
+empha- 
+size that 
+this col- 
+umn will 
+only kill 
+the curious 
+
+n'': V.nplC 'Design C3lS i nS 'de 
+nujor jnd "nies 'Said those Of yOU 
+
+ih'.'i .,™l''l h'i' wno have 
+
+views do not necessarily not Seen the 
+newspawr "^ Video I'm 
+
+about to dis- 
+
+
+
+No, I'm not talking about 
+Justin Timberlake's SNL music 
+video for 'Blank in a Box,' bin 
+Saddam Hussein's execution 
+video, which has reached and 
+scarred the eyes of millions 
+across the world. 
+
+What makes this video so 
+controversial is not the fact that 
+some guy leaked the clip, be- 
+cause let's be honest, we might 
+have well all saw it coming. 
+Plus, with today's technology. 
+
+
+
+I'm surprised the cell phone 
+camera didn't have better qual- 
+ity- not that I'm complaining. 
+It also wasn't the cinematogra- 
+phy, which happened to capture 
+the event in an oh-so-creepy 
+way. It was the dynamics of the 
+people and their correlation to 
+the succeeding democracy in 
+
+■Since the majority of you 
+don't know Arabic, I will con- 
+veniently explore the dialogue 
+and the scene so that you don't 
+have to watch the clip your- 
+selves. The scene is set in some 
+random dark room with appar- 
+ently two levels. Saddam looks 
+and remains calm as the noose 
+is set around his neck. The man 
+who, for all these years has 
+been portrayed as a passionate- 
+ly-violent and strict ruler, ap- 
+peared at peace and found. His 
+last words were 'a Shahadah,' 
+a pillar of Islam that defines 
+one's acceptance and submis- 
+sion to Allah and his messen- 
+ger. 
+
+While Saddam may be calm, 
+the room explodes into chant- 
+ing and excitement where one 
+could clearly hear the name 
+Muqtada Al-Sadr, leader of the 
+Shi'as, and their disapproval of 
+Saddam. 
+
+The hanging is not as rel- 
+evant as to the conduct of the 
+hanging. In reality, the US is re- 
+sponsible for Saddam's execu- 
+tion, and they screwed up. The 
+video doesn't provide a visual 
+
+
+
+of justice. It reinforces the out 
+of control civil war in Iraq, 
+dominated by a once con- 
+trolled people. At least when 
+Saddam was president, there 
+was order. Yes, he is respon- 
+sible for thousands of deaths, 
+but at the end of the day, Sad- 
+dam is merely another victim 
+to our corrupt way of "gctti ng 
+the job done." 
+
+Did I forget to mention that 
+the trial wasn't even over? 
+Did I forget to mention that 
+the hanging looked like re- 
+venge? Did I forget to men- 
+tion that 20,000 more troops 
+are to be sent to Iraq? And so 
+I wonder if our administration 
+forgot to mention something. 
+
+Some days I wake up feel- 
+ing like I should start a revo- 
+lution. I don't know how. I 
+don't know when. But I'm 
+getting tired of hearing truth 
+NOT from our government. 
+I'm tired of seeing the truth 
+from cell phones NOT from. 
+
+
+
+So what if the truth hurts! 
+That is how people become 
+better and stronger. Better 
+and stronger people are able 
+to contribute positively to a 
+
+You can be tired for so long 
+before you take a nap or sleep 
+a whole eight hour cycle. But 
+when you wake up, its there 
+and it is sometimes clearer 
+than ever. Screw hindsight 
+and make a difference now! 
+
+
+
+A little Quahog in Iraq 
+
+
+
+By Curtis J. Nash 
+
+
+
+I am ever the optimist, 
+personally. It helps me keep 
+some perspective when I keep 
+abreast of the news of the 
+world and keeps me from de- 
+scending into a maelstrom of 
+despair. In other words, day 
+to day events can cause one 
+to become bogged down with 
+a close-up view of the trees if 
+one does not keep an eye on 
+the forest. It is this perspec- 
+tive, this unfailing "glass liall- 
+full" philosophy, which leads 
+me to believe that perhaps our 
+military's commander-in-chief 
+is attempting to bring our time 
+in Iraq to a close. 
+
+Commander Bush can- 
+not simply say "forget it, you 
+are on your own Iraq," and 
+bring our troops back home, 
+just because the American peo- 
+ple are overwhelmingly against 
+our youngsters being in harm's 
+way. This would be political 
+suicide. It would mean that his 
+objective in Iraq had been unat- 
+tainable, that his plan had been 
+flawed in its short-sightedness, 
+and that he had "cut and run." 
+To admit defeat and humbly 
+lick his wounds and beg for- 
+giveness from the American 
+people would be disastrous for 
+his party and for him. So, in- 
+stead consider the recent chain 
+of events. It reads like a script 
+written for a straight-to-video 
+
+As the congressional 
+elections approach in Novem- 
+ber, it becomes apparent, due to 
+
+
+
+polls and such, thai republican 
+incumbents are on their way 
+out nationwide. Secretary of 
+Defense Donald "Scapegoat" 
+Rumsfeld accepts the heat and 
+tenders his resignation. George 
+W. Bush accepts his resigna- 
+tion, with no mention of the 
+fact that in the past, when Sec- 
+retary Rumsfeld had offered 
+his resignation, the President 
+circled his political wagons 
+and refused to accept. A blue- 
+ribbon, bi-partisan panel of ex- 
+perts, ranging from Lee Ham- 
+ilton lo Howard Baker to Leon 
+Panetta, are asked to assess the 
+situation in Iraq and give their 
+recommendations. What could 
+be the reason for this, when 
+President Bush has experts 
+and strategists at his beck and 
+call already? All the commit- 
+tee members are seen as clear- 
+headed and above partisanship 
+and the result ("Duhh") is that 
+Iraq is a quagmire. 
+
+Enter new Secretary of 
+Defense Robert Gates, who is 
+appointed with no opposition in 
+the Senate, not even a whimper 
+of protest, and the first chance 
+he gets to speak, he tells the 
+world that we are losing the 
+war and the plan for Iraq is... 
+you know. Has this all been a 
+carefully-drawn out scheme 
+for Bush to bring American 
+troops home without the politi- 
+cal backlash of having been a 
+failure at the cost of thousands 
+and thousands of American and 
+Iraqi lives? Eternally the opti- 
+mist, I would love to believe 
+
+
+
+H 
+
+
+
+Editorial Policy 
+
+Editorials are the opinions of The Communicator. The opinions expressed do not necessarily relied theviewsoi'lPl ■ 
+
+solely the opinion of its author. 
+
+The Communicator welcomes responses, Letters to the Editor must be signed, dated and accompanied by d current address. tel&lt; | h ml 
+
+lajor or title (if applicable). Letters not meeting these requirements will not be considered for publication. All submission made 
+; in p&lt; ; soil Addresses and telephone numbers will not be published. 
+
+Submissions must be typed, and no more than 700 words. The editorial board of The Communicator reserved the right to edit i 
+yle and clarity, Letters deemed potentially libelous by the editorial board will not be published under an) circumsl 
+
+
+
+
+be verified by phon. 
+for length. 
+
+
+
+H^^^HH 
+
+
+
+
+
+
+
+
+
+Bjfl] 
+
+
+
+Re + evaluation = solution 
+
+
+
+l.i - ::■ ■■■.■":■! 
+
+Intelligence shouldn't be overlooked 
+because of age or gender 
+
+
+
+By Stephanie Samples 
+
+Every year in January it 
+seems everyone is trying to 
+change their lives in some 
+way. Some try to Jose weight; 
+others try to quit smoking, 
+some make goals for changes 
+in their financial situations ;md 
+many want to make changes in 
+their personal lives. 
+
+Most years I participate 
+in these resolutions, and rarely 
+have any of ihem worked out. 
+I understand the reasoning be- 
+hind these changes in the be- 
+ginning of a New Year, but the 
+most important changes that 
+we want to make seem so su- 
+perficial. 
+
+Of course, everyone slips 
+into the hopes of losing that 
+extra ten pounds, and although 
+I support being healthier but 
+most of the time the weight 
+loss has nothing to do with 
+health, bill is purely cosmetic. 
+Another popular resolu- 
+tion is finding your soul mate. 
+I cannot turn on the television 
+without seeing a commercial 
+for some kind of online dat- 
+ing. I hale to offend anyone 
+hut I think the idea of having 
+a computer lind your perfect 
+match is ridiculous. 
+
+
+
+I know that for some find 
+ing someone compatible to 
+you may be difficult, but isn't 
+meeting someone, and feeling 
+something so much better than 
+filling out surveys. 
+
+Goals to get better jobs and a 
+more stable financial situation 
+seem to also be very popular, 
+but shouldn't that be a continu- 
+ous goal, noi just when January 
+first rolls around? 
+
+Quitting smoking is one of 
+the most popular resolutions 
+which I think is a good idea, but 
+chances are a long lime smoker 
+is not going to quit just because 
+they made a resolution. 
+
+The word is out, smok- 
+ing is bad for you. but then 
+again so are hamburgers and 
+fries and people are still in- 
+haling those along with the 
+smoke. 
+
+While change can be a very 
+good thing, especially when 
+it benefits a persons" life, the 
+change should be made when 
+it fits in your life not on your 
+calendar. 
+
+1 find it to be a good thing 
+that some of the most popular 
+resolutions that we have made 
+are quitting habits are bud for 
+us, and bad thai many are things 
+that only change the surface. 
+
+
+
+More people should make 
+resolutions that change their 
+Haws that are more than skin 
+deep. With so much that should 
+change in our world, losing 
+live pounds shouldn't be the 
+biggest concern. 
+
+I don't mean to sound like 
+I think I am superior to it all 
+because I know 1 am not, but 
+when I was thinking of my 
+resolutions I was disappointed 
+with the changes that first came 
+to my mind. I thought again 
+about what should change. 
+
+If the thing I think is most 
+important to change about my- 
+self is on the surface than I need 
+to look deeper. Each year we 
+should all try to improve in all 
+areas of our life, but we should 
+think about improvements that 
+
+Most people would like to 
+change things about their ap- 
+pearance, and that is perfectly 
+normal, but is would be silly to 
+think that everything about our 
+personalities are perfect and 
+that nothing needs to change. 
+
+If you made a resolution 
+and haven't told anyone what 
+it is, keep it that way. If you are 
+changing for someone other 
+than yourself, it's not worth 
+changing at all. 
+
+
+
+Tiff's Tiffs 
+
+By Tiffany Dirig 
+
+
+
+Short 'Winter Break' welcomes the new semester 
+
+
+
+By Michelle Yahne 
+
+
+
+Ah. January. Inevitable. 
+The beginning of resolutions, 
+winter, and unfortunately, the 
+start of the ever so cumber- 
+some spring semester. As I sit 
+here writing this, I know that get up from school 
+in just a few hours, my pre- glimpse of life without 
+
+cious Christmas, ahem, 
+
+"Winter Break", 
+
+
+
+After a certain point I got 
+bored with just going to work 
+and then coming home. With no 
+
+homework or projects awaiting 
+
+me, the routine of going with 
+
+friends, being able to sleep in 
+
+day. and not having to 
+
+
+
+
+
+
+..well, the drop out rate 
+come from somewhere. 
+
+
+
+"Is it just me, or does the 
+
+spring semester seem like it 
+
+last twice as long as fall?" 
+
+
+
+Mil be 
+over. It never seems long 
+enough, especially if you 
+go somewhere for the 
+holidays. Alter factoring 
+in lost time from travel — 
+and working more, it 
+
+doesn't seem like such a break I think that for most students 
+after all. on campus, even though we sit 
+
+Even the thought of proj- and complain about classes, 
+eels, homework, and worst, 9 professors, and parking, we are 
+a,m. classes, has made me all all in the same boat (pardon my 
+but excited to return to school, lame analogy). Knowing that 
+I can't help but express my we are ready for school to start 
+lackluster attitude. is unavoidable, and heck, if we 
+
+
+
+right? 
+
+Is it just me, or does the 
+spring semester seem like it 
+lasts twice as long as fall? Docs 
+it last so long because we want 
+summer to arrive promptly 
+with warmer weather and the 
+thought of vacations? Perhaps 
+it's because when we wake up 
+it's still dark out, and when we 
+finally get done with our day, 
+it's dark again! 
+
+So get ready to trudge 
+through snow, ice, and park- 
+ing lots full of cars once 
+again- to sit in full classes and 
+peer outside wishing you were 
+back in your warm bed watch- 
+ing "Saved by the Bell" reruns 
+with a bowl of cereal. Let's just 
+hope that our mild winter con- 
+tinues, and that finals week and 
+summer make a hasty return. 
+
+
+
+Two thousand and seven 
+is finally here and I've made 
+my resolution. I've decided 
+to give up working with idiots. 
+I'm not going to do it anymore. 
+It stresses me out and I don't 
+like it. 
+
+Wait. What? It's impos- 
+sible? Why? Because morons 
+exist at every corner? Crap. It 
+seemed like such a good idea. 
+Here's the crux of the is- 
+sue; I hate being young. It is 
+even more loathsome when 
+one works in an industry full 
+of macho men and subservient 
+women; like, I dunno, a fac- 
+tory. 
+
+That, folks, is where I work. 
+How, you may be asking your- 
+self . did such an iiber-femi- 
+nist come to work in such a 
+rage-provoking business? One 
+word: nepotism. My dad had 
+a job. I needed one. Presto. 
+I'm in Simpleton Heaven. You 
+can bet your life savings that if 
+Pop hadn't gotten me the job, I 
+wouldn't have picked it! 
+As a mere 23-year-old wom- 
+
+
+
+an ... excuse me, girl ... it's im- 
+possible for me to actually do 
+my job, you see. After all. the 
+only things that skip through 
+my skull are the vapid, moron- 
+ic, inconsequential thoughts of 
+peace, equality, and hope. Why 
+do you look so shocked? Were 
+you expecting me to say "hair, 
+clothes, and girls"? If so, then 
+you obviously know me about 
+as well as my employer does. 
+
+Regardless of my undeniably 
+young age and noticeable gen- 
+der, though, I do have a work- 
+ing brain that can occasionally 
+muster an intelligible thought. 
+It's amazing, I know. But, lam 
+a person that can actually take 
+instruction and bring what is 
+expected to fruition. 
+
+Contrary to the popular be- 
+lief on site, I don't need the 
+symbolic, yet remarkably pa- 
+tronizing, pat on the head when 
+I've done a good job. Or even 
+when I've mentioned a new 
+idea. The one that I share may, 
+oddly enough, help our drown- 
+ing IT Department. I know it's 
+hard to comprehend, but I have 
+something else to offer our di- 
+vision other than acting as the 
+"token chick". 
+
+
+
+The Communicator 
+
+
+
+nrnmrm 
+
+Jenna Tompkins 
+
+Editor-in-Chief 
+
+Said El-Dajani 
+
+Managing Editor 
+
+Mike Webb 
+
+Features Editor 
+
+Said El-Dajani 
+
+Opinions Editor 
+
+Kira Schowe 
+
+Sports Editor 
+
+Kelly Jones 
+
+Design Editor 
+
+Nic Pyle 
+
+Photo Editor 
+
+Andy Boesch 
+
+Advertising 
+Manager 
+
+
+
+IPSN Inc. 
+
+Walb Union Suite 215 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+
+Publisher 
+
+(260)481-6585 
+
+
+
+Done Reynolds 
+
+Publisher 
+
+
+
+Campus Opinion 
+
+
+
+T&gt;o- (put (klieiAe £#, fuvt&amp;tOety 1iecv 'fy&amp;vut, %eaxdutc(mA? SxfcCaitt. 
+
+
+
+
+"Yes. because I have some 
+
+
+"I start with them 
+
+
+this year. But I don't follow 
+
+
+never pan out." 
+
+
+through with more than 20 
+
+
+
+
+percent, it's better to try and 
+
+
+
+
+fail then not try at all." 
+
+
+
+
+—Patrick Nwekwo 
+
+
+-—Wendy Plumb 
+
+
+Sophomore 
+
+
+Senior 
+
+
+
+"Yes. I usually tell others to 
+try, try. try until they succeed, 
+and I'm going with that in 
+mind this year." 
+
+— -Mohit Handa 
+
+
+
+"No. I like everything about 
+myself." 
+
+
+
+"If you believe the resolution 
+
+will edify you as a person, you 
+
+should pursue it. So it comes 
+
+down to having it in your 
+
+character." 
+
+— Josh Burton 
+
+Senior 
+
+
+
+Arts &amp; Entertainment 
+
+
+
+Children of Men: A very welcomed uneasiness 
+
+
+
+By Mike Webb by herdin S immigrants out of 
+
+Arts &amp; Entertainment Editor the country like animals, and 
+
+consequently leaving them to 
+
+It is clear that culture has a their doom - a world that is kill 
+
+profound effect on the way we or be killed, with no place to 
+
+all see reality. Our experiences hide, young and old alike (but 
+
+help turn us into who we will not too young of course), 
+be. That is not a bad thing in and Even within Britain there 
+
+of itself, but what if you only is no true safety. Terrorism is 
+
+have experiences that paint a rampant, as people desperate to 
+
+
+
+false sense 
+of reality 
+(and even 
+security)? 
+
+
+
+do 
+
+
+
+"This movie is about life, and tnm B at 
+
+real life isn't always about fields for reason 
+
+of flowers and happy endings, unknown 
+
+but these depictions will make There ' 
+
+you appreciate the moments no ton § e 
+
+that are." a bubble t 
+
+hide in. 
+
+
+
+safely within our bubbles, and Owen (Sin City, King Ar- 
+
+spend more money than we thur) stars as Theo, a resident 
+
+have as if our lives depend on of Great Britain who is trying 
+
+it. Here, we can be free to pam- to simply live, even without 
+
+per ourselves. But what if that anything to live for. Disgusted 
+
+reality became impossible? with the world, he goes about 
+
+What if an unavoidable event his day to day life in a daze 
+
+popped our big safe bubble? like everyone else, trying to 
+
+
+
+Welcome to Universale 
+Children of Men (directed by 
+Alfonso Cuaron). Painting a 
+grim yet hauntingly realistic 
+
+portrait of a possible future, ing to reach a secretive group 
+Children of Men asks us to known as the Human Project 
+
+
+
+survive but waiting to die. That 
+is, until he meets Kee (Claire- 
+Hope Ashity), a young woman 
+in Britain illegally. Kee is try- 
+Lch a 
+
+
+
+ponder what would happen to 
+our lives if humans could no 
+longer reproduce. 
+
+The year is 2027 (Nearly all 
+of us would likely still be alive 
+at that time), and the world is 
+in total chaos. Every major 
+
+
+
+where she will be safe. If she is 
+discovered, she will be thrown 
+out of the country like a dog, 
+but that is not what drives her 
+to seek out the preservationists, 
+you see, Kee is pregnant. 
+Without revealing too much. 
+
+
+
+country has fallen. Wars have Theo is charged with deliver- 
+
+brought the world to its knees ing her to the human project, 
+
+with the exception of Great and to do so he must deal with 
+
+Britain, which has managed to the consequences (becoming 
+
+
+
+Owen is extraordinary. He is 
+quickly earning respect within 
+the industry, and I suspect that 
+he will be around for a long 
+while. Claire-Hope Ashity was 
+unknown to me before this 
+film, but 1 was blown away. 
+She plays the role of Kee with 
+conviction, and an honesty that 
+is truly beautiful. With appear- 
+ances from Chiwetel Ejiofor, 
+Julianne Moore, and the in- 
+credible Michael Caine, there 
+is nothing lacking in the way 
+of acting or presentation. 
+
+The soundtrack is also of 
+immense effect in bolstering 
+a film into the realm of the 
+hauntingly real. A few modem 
+day songs make appearances. 
+along with some of the more 
+surreal music of the past. 
+
+Progressive rock fans will 
+be happy to discover the ref- 
+erences to both King Crimson 
+and Pink Floyd (trust me, you 
+won't be able to miss that one). 
+This was made by those who 
+love art. 
+
+Describing this movie is 
+difficult to do. It is disturbing 
+in concept and in presenta- 
+tion. Nothing about this film 
+will take away the uneasiness 
+that is hiding beneath the brief 
+glimpses of comfort. 
+
+This movie is about life, 
+and real life isn't always about 
+fields of flowers and happy 
+endings, but these depictions 
+will make you appreciate the 
+moments that are. 
+
+
+
+
+: told i 
+
+
+
+■ that 
+
+
+
+remain somewhat functional a pursued 
+
+
+
+betrayal. 
+
+
+
+amidst the relentless chaos and loss - a concept he is al- 
+
+
+
+oulside of its borders. It is as 
+a result of this that the primary 
+goal of the British police has 
+become to keep immigration 
+under control, and this is done 
+
+Vices: Is this 
+really dead 
+Poetic? 
+
+
+
+ready well acquainted with). 
+His dismal existence is given a 
+purpose not even his own pes- 
+
+The performance of Clive 
+
+
+
+the only people who are for the 
+concept of war are those who 
+have never experienced what 
+it's like. I have never watched 
+
+anything that made me fear that 
+concept more than this movie. 
+The filmmakers use non- 
+conventional means of getting 
+
+
+
+pie, a terror i&lt; 
+
+produce a ringing sound not 
+
+only in the cars of those in the 
+
+movie, but also those watching 
+
+it as well (they made sure of 
+
+it). 
+
+Many scenes arc filmed for 
+very long periods of lime with- 
+out cutting away. 
+
+These are not unevent- 
+ful scenes either; I am talking 
+about war scenes with the most 
+realistic of explosions, depic- 
+tions of the reality of death, 
+and other horrors that will 
+truly make you feel like a rat 
+in a maze. This movie looks, 
+sounds, and feels real. 
+
+I like to play painthall, bill 
+I am not very good at it. If this 
+
+
+
+movie were my reality, I fear 
+thai I would not last very long, 
+And that is whal is so scary; 
+just how realistic is tills? If 
+this movie doesn't make you 
+question your interpretation of 
+reality as it pertains to people 
+in less fortunate positions, then 
+yon and I think on very differ 
+cni wavelengths, 
+
+I don't know that 1 have ever 
+
+witnessed a fictional film that 
+evoked this much welcomed 
+
+thank you to those who can use 
+art to effectively open minds in 
+such a way. 
+
+Please find the lime to watch 
+this movie; you will leave ap- 
+preciating something in your 
+life more than before 
+
+
+
+*7^e @o*te6ou&amp; ^&gt;*Ucte: j4 Piece fen,efean€itCo&lt;H, 
+
+
+
+This book by Sheryl Paul is every emotional bride's dream come true 
+
+
+
+LeU 
+
+
+
+t thi- 
+
+
+
+/by 
+
+
+
+saying that I've been a fan of 
+Dead Poetic since their debut 
+record "Four Wall Blackmail" 
+was released in 2002 on Solid 
+State Records. 
+
+At that time in my life, I 
+was beginning to discover that 
+music could have true spiritual 
+overtones without sounding 
+too contemporary for those 
+with more "aggressive" tastes. 
+Here was a young band, la- 
+beled by many as "Christian" 
+but one of the first bands that 
+I heard to take the term "emo" 
+and apply it in a way that I 
+found irresistible as a music 
+fan. The songs were full of 
+passion, energy and convic- 
+
+
+
+Their sophmore effort, 
+2004's "New Medicines" dis- 
+played a more polished and re- 
+fined sound. Not only were the 
+boys from Dayton, Ohio com- 
+ing into their own as a band. 
+
+
+
+engagement to fragile expe- 
+riences concerning the plan- 
+ning and the year following 
+
+
+
+The Conscious Bride, Sheryl 
+Paul. California: New 
+Harbinger Pub- 
+
+
+
+Vices: PageS 
+
+
+
+ly 1 became 
+engaged ant 
+found myself in- •H 
+volved in a huge ¥ 
+wedding planning 
+site where there ^ 
+were many brides- &amp;fa, 
+to-be recommending 
+The Conscious Bride 
+by Sheryl Paul. Looking 
+for anything pertaining to 
+weddings or bridal-hood I 
+was intrigued. 
+
+This book proved to be a 
+Godsend for me in an emo- 
+tional time of need. The 
+book covered everything 
+from uneasiness about the 
+
+
+
+
+
+
+
+you 
+
+
+
+Early on in the book ollt the book 1 will refer to 
+Paul, makes point clear that 'marriage' and 'the bride' but 
+the book is not just written for f ee | tree to replace these words 
+brides or marriage. "Through- 
+
+► Bride: Page 6 
+
+
+
+marrieds 
+
+who need a place to 
+
+go to understand all 
+
+pre-wedding 
+
+igs. The 
+
+ConsciousBride, 
+
+s the book to 
+
+read. Paul 
+
+ional bridal 
+guides 
+
+
+
+ers through the 
+
+volving around the wedding. 
+Paul makes all of her expla- 
+nations, of the emotions felt 
+by brides, clear by using real 
+bride's stories and also using 
+the Greek myth of Psyche and 
+
+
+
+")laMle &amp;itu 
+
+
+
+cm 
+
+
+
+
+j^vJito 
+
+
+
+From Page 5 
+
+they were also enjoying 
+a heightened level of suc- 
+cess with a popular title 
+track and support from 
+MTV. 
+
+Released on Hallow- 
+een 2006, "Vices" is the 
+newest record from Dead 
+Poetic (Now on Tooth 
+and Nail Records), and 
+longtime fans may notice 
+that this record bares little 
+resemblance to its prede- 
+cessors.. .and so does the 
+band itself. 
+
+Shortly after touring 
+in support of "New Medi- 
+cines," internal strife 
+within the band led to 
+the departure of guitar- 
+ist Todd Osbom, bassist 
+Chad Shellabarger, and 
+drummer Josh Shella- 
+barger. 
+
+Remaining members 
+vocalist Brandon Rikc 
+and guitarist Zach Miles 
+quickly recruited guitar- 
+ist Dusty Redmon, bassist 
+John Brehm (both former- 
+ly of the established band 
+Beloved), and Jesse Sprinkle 
+
+(the legendary drummer of right away. I can say in all non- 
+Poor Old Lu) to round out their esty that 1 bought the album 
+
+
+
+IPFW's Student Recreation Center 
+
+
+
+\ Ground Floor - Walb Student Union 
+
+
+
+
+i^my^u 
+
+
+
+lilliards, Table Tennis and Shuffleboard - 4( per minute 
+
+Board Games - Free! 
+
+Video Arcade - Coin Operated 
+
+
+
+estc attendant for board gomes, billiards rues and balls, table tennis equipment (all include* 
+
+
+
+
+ying and have fun with friends 
+
+NEW!! - Pop-A-Shot Basketball 
+
+
+
+Open 9am to 9pm 
+
+Monday - Friday 
+
+Regular Academic Sessions 
+
+Mastodon Card Required for Use 
+
+.■j i ih table rental), and basketballs for the new, free Pap-A-Shot{ 
+
+
+
+new lineup and 
+ward. 
+
+With a new band come: 
+new sound, and for better 
+
+worse, what a 
+
+surprising sound 
+il is! Gone are the 
+
+
+
+ing vocals, 
+the frantic . 
+which set 
+pace for soi 
+the band's 
+
+
+
+;of 
+
+
+
+be fully appreciated ' be more musical, and "Vices" 
+a very musical record. 
+The lyrics haven't changed 
+
+expecting it to sound entirely as much as the sound. The spir- 
+
+different. itual overtones are all present 
+
+All considered, I do enjoy throughout. 
+
+what I am hearing, but not near- This is a band that made a 
+
+_= ly as much conscious decision to move in 
+
+as the older a different direction as opposed 
+
+material. The to selling out. If they wanted a 
+
+band now has huge radio hit, they didn't put 
+
+more in com- one on here that I have found 
+
+mon with yet (That is actually refreshing 
+
+Deftones in this day and age). 
+
+= than the Dead If you are ne 
+
+Poetic of the and like heavy 
+
+past (a change that 1 believe to means jump 
+
+be fully intentional, especially right in. This is 
+
+
+
+Think 
+
+
+
+"This is good stuff, just 
+please don't assume you 
+know what you're get- 
+ting based on anything 
+the band has previously 
+done/' 
+
+
+
+the band, 
+ic, by all 
+
+
+
+
+se Pregnancy Test; 
+Options Education 
+
+
+
+Campus Hope 
+
+
+
+*, Student Organization on the IPFW Campus 
+npush op estu dents 'ffyahoo.com 
+'ww.campushopestudents.org 
+
+
+
+intense and memorable 
+ments. In its place we h; 
+
+higher level of polish, excel- considering Deftones frontman good stuff, just 
+
+lent production, more compli- Chino Moreno guests on the please don't 
+
+track "Paralytic"). assume you 
+
+There are some very bright know what 
+
+5 here, and mid-tempo you're getting 
+
+"Vices" has some of based on any- 
+
+
+
+cated drumming patterns and 
+(perhaps most surprisingly) ;i 
+plethora of mid-tempo rock 
+songs. This is definitely not the 
+Dead Poetic fans have come to 
+know and in many cases love. 
+So what are we left with 
+
+
+
+Dead Poetic's 
+
+
+
+heaviest 
+ithout sere 
+
+
+
+thing the band 
+has previously 
+
+
+
+lately ; 
+
+
+
+here? This 
+
+bum that ' 
+
+and at the same tim 
+
+others. 
+
+I can understand 
+wanting to evolve 
+and stay relevant, 
+especially amidst a 
+huge lineup change, 
+but the most notice- 
+able difference cor 
+Brandon Rike in his new ap- 
+proach to singing (and he's 
+been there from the start). 
+
+For a longtime fan, this 
+change is a little too much all 
+
+
+
+The emphasis has clearly 
+been placed on creating a much 
+more versatile musical sound- 
+
+
+
+"This band has made a 
+
+conscious decisionto move in a 
+
+different direction as opposed 
+
+to selling out" 
+
+
+
+from 
+
+
+
+scape than has been present 
+previously, and the end result 
+is intense and thought provok- 
+ing after the shock of the style 
+change has worn off. There is 
+nothing wrong with wanting to 
+
+
+
+with terms that work for you. reader to know it is okay to feel 
+
+
+
+K7 
+
+
+
+Because what 
+
+archetype, it 
+makes no dif- 
+ference what 
+we call this 
+union...(6)" 
+
+To keep 
+with the sim- 
+plicity of the 
+book, Paul di- 
+vides up her chapte 
+rect titles and placi 
+chronological order. 
+
+The way she writes makes weddings.com. 
+her reader feel like they have Once, you read this book. 
+a therapist right there in their you'll feel so much better about 
+hands. Encouragement is her your self and your special day. 
+main focus. She wants her 
+
+
+
+: talking negative emotions surrounding 
+their wedding. 
+
+Shyryl Paul's 
+book, truly is an 
+excpetional guide 
+through what many 
+mdider to be the 
+most stressful event 
+i thier lives. 
+
+Paul has also 
+authored The Con- 
+s Bride's Wedding Plan- 
+Also, she manages her 
+website, v 
+
+
+
+Health and Wellness Clinic 
+WALB 234 
+
+
+
+IPFW and Parkview Hospital 
+
+Partners in Health and Wellness 
+
+
+
+HOURS 
+
+During school year 
+Monday-Thursday. H a m.-5 p.m. 
+Friday. 8 am -noon 
+CaS lor summer hours. 
+
+For more information. 
+
+call (260) 481-5748 or 
+•mail clinic&amp;ipfw.wlu. 
+
+
+
+IPFW 
+
+▼ 
+
+
+
+T PARKVIEW 
+
+nwnDcur I Hl^rOi I I/\L 
+
+
+
+SERVICES TREATMENT 
+PROVIDED FOR 
+
+Colds 
+
+EroDC-hllls 
+
+Sore throats 
+lemg 
+Headaches 
+
+LrTlfl 
+
+LaotrBftions' 
+PAP exams 
+Birth control 
+STDs 
+
+Depression 
+F&amp;iiguc 
+
+Viral irfecltons 
+Bums 
+Actio 
+Asthma 
+l" 1 o:cte= 
+Grthopoodcs 
+Hypertension 
+Flu shots 
+Allergy 
+noctions 
+^Tmii-i tabors 
+
+
+
+Sports 
+
+
+
+Wednesday, January II 
+
+
+
+Sports Events 
+01/10-01/16 
+
+
+
+Lady 'Dons fall to Saginaw Valley State 
+
+
+
+♦ Men's Volleyball \ 
+Francis at Gates, 7 
+
+
+
+♦ Men's Basketball vs New 
+Jersey institute of 
+Technology at Gates, 
+
+4 p.m. 
+
+♦ Women's Track at BGSU 
+Triangular, 1 1 a.m. 
+
++ Men's Volleyball vs Penn 
+State at Gates, 7 p.m. 
+
+
+
++ Women's Basketball at 
+Belmont, 7 p.m. 
+
+
+
+♦ Men's Tennis at Indiana, 
+
+
+
+Men's Basketball 
+earns national 
+ranking by 
+
+NCAA 
+
+Courtesy of 1PFW Athletics 
+Department 
+
+Indianapolis, IN-The IPFW 
+men's basketball team has 
+climbed into the national sta- 
+tistical rankings in numbers 
+release this afternoon by the 
+NCAA. 
+
+As a team, IPFW is ranked 
+21st in the nation in 3-point 
+field goals per game at 8.9. VMI 
+leads the way nationally with a 
+mark of 14.6 triples a contest. 
+The 'Dons are also in the top- 
+100 in 3-point held goal accu- 
+racy, hitting tin 37.3&lt;/r of their 
+trie*. Air Force lop&gt; the nation 
+in 3-point shooting at 45.7%. 
+
+The Mastodons are 43rd ' 
+the country in assists per 
+averaging 16.6 a contest. 
+A&amp;Mispacin;; Division! with 
+21.3 assists a game. 
+
+On the individual side, ju- 
+nior forward DeWitt Scott 
+finds himself sitting at 29th in 
+the county in 3-point field goal 
+percentage. Scott is hiuiiiii on 
+46.3';; of his attempts. Shaun 
+Green from Utah is tops at 
+56.5%. 
+
+Scott is also in the top-75 
+in 3-point held uoals per name 
+with 2.8. Steven Rush of North 
+Carolina A&amp;T leads the nation 
+with 4.1 triples a contest. 
+
+The Mastodons return to 
+action tomorrow night, 'host- 
+ing Western Illinois in a 7 p.m. 
+game at the Memorial Colise- 
+um. This will be a rematch of 
+the five-overtime thriller these 
+
+squads played back &lt; 
+
+
+
+that one by the final of 97-95 
+
+
+
+By Sam Sprunger 
+
+The IPFW women's bas- 
+ketball team suffered a loss of 
+67-65 at the hands on Saginaw 
+Valley St. on Saturday at the 
+Gates Center. Leading must of 
+the way the "Dons let a 9 point 
+lead, late in the second hall, 
+slip away and they fell to 7-7 
+for the season. 
+
+The game was one of runs, 
+with back-and-forth tempo 
+control. The Cardinals [limped 
+out to a 10-5 lead when IPFW 
+called a time-out. Coming out 
+of the time-out the "Dons went 
+on an 8-2 run to take a 13-12 
+lead with 13 mmuies left in the 
+first half. 
+
+Through the rest of the half 
+IPFW made small runs to pull 
+in front, but just could not shake 
+the Cardinals. Every time that 
+it looked as if the 'Dons were 
+going to put away Saginaw 
+Valley, the Cardinals would re- 
+spond to get back in game with 
+
+
+
+by Natalie Roberts' 10 first half 
+points and Johnna Lewis-Carl- 
+isle's nine, the 'Dons led 36-34 
+at the break. 
+
+IPFW opened up the second 
+half and made it look like they 
+were going to put away the 
+Cardinals for good. 
+
+Jr. Johnna Lewis-Carlisle 
+came out shooting with two 3- 
+pointers. two other field goals, 
+and the 'Dons were up by eight 
+with 15 minutes to go in the 
+game. Saginaw Valley called 
+a time-out and just like a pen- 
+dulum, the momentum swung 
+back towards the Cardinals. 
+
+Latille Ross scored six straight 
+points and following an IPFW 
+turnover Tricia Everett hit her 
+only shot of the game and tied 
+it up at 49 with just less than 1 2 
+
+
+
+
+Senior Ashley jdliiiMm i&gt;r.:ik&gt;. rfimn^li Indinmi's defense during n 
+
+
+
+lead. 
+
+IPFW then went on a 7-3 
+run to open their lead up to 64- 
+55 with six minutes remaining. 
+That was when the pendulum 
+swung lor the last time towards 
+the Cardinals. 
+
+Valerie Smith scored five 
+points, Latille Ross scored 
+
+
+
+four, and Jenna Schroeder hit 
+the Cardinals only 3-poinler 
+of the second hall to give them 
+the lead with less than 10 sec- 
+onds remaining. 
+
+IPFW had the ball and came 
+out of a time-out with a play 
+
+
+
+Senior Ashley Johnson then 
+took over the game for the 
+'Dons. She scored seven of 
+her ten points in the next three' 
+s, giving them a 57-52 
+
+
+
+
+Johnna Leuis-CarlMi* d 
+
+
+
+key, and made a move that got 
+the defender going backwards. 
+That gave her enough room to 
+get a good look and take an 
+open shot, but the ball was just 
+short with about two seconds 
+left. ■ 
+
+The ball bounded off to to- 
+wards the sideline where Sagi- 
+naw Valley rebounded and ran 
+out the clock. To lead the way 
+for the ' Dons was Johnna Lew- 
+is-Carlisle with 23 points, 5 re- 
+bounds. 5 steals, and 5 assists. 
+
+Also for IPIAV Natalie Rob- 
+erts and Ashley Johnson had 
+10 points apiece, lor the game. 
+Valerie Smith led Saginaw Val- 
+ley Stale with 21 points. Latille 
+Ross had 18 points and nine 
+hoards while Jenna Schroeder 
+had 13 points. 
+
+"We allowed a team lo lake 
+one from us," said Head Coach 
+Chris Paul "I have lo give them 
+eredil. They played hard, bat- 
+tled for every shot, and made 
+their shots". 
+
+The Mastodons (7-7) will now 
+have a week off before heading 
+to Belmont University on Janu- 
+ary 15th, their next home game 
+January 2tltli against Butler. 
+
+
+
+igg Mastodons begin New Year with a victory over IU-South Bend 
+
+
+
+Hanna Theike had a career night while the Mastodons set records themselves 
+
+
+
+Courtesy of IPFW Athletics 
+Department 
+
+
+
+Fort Wayne, IN - The Mast- 
+odons started 2007 off on the 
+right foot Wednesday night in 
+the Gates Center. Ashley John- 
+son connected for 22 points in 
+the 'Dons 79-46 win over IU- 
+South Bend. 
+
+The Mastodons made the first 
+shot and held the lead all the 
+way to the last buzzer in their 
+lined straight \\ in to improve to 
+7-6 on the season. 
+
+In the first 1:17 the 'Dons 
+were off to a 5-0 lead. Just five 
+minutes later they were up by 
+ten, 17-7 after Natalie Roberts 
+
+
+
+under a double 
+
+
+digit lead for 
+
+
+most of the nex 
+
+
+nine minutes 
+
+
+before the 'Don 
+
+
+surged. 
+
+
+Over the nex 
+
+
+t two minutes 
+
+
+the 'Dons went 
+
+
+)n a 7-0 run to 
+
+
+
+
+A good three-pointer by 
+nah Thieke and two lay-ups 
+by Juliane Htihne pushed the 
+'Dons ahead, 33-18 with just 
+over three minutes kit in the 
+half. 
+
+IPFW hit their largest lead of 
+the hall alter Johnson hit two 
+free throws to put them up by 
+17. The 'Dons finished the hall 
+with that lead, 38-21. 
+
+The Titans would start the 
+half with a 4-0 run before the 
+Dons started back. A 10-2 run 
+by IPFW was capped by a good 
+shot by Johnson to put them up 
+by 21, 48-27. 
+
+
+
+With just under 1 1 mmuies 
+left the Mastodons were almosi 
+thirty points ahead after a good 
+shot by Johnna Lewis-Carl- 
+isle, 58-29. Thieke \ good tree 
+throws would put IPFW up by 
+3 1 with 4:50 left in the game. 
+
+The Mastodons would lake 
+their largest lead with just un- 
+der 30 seconds left after Pa via 
+Pleikova's good shot put the 
+'Dons up by 35. IU-South Bend 
+would hit one more shot to cut 
+the lead lo 33 points, 79-46. 
+
+Johnson led all scorers with 
+22 points, a season personal 
+hest. She was 9 of 19 from the 
+field and 3 of 4 at the line. John- 
+son also added three assists, 
+two steals and five boards. 
+
+Thieke had a career night. 
+posting 12 points, going 3 of &lt;• 
+from beyond the arc and 3 of 5 
+
+
+
+from the line. She also added 
+three assists and four steals 
+against the Titans. 
+
+Hohne connected for 10 
+points and Ihree boards. She 
+was 4 of 7 from the field. 
+
+Off the bench. Roberts con- 
+nected for eight points and 
+eight boards. 
+
+Lieselot Malfait added seven 
+boards in just 1 3 minutes. 
+
+The Titans were led by Kris- 
+ten Estridge with 14 points and 
+10 hoards. Niki McDonald and 
+Abbey Freeman each added 
+nine points for the night. 
+
+The Mastodons willhost Sag- 
+inaw Valley State on Saturday 
+January 6th in the Gates Cen- 
+ter. Game time is I PM. Then 
+the 'Dons will have a week off 
+before heading lo Belmont for 
+a game on the 15th. 
+
+
+
+Sharp shooters aid in a victory over Anderson 
+
+
+
+Courtesy of IPFW Athletics 
+Departments 
+
+
+
+freshman forward Rodney 
+Holiday with 15 points. 
+
+
+
+Kyle Savly fights off 
+
+
+
+Fort Wayne, IN- IPFW had 
+its hest shooting evening of the 
+year in a 107-59 victory over 
+Anderson University, Thurs- 
+day nighl at the Memorial Col- 
+
+The Mastodons shot h}.}"' 
+in the game, hitting on 38 of 60 
+
+shots from the floor. 
+
+IPFW got off to a score hing 
+start, as junior forward DeWitt 
+Scott began firing from 3-point 
+ranee early and" often. Scott 
+drilled three triples and slaked 
+the 'Dons to a 50-27 halftime 
+
+Head coach Dane Fife was 
+able to get everyone some ac- 
+tion tonight, and every' play- 
+er on the bench that dressed 
+
+
+
+Freshman forward Terry Jen- 
+kins 3-pointer, with just over 
+seven minutes remainim: Maine 
+the 'Dons an 84-44 lead. 
+
+Juniorforward Zeljko hgerie 
+who didn't miss a shot in the 
+game, hit the final of his four hosting Western 111: 
+triples with 3:01 remaining to Tuesday night at 7 
+push the lead to 99-52. J 6 
+
+Egeric finished with a co- 
+name high of 18 points on 5- 
+5 shooting from the floor, 4-4 
+from behind the arc, and 4-4 
+from the foul line. He was a re- 
+bound shy of a double-double 
+with nine boards. 
+
+Scott tied Egeric for game- 
+high honors with 18, including 
+four 3-pointers of his own. 
+
+Junior guard Demetrius 
+Johnson added 14points, while 
+junior forward Jaraun Burrows 
+added 11. 
+
+Anderson (6-6) was led by 
+
+
+
+
+
+That's right, used copies 
+
+of the textbooks you need 
+
+are up to 25% off 
+
+the price of new at 
+
+Follett's Bookstore. 
+
+Shop early online at 
+www.ipfw.bkstr.com 
+
+for the best selection - 
+
+you can have your books shipped 
+
+to you or save the shipping when 
+
+you pick up in-store. 
+
+
+
+
+PURDUE UNIVERSITY FORT WAYNE 
+
+FOLLETTS 
+
+BOOKSTORE 
+
+
+
+mamma 
+
+
+
+www.ipfw.bkstr.com 
+
+proudly part of 
+
+f^kfolletftom 
+
+&gt; ^PB bookstore network 
+
+
+
+</pre>        </div>
+      </div>
+    

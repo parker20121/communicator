@@ -1,0 +1,1771 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv10i30indi/communicatorv10i30indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv10i30indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv10i30indi">The Communicator</a>"
+          </h1>
+          <pre>Harbor Arbor days alive ^'l^^mm 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Volume X Issue 30 
+
+
+
+Indiana Universily-Purduc University at Fort Wu 
+
+
+
+PIT casting dispute 
+takes center stage 
+
+
+
+Ca„ fhea.rical' a"a™^mi« co- 
+
+
+president. She maintains Ihal theatre 
+
+
+''°'Tb™""meaTrr'i?cry"'wahU 
+
+
+
+
+
+
+
+
+Dan Cashman and Larry Lite. 
+
+
+
+
+
+
+directors at the Purdue-Indiana 
+
+
+
+
+
+
+Thcatre(PITl, don't think so. 
+
+
+
+
+wilh those sludenls 'or use somebody 
+
+
+
+
+
+
+
+
+
+
+
+
+who ^is already al a higher acting 
+
+
+
+
+
+
+Iev'el7...1ts easy to use people thai are 
+
+
+agree. 
+
+
+
+
+
+
+A proposed Student Govemmenl 
+casting quota lor PIT productions is the 
+
+
+students according to Senate 
+stipulations. 
+
+
+Gearharl says stage experience is the 
+
+
+controversial issue beliind the question 
+
+
+Yet Zoucha believes Ihe quota Will 
+
+
+suffer' "If you don't get the basics now. 
+
+
+
+
+enable the faculty to restate the goals of 
+
+
+
+
+
+
+the Ihealre. "Their first emphasis 
+
+
+
+
+proximate budget of $12,000 providing 
+
+
+
+
+
+
+the theatre will cast at least 55 percent 
+
+
+"Students should reflect Iheir teacher's 
+
+
+
+
+studenl actors in lulure productions. 
+
+
+
+
+
+
+
+
+"There are a lot of advantages to the 
+
+
+
+
+proved the budgets for which activily 
+
+
+quota." interjected fellow Student 
+
+
+
+
+fee monies are granted. Enforcement 
+
+
+
+
+
+
+
+
+department larger. More students 
+
+
+imporlanl. but suggested "how lo gel 
+on Ihe stage" should be slated 
+
+
+
+
+
+
+One sludcn. explamed. "The faculty 
+
+
+quota upon a four-year investigation of 
+
+
+Gearharl says if approached 
+
+
+needs to stale whal Iheir casling policy 
+
+
+
+
+posilively. the quota will "let high 
+
+
+
+
+Ihe^lhea^tre's^^casting policies. Con- 
+
+
+school students know thai the IPFW 
+
+
+
+
+casl over IPFW thMtre^^uide™, 
+
+
+theatre department lakes time for 
+
+
+you iry lo get inlo shows" The studenl 
+
+
+
+
+
+
+added, however, this is a problem in all 
+
+
+
+
+
+
+
+
+"I'm pleased the Senate played their 
+
+
+explained the c'ireumslances behind the 
+
+
+"Continued, page 2" 
+
+
+SAGA still in Fort 
+
+
+
+
+Tonv Bilick former food service 
+
+
+campuses. "The conslruclion of Iwo 
+
+
+"SAGA is not making a very big 
+
+
+
+
+more buildings could Ix a bighelp. " she 
+
+
+pront here at this time." said Jane 
+
+
+director^ «^s,g„^ed^March^ 1 •» P"«» ^ 
+
+
+
+
+EUmson. food service director in the 
+
+
+been (he SAGA manager here since 
+
+
+out lo Iheir cars and drive lo 
+
+
+Fort. SAGA is the cafiileria service.. 
+
+
+
+
+
+
+operating out of The Forl^ in the Walb 
+
+
+"program at Anderson College. 
+
+
+Fori Instead." She will also work wllh 
+
+
+
+
+But "through some things I can help again in the fiLture. She sla 
+
+SAGA'S contract with IPFW, which improve myself," she hopes to boost SAGA bid will be made ir 
+
+renewed before that date, according lo currently "not verygood." . bv the SAGA regional 
+
+Katler. Despite "a couple of lumpy The location of the Fort was a Kalamazoo. Michigan. 
+
+
+
+Alumni honor Henderson 
+
+ByJAMIE THOMPSON and Singled out dropping enrollments "after we d given up hope, 
+
+"This is the surprise of my life," said as the biggest probleni IPFW will face. tribuled this bonus in part to I 
+
+Dwighl Henderson al a reception last He recalled the struggle for the rec the alumni, 
+
+Wednesday in the Fort Wayne Summit building, after it had been cut from the Henderson also looked forw 
+
+
+
+i given an engraved then build a 
+
+g chancellor of IPFW. building wil 
+lohn Ryan's personal help hold Ih 
+
+
+
+tyear heaven," according 
+
+
+
+a university, and challenge s 
+
+
+
+
+
+Intramurals will be boosted 
+
+
+
+
+nyJONBUl-S 
+
+
+A mmor or even a 
+
+
+major in physical 
+
+
+A running track lor joggers will 
+
+
+
+
+
+
+
+
+aode possible, he 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jile legislature lor 
+
+
+An exercise room wilh weigh! 
+
+
+board. 
+
+
+
+
+Ihe building, whic 
+
+
+
+
+
+
+
+
+in February or March, and is lo 
+
+
+Slauffer, will cover 
+
+
+losls of equipment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hlelic Director Gordon Stauffer 
+
+
+
+
+
+
+
+
+
+
+
+
+facililies for bolli 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+purposes. 
+
+
+
+
+
+
+addilic 
+
+
+lof the building 
+
+
+
+
+
+
+The recreation building will not only 
+
+
+
+
+
+
+conducling of comprehensive in- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+benofils besides mlramural 
+
+
+
+
+alfandSdenTs"" 
+
+
+S"whereTlu°d"emsTa™o''rshoot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+y lo develope our physical 
+
+
+
+
+cations, com- 
+
+
+
+
+
+
+
+
+
+
+er such events 
+
+
+
+
+
+^13'H3=ir Mayor urges cliche 
+
+
+
+
+; COMMUMCATOR - 
+
+
+
+"It will depend 
+a good deal..." 
+
+
+
+legislate 
+
+
+
+FW's long overdue 
+
+1 building. 
+
+As an acting chancellor, Henderson 
+
+by Lewis Carroll) lived with the two systems, stressing the 
+
+Joseph Giusti. in his first speech to importance of dealing with ambiguity 
+
+
+
+IPFW faculty,; 
+a fitting passage from "Alice in Won- 
+derland." The future of IPFW will 
+depend "a good deal" on where Giusli 
+
+
+
+and I 
+
+
+
+I the 11 
+systems. 
+
+
+
+
+
+
+EDITORIAL 
+
+
+
+
+
+
+would like the campus ' 
+
+
+
+cTrancellor's post. He will b 
+
+administrator during a period of relat 
+
+calm- The alienation 
+
+which grew during 
+
+Schwartz's administration, lessened in 
+
+the past year — thanks in part to Dwight 
+
+Henderson's leadership. 
+
+"Where IPFW can "get to" under 
+Giusti's leadership will be built on 
+
+
+
+And during part of his term 
+chancellor, search and 
+proceedings were in session 
+pressure to an already taxing 
+
+Thanks to the effo 
+
+have a much lighter ship to pilot when he 
+takes the helm at IPFW. His pledge "to 
+combine pragmatism and idealism with 
+feelings. compassion" is laudable and welcome. 
+Giusti's promise of compassion also 
+follows the Henderson administration of 
+the past year, which was marked by 
+understanding and compassion. As a 
+result, the campus is better prepared to 
+
+
+
+
+Realogue 
+
+Closing the poverty 
+gaps in Fort Wayne 
+
+
+
+ayne rapidly through ; 
+
+
+
+jLg community may have 
+
+S^ com Lc"'oVThat''wi' 
+
+
+
+Ca§ting, continued from page 
+
+
+
+enow and [hen. ■ sighted self inle 
+
+
+
+during tl 
+
+
+
+efficiently. 
+
+
+
+Cashman, 
+S'uose^ 
+
+
+
+
+
+
+people from the ye 
+
+history department a: 
+
+and Letters. He was 
+
+suring that IPFW would not be leader" 
+legislative year, and he jid mo 
+that goal. Only a man owight 
+
+
+
+easily. dropped the ball about a year 
+
+There is poverty in Fort ^BO- Two badly needed 
+
+Wayne - ugly, degrading, community organizers were 
+
+dehumanizing poverty. Of '^"^^ 'hen starved out. The 
+
+
+
+maybe There is probably enough 
+e are blame to distribute evenly 
+
+
+
+t the role played by a 
+
+
+
+
+
+
+
+
+
+The Communica(&lt; 
+
+
+
+
+
+
+jSES'I Letters to the Editor 
+,0 .0 a ha. ^^^ quotas- 100%? 
+
+
+
+Good Luck on 
+your Finals! 
+
+
+
+
+from your friends at 
+
+MQA 
+
+P.S. See you in the fall! 
+
+
+
+
+MAY3, 1979— THE COMMUNICATOR-PAGES 
+
+FINAL EXAMINATION 
+
+SPRUNG SEiVIESTKK, 1978-1979 
+
+
+
+eampus 
+.calendar. 
+
+
+
+FINAL EXAMINATION 
+SCHEDULE 
+
+
+
+THURSDAY 3 
+Intervarsity Chri 
+
+
+
+I.U. Board of ' 
+
+
+
+, Walb Lounge 
+. Morion College, there, 1 p.i 
+&gt;tees Meeting, Bloomington 
+
+
+
+FRIDAY 4 
+
+Final Sign up D.ay for 5-12 Moth, English and Reading 
+
+Placement Test 
+I.U. Board of Trustees Meeting, Bloomington 
+PIT Presents: Pippin, 8 p.m. 
+Supervision Department Reception, Summit Club, 
+
+7:30 p.m. 
+
+SATURDAY 5 
+
+Moth, English, Reading Placement Test, Kettler 123, 
+
+8:30 a.m. 
+PIT Presents Pippin, 8 p.m. 
+
+Indiana-Purdue Reports on WGL Radio, 7:30 a.m. 
+Baseball, IPFWvs. Monchester College, there, 1 p.m. 
+2nd Annual Anthropology Film Festivol, Neff 101, 
+
+7 to 10 p.m. 
+
+SUNDAY 6 
+
+Indiana-Purdue Reports on WANE TV, Ch. 15 at 6:30 
+
+a.m. and on Citizens Cable Ch. 10 at 5 p.m. Guest: 
+
+Dean Nold 
+PIT Presents: Pippin, 8 p,m. 
+
+Baseball, IPFW vs. Rose Hulnrion, at home, 1 p.m. 
+2nd Annual Anthropology Film Festival, Neff 101, 
+
+7 to 10 p.m. 
+
+
+
+SATURDAY 12 
+
+Math, Reading, English Placement Test, Kettler 123, 
+
+8:30 a.m. 
+Indiana-Purdue Reports on WGL Radio, 7:35 a.m. 
+Baseball, IPFW vs. Purdue North Central, home. 
+
+Foreign Language Placement Test 
+
+
+
+Suzanne Frazier 
+MONDAY 14 
+
+
+
+FACULTY NOTES 
+
+
+
+Dr. Sheldon Gottlieb, Professor of Biological 
+Sciences recently presented his Speaker's Bureau 
+talk: "What can Sex Teach us About Governnnent?" 
+to the Fort Wayne Foremen's Club. In February, 
+Dr. Gottlieb presented his Speaker's Bureau talk: 
+The Biological Revolution-Its Impact on the Morals, 
+Ethics and Mores of Our Society to the Adult 
+Sunday School Class of the Holy Trinity Lutheran 
+Church in Harlan, Indiana. 
+
+Mark Sheldon, Assistant Professor of Philosophy 
+has had a paper titled: "Job, Human Suffering and 
+Knowledge" accepted for publication in Encounter, 
+Volume 42, No. 3, Summer 1980. 
+
+
+
+Carl J. Kleber, Research Associate in the 
+tive Dentistry Research Institute presented a paper 
+at the 1979 International Associotion of Dental 
+Research meeting held recently in New Orleans. 
+The paper was titled: "A Mastication Device for the 
+Evaluation of Chewing Gums." Co-authors of the 
+paper were Dr. Ralph Schimmele, Mark Putt and 
+Dr. Joseph Muhler. 
+
+Dr. Ralph G. Schimmele was recently awarded the 
+Distinguished Service Award by the Isaac Knapp 
+District Dental Society at their meeting on April 11, 
+1979 at the Orchard Ridge Country Club. This award 
+is presented annually by the Board of Directors of 
+Isaac Knapp to the person who has made the greatest 
+contribution to dentistry in the Isaac Knapp District. 
+Isaac Knapp District Dental Society is made up of 
+dentists tn ten counties including Allen County. 
+Dr. Schimmele's name will be submitted to the 
+Indiana Dental Association along with the names of 
+other recipients throughout the State and a State 
+Award will be presented to one of these people 
+later this year. 
+
+
+
+Professor of Chemistry, Kenneth Stevenson has 
+been invited by the Solar Energy Research Institute, 
+SERl, to participate in research on the photochemical 
+conversion of solar energy at its laboratories in 
+Golden Colorado. He has been granted a one 
+semester sabbatical in the spring term of 1980 and 
+his stay at SERl will continue through the following 
+summer. SERl was established by on act of Congress 
+in 1975 for the purpose of developing solar energy 
+technology as an alternate energy source. It is 
+anticipated that Dr. Stevenson will continue his 
+work on the use of copper compounds for the 
+photochemical generation of hydrogen and/or elec- 
+
+
+
+Prof. Warren Abbott Is an associate professor of 
+industrial supervision on the Indiana-Purdue University 
+Fort Wayne Campus. 
+
+
+
+He came to this city in 1969 from Midland, 
+Michigan, where he was associated with the Dow 
+Chemical Company as a senior economic evaluation 
+engineer. During his more than 30 years with Dow 
+Chemical, he emerged from that company's manage- 
+ment training program to become a technical chemist 
+and later was production plant superintendent. 
+
+He holds chemistry degrees conferred at Albion 
+College and at the University of Illinois. 
+
+His professional offiliotions include the American 
+Society for Training and Development. Supervisory 
+Management Association, and the National Safety 
+Council. Prof. Abbott is considered an expert on 
+matters of safety. Professor Abbott will be retiring 
+from IPFW this year, and as such, becomes the 
+first IPFW faculty member to do so. 
+
+
+
+(^(ff^M(^^-&lt;^ 
+
+
+
+
+$2500 Cash Bonus 1 1 
+
+The U.S. Army offers new; 
+educational bonuses forjS 
+qualified men and women. 
+
+Plus 
+$2,500 cash bonuses for; 
+certain skills. 
+
+SFC Gordy Adams 
+743-7491 
+
+or 
+745-4947 
+
+
+
+Budweiser 
+
+presents... 
+
+
+
+
+
+
+'^ 
+
+
+
+•MIDNIGHT 
+SNACK" 
+
+
+
+
+WATCH THE TASTEBUDS ( in actual commercials ) ON "SATURDAY NiGHT LIVE/' 
+
+
+
+YWCA ViUa seeks 
+student occupants 
+
+
+
+
+Krasienko in trustee finals 
+
+
+
+Capabilities of the disabled by a donation 
+
+was the main theme of the Uimer, Dean 
+
+Awareness program held Services. A loc 
+
+April 2-6. The program printed up the | 
+
+
+
+athletics," Grimm offerings. 
+
+"a totally blind maintains a track and Purd 
+
+imber of their group ran in basketball facilities for the trusti 
+Olympic mars 
+
+
+
+The from regional c 
+
+
+
+Otis three candidates 
+
+
+
+Kalhy Zoucha, IPFW cul 
+
+
+
+liable to them ac- Bill Grimm conducted the ranging from commercial "Wp |^ fI*T* £/• • % 
+
+t~„r':^ioS "Srr&gt;h„e„e„o "UrSn^Aur: r acuity publishing fantastic 
+
+
+
+plays the guitar and 
+
+
+
+concluded he proposal 
+
+
+
+Tae Kwon Do School of Scie 
+
+
+
+WayneY.W.C.A. trying to mal 
+
+"There is a possibility," visible as an a( 
+said Clements, "that I will be organization 
+
+
+
+department has published 
+(including plays) 164 works. 
+An added 105 scholarly 
+
+
+
+do and what we can't do. ' 
+
+
+
+Those recognized were; Tree Of People p 
+
+Professor Lowell W. Professor John 
+
+Exxon Award for Out- inlermed 
+
+slanding Teaching; was published in "Physii 
+
+
+
+rom the Calumet cam] 
+ind eight from Lafayette. 
+
+
+
+s4.89Tk?E 
+
+
+
+PAT METHENY 
+
+
+
+PATMETHENY 
+New Chautauqua 
+
+
+
+
+3627 N. Clinton Ft. Wayne 483 9290 
+
+
+
+°y 
+
+
+
+
+Arena play- 
+rings bell 
+
+
+
+siiLdlJlJJJi'y 
+
+
+
+Dylan strikes 
+
+a different note ■ 
+
+the sexual revolution, em- [JM 
+phasizing the "When we j 
+meet again — introduced as I 
+
+
+
+foreign he enjoys p 
+
+
+
+musical version yel. in- 
+cluding horns swinging wilh 
+
+"Like a Rolling Slone" is 
+done wilh a gcnller louch. 
+sounds much more Huid. Old 
+folkle Dylan rambles on 
+
+
+,o„so„ .rough .urdenso. 
+
+
+
+
+Ihe theme of changing limes 
+
+
+
+
+Thurs., May 10 Dave Andersen 
+
+Fri., Mayll Joe DeCamp 
+
+Sat., May 12 Joe Decamp 
+
+Hours: M-Th. 10 a.m. -12 Midnight 
+Fri. -Sot. lOa.m.-l a.m. 
+Sun. 7:30-12 Midnight 
+
+
+
+JU/^i^m ..,.- 
+
+
+
+Harbor 1/ 
+Arbor 
+
+
+
+
+Mountain Jack's has part- 
+time positions available. 
+We offer flexible 
+schedules, excellent 
+salaries. Experience is 
+not necessary. Apply In 
+person Monday through 
+Friday between 2 and 
+4 p.m. at Mountain Jack's 
+Restaurant, 930 Coliseum 
+Blvd. E. 
+
+
+
+O^SESr SEAFOOD SPIRITS i 
+
+J We're an equal opportunity * 
+* employer ^^ 
+
+
+
+THE COMMUNICATOR - MAY 3. 
+
+
+
+■ilI'MHIJIIrpa 
+
+
+
+Students to start 
+alternative theatre 
+
+
+
+Thev-re starling an 
+
+
+The Ihealre department 
+
+
+
+
+
+
+
+
+
+
+'^''The°^sludencs - Leanna 
+
+
+■■nte group isn't just tor 
+
+
+
+
+
+
+Hank Seibel and Kyle 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oppormnily &gt;o do in class or 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+playwrights will even sur- 
+
+
+
+
+Mountain Jock's hos expanded 
+its entertainment offerings to in- 
+clude disco music as well as live 
+bonds. And becouse we've ex- 
+panded we need to hire more 
+people. 
+
+We're looking for 
+FULL AND PART-TIME COCKTAIL 
+WAITRESSES AND COCKTAIL 
+SERVERS. 
+
+Experience isn't necessary be- 
+cause we hove on exce//ent train- 
+ing program. 
+
+Apply in person Mon. thru Fri. 
+
+between 2 and 4 at Mountain 
+
+Jack's 930 Coliseum Blvd. E. 
+
+We're an equal opportunity 
+
+employer. M/F 
+
+
+
+MAY3. 1979-THECOMMUNlCA 
+
+
+
+
+Fastrack 
+
+
+
+Banquet May 15 
+
+
+
+101 varsity letters to be awarded 
+
+
+
+
+elsewhere i 
+Fisher toye 
+
+
+
+Wi ~:^::: Volleyball goes varsity 
+
+onslers could tinuously every Memorial %/ C_^ »/ 
+
+
+
+the allotted S2300, an ii 
+
+
+
+Nuclear teach-in here 
+
+
+
+producing names which st 
+Shaw, DePalma, Cummin 
+
+
+
+Among Ihe changes w 
+
+
+
+transferring Bill Moebs moved t 
+
+
+
+r Energy Teach- ticipants and the sect 
+Id May 6 from 12 will include pro a 
+the Walb Union arguments. The p 
+
+format, according 
+
+
+
+dare banked 16.4 degre 
+aights" running east b 
+
+
+
+The track surface was 
+
+
+
+
+
+
+Athletic Director Gordon (earn should d 
+Slauffer. have caused other well the team 
+
+golffromlheirprograms. Carl Bickh 
+
+Runners up 
+point total 
+
+
+
+ning haza 
+
+
+
+Shelley Harper also r; 
+
+
+
+t Haney ran legs ir 
+
+
+
+d the title, production of 
+re on The host s( 
+
+
+
+replace the grandstands a 
+
+
+
+At WALDENBOOKS 
+we aim to please. 
+
+If we haven't 
+
+got it, we'll get it! 
+
+For all your 
+
+reading needs 
+
+cometoWAUJENBOOKS 
+
+WALDENBOOKS 
+
+6055 STELLHORN RD. 
+
+(Highway 37N) 
+
+486-3361° 
+
+
+I RESUMES with RESULTS 1 
+
+A YOUR RESUME IS THE FIRST LINK TO A NEW CAREER. f 
+it JOBS ARE WON BY . 
+
+J THOSE WHO BECOME CANDIDATES AND WHO APPEAR BEST 
+5 QUALIFIED NOT THOSE WHO ARE. IN FACT, BEST QUALIFIED. 
+^OUR SERVICES ARE DESIGNED TO REDUCE YOUR COMPETITION AND 
+i HELP YOU CAPTURE THAT "REWARDING CAREER ' THE BEST JOBS GO 
+^TO PEOPLE WHO "SELL THEMSELVES" WITH A PROFESIONALLY 
+^PREPARED RESUME AND MARKETING CAMPAIGN. OUR CLIENTS ARE 
+
+J CAREER PLANNING Division 1 
+
+i J.P. CAVANAUGH &amp; ASSOCIATES I 
+h CERTIFIED MANAGEMENT CONSULTANTS 
+X SUITE 600. THE METRO BUILDING * 
+)) FORT WAYNE. INDIANA 46802 h 
+i Telephone: (219) 423-2506 i 
+
+5 REMEMBER. YOU NEVER GET A SECOND CHANCE TO MAKE i 
+X A GOOD FIRST IMPRESSION h 
+
+
+
+race They laid ; 
+
+
+
+n Hiemann led the point 
+wo fifths. She also ran 
+
+
+
+ink a Rose ever for the Tuskers in ti 
+
+
+
+PARAPHERNALIA 
+
+
+
+Complete Waterbed Frames &amp; Accessories 
+Leather &amp; Jewelry 
+
+
+
+#CAle/ A' Tail/ 
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+OF FRESHWATER FISH AND AQUARIUMS 
+
+- COUPON -..__ 
+
+I 
+
+10% OFF ANY FISH j 
+
+With This Coupon I 
+
+Limit One Coupon Per Customer j 
+
+---------- COUPON .__._______J 
+
+OPEN: Mon.-f rl. . 10:00 to «:00, Sot. to.6. Sun. U.6 
+
+
+
+
+(The Powered Advent Loudspeaker.) 
+
+A NEW SPEAKER FOR PEOPLE 
+
+WHO HAVE BEEN LISTENING HARD AND 
+
+LONG FOR THE RIGHT ONE 
+
+
+
+I'hc Powered Advent Loudspeaker is a unique 
+:ionist product from Advcnt-an integrated 
+
+I lie Powered Advent has built-in biamplifica- 
+r separately. And 
+
+
+
+ampliner [; 
+c Fulies'l "s 
+
+
+
+1 some othci 
+
+
+
+lundjj it. The speaker will reproduci 
+I levels with full- frequency -range 
+totally effortless, open, "unloud" 
+
+
+
+s from a totally unfus 
+;!,liclf speaker and thai 
+
+
+
+
+irecdy from 
+
+nt Loudspeaker is an "ulli 
+t supplies the level of perf 
+for use by real people uin 
+
+
+
+• 
+
+
+pORT WAYNE 
+
+1 ELECTRONICS 
+
+
+• 
+
+
+
+3606 E. MAUMEE AND IN GLENBROOK 
+
+
+
+</pre>        </div>
+      </div>
+    

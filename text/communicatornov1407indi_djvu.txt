@@ -1,0 +1,4607 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatornov1407indi/communicatornov1407indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatornov1407indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatornov1407indi">The Communicator</a>"
+          </h1>
+          <pre>Senior VCD Exhibit 
+
+PAGE^ 
+
+
+
+f 
+w 
+
+
+
+Wednesday 
+
+Mo»emter14,2007 
+
+
+
+ilja Boy.. .Annoying? 
+
+PAGE® 
+
+
+
+
+Ml ; \ 
+
+www.ipfwcommunicator.org 
+
+
+
+Hunger Banquet 
+
+PAGE® 
+
+
+
+
+ume 38, Issue 12 
+
+
+
+Otumble into any casino and the 
+bombardment begins - a visual spec- 
+tacle of a glamorous life waiting to hap- 
+pen - a dream world where one coin 
+or two chips can change your destiny. 
+Since the gambling culture has shifted 
+toward the Internet with over 1400 on- 
+line casinos, the opportunity to win 
+money has increased. 
+
+When the lavish underbelly of pos- 
+sibility and chance conveniently hides 
+the facade of gambling, it is sometimes 
+hard to see the truth behind it, and its 
+destructive nature - one affecting the 
+college student the most. 
+
+Pathological gambling by definition 
+a progressive disease that devastates 
+ot only the gambler, but everyone 
+th whom he or she has a significant 
+elationship. 
+
+White the nature of gambling maybe 
+larmless, according to Michelle Smith, 
+counselor at Suicide &amp; Gambling Pre- 
+'ention, " the impulse to gamble can 
+quickly accelerate.™ This acceleration 
+brings on [he potential and higher risk 
+for losing everything. 
+Due to the problems associated with 
+;ambling, three phases ot gambling 
+have been noted to help with preven- 
+tion: The Winning Phase, Losing Phase. 
+and Desperation Pha: i 
+
+
+
+
+
+DIVORCE 
+
+
+
+Nov. 
+
+
+
+2007 
+
+
+
+news 
+
+
+
+pg- 
+
+
+
+NEWS 
+
+&amp; 
+EVENTS 
+
+11/14-11/20 
+
+
+
+11/15 
+Homecoming 
+
+game be- 
+tween IPFW 
+and Valparaiso 
+University will 
+be played at 
+the Memorial 
+Coliseum at 
+7 p.m. A pre- 
+game party 
+featuring 
+former IPFW 
+coaches as 
+celebrity game 
+hosts will be 
+at 4:30 p.m. in 
+the Coliseum's 
+Expo IV hall. 
+
+
+
+11/20 
+
+School breaks 
+for Thanksgiv- 
+ing 
+holiday. Be 
+safe and enjoy 
+your turkey. 
+Gobble 
+gobble! 
+
+
+
+11/26 
+
+School recon- 
+venes fol- 
+lowing the 
+
+Thanksgiving 
+break. 
+
+Consequently, 
+there are only 
+
+two weeks 
+left of the fall 
+2007 semes- 
+ter. Happy 
+thoughts. 
+
+
+
+RIM cracking Jt downon 
+
+
+
+
+Options for you 
+to still listen for 
+free and 
+
+stay out of 
+trouble 
+
+
+
+By Doug Schmidt 
+
+Schmdn01Siplw.edu 
+
+
+
+Last month, the Re- 
+cording Industry Asso- 
+ciation of America won 
+a lawsuit against a Min- 
+nesota woman accused 
+of illegally downloading 
+two dozen songs. The 
+court awarded the RIAA 
+$220,000 in damages. 
+It seems that, for those 
+who get caught, "free" 
+music costs over $9,000 a 
+
+song. Fortunately, IPFW ^oupusa'comirwhar^e 
+students do not have - 
+to meet the same fate. 
+There are a variety of 
+ways to find free music 
+■ inline without risking a 
+lawsuit. 
+
+Download music li- 
+censed under Creative 
+Commons. Creative 
+
+Commons is a way for 
+copyright holders to 
+
+
+
+The biggest place to get 
+these legal recordings is 
+The Live Music Archive 
+(http:// www. archive. 
+org/details/etree). 
+Look for free samples 
+from record companies. 
+While large record labels 
+spend millions fighting 
+piracy, some small la- 
+bels use free tracks as a 
+promotional tool. A few 
+to try are And Records 
+(http://www.anti.coml, 
+Beggar's Group USA 
+(http://www.beg 
+
+
+
+com, users can create 
+radio stations that play 
+music similar to their fa- 
+vorite songs or artists. 
+
+At http://finetune. 
+com and http:/ /www. 
+deezer.com, users can 
+hand-pick songs to build 
+custom playlists. Fans of 
+classic rock can listen to 
+
+
+
+concerts at http://con- 
+certs.wolfgangsvault. 
+com. 
+
+Stay away from the 
+RIAA. In addition to us- 
+ing legal sites like these, 
+music fans can protect 
+themselves from lawsuits 
+by avoiding music re- 
+leased by RIAA members. 
+
+
+
+The site http://www.ri- 
+aaradar.com helps users 
+determine if an album 
+is published by a record 
+company connected to 
+the RIAA. If it is, the site 
+will recommend similar 
+music published by an 
+independent label. 
+
+
+
+sha 
+
+
+
+Records? (http:/ /www. 
+whatarerecords.com), 
+Misra Records (http:/ / 
+www.misrarecords.com) 
+and Spanish -language 
+Trastlenda (http:/ /www. 
+trastienda.org}. 
+
+Look for promotional 
+tracks from music maga- 
+zines. Online magazines 
+f.r.e - 
+
+
+
+, k from lawsuits by 
+
+
+
+
+
+
+f° "til "".music fans can 
+!o ie thei? protect themselves 
+
+w o r 
+with the 
+
+public, avoiding music re- 
+
+often in- 
+
+eluding leased by RIM 
+
+the right , „ 
+
+mdown- members. 
+
+
+
+their 
+work for "*" 
+free. Some of the big- 
+gest collections of free, 
+licensed content are at 
+http:// www. jamendo. 
+com, http://www.op- 
+sound.org and http:// 
+www.artistserver.com/ 
+music.cfm. Visit http:// 
+creativecommons.org to 
+find more. 
+
+Download live re- 
+cordings from trade- 
+friendly bands. Much 
+like the Grateful Dead, 
+many bands allow fans 
+to record concerts and 
+trade them with friends. 
+
+
+
+quently 
+include 
+sample 
+M P 3 s 
+tor i t h 
+their re- 
+Some 
+of the 
+biggest 
+offerings 
+can be 
+found at 
+
+http:// 
+
+better- 
+pro pa ganda.com, http:// 
+www.filter-mag.com, 
+http://www.glorious- 
+noise.com and http:// 
+www.glidemagazine. 
+com. No subscription re- 
+quired. 
+
+Listen to Web radio. 
+A number of sites offer 
+personalized, streaming 
+radio without annoying 
+DJ chatter or commer- 
+cials. The popular http:// 
+www.last.ftn offers both 
+Web radio andfree down- 
+loads. At http://pandora. 
+
+
+
+Campu 
+
+
+IS 
+
+
+IPFW 
+
+
+
+
+Calendar *V' 
+
+
+
+
+
+
+
+
+for Nov. 15-21, 2007 
+
+
+
+
+1 5 "Kick Hums" Tobacco Cessation 
+
+
+16 
+
+
+Athletics Event: Women's 
+
+
+
+
+Information Tables: KT first 
+
+
+
+
+Volleyball Summit League 
+
+
+
+
+floor, 10 a.m.-2 p.m. Call 16647. 
+
+
+
+
+Conference Championship Games, 
+GC, TBA, 5 p.m. and 7:30 p.m. 
+
+
+
+
+ACCS Express Lane Resume 
+
+
+
+
+Call 1 6643. 
+
+
+
+
+Critiques: KT 109, noon-2 p.m. 
+
+
+
+
+
+
+
+
+
+
+17 
+
+
+Athletics Event: Women's 
+
+
+
+
+University Religious Forum: 
+
+
+
+
+Volleyball Summit League 
+
+
+
+
+"The Prophetic Consciousness of 
+
+
+
+
+Conference Championship Game, 
+
+
+
+
+Angelina Grimke," WU 222-224- 
+
+
+
+
+GC, TBA, 3 p.m. Call 16643. 
+
+
+
+
+226, noon. Call 16992. 
+
+
+
+
+
+
+
+
+
+
+18 
+
+
+Concert: Symphonic Wind 
+
+
+
+
+Study Abroad Information 
+
+
+
+
+Ensemble, RC, 2:30 p.m. Call 
+
+
+
+
+Session: KT G46, 4 p.m. Call 
+
+
+
+
+I67I4. 
+
+
+
+
+16494. 
+
+
+
+
+Athletics Event: Men's 
+
+
+
+
+Homecoming Pregurne Parry: 
+
+
+
+
+Volleyball v.Ohio State, 10a.m.; 
+
+
+
+
+Memorial Coliseum Expo IV, 
+
+
+
+
+v. Loyola Chicago, 12:30 p.m.; v. 
+
+
+
+
+4:30-7 p.m. Call 16807. 
+
+
+
+
+Ball State. 3 p.m., GC. Call 16643. 
+
+
+
+
+Visiting Writers Series: Poet 
+
+
+19 
+
+
+Spanish Table: jVen aconvcrsar 
+
+
+
+
+Carol Moldaw, WU 222-224-226, 
+
+
+
+
+y comer con nosoiros! WU 
+
+
+
+
+5 p.m.; reception and book signing 
+
+
+
+
+Cafeteria; bring a sack lunch. For 
+
+
+
+
+following performance. Call 
+
+
+
+
+information, contact 16689 or 
+
+
+
+
+16756. 
+
+
+
+
+conforun@ipfw.edu. 
+
+
+
+
+Philosophy Colloquium: 
+
+
+
+
+Concert: Percussion Ensemble, 
+
+
+
+
+■'Distinguishing Myth from 
+
+
+
+
+RC, 7:30 p.m. Call 16714. 
+
+
+
+
+Reality: Are James' and Dewey's 
+
+
+
+
+
+
+
+
+Pragmatic Tools Sufficient?" 
+
+
+20 
+
+
+Thanksgiving Recess: Begins 
+
+
+
+
+Professor Charlenc Siegfried- 
+
+
+
+
+after last class. 
+
+
+
+
+Haddock, speaker; KT G52, 6- 
+
+
+
+
+
+
+
+
+7:15 p.m. Call 16853. 
+
+
+21 
+
+
+Library Hours: 8 ,i m.-5 p.m. 
+
+
+
+
+Athletics Event: Men's 
+
+
+
+
+Athletics Event: Men's 
+
+
+
+
+Basketball v. Valparaiso, 
+
+
+
+
+Basketball v. Manchester, 
+
+
+
+
+Memorial Coliseum, 7 p.m. 
+
+
+
+
+Memorial Coliseum, 7 p.m. 
+
+
+
+
+(Homecoming). Call 16643. 
+
+
+
+
+Call 16643. 
+
+
+
+
+This ad courtesy of the 
+
+
+Office of the Chancellor 
+
+
+
+
+
+Nov. 14, 2007 
+
+
+
+politics &amp; money 
+
+
+
+Pg- 3 
+
+
+
+Across the country, 
+affirmative action 
+
+on the line 
+
+
+
+ByTAMARABARTLETT 
+U=W1RE 
+
+
+
+More than a decade 
+after California voters 
+passed Proposition 209 
+to prohibit affirmative 
+action in college admis- 
+sions, five other states 
+may consider similar 
+bans for their public in- 
+stitutions, prompting 
+some to worry about 
+maintaining diversity in 
+higher education. 
+
+Petitions ate currently 
+being circulated in Arizo- 
+na, Colorado, Missouri, 
+Nebraska and Oklahoma 
+to put affirmative action 
+bans on the November 
+2008 ballot. 
+
+The bans would pro- 
+hibit the states from 
+discriminating against 
+or granting preferential 
+treatment based on race, 
+sex or ethnicity, among 
+other factors, in public 
+employment, education 
+and contracting. 
+
+Ward Connerly, chair- 
+man a( [he American 
+Civil Rights Institute and 
+a former University of 
+California regent influ- 
+ential in implementing 
+Proposition 209, helped 
+propose the initiatives 
+planned for the five 
+states. He said the bans 
+would help to redirect the 
+public's attention back to 
+educational issues and 
+away from race. 
+"Once the consideration 
+of race is eliminated, my 
+own belief is that then we 
+will focus on study habits 
+and why Asians are out- 
+performing blacks, Lati- 
+nos, outperforming ev- 
+erybody," he said. 
+
+But some others said 
+discounting race in the 
+admissions process will 
+limit the range of cultural 
+experiences represented 
+on college campuses. 
+
+"It's going to get to the 
+point where diversity is 
+a completely different 
+thing than what it was 
+before," said Associated 
+Students of the Univer- 
+sity of California Exter- 
+nal Affairs Vice Presi- 
+dent Danny Monies. "A 
+lot of universities pride 
+themselves on having 
+a diverse population, 
+but really how diverse 
+is it when people's ex- 
+periences ... (are) being 
+banned form the admis- 
+sions process?" 
+
+After Proposition 209 
+passed In 1996, simi- 
+lar bans also passed in 
+Washington in 1998 and 
+
+
+
+in Michigan in 2006. 
+
+According to UC ad- 
+missions data, minority 
+enrollment saw a slight 
+decline for some eth- 
+nicities after the Cali- 
+fornia law passed. 
+
+In fall 2005, 144 Amer- 
+ican Indians enrolled 
+as in-state freshmen 
+across the university, 
+down from 248 in 1995 
+before the ban was en- 
+acted. Also in fall 2005, 
+909 African American 
+students enrolled, down 
+from 945 in 1995. 
+
+Chi cano/ Latino and 
+Asian-Filipino-Pacific 
+Islanders saw an in- 
+crease in enrollment af- 
+ter the ban was passed, 
+with 4,652 Chicano/La- 
+tinos enrolled in 2005, 
+up from 3.432 in 1995. 
+Asian-Filipino-Pacific 
+Islanders numbering 
+12,254 enrolled in 2005, 
+up from 7,910 a decade 
+earlier. 
+
+The use of affirma- 
+tive action was also 
+banned in faculty and 
+staff employment after 
+Proposition 209 passed 
+but some said because 
+faculty and staff were 
+already underre pre- 
+sented, the proposition 
+had a relatively small 
+impact. 
+
+"The most dramatic 
+impact was on student 
+admissions," said Da- 
+vid Montejano, associ- 
+ate professor of ethnic 
+studies at UC Berkeley. 
+"Representation among 
+the faculty and the ad- 
+ministration has always 
+been poor." 
+
+While Connerly said 
+the proposed bans in 
+other states may have 
+the same effects that 
+Proposition 209 had in 
+California, others said 
+that because each re- 
+gion is unique, it is too 
+early to tell. 
+
+"It's hard to predict 
+whether Colorado will 
+mirror those trends," 
+said Ken McConnel- 
+logue, a spokesperson 
+for the University of 
+Colorado at Boulder. 
+"It's kind of a different 
+story each place you 
+look." 
+
+Officials at Arizona 
+State University said 
+the Arizona initiative, 
+if passed, would not 
+change admissions and 
+employment practices, 
+as the school does not 
+place preferences on 
+applicants. 
+
+
+
+Students hope site gets candidates 
+to answer questions 
+
+
+
+ByLARAlNEWESCHLER 
+
+U-WIRE 
+
+
+
+Voters who did not get 
+their YouTube questions 
+answered by presidential 
+candidates have a new 
+option, according to Ra- 
+chel Tardiff, a freshman 
+in the School of Commu- 
+nication. 
+
+Tardiff and a group of 
+students.incl uding about 
+15 from AU, created 
+Straight2theCandidates. 
+com, a Web site designed 
+to encourage candidates 
+to answer voters' most 
+pressing questions. The 
+Web site was launched 
+in the beginning of Oc- 
+tober. 
+
+Users of the site can 
+"speak out" by posting 
+questions to specific 
+candidates or "listening" 
+by reading and voting for 
+the questions they find 
+most important. 
+
+The site's administra- 
+tors plan to send the 
+first batch of questions 
+via e-mail to campaign 
+staff Nov. 4, according to 
+Anna Cottone, a member 
+of the site's press group 
+and a freshman in SOC. 
+
+There is no guarantee 
+that the candidates will 
+answer, but those in- 
+volved with the project 
+
+
+
+hope that enough people 
+will ask questions to cre- 
+ate a media buzz about 
+the site, which will force 
+the candidates to re- 
+spond, Cottone said. 
+
+The founders of a simi- 
+lar German site, direk- 
+tzu.de, presented the 
+idea for a U.S. version of 
+the Web site. 
+
+Tardiff, nowpresident of 
+Straight2theCandidates. 
+com, jumped on the 
+idea, meeting with the 
+Germans who began the 
+site, Alexander Puschldn 
+and Caveh V. Zonooz, 
+many times over two 
+weeks. The Germans 
+traveled to the United 
+States to recruit students 
+for the project, but AU 
+students took the lead 
+in getting the project off 
+the ground. 
+
+"[The Web site] was 
+created just as a means 
+for regular citizens to 
+contact the officials in 
+charge," said Alyssa Wo- 
+lice, a freshman in SOC 
+and a member of the 
+Web team. "It's a way 
+for them to voice their 
+opinions and have their 
+questions and concerns 
+presented." 
+
+Although the Ger- 
+mans act as consul- 
+tants for the American 
+site, the student group 
+is in control of the Web 
+site, said Shannon Sul- 
+
+
+
+livan, vice president of 
+Straight2theCandidates. 
+com and a freshman in 
+the School of Interna- 
+tional Service. 
+
+The site is a win -win 
+situation for both candi- 
+dates and voters because 
+it allows for democratic 
+political dialogue, Cot- 
+tone said. 
+
+1 Unlike the CNN/You- 
+Tube debates, in which 
+voters posted video 
+questions on YouTube. 
+com that were then 
+chosen by CNN for tele- 
+vised debates, there is 
+not a "middle man" on 
+Straight2theCahdidates. 
+com, Sullivan said. The 
+Web team hopes to send 
+the top three voted ques- 
+tions each week to the 
+candidates. 
+
+Sen. Barack Obama, 
+D-I1L has garnered the 
+most questions so far, 
+with 34 posted on the 
+site. 
+
+Student members 
+across the country are 
+working to promote the 
+site on their campuses, 
+and the team has a long 
+list of media contacts to 
+try to generate more in- 
+terest, Cottone said. 
+
+The team has handed 
+out fliers at the anti-war 
+protest, an Obama fund- 
+raising event and at 
+Georgetown and George 
+Washington universities, 
+
+
+
+Tardiff said. 
+
+The team has been con- 
+tacting tech and media 
+representatives in all the 
+candidates' campaigns 
+to tell them about the 
+project in hopes of get- 
+ting a direct line to the 
+candidates. They hope 
+lesser-known candidates 
+will respond to questions 
+and the site's credibility 
+will gain momentum as 
+more people hear about 
+it. 
+
+"It seems like college 
+students have the po- 
+tential to create the most 
+dynamic, interactive 
+Web sites," said Hillary 
+Blank, a senior in the 
+College of Arts and Sci- 
+ences, referencing sites 
+like Facebook. 
+
+Straight2theCandidates. 
+com and other Web sites 
+are the start of a revolu- 
+tion in the relationship 
+between candidates and 
+the voters that they are 
+courting, Blank said. 
+
+Straight2theCandidates. 
+com will be useful as 
+long as the questions 
+are answered, said Caleb 
+Skeath. 
+
+"[Internet outreach 
+campaigns] won't turn 
+the election one way or 
+another, but it will be a 
+factor," he said. 
+
+
+
+►DICE 
+
+From Page 1 
+
+
+
+The Winning Phase is the 
+period of gambling where 
+one is having fun, the 
+sense of excitement is still 
+prevalent, more money is 
+being bet, ego is boosted, 
+and before the person 
+knows it, they are betting 
+everything. The psycho- 
+logical down fail begins 
+with an unrealistic opti- 
+mism being developed, 
+leading rapidly to the sec- 
+ond phase. 
+
+Synda Clements, a nurs- 
+ing student at 1PFW notes 
+a friend who has the po- 
+tential for problems. "My 
+friend plays online poker 
+everyday - that's how he 
+makes money during 
+school." While there is 
+strategy to playing these 
+online games, an addic- 
+tion can turn a winning 
+streak sour. 
+
+The losing phase consists 
+of the gambler losing big, 
+bragging about past wins, 
+begging, borrowing, steal- 
+ing to gamble, gambling 
+alone, lying to family and 
+friends, and begin feeling 
+moody, grumpy, and with- 
+
+
+
+drawn. 
+
+Desperation soon set- 
+tles and the gambler be- 
+comes obsessed, starts 
+blaming others, 
+and contin- 
+ues to lie, 
+cheat, and 
+steal. The 
+gambler by 
+this point 
+could com- 
+mit illegal 
+acts to get 
+money, alienate 
+others, and increase 
+drug and alcohol use. Be- 
+cause the mental severity, 
+the gambler could reach 
+an emotional breakdown 
+and a feeling of hopeless- 
+ness can lead to suicidal 
+thoughts and attempts. 
+
+According to a study 
+of gambling and col- 
+lege students done by 
+the Gambling Problem 
+Resource Center at the 
+Minnesota Institute of 
+Public Health, the col- 
+lege years may represent 
+a heightened risk for de- 
+veloping gambling prob- 
+lems because this period 
+is associated with a wide 
+
+
+
+range of at-risk behav- 
+iors, including heavy use 
+of alcohol, and the legal 
+age of gambling is 18 in 
+many states. 
+
+"Gambling 
+is another 
+form of 
+
+
+
+
+stated Smith, i 
+The association with ' 
+gaming allows gam- 
+bling to become a norm 
+among the college stu- 
+dents, which represent 
+5.1 percent of patho- 
+logical gamblers in the 
+United States. According 
+to research at the Uni- 
+versity of Washington, at 
+least 15 percent of col- 
+lege students are at risk 
+for developing gambling 
+
+
+
+problems. 
+
+While not all students 
+become problem gam- 
+blers, the risk is notable 
+high. Indiana is the sec- 
+ond largest gambling 
+revenue contributor in 
+the U.S. This statistic is 
+in correlation to Indiana 
+having the highest bank- 
+ruptcy and repossession 
+in the U.S. The majority 
+of lottery winners also 
+end up going bankrupt. 
+
+For those who may 
+have a problem or know 
+of someone who does; 
+IPFW does have a Suicide 
+
+6 Gambling Prevention 
+counseling. To gethelp in 
+your area contact Gam- 
+blers Anonymous at 1- 
+800-994-B448. The local 
+number is 260-482-3723. 
+The open meeting is held 
+on Monday nights, 6 p.m. 
+at 4105 W. Jefferson Blvd., 
+while the GAM-ANON 
+meeting is on Tuesday at 
+
+7 p.m. 
+
+For IPFW Personal 
+Counseling call 481- 
+6601. 
+
+
+
+Nov. 14, 2007 
+
+
+
+perspective K . ■, 
+
+
+
+Broadway Lights Dimmed 
+
+The marquees may be dark, but Broadway has never had more drama. 
+
+
+
+By Laura Hedli 
+
+U-W1RE 
+
+Three angry middle- 
+aged women stood out- 
+side "Chicago's" Ambas- 
+sador Theatre Saturday 
+night where curtains 
+were scheduled to go up 
+on Grammy-nominated 
+Brian McKnight as law- 
+yer Billy Flynn. Hailing 
+from Ohio, the theater 
+lovers had spent thou- 
+sands on airfare and ho- 
+tel rooms. They had tick- 
+ets to see five Broadway 
+shows in one weekend. 
+But because of the Lo- 
+cal One stagehand strike, 
+they would only be see- 
+ing one. 
+
+"I sympathize with 
+what they're doing, but 
+it sucks to be me." said 
+Laura, one of the three, a 
+high school teacher who 
+had taken off time from 
+her job to come to New 
+York. 
+
+At 11 a.m. on Satur- 
+day, Nov. 10, Local One, 
+a 3000-member stage- 
+hand union, declared a 
+strike on the League of 
+American Theatres and 
+Producers. Their actions 
+were sanctioned by In- 
+ternational President 
+Thomas C. Short of the 
+International Alliance of 
+Theatrical Stage Employ- 
+ees (IATSE). 
+
+"Dr. Seuss' How the 
+Grinch Stole Christmas! 
+The Musical" was the 
+first show to be affected. 
+Gearing up for the holi- 
+day season and cater- 
+ing to family theatergo- 
+e r s , the musical 
+
+
+
+had its first performance 
+scheduled for 1 1 a.m. But 
+by the time matinee au- 
+diences were gathering 
+in midtown, only seven 
+Broadway theater houses 
+remained open. 
+
+"It's hard to tell little 5- 
+year-old girls they won't 
+be going to see 'Wicked' 
+today," said an employ- 
+ee at the Gershwin who 
+wished to remain anony-' 
+mous. "A lot of them start 
+to cry." 
+
+Disputes between Lo- 
+cal One and the League 
+have been ongoing since 
+late July, but according 
+to a statement posted on 
+IATSE's official Web site, 
+tensions mounted when 
+IATSE President Short 
+was forced to leave the 
+table this past Thursday 
+due to issues involving 
+the Writers Guild strike. 
+He said that because 
+employers of the League 
+were unwilling to com- 
+promise with members 
+of the Local One Union's 
+bargaining team upon 
+his departure, he had no 
+choice but to authorize 
+the hold. 
+
+Outside each empty 
+theater Saturday night 
+stood a dozen or more 
+Local One picketers with 
+signs that read "Our Fam- 
+ilies Are Number One." 
+This marks the first strike 
+in the Union's 125-year 
+history. Forbidden by IA- 
+TSE to provide any expla- 
+nation, they could only 
+offer colored 
+flyen 
+
+
+
+that outlined their argu- 
+ments, citing producers' 
+demandsfora39-percent 
+cut in jobs and wages as 
+the underlying cause, 
+lust steps away (torn the 
+picketers, managers and 
+workers employed by 
+League theaters handed 
+patrons a different type 
+of flyer — one that read 
+"The Facts about the 
+Stagehands' Strike." The 
+League, it reads, claims 
+to uphold a 3.5-percent 
+
+
+
+go into the theater, they 
+can't take their stuff out 
+and tour. We are all es- 
+sentially frozen." 
+
+But it doesn't bode well 
+for band members of 
+Duran Duran, whose in- 
+struments remain inside 
+the Barrymore Theatre 
+indefinitely. Dana Lios 
+and Ml Reiss from New 
+Jersey were "devastated" 
+to hear that the popular 
+'80s band wouldn't be 
+playing Saturday night, 
+
+
+
+"Because stagehands can't 
+go into the theater, they can't 
+take their stuff out and tour. 
+We are all essentially frozen." 
+
+
+
+wage increase each year 
+for five years in addition 
+to other bonuses, but it 
+wants to eliminate what 
+it see as "featherbed- 
+ding," which involves the 
+i overruling and overpay- 
+ing of workers. 
+
+One worker, who wi sh e d 
+to remain anonymous, 
+said that the League was 
+fighting against Local 
+One's "antiquated work 
+issues," and the flyer cites 
+many examples of stage- 
+hands receiving large 
+lump sums for doing lit- 
+tle-to-no work. Standing 
+outside the locked the- 
+ater, he said, "Because 
+stagehands can't 
+
+
+
+one of 10 concerts in the 
+group's limited engage- 
+ment series. 
+
+"We both have little 
+babies that we left with 
+babysitters tonight, and 
+we came out as faithful 
+fans," said Reiss. 
+
+"I'm really shocked," 
+said Lios, "I've been lis- 
+tening since the eighth 
+grade, and I really wanted 
+to hear 'The Reflex' and 
+'Save a Prayer' tonight." 
+
+Troubled ticket-hold- 
+ers concerned about 
+ways to obtain refunds 
+were met by employees 
+who provided handouts 
+with Ticketmaster and 
+Tele charge infor- 
+
+
+
+"We only have the in- 
+formation for tickets pur- 
+chased through Ticket- 
+master in our box office," 
+said the Gershwin em- 
+ployee. "If you buy your 
+tickets from a broker, we 
+can't do anything about 
+that." She explained that 
+it was at the discretion of 
+the brokers if they would 
+refund a patron's money. 
+Other theater employees, 
+such as those outside the 
+"Avenue Q" box office, 
+were offering a list of en- 
+tertainment alternatives 
+both on and Off-Broad- 
+
+
+
+generate more public- 
+ity, but people who are 
+inconvenienced end up 
+here." "Spelling Bee" per- 
+forms at the Circle in the 
+Square, an independent 
+theater, and its stage- 
+hands are on a separate 
+contract. "Xanadu" also 
+played to two sold-out 
+houses on Saturday. 
+
+"They took a long time 
+to go on strike, and I've 
+heard people say that 
+it's going to last just one 
+week. But just imagine 
+all the money they're 
+losing," said one anony- 
+mous 'Xanadu' promot- 
+er standing outside the 
+TKTS booth. 
+
+An online statement 
+released by Charlotte St. 
+Martin, executive direc- 
+tor for the League, says 
+t h a r the strike will 
+
+
+
+cost the industry $17 mil- 
+lion a day. 
+
+But the actors are still 
+in attendance. Just min- 
+utes before evening show 
+times, actors and ac- 
+tresses gathered outside 
+their respective theaters 
+in solidarity. Stephen 
+Buntrock, who plays 
+Teen Angel in the new 
+Grease revival, stood 
+at the Brooks Atkinson 
+Theatre as a member of 
+Actors' Equity, an entity 
+that supports the Local 
+One Union. It too had a 
+flyer detailing its stance 
+on the issue. 
+
+"This flyer was writ- 
+ten this afternoon, and 
+I believe everything it 
+says," said Buntrock. 
+"We're here to support 
+Local One. It's unani- 
+mous across the board 
+— there's a lot of unity 
+out here." 
+
+"Honestly, as an actor, 
+I'm really new to these 
+types of things," said 
+2007 Tony-winner John 
+Gallagher Jr. of "Spring 
+Awakening" ashechatted 
+with fellow cast members 
+while strumming chords 
+on his ukulele."' 
+
+"I don't think you'll see 
+any of us crossing picket 
+lines a) by choice and 
+bl even if we were to do 
+so, there'd be no point. 
+Plus, it's kind of fun." he 
+added, smiling, "It's like a 
+snow day." 
+
+
+
+0LLYW00D 
+
+
+
+conoom on LAeey king 
+
+
+
+
+Nov. 14, 2007 
+
+
+
+introspective 
+
+
+
+Pg- 5 
+
+
+
+Sowing the Necessary 
+
+by Robert Gruber 
+
+ground supports man reaching, 
+as earth feeds primal needs 
+forgotten upon concrete streets 
+and neglected in ivory towers: 
+the simple is beautiful 
+as the seed bearing portent 
+for thought to know 
+and mind to incorporate; 
+roots speak of the future, 
+nourishing buds unto flower 
+and fruit necessary for health 
+in this mesmerizing whole 
+
+
+
+Horoscopes 
+
+
+
+by Erik Shepherd 
+
+
+
+WINTER BREAK 
+WORK 
+$16.25 base-appt. 
+1-5 wk. program, cust. sales/svc 
+
+cond. apply, must be 18+, 
+call now start after finals 
+
+www.workforstudents.com 
+
+
+
+
+weekly words of wisdom &gt; 
+
+j 
+
+
+i jt&gt;' ~*^^bne dollar is equal to V 
+''ff^f "i BL 3 thousand pennies. " p I 
+
+
+W I^K McBadAtmath 1 
+
+
+^^-j» iML^ * 
+
+
+
+Sudoku 
+
+
+
+Fill in the grid so that every row, column and 
+3x3 box contains the numbers 1 through 9. 
+
+
+
+
+
+7 
+
+
+
+
+
+
+2 
+
+
+
+
+
+
+6 
+
+
+
+
+4 
+
+
+2 
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+5 
+
+
+1 
+
+
+
+
+
+
+6 
+
+
+1 
+
+
+
+
+
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+
+6 
+
+
+
+
+4 
+
+
+1 
+
+
+8 
+
+
+
+
+7 
+
+
+
+
+
+
+
+
+8 
+
+
+
+
+
+
+
+
+3 
+
+
+
+
+1 
+
+
+5 
+
+
+7 
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+7 
+
+
+
+
+
+
+9 
+
+
+6 
+
+
+
+
+
+
+1 
+
+
+4 
+
+
+
+
+
+
+
+
+2 
+
+
+
+
+7 
+
+
+5 
+
+
+
+
+9 
+
+
+
+
+
+
+3 
+
+
+
+
+
+
+1 
+
+
+
+
+
+Answers 
+to last 
+week's 
+Sudoku 
+
+
+
+AneS Mar 21- Apr 19 ^\_^ UWfl SepB-OrtH 
+
+Yhu are what you eat and ^-^ *-^ The pen rsmightier than the 
+last week you ate a lot of swordYou may have heard 
+
+eggs.Bav^c,nowyouarea the but of course rt is a lie. 
+
+didcen. 
+
+
+
+f ArieS Mar J1- Apr 19 *_f\_^ 1 
+
+Youarewhatyoueatand J^Jim " 
+
+last week you ate a lot of « 
+
+eggs.Bawk,n(»vyouarea t 
+
+
+
+
+
+
+Taurus A P r^Mi&gt;;j W\ Scorpio mb-no* 21 
+
+This week you ana h the has- II li Themfitaiyreouitfirswon't 
+pital after beoomiig affixed fffj leave you alone. Rahaps if 
+
+oritotte top erf a mountain, you i^re yourself severely 
+
+they wffl lose rhterest 
+
+
+
+Gemini May21JuneID W 
+
+This week you wffl be am- \j 
+fronted byabtly. Don'tgive M 
+h or he wffl steal your lunch. \ 
+
+
+
+Canter June 21- July a 
+A hint that you're not getting 
+enough sleep may be the 
+fact that three alarm docks 
+still don't wake you up. 
+
+
+
+id 
+
+
+
+Sagittarius Novzz- Dec zi 
+
+\ou listen well to peoples' 
+problems but make sure 
+your own problems don't 
+brewittemafly 
+
+Capricorn d« 22- jams 
+
+Alcohol rarely solves any of 
+
+life's problems but in your 
+case it is only making things 
+
+
+
+LeO Jury 23- Aug 22 
+
+Now that you've made zero 
+
+
+
+W Aquarius 
+
+A^&amp; Thedeepestf 
+dollaresellhgyoiroolorings, J^w*" ooaanisalsotheunefur- 
+
+
+
+Jan20-reb18 
+
+The deepest part of the 
+
+
+
+go get a real job. 
+
+
+
+I JM Lrtgooflhepersonal A)!*-? 
+
+f FA prejudkes that are nokfrig F\ 
+
+
+
+thest from the surface. 
+
+
+
+PlSCeS Feb 19- Mar 20 
+
+rf we were all animals about 
+to go on Noah's ark yo*' 
+would be left oft 
+
+
+
+9 
+
+
+4 
+
+
+1 
+
+
+8 
+
+
+3 
+
+
+6 
+
+
+2 
+
+
+5 
+
+
+7 
+
+
+
+
+7 
+
+
+S 
+
+
+n 
+
+
+4 
+
+
+1 
+
+
+2 
+
+
+9 
+
+
+3 
+
+
+6 
+
+
+
+
+2 
+
+
+3 
+
+
+6 
+
+
+9 
+
+
+5 
+
+
+7 
+
+
+1 
+
+
+8 
+
+
+4 
+
+
+
+
+6 
+
+
+2 
+
+
+9 
+
+
+1 
+
+
+8 
+
+
+5 
+
+
+7 
+
+
+4 
+
+
+3 
+
+
+
+
+3 
+
+
+8 
+
+
+7 
+
+
+? 
+
+
+4 
+
+
+9 
+
+
+6 
+
+
+1 
+
+
+5 
+
+
+
+
+5 
+
+
+1 
+
+
+4 
+
+
+6 
+
+
+7 
+
+
+3 
+
+
+8 
+
+
+9 
+
+
+2 
+
+
+
+
+1 
+
+
+7 
+
+
+3 
+
+
+S 
+
+
+? 
+
+
+8 
+
+
+4 
+
+
+6 
+
+
+9 
+
+
+
+
+8 
+
+
+g 
+
+
+5 
+
+
+7 
+
+
+6 
+
+
+4 
+
+
+3 
+
+
+2 
+
+
+1 
+
+
+
+
+4 
+
+
+6 
+
+
+2 
+
+
+3 
+
+
+9 
+
+
+1 
+
+
+5 
+
+
+7 
+
+
+8 
+
+
+
+
+
+SO YOU CAN DRN&lt;E IN 
+
+FULL OF QUESTIONS 
+
+AND DRIVE OUT 
+
+FULL OF confidence: 
+
+
+
+
+(midas) 
+
+
+
+10 % off Any service 
+
+^™ ^^^ ^^ ' * • Brakes • Exhaust • Factory Malntert 
+
+
+
+with student I.D. 
+
+
+
+Exhaust • Factory Maintenance Service 
+Radiators • suspension • Wheel Alignment 
+Belts • Hoses • Headlamps • Bulbs 6 More 
+
+
+
+
+Nov. 14, 2007 
+
+
+
+a&amp;e 
+
+
+
+pgs. 6&amp;7 
+
+
+
+SouljaBoy: 
+
+
+
+Worse than global waiming 
+Twice as annoying, 
+
+
+
+Courtesy of U-WIRE drops lo zero. 
+
+The only way for such an artist to stay 
+
+successful is to write more hit singles 
+
+that come with dances. Unfortunately 
+
+PITTSBURGH — I sat at my com- for SouljaBoy, the quality of his current 
+
+puter for a solid half-hour, trying to dance hints that any subsequent danc- 
+
+think of a witty, yet still caustic way to es will be about as interesting as sitting 
+
+say this, but I just can't come up with on a couch or lying down. His "Crank 
+
+anything. So here goes: Soulja Boy is That" dance makes drunk people look 
+
+terrible. Awful. Maybe the worst thing drunker and awkward people more 
+
+to happen in hip-hop since Notorious awkward, causing many to fall over and 
+
+B.I.G. died. And that was a decade ago. hurt themselves on a sharp object near- 
+
+Now before you call me an indie-rock by. Who's ready for a lawsuit? 
+
+snob, let's explore why it is that I might 
+
+be so perturbed by this bad little boy. 4. Comes Comple\ 
+
+With that, I present to you The Top sponding "Soulja Girl' 
+Seven Reasons Why 
+
+
+
+Soulja Boy is Worse 
+Than Global Warm- 
+ing and Twice as An- 
+noying. Let us begin. 
+
+6. Name Confu- 
+sion and Shame- 
+less Self-Promotion 
+
+- Soulja Boy is also 
+
+
+
+"The lyrics of 'Crank That' 
+are the rap equivalent of 
+the dialogue in an episode 
+of'Beavis and Butthead."' 
+
+
+
+with Cor re - 
+— Soulja Boy 
+wasn't satisfied 
+with only one 
+Soulja-related 
+song, and we 
+all know that 
+he isn't at all 
+sexist, so the 
+album also fea- 
+tures the tune 
+"Soulja Girl." 
+
+
+
+known as Soulja BoyTell'em. His album This tune, just released as the next sin- 
+
+
+
+gle, is a smooth, love ballad, and actu- 
+ally doesn't suck that bad. That is, until 
+the chorus, when Soulja Boy chimes in 
+with the same "YOUUUUUUU" chant 
+that plagues "Crank That." Yup, Mr. Boy 
+wrote two songs using the same chorus. 
+He's a creative one, that Soulja. About as 
+
+
+
+is called Souljaboytellem.com, which is 
+also the address of his Web site. Now, 
+this extended name would imply that 
+Mr. Boy, whose real name is DeAndre 
+Way, is being instructed to tell us some- 
+thing, as in, "Hey Soulja Boy, tell 'em 
+about your hot new album called Soul- 
+jab oyteUem.com." But, no, that's just creative as a coma patient. 
+his name. 
+
+Thankfully, in case any of us were 3. Lyrical Content — Now we get to 
+
+confused*, Mr. Boy repeals some incar- thereal meat of my argument. The lyrics 
+nation of his name no less than 46 times of "Crank That" are the rap equivalent 
+in the course of his hit song, "Crank of the dialogue in an episode of 'Beavis 
+That (Soulja Boy)." He also includes his and Butthead." That is to say, they are 
+name in the song's title for those of us utterly and unequivocally stupid. But at 
+who are deaf and can only read track 
+listings. What a gentleman. * &lt;~% ^^ ^^ 
+
+
+
+5. Special Dance Equals Career Death 
+— If Soulja Boy wishes his career to be 
+long and illustrious, it's a shame, be- 
+cause by creating a dance to go with his 
+hit single, he has effectively slaughtered 
+
+
+
+least Beavis and ^W ^ 
+
+Butthead were funny. f 
+
+Lines like, "Nope you can't 
+
+do it like me/ So don't do it lik e me/ 
+I seen you tryin' to do it like me/ Man, 
+
+
+
+this possibility. Remember the guys that dance was ugly," sound like either 
+
+who wrote "Macarena?" How about a drunken catfight at a fiat house or a 
+
+"The Electric Slide?" Exactly. By bas- second grade playground taunt, 
+ing the first hit song — the foundation Either way, to glean any meaning 
+
+of a commercial artist's career — on an from Soulja Boy's lyrics will have the 
+
+instructional dance, any chance that same result as listening to Nickelback 
+
+people will view said artist as legitimate — you'll just end up with a headache. 
+
+
+
+There are two lines, however, that have 
+garnered a certain amount of special 
+attention, leading us to ... 
+
+2. Blatant Misogyny — Soulja Boy, 
+like many rappers of his breed, 
+loves the ladies. Or rather, being gross- 
+ly sexist and disgusting towards them. 
+Now I haven't conducted any solid re- 
+search, but I'm reasonably sure that 
+the majority of women out there would 
+prefer not to be "super-soaked" or "Su- 
+permanned." Honestly, I'd be less dis- 
+gusted with Soulja Boy if he wrote a 
+song about having a water gun fight 
+with himself — at least no one would 
+be degraded. And on that note ... 
+
+1, Soulja Boy Has Ruined My Child- 
+hood — Like many of you reading this, 
+Super Soakers were about the coolest 
+thing to own anywhere from third un- 
+til sixth grade. The bigger Super Soak- 
+er you had, the cooler you were, and 
+water fights could rage all over any 
+neighborhood. 
+
+Thanks to "Crank That," I can no 
+longer think of these wonderful child 
+hood memories without the notion ol 
+Soulja Boy super-soaking his favor- 
+ite "Hooooooo." Thank you, Soulja 
+Boy. Really. It's a much more pleas- 
+ant image. 
+
+So there you have it, The Top 
+Seven Reasons Why Soulja Boy is 
+Worse Than Global Warming and 
+Twice as Annoying. Keep in mind 
+that these are only the top seven 
+— a veritable encyclopedia of 
+other reasons is currently in ex- 
+istence, including "Soulja Boy is 
+Everything That is Wrong 
+
+
+
+With ^^ 
+
+Music To- 
+day" and 
+"Wearing Sunglasses 
+With Your Name on the 
+Lenses is Not Cool." 
+
+In conclusion, "Crank That (Soulja 
+
+
+
+Boy)" by Soulja 
+Boy, AKA Soul- 
+ja Boy Tell'em 
+is the first sin- 
+gle on Soul- 
+jaboytellem. 
+com. And it 
+sucks. 
+
+
+
+
+The Spill Canvas: No Real^I'm Fine 
+
+
+
+
+Free Pregnancy Tests 
+Options Education 
+
+
+
+Campus Hope 
+
+A Student Organization on the IPFW Campus 
+
+
+
+t Organization on The lr-hw Campus 
+campushopestudents@yahoo.com 
+www.campushopestudents.org 
+
+
+
+By MIKE WEBB 
+
+mwebb01@ipfw.edu 
+
+It's time for angat-filled teenagers ev- 
+erywhere lo rejoice. The Spill Canvas has 
+a new record qui. 
+
+Even the title, "No Really, I'm Fine" 
+brings mental images of jaded and love- 
+siruck youth to the forefront. 
+
+This isn't necessarily a bad thing, as the 
+musicianship on this record has received 
+■ i in. iji n jumps tart and travels far beyond 
+that of the typical alternative-rock band 
+in an overcrowded, cookie-cutter indus- 
+try. 
+
+Formed in 2002 in Sioux Falls, South 
+Dakota, The Spill Canvas was the early 
+brainchild of frantman Nick Thomas, 
+who first used the artsy moniker to be- 
+gin writing and recording at the age of 
+15. Since that time, he has put together 
+a full band, shuffled the lineup several 
+times, released four records and toured 
+extensively. 
+
+The current incarnation of the band 
+features Nick Thomas (lead vocals, and 
+guitar), |oe Beck (drums), Dan Ludcman 
+(guitar) and London Heil (bass), and 
+
+
+
+with "No Really, I'm Fine," this lineup has 
+crafted a well-rounded and solid entry into 
+the Warped Tour territory. 
+
+The songs are short, catchy and mostly 
+upbeat sounding without becoming overly 
+pop-oriented. The guitar work in particu- 
+lar is worth a special mention. Thomas and 
+Ludcman are un-afraid to make their in- 
+struments take the lead and sing their own 
+melody. This approach is complimentary 
+to the verses and contributes to the form- 
+ing of an individual sound for the band 
+- and important thing when your contem- 
+poraries are bands like Panic! At the Disco. 
+
+Though interesting in its arrangement, 
+"No Really, I'm Fine" may turn some off 
+who feel like they have been through the 
+angry relationship phases of their lives al- 
+ready. Though some of the lyrical content 
+consists of angst of a different sort, mostly 
+political, angst is still the keyword, and 
+without a truly high energy level, it some- 
+times comes off as a wasted effort. 
+
+Overall, "No Really, I'm Fine" is a sur- 
+prisingly satisfying experience, even if a bit 
+cliche. There is a lot of potential with this 
+band to evolve into a true heavy hitter at 
+some point down the road. 
+
+
+
+A ■ 
+
+
+
+OTtXfl 
+
+
+
+
+
+By ZACHARY HORNBACK 
+homih01@ipfw.edu 
+
+
+
+examples of the packages the artwork 
+is sold in. All of her art centers around 
+an earthy theme; it is simple yet ele- 
+gant and would make for an inspiring 
+centerpiece. 
+
+John Clay's artwork is the artwork 
+of our generation. His work is very 
+idealistic and 
+conceptually 
+based, invit- 
+ing the view- 
+er to question 
+their purpose 
+
+
+
+The Kachmann Institute in down- 
+town Ft. Wayne is now hosting an ex- 
+hibition of work from iPFW's graduat- 
+ing visual communications students. 
+The Kachmann Institute itself is a 
+work of art; the entire building en- 
+courages relaxation and almost seems 
+to open the mind with its spacious or w h "^ey 
+interior. The art is varied, some of the are. Clay's 
+artists used concepts to define their artwork is 
+work while others almost seemed to mostly dim- 
+present sales pitches or marketing ta j p rm t s _ a 
+examples. All of the art is presented choice that 
+well, with each exhibit greatly vary- was made 
+ing from the last. The exhibits vary partly be- 
+in concept and idealization as well as cause of the 
+form. One was presented with gourds digital era 
+and about gourds, while another was mat we i; ve 
+composed of graphic design pictures m D ut aj SD 
+and a clear sheet for guests to write because of 
+on in Sharpie pen. Another focused his f asc ination with technology, 
+on airbrushing, while yet another fo- ln my worki T illustrate the sim- 
+cused on stained glass windows. p ]j city of childhood, the pain of loss 
+
+and disap- 
+
+
+
+tures the attitude of the artist. 
+
+Brandon Geisel created a coffee 
+experience for his exhibit, focusing 
+around marketing for a coffee compa- 
+ny, "Verve" and thegraphic design used 
+in the marketing. The exhibit includ- 
+ed Verve coffee mugs filled with coffee 
+beans. 
+
+
+
+
+Each capti- 
+vates the viewer's 
+interest in its own 
+right. It is evident 
+that these exhib- 
+i .Its were painstak- 
+ingly put togeth- 
+er, and that we 
+may expect great 
+things from these 
+student artists. 
+
+
+
+"In my work, I illustrate 
+the simplicity of childhood, 
+
+the pain of loss and 
+
+^dissarjointment, and the 
+
+process of growing up - while 
+
+defining who I am as a being." 
+
+
+
+pointment, and 
+the process of 
+growing up 
+- while defin- 
+ing who I am as 
+a being," said 
+Clay. 
+
+An interest- 
+ing part of this 
+exhibit is that 
+
+
+
+tal next to business cards and plastic 
+cups, encouraging the viewers to take 
+part in the experience. 
+
+Ryan Pape takes his exhibit to a 
+technologically appealinglevel.There 
+is an interactive computer com- 
+plete with a mouse and a program 
+which allows you to view all of what 
+went into the concept of his design. 
+For his exhibit, ^^^_^____ 
+
+
+
+to write. 
+
+"I am an artist." 
+
+"I am everywhere." 
+
+"I am the walrus." 
+
+These are all sentences written by 
+
+
+
+There are two larger, central exhib- a large part of it is dominated by a 
+its that are placed at opposite ends of clear plastic canvas with a cup full of 
+the long hall housing the gallery, one sharpies nearby. The canvas reads "I 
+from Amanda McConnell and the am..." and on it the viewer is invited 
+other put together by John Clay. 
+
+AmandaMcConnellcomposedher 
+exhibit around gourd art. She began 
+working with gourds as a medium a 
+few years ago and the love of the art 
+simply grew. 
+
+"I think that the 
+thing that I love most 
+about gourds is that 
+each vessel has to be 
+approached in a dif- 
+ferent way because 
+every one is-unique. 
+Even one color will 
+be more vibrant on 
+one gourd to the 
+next," said McCon- 
+nell. 
+
+Her exhibit fea- 
+tured not only very 
+colorful and tex- 
+tured gourds, but 
+also information 
+about gourd art. She 
+discussed how it is 
+done, what instru- 
+ments are used and 
+
+even included some folklore about different people. This concept is very 
+gourds. McConnell's Photos by HAN NGUYEN 
+exhibit focused around 
+
+a centerpiece that displayed her alluring, allowing the viewer to create 
+unique business. Her contact infor- his own typographical art and inter- 
+mation is printed on seed packets pre t others' as well, 
+that contain gourd seeds and a few Placed around the edges of the 
+
+examples of the beautiful gourds she room [he re are six other exhibits, 
+produces were on display along with Eac h has its own style and each cap- 
+
+
+
+Pape created 
+unique car stereo 
+that can play and 
+store MP3s. Pape 
+created a physi- 
+cal model of the 
+stereo as well as 
+several visual rep- 
+resentations of — . — 
+it, using different 
+mediums to reinforce the concept. 
+
+"My intent is to shoot forward, in- 
+vent, create, and become an innova- 
+
+
+
+ent elements of this sub-culture in 
+his exhibit. 
+
+"With the ability to quickly apply 
+gradations of color and create areas 
+of fine detail, airbrushing has become 
+the predominant focus and outlet for 
+my creativity." 
+
+Lisa Schwaberow used both stain 
+glass images and moving, animated 
+kaleidoscopes in her exhibit. She 
+uses a large television screen with a 
+presentation that can be activated 
+and viewed on it. This presentation 
+is comprised of kaleidoscope images 
+dissolving into themselves along with 
+music. Schwaberow also has several 
+prints hanging on one wall, which are 
+stain glass images that she reworked 
+into Rose Window Designs. These are 
+beautiful images that are calming and 
+inspiring. 
+
+"The Kaleidoscope imagery has a 
+life of its own and sometimes I feel 
+like it is leading me, instead of it be- 
+fee on a ing commanded by any genius I may 
+pedes- have." 
+
+Jill Weaver created a provocative 
+presentation using Photoshop, Flash 
+animation, digital photography and 
+fine art. Her concept? "... to express 
+my own personal feelings about the 
+overwhelming nature of the media." 
+Her presentation consists of two tele- 
+vision screens with fixed pictures 
+against a newspaper background and 
+. a Flash anima- 
+tion sequence 
+on a separate 
+screen. It begs 
+the question of 
+whether or not 
+
+
+
+
+tor. I eagerly embrace the future, and 
+welcome the challenges that await," 
+said Pape. ' 
+
+Andrew McMillen combined his 
+passion for airbrushing wi th his inter- 
+est in Kustom Kulture that surrounds 
+the automotive and motorcycle in- 
+dustry. He designed and illustrated 
+several graphics that include diffcr- 
+
+
+
+"My intent is to shoot 
+forward, invent, create, and 
+
+become and innovator. I 
+eagerly embrace the future 
+and welcome the challenges socie ^ is bein § 
+
+.. . -. „ desensitized 
+
+that await. by Ae media 
+
+and asks when 
+too much is 
+enough. This piece is thought pro- 
+voking and displays its concept well. 
+Joe Leman displays his business 
+identity at the gallery. He 
+shows off both his web- 
+site and his commitment 
+to utilizing all that he 
+has learned as a graphic 
+design student to further 
+his career. Expression 
+through design of his we 
+bsite and business is ap- 
+plaudable. 
+
+"1 strive to obtain the 
+proper balance of form 
+and functionality that 
+will allow my work to 
+be most true to its cor- 
+responding purpose. 
+In fact, I would be bold 
+enough to say that my 
+actions pledge their al- 
+legiance to this truth 
+before all the traditions 
+of modern and ancient 
+art. To say it simply: I love truth more 
+than art and I love purpose more than 
+beauty," said Leman. 
+
+The Kachmann Institute's art gal- 
+lery is open on Saturdays from 12 to 
+4 p.m. Admission is free. For more in- 
+formation, contact the Department 
+ofVisual Communication and Design 
+at 260.481.6709. 
+
+
+
+Nov. 7, 2007 
+
+
+
+student life 
+
+
+
+pgs.8&amp;9 
+
+
+
+Auditions! 
+
+Wonderful Town 
+
+
+
+Courtesy of SUSAN DORMER 
+
+domersSipfw.edu 
+
+
+
+It's the summer 
+of 1935 ahd Ruth 
+and Eileen Sher- 
+wood, two sisters 
+
+
+
+score, celebrates ing for the dance 
+
+-New York as the audition to be 
+
+magnet for young taught following 
+
+people to fulfill the singing por- 
+
+
+
+their greatest am- 
+bitions and life- 
+long dreams. 
+Cast: Numer- 
+
+
+
+fresh off the bus ous roles for men 
+from Ohio, have and women col- 
+
+
+
+arrived amid 
+the bustling 
+streets of 
+New York 
+
+
+
+lege age and old- 
+
+
+
+tion of the audi- 
+tion. There may 
+also be cold read- 
+ings from the 
+script. 
+
+Performance 
+Dates: April 25, 
+
+26 and May 
+
+1, 2, 3 at 
+8:00 p.m. 
+
+
+
+Wonderful Town 
+
+city. Eager Directed by John O'Connell an dA P rii27 
+
+to take this AudltlOnS NOV. 18 at 1:30p.!Tl. and May 4 
+
+wonder- Williams Theatre at 2:00 p.m. 
+
+ful Town by . -. in Williams 
+
+
+
+Auditions: 
+Please prepare 
+
+
+
+Th eatr e. 
+There will also 
+be a high school 
+matinee on April 
+
+
+
+storm, the 
+two set out to 
+make it big, fall 
+in love, and live 
+happily ever after 
+in the Big Apple. 
+
+An experdy from a musical of gin: 
+
+crafted musical your choice, with hearsals begin 
+comedy with mu- sheet music for Feb. 25, 2008 
+the accompanist. 
+
+
+
+16 bars of an 30 at 10:00 a.m. 
+up-tempo song Rehearsals Be- 
+Music re- 
+
+
+
+sic by Leonard 
+Bernstein and 
+lyrics by Comden 
+and Green, "Won- 
+derful Town," 
+with its zippy 
+and harmonious 
+
+
+
+and full rehears- 
+Or, you may sing als begin Mar. 3. 
+"My Country 'Tis Rehearsals are 
+of Thee" acappel- Mon. — Fri. from 
+la, preferably 16 7 — 10:00 p.m. 
+bars. Bring com- 
+fortable cloth- 
+
+
+
+A Doll's House 
+
+
+
+Courtesy of SUSAN DORMER 
+domeneipfw.edu 
+
+
+
+ra's ultimate ac- 
+tions, rocked the 
+social classes of 
+the 1890s. 
+
+Cast: There are 
+four male roles 
+ages 20 — 40s and 
+
+
+
+als begin Jan. 14, 
+2008, and actors 
+should plan on 
+Monday — Friday 
+from 7 — 10 p.m. 
+
+
+
+From the fa- 
+ther of Realism, 
+
+"A Doll's House" ages 20 — 40s and Conflicts: 
+is the first con- 
+temporary femi- ages 20-50s. 
+nist play about a Auditions: Ac- 
+young woman's tors should come 
+desire for ^^^^==^^^^^^^^^=1 
+
+errand self" A Doll's HoUSe 
+
+s u f f i c i e n - Directed by Jeff Casazza 
+
+cy. Nora AuditlOHS Dec 2 at 1 30 p.m. able for 24 
+
+moves from Williams Theatre hour loan 
+
+the home = _. through the 
+
+Department 
+
+
+
+four female roles All conflicts must 
+be listed on the 
+audition form the 
+day of auditions. 
+__ Scripts: 
+Copies of 
+the scripts 
+are avail - 
+
+
+
+of her over- 
+protective father 
+
+into the arms of prepared with a 
+
+a husband who one to two min- 
+
+treats her like a ute monologue 
+
+play thing; like a and there will be 
+
+
+
+of Theatre 
+office, 260-481- 
+6551. 
+
+
+
+delicate porcelain 
+doll. Her feminist 
+awakening 
+
+
+
+readings from the 
+script. 
+
+Performance 
+
+
+
+curs when Nora is -Dates: Feb. 22, 23 
+confronted by her 28, 29 and Mar. 1 
+
+
+
+husband's lack of at 8:00 p.m 
+
+support for her Mar. 2 at 2:00 p.m. 
+
+need for individu- in Williams The- 
+
+al expression and atre 
+identity. "A Doll's Rehearsals Be- 
+
+House" and No- B in: Rehears- 
+
+
+
+Susan Domer 
+Marketing and 
+Public Relations " 
+Specialist 
+College of Visual 
+and Performing 
+and Arts 
+IPFW 
+
+260-481-6025 
+260-481-6707 FAX 
+domers@ipfw.edu 
+
+
+
+Homecoming Events 
+
+11.14.07 
+
+Bond with the 80s 
+
+Food and Freebies @ Walb Student Union 
+from 11 a.m.- 1 p.m. 
+
+Hog RoaSt/'Bond' Fire (Lot 12 by Tennis Courts). 
+
+
+
+11.15.07 
+
+Bond with the 90s 
+
+Food and Freebies ©Kettler Hall from 1 1 a.m. 
+- 1 p.m. 
+
+Pre-game party from 4:30 - 6:30 p.m. @ Me- 
+morial Coliseum. 
+
+Game Night Royale: Homecoming Basketball 
+Game vs. Valparaiso @ Memorial Coliseum 
+starts 7 p.m. 
+
+11.16.07 
+
+Bond with Today 
+
+Food and Freebies @ Kettler Hall from 1 1 a.m. 
+- 1 p.m. 
+
+Whistle Stop Pregame starts 5 p.m. @ Gates 
+Sports Center 
+
+
+
+We hayeja great deal for Full time students: 
+One month's rent free 
+■+ NO application fee 
+£M0 security deposit 
+
+
+
+i 
+
+
+
+
+Food for Thought 
+
+
+
+Hunger Banquet Strikes Home with IPFW Students 
+
+
+
+By ZACHAHV HOHNBACK 
+
+homihOieipfw.edu 
+
+Of the 49 least de- 
+veloped countries in 
+the world, 50 percent 
+of the population of 
+these countries is es- 
+timated to live at or 
+below the absolute 
+poverty line of US $1 
+per day. This is just 
+one fact of many dis- 
+tributed at the Hunger 
+
+
+
+Banquet on Monday. 
+Students were issued 
+seating and the many 
+tables in the Walb Stu- 
+dent Union Ballroom 
+were filled up with 
+people. Scattered on 
+each table were fact 
+sheets, maps, and 
+information regard- 
+ing the poverty and 
+the hunger situation 
+everywhere in the 
+world. There were sev- 
+eral speakers and at 
+each table 
+there was 
+a mod- 
+erator of 
+sorts who 
+was there 
+to lead 
+the con- 
+versation 
+ask the 
+difficult 
+
+
+
+
+students. dents went up only 
+
+The thing that to receive a meager 
+
+brought home the portion of plain white 
+
+idea of such poverty rice and a cup of the 
+
+and hunger that for "dirty" water. In the 
+
+the most 
+
+part 
+
+many 
+
+students 
+
+haven't 
+
+experi- 
+
+e n c e d 
+
+was the 
+
+meal it- — 
+
+self. One 
+
+student from each 
+
+table was given clean 
+
+water in a nice glass 
+
+with real silverware 
+
+and ceramic plates. 
+
+This student was 
+
+served a salad with 
+
+dressing, chicken with Three out 
+
+gravy, potatoes and of the 10 
+
+green beans. 
+
+Three students at 
+
+the table recieved a 
+
+rice mixture and some 
+
+simulated "dirty wa- 
+ter" - water colored 
+with chocolate. Fi- 
+nally, the re- 
+^v maining 
+
+
+
+"The thing that brought 
+
+home the idea of such 
+
+poverty and hunger was 
+
+the meal itself." 
+
+
+
+end, only one out of 
+the ten people at the 
+table was eating well 
+and to the 
+standards 
+that we are 
+used to. 
+
+
+
+Americans take 
+granted. So many 
+people in the U.S. 
+don't think about how 
+incredibly rich we are, 
+compared to the ma- 
+jority of the world. 
+Most U.S. citizens are 
+the "haves" while the 
+majority of the world 
+are the "have-nots." 
+So many Americans 
+don't think about the 
+people of the world 
+— some of whom may 
+even be found within 
+the U.S. - who are 
+chronically hungry 
+
+
+
+and have so little to 
+look forward to. This 
+exercise of dividing 
+up the students per 
+table showed them 
+in a provocative way 
+the difference that is 
+there every day and 
+Americans don't seem 
+to notice. 
+
+There is enough 
+food in the world for 
+no one to go hungry, 
+and yet so many exist 
+every day on the bare 
+minimum and many 
+on less than that. What 
+will you do to help? 
+
+
+
+i t u - 
+
+
+
+
+\ 
+
+
+
+had more 
+than the 
+other six, 
+but still 
+much less 
+than the 
+one per- 
+son who 
+had so 
+much to 
+eat. 
+
+This re- 
+ally made a 
+statement 
+about 
+
+
+
+w h 
+
+
+
+Food Facts 
+
+
+
+The average American eats almost 5 IDS. OT fOOCJ each day. 
+However, one and a half billion people survive on tWO Or 
+
+three ounces of beans or a half-cup of rice a day. 
+
+If you keep food in a refrigerator, your clothes in a closet, if 
+you have a bed to sleep in and a roof over your head you are 
+
+richer than 75% of the entire world population. 
+
+More than 50% of the population of the least developed 
+countries in the world are estimated to live ator below the 
+
+u.s. absolute poverty line of one dollar a day. 
+
+
+
+Photo by ZACH HOHNBACK 
+
+
+
+IPFW 
+
+
+
+mEDiOETHE COMMUTE? 
+
+
+
+UVE ON CAi 
+
+WE HAVE OPENINGS FOR SP NG 2 
+
+
+
+
+IPFW 
+
+STUDENT HOUSING 
+
+260-481-4180 
+www.IPFWstudenthousing.com 
+
+
+
+• Individual housing agreements 
+
+• Fully furnished units 
+
+• Full kitchens 
+
+• Dining area with chairs 
+•High-speed internet and cable television 
+
+• Community center 
+
+• Social lounge with big screen television 
+
+
+
+• 24-hour laundry facilities 
+
+• 24-hour computer lounge 
+
+■ Fitness center 
+
+• Basketball sport court 
+
+■ On-site community assistant staff 
+
+• On-site management and maintenance 
+
+
+
+Nov. 14, 2007 
+
+
+
+sports 
+
+
+
+10 
+
+
+
+IPFW Seeded Third as Dons Prepare for First Conference Tournament 
+
+
+
+Courtesy of 
+The Summit League 
+
+
+
+The Summit League 
+Volleyball Championship 
+will have, a whole new 
+look this season as the 
+league's three new learns 
+• South Dakota State, 
+North Dakota State and 
+IPFW - have earned the 
+top three seeds, respec- 
+tively, in the tournament. 
+Western Illinois will be 
+the No. 4 seed in the 
+tournament, which will 
+be held this Friday and 
+Saturday, Nov. 16-17, at 
+the Milliard Gates Sports 
+Center on the campus of 
+IPFW in Fort Wayne, Ind. 
+The tournament cham- 
+pion will receive The 
+Summit League's auto- 
+matic berth to the NCAA 
+Tournament 
+
+South Dakota State (23- 
+8, 13-3 Summit) earned 
+the top seed after drop- 
+ping just three Summit 
+
+
+
+I 
+
+
+
+
+CHAMPIONSHIP 
+
+
+
+League matches. The 
+Jacks boast three of the 
+top live individual hit- 
+ting percentages in the 
+league in Amy Ander- 
+son {.358, first), Emily 
+Rooney (.349, second) 
+and Krishna Martin 
+(.304, fifth). Anderson 
+
+
+
+also leads the league in 
+blocks (1.32 bpg), while 
+freshman setter Melia 
+Iwamoto is tops in assists 
+(12.94 apg). Libero Sa- 
+mantha Pearson is third 
+in digs (5.66 dpg), while 
+Martin (4.31) and Mack- 
+enzie Angner (4.09) rank 
+
+
+
+u-furduc Student Newspapers, Ini 
+
+
+
+Jessie Ruckman 
+Editor-in-Chief 
+
+Said El-Dajani 
+
+Managing 
+
+Editor 
+
+Zach Hornback 
+A&amp;E Editor 
+
+Michael Williams 
+Sports Editor 
+
+Jil Price 
+Copy Editor 
+
+Alex Wade 
+Advertising 
+Manager 
+
+Drew McMillen 
+Web Design 
+
+Eric Shepherd 
+Graphic Design 
+
+Matt McClure 
+Publisher 
+
+Nic Pyle 
+Photo Editor 
+
+
+
+IPSN Inc. 
+
+Walb Union Suite 215 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+Newsroom / Editor 
+
+(260)481-6584 
+tonuclBiplvrtoinmuneatot org 
+
+Advertising 
+
+(260)481-6583 
+
+adsWipfvrConimunJQioro'g 
+
+
+
+Official Web site 
+
+hflp/Aw^jprwconrnuntraloro/g 
+
+
+
+The Gcazmnlci 
+pnnlod by a 
+
+
+
+i c-rK'ly The opinicn 
+
+
+
+
+
+
+BUrdlng/B*J&lt;ir ot "*'" &lt; il -i-pn- 
+
+uill not bo cttirfdGred foe fnibllencion. 
+
+All sutsdsoU™ asdi via e-noll tdll b» vul- 
+fs*d by tolrtJo* or in yozsnn. Maitrnrc ml 
+r. I -r I, ■.--..■ motors vii; not bo published. 
+
+SulmlBdlorui toisz b« typed, and no aofu than 
+
+The ■.-31tJJr3.it board of The Cccnffvlofltcr re- 
+verves Eh* right co udic all milesAflcioua fur 
+length, &amp;rdnac. otyl». and olority. Lettoia 
+d«n*d patmtlnlly lllwloui by the edltirl«l 
+board vlll not be publJchod under any olrovi- 
+
+
+
+second and third, respec- 
+tively, in kills. As a team, 
+SDSU leads the league in 
+hitting percentage (.260), 
+blocks (2.60) and service 
+aces (1.64), and ranks 
+second in assists (14.50) 
+and third in kills (15.89). 
+North Dakota State 
+(20-7, 12-4 Summit) en- 
+ters the tournament as 
+the No. 2 seed by virtue 
+of a better game win- 
+ning percentage vs. 
+league opponents than 
+IPFW (.705 to .603), with 
+whom it had an identical 
+league record. The Bison 
+lead the league in digs 
+(20.35), rank second in 
+hitting percentage (.241), 
+kills (15.91) and oppo- 
+nent hitting percentage 
+(.174), and 'third in as- 
+sists (14.46). NDSU is led 
+
+
+
+by Christy Slue we, who 
+ranks third in the league 
+in kills per game (4.08) 
+and fourth in both blocks 
+per game (1.21) and hit- 
+ting percentage (.330). 
+Setter Mattie Johnson 
+ranks second in the 
+league with 12.75 assists 
+pet game, while libera 
+Kari Fagnan is second 
+with 5.84 digs per game. 
+IPFW (19-10, 12-4 
+Summit) qualified for 
+the championship after 
+winning 10 of its last 11 
+Summit League match- 
+es. The Mastodons lead 
+the league in opponent 
+hitting percentage (.160), 
+rank second in service 
+aces (1.62) and fourth in 
+digs (19.05). Individually. 
+Jessica Miller paces IPFW 
+with 3.84 kills per game. 
+Rebekah Roehm adds 
+3.56 kills and 0.41 service 
+aces per game, which 
+ranks third in the league. 
+Meanwhile, libero Peachy 
+Jankowski ranks fourth in 
+digs (5.33). 
+
+Western Illinois (15- 
+14, 11-5 Summit) is in 
+the tournament for the 
+sixth time in school his- 
+tory, including its fourth 
+straight appearance. The 
+Westerwinds, who post- 
+ed the same league re- 
+cord as reigning champi- 
+on Oral Roberts, received 
+the No. 4 seed by virtue 
+of sweeping the Golden 
+Eagles during the regular 
+season. Western Illinois 
+
+
+
+is led by reigning co- 
+Player of the Year Ashley 
+Baker, who averages 3.23 
+kills, 2.59 digs and 0.46 
+service aces per game, 
+which ranks second in 
+the league. Amy Sauer- 
+wein adds 2.87 kills and 
+3.80 digs, while Michelle 
+Donnelly ranks second 
+in the league in blocks 
+(1.28). As a team, the 
+Westerwinds rank sec- 
+ond in the league in digs 
+(19.09), third in blocks 
+(2.30) and fourth in hit- 
+ting percentage (.211). 
+
+The Summit League is 
+comprised of 10 member 
+institutions - Centenary 
+College of Louisiana, In- 
+diana University- Purdue 
+University Fort Wayne 
+(IPFW), Indiana Univer- 
+sity-Purdue University 
+Indianapolis {IUPUI), 
+University of Missouri- 
+Kansas City (UMKC), 
+North Dakota State Uni- 
+versity, Oakland Univer- 
+sity, Oral Roberts Uni- 
+versity, South Dakota 
+State University, South- 
+em Utah University and 
+Western Illinois Univer- 
+sity. The league offers 
+championships in 19 
+sports. 
+
+
+
+
+College Football Week 1 1 Recap 
+
+Courtesy of 
+
+U-Wire Fresno State 30. and the corner. One of the 
+
+Most throbbing head: safeties was already gone, 
+
+Colt Brennan, Hawaii having blitzed to no ef- 
+
+Best win: Georgia 45, The Warriors stayed un- feet, and the deep safety 
+
+Auburn 20 defeated with a 396-yard couldn't wrap up Henry 
+
+Biggest upset: Illinois day by their all-star quar- at the 33. Then the mas- 
+
+28, Ohio State Zl terback, but the worst ter stroke: Henry slowed 
+
+Best Bachman Turner sight of the day — or for a split-second to avoid 
+
+Overdrive: LSU 58, Loui- rather, of the wee hours of the cornerback running 
+
+siana Tech 1 the morning — was Bren- over from the other side of 
+
+Et cetera: Wisconsin 37, nan lying face down after the field. He turned on the 
+
+Michigan 21 ... Oklahoma getting clocked by Fresno juice again near midfield 
+
+52, Baylor 21 ... Michigan state linebacker Marcus and outran two Cowboys 
+
+State 48, Purdue 31 ... Ri| ey on a fourth-quarter the rest of the way, scor- 
+
+Clemson 44, Wake Forest scramble. Let's hope Colt's ing an 82-yard touchdown 
+
+10... Nebraska 73, Kansas head is OK. that gave the Jayhawks 
+
+State 31 ... Tennessee 34, Totally unexpected: a 27-14 lead early in the 
+
+Arkansas 13 ... Virginia Juice Williams, Illinois third quarter. 
+
+48, Miami ... Mississippi The Buckeyes bottled up Out with a whimper: 
+
+State 17, Alabama 12 ... rb Rashard Mendenhall Orange Bowl 
+
+Missouri 40, Texas ASM 26 and made Williams beat Nobody comes into the 
+
+... Arizona State 24, UCLA them. And he did, surpris- o.B. and punks the Miami 
+
+20 ... West Virginia 38, jngly. Williams, who came Hurricanes, except, appar- 
+
+Louisville 31 ... Air Force in with 8 touchdown pass- ently, the Virginia Cava- 
+
+41,NotfeDame24...Cin- es and 9 interceptions, liers. Al Groh's by-any- 
+
+cinnati 27, Connecticut 3 passed for 4 TDs against means-necessary squad 
+
+... Texas 59, Texas Tech 43 the nation's stingiest de- played its best game of the 
+
+... Florida 51, South Caro- fense. season, blocking a punt, 
+
+Una 31 ... Virginia Tech 40, Best YAC: Marcus Hen- forcing five turnovers and 
+
+Florida State 21 ... Boise ry, Kansas rolling up 418 yards — an 
+
+State 52, Utah State Split wide left at his own unheard-of total for a pre- 
+
+... Kansas 43, Oklahoma 1 8-yard line, Henry caught viously limp, awkward of- 
+
+State 28 ... Maryland 42, aquickslantp3SSthatTodd fense. 
+
+Boston College 35 ... USC Reesing threaded superbly 
+
+24, Cal 17 ... Hawaii 37, between the linebacker 
+
+
+
+Nov. 14, 2007 
+
+
+
+sports Pg . 11 
+
+Dons Come Out on Top Against Western Illinois 
+
+Women's Volleyball beats the Westerwinds on Senior Night 
+
+
+
+2007-2008 
+
+Women's 
+
+\ Volleyball Seniors I 
+
+
+
+Courtesy of 
+IPFW Athletics 
+
+
+
+The Mastodons moved 
+one match closer to the 
+Summit League Champi- 
+onship on Friday night in 
+the Gates Center in a four 
+game win over Western 
+Illinois. IPFW defeated 
+the Westerwinds, 30-21, 
+30-23, 25-30, 30-26. 
+
+Prior to tonight's 
+match IPFW recognized 
+their graduating senior 
+class; Peachy Jankowski, 
+Patricia Azevedo, and 
+Cynara Martins. 
+
+Game one started 
+with the 'Dons taking a 
+9-4 lead on an attack er- 
+ror by W1U. IPFW would 
+stretch it to eight at 18- 
+1 0.The Mastodons would 
+continue to hold a strong 
+lead to the end. taking 
+game one, 30-21. 
+
+Western Illinois kept 
+the start of game two 
+close and pulled aheadby 
+three at 10-13. The Mast- 
+odons tied the match up 
+at 14, and they continued 
+to trade points back and 
+forth until the 'Dons took 
+a three point lead at 21- 
+
+]S. IPFW extended dial 
+
+lead to six on a service 
+ace by Jamie Schwartz, 
+24-18. IPFW held on to 
+take a 2-0 lead in the 
+match, 30-23. 
+
+
+
+| --&gt;/' I'm tninkinq Arby's. 
+
+
+HI JFf^M 
+
+
+~~ 48 £* g^--— ^ * 
+
+
+1 
+
+
+
+Peachy Jankowski 
+
+
+
+
+
+The Westerwinds opened 
+up game three with an 8- 
+1 run. They continued to 
+hold a strong lead until 
+the 'Dons cut it to three 
+at 19-22. WILT would 
+hold out for game three, 
+25-30. 
+
+IPFW started game four 
+with a~ force, taking a 10- 
+4 lead. The Westerwinds 
+weren't going down qui- 
+etly, cutting it to two at 
+13-11. Western Illinois 
+would tie the match up 
+at 16 all, but IPFW took 
+
+
+
+a two point lead at 19-17. 
+Three kills in a row would 
+put IPFW ahead by five at 
+22-17-At 28-23 the'Dons 
+still held a five point 
+lead before a short 3-0 
+run by the Westerwinds 
+would take the match to 
+29-26. A kill by Mayara 
+Schllndwein would end 
+the game, 30-26 and give 
+IPFW the match, 3-1. 
+
+Schlindwein led the 
+'Dons with 22 kills, a 
+personal best. She hit at 
+.311 and had two service 
+
+
+
+aces, eight digs and three 
+block assists. 
+
+Jessica Miller was 
+close behind Schlind- 
+wein with 20 kills. She 
+added two block solos 
+and two block assists. 
+
+Rebekah Roehm post- 
+ed a double-double with 
+13 kills and 20 digs, a per- 
+sonal best. 
+
+Jessica Do mini ak also 
+recorded a double-dou- 
+ble with 62 assists and 18 
+digs. 
+
+Peachy Jankowski dug 
+
+
+
+Photo by Malina 5anfilippo 
+14 balls in the four game 
+match. 
+
+Western Illinois was 
+led by Ashley Baker with 
+16 kills and 13 digs. Mo- 
+nique Houston was close 
+with 13 kills while Sarah 
+Trimpe had 38 assists. 
+Lindsay Muehlbauer had 
+20 kills for the Wester- 
+winds. 
+
+IPFW will host the Sum- 
+mit League Champion- 
+ships on November 16th 
+and 17th in the Gates 
+Center. Friday night's 
+
+
+
+Patty Azevedo 
+Thanks Seniors! I 
+
+
+
+matches start at 5 PM 
+with the second starting 
+at 7:30. The champion- 
+ship match will be played 
+at 3:00 PM on Saturday. 
+The winner of the Sum- 
+mit League Champion- 
+ship will receive an au- 
+tomatic bid to the NCAA 
+Tournament. 
+
+
+
+Men's Basketball Drops Season Opener vs. Wisconsin 
+
+
+
+Courtesy of 
+IPFW Athletics 
+
+
+
+The IPFW Mastodons 
+men's basketball team 
+opened the 2007-08 sea- 
+son on Sunday night in 
+Madison, Wisconsin, 
+taking on the Wisconsin 
+Badgers. IPFW gave UW 
+all they could handle in 
+the first half, but Wiscon- 
+sin's size was too much to 
+overcome in the second 
+half, falling to the Bad- 
+
+
+
+gers, 83-55. 
+
+IPFW showed the sell- 
+out crowd of 17,901 at 
+the Kohl Center that they 
+were ready to battle their 
+Big Ten opponents from 
+the outset. 
+
+The Mastodons took 
+an early 12-6 lead just 
+five minutes in as senior 
+forward Jaraun Burrows 
+found a slashing senior 
+forward DeWitt Scott for 
+a lay-in. 
+
+IPFW increased the 
+lead to nine points on a 
+3-pointer by freshman 
+
+
+
+guard Ben Botts at the 
+8:35 mark- In fact Botts 
+drilled his first three 3- 
+points attempts and the 
+'Dons had Wisconsin in a 
+world of trouble. 
+
+On a Burrows' bucket 
+in the paint, IPFW took 
+its largest lead of the half 
+at 27-16 with 8:01 re- 
+maining. 
+
+But, the Badgers used 
+an 11-3 advantage in first 
+half fouis and a number 
+of trips to the charity 
+stripe to whittle the IPFW 
+lead to just two with 3:27 
+
+
+
+Colis^SkPark 
+
+
+Apt starting 
+
+@ $ 410 
+
+1,2,3BRs&amp; 
+Townhomes Available 
+
+New ownership with $2 
+million dollar renovation! 
+
+260-483-3196 
+
+1035RidgewoodDr. 
+Fort Wayne, IN 46805 
+
+
+• 24 hr Fitness Center 
+
+• 2 playgrounds &amp; 2 pools 
+
+• Wi-Fi clubhouse 
+
+• Student Discount 
+www.coliseumpark.com 
+
+www.CornerstoneManagedPfOperties.com 
+
+
+
+left in the period. 
+
+In fact, Wisconsin 
+went on a 20-5 run to re- 
+take the lead by six at the 
+break, 38-32. 
+
+Early in the second half, 
+Burrows used his speed 
+to beat the Badgers up 
+the floor on two succes- 
+sive possessions to draw 
+the 'Dons to within three 
+at 42-39, but that is when 
+Wisconsin's size became 
+a factor. 
+
+Senior forward Brian 
+Butch began throwing 
+his 6-11 frame around 
+and started to get his op- 
+portunities, and he made 
+the best of them. 
+
+Butch tipped in a shot 
+at the 15:08 mark that 
+pushed the Badger lead 
+to nine (48-39). 
+
+His jumper from about 
+15-feet pushed that edge 
+to 57-40, and a triple from 
+sophomore guard Trevon 
+Hughes gave the Badgers 
+a 21-point edge and end- 
+ed the 'Dons hopes of an 
+upset. 
+
+Hughes had a huge 
+night forWisconsin, scor- 
+inga game-high 25 points, 
+
+
+
+
+dishing 
+out five 
+
+assists. 
+
+Butch 
+regis- 
+tered a 
+double- 
+double 
+with 24 
+points 
+
+
+
+bounds. 
+The 
+Mast- 
+odons 
+were led 
+by Botts 
+with 14 points on 5-6 
+shooting. The freshman 
+was 4-5 from behind the 
+arc. 
+
+Burrows was the only 
+otherMastodon in double 
+figures with 12 points. 
+
+After starting the game 
+shooting around the 42% 
+mark, IPFW finished the 
+night at 34.5% (19-55). 
+
+
+
+Wisconsin picked up 
+their shooting in the sec- 
+ond half to finish at 49.2% 
+(32-65). 
+
+IPFW will return home 
+to host Valpariaso on 
+Thursday night in the 
+2007-08 home opener. 
+Game time is set for 7:00 
+p.m. 
+
+
+
+Tali Into 'Finals '07~ 
+
+
+
+Hosted By : IPFW Student Alumni Association (SAA) 
+•e End of the Semester with the SAA at" The First Ever End Of Semester 
+All Campus Bash In School History 
+
+
+
+Admittance : S6 for All Attendees 18 and up 
+
+When : 9p-2a - Friday November 30 1 ", 2007 
+
+Where : Quality Inn Ballroom 3330W. Coliseum Blvd. Just past 
+
+Goshen Rd on the right hand side 
+
+'Alcohol Service Approved For Those 2J. and Over 
+
+•Rooms Available wt Quality Inn a $S0 Discount for IPFW Students 
+
+Live Entertainment With : 
+
+DJ D-Will 
+
+Live Performances By : 
+
+The Freezing Scene 
+
+North River Agents 
+
+Shuttle service will be provided by: 
+
+
+
+-the 
+
+
+
+
+</pre>        </div>
+      </div>
+    

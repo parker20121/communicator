@@ -1,0 +1,3462 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1414indi/communicator1414indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1414indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1414indi">The Communicator</a>"
+          </h1>
+          <pre>The Communicator 
+
+
+
+December 2, 1982 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Volume XIV Issue 14 
+
+
+
+IPFW graduates face 
+less job opportunities 
+
+
+
+M CHAPMAN 
+
+lilaniglng Editor 
+Many IPFW seniors hoping to lind u 
+Job after graduation hove counted on 
+opportunists to talk to prospective 
+employers provided by the IPFW 
+Coreer Development and Placement 
+Service during the tall and spring 
+
+
+
+Thisycar. however, many companies 
+arc not sending recruiters ond some 
+have even declined to send alter being 
+scheduled, said Robert Bnrkhaus. 
+[PKW placement director. "We have 19 
+percent fewer companies recruiting 
+this tall." he said. 
+
+Recruiters from Fort Wayne 
+National Bank. Indiana and Michigan 
+Electric Company. Food Marketing 
+Corpora lion, the Kroger Company, and 
+CTS ot Berne were all scheduled to 
+
+
+
+condition of the 
+
+"If everyone is down nationally, ll'i 
+hard to gel companies to come here tti 
+recruit) since our loco lion is bard hit 
+
+
+
+"Companies have : 
+
+Although mor&lt; 
+
+declining to send n 
+
+asked IPFW lo s 
+
+though it cancelled 
+
+In order to maki 
+
+recruiters, Barkhai 
+
+
+
+ot IPFW. "I'm going to Toledo this 
+
+
+
+weeken 
+
+
+
+
+
+
+I traveling, Barkhai 
+promotes IPFW because he belli 
+companies will find IPFW slude: ' 
+be more experienced employees. 
+
+"Wc sell the fact lhal IPFW 
+degree programs and really 
+more of a variety tha 
+
+
+
+worked Iheir 
+
+
+
+celled U 
+"Thos 
+
+
+
+appoint 
+
+
+
+"Wc will schedule anyone within twn 
+weeks notice." Barfchaus said, 
+"Companies have lo call one year In 
+advance (if they want lo recruit! at 
+other universities." 
+
+Scheduling recruiters lo come during 
+the spring or fall semesters of 1983 will 
+require more than just a ' 
+
+
+
+
+campus, there are I 
+
+
+
+lack of recrulllng. 
+
+
+
+
+
+
+.irk hat 
+
+
+
+will be 
+
+
+
+"I think our 
+a more practical 
+a residential cam- 
+
+
+
+Moses meets with consortium reps 
+
+
+
+fcafcterla. (Photo by George W.B 
+
+
+
+Harvester plant in Fort Wayne is un- 
+derway. A meeting between Mayor 
+Winlield Moses and represent! 
+the educational co 
+
+
+
+
+i of the ci 
+
+
+
+orlium . 
+IPFW Chancellor Joseph ( 
+plained what the educali 
+sorlium is doing now. 
+
+An educational consortium 
+is being put, together lo provide in- 
+formation. We have contacted all 
+consortium representatives by leller, 
+
+
+
+provide. We v 
+everything e 
+provide, from 
+
+
+
+then 
+
+
+
+
+
+
+le befop 
+
+
+
+inc. all ol m 
+
+
+
+Too much sugar, salt eaten 
+
+
+
+Poor eating habits worsen health 
+
+
+
+ADWVER 
+EDITOR'S NOTE: Tali li (he tilth hi 
+a series exploring "Food and People." 
+In this article Johanna Dwyer. * 
+nuu-llloalil at the Tufts University 
+Medical School, dlscusies how wc can 
+eal more healthfully and enjoy II. This 
+•erle* w» wrlltt " 
+NEWSPAPER, 
+
+
+
+arly one-half the money v/i 
+
+
+
+n fat, 
+
+
+
+d salt. 
+
+
+
+progra 
+
+
+
+IMPROVING OUR HEALTH 
+
+Fortunately, we are In a position lo 
+improve our health without radically 
+changing our lifestyles. New findings 
+from a major study of h 
+
+
+
+end rather simple— and far 
+sal lonnJ— steps for improving 
+,lih They , call for gradual 
+rather than a headlong rush 
+lew way of eating, and they 
+ze enjoyment rather than a 
+of pleasure prohibition, 
+our principles of enjoyment, 
+balanceand moderation are all 
+really necessary for eating Ihe 
+
+
+
+c long prided them- 
+selves on their high standard of living. 
+Many nl us assume that our affluence 
+has brought us belter food and better 
+
+II therefore comes as a shock to 
+realize thai some other countries may 
+be enjoying beller hcallh than Vi 
+
+For example, despite recent ad- 
+vances in curative medicine. American 
+
+disease are still five times those 
+Japan, three limes those or Fran 
+twice those ot Italy, and a good deal 
+higher than rales In Denmark, Sweden, 
+Germany and Belgium. 
+
+Wc arc also falter than many ' 
+peers In other Industrialized countries, 
+ill life expectancy is lowei 
+
+
+
+i-Mtysh 
+
+
+
+t Stanford 
+
+
+
+
+
+
+I ..,ui..r 
+
+
+
+i, drink, smoke and exercise, 
+which arc very much in line wllh most 
+of the ways we like I o live, can reduce— 
+and are reducing— coronary artery 
+disease. 
+
+Those who have succumbed to 
+unhealthy eating habits are not 
+necessarily unwilling to change Iheir 
+diets. Rather, they find it difficult lo 
+choose wisely from our abundant food 
+supply. Our supermarkets, for In- 
+stance, contain many thousands of 
+items. Liltle wonder consumers are 
+confused! Furthermore, when they do 
+decide lo change (heir diets, they often 
+listen to the wrong advice. 
+
+Too often It Is lad diels. promoted by 
+extremists In the nutrition profession as 
+well as by self-styled experts, that 
+
+
+
+A VARIETY OF FOODS 
+
+Ealing a variety of foods 
+adequate supply of all the 
+nutrients. Each of the maji 
+groups is a particularly good si 
+
+groins, for instance, are goodsoi 
+starch, mcsl of Ihe B vilamlnsa 
+Frails, especially citrus [rails. 
+
+
+
+The ex pi; 
+in health docs not lie solely in our gi 
+Rather, the environment of abund. 
+In which we live losters habits thai do 
+violence to our health. Our American 
+way of life, wllh all lis advantages, also 
+provides us wilh maximum temp- 
+tations and low-cost opportunities to 
+cat, drink and smoke too much, while 
+we lead Increasingly sedentary lives. 
+
+Our lifestyles encourage us not only 
+to eal too much, but also lo eat Ihe 
+wrong kinds of foods for our health. For 
+example, we spend nearly one-fourth of 
+
+
+
+Bnplur 
+
+
+
+they are so outlandish and 
+
+such unnecessary sacrifices. 
+
+:-. play on the misconception 
+
+healthy diets, like strong 
+
+
+
+vegetables supply 
+■2. folic acid, Iron and 
+I-, starchy vegetables 
+
+
+
+vitamin D. Meal, poultry, fish 
+s provide protein, phosphorus. 
+B vitamins. Unless prescribed 
+oclor, vitamin and mineral 
+enls are unnecessary. 
+
+
+
+ir food d 
+
+
+
+
+
+
+a horn, 
+
+
+
+especially at fast- 
+
+
+
+successful. Most also cater to our 
+desires for quick fixes to long-term 
+
+In actuality, some fad diets arc 
+dangerous because they lack essential 
+vitamins, minerals, and other 
+nutrients, most don't work; and all arc 
+
+avoiding them. Moreover, fad diets fall 
+to change our long-term eating habits 
+for the belter. 
+
+
+
+BALANCE . 
+Balance is important to assure 
+
+adequate a maun Is of starch and fiber In 
+the diet- Whole grain breads and 
+cereals, vegetables and fruits are high 
+in one or bolh. of these constituents, and 
+many are also low In calories. 
+
+The proper balance of nutrients Is 
+also important for maintaining 
+desirable weight. Culling back on 
+calories from ihe energy-rich foods- 
+fats and oils, sugars and sweets, and 
+
+
+
+cational ci 
+on from 
+
+
+
+n is givi 
+
+
+
+institution can 
+i get a list of 
+istltution can 
+
+
+
+After all Ihe data is collected, a rough 
+draft ol Ihe document will be pul 
+together in correlation with the 
+mayor's office. All consortium mem- 
+bers are asked lo have Iheir data in by 
+Dec. 10. Rupright said once Ihe rough 
+draft is completed, it will be presented 
+for approval lo the members of the 
+consortium. 
+
+"At lhal time, Ihe document will be 
+finalized and presented lo ail referral 
+agencies in northeast Indiana who are 
+offering services to individuals. The 
+agencies, such as the High-Tech group 
+and CETA. can then use the document 
+t&gt; find Ihe 
+
+
+
+Recovery Task Force, 
+directed by the Mayor's office, 
+Rupright said The group is split up into 
+two tactions — the unemployment 
+group, and Ihe economic development 
+
+"The groups direct all Issues from a 
+needs point ol view. They look at what 
+is needed in training, hcallh care, 
+counseling, and olher personal needs. 
+When they identify the various Issues 
+addressed by Ihe educational com- 
+munity, then the consortium members 
+are ready to lake on these issues." 
+Rupright said, 
+
+Rupright and Giusti are involved in 
+bolh the consortium and the task force, 
+with Rupright being part of the 
+unemployment group and Giusti being 
+part of Ihe economic development 
+group. Rupright said the consortium 
+has already been helping people. 
+
+"It has already affected people 
+because for the first lime wc have all 
+been pulled together as a group. The 
+first step ol the consortium has been 
+taken. Bui Ihe document is by no means 
+the end of Ihe consortium. It is merely 
+the first project," Rupright said. 
+
+The next step in the consortium effort 
+will be taken alter the document is 
+finalized, although Rupright em- 
+phasized that Ihe consort' 
+valved in several ongoing 
+
+
+
+
+MODERATION 
+
+Moderation Insures against over- 
+consumption or any particular food 
+component. For mosl Americans, 
+particularly those who smoke or have 
+high blood pressure, cutting back on 
+[at. saturated fat. and cholesterol In- 
+takes Is sensible. This can be done in 
+pari by choosing lean meats and by 
+subs li luting lowfat or nonfat dairy 
+producls for Ihose rich in fals. Since 
+foods high in fat also lend lo be high in 
+calories, cutting back on Ihese roods 
+also helps to control weight. 
+
+Moderation of our use of sodium is 
+also important; salt has been linked 
+with high blood pressure, and most of 
+us consume Tar more lhanis necessary. 
+We should learn to enjoy the unsolled 
+flavors or food and to cat sparingly of 
+highly Salted snack foods as well as 
+pickled foods, cured meals and con- 
+Over half of the sodium we eat Is 
+"hidden" either as part of a naturally 
+occurring fnod or more often ns a 
+seasoning or preservative that has been 
+added. Reading labels on packaged 
+foods can help us lo avoid excessive 
+
+CopyrightclB&amp;byfhcRcgcoUoflhe 
+University ot California. 
+
+
+
+In brief 
+
+
+
+ByMICHAELHEHSHMAN 
+
+
+
+Surcharge considered 
+
+Those who thought they had paid all Iheir fees for next semester'! 
+may have been surprised to find a memo in their lee statements sugge 
+possibility of a surcharge, may or may not take comfort in Ihe fact It 
+college students in Indiana will be faced wilh the sameproblcm. 
+
+"The same message is being pul into the registration packets at Bloo 
+and West Lafayette," said John Carnaghi, IPFW vice chancellor Tor Financial 
+Affairs. 
+
+"We were told by (Furduel president Hicks al 9 a.m. Mondoy after he had 
+talked tollU) president Ryan that morning, and this islhefoslesl way wcco " 
+read," Carnaghi said 
+
+Though Ihe memo admits that "stole revenue has fallen far below 
+pectntions," Carnaghi expressed optimism about more funds coming through 
+during the legislature's special session, but pointed out lhal even 
+back could have large implications for Ihe campus. 
+
+"Even if Ihe slate only pulls back five percent, thai means J700.O0C . 
+
+"Much of the money we were lo receive from the slate Is already spoil. Wc 
+are loo kingal all the op lions, "Carnaghi said. 
+
+Carnaghi was hesilant lodiscuss what "olher options"might be 
+'largemighl not solve theproblem by ilself. 
+
+
+
+
+
+
+ther. 
+
+
+
+naghisa 
+
+
+
+
+
+
+ling with pi 
+
+
+
+New fields constructed 
+
+The IPFW baseball and soccer teams will be playing on new fields thissp: 
+[hanks to thecombined effortsof Ihe IPFW physical planl and local busincsj 
+
+Shnmbaugh and Sans, Swim Pools Incorporated and Ihe M.E.P. Corporation 
+■helped wilh the initial carthmoving. trenching and pipe laying said David 
+Skelton. IPFW AUiiellc Director. 
+
+Other companies helped by supplying material. Fencing was bought at Ai 
+who helped In the installation, concrete at Masolltc and Erie Haven, Skellon 
+
+"The effort of the campus personnel and Ihe community is great," said Don 
+Katter, Director of the physical plant. 
+
+Individual help in the eflort came from Ron Burns' block laying and John 
+Griffiths carpenlry, among others. Don Katter and Dick Durrin, ol the physical 
+plant, helped all Ihe way through, Skclton said. 
+
+"Now lhal we are gelling near the end of the project. Unas been enjoyable in 
+Icrmsotnllthccommunityandcampushelplhal has been offered. 
+
+A nice facility is going lo be available for our students The whole thing wou 
+nut have been possible, if not for Ihe volunteer help." skellon said. 
+
+Cost of Ihe project was about JSu.OOO, Katter said. 
+
+
+
+Flood valves installed 
+
+
+
+The valves will be opened to slop the lines from backing up any further. 
+Pumps will then be lowered into manholes lo pump water into open lines and 
+past those which are backed up, Ka Iter said. 
+
+"it should eliminate Ihe possibility of flooding happening again," Katter said. 
+
+The installation of the valves is part of the agreement by which Ihe campus is 
+able to receive federal funds for the repairs caused by the flood, said John 
+Carnaghi, vice chancellor for Financial Affairs. The federal governmi 
+wanted the university to buy flood insurance in addition to installing the val v 
+However, it was satisfied wlthjusl valves being installed, Carnaghi said. 
+
+In order to install the valves, physical plant workers will be digging three 
+manholes in Ihe lawn ol the west side of the Walt- Memorial Union, and a " 
+Ihewest mall area between the Helrake Library and thellnion, Katler said 
+
+The project began this week and should be completed within 90 days. Katler 
+
+
+
+'Fort' opening delayed 
+
+"The Fort' cafeteria, located on the ground floor of the Walb Memorial t 
+will not open Nov. 29, as previously announced, said James Ferguson, dii 
+
+I personnel and payroll. 
+
+Instead, the opening will be Monday, Dec. 6, Ferguson said. 
+
+"Inis will be a shakedown period to get students Into the new Fort or 
+_ieir input," he said. "'Inegrand opening. Including a ribbon-culling cerei 
+will beat the beginning ol the next semester, "Ferguson added. 
+
+
+
+
+
+
+PACES — THE COMMUNICATOR — DECEMBER2, 198Z 
+
+
+
+opinion 
+
+
+
+Ryan fighting for 
+no fee hike at IU 
+
+
+
+It should come as no surprise that 
+college students haven't had it easy. 
+Students here in Indiana arc no ex- 
+eeption.Thc stale budget is in a bind, and 
+the legislature can't fund slate in- 
+stitutions as much as it used to, so 
+students make up tor the lack of funds by 
+paying higher student fees. 
+
+IPFW students have been faced with a 
+i- : 525 Increase per three-credit hour class 
+' the last two years, and could p— :l - 
+
+
+
+;aid during his 
+
+
+
+fact 
+
+
+
+i fee 
+
+
+
+fall i 
+
+
+
+Purdue, West Lafayette, our fiscal 
+agent, has projected a six percent fee 
+increase for Its students based on the 
+expected rate of inflation, 
+
+Both IU Bloomington and Purdue 
+approve IPFVs budget, and since 
+Purdue has projected a fee increase, 
+whether or not IPFW students will face 
+one depends on what III decides to do 
+
+So far, IU students have one friend 
+who is willing to slick up for them. 
+During his state of university address 
+last September. IU president John Ryan 
+and the IU trustees submitted a (395.5 
+million budget request from (he 
+legislature that allows for six percent 
+inflation and no rise In tuition for two 
+years. "Students and their families 
+already have been asked to pay more 
+than their fair share of the rising cost of 
+
+
+
+education," Ryan 
+
+Since the overall state of the economy 
+is not good, Ryan's and the trustees' 
+request may seem illogical, but ! 
+has to draw the line somewhere, and 
+Ryan is willing to do so. The future of 
+(his country lies in well-educated men 
+and women, and a university helps give 
+people experiences to think intelligently, 
+whether they are full-time degree 
+candidates or just come (o campus to 
+attend the theatre. 
+
+Ryan's request has been criticized by 
+the Higher Education Commission who 
+claims that he is limiting students' 
+educations because the stale cannot 
+make up for the lack of funds caused by 
+
+suggested IU raise its student fees 9.3 
+percent for 1983-84 and 5.S percent for 
+'84-85. Through it all, Ryan has stuck to 
+his guns. 
+
+Whether or not (he overall state of the 
+economy worsens, one thing must be 
+made clear — higher education must be 
+a high priority among budgetary con- 
+cerns when the state legislature decides 
+how much to fund (hem. Ryan is fighting 
+for this goal. 
+
+If the HEC wants IU to raise student 
+fees 9.3 percent next year, it is limiting 
+students' education, not John Ryan. 
+
+
+
+
+gJE_ 
+
+
+
+ITSHERE! rrSNEW! 
+
+
+
+UNBELIEVABLE 
+BUT TRUE! 
+
+
+
+
+A NTW CONCEPT IN 
+TWOOFOUBGLEMBY 
+SALONS-DOWNTOWN 
+AND SOUTHTOWN ONLY 
+
+
+
+Super salon services at super saving prices— 
+
+I PRECISION HAIRCUT '6 
+
+SHAMPOO/CONDITION/FINISH '6 
+
+_ ' PERM (wilh eilher or both ol above) .... '6 
+f^, No appoint menls. 
+
+No specials... everyday low prices 
+IN OUR HAIR &amp; BEAUTY SALONS jj-v^UA* 
+
+
+
+Reader finds exception 
+
+
+
+
+To the editor. 
+
+
+
+
+Everyone has the right to 
+
+
+feclive leaching, research 
+
+
+
+
+
+
+Uic opinions we voice should 
+
+
+
+
+
+
+
+
+me thai Uic opinion ex- 
+
+
+
+
+
+
+three spec i tic goals wilh 
+
+
+
+
+
+
+(he react red lu&gt; 11 on of the 
+
+
+Only is percent of the 
+
+
+Division of Business and 
+
+
+
+
+
+
+departments in Ihe United 
+
+
+
+
+
+
+nol based upon the facts. 
+
+
+AACSB This accreditation 
+
+
+First, 1 know of no faculty 
+
+
+
+
+
+
+
+
+Business and Economics 
+
+
+students and qualified 
+
+
+
+
+faculty. It also assists their 
+
+
+Ihe purpose of working lo 
+
+
+graduates lo be accepted In 
+
+
+
+
+graduate-degree programs 
+
+
+
+
+
+
+has always enforced 
+
+
+throughout the country. The 
+
+
+prerequisites for its courses. 
+
+
+attempt of the Division of 
+
+
+Currently, it is simply 
+
+
+
+
+reinforcing its efforts in that 
+
+
+
+
+regard. Third, the -Division 
+
+
+AACSB reaffirms the intenl 
+
+
+
+r lei 
+
+
+
+r, there a 
+
+
+
+Economics which have only 
+E201 and E202 as 
+prerequisites . Fourth, the 
+Division Is nol pursuing the 
+goal ol reaccreditalion lo Ihe 
+
+
+
+IheDiv 
+students with a program of 
+[he highest quality. 
+
+Dr. Donna M. BialiX 
+
+Assistant Professor 
+
+of Economics 
+
+Division of 
+
+Business &amp; Economics 
+
+IPFW 
+
+
+
+Now.. .get this Apple II 
+Holiday Package for only M995 
+at The Data Base. You save 
+over *600 on our regular price 
+for this full computer system 
+
+
+
+Apple Writer word 
+processing software 
+package " 
+
+
+
+
+Plus. ..special 
+month extended 
+ice warranty., an 
+e*lra year absolutely Iree! 
+
+
+
+The Data Base 
+
+Norlh Anihony Shoppin g Clr ■ Mon Ihru Sal 10- 6 * Fri till 6 ■ 484-3 164 
+
+^fcippkz computer 
+
+W- Auinorized Dealer 
+
+
+
+CHRISTMAS BOOK SALE 
+
+
+
+TRilibl? 
+
+
+
+
+
+.., TAYLOR 
+
+
+
+ANSWER 
+
+ASA1WN 
+
+
+
+
+OVER 500 TITLES INCLUDING A LARGE SELECTION OF CHILDREN'S BOOKS TO CHOOSE FROM 
+
+Err follett's fort wayne bookstore — 
+
+
+
+Reader says Africa slighted 
+
+To the editor: ATcica i» not worthy of 
+
+w ° , .!! , mentioning, how about those 
+
+organizers of the In- _ t . ,,.,•„ „„,„ h „„, 
+
+lernatlonal Festival t 
+this campus on Nov 
+
+IMO. M. I ita. i"«» Algeris , and Gabon - ar 
+extend my gratitude to Arts roembers ][ ipfw doera 
+and Letters for such . nrofeisor (rot 
+
+Initiative It b «nethUH "rica on itoXpuTl 
+that I had wanted to happen M /Mem 5tuoenl " a her 
+earlier than noitv ... pay their tuition and Ih 
+However, my hunch about !„,.,..„„ „ r ._&lt;. (— ii v , 
+this festival is that the p ™ 
+organ iters either by design 
+or omission excluded the . 
+whole continent nf Africa: 
+Europe, Asia and Latin 
+America were mentioned on 
+the publicised list The irony 
+of the whole Issue wns that a 
+professor In Philosophy 
+Department whose native 
+counlry Is America, was 
+asked to collect exhibits 
+
+
+
+be ne fil directly or Indirectly. 
+
+What is the cause of the 
+
+cold altitude toward Africa 
+
+by Arts and 
+
+
+
+Letter 
+
+
+
+
+
+
+represented 
+
+
+
+ontlnent. If 
+
+
+
+geography and history or 
+norrowmindedneaa of the 
+
+Arts and Letters directly'? 
+The public needs to know. 
+CUffOirdO. 
+DicJIeto-A 
+
+
+
+Interested parties sought 
+
+
+
+tldpatlflg In this project, should contact Ken SchenV or Jay 
+Wolfe In the Students' Government office, Rm. 225 of the 
+Wain Memorial Union. 
+
+SG seats still available 
+
+There arc still a couple ol Student Senate cents and 
+positions lor SUBOG Executive Assistants slill open II in- 
+terested please contact Ken Scherut in Rm 325B ol the 
+Sludent Union Bldg., before tbeend of the semester 
+
+Advent service sponsored 
+
+
+
+Language tests given 
+
+The department or modern foreign languages will be 
+administering placement tests in French. German and 
+Spanish Jan 3 at 9:30 am. For more information, contact 
+the department in room 267 of Ihe Classroom and Medical 
+Building 
+
+Teacher applicants sought 
+
+The Foreign &amp; Domestic Teachers Organisation is looking 
+for applicant.-. IimcIijui: kirnknvirk'n through college lo fill 
+over five hundred teaching vacancies in the U S and abroad 
+
+More information is available from the Portland, Oregon 
+Better Business Bureau or Ihe National Teacher's 
+Placement Agency. Universal Teachers. Box 5331. Portland, 
+Oregon M208 
+
+'Friends' sell ornaments 
+
+The University Friends of Animals will sell Christmas 
+ornaments and calendars in the basement of Kettler Hall 
+Dec. 3 at 11 am Proceeds from Ihe sale will go toward 
+animal-related projccls in the community. 
+
+
+
+-CLIP-N-SAVE- 
+
+
+
+TYPING 
+
+E -i t\Q? OFF 
+
+h III yh wl,hThis 
+
+-ft. \J S\J Coupon 
+
+i Call Cheryl At 456-1472 
+
+1 Call Ahead For Reservation 
+
+I CLIP-N-SAVE 
+
+
+
+urtyoaww 
+
+
+
+dedde. 
+
+
+
+Take the r p1 q 
+Pepsi *f* 
+Challenge 1 - 
+
+
+
+W$&amp; 
+
+
+
+( 
+
+
+
+* TRY DUR CARRY -OUT 
+
+
+
+Dancing Dally 
+
+
+
+~f-club 
+
+
+
+WORLD FAMOUS 
+
+
+
+"(frfKey't 'P«&amp;" 
+
+
+
+zssis.-Tv'rHZ 
+
+
+
+936 e^tiitum ®W. TUxd 
+
+
+
+K-mart Plaia Eest 
+
+
+
+'hur. 8-10 Mid.-l 
+Munchies Anytime 
+
+
+
+
+Rock 'n Roll 
+with class 
+
+505 E. Coliseum Blvd. 
+
+XKE 
+
+
+
+SATISFYING TO THE PERSON YOU WANT 
+
+TO ATTRACT. 
+
+TRY US... WE CARE ABOUT HOW YOU 
+
+LOOK. AND IF FOR ANY REASON YOU ARE 
+
+NOT TOTALLY SATISFIED WE WILL PAY 
+
+FOR YOUR NEXT HAIR DESIGN AT ANY 
+
+SALON OF YOUR CHOICE. 
+
+SATISFACTION GUARANTEED. 
+
+
+
+NORTH 
+
+483-4463 
+
+5316Colrtwater 
+
+Rd. Just North 01 
+
+Glenbrook. 
+
+
+
+iroffiER 
+
+FAMILY HAIR CENTER 
+
+
+
+K 
+
+
+
+SOUTH 
+745-0531 
+
+3409,Wayne Trace 
+At Hessen 
+Cessel Rd. 
+
+n. -4 p.m. Sat 
+
+
+
+"For Hair That Gets Noticed" 
+
+
+
+Dec. 1-Dec. 4 
+
+■:.:■■:.&gt;,-, Wed. Night Til Midnight, All The Beer 
+&amp; Well Drinks You Can Drink For $5. 
+Dress Code Please. You Must Be 21, 
+
+
+
+ATTENTION 
+I PFW STUDENTS 
+
+
+
+•CABLE TV 
+
+*LAUNDRY IN EACH BUILDING 
+•CLUBHOUSE AND SWIMMING POOL 
+•CENTRAL HEAT AND AIR CONDITIONING 
+•SPECIAL LEASING TERMS AVAILABLE 
+
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+Appletree Apartments 
+
+6500 St. Joe Road ».»,■* toL^wATko-W frfd?] 
+
+485-7529 L™jj 
+
+
+
+pcampus— 
+calendar 
+
+
+
+THURSDAY 2 
+
+Early Registration for spring semester 
+Nacho Sale, Kettler Basement, from 10:30 a.m. 
+'Dickens Dinner, Walb ballroom, 7 p.m. 
+'PIT, Rosencrantz &amp; Guildenslern Are Dead, 8 p.m., call 
+482-57B2 for reservations 
+
+FRIDAY 3 
+
+'Dickens Dinner, Walb ballroom, 7 p.m. 
+
+•PIT, Rosencrantz &amp; Guildenslern Are Dead, 8 p.m. 
+
+Men's and women's basketball Sertoma City Tourna- 
+ment. Multipurpose gym, women play at 3 and 5 
+p.m., men at 7 and 9 p.m. 
+
+SATURDAY 4 
+
+'Breakfast with Santa, Walb ballroom. 10 a.m. 
+
+'Chancellor's Evening with Alumni and Friends, Walb 
+ballroom, 7 p.m. 
+
+'PIT. Rosencrantz &amp; Guildenslern Are Dead. 8 p.m. 
+
+Men's and women's basketball Sertoma City Tourna- 
+ment, Multi purpose gym. women play at 1 and 6 
+p.m., men at 3 and U p.m. 
+
+SUNDAY 5 
+
+University Symphonic Band, Neff Recital Hall, 3 p.m. 
+
+SUBOG Holiday Dinner Dance, Holiday Inn downtown, 
+B:3D p.m., tickets at Sweet Shoppe. ACH £6, 
+public, S10. tickets at doer for dance only 
+
+'University Jazz Ensemble, Neff Recital Hall. 8 p.m. 
+
+PIT auditions for Clarence Darrow, 7 p.m. in theatre 
+
+"denotes charge 
+
+
+
+MONDAY 6 
+
+Debate on Decency, T. Blee, citizens for decency, 
+
+Walb 924, 10-11 a.m. 
+Faculty Senate. KG46. noon 
+Friends of Animals, Walb 112, noon 
+Infancy Narrative Seminar, Walb 224, noon 
+'University Community Orchestra, Neff Recital Hall, 
+
+8 p.m. 
+Men's basketball, St. Joseph's College at IPFW. 7:30 
+
+p.m. 
+PIT auditions for Clarence Darrow, 7 p.m. in Uheatre 
+
+TUESDAY 7 
+
+Advent worship service, Walb 224, 12:15 p.m. 
+Placement tests, Walb ballroom, 5:30 p.m. 
+Women's basketball, Marian College at IPFW, 6 p.m. 
+Concert of black gospel music, "The United Voices 
+
+of True Love" Neff Recital Hall, B p.m. 
+PIT auditions for Clarence Darrow, 7 p.m. in theatre 
+
+WEDNESDAY 8 
+
+Inter-Varsity Christian Fellowship, KG46, noon 
+
+Clergy/Faculty Forum, Signs; Analogic Learning in Ihe 
+
+Humanities, Walb 224, noon 
+CSSAC meeting. Kettler 108B, 1:30 p.m. 
+One-act play and panel discussion, PIT, 1 :30 p.m. 
+
+THURSDAY 9 
+
+Uterature for Lunch. Walb 222, noon 
+
+'PIT, Rosencrantz &amp; Guildenslern Are Dead. 8 p.m. 
+
+
+
+ANNUAL FACULTY ART EXHIBIT 
+
+until December 30 i 
+
+Sixty Years in One Location, Department of Fine Arts, 
+1026 West Berry Street 
+
+COMING EVENTS 
+
+December 
+
+1 Debate on Decency, D. Kroontz, citizens for free choice, Walb 224 
+10,1 1 "PIT, Rosencrantz &amp; Guildenstern Are Dead, B p.m. 
+
+1 2 Denial Capping, Neff Recital Hall, 2 p.m. 
+
+11-17 Final examinations and last week of classes 
+
+
+
+MM 
+17 
+
+
+
+Nursing Pinning, Walb ballroom. 7 p.m. 
+Suzuki Concert, Neff Recital Hall, 7 p.m. 
+
+
+
+Campy i Calendar li a porno rod by Indiana -Purdue Unrvor-sny 01 Fort Wayna tor the uaa □( all umvn. 
+aity dapartmanlaandorganlxackifta. Itamato ba Included in Cam pua Calendar must ba aubtnrttad to 
+tha OHfca of Univartlty n nations, Kattlar 1 11 by B pjn. on tha Thursday preceding tha weak of 
+
+
+
+PAGE* — THE COMMUNICATOR — DECEMBER!, 1 
+
+
+
+arts 
+
+
+
+•Rosencrantz and Guildenstern' troublesome 
+
+PIT comedy intriguing 
+
+
+
+By CHERYL MYERS 
+SUN Writer 
+
+I am not exactly Hire what 
+"Bmenctanli and 
+Gulldciutem Arc Dead" is 
+It [9 purported to be a ploy, 
+but II functions on several 
+levels, sometimei to the 
+confusion of the audience. K 
+
+logic and syllogism, a satire 
+of philosophy (and 
+philosophers), a clever 
+comedy and a display of 
+Abbot and Coslello slapstick. 
+It li also partly Shakcspear's 
+"Hamlet." 
+Tlie premise of this play is 
+
+Gulldenslern. two old friends 
+of Hamlet's, are asked by (he 
+Danish king to find oul what 
+
+
+
+powerful through tbc eyes of 
+Iwo unwilling and unlm- 
+porlonl participants The 
+play revolves around their 
+actions as they attempt to be 
+significant in the midsl of 
+Indifference. They ore 
+
+
+
+become the characters they 
+portrayed. But I never did 
+figure out who was Rosen- 
+
+Cuildenslcm. 
+. Scott Aurand as Hamlet 
+was brash and loud, spoiled 
+and nasty, as well he ought to 
+have been. Unlike 
+
+Shakcspear's Hamlet. 
+
+
+
+In this respect, I 
+
+- ought-i 
+
+
+
+1 this play's 
+
+
+
+lo be having a great time and 
+revelled in the absurdity of 
+
+Larry Hunter is Gaudius 
+was occasionally clumsy 
+with his lines and seemed 
+
+
+
+distinguish. Gwen Auld's 
+Ophelia was properly wide- 
+eyed and wounded looking. 
+
+
+
+and death. His ideas ore 
+bandied about and woven 
+in(o the dialogue most ex- 
+pertly, sometimes to prove a 
+paint, some limes lo reveal 
+an absurdity. From a 
+psychological viewpoint, R &amp; 
+G dealt with defense 
+mechanisms and a striving 
+for meaning in meaningless 
+situations. It destroyed the 
+
+and personal invulnerability 
+So this Is a multi- 
+disciplinary play, and It 
+changes levels often. There 
+
+
+
+satisfying. 
+However, this production 
+
+always run smoothly. Jef- 
+frey Huberman, the director 
+of this play, chose over- 
+statement almost uniformly 
+which was perhaps a 
+mlsLake. In some scenes, 
+subtlety may well have 
+gotten the point across more 
+effectively, especially in the 
+early scenes with R &amp; G. 
+which were mired down in 
+over dram a tiia lion . 
+
+
+
+
+'Sing-along' a musical potpourri 
+
+Mitch a success 
+
+
+
+HANN 
+MelNERNEY 
+Staff Writer 
+
+Pop classics and classic 
+pops were the order of Ibe 
+
+Mitch Miller appeared at the 
+
+Wayne Philharmonic. An 
+appreciative, neor-capoclty 
+audience enjoyed familiar 
+Uts from the classics, a 
+nostalgic medley of Harry 
+Warren tunes and. of course, 
+a lively "sing-along." 
+
+The concert opened with 
+(he fast-paced overture lo 
+
+Ludmillfl " More familiar to 
+
+
+
+[alter half ol (he program os 
+much as the audience did. 
+As Miller remarked, these 
+were the "songs thai hove 
+risen ta the lop like rich 
+cream." Harry Warren 
+songs like " I Only Have Eyes 
+for You." "September In the 
+Rain" and "Forty .Second 
+
+The Harry Warren medley 
+also included "Shuffle Off to 
+Buffalo." featuring a real 
+"train" bell iwllh Mitch 
+
+
+
+speech and thought. 
+
+
+
+1 Guildenstern Are Dead". James Hodgln (Rosen 
+mti) and Ron Ballnger (GulldenEtem). (Photo cour 
+y of Purdue-Indiana Thealre). 
+
+
+
+Ihelr lives and Influc 
+events around then 
+
+polence again and again. 
+
+The aclors portraying R &amp; 
+G were James Hudgin and 
+Ron Bolinger. They both 
+managed their ports well. 
+
+
+
+proflgurement in the play. 
+Played excellenlly by Dana 
+N. Chnrelte. his grace and 
+darling eyes did justice lo 
+
+
+
+New Mitchell album 
+reflects singer's life 
+
+
+
+"Cavalleria Ruslicano" and 
+the farandole from Biiet's 
+"L'Arleslenne." 
+
+"This Is the kind of music 
+you've heard many times 
+and didn't even know it was 
+, classical music." Miller told 
+the audience. 
+
+True, but you might hove 
+
+
+
+Guild ens lern Arc Dead" was 
+written by Tom Sloppord 
+and was a Tony Award 
+
+originally produced. The 
+dialogue is brilliant and 
+moves at an extremely fast 
+pace The comedy is of many 
+types, from sex jokes ta 
+satire to bumbling 
+
+
+
+By TODD HARROLD 
+
+Staff writer 
+Joni Mitchell is one of the 
+few recording artists today 
+whose songs really reflect 
+her life. Every word she 
+wriles. She is feeling at [hot 
+
+furlher than that; in 1974, 
+she fell in love with a jnzi- 
+pop drummer. John Guorln. 
+Thus came two Jan-pop 
+albums, "Court and Spark," 
+and "The Hissing of Summer 
+
+
+
+H37S, 
+
+
+
+lelook 
+
+
+
+edge and hod taken the Jan 
+idea a bit too far far her own 
+good. It was the only of the 
+aforementioned albums that 
+was not. at the least very 
+good. So she bounced back 
+with a brilliant live LP. 
+"Shadows and Light," that 
+covered the enlire six year 
+period, and then got back to 
+her life, for out of. her life 
+
+On her long overdue new 
+album, "Wild Things Run 
+Fast," Joni looks at her life 
+
+
+
+The album opens 1 
+
+
+
+"Chinese Cafe." 
+
+
+
+I ode 1 
+
+
+
+doys. and the 
+only "down" song on the 
+album. From there on it's 
+almost exclusively positive 
+messages of love ranging 
+from Steely Dan-Esque. R i 
+
+
+
+Drummer Vinnle Dolaiupta, 
+formerly with Gino Canellt 
+and Frank Zapta, and 
+■y Ihe b 
+
+
+
+lies and' (he 
+nee by the 
+
+
+
+traction, the orchestra 
+played an easy swing version 
+of "Twelfth Streel Rag," 
+featuring clarinet solo and 
+duel, muted trumpet irioand 
+
+Then — "Has everybody 
+gat their hymn-books?" It 
+was time (0 pull out our song 
+sheets and sing along with 
+Mitch. "Baby Face," "Bye, 
+Bye, Blackbird." "Pack Up 
+Your Troubles." "When the 
+Saints Go Marching In": all 
+the old favorites. And the 
+orchestra seemed to enjoy 
+playing these songs os much 
+as we enjoyed singing (hem. 
+On "Havn Noglla." for in- 
+stance, Ihree percussionists 
+were having a wonderful 
+lime playing ' tambourine. 
+And everyone bounced 
+through "Has Anybody Seen 
+My Gal"" 
+
+
+
+right 1 
+
+
+
+. Tolo's 
+
+
+
+1977's "Don Juan's Reckless 
+Daughter," and 1979 's 
+"Mingus" sounded like? 
+After "Mingus," she 
+
+
+
+Things." is Joni's mosl 
+positive, and like "Shadows 
+and Light," It seems lo 
+encompass the sound she 
+came up wilh during the 70s. 
+Thus, in the 80s, she now has 
+
+
+
+for every year, bul none that 
+will really offend, though the 
+
+tempted rock before. But she 
+pulls it off amaiingly well. 
+
+Bul this is by no means a 
+rock album. The musicians 
+on hand come everywhere: 
+There's an excellent new 
+bassist, Larry Klein, who 
+gives the music a jaiiy, 
+progressive rock edge: 
+
+
+
+Steve Lukother on guilar 
+add a rock and roll edge; 
+Lional Rickie and James 
+Taylor help out on vocal; an 
+old friend like guitarist 
+Larry Carlton, who's ployed 
+an most of her albums, 
+Wei 
+
+
+
+Mill- 
+
+
+
+The* 
+
+
+
+1, the &lt; 
+
+
+
+1 the 
+
+
+
+eclton to 
+
+
+
+rousing finish of 
+
+Tchaikovsky's "Symphony 
+No. '(Finale)." 
+
+We agree. Not only did the 
+Philharmonic show these 
+classics to best advantage, 
+but they seemed to enjoy the 
+
+
+
+presenL It really seemed 
+that "Good Night. 
+
+
+
+saxophonist Way 
+
+
+
+It's greol that Jont enjoys 
+life these days. This way. her 
+listeners con enjoy beautiful 
+
+
+
+Looking for a masterpiece from Billy Joel? 
+'Nylon Curtain* was meant to be, but isn't 
+
+
+
+ly TODD HARROLD 
+
+SUH Writer 
+e ol Ihese days. Billy 
+is going lo quit playing 
+
+
+
+The most important and 
+leflnllely the best thing 
+iboul "The Nylon Curtain" 
+
+
+
+,e lyrics. Joel, who was 
+tys a good lyricist 
+re, has become nolhlng 
+t of brilliant In (his 
+irtment. He has taken 
+role of the angry young 
+
+lemma. Whether ns (he 
+if-work factory worker 
+Mlenlawn," the Vietnam 
+in "Goodnight Saigon," 
+
+
+
+"The Nylon Curtain" 
+
+
+
+obviously meant to be 
+masterpiece. Billy Joel's 
+slice of America. On (he first 
+side, it seems that he Just 
+ight achieve it with this 
+
+
+
+
+
+
+a dying 
+
+
+
+probably the best song ever 
+
+powerful piece of music In 
+the tradition of Joel's early 
+efforts, like "Captain Jack" 
+and "Scenes from an Italian 
+Restaurant," are brilliant 
+and could only be Billy Joel. 
+"Pressure," the single, is 
+
+
+
+because, (hough it's more 
+Ihsn a little obnoxious, it is 
+one of the fines! oul and out 
+rock 'n roll songs Joel has 
+
+you get past these cuts, 
+
+"Gloss Houses," Joel's 
+last album, we gol to hear 
+him do Impressions of Elvis 
+Coslello. Mick Jogger, and 
+Paul McCartney, among 
+others. And, as could be 
+expected, he sounded like 
+everybody else — except 
+BillyJoel. This time he's 
+narrowed il down lo Just one 
+
+
+
+great, and for awhile it's fun 
+to hear Billy Iry (0 sound like 
+Lennoa or McCartney, or 
+David Brawn imitate George 
+Harrison's guilar sol 00. or 
+Liberty DcVito try lo sound 
+like Ringo, but every song? 
+Is this called "The Nylon- 
+Curtaln" or "Son of Sgl. 
+
+
+
+albums for them is 
+overdoing it. 
+
+The listener can gel 
+the obvious "Laura" or 
+bridge ol "Pressure," 
+
+
+
+wouldn't surprise meal 
+
+
+
+er than "Glass 
+
+al. now that John 
+dead and there 
+
+Billy Joel is 
+
+
+
+Lenno 
+
+
+
+■'t going 
+
+
+
+Sure. The Beatles were ridiculous lo the point where 
+
+
+
+Beatie 
+
+doing their next 
+them. But if he's busy doing 
+their albums, who's doing 
+Ihe next Billy Joel album? 
+
+
+
+arts 
+at a 
+
+On the silver screen 
+
+The Cinema Center will present Iwo films; "The Damned" 
+on Sat., Dec. \. a powerful film aboul Hitler's struggle for 
+power and "Smiles Df a Summer Night." an elegy to 
+transient love, on Thursday, Dec. 9 and Saturday. Dec II at 
+the Fort Wayne Public Library. Both movies start al 7:30 
+p.m. 
+
+Treading the boards 
+
+The Purdue-Indiana Theatre will continue Ihe production 
+: "Rosencrantz and Gulldenslem Are Dead" Ihrough Sot., 
+ec. 11. All performances are scheduled for B p.m. 
+The Fort Wayne Dance Collective Touring Compan 
+resent their third annual winter concert on Sat., Dec. 
+m. and Sun., Dec. 5 at 2 p.m. al Ihe Education Center 
+Auditorium. 
+
+"Sister Mary Ignatius Explains It All For You." a 
+trovcrsial play. A program dealing with Catholic altitudes. 
+Including a conlroversial play by an IPFW acting class will 
+be presented on Wed . Dec. Bat 1:30 p.m. in the PITondon 
+Thurs., Dec. 9 ol 7:30 p.m. at St. Francis College In 
+lecture hall of Achalz. Admission Is free. 
+
+"Babes In Arms," a musical comedy will continue through 
+Sal., Dec. Hal the Arena Dinner Theatre. 
+
+Concerts of note 
+
+: annual Dickens Dinner will be presented on 11 
+
+2 and will continue through Sal., Dec. * In the Walb 
+
+orial Union Ballroom. A limited number of tickets ore 
+
+
+
+&lt;Summerfields 
+
+SHOWTIME with the RICK MAURO SHOW 
+
+Shows al s p.m. &amp; 10 p.m.; Dancing al 9, 11, &amp; 12; Nov. 30-Dec. 11 
+
+Amphlgos-Dec. 14-23; Desyre-Dec. 27-Jan. IS 
+
+Plus HAPPY HOUR Mon. - Sal. 4-8 p.m.; 2 for 1 Drinks 
+
+
+
+Free Hors d' Oeuvrcs S-T p.n 
+
+
+
+
+A LOUNGE bfSQgvfottXJR W3TE 
+
+Ask About Ramada's New Years Weekend Package 
+
+RAMADAINN 
+
+1-69 at SI. Rd. 14 - 432-0511 
+
+
+
+»4y^ 
+
+
+
+t 
+
+
+
+20% 
+
+
+
+25% 
+
+
+
+off 
+
+
+
+0UB COMPLETE 
+
+SELECTION OF 
+
+SEIKO, CITIZEN, 
+
+BUL0VA &amp; 
+
+PULSAR 
+
+WATCHES 
+
+2 Yr. Warranty, Free Battery Replacement 
+
+For Lite 01 Watch. 
+
+14 KT. CHAIN. 
+
+QUALITY CHAIN 
+
+I off WITH UNIQUE 
+
+OUR COMPLETE &amp; TRADITIONAL 
+
+SELECTION OF STYLES. 
+
+Compare with others. 40 &amp; 50% OFF. 
+
+You may be surprised! 
+
+Keepsake* 
+
+Your Locally 
+Owned &amp; Operated 
+Jewelry Store 
+DIAMONO CENTER 447-3706 
+
+In Southtown Mall near L.S. Ayres. 
+
+
+
+
+
+Electric Circus 
+
+Is Coming North 
+
+For You 
+
+
+
+Win a Video Game or Party 
+
+Regliterfor free drawing. No purchase necessary. 
+
+Win T-Shirts &amp; Other Prizes 
+
+
+
+Play the 
+
+newest games , . . 
+Joust, Subroc 3-D, Donkey 
+Kong Jr, Jungle King, 
+Moon Patrol &amp; Mm 
+
+
+
+All prizes and 
+drawings at South- 
+gate also. 
+
+
+
+
+3816 E. Stale 
+
+
+
+222Southgate 
+
+
+
+DECEMBEH J, 1932 - THE COMMUNICATOR — PAGES 
+
+
+
+Controversial 'Sister Mary' 
+elicits strong emotions, reactions 
+
+
+
+By CHER VL MYERS 
+
+St* ft Writer 
+
+An uncomfortable play Is 
+
+being used by Larry Life, 
+
+assistant professor of 
+
+
+
+valuable. It ilimulfllea o 
+thinking and coi 
+munlcalion. I would love 
+produce the piny for i 
+public, but w 
+
+
+
+Tm Getting My Act Together' successful for Stevens 
+
+Embassy musical comedy a hit 
+
+
+
+and border-line ByKATHYJ. KELLY 
+
+
+
+: Ice 
+
+
+
+rights 
+
+
+
+for 
+
+
+
+bla performances. I 
+
+
+
+Jtlhli H 
+
+
+
+■pringboard for 
+
+clergy, and to work through 
+some ol his ambiguous 
+feelings about both I 
+
+
+
+cillien* 
+h'otiid see, not Jusl 
+le clergy. - ' 
+Acting HI 
+preparing the play 
+
+
+
+
+
+
+
+
+
+with 
+
+
+
+ihn- 
+
+
+
+Catholicism. 
+
+The play It entitled "Siller 
+Mary Ignatius Explains It 
+All For You," and has 
+elicited emoUonal reactions 
+whenever it has been per 
+lormed. The play's author, 
+Christopher Durang. has 
+been touted by Ihe "New 
+Republic" as a "... 
+singularly courageous 
+satirist, whose pen is dipped 
+in venom and bile, and also 
+in the blood of his own 
+persona! wounds ..." But he 
+hos been condemned by 
+Archbishop John L. May for 
+writing a ploy he called a 
+"vile diatribe against 
+everything Catholic." 
+
+"The play is dtslurbing," 
+Life said, "because It raises 
+questions aboul our very 
+* *s. This quality is 
+
+
+
+l PIT fi 
+
+
+
+community and one at 51. 
+Frnnels College. 
+
+The play is part of a 
+program, entitled "En- 
+during Values In a Changing 
+World," which Includes a 
+panel of area clergy and 
+educators, co-sponsored by 
+the Campus Ministry at 
+IPFW The panelists Include 
+St. Judith Ann Schnffer, the 
+undergraduate dean at Saint 
+
+
+
+perlence that extends 
+
+beyond matters of 
+
+Catholicism," Zahrt said. 
+
+"I saw Ihe play In Chicago 
+
+Catholic theologian, and his 
+statement was 'Every priest 
+and minister should sec this 
+ploy.' 1 agree," Zahrl said. 
+"You see, (here is nothing in 
+■his play that cannot be dealt 
+with in dialogue. So ihls is 
+not so much a theater 
+
+workshop. It Is not open In 
+any sense to the general 
+public and it is completely 
+
+
+
+schiiophre 
+
+explore Ihe dangers of 
+authoritarian systems left 
+unchecked, the misuse of 
+religion, and the paradox ol 
+power The play is nervously 
+
+
+
+"I was Mary Jean 
+Mnhoney &lt;an over-achieving 
+Nellie Olson-type in the play) 
+1 1 was in grade school," 
+
+
+
+Collei 
+
+
+
+Rev. 
+
+
+
+
+
+
+i ploy i 
+
+
+
+Richard Frailer. 
+pastor at Trinity English 
+Lutheran Church, FT. Robert 
+Zahrt. Campus Ministry, 
+Larry Life. Rev. Margaret 
+McCray -Wot rail. Campus 
+
+"I think It is important to 
+have both the play and Ihe 
+
+
+
+The play deals with a nun, 
+a parochial grade school 
+
+Ignatius. She is lee luring a 
+
+views of religion, her 
+methods of teaching and how 
+shecametobeonun.Sheis a 
+
+history of much pain and 
+
+only by her faith that her 
+suffering must mean 
+something, and through God, 
+she will reap her reward In 
+
+
+
+panel discus 
+
+
+
+alter. 
+
+
+
+Embassy concert proves lasting 
+vitality of romantic 'Lettermen' 
+
+
+
+By B. KELLY 
+
+
+
+The i 
+
+
+
+I half of the 
+
+
+
+The Letlermen concert of 
+November IBIh was a most 
+enjoyable experience. 
+
+The performance was as 
+varied as the audience. It 
+appealed to people of all 
+ages and consisted of 
+romantic pop music for 
+which Ihe group Is famous. 
+
+The Lettermen sang a 
+collection of their hits in- 
+cluding "More," 
+"Memories," "Hurts So 
+Bad." "Shangri La" and 
+"Put Your Head On My 
+.Shoulder" as well as tooguc- 
+In-cheek rock and roll, which 
+fcalured such selections as 
+"My Sharona" and "knock 
+on Wood." The group rcTers 
+to these as their "Lost Hits 
+Medley" since due to their 
+
+
+
+audience participation, ol 
+which the Lettermen are 
+particularly fond. Tony 
+Butala (lead singer) ex- 
+plained, "We like to touch 
+people..." 
+
+
+
+You Look Tonight." which 
+rocketed them to fame In 
+1961. The precise harmony 
+and blending of voices is still 
+there after 21 years. 
+
+The Leltermcn ended the 
+show with a collection of folk 
+music hits which consisted of 
+"Truck Drivin' Man," and 
+"On the Road Again." This 
+
+
+
+were celebrating II years 
+together. This included the 
+audience singing along to the 
+music. Butala proceeded to 
+
+
+
+were so successful with folk 
+medley hits. Billboard 
+Magaxine voted the group 
+" populE 
+
+
+
+they r. 
+
+
+
+1 have 
+
+
+
+persuaded a gentleman to. 
+
+
+
+
+
+
+
+
+Francisco."' A pholo session 
+
+
+Alter the three songs were 
+
+
+followed this song. People 
+
+
+
+
+
+
+
+
+and hod their picture taken 
+
+
+termen with a standing 
+
+
+
+
+
+
+A highlight of Ihe evening 
+
+
+ended their concert with "I 
+
+
+was when Ihe three donned 
+
+
+
+
+their sweaters from college 
+
+
+lime favorite of fans 
+
+
+days and sang "The Way 
+
+
+everywhere. 
+
+
+
+said Life. "1 v. 
+munion everyday to impress 
+the authority figures, not out 
+of any real devotion, but out 
+of a desire to do well. This 
+play really brings back 
+memories, and mikes me 
+question myself, as a human 
+being, as a teacher. It has 
+been a great experience 
+working with Ihls." 
+
+"There is an Important 
+lesson to be teamed from 
+Ihls play — well, actually, 
+any number of lessons — but 
+a big one is the assumption 
+that once a person has the 
+garb or the collar of some 
+area or religious authority, 
+they thereafter never need 
+any help or support," said 
+McCray-Worrall. 
+
+We don't give them the 
+opportunity to be human. We 
+assume they can overcome 
+all their problems, and ore 
+not very understanding if 
+they show any signs ol 
+weakness or frailty. Sisler 
+Mary Ignatius is a woman 
+with severe problems thai no 
+one has ever questioned or 
+attempted to help simply 
+because she is a nun," 
+McCray-W on-all said. 
+
+The aclress-sludent who 
+portrays Sisler Mary 
+Ignatius, Marly Macke, said 
+she is Catholic, and doesn't 
+see the play as anti-Catholic. 
+"We are not making fun of 
+religion, we are only ex- 
+ploring the misuse of 
+religion. And this is not what 
+It is like in the schools 
+anymore. My four children 
+a parochial school, 
+
+i fine, 
+
+worm, loving instructors. 
+But there are people like 
+Sisler Mary in every school, 
+be 11 Catholic or public, and 
+il Is an Issue that must be 
+dealt with." 
+
+The closed performances 
+are scheduled for Dec. 6. 8 , 
+and 9, with at least six panel ; 
+members ol every per-: 
+
+
+
+"I'm getting my act 
+together and taking il on the 
+road" has been called a 
+
+Liberation with rock music," 
+according to Grctchen Cryer 
+and Nancy Ford, who wrote 
+the lyrics, nook and music. 
+But It is many different 
+things to many different 
+people. "You can be moved 
+by the music, inspired by the 
+
+hope that you will be en- 
+tertained." 
+
+The Embassy Theatre 
+unveiled this unusual and 
+exhilarating musical on 
+Wednesday, November 24. 
+for one performance only. In 
+the laler 1970's Ihe com- 
+bination of set and character 
+caniesihe audience forward 
+into the emotional ERA 
+Dilemma. 
+
+A tightly woven and in- 
+tricate drama the play is 
+interfirsl with delicately 
+placed humor and Intense 
+feeling. This musical has all 
+the elements of a truly un- 
+pnra 
+
+
+
+The uniqueness or th- 
+lent lo the players i 
+freedom during I 
+
+
+
+erfeci 
+
+
+
+natural delivery and quick 
+witty humor. 
+
+The mulli- talenled Connie 
+Stevens proved this 
+philosophy t ' " 
+
+
+
+xsity she 
+nagical kind of char 
+
+
+
+players used in moving 
+ported the 
+
+
+
+i ere quite unprepared when 
+le place suddenly slarlcd 
+p. This was most likely due 
+) the sheer professionalism 
+
+
+
+production had been set. 
+Clear, crisp and honest, it 
+was nevertheless entirely 
+relaxing from start lo finish. 
+The central idea of the 
+whole production is today's 
+woman. However, most 
+Important, Is how she meets 
+
+
+
+has n smile upon her face 
+
+completion, the progress 
+could be calculated by Ihe 
+accompanying song. With 
+lyrics such as-Everyone 
+envied you at eighteen, now 
+
+front of the TV and drcam- 
+The audience could not reach 
+any other c 
+
+
+
+"I m gelling my act 
+together and taking It on the 
+road." is a rather short 
+production, lusting ap- 
+proximately I hr. and IS 
+
+
+
+, er they tend lo 
+
+strive more for what they 
+thought would be Im- 
+possible-liberal ion. Ana 
+
+
+
+real; the conflicts — 
+everything. Writers Cryer 
+and Ford really pack alol of 
+authenticity into this one. 
+This particular musical 
+
+
+
+Happy 
+Holidays 
+
+
+
+to the 
+
+Stevens stars as Heather 
+Jones, a woman striving to 
+retain her personal identity. 
+
+
+
+celebrating her 39th birth- 
+day. She Is pulling a new 
+ad together and wonts to 
+show her 'new' image lo her 
+fans. She wants to throw 
+away Facade and be herself, 
+unfortunately her manager 
+Joe doesn't agree. He would 
+miner slay with the tried 
+and true, then break ony new 
+
+
+
+with t 
+
+
+
+
+
+
+
+
+
+Jones" continues to questioi 
+the prejudices agains 
+women. With the support o 
+backup singers, she flow; 
+from one song to another. 
+New and inlovatei 
+
+
+
+complished This trans- 
+formation Included a short 
+Interjection of dance upon 
+
+
+
+
+t Ihey I 
+
+
+
+OVER 700 00 SAVINGS 
+
+
+
+(ACTUAL VALUE $2,724.65) 
+
+
+
+INCLUDES 
+
+APP1EIIPLUS48K 
+
+OIK DRIVE W/COMTROLLER 
+GREEN SCREEN MONITOR &amp; STAND 
+COLOR TV ADAPTER 
+2 HOURS OF PERSONAL INSTRUCTION 
+
+PLUS... SOFTWARE... 
+
+WORD PROCESSING 
+
+RECORD AND FILING ORGANIZER 
+
+FINANCE MANAGEMENT 
+
+SERPENTINE ENTERTAINMENT 
+
+BEER RUN ENTERTAINMENT 
+
+ADVENTURE ENTERTAINMENT 
+
+IEARNTOTYPE 
+
+INTRODUCTION TO THE KEYBOARD 
+
+
+
+PLUS. . . THESE SPECIALS. . . M 
+
+UK RAM CARD $99.95 
+
+EXTENDED WARRANTY S99.95 
+
+
+
+
+[appta computer 
+
+
+
+'»AuLho(ized Dealer 
+
+
+
+NOW OPEN SATURDAYS 
+I0a.m.-2p.m. 
+
+
+
+" Lll ELECTRONICS W 
+
+
+
+3433 East Washington Boulevard 
+
+423-3422 
+
+Christmas Solution Seminars given on Fridays and Saturdays 
+
+
+
+THE REVIEWS ARE IN! 
+
+
+
+'"ROSENCRANTZ AND GUILDENSTERN' 
+
+OrMKKLbo. This play is one you could very comfortably 
+return to a second time to savor some to the polished repartee very 
+probably missed in a first go-around!" 
+
+Sharon Little, News-Sentinel 
+
+
+
+
+PIT PRESENTS 
+
+ROSENCRANTZ AND GUILDENSTERN 
+ARE DEAD 
+
+December 2, 3, 4, 9, 10, 11 at 8 p.m. 
+
+
+
+FOR RESERVATIONS CALL 482-5782 
+
+
+
+PAGE6-THE COMMUNICATOR -DECEMBER!, 
+
+
+
+; 
+
+
+
+w 
+
+
+
+ffatirft 
+
+
+
+gkJ3 
+
+The Perfect 
+
+Holiday Dinner-Dance 
+Live Entertainment: 
+
+The Source 
+
+Sunday, Dec. 5, 1982 
+Holiday Inn Downtown 
+
+
+
+Menu 
+
+
+
+Roast Beef 
+Mashed Potatoes 
+Tossed Salad 
+Green Beans 
+Coffee, Tea, Milk 
+
+
+
+6:30 PM Cash bar 
+7:30 PM Dinner 
+9:30 PM Dance 
+
+Activity Card Holders ! 6.00 
+Non-Activity Card Holders s 10.00 
+
+
+
+Tickets in Sweet Shop 
+
+
+
+Semi-Formal Attire 
+
+
+
+STUDENT AID. 
+
+It rakes more than brains logo to college, 
+li rakes money- For tuition, room and board, and 
+books. 
+
+The Army College Fund is designed to help 
+you get that money for college while serving your 
+country. 
+
+If you qualify, you can join the Army College 
+Fund when you join the Army. For every dollar 
+you put in, Uncle Sam puts in five. Or more. 
+
+So, after just two years in the Army, you can 
+have up to 515,200 for college. After three years, 
+up to $20,100. 
+
+Togetvour free copy of the Army College Fund 
+booklet, call or visit your local Army Recruiter. It 
+could be the most imponant book you've ever read. 
+
+
+
+Call 219-485-6432 
+
+
+
+ARMT.BE all you can be. 
+
+
+
+YOURBSN 
+
+1$ WORTH AN 
+
+OFFICER'S COMMISSION 
+
+IN THE ARMY. 
+
+Your BSN mean* you're a professional nur^c 
+In the Army, it also means you're an officer. You 
+start as a full-fledged member of our medical team. 
+Call your local Army Nurse Corps Recruiter. Or 
+stop by. 
+
+
+
+SFC Jim Sutllff 
+317-269-5499 
+
+
+
+ARMY NURSE CORPS. 
+BEALLYOUCANBE. 
+
+
+
+
+Let Us Put You In The Navigator Seat! ! 
+
+•Are you under age 26? 
+
+•Do you have at least 60 semester hours or 90 quarter hours of education leading 
+
+toward a degree from an accredited college or university! 
+•Are you in excellent physical condition? 
+
+•Then we have a position for you in the navigator seat of an F-4 Phantom! ! 
+■For additional information contact Linda D. Becker at 47B-3247 or come talk to us 
+
+at Kettler Hall, by the book store on December 2nd or 9th from 9 a.m. to 5 p.m. 
+
+INDIANA AIR GUARD 
+FORT WAYNE MAP IN 
+
+
+
+
+OPEN MONDAY 
+
+
+
+DECEMBER 6 
+
+THE FORT 
+
+
+
+services 
+
+
+
+
+Hours: 7:30 - 10 A.M. Breakfast Buffet M - FRI 
+11 A.M. -3:30 P.M. Lunch -M-TH 
+11A.M. -3:00 P.M. Lunch -Fri 
+
+OPENING WEEK SPECIAL! 
+
+A FOR I 
+
+Buy 1 of our regular all beef U.S.D.A. 
+Choice Hamburgers for 60 c and 
+
+Receive a second one FREE 
+
+
+
+sports 
+
+
+
+DECEMBERM«-THE COMMUNICATOR- PAGE7 
+
+
+
+2nd year Husar honored 
+
+IPFW star named to all district team 
+
+
+
+CLASSIFIED 
+
+
+
+ByMlKEROEGER 
+
+Spa rli Editor 
+3n the soccer Field, he' 
+-. Cool. Nothing leem* 
+it him. When the otfic 
+
+a questionable cs 
+
+playing 
+
+
+
+from IPFW lo Huntington 
+Spring Semester Tues. 
+
+Will pay tor mileage. Call 
+
+
+
+manual espesu 
+
+
+
+
+' Open wecknighls til 9 484-2604 
+
+
+
+6844 North CI, 
+
+
+
+gpfel^ 
+
+
+
+s ports 
+
+
+
+PAGEB -THE COMMUNICATOR -DECEMBERS, 1W? 
+
+
+
+Spikers end outstanding season 
+
+
+
+BvKENSCEIENK 
+Stall Writer 
+
+The IPFW women 
+volleyball tea: 
+
+" style Nov. 17, by 
+oWenlingSI. Mary'*, 1M, II- 
+15. 15*10, 15-13. 
+
+The victory cupped off en 
+excellent season totaling 30 
+wins, 17 losses, and one Uc. 
+
+At the start or the scot 
+the team was described by 
+head coach Arnlc Ball as 
+"young and Inexperienced" 
+However, last week Ball 
+said, "The team has b«n a 
+great surprise. The girts 
+really worked hard, they did 
+all I asked ol them, and the 
+Ihlngs they did really paid 
+
+
+
+sisted or three Juniors— Sue 
+Hendricks. Janet Braun. and 
+Lori Gray; three 
+
+sophomores— Lisa Sheehan. 
+Clara Schortgen and Cor- 
+nelte Savior; and rive (resh- 
+men — Kathy Stahlhut. Bclh 
+Mlnner. Cindy Horn. Kim 
+Shroyer. and Sharon 
+Taking Indlvidua 
+
+
+
+TH€ ONG YOU WAIT FOR! 
+
+AYRES 
+
+14 HOUR 
+
+CHRISTMAS SAl£ 
+
+FPJLW D€C€MB€R3 
+9A.M.1D11PM. 
+
+
+
+Entire 
+
+Stock of 
+
+Junior Sportswear 
+
+
+
+
+&gt; S '$W °' ™° WE ALWAYS FEATURE THE TOP 50 LPS AND TAPES FOR JUST '5.99 
+
+WOODEN NICKEL RECORDS 
+
+
+
+3627 N.CLINTON STREET 
+
+
+
+1 BLOCK SOUTH OF GLENBROOK ON CLINTON 
+
+
+
+
+"Say it with Gift Certificate" 
+
+Sayitwithmusic.SayitwithaWoodenNickelChristmasgiftCertificate 
+
+FOR LATEST NEW RELEASE INFO CALL 484-2451 
+
+WE ALSO FEATURE - RECORD RENTAL - USED RECORDS 
+
+CUTOUTS- RECORD &amp; TAPE CLUB 
+
+
+
+
+</pre>        </div>
+      </div>
+    

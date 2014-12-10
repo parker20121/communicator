@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatormar131970indi/communicatormar131970indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatormar131970indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatormar131970indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA -Pi;r;DUE UNiVEi^iiTiii 
+THE COW-iUNI GATOR 
+
+
+
+_ THE ■n"j7=i 
+
+
+
+
+Ticket Gets Sheriff in Heap Of Trouble 
+
+
+
+"Everywhere 1 go I 
+read about, hear about, 
+and see about problems 
+of the police and sec- 
+urity and justice on 
+college campuses. I 
+was here on the campus 
+15 minutes and got a 
+i&gt;6 ticket. ]}Jow I know 
+where justice is being 
+donei'ight here" spouted 
+Sheriff Joe Higgins at 
+his two performances in 
+P.I.T. theater last 
+Tuesday, 
+
+Sheriff Higgins who 
+arrived at our campus 
+Honday, parked in the 
+student parking lot so 
+he could atop into trom5 
+to see his good friend 
+Mr. Lou Gulp. After his 
+visit he v;nF; heading for 
+a luncheon when he re- 
+appeared in Mr. Gulp's 
+office waving a S6 
+ticket. He was fined 
+for: failure to reg- 
+ister vehicle, parking 
+in a student parking 
+area, parking by a yel- 
+low curb, and blocking 
+a crosswalk. When asked 
+what he thought of the 
+security system he sim- 
+ply said, "Fantastic." 
+Is he going to pay the 
+ticket? "You bet I am 
+'cause i broke the law" 
+he said, "But the snow 
+covered the yellow 
+curb" he added. But 
+tlBi left for his lunch- 
+eon and was heard mat- 
+tering "I'm in a heap a 
+trouble ! " 
+
+
+
+Sheriff Higgins, the 
+famous Lodge Sherifr, 
+talked on "Life in Tel- 
+evision Land." oheriff 
+Hig ins feels that TV 
+land is really d adat 
+the moment. It fails 
+in one big place — tijey 
+don't want profession- 
+alism as much as star- 
+dom nowadays. 
+
+"It's the most fa- 
+mous business of t,tihe 
+world l&gt;5it TV land is 
+gasping," said the She- 
+riff. "I'm glad 1 have 
+my college education 
+because 1 can go back 
+to the campus and teach 
+if there aren't any 
+jobs on TY left." 
+
+One of the interes- 
+ting facts aboutoheriff 
+Higgins besides being 
+born early one morning 
+and being raised alter- 
+nately across his Mo- 
+ther's and Fathej:'s 
+knee, is ttkt he dr6ve 
+a Dodge before he got 
+the part on the com- 
+mercial- He now owns a 
+
+
+
+Dodge 1968 red Pol^ra. 
+When asked what he 
+thought of college kids 
+today he said "I'm IOOa' 
+in front of you, beside 
+yo J , and behind you. 
+•-^o yoiir own t ling. 
+Thppe ' s nothing wrong 
+with you yoiing people." 
+The bife surpria of 
+the evening for Sheriff 
+Higi.';ins was when he was 
+presenteda proclamation 
+by t:ie staff of the"IU- 
+PU GOMMUIMiGATOK" which 
+read, "This is to ct;rti- 
+fy t at .sheriff Joeilig- 
+gins has been appoin:^ed 
+honorary oergeant a at 
+Arms for t' e "Indiana- 
+Purdue GOllMUNiGATUK, " 
+t^e official carap" 
+newspaper; given this 
+tenth day of March in 
+the yt'ar of our Lord 
+1970.'" iie ti.en turned 
+to the audience and 
+said, "If any of sa- 
+fety and security are 
+present, I now declare 
+a 48 hour conner.ty &gt;.on 
+all parking tickets!" 
+
+
+
+Wire Services Carry IVIastodon Story 
+
+
+
+The school mascot 
+of the Indiana-Purdue 
+campus, the Mastodon, 
+has made headlines 
+acrassthe United States 
+Picked up by theAP \J±re 
+Services the selection 
+found itself occupyinr 
+news space of varyinp: 
+proportions. In Ghi- 
+cago, Illinois, the 
+
+
+
+"Chicago Today" news- 
+paper connsnted in their 
+story, "Well, at least 
+it won't eat too much." 
+Other papers insert- 
+ing news copy on it 
+were "The Herald States- 
+man" in Yonkers, N.i:., 
+"The El Dorado Time-" 
+in El Dorado, iVrk. , ana 
+the "Telegraph Herald" 
+in Dubuque, Iowa. 
+
+
+
+Pc 
+
+
+
+age a. 
+
+ADMINISTRATIVE 
+
+
+
+STRICTURE EXPLAINED 
+
+
+
+t^ D 
+
+
+
+Coorv LJ I i I r «trt\ D &lt;J Ks a«Kia,&lt;2^ 
+
+
+
+Thf^pp pxi Pts at T\ir- 
+fiiie Knivernity at Fort 
+^"'nvne an ndni ni!^&gt;trpti vp 
+.■^t-rmctiirp , t&gt;ie menhirs 
+of w'hii^'h ^-r^f^ irtpnpely 
+roncPTTiPfl with ^-t^lr^e^t 
+rr^bT pmR n-nr] riPSJrniiS 
+of bpli^irip- solvR ttiem. 
+
+YOT-l W}l'^ nr&gt;R I'lirrlup Stl]- 
+
+rierts n pp nv'srp that 
+you ,'"■'^1 ppt a ipa,ior 
+whjc^ iTPirrirrc- Mcnx into a 
+rlfipn-pti^pnt '^Tiii t^at yon 
+Trp •^ r;si '"^■'^'^fi p oonrFeloT 
+^o^^ "'T'p' bp] ppf1 in chocB- 
+
+IPP a p-pOrr-pHT'' of i P P- 
+
+tTiiotiop, aT^d von rnppt 
+a pnr'hpr of tpar^hprs in. 
+the vanioiif oonrnps in 
+v/hich yo-[} o-n-nol 1 , 
+
+Wh't rio ■^■ro^^ (i O if 
+yon arp (i"i BP^t j P!"f"i pri 
+witfh a tpacher or- a 
+pnnnsplor? You oan 
+
+
+
+taiv to hir"; a profes- 
+sional edncator hap 
+rridp in performinp- his 
+,1oh v/ell and is able to 
+accept criticisin and to 
+improve. If you do not 
+p-et satisfaction from a 
+te-icher, his section 
+chairnan should be yonv 
+next stc^'. Tf von pt-p 
+dissatisfied with a 
+coianselor, see the 
+
+Coordinator of Counpel- 
+lip"-, ' rof . Robert \JigE. 
+If the section chairman 
+or coordinato"^^ cannot 
+satisfy yon, Arjsit the 
+'\ssistant Dean for itca- 
+demic Affairs, Dr. Wil- 
+liam Donahue, If still 
+dissatisfied, try t&gt;ie 
+'')pan and Director, Dr. 
+Tarry Nelson. If h» 
+cannot satisfy you, he 
+
+
+
+THE 
+
+COMM 
+
+
+
+.^*H" 
+
+
+
+
+Published weeVly by students of I.U.-P.TJ. Re- 
+gional Campus at Fort Wayne, Indiana 46802 
+Phone: (?1^) 48^-8121 Extension 586 
+
+
+
+■Rdi tor-jn-Chief 
+Co-Manaring -f^ldit 
+Co-Manapinp; ^^''&lt;iit 
+News Editor . . 
+Kea-tnre Ivditor 
+Alports Kdltor , 
+Advertisinn- Mn^a 
+('i 7'cnl ati ov Mppa 
+Art I'Jditor , „ 
+Pacultv A.dvi sor 
+
+
+
+or 
+or 
+
+
+
+cer 
+
+
+
+, , Jennifer Bosk 
+. , Roxanne Bruns 
+, . .Sheryl Smith 
+, . Sandy Br ad way 
+.Karen Fracassini 
+, .Dnrrell Pamin 
+, „ . John Porton 
+. . , Ellen Rama 
+, „ . Julia Mclslntee 
+,Mr. Willinm Heller 
+
+
+
+will T&gt;pfer you to an 
+appropriate individual 
+in T-^fnypt ',p. 
+
+If ^^nn Pro w,.-\ ] c-nt- 
+i e f -i PC] ^ ^,T,,, ,-,,.,!- ,^^. ^j^ ^ 
+
+tho rnrr&gt;e mo 1 r. ,.,,,fj 
+toT 1 tHpTn wtno'- -■ n-.r-h- 
+ers PTid connspl nr-.q have 
+served you wpI i V 
+
+These comments ■^'^fpr 
+
+to the TlTpdllP OT;pT&gt;MtT nn 
+
+tlip" stnnptnrp pt Trd- 
+i prin Dn "i VP^rsT t""' is pot 
+di psi ^'i 1 PT". 
+
+T^hi '=' pd"'toT'pl in 
+
+offpnpd in p si riC-orP 
+dpsirp to VipT 1 ptn'^ents 
+solve tbpT-p acadpmic 
+rrobl ems and to p-pmririo 
+helpfnl fppdbpcj'' in 
+
+ovaluptinp thp stmch:rre 
+and the individuals in 
+it. 
+
+Cry For Pol 1 
+
+Watchers 
+
+T'hp ''t^xlpn+s for 
+
+Peace ^pvp o'opnsod '*'br&gt; 
+Pal pTr MachipP "in HViir'-^n-o 
+
+for P T OPf^ tTT^O, TTHpy 
+
+now b-iyo p r"hnTipo +:n 
+strike a "'^l oi-' p— p-in^t 
+this ■ppliticp"' mac}i"inp 
+by wo"^V"i pp" 'fov p ■^^poo^ 
+anti-Dp"! py r-''-''^"' d''to in 
+the 1st Conp'ropsi onpl 
+
+distp-ict in GhTcan-o 
+
+Alderman A. A. "Sammy" 
+Rammer, ■'^■^. 
+
+Durinr thp l'iPT&gt;cb ]7 
+election, A'^dprmpn R'^y- 
+ner w' 1 1 need pt lo-^st 
+1000 Trolnntpprs to -i-ol 1 
+watch in 41 1 rol 1 ^ pp* 
+
+places in the Ist n--.-^- 
+p-rpssional Distrip^". 
+
+
+
+£ 
+
+
+
+Rated-G 
+
+Have you got a little 
+boy or girl, or maybe a 
+sister or brother, ooi* 
+maybe just a littie 
+friend you would like 
+to please? If so'i^ on 
+March 21 to 2? the Pur- 
+cb»e~ Indiana Plajrers xi» 
+eoe^ration with the 
+Purdue- Indiana Theater 
+will preaeat, Reynard , 
+the Fox. 
+
+R jToard the Fox is 
+a iflh century yPrBJOoh 
+folk play , writtenbr, 
+Arthur Fauquez. 
+Reynard is a sly fox 
+who keeps playingtricks 
+on all the otheranimals 
+in the forest. So the 
+other animals decided 
+to take him to the King 
+of the forest, the Lion, 
+for a trial. The Lion, 
+who was kindhear^ed, 
+put the Fox on a kind 
+of probation for a year 
+and if Jon want to see 
+the funny happemiiigeBOf 
+that year come and see' 
+Re?mard the Fox . 
+
+The stage crew is 
+made up of: Director, 
+Craig Mcintosh; Company 
+Han^ger, Diane Fridley; 
+Set Designer, Linda Lub- 
+ken; costxanes, Bee 
+Chipko. The cast: 
+Reynard, Christy Dar- 
+nell; Lion, Dave Jewell; 
+CrQw, Bee Chipko; Bear, 
+Rick Benz; Hedge Hog, 
+Margo Betz; Wolf, Erin 
+Haleema; Marmot, Susi 
+HoQlrer. The play is 
+complfitely a student 
+project, done be the 
+Indiana-Purdue ©layers. 
+
+Showings will be 
+March 21-2?, at 5:^5 pa 
+-; « -hv.^ Indiaaa-Puj?du© 
+
+
+
+m 
+
+
+
+i;Ika 
+
+
+
+To Pay or 
+Not to Pay 
+
+
+
+What do you do when 
+you p-et ap nr."iunt traf- 
+fic ticket? host peo- 
+ple wou].d ,iust be sat- 
+isfied to pay it and 
+forget it. But those 
+o-f" us who nre not for- 
+tunPite enourh to be 
+londeri wi.th money, .-ind 
+can't nfford to vny 
+tickets ripht au(i left, 
+should have some wa;^'- to 
+ani^eal v;hat we feel nre 
+unjust ticVets. This 
+is the rn-in ^amrore of 
+th-^ t-pwf'fic anneals 
+count 'it this caTrpus. 
+
+Tl^-i S COUT't CODS-i'^tS 
+
+of; T^'nnnk AVe^^, Boh 
+1 -p^up-h , Mike LamhoT^ne, 
+ntp-sre Petty,iohn, Ed 
+Beck, Kay tinyden, Rex 
+Surface. These membens 
+of the count are app- 
+ointed by the Student 
+Body President with f^e 
+approval of the Serefce, 
+'i'Tiey are appointed for 
+no set term, and may 
+resin'n ov he replaced 
+at a'^^v tTTTie. 
+
+The traffic court 
+meets every tvro w^eks 
+at their coriveni ence. 
+To P"et a BPssinn with 
+the court one must ob- 
+tain an anneal form 
+from the office of 
+Saftey and Security, 
+After fillinp- out the 
+form one turns it hack 
+into the office of 
+Ssftev and Security, 
+The pe"'^son anneal -inr^ 
+
+v/i 1 1 then he cent- c ted 
+hy mail as to time and 
+date of his hearinp. 
+
+
+
+Here's What 
+YOU Said! 
+
+oTipst-ion for this week 
+
+is: "V'onlii yn^^ snrvort 
+a non-profit student 
+bookstore if ■^ t ^-leve 
+locatf^d off caTr.pnc;V'i 
+hanie l G. S^^irmndr - — In 
+our rrpeat ca^i tnl i pti c 
+
+soci f^ty comnpti ti on 
+
+wins oven all. Lets 
+^ave the off camnus- 
+hookstore fo-p thp f-peat 
+r.ar^i taT i rtp of the 
+
+world. Besii-tpc; then 
+
+ma;^'"hp ricps vfoiilrl p-o 
+rl ovn , 
+
+rii-ir^n ^hresman— T vroiild 
+do ■i''"it'^ly p;i]ri-' oT"t a 
+r^ov—'' "fpfit hookp.tore 
+
+O'^'^ campus, heranse 
+
+thip, min-ht C^'^'ln^-p n few 
+
+t^^'nfs, mainly prices, 
+i*^ our unive^'Pity book- 
+store, 
+
+Dave Kruse -Tes, because 
+finp hookstore is too 
+yi^ o'y^_-n-p-i ppr] foT' n^ed 
+bookr and n-nlpps ^ron 
+can sp&gt;l 1 t^^e^T^ to sor^enne 
+else you can't n-pt a 
+decent rf^sale price, 
+even in frood c^'^deti'on. 
+Kathy Qrpr'ke -^pr- , 1 would 
+pnp-^0"^+" it hecnnpo the 
+■(-,(^okptnrc we hn^re now 
+is ""^n p"".""!" en '""' '^''^ . 
+jp-pT"' r'pa"'-^pl t -^-^'^s , I 
+
+^01 1 "I r^ lii.'p ■■' T^orks+or^- 
+
+tbpt i-'PUld rrnv^ f'^-'r 
+y.-pipp'- f^ •-r.,-'1p a'^d 
+
+v.'ouid he co^t-pollod '^rre 
+hv the stud'^^'t, T t&gt;~ink 
+
+ncrt i ■*" '-'VP^ +-l"P■^^^-^ it 
+would ■^e off ca:-rus. 
+
+
+
+Can^.'nucJ fy,j f^ w/ 
+
+
+
+Wanted: Male students 
+5 evenings per week 
+Must have use of auto. 
+Phone Mr. Stafford. 
+
+493-1366 
+,. .. ^56-5248 
+
+
+
+fi 
+
+
+
+0^9 c^ H 
+
+
+
+IQuBV^er. AdBiisslcm ie 
+900 a child, and $1.00 
+for adults. Call and 
+make reservations early 
+since there is limited 
+spsice in the theater. 
+
+Be sxire to coflie and 
+see Re ynard th^ ^orBpX a 
+and make that aoaeone 
+special happy by bring- 
+ing them along. 
+
+The Indiana-Purdua 
+Players are available 
+for touring shows, if 
+interested call Purdue- 
+Indiana Theater and oMk. 
+for Diane Fridley or Dr. 
+Kenworthy, 
+
+PURDUE SENIORS 
+
+A second meeting for 
+all graduating Purdue 
+students will be held 
+on March 25, 1970 in 
+Room 146 at 4:30. At 
+this time definite plans 
+will be made concerning 
+the class gift and the 
+party. Any siiggestions 
+or comments frpja_. the 
+
+
+
+See It Now 
+
+
+
+at 
+
+
+
+This is it! It's 
+your last chance to see 
+'Oliver Goldsmith's ro- 
+mantic comedy "She 
+Stoops To Conquer" at 
+the PIT Theater this 
+weekend. The play will 
+be performed on Friday, 
+the 13th-, Saturday, the 
+14th; and Sunday, the 
+15th. Friday and Sat- 
+urday shows will be at 
+8:30'p.in. and the Sun- 
+day performance will be 
+at 3:00 p.m. 
+
+Tickets are only '^-O?! 
+to holders of validated 
+activity cards, }!&gt;1.00 
+for all other students 
+and for faculty, and 
+$1.50 for the p:enera]^ 
+public, _ 
+
+graduating seniors will 
+\^ a^reciated. These 
+may be presented to 
+Doug Updyke , Ron 
+Hitzeman or Mike Matson. 
+
+
+
+MARCH Sl'KGIALG 
+
+Mow 1970 Mobile Home- 
+
+60'xl2' i'.u-oi.-y Mo-iel- Was :'''7'-'S'0, Now :::^T)^i 
+
+6i)&lt; .12', ? Bod ioomo Loaded V/ith i'.'xtras 
+Was 'l;6;:'95. Now #552'^J 
+
+Our Low Overbold Mrvko ■ The^'e Prices Possible 
+
+See Dick ab: 
+
+a'-tridp:e Mobile Home ''ark aad :-iales 
+Noi; 'invon Ave. at Me-ror Road 
+
+.Phone, [\2?.-k?.?3 . 
+
+
+
+students from an nT«ea 
+pchools are needed to 
+come to Chicapo and in- 
+sure that this el -motion 
+is an honest one. 
+
+Peo-ple in C&gt;iioaro 
+have offered to ''louse 
+any student who comes 
+to work in this cam- 
+paign. Classes for 
+no] 1 vjatchers w^ 1 1 be 
+conducted on Sunda;- and 
+Monday, March 1^ and l^i, 
+to aooiiaint volunteers 
+with the Illinois el eo- 
+t^' r.r\ 1 aw. 
+
+Alderman Payher is 
+in favn-p of imiD'^'di ate 
+withdrawal of -I'll t-poop; 
+from Vietnam and can be 
+counted on to vote a- 
+rainst all war aprro- 
+priations. This elec- 
+tion is important for 
+the Peace Movement and 
+for everyone who wants 
+to see an end to cor- 
+rupt politics. Any 
+help that .can be ri'^'^'^'^ 
+to this movement will 
+be prreatly appreciated. 
+
+
+
+The ACS will have a 
+Chemistry ^^elp Session, 
+11:50 to 1:30 in G-5 
+for any chemistry stu- 
+dent wishing help. Fol- 
+lowing the help session 
+at 1-30 a regular ACS 
+meeting will be held in 
+Room 220. Herbert E. 
+
+Rominger of Sargent 
+
+Welch Company \&gt;fill dem- 
+onstrate the operation 
+of the following equip- 
+ment: Digital-display, 
+PH Meter, automatic 
+T^trator, ^hem, --^nal. 
+Spec trophotometer , 
+Oscillometer, and Sar- 
+gent Recorder. -^11 iAft- 
+terested persons are in- 
+
+Lvited to attend. 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1792 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i3indi/communicatorv7i3indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i3indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i3indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATOR 
+
+
+
+THIS 
+WEEK 
+
+
+
+
+Page 5 
+
+
+
+Susun Morrison gets 
+
+
+
+
+- 1 
+Page 6 
+
+Initiated ji 
+spring. IPFW 
+
+
+
+iniii.iU-.l ju-;| !;i-i 
+spring, IPFW's women' 
+softbal ham finished 
+
+
+
+Preschool class offend 
+
+
+
+II be held in room 234 of the Student Union. 
+"The children will be in the classroom 
+s to present more 
+
+Gelzin, director of 
+
+
+
+structured educ a ti 
+IPFW's'child car 
+
+
+
+kindergarten in fall of 1976 
+
+Monday, Wednesday and f 
+held on Tuesday and Thur 
+^nu- times Cost for the cl 
+
+Tuesday and Thursday claj 
+
+
+
+e offered before 
+
+
+
+Parking structure on campus to be revamped 
+
+
+
+spaces has upset students 
+
+
+
+icnledlY.ill 
+
+icey and Rusty Cane 
+
+
+
+first served' si 
+concept v 
+
+
+
+they have limited timi 
+it being constructed n 
+
+
+
+it faculty and staff 
+
+iO,"Duceysaid. "This 
+should relieve the immediate problem until 
+ve can study it further." 
+Students' Government President Charlie 
+icterized the parking siiuation as 
+
+
+
+p.i:ki:.i| I 
+
+
+
+
+
+
+method last year," said Ducey, "But there 
+is an elite group of faculty that feel they 
+should have I he privilege ol parking close to 
+the buildings instead of the students. I feel 
+the students should have (hat prerogative, if 
+anyone should." 
+
+'"Look at your major companies," Ducey 
+continued. "All the employees park the 
+farthest away from the building. The faculty 
+;: employees of thestudenla." 
+
+
+
+explained Ducey. -with an approximate 8 
+
+
+
+. Zoher Shipchandler, former JPAC hours." 
+
+
+
+:ars on campus during peak 
+
+arrangement of 'A' parking 
+
+slois available to fatuity and staff was 
+passed unanimously by JPAC last January 
+2:1 The structure change also altered the 
+parking fee charge. 
+
+
+
+
+background. JPAC elim 
+
+As of Jul y, 1974 
+
+
+
+IPFW now controls DGTS 
+
+
+
+U DGTS', don't panic. You'r* 
+
+
+
+ana University Bickley states, " 
+t my instructions from the Fort 
+ipus instead of Bloomington." 
+nee its beginning in Sept. 1966 
+been operating out of an old b 
+
+ickley explains that there has 
+
+flight now we conduct some 
+
+
+
+KniollmentatDGTSIiBSine 
+Ihere are 1.072 students 1 
+
+
+
+r thai attitudes have campus, DGTS students belong to IP 
+
+10 years toward two paying the activity feeof *15. 
+
+lore According to Dan Keefer. DGTS s 
+
+eof students participate in all IFFW acti 
+
+
+
+Keefer explained that E 
+lent assembly 
+ferine Division. 
+
+
+
+i student 
+
+activities for (I 
+He mentioned 
+
+students are paying 
+he would like to get t 
+
+Student; 
+
+
+
+added I 
+
+
+
+activity lee. 
+
+coordinate 
+
+
+
+IPFW to operate biological 
+station at Crooked Lake 
+
+
+
+d ACRES is involved 
+
+
+
+primarily for n 
+and administr; 
+
+
+
+He added howe 
+
+
+er that DCTS in Fort open lo all IPFW student*. 
+
+
+II ^^ / ■ ■ '^' -^_"W^" *^^ 
+
+
+
+mcies as needed,' 
+e would like to keep 
+
+
+
+e (IPFW) has the lowest [ 
+
+I U-PU system. " 
+
+ill raised the possibility 
+
+
+
+parking cost J60 per year, while 'B' permits 
+
+
+
+stated Ducey "Then directives were sent 
+
+they said a parking garage was too 
+expensive." 
+
+"JPAC's powers were then limited to the 
+collection of moniew In an amount that 
+would allow for upkeep and repair, nothing 
+more," Ducey said. 
+
+"They (JPAC) expected most of the 
+family and stulf in purchase 'A' stickers," 
+
+
+
+probably have t 
+with the exceptio' 
+'A' spaces. 
+
+
+
+1. 11 tiUy and staff parking 
+, though. And 
+
+
+
+icepl, faculty and staff will have to be 
+igned to the lot south of Kettler and the 
+1 north of Neff. Otherwise we should just 
+'e a •first-come, first served' parking 
+
+
+
+icded, and parking fee at 
+
+
+
+By disg usted studsnts 
+
+Parking problems discussed 
+
+
+
+ehassles.il finding a unpavi 
+
+
+
+I ve hod no problems 
+
+
+
+lindinti a space, bul Ihey should p 
+
+Other students howi 
+contented as Connett. 
+
+
+
+ahead than finding 
+
+
+
+n of 'A' parking lota 
+Help, tmt it is not going to be enough. 
+
+member. Tim Ducey. 
+
+Merger proposed 
+
+
+
+1'iTilile' I was ten minute* 
+■cause I had lo park in the 
+lot," complained Lisa 
+
+is! There are Just too many 
+■s." exclaimed Tom Bade, 
+griped, "They should 
+
+. who have in park far away 
+
+ucji ir would be a good idea 
+nark the light pules in the 
+iat way you could ai leaM 
+
+
+
+y day. I just found 
+
+
+
+met Wednesday, Se| 
+headed by Dr Jam 
+
+
+
+f the IPFW 
+
+oi'uiiieni proposed lliat four 
+is, eiiliik-d Science, Arts and 
+ssional Studies, and Enginer- 
+ology should be established at 
+
+lose duties will include the 
+I administration and budget 
+
+is regarding promotions, ten- 
+
+
+
+Students picket against 
+classes in Union building 
+
+
+
+stated that the Union v 
+
+
+
+nts, led by Student Senator 
+. picketed 1 he psychology 
+■n Tuesday. The demonstra- 
+
+
+
+e policy by 
+ision. The 
+was drawn 
+
+
+
+CADD schedules 
+evening hours 
+
+
+
+Tuesdays. Appoin 
+
+
+
+mic Devel op- 
+be made by 
+in the office. 
+
+e-first served 
+
+
+
+The primary function of the 
+will be to provide facilities 
+student and faculty 
+
+.Manccs was being broken 
+
+
+
+felt the precedent set by 
+
+broken with the decision 
+n the Ballroom. 
+
+
+
+Tutorial assistance to be offered by center 
+
+
+
+;, and education and n 
+
+
+
+c help should 
+
+
+
+through S 
+
+
+
+,l.' Ct.vero 
+
+
+
+academ 
+
+
+c help to s 
+
+
+udents "commented 
+
+
+scheduled 
+
+
+
+
+■We prov 
+
+
+de jobs and practical 
+
+
+we'll go 
+
+
+expenen 
+
+
+ce for Ih 
+
+
+se students who are 
+
+
+subject. ' 
+
+
+
+iif you look at the 
+le building in the 
+
+ion of the building 
+■1 it was intended 
+jduledhere." said 
+
+
+
+EDITORIAL 
+
+
+
+Survey shows sexual activity rising for college women 
+
+
+
+Elite faculty parking 
+
+
+
+Paid parking is in the headlines again. This is nothing new, Bl leas! not to those 
+who have been here a few years. Since Ms insliiuiion in 1370, the parking fee has 
+been a major irritation to students and faculty alike. 
+
+Anything that costs will be a cause for griping, especially when it hits the 
+pocketbook the same lime as tuition, the activity fee, lab fees, textbooks, etc. 
+Nobody likes lo pay for any I In nf., and when pt'dple si ill ri'mtnik-r I ha I it used to be 
+free, the negative impact on one's disposition is even greater. 
+The complaints were usually that the lots v. 
+
+e emplyl while "B" parkers were left to fend for themselves just 
+barely this side of the Ohio line With the paving of all lots, gripe number one was 
+eliminated. But gripe number two held up strong. Usually it was heard from 
+■impatient students and faculty who could not wait until safety ani" 
+completed its traffic count in mid-September and adjusted lot designations 
+. accordingly. 
+
+So what's new" This year all t hi' lot adjustments by safely and security are not 
+', going to solve the problem. The problem is a structural one caused by the Joint 
+; Parking Advisory Committee tJAPC). JPAC pushed through an amendment to the 
+ting code that restricts "A" lots to facully and staff only. Students are 
+; restricted to "B" lots. 
+
+d of elitist faculty members who v. 
+h students for parking spaces. They got 
+lange and that's all s' 
+
+o of student "a" to "b" stackers 
+s highest. Students weir demons! rating thai I hey would rather pay $15 per 
+" slicker than the mere S3 for the "B." Some very naive student 
+leaders ignored Ibis evidence and wcnl along with Hie change, believing it was in 
+
+
+
+reveals mil nnly •&gt; 
+
+ennnewgirl: 
+
+
+
+The amendment was instigated by 
+traged with having to compete wi 
+; student government support for the c 
+s done during the 
+
+
+
+
+the best interests of the students 
+
+But facully need to park close to the buildings, they say. They are busy 
+
+• working in ihe community They must be lo class on time. Their lime is valuable, 
+
+if those reasons apply to students, who are too lazy to work, don't 
+
+: care about getting lo class on lime, and faced with countless hours of idleness. 
+
+The elitist class of faculty arc parking close and Ihe masses of .students are 
+
+parking near the Hicksville city limits. And it is all for the students' benefit. 
+
+
+
+WHO SAYS THERE 
+ISNT A CHEAPER 
+WAY TO AN 
+EDUCATION? 
+
+
+
+
+
+INTRODUCING 
+
+THE«ChEAP&gt; 
+
+WEEKLY*PASS 
+
+aMMlabk far a, wag ftvree 
+
+dollars (oswit'Wiftat-rjftfc 
+
+far veauciiicr ■piiW^DJcr's 
+tim«\&amp;!s fumoriivr tisr 'iypwvriaie 
+
+J 55£ \ss(L J at&amp;.wnt\ 
+
+or**tU&lt;all... , *\ 
+
+yes,mtate&amp;x(3 
+tm &gt; -psmuMi ku sn'i cr-^ae, 
+Inanimave oo\ov&lt;yd. - *n.firs, 
+
+V)3ssasfe an aim Vus , anawMK 
+to wicjlvfctwrcl, drawee 
+■Qnw ace mariner... „" . , 
+
+tjt, Hi&gt;si. tyu. njjfitt of awan&amp;riar 
+cave's . jvCtawaJ Viontows, uccr 
+•will OT\d -ftirce SyianliJ Bws 
+raitiw servnntf-ftte bastion 
+o£Raov&amp;ed&lt;» J along CcAiseum 
+
+fnnri ftt sw&amp;mnjr , 
+anttueJ ^ul lNDWUVPORDUE/ 
+SOW WWNE "Ar line AajWi 
+for fine camvus... nam \k\-i 
+gra.fosaat aaams Hkm VIUA6E 
+WOODS,/ CMTCBOfCr SREEN 
+S4 \ii\i wmeSnq loojuftd ilvt 
+aamyus %&gt; aaAiVnyWaTU tofcr 
+.SpleMor... ssfii or cWytf-' our 
+ntavta mitJ*t«d CROSSTOVi/N tt 
+bouriwna haf^sni tprip kttwwri 
+&lt;3k*taoSk ^ siwjrg^ttwm.i!no\s*ivj 
+
+
+
+
+THE 
+CALENDAR 
+
+
+
+s Communicator 1 
+
+
+
+September 
+Thursday - n 
+
+
+
+Friday - 12 
+
+
+
+Saturday - 13 
+
+
+
+Transendeni.il Mnhi,iii„ii 
+
+
+
+
+
+
+I 5 
+
+
+
+Rhodes and XGI 
+scholarships available 
+
+
+
+s. Concordia Sr. College 
+
+
+
+Thursday - 18 
+
+
+
+Cont.Ed.,Counsdir 
+
+andTheirFamllies 
+
+Cont. Ed., Early American KH-G41 
+
+Crewel Embroidery 
+
+Purdue Faculty Senate Meeting KHRin C 
+
+Conl. Ed,, Conversational 
+
+German (or Adults 
+
+Conl. Ed., Conversational Span KH 241 
+
+ish for Adults 
+
+., Foundations in Early KH G4S 
+
+
+
+Paintings, such as the one ubove. are on displuv in 
+in a show called An Artist's View of Historic India 
+Thclmu Confer. 
+
+Area scholars attend IPFW 
+
+
+
+
+Carroll High School, accounting. 
+
+
+
+Tennis, Marion College 
+Conl. Ed, Beginning Needlpl 
+Cont. Ed. . Natural Dyeing with 
+natural Plants 
+Cross-Country, Defiance Inv. 
+PITprod., 'Priceof Admission' 
+Voice recital, Chester Williams 
+
+
+
+Two of the students, Valerie 
+and Victoria Painter, of Decatur, 
+are twins. Valerie was valedic- 
+
+loi'i.m .mi! Victoria, 
+at Bcllmont High 
+
+
+
+Names and scholastic achieve- 
+ment of the 17 students came to 
+light during a recent university 
+check of admissions records. 
+
+The valedictorians, their high 
+schools and their areas of study 
+at Indiana-Purdue are: Gayle 
+Smith, Wayne High School, arts 
+
+
+
+. Cynthiii 
+
+_ School, ace , 
+
+Division of General and Tcchni 
+cal Studies; Michael Harber, 
+Bishop Dwenger, engineering; 
+Dennis Hull, Garreii, engineer- 
+ing ; Ranald Kammeyer, Wood- 
+Ian Hinh School, nfiricullure; Jill 
+McDowell, I hiinthnsL'o inii&gt;ini&gt;; 
+
+
+
+omplcted by Oclober3t. 
+
+
+
+t Maecker, Snider High 
+
+
+
+Sunday - 14 
+
+
+
+Friday - 19 
+
+
+
+KilmSen.-s, "Fritz theCat" 
+
+"Reefer Madness" 
+
+Film Scries. "Fritz the Cat" 
+
+
+
+8,961 student* register at IPFW 
+
+
+
+Cont. Ed. 
+Cont. Ed. 
+
+Conl. Ed. 
+
+
+
+Emergency Cardiat 
+Speed Reading for 
+
+
+
+ersationai Spanish SU-I 
+live Sketching KIT- 
+
+
+
+Saturday - 20 
+
+
+
+Tennis, Huntington College 
+Cont. Ed., Creative Mra^inKlo 
+Children &amp; Young Adults 
+Cont. Ed. , Karatefor Children 
+PIT Production, "Price of Ad 
+
+
+
+Sunday -21 
+
+
+
+it. Ed., State Life Health Insur 
+e Exam Prep. 
+~ ..Speed Reading for 
+
+
+
+Indiana-Purdue Foundation SU E 
+
+Soccer, St. Francis College Thei 
+
+Cont. Ed., Supervisory Develop Su II: 
+
+Cont. Ed. .Acyrlic Painting KH-I 
+
+Cont. Ed, Beginning Bridge ' NH1 
+
+Cont. Ed., Conversational French SU-2 
+Tor Adults 
+Cont. Ed., Labor Guide to Eco 
+
+Cont Ed . Real Estate Broderage KHZ 
+Cont. Ed., Stock Market Tech 
+
+
+
+PIT Production. "Pnceor 
+
+
+
+Records, attributed the la 
+iticrwisc m students rn.iinly tc 
+i'M&gt;:hmIiiih degree program 
+
+
+
+tVonfM's Studies 
+to plan year 
+
+Women's Studies is getting 
+organized and scheduling men 
+ing times for this year. Contact 
+Cathryn Adamsky in room 3BBC 
+in Kettler, or Mart he ltoseniehi 
+
+
+
+: Student Union 
+
+
+
+Persons wishing to h 
+
+
+
+Communicator of fie 
+
+
+
+Greek fraternity plans activities 
+
+
+
+THE 
+CLASSIFIEDS 
+
+
+
+Sigma Phi Epsilon Fri 
+the second largest 
+fraternity, has a colony £ 
+
+Colony number 398 ha: 
+
+
+
+irnl nl.-.ils. For further 
+
+
+
+Term paper sate 
+
+taw unconstitutional 
+
+
+
+Wednesday - 17 
+
+
+
+Cont. Ed., Labor Law I 
+Cont. Ed., Macrame 
+Assoc for Children Educ. 
+Cont. Ed., Beginning Photogra 
+
+
+
+ining Sign Lang SUII6 
+
+
+
+college credit 
+
+
+
+Lunch for 69C. 
+
+
+
+Get a hot dog, f ranch fries, and 
+regular Pepsi for onty 69c. 
+
+Your time is valuable. Not 
+mention your money. So why fight that 
+noon hour traffic, the crowded parking 
+lots and less- 1 nan-friendly waitresses? 
+Just to pay d dollar and quarter 
+for a small lunch. 
+
+
+
+
+Union beats all 
+that. You don't have to leave campus. 
+That saves you time, gas and 
+aggravation. And, best of all, It saves 
+you money. Service you can't beat at a 
+price you can't beat. 
+
+
+
+Student Union Food Services 
+Hot Dog 
+
+French Fries 
+
+Regular Pepsi 
+
+
+
+Onty 69C, 
+
+(with coupon) 
+
+
+
+Coupon good through Wednesday, Sept. 17, 1975. 
+
+
+
+GALS&amp;GUYS 
+
+
+
+
+WHY PAY THE BIG 
+RIP-OFF PRICES 
+
+
+
+JEANS 
+FLARES-BIG BELLS 
+
+PRE-WASH 
+$8.99 TO $11.99 
+
+
+
+TOPS FOR ALL 
+
+CASUAL &amp; 
+
+HIGH-STYLE 
+
+$2.99 TO $9.99 
+
+
+
+FAMOUS BRANDS AT LOWER PRICES 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 Coldwater Road 
+
+Across from Ayr-Way North 
+
+Next to the new Sambo's 
+
+Open evenings till 9; Sundays 12-5 
+
+
+
+Sept. 15 
+
+
+
+
+is the last 
+day for a 
+full refund 
+
+
+
+Cash receipt a MUST 
+
+New a books must be 
+in new condition. 
+
+
+
+FOLLETT'S 
+
+FORT WAYNE BOOKSTORE 
+
+Kettler Hall 433-6100 
+
+
+
+m CTORT WAYNE 
+
+^ 1 ELECTRONICS 
+
+
+• 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+Now a Bose Direct/Reflecting 
+bookshelf speaker and it's 
+under $100. 
+
+If you thought it couldn't be done, you don't know BOSE. 
+Because the new BOSE MODEL 301 speaker is just that. A 
+bookshelf speaker that provides reflected and direct sound 
+performance in the tradition of the internationally-famous 
+BOSE 901* and 501 speakers. 
+
+It provides such astounding performance for its size that, 
+frankly, it's hard to believe that this speaker costs under 
+$100. But it does. And, it's easy to place and can be adapted 
+to all room environments. 
+
+Come in this week and ask to hear a demonstration of the 
+new BOSE MODEL 301 Direct/Reflecting® bookshelf 
+speaker system. You really 
+won't believeye. Third Row 
+BUlMoebs l coach. Janel Geary, Janice Forst, Patty Tlppmann. Lisa Johnson, and Dr. David Skelton (coach). Missing Is 
+Mary Smith. The Women's Softball Team completed the Main Auto Tournament, but lost their last game 3-2 in r " 
+
+11-9 record 
+
+
+
+
+Why should 
+
+a freshman at IPFW 
+
+enroll in ROTC? 
+
+
+
+
+Maybe the fol lowing 
+statistics will help you 
+answer that question . Of last 
+year's college graduates, 40 
+percent were unable to find 
+employment within their 
+major. And 20 percent were 
+unable to find any |ob at al I . 
+
+Now compare that to 
+these figures: ail ROTC 
+graduates are guaranteed 
+employment immediately 
+upon completion of school . 
+98 percent of ROTC 
+graduates are employed In 
+their major field. Aren't 
+those odds a little ketter? 
+
+
+
+And that's not all. During 
+your junior and senior years 
+at IPFW, you will be paid 
+$100, tax free. Plus S450 for 
+6 weeks of Advanced Camp 
+between those two years. 
+Spending money you can use. 
+
+
+
+You made a good choice 
+when you picked UP F w as 
+your college. Now take one 
+more step into the future and 
+choose ROTC. Call U.S. 
+Army ROTC, Ft. Wayne, at 
+422-7808. Or stop by our booth 
+on the ground floor of Kettler 
+Hall. 
+
+
+
+toughest schedule. Quarterback 
+Mark Vitali leads a fine offensive 
+backfield which will work behind 
+a line featuring tackle Ken Long. 
+Ken Novak, a 67", 274 lb. leads 
+
+
+
+Denny Store 
+ing from the 
+surprised Ohio State 
+year. Quarterback 
+gget and running back 
+i J a c k son h ead the 1 isl The 
+
+
+
+Women's team has good season 
+
+
+
+i potent offensr 
+
+However, gradu 
+
+a heavy toll on defense. 
+
+
+
+them to achieve the winning 
+
+
+
+unit this fail. However, gradua- 
+tion took a heavy toll on c 
+Place kicker Dan Beaver i 
+
+
+
+Saturday in Co lorn bus. 
+
+as the key to Badger hopes. Help 
+is needed in the passing 
+department for John Jardine's 
+,team to emerge as a legitimate 
+
+
+
+'Freebies' scheduled 
+for youth organizations 
+
+
+
+21 game 
+
+
+
+
+
+
+Dame game. EAch 
+;ring the game free 
+
+
+
+t League Night WiJdcat- 
+t shirts and accompanied 
+
+
+
+^ 
+
+
+
+Vet joint 
+Natty Matties 
+
+
+
+fine offensive w 
+country. 
+Iowa. Like Illinois 
+
+
+
+Despite heavy graduation losses 
+
+
+
+Sergenl Nelson, director of F 
+
+Michigan will be designated 
+Scout Night. All Girl Scouts 
+
+uniforms, 
+
+
+
+history of IPFW's 
+play five top-class 
+All games begin 
+
+
+
+Veteran Steve Butcher, who 
+came to IPFW in 1970' after 
+playing in Washington, D.C. for 
+" " "il Medic Hospital Corps, 
+
+
+
+7 P .r: 
+
+
+
+1 by ;■ 
+
+
+
+
+
+
+Women's volteybsll 
+program to start 
+
+Any student interested in 
+playing on the women's intercol- 
+legiate volleyball team is asked 
+
+
+
+Butcher graduated fron 
+ide high school in 1966, I 
+;rved in the U.S. Navy I 
+
+
+
+R' CLUB 
+
+
+
+
+KANDI 
+KISSES 
+
+and 
+
+MARSHA 
+MELLOW 
+
+
+
+4 exotic shows nightly 
+
+Mon. thru Sat. 
+
+Snacml cehbmtkm Mon. thru Thurt. 
+
+5 pm - 6 pm 
+
+
+
+R" CLUB 
+
+
+
+I— 
+
+
+
+Next to the Moonrmkar 
+
+
+
+Open 11:00 am 
+to 3:00 am 
+
+You must bo 21 to enter. 
+
+
+
+Cross Country begins 
+new season 
+
+
+
+Last Saturday at the Taylor 
+
+
+Tiffin University (Sept. 27), the 
+
+
+University Conditioner the IPFW 
+
+
+IPFW Quadrangular (Oct. 4), 
+
+
+cross-country squad set a new 
+
+
+and Goshen College (Oct. 18). 
+
+
+
+
+The first annual IPFW Quad- 
+
+
+
+
+rangular marks this year's high 
+
+
+led the running pack, finishing 
+
+
+point in cross country. The meet 
+
+
+the 6 miles in a fast 32:05. The 
+
+
+will feature the powerful Ohio 
+
+
+other two man squads included 
+
+
+
+
+
+
+one meet last year. Also featured 
+
+
+(32:511 and Bob Wilson and Clif 
+
+
+will be the squads of Tri State 
+
+
+Airgood (32:55) The overall time 
+
+
+and Manchester colleges. 
+
+
+
+
+
+
+
+
+Chorba is optimistic about a 
+
+
+Although the Nasty Masties 
+
+
+winning season but will have to 
+
+
+showed team depth, they were 
+
+
+
+
+lacking an outstanding perform- 
+
+
+
+
+
+
+
+
+
+
+Heim will begin his third and 
+
+
+
+
+final season as the only remain- 
+
+
+
+
+ing member of Chorba 'a original 
+
+
+
+
+1973 squad. Heim is a strong 
+
+
+retuming lettermen. Among the 
+
+
+all-around runner. Among his 
+
+
+
+
+
+
+
+
+| country and track records here at 
+
+
+
+
+IPFW. Helm's performances 
+
+
+
+
+include the fastest four and five 
+
+
+
+
+mile runs and records in the 220 
+
+
+
+
+and 440. Heim also holds the 
+
+
+Mastodon team. Leininger is a 
+
+
+mark for the most career varsity 
+
+
+unique addition to the squad since 
+
+
+miles run in competition. 
+
+
+his technique of running barefoot 
+
+
+The Mastodons will be running 
+
+
+
+
+in the Defiance Conditioner this 
+
+
+Among the freshman harriers 
+
+
+Saturday beginning at 11:00 a.m. 
+
+
+
+
+
+
+winner of the 880 yard run in last 
+year's sectionals; Wilson 
+Airgood (Wabash), Dan Treager 
+
+
+Hockey 
+coll-out 
+
+
+(Southside) and Scott Miller 
+
+
+(homestead). Coach Chorba will 
+
+
+
+
+also receive help from soccer 
+
+
+
+
+
+
+
+
+John Morreale Craig Bobay, and 
+
+
+
+
+Brian Gifford. 
+
+
+Union for all students interested 
+
+
+The Mastodons have two weeks 
+
+
+in trying out for the Ice Hockey 
+
+
+of conditioning ahead before their 
+
+
+
+
+meetagainst Huntington College. 
+
+
+In order to participate each 
+
+
+
+
+student must be enrolled in at 
+
+
+
+
+
+
+meets. Theharriers will run at 
+
+
+For further information 
+
+
+home against Indiana Tech 
+
+
+contact Jim Bolinger in room 11B 
+
+
+
+The Harmon 
+Football Forecast 
+
+
+
+
+
+
+Wo predict you will 
+
+bo happy with 
+
+our product* and tervicet. 
+
+
+
+• 
+
+
+EORT WAYNE 
+
+1 ELECTRONICS 
+
+
+• 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+</pre>        </div>
+      </div>
+    

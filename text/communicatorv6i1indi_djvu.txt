@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv6i1indi/communicatorv6i1indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv6i1indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv6i1indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA UNIVERSITY-PURDUE 
+- UNIVERSITY AT FORT WAYNE. THE~ 
+COMM'NICATOR. 1974-75. 
+
+
+
+THE 
+
+
+
+l * w * «*«■".««,« 
+
+
+
+,o "4% J ^i\% t 
+
+
+
+COMMUNICATOR 
+
+
+
+
+Indiana-Purdue University at Fort Wayne 
+
+
+
+August 30, 1974 
+
+
+
+Schwartz to push unification; 
+pledges 'open-door' office policy 
+
+
+
+m of Donald Schwartz, the new 
+lor of Indiana Purdue. 
+"My door wit! be open to students, 
+id faculty," said Schwartz. "Any 
+
+
+
+r leaching capacity, 
+d as an example a 
+a people organized 
+
+
+
+requested tha 
+bringing thesi 
+campus. The 
+
+
+
+Chancellor Don 
+
+
+
+|.iI:lti1 on .■ 
+
+rtz also expressed 
+Fort Wayne community 
+
+
+
+ry Friday. The only 
+the meetings is that 
+thirty minutes. 
+
+
+
+occuring quickly I 
+
+
+
+year. Because the budgets have been 
+
+approved by the legislature for this year, the 
+boards had lo agree lo a plan whereby ! U 
+
+
+
+nclminslrntlon will luki- i\ lieine studied 
+
+Schwartz admitted thai he has had some 
+difficulties keeping up wilh everything 
+going now. He ciled the time taken up 
+
+
+
+According to Willbern Report 
+
+
+
+I.U. structure changes 
+
+
+
+e president, all of t 
+
+
+
+n right and possibly It 
+
+
+
+Indiana University President John 
+Ryan proposed restructuring of the 
+university administration at the July 
+meeting of the I.U. Board of Trustees. 
+
+langes, in large part an outgrowth 
+
+
+
+taking effect immediately and the o 
+
+September board meeting. 
+
+Among the eight that were g 
+e approval are suggestions a 
+
+
+
+physically divide 
+
+
+
+the reorganize tio 
+and Indianapolis." 
+
+
+
+t the regional campus n 
+
+
+
+medical s 
+
+
+
+vidence of 
+
+
+
+apparent when Ryan asked permission from 
+the board to appoint two new vice 
+presidents. One would have control over 
+Indianapolis and the other would be a vice 
+president at Bloomington. 
+
+Their duties are to supervise academic 
+
+
+
+e change that could h; 
+ost immediate effect on this can 
+e disbanding of the RCA. Under tl 
+
+
+
+■ograms and to provide all needed support 
+rvices on the individual ca 
+appointed t&lt; 
+
+
+
+ividual campuses. 
+
+
+
+Indianapolis and Byrum E. Carter 
+appointed head of Bloomington. 
+Ryan also got approval 
+
+
+
+J. Gus Liebenow, 
+
+
+
+image of a 'palace revolution' instead of a 
+plan to carry Indiana University to 
+greatness," said Liebenow. He also says 
+
+
+
+Liebenow is the lack of proper consideration 
+by faculty and others outside of the task 
+force itself. "Perhaps it is because very few 
+
+
+
+University a distinct university system." 
+Liebenow also feels that the report of the 
+Willbern Committee rejects most of the 
+ideas that would make I.U. a national 
+
+Llebenow's greatest concern is that the 
+report was accepted without a proper airing 
+ffnd without Input from outside the 
+Committee. 
+
+"Even in the few hastily called 
+meetings of the past two weeks, the Willbern 
+plan was discussed only in terms of hazy 
+generalizations and no one other t 
+
+
+
+1. 1 ..■!•■ 
+
+
+
+spermltted 
+
+see an actual copy of the plan or t 
+organizational charts," according 
+
+Liebenow's resignation was 
+
+
+
+and the director at Richmond will report 
+directly to the president's office. 
+
+The local campus heads can then 
+receive prompt attention and direct support 
+from the various vice presidents and other 
+presidential satff people. 
+
+
+
+it f&lt;&gt;r University Development 
+ill have ail responsibility 
+
+
+
+President for Ad 
+
+for financial, accounting 
+with budget planning, inform 
+
+
+
+■ H.'&gt;|jfuuil)!t' 
+&gt;e concerned 
+
+
+
+English merger 
+plan proposed 
+
+
+
+
+The English departments of I.U. and 
+Purdue here voted unanimously to call for a 
+merger of the two departments by July 1, 
+
+
+
+Standing in line 
+formed in the 
+as the booket 
+
+
+
+Cane certified by Pratt; 
+Senate election to be called 
+
+
+
+
+Edftonallq 
+Speaking 
+
+THE COMMUNICATOR Fri., August 30, 1974 
+
+
+
+Election problem solved expediently 
+
+
+
+The Chancellor and merger 
+
+
+
+unanswered last year awaiting the coming of the super-chancellor, who is now on 
+campus and quite obviously in charge of things. So it is time that we get down to 
+the business of finding answers. 
+
+The recurrent theme of the questions is unification. Will IU-PU unify in 
+substance or will there be only token or apparent unification al the topmost visible 
+levels of the campus structure? The consensus on campus, at least that which 
+surfaces in public statements and semi-private conversations, is to achieve as total 
+a merger as pi.»&gt;ihlc wiilmtil obliteration the campus identity. That makes the 
+question open-ended. 
+
+Or, taken in a more positive light, such open-endedness will nut m.-.trii t imu|ii&lt;- 
+solutions to our unique problems. Unifying two institutions so diverse as I.U.' and 
+Purdue without dictating the subservience of one to the other requires unique 
+solutions. A third party to solution must be the Fort Wayne environment and its 
+own peculiar educational needs. Given this triangular line-up, too many ground 
+rules established beforehand will increase the chances of there being one or two or 
+even three big losers. 
+
+The campus must also foster a spirit of compromis. Although compromise 
+may be a dirty word to the special interest groups that so ably argue their cases, an 
+unwillingness to reach an equitable compromise after a good hard public debate 
+will again increase the chances for big losers. 
+
+Of course, this means that the sabre-rattlers will have to sheath their swords 
+(or the time being so that the best possible solutions can be achieved and achieved 
+quickly. Too much in the way of polemics - this newspaper stands among those 
+which have proven to be so inclined on oeeassion -- will mean too little in the way of 
+
+
+
+themselves on record for both. It will be Chancellor Schwartz's job to keep them 
+
+This brings us right back to where we left off last year. The responsibility for 
+the future of the campus rests squarely in the lap of one man, last year some 
+unknown super-chancellor, today Chancellor Schwartz. 
+
+When he accepted the job, Dr. Schwartz committed himself to a full 
+investigation of the situation, promised a sensitivity to local problems, and 
+determined to find a solution tlul is in I lie IhsI interests of the Fort Wayne Campus. 
+
+Responsibility is a iwo wflj street. We must give him our support when he 
+goes to the presidents, the boards of trustees, the community, and the legislature to 
+argue the IU-PU case. We must accept Ins decisions even though he may decide 
+against our own particular special interest We are obligated to express faith in his 
+ability to administer IU-PU wisely WY helped choose him tor I he job, now we must 
+help him do it. 
+
+Last year very little was accomplished toward unification because we hod no 
+super-chancellor Now we have one, and that excuse can no longer be used by those 
+who wish to slow the process. It is time to move ahead. 
+
+
+
+That beautiful sidewalk 
+
+
+
+Last year The Communicator regularly complained about the lack of a 
+sidewalk between the North B Lot and the Student Union. We are happy to be able 
+to report that the sidewalk was constructed over the summer. In fact two 
+sidewalks were built : one following the top of the ridge from the lot to the west side 
+of the Union, and the other going down the slope to the east side of the building. 
+
+Also, all B lots were paved with money accumulated in the parking fund to pay 
+for a parking garage that we can't afford and now officially don't need. 
+
+In spite of the fact that the administration has preempted our favorite 
+complaint, rest assured that the editors of this paper will not rest until we have 
+uncovered a new one. 
+
+
+
+
+Ford's amnesty move promising 
+
+
+
+KRANKLY SPEAKING. . . .by phil frank 
+
+
+
+
+JUKI NOT ONE TO fDINT AAJ 
+ACCUSING HN0ER, &amp;UX I THINK WE 
+HAVE AN IMRDRMER IN THE GROUP! 
+
+
+
+\ SERVICES- BOX 9411 ■ BERKELEY CA.94709 
+
+
+
+.' country, they decid 
+
+
+
+ve. Their confidence ii 
+: United States' leaders &gt; 
+
+
+
+|Mii'iiii,il for open hostilility than nearly a 
+
+This Is what Ford did when he dug c 
+the temporarily forgotten but still smoldi 
+ing amnesty issue, and presented his vie' 
+to a V.F.W. audience. He would be ha 
+
+
+
+d amnesty cooperat 
+
+
+
+ian blindly accept 
+
+
+
+audience. The early stages of his new 
+
+administration have been going smoothly, 
+J mostly to an unusual spirit of 
+
+
+
+i stoog support gives Ford an 
+t he'll never have again. He can 
+tablish himself in the Presidency 
+
+
+
+COMMUNICATOR 
+
+
+
+Established 1969 
+
+
+
+: sent them away happy by doing little 
+e than smiling and waving hello. Moat 
+
+
+
+effort on his part to offer a 
+
+.promise on an issue that has 
+n ugly rift between many citizens, 
+
+
+
+is lor ing a spirit of unity among American 
+
+
+
+he definitely opposed uncondi- 
+esty for any draft dodgers. The 
+:arly went beserk, giving Ford a 
+i, complete with yealls, whistles. 
+
+otions so quickly. After Ford's 
+
+
+
+type of program t 
+
+
+
+it he favored some 
+'back into society. 
+
+
+
+by the recent events in Washing!'? 
+
+be forced to deal with it quickly. Thi 
+approximately six thousand Americt 
+currently residing in foreighn count 
+order to avoid prosecution for drafl e 
+
+would not desire to come back to Uu. 
+States, even if a program was dev 
+
+
+
+
+Past prexy sees good soccer year 
+
+
+
+Should they t 
+
+ing number &lt; 
+
+they should. Attorney 
+
+irogram 
+
+iousobj. 
+
+likely t 
+
+ans Hospital. 
+
+
+
+the Student 
+
+
+
+e who is interested i 
+
+
+
+people who believe that any form 
+amnesty is a challenge to the United Stati 
+existence. They think that mandato 
+military service Is necessary to jprotect t) 
+
+
+
+e Athletic Committee 
+&lt;r their choice. OUr 
+
+
+
+o put the Nixon-Watergate spectacle behind 
+
+
+
+
+
+
+
+There are still many positions available on the 
+staff of The Indiana-Purdue COMMUNICATOR. 
+If interested, see Mike Snyder, Dave Hill, or 
+Mark Franke in Suite 215, Student Union 
+
+
+
+THE COMMUNICATOR 
+
+
+
+UN/U, 
+
+
+
+IU-PU 
+
+CAMPUS 
+
+COMMUNICATIONS 
+
+
+
+
+UN\ N 
+
+
+
+3 THE COMMUNICATOR Frl,, Augogt 30. 197 4 
+
+
+
+Letters brings record off success to IU-PU soccer team 
+
+
+
+University and honored t 
+coach. The atmosphere 
+
+
+
+Lef fers described 
+
+
+
+iscribed.'hesaid, ' 
+
+
+
+adding a team t 
+Fort Wayne fan 
+that they will t 
+
+
+
+Lef fers. emphasized the fact 
+
+
+
+into they responded to the , ii.iii,i,iv 
+
+
+
+Leffers hopes to schedule 
+
+
+
+Indian music 
+
+Mr. Kumud Ranjai 
+jee, an internationally 
+classical Indian musici 
+
+
+
+The Film Series Committee is pleased Ii 
+
+
+
+Emperor of the North 
+Super Fly 
+
+Portnoy's Complaint 
+Evel Kn 
+Cromwell 
+
+
+
+Robert E. Leffers upon his 
+learning that he had been 
+appointed as the new soccer 
+coach for the IU-PU Mastodons. 
+
+able reputation as the soccer 
+coach for Indiana Tech and three 
+grade schools, and as secretary 
+and president of Indiana Ohio 
+Kentucky Association. 
+
+During his term as an officer 
+of the association, grade school 
+programs were instituted in Fort 
+Wayne, Dayton, and Cincinnati 
+
+
+
+Leffers Indicated tl 
+
+
+
+children who have all been activ :• 
+in school events. All three of his 
+celled in running and 
+
+
+
+ertain prepared t 
+
+
+
+family attended Indiana Univcr 
+
+
+
+Wanted: Part-time kit- 
+chen help. Apply in 
+Ohio-Kentucky Soc person, $1.90/hr. Eve- 
+nings 4 to 7:30. Par- 
+nell Park Nursing Home 
+
+
+
+cer. making. Certain players will 
+
+r team has an develop rapidly, others more 
+schedule, and slowly, but almost all of the thirty 
+
+\ Part-time girls. Week- 
+ends. Apply to Mr. Mc- 
+Lee or Mr. Reinbolt. 
+Holiday Theatres-North- 
+crest. 484-1625. 
+
+
+
+CLASSIFIEDS 
+
+
+
+THE STRENGTH OF A 
+
+VOLVO IS ONLY ONE OF 
+
+ITS STRONG POINTS. 
+
+A Volvo IS so strung, its tool pillars have supported 
+
+'""it eight Ions lu-.m hold live (ull-we adults in a car 
+
+
+
+
+4 THE COMMUNICATOR Fri., August 30, 1974 
+
+
+
+AND NOW, A MESSAGE FROM YOUR BOOKSTORE . . . 
+
+
+
+
+WELCOME 
+BACK. 
+
+
+
+
+FOLLeTTS 
+
+
+
+FORT WAYNE BOOKSTORE 
+
+GROUND FLOOR KETTLER HALL PHONE 483-6100 
+
+
+
+
+required texts - study aids - general interest books 
+sweatshirts &amp; t-shirts - gift items - required supplies 
+class rings - hewlett-packard calculators - and more.. 
+
+
+
+</pre>        </div>
+      </div>
+    

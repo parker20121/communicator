@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i19indi/communicatorv22i19indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i19indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i19indi">The Communicator</a>"
+          </h1>
+          <pre>
+Part one of a series on the history of IPFf 
+athletics Page Four 
+
+
+
+i 
+
+
+
+Freudian valentines, find a mate Page Two 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 19 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+February 14, 1991 
+
+
+
+I 
+
+
+
+NFOGRAPHS 
+
+
+
+Crime at IPFW below national average 
+
+Bv TINA HOLSTON attended a dance held at IPFW lw an at residential eamn.rees Therein™ ... n.. .„„, .u,„ _.._t— ., _.. ... .=?... 
+
+
+
+Election volunteers 
+needed 
+
+
+
+
+Budget cuts could increase tuition 
+
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+Communicator 
+
+
+
+Editorial Board 
+
+Tina Holston 
+Editor In Chief 
+
+
+Dan Hvde 
+
+Kelli Beery 
+Copy Editor 
+Jerry Karpe 
+
+
+Mark Donaldson 
+
+Sport, Editor 
+Allen Smith 
+Plwlo Editor 
+John Cruse 
+
+
+
+'orie Reynolds 
+
+
+
+Indiana's education 
+cuts could affect IPFW 
+
+
+
+s,,vmj; all along thai the governor's cuts !o higher 
+severe," said Gloria Goeglein, (R)-Fort Wayne 
+■ Indiana House of Rept 
+
+iid, ,1,1,1 (.nvrninr Kvan IJavh has | 
+: h&lt;-i .-&lt;1u. .1 i mills budget Ini I'l'll 
+
+
+
+high 
+
+ovei tuitinn paid in ili«' I!*! i academic year In real terms, if you are 
+
+.1. Indiana H l.li-Hl .in. I I'M. ' n it) |" I I'M' ir I Veal vnll - Ollld 
+
+|„ I.,., Line (inward In paving s/l 7;&gt; Inr tin; Mule credit hour. 
+
+Tins ..iii-lii-ular seencrin will pnikibh m.m happen however cuts will 
+likely come to ever*, piogrnni olleie.l h\ M'l'W fewer classes will !&gt;e 
+nllered. allilelics will lie curtailed. Ui. Il.-lmko Library's fund for 
+ncmnsihiuis will he .ui sntet\ .m campus in the term "I police ntlicers 
+and physical repairs will he fewer and far between, and students will 
+slill have to iiav higher tuition. 
+
+L.-ivli's budget ignores the obvious The obvious is (hat if Die Slate ol 
+
+Indiana support.- higher education instead ul undermining it through 
+budget rills then the stale w.ivild he doing its part to improve the 
+
+o; v ni the us world market. 
+
+Instead ol tins view, I'.avh has .-h.r-.-ii hi si ill.- the growth of the state 
+
+
+
+
+Snyder refutes opinion 
+of former Marine 
+
+
+
+Enriching opportunities 
+available at IPFW 
+
+
+
+■' li'll. .1 ! 
+
+
+
+Philip Cordill states others to die f&lt; 
+
+
+
+fake corn* ml ut yoni .'.lucation l J ,e in charge .&gt;l your life. Design y 
+own learning agenda Add vanet\ In \mir education and versatility to 
+Mini skills Br.-i up your resume, if nothing else. 
+
+The list of opportunities is a lung, one. Students Government, PIT, 
+The Ciitnmuincalui , Hubs. Hi.- Knculh Iteeital Series, ai 
+
+II. i.n-iiine -.in. I, ni , v.nb .inldi e n should explore IPFW 
+athletics as .m inexpensive entertainment allernaliv 
+kelbnli. on ; si a i uli n i. 1 , men and women role-models, and 50-cem 
+Nof to mention the opportunity to win a pizza, new car, or 3( 
+
+For a more sophisticated night out, a PIT production offers 
+step beyond the main hue s AH presents a variety of activities 
+to appeal to many students And Students' Government wou 
+provide sevei.il nil en- ling evenings a month. 
+
+
+
+former protect t 
+
+i die for it. 
+
+s Cordill i 
+
+pie from participating in the political 
+
+protect that process, I say, "Turn 
+your televisions on America," Maybe 
+Timothy Leary was right when he 
+iaid, "Turn on, Tune in, and Drop 
+
+
+
+protect the political 
+
+
+
+Great I 
+popcorn. 
+
+
+
+Animal rights activist 
+offers medical cards 
+
+
+
+opposed to ca „ ,.,/, „■,!,„„ , 
+
+
+
+tefBMEm 
+
+
+
+
+
+
+Need A Valentine? It's easy with want ads 
+
+&gt;LKER ^^ * Ad 4 Analysis - This woman would sulking in fr 
+
+Sea ( JbtruseAngleI sSriSSSsSs "7 
+
+
+
+
+I rent four Chuck Norris my gerbils waiting f 
+
+
+
+Arabs don't deserve rage 
+
+
+By JACINDA WALKER 
+
+
+hostility fear and confusion into the 
+
+
+Staff Writer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+warped bigots are focusing their 
+
+
+Saudi Arabia. This clearly proves 
+
+
+anger and frustration with the gulf 
+
+
+
+
+
+
+
+
+
+
+Arabians told their people that they 
+
+
+
+
+
+
+
+
+drive a wedge between the Saudi 
+Arabians and the United States and 
+
+
+11 ommentaryI 
+
+
+IV* 1 
+
+
+cause serious problems for our peo- 
+The "bigots and prejudiced people 
+
+
+
+
+facts and knowledge about the situa- 
+tion are responsible for a large por- 
+tion of this prejudice. 
+
+
+mean that we hate their race. We 
+
+are just trying to rectify problems in 
+
+
+
+
+
+
+getting threatening phone calls and 
+
+
+Please understand that I am not 
+trying to preach on a soap box or 
+
+
+
+
+offend anyone who does not justly 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appointed power of doing this? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+camps to "protect" us. Being cau- 
+
+
+
+
+
+
+
+
+
+
+for a better life, security, leadership, 
+
+
+to go around instilling emotions of 
+
+
+friendship, and acceptance' 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Free recital 
+
+Department of Music hosts 
+nationally renowned singer 
+
+
+
+American Indian history ignored 
+
+ly defeated the Americans: along " 
+Eel river the Indian- .ui,ln„l„,l 
+
+
+
+By TOM SW1NFOHD 
+
+
+
+With a heavy heart and fi 
+
+
+
+
+evetib leading 
+tte Gulf War anj'+ke 
+possible hurifKati"!" 
+;+ nay (mVc. | 
+
+
+
+• If W«r ; 
+
+
+
+d„rl»s ik Mm 
+
+
+
+The Communicator. 
+THE way to reach students 
+or teachers or young 
+people or married people 
+or professionals or car 
+
+dwellers or record buyers 
+or home-owners or movii 
+goers 
+
+
+
+All in one pla. 
+
+
+
+community, and a market 
+you don't want to miss. 
+
+For information, call the 
+
+advertising office of 
+
+The Communicator at 
+
+481-6583. 
+
+Nobody reaches IPFW 
+
+like we can. We're big 
+
+enough to do the job but 
+
+
+
+interesting. Your ad 
+doesn't get lost in a m 
+of supplements, insert 
+and grocery ads. Our 
+modern offset printinj 
+professional layout, 
+award-winning graphi 
+combine to prod 
+best ads for your busi 
+
+
+
+
+
+
+the 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW all of th( 
+above rewards can be acheived. Multiple s(.-hci|,-.ir.--hi|&gt;-- will U&lt; 
+awarded by the parent Fort Wayne local American Production 
+and Inventory Control Society Chapter, at the regional level a 
+
+
+
+theme paper on one APICS topic 
+control, production activity, J.I.T., 
+management, or planning and 
+
+
+
+M.R.P., system: 
+
+forecasting can win a cash reward. Your faculty 
+
+help with recommendation and these scholarships 
+
+
+
+i by March 15, 1991. So come to our monthly meeting every 
+lird Thursday at 6 P.M. in Walb Union Room 222 and meet a 
+racticing professional face to face. Learn how an APICS 
+irtification can open employment doors for you. For further 
+ifo see your faculty advisor or call John at 493-4311 or Gail at 
+J5-3387. 
+
+\ Thanks! 
+
+
+
+JOB OPPORTUNITIES 
+
+SEASONAL INTERPRETIVE STAFF - work at the Historic Fort - 
+need people for different positions with skills in cooking, sewing, 
+woodworking, gardening, other craft work and acting. Part-time i 
+full-time. 2-2-G-1. 
+
+SWIM COACH - part-time, early morning, 20-25 hours - $4.10- 
+$5.00. Memorial Day weekend through mid-September. 2-1 -H-1 
+LIFEGUARD - part-time, early morning, 20-25 hours - $4.10-$5.0 
+Memorial Day weekend through mid-September. 2-1-H-2. 
+AUDIO VISUAL SET-UP/DELIVERY PERSON - 25 hours/week - 
+8 or 5-9 weekdays and weekends. $5.50 • knowledge of basic 
+audio visual s 
+
+
+
+
+Attention 
+Purdue 
+University 
+Students! 
+
+
+
+
+
+
+The Board of Trustees of Purdue University is 
+accepting applications for the position of Student 
+Trustee. 
+
+To be eligible for consideration for this trustee 
+position, a student must satisfy the following 
+requirements: 
+
+■ full-time undergraduate (1 2 credit hours) or 
+graduate (9 credit hours) student 
+
+■ good academic standing 
+
+■ disclose current Purdue employment information, 
+if any 
+
+■ able to fulfill a two-year term (July 1 , 1 991 , to 
+June 30, 1993) 
+
+Applications are available at the Kettler Hall 
+Information desk and at Students' Government, Walb 
+Suite 225. 
+
+Applications must be submitted no later than 
+Wednesday, March 6, 1 991 , to Students' 
+Government. 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The Underground 
+
+
+
+Mastodons lose two 
+record stands at 10-10 
+
+
+
+The early days 
+
+Athletic program grows, 
+looks toward future 
+
+
+
+
+</pre>        </div>
+      </div>
+    

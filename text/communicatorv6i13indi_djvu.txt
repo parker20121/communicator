@@ -1,0 +1,1583 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv6i13indi/communicatorv6i13indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv6i13indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv6i13indi">The Communicator</a>"
+          </h1>
+          <pre>THE COMMUNICATOR. 1974-75. 
+
+
+
+JEIANA UNIVERSITY. PUKDUE UNIVERSITY AT FORT WAYNE 
+
+
+
+VERSITY AT FORT WAYNE 
+
+THE 
+
+
+
+
+COMMUNICATOR 
+
+
+
+Hearing Wraws 60 
+
+
+
+IPFW. 
+
+Ihe position o 
+
+
+
+i if there w 
+-chance 
+
+Hnnksm' ;i 
+
+
+
+f D wight Henderson. 
+
+
+
+vice-chancellor's offici 
+
+•chancellor h 
+! would be an adn 
+
+
+
+chancellor has 
+hancellor's office 
+
+
+
+Concern over tin 
+ity that might be gi\ 
+lor was expressed a 
+
+reporting to the vi- 
+
+
+
+jt one for the students, 
+a of deanships. 
+
+niversity 
+
+
+
+tudent services, 
+
+ggested that this would provide fi 
+
+Iso took exception to scparc 
+
+
+
+ll'liililv., 
+
+
+
+
+
+
+and flnant 
+
+separation i 
+
+
+
+:ademic officer provides for I 
+
+;rceive that having si 
+
+iminisler the admissions function i 
+
+
+
+I the Administrative Stal 
+tearing. He stated lha 
+e is finally established, i 
+
+
+
+hanges when 11 
+deteriorate," 
+
+
+
+.ij)jH',ii - Hiir 
+pallern if the 
+instituted in i 
+Where the 
+will fit into the 
+was the quest 
+He reported U 
+
+reporting to ai 
+
+
+
+1 Arnold. "It 
+d follow that 
+t document is 
+
+
+
+operation by locating il 
+
+
+
+11 components &lt; 
+librarians were 
+
+
+
+jre, reportable 
+
+) authority for 
+&gt; the efforts to 
+
+
+
+
+Oaken bucket tickets 
+
+I.TJ. or Purdue football fans vvhr 
+not able to gelt 
+
+Oaken Bucket 
+Barbara f 
+■ .ilhletic office 
+
+
+
+Barbara 
+ithletic 
+
+■&gt; -hr i'/nuH like I" si'll fi.i! 
+
+
+
+The 
+
+
+
+Buss I'lnytr I'aul Ham I is ;i men. tier .if ,\laliiij;any (lush W 
+
+Student Union Ballroom. Friday night, November 15. The hnnd was sponsored In 
+Folkus 71. All of the free tickets wen- given uwuy within iiiu* hall hour uft.-r liny 
+
+
+
+Trustees ratify reorganization; 
+give departments more autonomy 
+
+
+
+the academic structure at IPFW The mai 
+effect of the document will be to give It 
+departments on this campus more auton 
+my in selection and implementation i 
+
+
+
+departments of biologic 
+
+
+
+Thatcher said tl 
+
+
+
+student related functions should b 
+i in one unit and be recognized s 
+
+
+
+if the libr, 
+icademic si 
+
+"It left ui 
+
+
+
+e faculty status 
+nts, etc., would 
+of the campus 
+
+
+
+departments operated inriqvi! IcnDy 
+Before the November H meeting. ; 
+
+
+
+'Centers' to replace schools 
+
+
+
+If students request 
+
+Fee extensions granted 
+
+
+
+nis who will e 
+registartion 
+
+
+
+Chancellor Donald Schwartz 
+decision to grant individual exten 
+
+the deadlines would be difficult to meet ft 
+
+December 21 is the deadline for fe 
+payment for students who have advanc 
+
+Pavment* by mail must be postmarked n 
+
+extension must request one from the bursal 
+
+For athletic use 
+
+
+
+Christmas and N 
+ice been cancel 
+The Student S 
+
+
+
+JPAC approves new lot 
+
+
+
+;ceive approval from 
+
+
+
+"Approval of this mc 
+"imnittici- kills two birds wi 
+aid Dueey "It falls under II 
+
+
+
+planned to hold 290 
+250" by 372-. 
+
+Bendixen will chi 
+
+
+
+schools, would be the ba 
+
+released yesterday by th&gt; 
+Academic Structure. 
+submitted to the Ad He 
+Steering Committee at its 
+The plancalls for nine 
+
+would Cenlers include life seieni 
+
+
+
+for hard-pressed 
+s hand-carried by 
+
+
+
+complaints f; 
+s expecting 
+
+e new deadlines. 
+
+
+
+leeks from the 
+and students with 
+e especially upset 
+
+
+
+ir needed Mnn.' 
+r Chnstmjs. 
+
+
+
+ve made it impossible t 
+Skelton. who is the regis 
+
+
+
+e Christmas break. 
+
+
+
+sity's desire i 
+
+
+
+related departi 
+
+
+
+for academic Foundation 
+
+o a proposal for the Hum; 
+
+rask Force on The Chancellor ! 
+
+le plan was could be used for 
+
+Joint JflGulty university faculty to 
+
+"t.'kl.v nutting. well as for hiring out 
+
+.. physical and Harroff said that 
+
+
+
+mh.'Hl-r/ip- 
+
+Tients would 
+
+
+
+' i;.|" llll &gt;; t&lt; 
+onal Si 
+
+
+
+National Science 
+
+
+
+,.'. : pti 
+
+
+
+•- (jrm.pcl i 
+tud&gt; r.I l.sl 
+
+
+
+faculty." 
+
+
+
+the AHJFSC for reassignment, 
+i departmental i (acuities have a 
+
+
+
+1 Schwartz suggested 
+
+
+
+INSIDE 
+
+
+
+
+To quote Dr. Andrew Harper, the Lniver-.it&gt; Singers 
+their "annual" Dickens Dinner. For more inforn 
+
+
+a"o7re P ad ln Susa; 
+
+
+Morrison's Focus on Fine Arts on page 3. 
+
+
+
+
+The Di\ ision of Arts and Sciences Is ottering tv. o doze 
+the spring semester. A description of the new course 
+page 4. 
+
+
+can be found on 
+
+
+Fort Wayne seems to be in a hum to "dress up' 
+Photographs ol the decorations are on page 3. 
+
+
+for the holidays. 
+
+
+John Logan sa&gt;s thjt \mtrk.iii- are looking forward I 
+and their u«n stuffings while others in the world are sia 
+appears on the Opinion Page. 
+
+
+both the turkey's 
+
+
+
+All-university senate 
+
+The proposal for a single, unified, all-university senate has been drawn up by the 
+Task Force on University Governance and presented to the Ad Hoc Join Faculty 
+Steering Committee (AHJFSO The Communicator endorses this proposal and 
+strongly recommends its adoption by the faculty and the chancellor. 
+
+Notions of an all-university senate have been on campus a long time. The old 
+Parliament idea just about became reality three or four years ago. It wbb finally 
+defeated because it would not replace the existing senates, merely serve as a 
+coordinating body for them. 
+
+The idea came up again last year with the announcement of the merger. The 
+presidents called for a single governance mechanism for the two faculties on 
+campus. The Task Force on University Governance began considering the 
+possibility of merging all campus constituencies into a single body rather than just 
+combining the I.U. and Purdue faculty senates. 
+
+The all-university senate received an added boost from Chancellor Donald 
+Schwartz. The chancellor told the task force that he preferred a single senate to a 
+proliferation of governance bodies with which he would have to deal 
+
+The concept of one body has picked up m&lt; 
+endorsements from the Student Senate and 
+groups have gone on record supporting the on 
+each constituency. 
+
+The Communicator lakes pride in joining 
+advocating such a body. 
+
+This leaves only the faculty I oendfirsc the Cdnffpl. There is significant faculty 
+opposition to an all-university, but by the same token, the faculty does not appear 
+ready to scuttle the concept. 
+
+Ultimately, il will be the chancellor who will adopt or veto the plan. The 
+Communicator urges Dr Schwartz to keep in mind the s! inlenl'. nm\ staff personnel 
+when he makes that decision, 
+
+
+
+Problems may be solvable 
+because of education 
+
+
+
+OPINION 
+
+
+
+Americans await own stuffing 
+
+
+
+the past few weeks with 
+Administrative Council. Both 
+late over separate senates for 
+
+
+
+
+
+
+■ compiis i 
+
+
+
+
+world by itself The oil producing nations 
+
+
+speech and small farmers 
+
+
+in this country 
+
+
+have become quite wealthy and could 
+
+
+
+
+
+
+
+
+
+
+
+
+But no one at the World Food Conference 
+
+
+
+
+grid's greatest 
+
+
+asked this country lo feed the world by 
+
+
+Scrooge can be persuaded 
+
+
+
+
+
+
+
+
+
+
+extr. grain. In our name E.rl Bui* refused. 
+
+
+dastardly thing he would be 
+
+
+StoibwuTd 
+
+
+
+
+
+
+
+
+
+
+their tattle herds. That 
+
+
+
+
+predecessor, and Secretary BuU has fallen 
+
+
+destructive enough, bul c 
+
+
+
+
+out of a number of groups' favor. World 
+
+
+destructive, is hiseurrenl ci 
+
+
+
+
+
+Our University 
+because II goc 
+
+, sp.tiln.illv 
+
+
+
+pimp because it rookoui husllim.! lor federal 
+
+
+
+s no inU'nlmn &lt;&gt;f cr.oluiitini: " 
+it In a position In affirm or dcn&gt; 
+
+
+
+N„n-Tradninn. 
+
+
+Sludlis 1. bein 
+
+
+iipp led, 
+
+
+
+
+' k 
+
+
+3 
+
+
+
+
+ii 
+
+
+wfi 
+
+
+Stuart 
+Lynn 
+
+
+m 
+
+
+■ 
+
+
+
+iiilHTerilly ili'iniiuiiii)!, and obviously ninth 
+that Is healthy about physical activity, 
+humanity has progressed lo the point where 
+much of the drudgery can be done by 
+
+
+
+ms thai should chidlerifie our me 
+notional capacities as human bell 
+loimplkaimiisol all Ibis for cduea 
+be obvious: we need more, nol 1 
+oneed to drastically reevaluate « 
+
+
+
+s ol people in tin- ilr-v«-ln)ji-&lt;l nalions of 
+
+Slates, are lor the most part completely 
+
+satisfied Obviously il food were distributed 
+more evenly around Ihe world, the 
+populations of the underdeveloped nations 
+would not he in (pule Die desperate condition 
+
+
+
+it by education, and h 
+
+
+
+
+
+
+
+Rome Attended by 
+
+
+delegates from 
+
+
+
+
+[the 
+
+
+world's nations. 
+
+
+theeonlcrcnri 
+
+
+
+
+
+
+clple goals The 
+
+
+first was to alii 
+
+
+
+
+
+
+ia.s possible the 
+
+
+immediate st; 
+
+
+
+
+
+
+
+
+develop a plan 
+
+
+
+
+
+
+re which would 
+
+
+provide melh 
+
+
+rtasr° 
+
+
+nnd 
+
+
+l™e" e |ood 
+
+
+prodmtion in 
+
+
+
+
+
+
+veloped world. 
+
+
+While making 
+
+
+
+
+
+
+ess toward its 
+
+
+
+
+
+
+
+
+
+
+
+
+UelejMles 1 
+
+
+
+
+
+
+
+
+
+
+
+
+i-rnptv hooded 
+
+
+
+
+
+
+delegates from 
+
+
+thr developed 
+
+
+
+
+left 
+
+
+
+
+satisfied with i 
+
+
+smeag 
+
+
+cr accomplishments. 
+
+
+conference lo provide 
+
+
+immediate relief to 
+
+
+
+
+e already met my other r 
+
+
+
+Soviet Union is fascist 
+
+
+
+
+MELANGE 
+
+
+
+Say cheese! 
+
+
+
+
+We wish you 
+
+a Merry Thanksgiving 
+
+
+
+
+
+Holiday gatherings 
+make valuable photos 
+
+
+
+people doing things" 
+
+
+
+photogra- ready, Check the c 
+
+
+
+always ready can produce. 
+
+The holidays nre just ahead- 
+the time (or trips, children home 
+from school, family gatherings, 
+and the time for mnitiim the nuisi 
+
+
+
+■ics Lay in ;i supply m \., m 
+
+I.' film, iiml I'liish (mlh, n 
+
+m- I hem Think a little .n,r 
+
+definite plans for tht 
+
+
+
+I up kicking pluiteuiophet 
+
+
+
+Most phoiogni pliers start out 
+making "people pictures." It 
+may be a Sunday afternoon 
+snap -shooting session In (he park, 
+
+
+
+: will) it, get through, 
+
+
+
+■ skilled photographer, really 
+
+
+
+Beware of 
+Hying objects 
+
+
+
+|uiivh;ise&lt;l wilh the arrival u 
+
+
+
+I'lien the |ili&lt;&gt;loe.r.i|&gt;hiT rr 
+d studies, perh. ip-. jnirt&gt; 
+
+
+
+if doors There 
+os of people 
+
+
+
+overlook the indivl 
+
+
+
+object per day plummets hack It 
+
+
+
+'shuts Other children i 
+
+suddenly father realizes he 
+
+) doesn't have Hie rci-nnl he should 
+
+-' L 's children, about the 
+
+it the opportunity. 
+
+re will be that family 
+
+LTOryone gels together. 
+
+ten by both happy 
+
+i another 
+
+
+
+THE 
+CLASSIFIEDS 
+
+
+
+
+
+
+ll III ,1 \tivri\ •&lt; 
+
+
+
+/ really than the fi 
+oeeeptahle pi' 
+
+inexpeeted de.ith 
+
+year rolls c 
+
+ii|i|nir! I\ 
+
+
+
+elderly | 
+
+
+
+-.dp... 
+
+
+
+pirlnrr 
+
+
+
+
+
+
+Indians to thank for much of feast 
+
+
+
+.1 part of Thanksgi 
+latesl ' " 
+
+beginnings of 
+
+
+
+feasting dates back 
+
+
+
+Pilgrims t 
+
+Thanksgiving by eating turkey, ; 
+
+fowl previously 
+
+
+
+ONE FOR ■ 
+THE GIBBER 
+
+
+
+
+/- u u"Tj \ CLIP 'NT COOK 
+
+Cranberry Holiday ) c.i., „«. 
+
+Salad 
+
+
+
+Cream Cheese Topping 
+
+
+
+Now With Two Locations To Sorvo You 
+
+
+
+fflUCO amd] 
+
+
+
+Enjoy The Ultimate 
+in Massage 
+
+
+
+FRtE CHARIOT PARKING 
+
+
+
+\»r™ 
+
+
+
+FtOCK SAUNA 
+
+
+
+CAeSARS 6PA 
+f* The fun Place Of JHj3 World 
+
+With 'he Grutflit WIjoVii 
+
+Atmwpher*. fcxerting Toqa Clad 
+
+Gcddeives Are Awaiting Vou 
+
+TO PAMPER YOU . "= 
+
+And Relax You With 
+
+A Full Body 
+
+MASSAC EH 
+
+
+
+We Wish You May 
+We Wish You Might 
+We Wish You Were 
+At CAESAR'S Tonite 
+
+
+
+
+MONDAY • FRIDAY 10 A.M. 12 P.M. 
+
+
+
+SATURDAY 10 A.M. - ' 
+
+
+
+NORTH 
+
+484-8624 
+
+
+
+Dowrrowii 
+
+422*7896 
+
+
+
+704 West Jefferson 
+Broadway &amp; Jefferson 
+
+
+
+Someday Yoy,M y Come to Caesar's Spa 
+
+
+
+
+Arts, sciences unit to add new, 
+innovative classes for spring 
+
+
+
+partment of Englis! 
+
+
+
+mrad. Dr. Philip Head- 
+ings is teaching sections on 
+classical mythology, 20th century 
+British poetry, the western 
+, and a modern 
+
+t Kirchhoff and 
+
+
+
+sections of Oceanography and 
+Landscapes of the U.S. and Dr. 
+Dipak Chowdhury will offer A105 
+Stellar Astronomy next semes- 
+
+
+
+ns, contempor- 
+
+men in politics 
+it any A &amp; S 
+
+ntitaiiieil from 
+
+
+
+CAMPUS 
+COMMUNIQUE 
+
+
+
+more i nm 
+
+VOl EIPECI 
+FOR LESS 
+EH/11 VOL 
+EXPECTED. 
+
+
+
+
+$329. now buus a music system 
+which sounds truly wonderful. 
+
+Reg. Net 
+
+J529 $q»tem ||f $365.90 
+
+Save $36.90 
+
+
+
+
+Editor's note: Forget 
+
+ve said last week 
+
+this column. Any 
+
+mpus department, office, 
+
+organization who wishes 
+
+anything in this 
+
+submitting it to The Com- 
+municator. Suite 215, Stu- 
+dent Union. The deadline is 
+Tuesday 
+
+publication. The informa- 
+tion should also be directed 
+to the Office of University 
+Relations for use in other 
+publications and media. 
+
+In other words, do 
+everything like you did it 
+before and be happy. 
+
+
+
+'Readers Hour' 
+
+
+
+Professor Counte Professor Cashman 
+
+
+
+students adjust while &lt; 
+
+
+
+sed the Unitarian Church in Fort 
+Wayne on "Human Values and 
+Shelagh Delaney's "A Taste of 
+
+
+
+Prof. Abramowitz 
+
+
+
+as a consultant 
+vices Research 
+s University of 
+
+
+
+n lounges of Sludenl 
+'he Oral Interpretation 
+. will present readings 
+
+
+
+li.ni|.'r prof i 
+land) pli 
+
+
+
+lylechnic, Nottingham. Enjj- 
+Tykes Trophy 
+
+
+
+mil lii&gt;v. i hey feelal 
+they are doing. Among 
+cuttings being presented are 
+telephone operator, a recepti 
+
+
+
+i people Prof. Houseman 
+
+
+
+W.JEFFERSON 
+422-IT68 
+
+
+
+
+OUPx THANKS SWING 
+HIT. 
+
+JddJU.^ I ^TAft-T-S MO V). 
+
+
+
+Faculty-Student Cross 
+cross country 
+
+
+
+Professor Bruening 
+
+
+
+; professor of philn-uphy i&gt; 
+author of a recently published 
+
+
+
+Women's 
+
+
+
+tmiHMKlV POUCH* 
+
+
+
+• 
+
+
+CTORT WAYNE 
+
+ELECTRONICS 
+
+
+• 
+
+
+
+IN THE GLENBROOK MALL 
+AND OUR WAREHOUSE STORE 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+WANTED 
+
+for 
+
+m COMMUNICATOR 
+
+photographers 
+
+ad salesmen 
+
+editorial writer 
+
+
+
+If interested, see 
+Mark Franke in Suite 215, Student Union 
+
+
+
+ARTS Si FUIM 1 Stars don't save film 
+
+
+
+START ANYWHERE YOU WISH. 
+THE OBJECT OP THIS MAZE IS 
+TO CONNECT ALL TUE BULLS 
+EYES WITH THEIR CORRESPOND- 
+ING OUTSIDE RING OE COLOR 
+
+IN OTHER WORDS I 
+
+BLACK TO BLACK. S y£ LLOW 
+RED TO RED. ETC. ° ORANCE 
+ONCE A PATH ■ JKEEN 
+
+MAS BEEN g SLUE 
+
+TRAVELED UPON • R . E ° 
+
+
+
+
+B-ball Mastodons 
+drop season opener 
+
+
+
+Volleyball in full swing 
+
+
+
+
+The intramural department is considering reserving the swimming pool and 
+possibly the basketball court at the new Old Fort Y.M.C.A. The facilities would be 
+rented for the next semester with hopes of using the pool for most of the semester. 
+
+The program would be open to all activity card holders or those students with 
+S15 fee receipts. This activity would not be a competitive program where you have 
+1 but a fun, free activity for the students enjoyment. 
+
+Swimming would be for one or two days a week. 
+
+New Old Port Y.M.C.A. can let Indiana-Purdue reserve the pool in the 
+afternoon from 12:00 noon to 2:00 p.m. or evenings from 9:00 p.m. to 11:00 p.m. For 
+those students who are interested, please fill out the coupon below and return to the 
+Student Activity office, room 225 in the Student Union. 
+
+Paul Shoaf, intramural director 
+
+
+
+J New Old Fort YWCA Swimming - Pleas 
+J fits your schedule. 
+
+
+, check the square that best 
+
+
+ID—-.* □ 
+
+| Please return to Student Activitie 
+
+
+p.m. - 11 p.m. 
+
+office^^ Union, room 225 
+
+
+
+</pre>        </div>
+      </div>
+    

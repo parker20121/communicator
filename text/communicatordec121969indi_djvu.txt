@@ -1,0 +1,1855 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatordec121969indi/communicatordec121969indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatordec121969indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatordec121969indi">The Communicator</a>"
+          </h1>
+          <pre>I.IDIA^A-Pi-IMJUE UNIVERSITIES. FT. 
+TAE GOCnJNICABOR. 
+
+
+
+THE 
+
+
+
+
+COMM^NK^ATOR 
+
+
+
+Vol. T, Issue 8 
+
+
+
+December 12, 1969 
+
+
+
+
+lUP Singers Present 
+Dickens Dinner 
+
+
+
+These ore The University Singers rehearsing for their Dickens Dinner to be presented December 
+12, ond 13 ol The Fori Wayne Women's Club. 
+
+
+
+Three Plays Scheduled For PIT 
+
+
+
+The di reeling class nill present 
+three one-acl plays tliis i«eek-end, 
+December 12 and 13 at 5:00 p.m. 
+in the Purdue-Indiana Theatre. 
+Tlie firsl of these, directed by Erin 
+Halseraa, will be Not Enough 
+Rope by Elaine May. The play is 
+a comedy about people and their 
+idiocyncracies. h takes place in 
+an old boarding house at the pre- 
+sent lime. The ihree characlers 
+are Edith, played by Susie Wi- 
+nans; Tim Baylock as Claude, and 
+Susie Hoover as old Mrs. Pierce. 
+The play begins with Edilh bor- 
+roiring some rope from ihe new 
+tenant (Claude) to hang herself. 
+The action of the play centers 
+around Edith marooned on a chair 
+with ttt-ine around her neck (she 
+has decided not to kill herself) 
+and aaude'f " ' " 
+
+
+
+slant interruptions. 
+
+The second play iriU be fm- 
+proinplu by Tad Mosel and direct- 
+ed by Anne Knipslein. The play 
+
+together to perform an improvi- 
+sational play on stage. They begin 
+by telling about themselves, 
+we soon learn that each has ac 
+flaw in his character. They are 
+successful in their attempts 
+act out a play because they 
+unable to separate the ivorld of 
+the theatre from tlie outside .wo rid. 
+The play was ivrilten for the 
+living theatre and concerns 
+theme: how much truth and how 
+much illusion do ire need to 
+a balanced life? Those in the play 
+include Mary Ann Gerhold, Jeff 
+Gibson, Charlene Post, and Rick 
+
+
+
+Union Building Plan 
+Being Continued 
+
+
+
+The Union Building Planning 
+Committee which consists of Cindy 
+Siminski and Dr. Andrew Harper 
+as representatives from Indiana 
+University and Dr. Roger Manges, 
+chairman. Dr. William Davies, 
+. and Cord ell Mathieu as repre- 
+sentatives from Purdue Univer- 
+sity has visited the following uni- 
+versities in their planning: Forest 
+Park Community College in St. 
+Louis, Southern Illinois Univer- 
+sity at Edwardsville, Illinois, Oak- 
+land University i n Rochester, 
+Michigan, and the University of 
+Houston in Houston, Tesae. In 
+preliminary planning, the com- 
+mittee scheduled 
+
+
+
+representatives of student organi- 
+sations to hear their opinions in 
+
+
+
+regard to needs and to analyze 
+questionnaire results. 
+
+The purpose of the trip was to 
+aid the committee in formulating 
+concepts involved in planning a 
+union building for the Fort Wayne 
+Campus which will be attractive 
+and functional to meet the needs 
+of the majority of persons in- 
+volved in university activitics- 
+
+Thc Union Building is planned 
+to be the center of the future 
+campus located on the inlet river 
+area near the present power plant. 
+The building will be designed to 
+serve the following three prior- 
+ities: 1.) students and faculty 2.) 
+groups and activities affiliated 
+with the university 3.) commu- 
+nity. Construction hopefully will 
+begin by next fall. 
+
+
+
+Jim Okleshen ivill direct Pi 
+gntory tvritten by William Butler 
+Yeats. The play is a poetic drama 
+which concerns an ^ 
+(Michael Ferrigno) attempt to 
+free his mother's soul from pur- 
+gatorial torment. It is a ghost 
+play concerning the supernatural, 
+and although a short play, it i; 
+concerned with man's siruggh 
+witli himself. Others in the play 
+include Christy Darnell as the boy, 
+Doug Lebrecht as the father, and 
+Kathy Garland as tlie mother. 
+Bruce Eickham, Greg Allan, Star 
+Maierhofer and Ann Ziege 
+be body carriers. 
+
+Tliere wjll be a donation at the 
+door to go into the Blakely-Wir- 
+rick scholarship fund. 
+
+
+
+U- Teachers Speak 
+At Local Schools 
+
+Richard Hess will address the 
+students of Mr. Gene Phipps at 
+Elmhurst High School. His topic 
+will be "John L. Lewis and the 
+Labor Movement in America." 
+
+Dr. Donald Turner will speak 
+on "A Career in Teaching: An 
+Exciting Challenge." He will add- 
+ress a Sociology class at Central 
+Catholic High School on Thurs- 
+day, Dec. 11. 
+
+"The Use and Abuse of Psyche- 
+delic Drugs" is the topic of Dr. 
+Micliael Nigro. He will speak at 
+the doivntown Optimist Club at 
+it.i noon luncheon at the Gas 
+House on Monday, Dec. 15. 
+
+Monday, Dec. 15, Professor 
+John Halbcrt is scheduled to add- 
+ress the Future Teachers Club of 
+Lakeside Junior High School at 
+its meeting. His topic will be 
+"Education is a Bargain." 
+
+
+
+A return to the nostalgia of the 
+traditional English Christmas is 
+the theme of the second annual 
+Dickens Dinner to be presented 
+by the University Singers of In- 
+diana-Purdue at Fort Wayne. The 
+Christmas dinner-musical ivill be- 
+gin at 7:30 p.m. on Thursday, 
+Friday, and Saturday, December 
+11. 12 and 13 at the Fort Wayne 
+Woman's Club. 402 W. Wayne, 
+Fort Wayne. 
+
+Dr. Andrew Harper, assistant 
+professor of music at l.U. Fort 
+Wayne and director of the Uni- 
+versity Singers, said the Dickens 
+theme ivill be followed throughout, 
+including menu, program, and cos- 
+tumes. Last year's Dickens Dinner 
+was so successful that this year's 
+program has been expanded to 
+three evenings. 
+
+Preceding the dinner, guests 
+
+
+
+will sip a fruit punch from the 
+"wassail bowl" in tlie club lounge 
+while the 50 costumed singers and 
+brass quintet greet them. 
+
+During the meal, caroling min- 
+strels will wander through the 
+room and following dinner there 
+ivill be a short musical program. 
+
+Initiated and directed by Dr. 
+Harper, the Dickens Dinner is 
+well on its way to becoming an 
+annual tradition in Fort Wayne. 
+
+Tables at the dinner will seat 
+eight and persons can reserve any 
+number of seats or an entire table. 
+Tickets are §4.00 per person and 
+reservations can be made by mail 
+addressed to Dickens Dinner, Box 
+161, Indiana University Fort 
+Wayne, 2101 Coliseum Blvd. E. 
+or by phoning 483-8121, ext. 347. 
+Checks should be made payable 
+to Dickens Dinner, 
+
+
+
+
+Pictured above ore three members of the Circle K Club which 
+hos undertaken a boy's-hetp project at the Fort Wayne Children's 
+Home. 
+
+Circle K Befriends Boys 
+
+
+
+It all began with Bill Roi 
+
+
+
+Nov 
+
+
+
+Circle K ha 
+
+
+
+taken on a new project as b 
+suit— being friends to 12 and 13 
+year old boys from the Fort 
+Wayne Children's Home. "We 
+think these kids deserve a second 
+chance. They've come from bad 
+home situations but are extremely 
+intcrrigent and are athletically 
+very capable. We want to try to 
+bring these kids hack into so- 
+ciety," said Dave Blosser, Pro- 
+ject Chairman. 
+
+Circle K plans to take the 
+boys out for rush activities as 
+hockey games and other sport- 
+ing events. The project began 
+with the group trying to get ac- 
+
+
+
+quainted with the boys. "We 
+don't want to try to plan activi- 
+tics in advance as much as we 
+would like to leave it up to the 
+kids as to what they want to 
+do," stated Dan Symonds, Pre- 
+sident. "We want to be elastic 
+and to create a mutual transfer 
+of ideas," added Blosser. 
+
+Circle K is a Kiwanian-sp on- 
+sored campus social service club. 
+Its main project on campus is 
+(he coat check on the main floor. 
+
+
+
+Other 
+
+
+
+offic. 
+
+
+
+of I 
+
+
+
+organiza- 
+Don Grote, Vice Presi- 
+dent; Bob Wesner, Secretary; 
+and Rex Pranger, 'Treasurer. 
+
+Meetings arc held every Tues- 
+day at 11:30 fl.m. in G-2. Every- 
+welcome. 
+
+
+
+Guest Editorial 
+
+
+
+by Student Government 
+
+
+
+We, Uie Student Government of 
+Indiona-Purdue University at Fort 
+Woyne, in our continuing effort 
+to keep the comraunitv informed 
+of activities at the largest college 
+campus in Northeastern Indiana, 
+ore concerned about the rising 
+coils of educadon. 
+
+At this point in lime, when tax- 
+payers demand holding the line 
+on taxes and when students can- 
+not afford the burdening cost of 
+education, our university has de- 
+cided lo build the first new build- 
+ing of our campus eipaosion plan 
+in our parking lot. It will be nec' 
+essary for students to pay for these 
+facilities tirhich ivill be lost. 
+
+Approximately one-third of the 
+students at our campus already 
+work. Another substantial seeonent 
+of the students is married. Their 
+bud pets are spent. Tliey cannot 
+afford paid parking. 
+
+Tlic parents ivho ore helping 
+tlieir children through college, es- 
+pecially those w-itli more than one 
+child, ivill abo feel the squeeze. 
+
+Businesses who arc paying Oicir 
+employees to furllier tlieir educa- 
+tion will think twice before paj-ing 
+even higher fees. 
+
+A sample poll indicated that 
+about 96% of the students op- 
+posed paid parking. The adminis- 
+tration told us that if the students 
+knew all the reasons for paid 
+parking they wouldn't oppose it. 
+After discussing the mailer with 
+tlic administration, we in Student 
+Govern racnl feel that if the stu- 
+dents knew all the reasons for 
+
+
+
+paid parking, 99% would oppose 
+iL 
+
+Within forty-eight hours, a pe- 
+tition drive beaded by the Alpha 
+Epfilon Kappa fraternity gathered 
+2,201 signatures. This represents 
+the greatest outpouring of opinion 
+on our campus at any time. Tbey 
+were presented to tlic Student As- 
+sembly ivhich then passed the fol- 
+lowing rsolution: 
+
+We the Student Assembly of 
+the indiana-Purdue Fort Wayne 
+Canipu' are unanimously opposed 
+to the students of the Indiana- 
+Purdue Fort Wayne Campus shoul- 
+dering the burden of paid parking 
+in any form. 
+
+In addition, hundreds of flyers 
+opposing paid parking have been 
+dj.'^tributed. One informative rally 
+with over five hundred students 
+attending was held. The Associa- 
+tion of Regionol Campuses also 
+endorsed the campaign of the In- 
+iliana-Purduc students opposing 
+paid parking. 
+
+A letter opposing paid parkin g 
+wot also sent lo Governor Whit- 
+comb, all Indiana legislators, and 
+other state officials. 
+
+We urge citizens of the Fort 
+Wayne community who are inter- 
+esled in maintaining sanity in 
+spending lo join wilh us in oppos- 
+ing paid parking. Contact either 
+Dean Nelson or Chancellor Broy- 
+les, Indiana.Purdue University, 
+Coliseum Blvd. East, Fort Wayne, 
+Indiana 46805 and urge Ihem to 
+building somewhere 
+
+
+
+THE COMMUNICATOR 
+
+Paid Parking Fees 
+Assessed Elsewhere 
+
+PARKING FEES ON PURDUE AND INDIANA CAMPUSES 
+
+(Kxeluding Fort Wayne Campus) 
+
+Purdue University 
+
+(Lafayette and all regional campuses) 
+
+Category Fees 
+
+Students taking nine or more cred- "A" Permit 
+
+5 and foculty and staff 
+
+e employed more than 
+half time. 
+
+
+
+e on our 220 a 
+r parking loL 
+
+
+
+
+
+
+A Conservative Estimate 
+
+
+
+by Don Sluckey 
+
+Approximately three weeks ago 
+a group of concerned students at 
+Indiana University in Blooming- 
+ton {our sister campus) met at 
+the local pub and formulated pro- 
+ject Top Secret, Wishing to spread 
+their ingenions project to all 
+college campuses across the state, 
+tbey began making phone calls to 
+those sympathetic to their cause. 
+After being rejected by their ori- 
+ginal contact, they decided to 
+call me. After a thirty minute 
+conversation, I decided to initiate 
+project Top Secret at this campus. 
+
+Proieci Top Secret is a dedi- 
+cated effort by concerned patriots 
+lo expose Communists and Com- 
+
+
+
+munist sympathizers wilhin the 
+faculty and administration of the 
+various colleges in the slate of 
+Indiana. Our work is already un- 
+derway. We have already uncov- 
+ered some astonishing documents, 
+and in certain cases have what 
+we feel is conclusive evidence. 
+The battle is just begun. We ivill 
+continue until no secret is left 
+unexposed. There are no doors 
+permanently locked. There are 
+no lips permanently scaled. I feel 
+the victory will be ours. 
+
+For more information contact 
+
+Charles N. Hokes 
+
+1956 Carlhy Drive 
+
+Fort Wayne, Indiana 
+
+
+
+THE 
+
+COMM 
+
+
+
+
+NICATOR 
+
+
+
+Acting Editor Jennifer Bosk 
+
+Acting Monaging Editor Beth Wertman 
+
+News Editor Stephen Huddleston 
+
+Feature Editor _ Roiannc Bruns 
+
+Sports Editor - Barrel Pamin 
+
+"' „ Johannes Limburg 
+
+Julia McEntee 
+
+Sheryl Smith 
+
+. John Courtney 
+
+
+
+Circulation Manager .. 
+Advertising Manager 
+
+
+
+s Manager _ Tina Miller 
+
+Faculty Advisor Mr. William Heller 
+
+
+
+fcoU per year 
+
+"B" Permit 
+
+S 12.50 per semester 
+
+
+
+Students taking, five to eight 
+credit hours and faculty and staff 
+'m ployed, less than half time. 
+
+
+
+"A" Permit 
+
+SI5 per semester 
+
+S30 per year 
+
+"B" Permit 
+
+S6.25 per seraesler 
+
+
+
+Students enrolled 
+assigned to, one ti 
+
+
+
+May elect to take the same 
+as prevails for five to 
+credit hours 
+
+
+
+
+
+
+I Unlv 
+
+
+
+Presently there are three categories of parking fees prevailing 
+
+mly the Bloomington Campus, as follows: 
+Permit S75 per year 
+
+Orange Permit S35 per year 
+
+Green Permit S 5 per year 
+
+While there are no fees assessed at the present time on the 
+Indiana University Regional Campuses, wc are advised that a 
+study is now underway and that such fees will probably be estab- 
+lished, and in effect, by September, 1970. 
+
+
+
+Student Government 
+Comment 
+
+by Mark Souder, Student Body President 
+
+"Student Power" is frequently heard throughout our 
+campus these past weeks. Probably no two people agree on 
+exactly what "Student Power" means, but at this point it 
+might be wise to e.xplain what "Student Power" means to 
+me. 
+
+Being somewhat traditional, I maintain a respect for 
+age, authority, and tradition. If someone is older, it means 
+they have experienced more and presumably have learned 
+from past mistakes. Authority commands respect if for no 
+other reason than authority meana that someone other than 
+you has the power. Tradition deserves respect because it 
+generally has survived for a reason and it provides needed 
+stability. 
+
+On the other hand, one should not overdue his respect 
+for age, authority, and tradition. Just because someone is 
+older doesn't necessarily make him always correct. Authority 
+can be misused. Tradition frequently contains nothing based 
+on sound logic. Therefore, I don't feel students should re- 
+main silent merely because someone is older or in a position 
+of authority, or not challenge something because it has 
+always been that way. 
+
+"Student Power" is too often viewed negatively by so- 
+called adults. When administrators think they are always 
+right, they aren't. Students are better qualified to handle 
+certain things, such as student activities, and should be 
+allowed control over them. As students become better edu- 
+cated younger and mature earlier, there are more decisions 
+which they should be allowed to participate in making and 
+control. As students pay a larger percentage of their edu- 
+cation, their control over it should increase. 
+
+Sometimes opposition to "Student Power" arises from 
+means used. Violence to demonstrate "Student Power" is 
+not really "Student Power," but rather is barbarism. "Stu- 
+dent Power" can be demonstrated by the use of all student 
+resources through the system to support a particular goal. 
+By uniting and mustering their strength, students are a 
+formidable foe. 
+
+At this campus there will hopefully be a continued show 
+of responsible "Student Power" and rational attempt made 
+to increase that power. 
+
+
+
+Letters 
+to the editor 
+
+
+
+On Wednesday morning, De- 
+cember 3, 1969, I experienced a 
+pulmonary muscular spasm while 
+walking to my car parked in the 
+handicapped student area. This 
+paroxysm, a side effect of em- 
+physema, renders its victims com- 
+pletely immobile and leaves him 
+gasping for breath. All alone, I 
+became terrified lltat each des- 
+perate gasp woud be my last. 
+
+Sudderdy two young men, ob- 
+viously students, came up ihc 
+walk toward the building. They 
+noticed my plight and stopped to 
+see if tliey could help me. Unnble 
+lo tell them what the trouble was,, 
+I could only stand there and gasp 
+and lean on their extended arms 
+for support. Seeing mc gasp for 
+air, they were probably as frigh- 
+
+Soon a young lady appeared 
+and was hurried inside lo get 
+help. She could not have sum- 
+moned more capable people for, 
+very quickly, there emerged from 
+the building two men whom I 
+recognized as Dr. Gottlieb from 
+the Biology Department and Dr. 
+O'Shawnessay of the Dental Clinic. 
+
+Dr. Gottlieb correcdy diagnosed 
+my symptoms immediately and 
+ordered oxygen lo be brought. 
+Within seconds somebody pro- 
+duced a portable oxygen unit and 
+I was breathing deeply of the 
+pure, sweet lasting gaseous chem- 
+ical. Dr. O'Shawnessay was so 
+solicitous that he personally ivcnt 
+lo the parking lot and drove my 
+car to tlie delivery entrance so it 
+would be close and warm when I 
+could safely resume my normal 
+
+Another department now be- 
+came involved and should be 
+commended: a department that 
+we usually take for granted or, 
+occasionally, cuss ot for its an- 
+noying habit of passing out park- 
+ing tickets. I refer to the Depart- 
+ment of Safety and Security. With- 
+in minutes after my trouble be- 
+gan this officer had two officers 
+in the area ready to rush me to 
+the hospital should the need arise. 
+
+There was another young lady 
+whom I particularly remember. 
+Her name was Sue and she stayed 
+at my side almost the entire time. 
+I remember that, standing there 
+in twenty degree temperature in 
+□ hght snow, she slipped out of 
+her coat and tried lo put it around 
+my shoulders! 
+
+An experience such as this 
+leaves a person pretty much phy- 
+sically and emotionally drained 
+hut, upon reflection, my one out- 
+standing obsen'otion is the con- 
+firmation of a suspicion I have 
+had for some time: there are 
+some damn fine people around 
+this campus. 
+
+Gratefully, 
+Kenneth Warner 
+
+
+
+A special tlianks is due to Of- 
+ficer Warnock and Officer Bam- 
+hart ifor aiding a damsel in 
+distress. Dead batteries from leav- 
+ing on car lights are common in 
+our parking lot. Our Safety and 
+Security officers deserve a special 
+commendation for helping a dim- 
+willed student 
+
+— ^Anonymous 
+
+
+
+IBE COMMUNICATOR 
+
+
+
+Labor-Militant Mitchell 
+Cries For Change 
+
+
+
+H. L. MitcheU, referred to in 
+the "New York Times" as "one of 
+the m09l respcctd labor militants 
+in ihe South," spoke al In- 
+diana University at Fort Wayne, 
+December 10. The address, en- 
+titled, "Protest as on Instrument 
+of Social Change," was scheduled 
+for 8 p.ra. in Room 107 ot the 
+campus here. Mitchell's special 
+appearance in Fort Wayne was be- 
+ine sponsored by the Indiana Uni- 
+versity Department of History and 
+ivas free and open to the public. 
+
+Co-Founder of STFU 
+An almost legendary figure in 
+the organized labor movement, 
+Mitchell discussed efforts to or- 
+eanize the nation's farm workers 
+and contemporary developments 
+in organized labor in the South. 
+Mitclicll was co-founder of tbe his- 
+toric Southern Tenant Farmers 
+Union compo^d of black and 
+white cotton plantation workers in 
+tbe 1930's. The STFU was the 
+first to develop and use non-vio- 
+lent methods in strikes, picketing 
+and mass demonstrations. Accord- 
+
+
+
+ing to some historians, the demon- 
+5trations by the organization con- 
+stituted a prologue to the protest 
+movement of today. 
+
+3 Followers Jailed 
+Mitchell currently is engaged 
+ill a campaign to unionize sugar 
+cane plantation workers in Lou- 
+biana last summer to live and 
+work with an equal number of 
+plantation workers. The project 
+created a stir in tbe cane fields 
+and three students wrc jailed for 
+trespass. The incident led Mitchell 
+to comment in the press, "It is a 
+sad commentary when three young 
+men can go to the moon to e.\pIorc 
+tbe universe and three equally 
+dedicated men cannot even go to 
+a corporation -owned plantation to 
+help their fellow men." 
+
+Agricultural Representative 
+Mitchell presently is the agri- 
+cultural representative of the Am- 
+algamated Meat Cutlers and But- 
+cher Workmen of North America. 
+For 12 years, he was president of 
+the National Agricultural Workers 
+
+
+
+Pool Ona) 
+
+■Talk of the Town on WPTA - 
+TV w-ill feature Dr. Mohammed 
+Fazel speaking on "The Cult of 
+Drugs" on Dec. 16; Dec. 23 the 
+program will feature E^win C. 
+Reonard on "Youth in TurmoQ;" 
+Dr. George Fliotsos will speak on 
+"BebavioT Problems in Children 
+and Possible Ways of Handling 
+OQ Dec. 31; Jan. 8, Dr. 
+Lantt ivill address tbe pub- 
+"Women— World— I Won- 
+Mrs. Lucille Hess ivill 
+speak on "Speech and Hearing 
+Problems of Children and Adults" 
+
+I Jan. 15. 
+
+On January 12, Dr. Donald 
+Turner will address the Future 
+Teachers Club at Lakeside Junior 
+Hifc-h School. 
+
+Dr. Carl 9leeg will discuss 
+"After the Moon— What Next?" 
+the Glacier Ridge Lions 
+Club at a dinner meeting to be 
+held at the Ellis vi He Restaurant 
+January 27. 
+
+
+
+Poet's Corner- 
+
+
+
+DEATH BE PROUD! 
+What fools are these — 
+
+that set life upon a pedestal? 
+Then deny it Mth senility! 
+Do they so fear Neptune's ivratl 
+
+or hcQ'e fury? 
+Nay! let aweet suicide be the 
+
+greatest virtue 
+Let each die proud 
+Having not chosen his birth 
+
+let bim choose his death 
+At a moment ot dignity 
+At bis apeture of life, 
+
+before declining — 
+That he be remembered at his 
+
+alter of greatness 
+
+
+
+Tbe locusts have sung theii 
+farewell songs to their summer 
+acquaintances. The leaves have 
+altered from the deep, rich 
+greens into dry, crinkling reds, 
+yellows, and oronges. Tbe swelter- 
+ing twilights of midsummer have 
+been transformed into chilly, 
+frost-bound nights. The day has 
+lecome reluctant to begin and 
+lagcr to hide its face from the 
+vorld. Summer has moved on to 
+nake ivay for the interval of time 
+railed autumn. 
+
+
+
+My mind is in the gutter. 
+
+1 believe in people. 
+
+Even if you aren't w.orlh 
+
+believing in. 
+
+1 get slaiiuned, lake bad breaks 
+
+Just like you do 
+
+But I still bother to care 
+
+for other people. You don'L 
+
+That's why you and I are different. 
+
+1 am a person. You're just a 
+
+You don't care about anyone 
+Just yourself. 
+
+Since you have been established 
+as just a people. Perhaps 
+
+I shouldn't 
+worry about you. After all, if you 
+don't care, why should 
+
+anyone else? 
+
+—J. C. 
+
+
+
+(One shopping decode 
+
+
+
+yellow eyes 
+purple lips 
+Paranoia 
+
+Heads reel 
+
+spinning epOHmicolor 
+red blacJc 
+blue brown 
+
+love mo 
+
+— Anonymous (A.Z.) 
+
+
+
+sweet lorelei 
+beckoning beauty on these 
+alien shore 
+
+ven blackness of your hair 
+dancing 
+
+wildly its contrast to the 
+salty spray and sunset tight 
+the lyrical song that is your 
+
+
+
+callin 
+
+
+
+rel 
+
+
+
+lie 
+
+sweet lorelei 
+manchild comes droivning 
+iddict to your promised 
+
+
+
+lov 
+
+s crystal moonlight filters through 
+the curtain of your hair 
+■gently brushing his face- 
+id moist lips gently quiet 
+the longings 
+
+
+
+U. Teachers Speak 
+
+
+
+EdUors Nate: In the Diice: 
+ber 5 issue of tbe Communicati 
+Dr. Gottlieb was misquoted. His 
+statement should have read "Cig- 
+arette smoke contains fifty times 
+the dangerous concentration of 
+nitrogen dioxide." 
+
+Editor's Note: Special happen' 
+ing on December 20, 1969! For 
+llie first time in the history of 
+the school, the Student Govern- 
+ment is on the agenda of tbe 
+Board of Trustees of Indiana Uni- 
+versity meeting. See the Decem- 
+ber 19 issue for a preview slory. 
+
+Editor's Note: In the Student 
+Assembly meeting article of thi 
+December 5, 1969 issue, the peopli 
+should be listed as potential mem 
+bcrs o^ the Dean Search Comra 
+and not as appointees as of yet. 
+
+
+
+Dean's Ball 
+Is Rolling 
+
+At [he SUB meeting Decem- 
+ber Ist, final plans for Ihe Dean's 
+■^ " and plans for the Winter 
+
+ival were discussed, and the 
+
+5th Dimension concert was can- 
+celed. The stamp with the date 
+change for tbe Deans BaQ lo be 
+held December 13 was received. 
+Plans were made to set up a table 
+lo sell tickets the rest of this 
+week and all next week. During 
+the day it should be open from 
+' I 10:30 to 1:30. Plans are lo 
+nave it open about three niglits 
+during the ticket- selling period 
+so that part-time students may 
+purchase tickets. 
+
+
+
+Fiflh Dimension Dropped 
+im Lelrecht informed the SUB 
+; the Fifth Dimension would 
+be able to play February 22nd. 
+They offered lo play Thursday 
+March 12tb, but they also raised 
+their price to S15.000. Don Grole 
+:d that tbe Fifth Dimension 
+be dropped from considerf 
+'lecause of the "run around" they 
+bad been giving tlie SUB. Many 
+SUB members felt that eve "" 
+the Fifth Dimension consented to 
+play, they cound not be relied 
+lo keep their contract. The motion 
+passed; however, consideration ii 
+being given another concert with 
+a different band to be held clos 
+to Harbararbar Days. 
+
+Expenditures Over Limit 
+
+
+
+A LOOK AT YOUR LIBRARY 
+by Karen Griggs 
+
+The best sellers available 
+your library are found on a sp 
+cial shelf behind the circulation 
+desk. 
+
+A Long Row of Candles, Sulz- 
+berger, a Reporlcr'a notebook. 
+
+Earnest Hemingway, A Life 
+Story, Balcer. 
+
+Except For Me and Thee, West, 
+about a Quaker family. 
+
+Candy, Sou them and Jof fen- 
+berg, a classic of pomography- 
+
+The Godfather, Puzo, Mafia 
+
+The Strawberry Statement, Ku- 
+nen, by a student revolutionary- 
+
+Best American Short Stories 
+1969. Foley and Burnett. 
+
+
+
+DRAFT 
+
+Every guy in loivn is up-tight 
+about something in their social 
+world. One obstacle ivhich tends 
+to limit those worlds and has 
+manipulated a great deal of soul 
+searching is the draft. Many have 
+questions concerning the draft 
+and know of no place to find 
+answers. One place with the an- 
+swers b the Fort Wayne Selective 
+Service Center, 1127 South Clin- 
+ton St., 7434692. 
+
+
+
+GIRLS - COLLEGE - WORKING 
+
+BOYS - COLLEGE - WORKING 
+
+(Hold Fiom S4Z.0O Monlhly) 
+'URNISHED APARTMENTS. Fully squippe 
+iillcheni. AUTOMATIC lAUNDRY. All 
+
+DOWNTOWN COLLEGE, Builnat: 
+Cilv But line la INDIANA-PUROUE. 
+Alia NORTH near SI. Vlncenfl Vllls 
+Gill 743-1390 lo tee. If fw iniwa 
+427-75I3. Otflto 324 W, Otiry Stretl 
+NAVCO fURNIiHED AFAXTMENTS. 
+
+
+
+Flyers 
+
+
+
+for Ihi 
+
+
+
+Winter Carnival, ll was decided 
+thai tbe Fewdie Lords would play 
+for the Snow Bound Party. Barb 
+Fox informed the SUB that ex- 
+penses would go slightly over tlie 
+$800 limit but money would be 
+idc from refreshments and stu- 
+dents from other schools. 
+
+
+
+
+Alpha Phi Omega 
+Christmas time is ncaring and 
+en Ebeneier Scrooge couldn't 
+pass up a bargain like this one. 
+~ almas trees arc being sold by 
+Alpha Phi Omega for $4.50 lo llic 
+general public and $4.00 to stu- 
+dents, part-time and full-time fac- 
+ulty and staff. Tbe money is to 
+'&gt;e used to raise money for the 
+tart of a scholarship fund- 
+One may purchase a tree next 
+lo the unpaved parking lol on 
+the west side of the Regional Cnm- 
+of Fort Wayne by the river 
+1 10:00 to 5:00 on Saturday 
+and 10:30 lo 2:30 on weekdays 
+from December 7 to the 13 (ex- 
+cluding Sunday). 
+
+Alpha Psi Omega 
+The Third Annual Faculty 
+Christmas Tea hoslcd by Alpha 
+Psi Omega sorority will he held 
+on Wednesday, December 17 from 
+1 p.m. in Rooms 107-108. Faculty 
+and staff are encouraged lo slop 
+in during that lime in order lo 
+
+
+
+refreshments. 
+
+
+
+I other 
+
+
+
+njoy 
+
+
+
+Early Placement 
+Examinations 
+
+Advanced placements examina- 
+lions lor H103, HlO-l, H105 and 
+H106 will be given between 1:30 
+and 5:30 p.m., on Tuesday, De- 
+cember 16, 1969, in Room 146. 
+Interested students should apply 
+Ihrough Dr. Dwight F. Hender- 
+son, History Department, by De- 
+cember 15. 
+
+
+
+STUDENTS TO WORK PART-TIME 
+FOR THE ATHLETIC DEPARTMENT 
+
+
+
+Contact Bud Porker in the office of Student Services 
+(Room 103) between 9:00 and 12:00 on Mondays, 
+Tuesdays, Wednesdays, and/or Fridays. 
+
+
+
+CHRISTMAS 
+SALE 
+
+15%orr 
+
+SWEATSHIRTS - T-SHIRTS - JACKETS 
+GLASSWARE - POSTERS 
+
+INDIANA-PURDUE CAMPUS BOOKSTORE 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Double Overtime Dazzler Brings 
+Loss to Victory Hungry I.U.-P.U. 
+
+
+
+by Darreil Pamin 
+
+DrumB rumbled in the pre- (tonic 
+period, and George Williams' In- 
+dians had war paint on. The 
+Boiler-Hooniers had their biiskci- 
+bnll machine purring. It pave all 
+ihe appearances of a Emooth run- 
+ning Ford Falcon pitted against 
+a Dodge Chorper. At the jump of 
+the baU. the cars' guise was shat- 
+tered. A team called the Hum biers 
+appeared. 
+
+I.U.-P.U. pulled off thd line 
+] 7-13. Walking away 26-17, a war 
+club struck Indiana-Purdue's Ross 
+Gick. Fighling for a rebound, bo- 
+dy contact got heavy under the 
+boards, and he crashed to the 
+floor. With a hadly sprained ankle, 
+he was forced to sit out the rest 
+of the panie. 
+
+With Gick out. and 8:00 re- 
+maining, the Indians goUoped 
+hack tying the score at 30-30. 
+Altman's learn readjusted as 
+George Williams flnuck ahead 38- 
+35. With 56 seconds left. I.U.- 
+P.U. hit on two (juick steals to 
+lake a 39-38 half time lead. 
+
+As the huiY.VT sounded for the 
+second half. The Bo iler-Ho osiers' 
+wings were flaping with desire 
+for a irin. But the battle was to he 
+pulsating the rest of the way. At 
+5:27 into the period, the Indians 
+i^lilied in front 49-43. But llie 
+Boiler-Hoosiors raised the bidding 
+to 57-56 at 10:54. 
+
+^th 3:00 left in the game. 
+George Williams became second 
+shadows to I.U.-P.U., and moved 
+to a 77-72 advantage. Then, ihe 
+I.U.-P.U. five gave storming back 
+and tied the score 81-all with 45 
+seconds remaining. 
+
+It was the Indians ball out of 
+bounds with 27 seconds left Then 
+lighbiing struck, Indiana-Purdue's 
+Jim Roulhicr erected a ivall in 
+front of the Indians Boh Pruilt, 
+who was trying to get the ball 
+in bounds. But Prui» could not 
+find a hole in the wall. Not even 
+a erack. Losing his cool, Pruilt 
+blasted the basketball into Routh- 
+iora' chest, decking him to tlie 
+floor. Referee's whistles screamed, 
+and Pruitt was called on a double 
+technical ond ejected from 
+
+
+
+0/di 
+
+
+
+WKSi 
+
+
+
+DEALERS IN 
+
+SOFTWARE 
+
+FOR 
+
+THINKING AND 
+
+DREAMING 
+
+
+
+With desire and confidence in 
+his heart, and 'Spalding* imprinted 
+:hc.4l. Routhier coolly con- 
+in two foul shob:. Indiana- 
+Purdue was ahead 83-81. George 
+Williams got ihe hall hack on a 
+turnover and scored on a jumper 
+to send the Bnmc into overtime. 
+
+The lead waltzed back and forth 
+in [he overtime, until with four 
+seconds left, George Williams had 
+a 92-90 margin. Altman then 
+to sel the play 
+
+
+
+for o 
+
+
+
+shot. 
+
+
+
+The Boiler- Ho osiers' Dennis 
+Lake got the osstgnmenl. Picking 
+up his man for the screen, Lake 
+
+
+
+popped the net as the buzzer 
+sounded. With the score 92-aU, 
+the game went into the second 
+overtime. 
+
+With fouls and injuries invad- 
+ing their ranfce, I.U.-P.U. was 
+never in tlie overtime. The In- 
+diana went in front 106-98, and 
+won 108-102. 
+
+Indiana-Purdues' 102 points re- 
+presents a new school high. Gary 
+JoholoK and Fred Graft scored 20 
+each for the losers. Dennis Lake 
+and Terry Coonan aided the cause 
+with 18 and 13 respectively, 
+
+George Williams, Dopaola, had 
+game high honors with 26. 
+
+
+
+Old Lady Victory 
+
+Sometimes Stood Up 
+On Blind Date 
+
+
+
+by Darreil Parmn 
+Up the down staircase! Some 
+thought it was down ihe up stair- 
+case, but not so. Old lady victory 
+for I.U.-P.U. is a lady loaded 
+down ivith parcels in a shopping 
+center. Unable to see ahead, she 
+tries lo go up ihe doivn escalator. 
+Packages fly,' — split open. Old 
+lady victory picks herself up in a 
+miffed, bil musfed, and quite 
+mad mailer. 
+
+Old lady victory is a spirit in- 
+side of athletes in every sport. 
+Sometimes she's called menial 
+toughness. But she's a wonderful 
+gal to have around, no matter 
+what name an athlete knoivs her 
+by. 
+
+In the minds of Indiana-Pur- 
+due basketball players she is 
+something special. She's the wo- 
+man they imagine themselves 
+walking hand in hand ivith on 
+California's sandy beaches. Coach 
+Altman, and his assistant coach 
+Skelton, have a long standing 
+blind dale for the whole team 
+arranged with her. The team. 
+
+
+
+though, has had trouble tvith 
+their basketball machine. 
+
+While their car was in the 
+garage in the p re-seas on, work 
+was slow and difficult. Passing 
+drilU, one-on-one drilU, zone and 
+man-to-man defense work was 
+rushed. As it slood, the car would 
+never have passed the Safely In- 
+spection. Pre-season work-out was 
+about two weeks too short because 
+of early carded games. The mo- 
+chinc pulled from the garage out 
+of tune, hardly running. As a 
+mechanic, coach Altman knew 
+ihey weren't ready yet. 
+
+In [he first game ai Spring Ar- 
+bor, the offense sputtered and the 
+fan belt broke. The coordination 
+of working the clutch and accele- 
+rator was strictly heginncr, as the 
+defense jerked and sometimes 
+
+The next four games have 
+Been many improvements. The 
+liming is set better, the electrical 
+sys[ems more adeptly wired, ond 
+the cars' body is sanded down 
+and painted. Some of the exterior 
+
+
+
+PRELIMINARY BALLOT 
+
+
+
+Pioneers 
+
+Beavers 
+
+Mastodons 
+
+Frontiersmen _ 
+Warliawks 
+
+
+
+Mustangs . 
+Turtles... 
+
+Chiefs 
+
+Eifs-_. 
+Hobbits... 
+
+
+
+Boiler-Hoosiers . 
+
+
+
+Other . 
+
+
+
+Number in order of preference; then cut 
+out and drop in box in front of Cafeteria 
+the weeic of December 14. 
+
+
+
+
+No. 21 Ross Gick sets ploy against George Williams, injured 
+later, he will be lost for six weeks with o broken heel bone. 
+
+
+
+is custom built. 
+
+With all the mechanical pro- 
+gress, one thing still doesn't work, 
+or should 1 say five things. Tliose 
+five things are the spark plugs, 
+the five men who are on the 
+playing floor. Sometimes they fire 
+in perfect order, but even when 
+they do, victory can not be had. 
+The reason is simple: they don't 
+want to win bad enough. The 
+thougtil of winning crossed their 
+minds only once this season. 
+
+
+
+Against St. Francis they were 
+within four points, 51-47 in the . 
+East ten minutes, but they were 
+behind 51-17 in desire and belief 
+ihey could win. 
+
+The radiance of old lady vie 
+tory is tremendous to behold. But 
+she doesn't just walk into an alh- 
+kte's mind. He has to go to her 
+with belief in himself or else he 
+will never find her. 
+
+And that's the way it is, this 
+spnrLs week in 1969. 
+
+
+
+Rod &amp; Custom Show Here 
+
+
+
+The 11th Annual Rod, Custom 
+and Sports Car Autorama will 
+open this Friday and run through 
+Sunday. December 14lh at the 
+Memorial Coliseum in Fort 
+Wayne, Indiana. 
+
+There are over 140 highly spe- 
+cialized curs including Rods, 
+Customs, Competition Cars, Drag- 
+sters, classic*. Antiques, Cycles, 
+Dune Buggies, and special interest 
+vehicles entered in the Autorama. 
+The owners will be competing for 
+over §5,000.00 in cash, bond and 
+unusual trophy awards. 
+
+Featured in the show will be 
+the Dual Supercharged "Pop. 
+com Wagon" and the 600 horse- 
+power motorized 'Telephone 
+Booth" the latest and greatest 
+creation of Detroit designer Carl 
+
+Also on display will be Factory 
+Cars of the future and mony 
+allied displays. The Autorama will 
+be open to the public from 5:00 
+p.m. to 11:00 p.m. Friday, 11:00 
+
+
+
+a.m. to 11:00 p.m. Saturday and 
+10:00 a.m. to 10:00 p.m. Sunday. 
+
+
+
+ROD &amp; CUSTOM 
+SHOW 
+
+
+
+
+Memorial Coliseum 
+Fori Wayn* 
+
+
+
+A White Paper On Headstart 
+Next Issue 
+
+
+
+</pre>        </div>
+      </div>
+    

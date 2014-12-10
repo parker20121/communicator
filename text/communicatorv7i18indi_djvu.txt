@@ -1,0 +1,1852 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i18indi/communicatorv7i18indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i18indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i18indi">The Communicator</a>"
+          </h1>
+          <pre>™ COMMUNICATOR 
+
+
+
+ARC""' ' 
+JAN S3 KM 
+
+INDIAN '-.-&lt;-^ DIJE 
+
+
+
+THIS 
+WEEK 
+
+
+
+Ken Morris rabbles on about 
+ruffling chichadees feathers on 
+page 2. If you don't get it, stop on 
+by Duffy's Bar this weekend- 
+Kenny will explain it for some 
+suds and chips. 
+
+
+
+
+Charlie 
+
+
+
+Rollie Clements, 
+
+government's record on page 2. It 
+
+sounds like a parady, but it isn't! 
+
+
+
+Jan 
+
+Jan Maxwell will direct you 
+out of your rut on page 5. If 
+you've got "it" stuck lately, 
+better take notice. 
+
+
+
+Gil 
+
+
+
+Gil Bierman raps on the 
+Educational Testing Service for 
+graduates on page 5, right below 
+Jan's "stuck in the rut" story. 
+
+
+
+Kalhy 
+
+
+
+Ticked off about your ?15 
+activity fee? Kathy Franson 
+reviews the activity fee trends 
+across the nation on page fi. 
+Better think twice before you 
+gripe about them! 
+
+
+
+
+Others 
+
+
+
+Barry Blackburn round up the 
+Nasty Masties on page 8. In short, 
+Gordies Boys won.Choo-Choo's 
+clan and the Lucky Ladles 
+
+
+
+Entertainment groups to be reformed 
+
+
+
+\ of a Student Union Board c 
+
+
+
+. He hopes (hat SUBOG wil 
+lies from happening al thi 
+
+ImliiiL' sunleiu parLielpalioi 
+
+
+
+sently the members o 
+
+
+
+student body previdei 
+members appointed by t 
+
+
+
+ii ni:iiiiLiiii Hun the Union Board 
+
+
+
+they are now functionally operating do not 
+have memberships which follow the 
+
+On formulating the plans for SUBOG 
+Barnets said, "We found out what other 
+campuses had dune and we co-opted these 
+forms into a basic premise," "At many 
+campuses the Union Building Is a profit 
+making inslitulinii, bill we don't want to do 
+that here." he commented and added, "We 
+only want to do a better Job of providing 
+sludi'iit activities." 
+
+"1 expect some confusion at first" said 
+Barnets referring to SUBOG's assumed 
+
+
+
+e members of SUBOG." 
+
+
+
+SUBOG was also i 
+Senator Bob Ross a 
+various student en 
+
+
+
+e forming plans for 
+
+
+
+the ten elected n 
+tctorships of the a 
+
+
+
+
+
+
+body president would 
+
+student senate would then decide 
+
+
+
+of candidates the student 
+
+directorship. The 
+
+post who 
+
+■ directors would make up the 
+
+lean of Student Services, who 
+ex-officio non-voting member 
+
+eas would be able to appoint 
+
+man of SUBPG would have the 
+
+UBOG. Publicity for all three 
+t areas will be handled by the 
+
+was in charge of the SUBOG 
+"We hope that by having a 
+
+an get more publicity out into 
+
+tressed the responsibilities of 
+
+
+
+iv 
+
+
+
+supposed I 
+the lunctio) 
+
+
+
+ment together ii 
+
+Quallficatli 
+
+SUBOG would b 
+
+
+
+
+This drawing of a proposed IPFW campus structure is on display in Neff 144, The building key is (1) Information 
+
+Center; (2) fountains and ponds; &lt;3) enclosed walkways; (4) Museum of Man; (5) Laboratory and classroom building; (61 
+
+Construction Technology and Interior Design Building; (7) Kettler Hall; (8) Maintenance Building; (9) Greenhouse; (10) 
+
+Library; (11) Child Care Center; (12) Second Level Lounge; (13) Student Union; (14) Athletic Complex; (151 Pool; (16J 
+
+i Fine Arts Complex; (17) Display Area; (18) Lecture-Classroom Building; and (19) Neff Hall. 
+
+Tech class drafts future IPFW model 
+
+
+
+oy for the campus, originally planned a 
+ries of large buildings connected by a 
+ivered walking. Somewhere during the 
+
+
+
+ing a budget SUBOG would 
+:omprehensive budget. The 
+rie budget allocated for film 
+
+II be decided by the 13 voting 
+he budget will be subject to 
+te approval. 
+
+
+
+realizing ih 
+decided to w 
+
+
+
+Basic school grant 
+to aid more needy 
+
+
+
+of a possible future model of the IPFW 
+campus will be shown in Neff 14-1. ending ; 
+semester of diligent work. The work of thesi 
+students has shown the infinite number o 
+possibilities this campus has in terms o 
+building. 
+
+program 
+students 
+
+
+
+ne concept they had 
+
+■ smaller buildings to sui 
+said Kaufman. 
+of the buildings should f i 
+
+
+
+departments are smaller, others z 
+The buildings should not be con 
+then, with uniform size." 
+
+The idea of smaller buildings c; 
+a number of possibilities. Fl 
+administration wouldn't need a si 
+dollor allocation ' 
+building but small s 
+
+
+
+Kaufman noted \\-,» v.i 
+ures, the type of building 
+because of lowei expense 
+and height of the unit c 
+
+
+
+■.villi [Miniiims and sculplur 
+
+Also included is tw&lt; 
+
+classroom s 
+
+Hon technology a 
+
+
+
+The c&gt;vr'|-iT.I w.tlk'.v.iy &lt; 
+
+
+
+e around tl 
+across a bridge and back into the spine by 
+the fine arts building thos creating an 
+external path. In more suitable weather, Hie 
+glass plates in the covered walkway could 
+slide back, exposing the walkway to the 
+
+
+
+Trees line the pedestrian and motor 
+traffic routes. This helps to provide a 
+guideline, or a point ol direction to the flow 
+
+
+
+laturaliy points to an enclosed walkway, 
+fhis is probably why Johnson, Johnson and 
+toy, Orus Eash, and we all thought of it," 
+
+
+
+necessarily the solution 
+
+
+
+ivailable, build 
+
+
+
+tiding, tl 
+
+ri.uMk ul H 
+
+
+
+The overall shape 
+
+
+
+
+
+
+'&gt; ' l I|.' IF 
+
+
+
+t design by the 
+the buildings 
+
+e appropriate 
+
+
+
+s and Hospita 
+already passed th 
+
+
+
+
+
+
+oughout the 
+
+
+
+leges, Vocal 
+
+lents apply for aid 
+ion mark before the 
+
+The applications are completed by the 
+in .m College Testing Center at Iowa 
+
+
+
+s the only aid one wat 
+
+
+
+iSt ruction technology cla 
+s students, one would e. 
+
+
+
+First exchange student 
+to leave for Wisconsin 
+
+
+
+ns, although generally 
+
+
+
+cefor determination 
+Basic grants are ii 
+
+have to be repaid and 
+
+
+
+student 
+
+le Financial 
+
+of his award 
+
+
+
+r they are eligible." lie 
+information to any college they want to in 
+
+money they will receive. It depends on the 
+
+college. For example this campus requires 
+smaller budget than a campus where room 
+
+It stands to reason a student may 
+
+
+
+; his gratitude for the program. So 
+
+
+
+nedh 
+
+
+
+nby 
+
+
+
+nity well-developed prog 
+
+
+
+
+
+
+I . books, supplies 
+: Education Grant is a grant 
+
+
+
+qualify for other areas of Fina 
+Opportunity Grant. TheFinanci 
+
+
+
+dOffic 
+
+
+
+students received grants t. 
+
+
+
+/ diligently to help a 
+said Arnold. "We thii 
+
+
+
+th the campus as well as a starti 
+o go straight from this building ir 
+
+
+
+% the library and the Student 
+
+
+
+r goals. Commenting o: 
+it approach tc 
+
+Since Stoppenhagen wvis interfiled in 
+
+rhe phvsical layout of the campus also 
+-ought his eye The university is scenically 
+
+
+
+: collegi 
+
+working as Emergency 
+at the Wells County Hospital. As an wac 
+student, Stoppenhagen paid IPFW fees for 
+his Wisconsin course load. The credit he 
+
+transfer automatically to IPFW. 
+
+The National Student Exchange is an 
+association of state supported colleges and 
+
+
+
+eUnit- 
+
+
+
+i. The 
+
+
+
+-,v\-:-l ■■••■/ ii 
+
+
+
+program began ii 
+
+the University of Montana exchangee 
+
+to encompass 32 collet 
+
+exchanges. 
+
+Indiana-Purdue t 
+
+
+
+students involved ii 
+
+
+
+!;■ &lt; eiur-il O 
+
+
+
+
+
+
+otheD 
+
+
+
+Eclftortal/ 
+
+Ad Hoc moves slowly 
+
+
+
+Opinion 
+
+
+
+While r 
+
+
+
+ourselves with taking classes, teaching 
+&gt;oth, an important committee is meeting almost 
+weekly to help decide the future for all of us. 
+
+The committee is the Joint Faculty Ad Hoc Steering Committee, composed nf 
+14 members of the faculties of Indiana and Purdue, three administrators, and two 
+members of the student body. The committee is chaired by Dean James Gilbert 
+
+The committee has just met for the 127th time. At the 126th meeting, there were 
+ten faculty members present, two administrators and one student member 
+Missing were four faculty members, one administrator, and one student. A check 
+with sludents' government found that there has not bet 
+appointed for the 1975-76 school year. 
+
+The agenda of the 126th meeting was interesting. Aft 
+committee voted to approve "the concept of a faculty senat 
+
+
+
+Mutual respect is the key 
+
+
+
+e hypothetical girls 
+
+
+
+i a girlfriend of 
+ir ol high school. 
+
+
+
+? Mostly fellows, about fi 
+
+
+
+mt lo Duffy'; 
+
+
+
+i l-ui-ilii 
+
+
+
+' the formation of i 
+
+
+
+■nslitution "be 
+&gt;mposed of two members from each faculty who are experienced In the 
+
+preparation nf such a document." 
+
+A noble resolution. One that points the way toward a combined faculty senate, 
+which should be Ihe governing body of the IPFW faculty in the future. But after the 
+126th meeting? And what alwut total university governance? Will it take another 
+126 meetings lo resolve that question? At the present pace, the Ad Hoc committee 
+will be meeting for at least two more years about resolving the (asks they were 
+
+
+
+
+doors for her and buying two tickets 
+
+movie theater, but beyond this 
+
+con/used. She knew I really cared abt 
+
+that I was always there when she 
+
+problem, rarely punched her bac 
+
+ide an effort to stop when she saic 
+
+n sure she'd admit to this day 
+
+.peeled her. So what was the resp 
+
+,s talking about? 
+
+You guessed it. What Becky was 
+! was what Janis' hillbilly father h 
+• before, and Becky was a city gir 
+
+
+
+high I.Q. and you don't 
+ites might help) la 
+
+
+
+do. They've already hud I 
+they might like to drop in a 
+
+
+
+
+
+
+upposed overlook so 
+II people chips and a 
+
+
+
+til MIW,'-l II 
+
+if our more 
+o Duffy's I. o 
+
+
+
+ces. Maybe you think that these 
+mall in comparison to equal p 
+inderstand, but I also stronly be 
+
+t's in the little things of equality at 
+
+
+
+same side against one another-ndicul- 
+' May in' it would help if some of you guys 
+there would quit prostituting yourselves 
+buying drinks lor sweet little chickadees 
+he hopes of rustling a few feathers. And 
+Is, will one of you somewhere along the 
+
+
+
+'■ l" 1 ' 1 
+
+
+
+I lor n 
+
+
+
+
+
+
+I The resolution passed by the Ad Hoc committee must now go before a joint 
+session of the l wo family senates for approval, and then be approved by the total 
+faculties before going lo the Boards of Trustees of Indiana and Purdue. The joint 
+
+I session of faculty senates is scheduled for Friday, January 30, in the Sludent Union. 
+
+. If you are Interested In Seeing the wheels of faculty government work, Ihen you 
+might want to attend this open meeting. 
+
+I No person at IPFW can disagree with the results obtained by this committee so 
+far The members of this committee, for the most part, are conscientious about the 
+magnitude of Iheir tasks, which certainly are tremendous, Bui. My God, 
+committee move so slowly'' They can move faster. 
+
+More importantly, should Sludents' Government so blatantly disregard the 
+
+j respeel and co-operation of the faculty by not appointing student members on this 
+
+, important committee, so that sludents are given a forum for their opinions? 
+
+We think not. The student senate has recently been issuing a number of 
+"demands" to the rest of the campus community ; perhaps it had better "demand" 
+fair representation on this committee, which has so generously been offered by the 
+faculties of IPFW Maybe then, the voice of Students' Government will be given Ihe 
+
+'respeel il deserves. 
+
+Snow job can be trying 
+
+| Have you slipped on the icy walks of IPFW yel? Don't count the number of 
+
+near misses, tliev don't eoonl. and we .ill have Ifiii of Ihem, anyway. 
+; The poor eontlit ion of I he walks and drives are due to one thing... old 
+winiii Dick Pimm, superintendent of grounds, has four men working conslanth 
+to keep Ihe pathways on campus clear, out the crew simply can't keep op with the 
+many snows and frigid weather. 
+
+Dirrim would like everyone lo know thai Ins erew is dome, eveiTthnie. lioni.niK 
+possililr lo keep the souw anil lee mm 'ml, I ml when itiev la&gt; ilown sail, it melts, 
+and fiee/esaiMin faster than I hey can keep up wiih n He mentioned that the 
+
+
+
+Gue/t Columni/t 
+
+Clements reviews record 
+
+
+
+
+ERA good for all 
+
+
+
+
+Liberal arts profs 
+review Colorado U 
+
+
+
+3 The Communicator Thura. Jan. 29 I97H 
+
+
+
+CAMPUS BULLETIN BUARD 
+
+
+
+
+I've never seen 
+
+so many different 
+
+kinds &amp; styles of jeans 
+
+in all my life! 
+
+AND AT DISCOUNT 
+PRICES, TOO! 
+
+OPEN EVENINGS TILL 9:00 SUN. 12-6 
+
+GLENWAY 
+BARGAIN CTR. 
+
+3820 Coldwa ter -across from Ayrway north 
+next to new Sambo's 
+
+
+
+, office at IPFW 
+« rd is supported through the ^ mi " t9 '"„ lzatl ons may submi 
+lb. Campus ^If^lZV;, faculty groups, an. .t« eat r an z ^ 
+■deolc departments, recogni ro grams for l ° clus . 1 °" " k io „hich the item is 
+
+campus events "• k Monday of the ve« , ot cam p. 
+
+„ . 198F Kettler by noon on maiUbl(! and determinate 
+rled »ill »e subject to sp 
+
+
+
+FRANKLY SPEAKING .by phil frank 
+
+
+
+
+5411 OLD DECATUI KOAO 
+
+
+
+3 The Communicator Thurs. . 
+
+
+
+Winter driving requires cautious approach, a little luck 
+
+
+
+embarrassing j 
+
+To help rai: 
+
+winter weather, ', 
+
+a step-by-step guide (or coping 
+
+with all sorts of problems, along 
+
+ions and helpful hints. 
+
+while approaching your car. Try 
+
+all times. Remember, sliding out 
+to your car flat on your back will 
+only put you in a bad frame of 
+
+
+
+taking place on 
+-If you fir 
+trapped in yot 
+space or drivew 
+this is frustrate 
+potentially hai 
+Take time to sur 
+then use your i 
+ingenuity to yoi 
+
+rift don't be i 
+
+
+
+there is a lot of snow oi 
+a good idea to brusl 
+id if an avalanche i: 
+
+
+
+yourself out . If ice is the problem, 
+you have a variety of methot 
+employ in freeing yourself. 
+
+
+
+eighbors a good frustratio 
+
+
+
+jo forward, try whatever 
+
+ing, you're doing the right 
+J. If you're only spinning 
+\'.hi-ris iorm-i it Resist the 
+
+
+
+eat. While this 
+lease for your 
+ot possibly aid 
+
+
+
+deep breath, and try again. You 
+
+salt under the wheels to help melt 
+
+even a quantity of table salt does 
+the job. Some people use gravel. 
+
+also. Do not demean yourself (or 
+your cat! by flinging kitty litter 
+
+anything else. 
+
+
+
+vendetta against your 
+whatever is holding it 
+i placing 
+
+wheels. Many men refuse to 
+us, feeling it undermines 
+
+
+
+Stopping on i 
+
+
+
+&gt; doesn't work, 
+
+
+
+i. It is infinitely better tc 
+
+
+
+Changes reported in national 
+graduate exam programs 
+
+
+
+By GIL BIERMAN 
+
+
+
+recently reported several major changes in 
+two testing programs, the Graduate 
+
+the Graduate Record Examination (GRE). 
+
+
+
+be 
+
+
+
+
+
+
+!, GRE c 
+
+
+
+gistration form. Walk-in registrati 
+
+^ar, will also be honored, space ; 
+atrial permitting. 
+Charles Bolyard, director of testing and accept walk-in registration, if 
+
+
+
+swill 
+
+
+
+
+
+
+lodating f&lt; 
+formerly was c 
+
+
+
+Admission Test for 
+
+
+
+and degree titles to include c 
+
+
+
+1, March 27, and July 19. "This is 
+
+
+
+. For the first time, a full-length 
+
+
+
+administration to delete or change tl 
+
+The GRE program also v, 
+
+Istration, il 
+
+available, and after all 
+normally registered candidates have be 
+admitted. 
+
+Graduate Record Examinations Board, 
+independent board affiliated with t! 
+hools and tl 
+
+
+
+Council o 
+
+
+
+e Schools i 
+
+
+
+;nd the type of questions it 
+iple test is the same length 
+e currently used forms of 
+
+
+
+candidates whc 
+:ause of circi 
+itrol. There is 
+
+
+
+ed by ETS for the Admission Council for 
+Graduate Study in Management, a group 
+representing 43 graduate schools of 
+
+
+
+Indiana Tech or Saint Francis College. The 
+testing dates and additional information 
+may be obtained at the office of Testing and 
+Evaluation Services on the 1st floor of the 
+Student Union. 
+
+
+
+Introducing the new 
+Casio Poctet-Mini 
+
+A lot of little calculator. 
+
+
+
+Only Casio's advanced technology 
+could give you so many features for 
+the price ... in a pocket calculator so 
+small you can take it anywhere. 
+
+So come in today and try the 
+Pocket-Mini. It's a perfect gift for 
+anyone — including yourself! 
+
+
+• Cigaret 
+
+
+e-pack size (4 ozs.) 
+
+
+• Sturdy 
+
+
+compact case 
+
+
+• 25 hour 
+alkalin 
+
+
+s of continuous use on 2 
+penlight batteries 
+
+
+
+/7/rv//y 
+
+
+
+• F 
+
+
+
+
+ORT WAYHE 
+
+ELECTRONICS 
+
+
+
+;f the battle. The 
+
+
+
+a, or other objects which may 
+-Should you become stuck 
+
+
+
+wheels in the same direction the 
+back or your car is skidding in. 
+people have difficulty 
+
+
+
+d keep a safe distance from tl 
+
+
+
+brakes gently to stop 
+t, pump them rapidly 
+
+
+
+many of the rules 
+apply. Forinstance 
+want to try digging &gt; 
+
+
+
+
+
+
+go slow and cmn ^.-n, u-, \ 
+sand shi ' 
+
+
+
+t tor (indues and sharlyl be ti 
+
+
+
+New education labs 
+opened for use 
+
+
+
+doesn't extend three miles. For 
+this reason it is often a good idea 
+to carry a shovel, as well as a 
+flashlight and any other survival 
+aids you might need when 
+
+country. 
+
+
+
+e a blatant 
+s of huskies to 
+
+
+
+u have followed all the 
+itination well ahead of 
+
+
+
+d be putting your life 
+
+
+
+bulimia Univi'isily School ol 
+mester. They are the Curricu- 
+
+
+
+simlfiii interested can make us 
+of the Lab. He Is available I 
+
+
+
+
+
+
+originaly designed In 
+ition Program t 
+
+
+
+students in I 
+has become broader since Its 
+Director Janet Jordan Is pleased 
+encourages more students to 
+or will be student teaching may 
+
+
+
+Enrollment to peak 
+in 1980 in Illinois 
+
+A staff report frpm the Board 
+of Higher Education recently 
+projected enrollment for Illinois 
+higher education to 1990 In the 
+degree program categories of 1) 
+" occupational, 
+
+
+
+graduate studies. 
+
+In each area, head-count 
+enrollment projections were 
+made utilizing different assump- 
+
+
+
+ROTH, WEHRLY, HEINY, Inc. 
+
+Roth-Wehrly-Heiny, Inc., Ft. Wayne's 
+largest real estate firm, has the 
+professional knowledge to help you 
+select the home mo st appropriate for 
+your needs, selling | — 
+over 80 homes pe 
+month, we can also I 
+obtain the highest) 
+value for your pre- 
+sent home. Call 1 
+IPFW grad Bob 
+Hudson at 486-2411 
+or 447-2661. 
+
+
+
+l;Cli:i Realtors 
+
+
+
+
+IINLTI 
+
+
+
+LIVE 
+
+IN CONCERT! 
+
+
+
+&amp; 
+
+
+
+
+b^Ten^ 
+
+
+
+
+First in a series of 
+^ GREAT PERFORMANCES! 
+
+
+
+
+Appearing fn Concerf at 
+the Embassy Theatre 
+
+TOMMY 
+
+DORSEY 
+
+BAND 
+
+WEDNESDAY, FEBRUARY 1 
+8:30 P.M. 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+rHE GLENBROOK MALL 
+
+COLOWATER ROAD 
+
+
+
+AND OUR WAREHOUSE STORE 
+
+FORT WAYNE. INDIANA 46803 
+
+
+
+The Tommy Dorsey Orchestra, 
+Directed By Murray McEachern 
+
+
+
+TICKETS: $4, $5, $6 
+ALL SEATS RESERVED 
+
+
+
+Tickets may be purchased at Montgomery Ward (South- 
+town store) or the Memorial Coliseum, phone 483-5015. To 
+order tickets by mail, send money order to TOMMY DOR- 
+SEY SHOW, P. O. BOX 5157, FORT WAYNE, IN 46805. 
+Please enclose a stamped return envelope. 
+
+
+
+IPFW not to follow suit 
+
+Activity fee changes not for all 
+
+
+
+
+Wahli. 
+irning' 
+
+local! 
+
+
+
+In Reviem 
+
+
+
+Plimpton lives his work 
+
+
+
+
+qirothers 
+
+
+
+■naff*** TlB»r?f ■"■ 
+
+
+
+e4t The Circus Jan. 29-Feb. 3 
+
+Daily 8 pm $2.00 Mat. 2pmiSAT-SUN$1.50 
+
+SPECTATOR 
+
+THEATER ON THE IANCHNG 422-1728 
+
+
+
+^jp^ M ---j 
+
+
+HP5.-* «a| 
+
+
+BURT REYNOLDS 
+
+"THE 
+LONGEST YARD" 
+
+
+nP 
+
+
+JgSKffi 
+
+
+^aft 
+
+
+■fflSSSS, 
+
+
+^CHARLES 
+BRONSON 
+
+
+
+
+"DEATH WISH" 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE'S FINEST PIZZA 
+GRIHDERS 
+BROASTED CHICKEN 
+
+SAUSAGE ROLLS 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+burt D£ynou&gt;s I 
+
+: ! i-j CATHERINE DeHEUVE I 
+
+* : ' &amp; FINAL I 
+\.&lt;±J V WEEK I 
+
+
+
+
+• ••*•* GRAND OPENING *•••** 
+
+MAD ANTHONY 
+FUNNERY 
+
+*VIDEO GAMES 
+• POOL 
+
+*PINBALL 
+*AIR HOCKEY 
+
+
+
+
+GRAND OPENING PRIZE DRAWINGS: 
+
+10-SPEED BICENTENNIAL BIKE 
+
+WALL CLOCKS-DONATED BY HOWARDS 
+
+ALBUMS-FURNISHED BY DISC RECORDS 
+
+ASSORTED GIFTS FROM WMEE TO BE 
+
+PRESENTED BY WMEE JOCK DAVE 
+
+MANN! 
+
+Mad Anthony Funnery 
+
+located behind Howard's in the old auditorium-Glenbrook 
+
+
+
+Tuskers triumph 
+
+
+
+
+How to graduate as an 
+Army officer in two years. 
+
+An interview with LTC Hugh Munson, U.S.Army, 
+
+
+
+LTC Hugh Munson 
+stated this week that 
+sophomores who did not 
+take Military Science 
+their freshman and sop- 
+homore years may still 
+becomeeligible for the 
+two-years advanced Ar- 
+my ROTC. LTC Munson 
+explained that students 
+who did not take the 
+basic course may qualify 
+for advanced ROTC by 
+attending a special six- 
+week summer program 
+at Fort Knox.KY. At the 
+basic camp, students 
+receive instruction in 
+military tactics, history, 
+weapons, communicat- 
+ions and leadership tech- 
+niques. 
+
+According to LTC 
+Munson, "The ROTC 
+basic camp stresses lea- 
+dership development. Its 
+purpose is to bring the 
+student to a level of 
+military education and 
+experience which will 
+al low him or her to enter 
+the ROTC Program at 
+the junior level." 
+
+For most students, 
+completion of either the 
+basic course or the basic 
+camp is required for 
+enrollment in the ROTC 
+
+
+
+
+advanced course. "How- 
+ever," LTC Munson add- 
+ed, "veterans normally 
+receive credit for the 
+basic course based on 
+their prior service, and 
+can enter directly into 
+the advanced course." 
+
+LTC Munson will be 
+interviewing prospective 
+candidates for the sum- 
+mer program until 1 
+April 1976. Students in- 
+terested in basic camp 
+and the advanced course 
+should call him at 
+422-7808. "| 
+
+will be happy to talk 
+about the two-year pro- 
+gram. It has several 
+
+
+
+advantages and benefits 
+that I think many stu- 
+dents will be interested 
+
+Basic camp cadets 
+are paid about $500.00 for 
+the six weeks of training. 
+While at basic camp they 
+also receive free room 
+and board and are 
+reimbursed for trans- 
+portation to and from 
+Fort Knox. 
+
+Students in the ad- 
+vanced course are paid 
+5)00.00 each month of the 
+school year and upon 
+graduation are commis- 
+sioned as second lieuten- 
+ants in the U.S. Army. 
+
+
+
+Army ROTC/ 
+
+Learn what it takes to lead. 
+
+
+
+
+cebirds sweep series 
+
+
+
+s Slate Icebirds 
+
+
+
+B minutes before the Ti 
+t from leading s 
+
+
+
+shows a great deal of persever- 
+ence and desire on the team." 
+Both Julie Berghoff and Janice 
+
+
+
+e Tuskers 6-3, and 7 
+
+
+
+e coached by Eric 
+also plays for ISU. 
+■rly played in the 
+current Fort Wayne 
+erD'Arcy Keating, 
+
+
+
+t ISU's Malitzke 
+scored just 2:21 later to make it 
+
+went to work with Dick assisting 
+on John's goal along with Tom 
+
+In the second period, the two 
+
+
+
+Zimmern 
+
+
+
+Purdue on Sunday was cancelled 
+due to the incompletion of the 
+Lafayette rink. The building will 
+be open by this Sunday and the 
+game has been rescheduled for 
+
+
+
+The Tuskers host St Joseph's i 
+February 5 at 7 p.m., tin 
+Tri-State College invades &lt; 
+
+Degree still 
+worth something 
+
+
+
+different. After the scoreless first 
+period, the Mastodons scored 
+first with Bill Sack getting his 
+
+
+
+In Friday night's 
+
+
+
+t Eastern Michigan University, 
+The average annual yield on 
+
+
+
+Got a friend 
+
+interested 
+
+in a 
+
+Free Lunch? 
+
+It's only minutes away. 
+
+
+
+2SS38S8SJ3B888i8S8SiS8S 
+
+
+
+One 
+
+Free Lunch 
+
+at 
+
+Noble Roman s 
+
+
+
+co coco coot coro coot co coco 
+
+
+
+«+= 
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,4402 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator841115indi/communicator841115indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator841115indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator841115indi">The Communicator</a>"
+          </h1>
+          <pre>Hoops 
+
+
+
+Men's women's basketball previews 
+page 7 
+
+
+
+PIT 
+
+
+
+'Agnes of God' opens tomorrow 
+page 5 
+
+
+
+Stress 
+
+
+
+Students discuss popular class 
+page 6 
+
+
+
+®lje Cflmmwritattfr 
+
+
+
+Volume XVI Issue 1 2 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Thursday. November 15. 1984 
+
+
+
+Faculty Senate denounces booklet 
+
+
+
+The Furl Wayne Faculty Senale has 
+denounced the booklet, "Cluslir The 
+Firsl Five Year*.'* saying ft was an 
+embarrassment to I he university. 
+
+The booklet was published In Sep- 
+tember by Community Relations as a 
+memento to Chancellor Joseph P 
+Giusti Giusli is currently on a leave of 
+absence Irom IPFW to gather in- 
+fonnallon lo present to Congress lor 
+the reauthorization of the Higher 
+Education Acl of 1965 The act expires 
+Sept 30. 1985, The cost of the booklet 
+watt 1,435, 
+
+Marc Lipman, associate professor of 
+mathematics and author of a non- 
+binding resolution denouncing the 
+booklet, said he talked to Rosemary 
+
+
+
+Steiner. assistant director o[ com- 
+munity relations He said Slelner told 
+him Giusli authorized the booklet, 
+edited iland chose the photos 
+The resolution passed unanimously 
+
+
+
+ns tool of the university. Lip- 
+resolution said the booklet 
+
+shouldn't have been 
+official publication 
+
+Michael Downs, speaker of the 
+Indiana University faculty, pointed to 
+three inaccuracies in the booklet: 
+
+The booklet implied Giusti started 
+computerized registration Downs said 
+registration was computerized in 1977, 
+while Giusli began his position at 
+tPFWinl9T9 . 
+
+
+
+The booklet gave Giusli credit lor 
+starling Weekend College. Downs said 
+Dwight Henderson, acting chancellor 
+prior toGiusli's arrival, implemented 
+Weekend College, even though the firs! 
+class wasn't offered until after Giusti 
+arrived at IPFW. 
+
+The booklet said Glllltl started 
+IPFW 's involvement In the national 
+student exchange program Downs 
+said the program was started before 
+
+
+
+"If the public; 
+a historical reot 
+distorted and • 
+
+
+
+Harris asks for lobbying effort 
+
+
+
+By CHRISTINA MERCER 
+
+Stall writer 
+
+Tom Harris, lormer student bodv 
+
+president, hasasked the IPFW Student 
+
+Senale to begin an awareness program 
+
+' lobbying effort to get Ihe proposed 
+
+;ArlsCcnlcrbutlt 
+
+orris said the B 5 million project 
+
+
+
+educational wing costing 14.5 rr 
+
+
+
+UnfngrapljH 
+
+Biology organization forms 
+
+Sigma XI. a national organization that encourages research in the pure and 
+applied natural sciences, was installed at IPFW Nov. B. 
+
+Patricia Fabor of Barat College. Lake Forest, 111., the national president of 
+Sigma XI, was the installing officer 
+
+The ForlWayncclubnf Sigma Xi is the newest of about 500 clubs and chapters 
+across North America, with its charter membership drown from researchers in 
+u-icnce nt IPFW and the Fort Wayne area Members' research includes the 
+physical sciences, medical sciences, mathematics and engineering 
+
+Sigma Xi is also concerned wilh the relationship between natural science and 
+the social sciences and humanities, and with the effect of scientific research on 
+society More than I29.00U scientists belong loSlgma XI nationally 
+
+Guthrie given job 
+
+Thomas L Guthrie, associate professor of business administration, has been 
+named director of Ihe Office of Community and Institutional Research, Edward 
+A Nicholson.nclingchanccllorannounced 
+
+Guthrie will be responsible lor slalisllcol studies of enrollment patterns, 
+demographic changes in the popula lion and enrollment (ore-casts 
+
+ThedalaeollecledwillbeusedinrecruillngandrelentionellDrLsbylPFW 
+
+Bright stars Nov. 25 
+
+The three brightest objects in the November sky will come together the 
+
+
+
+,'omngol 
+
+
+
+i after si 
+
+
+
+o. Inditt 
+t, Venus, JupiW 
+
+
+
+clustered low in Ihe southwest Venus will 
+slightly below 
+
+All three objects will fit into the field of \ 
+wilh a standard lens of about W-rjim foe; 
+mounted on a tripod to prevent blui 
+and high-speed [Mm will be needed, 
+best to wait unlll deep twilight aboi 
+posures of about 5 to 30 seconds. 
+
+
+
+* of a 35-mm camera equipped 
+length. The camera should be 
+fast lens opened wide (M.I to 2.8 1 
+" overexposing Ihe sky, It will be 
+after sunset, and take short ex- 
+
+
+
+Club sponsors potluck 
+
+
+
+Admission is Ji lor club members and 12 for non-members. 
+Because of limited space, only 100 people will be admitted. 
+Persons Interested should contact Mary B Brant, director of activities, in 
+room llaof the Walb Memorial Union. 
+
+Host sought for holiday 
+
+Mary 8 Brant, director of activities, has asked the IPFW community to in- 
+vite international students into their home for Thanksyiving dinner. 
+
+Any one Interested in inviting an international student for dinner may contact 
+Brant in room 1 18 of the Walb Memorial Union. 
+
+Usman to speak Nov. 26 
+
+Sushll K Usman, associate professor Of sociology, will speak to Ihe Inter- 
+national Students' Orgamiatioo Nov 26 at noon in the Fairfield Room of the 
+Walb Memorial Uni on on -the challenges of foreign Students. 
+
+Volleyball tourney planned 
+
+IPFW ts planning an Intramural coed volleyball tournament Dec. 4 In the 
+Multipurpose Building Anyone Interested should sign up on the Intramural 
+board on Ihe first floor of the Multipurpose Building. 
+
+No newspaper next week 
+
+The Communicator will not be published neat Thursday because of 
+Thanksgiving 
+TheCommumcator.will return to the newsstands Nov. 29. 
+
+
+
+if the fl 
+arts department 
+The proposal was recently turn 
+
+education. 
+
+"We are disappointed but will n 
+give up hope" said John Carnagl 
+vice chancellor for financial affair 
+Carnaghj said IPFW has been -.. 
+cessful before wilhoul Ihe approval 
+
+
+
+The proposal must be approved by 
+the General Assembly II will be 
+tougher to convince the legislature lo 
+approve Ihe fine arts building wilhoul 
+
+
+
+Elevators 
+shut down 
+during 
+fires 
+
+By MELISSA 
+CONTADELUC1 
+Chief reporter 
+
+Last Wednesday normal routines in 
+the Classroom and Medical Building 
+came lo a hall as the lire alarm 
+sounded. Following emergency 
+procedures, staff, faculty and students 
+began lo evacuate Ihebuilding. 
+
+However, slop for a moment and 
+think about being in a building with 
+more than one level and being unable 
+louse the stairs or the elevator to exit 
+along with others Some people, 
+specifically those with disabilities, 
+may face this dilemna 
+
+In an emergency situation, !PFW 
+elevators automatically return lo 
+home base landing and remain there, 
+said Don Katler. director of the 
+physical plant So, people who can't 
+: the 
+
+
+
+: the s 
+
+
+
+
+
+
+help 
+
+"My best advice - h 
+said Luraine "It pays to 
+tohelpyou." 
+
+
+
+
+Counseling services available 
+
+
+
+help them get c 
+building. 
+
+Fortunately, the alarm on Wed- 
+nesday was a false one. According to 
+University Police and Safely depart- 
+ment, the alarm was accidentally set 
+off by a young child in Ihe arms of an 
+adult On the way ou I of the building, 
+ihe child apparently grabbed the fire 
+alarm, police said. 
+
+Even IhouRh there wasn't a fire, the 
+
+reminder people on campus with 
+disabilities '" 
+especially in 
+
+Debra Freimuth, disabled students 
+counselor, said Ihe IPFW emergency 
+policy and procedures brochure, 
+dislribuicd by the vice chancellor lor 
+financial affairs. Is a good source of 
+information on emergency in- 
+She said the policy states 
+must be rendered lo those 
+
+
+
+provided to faculty and staff. 
+
+ea ch c lassroo m on ca mpus 
+
+"Hopefully good Samaritans won't 
+race out of the building first." Katler 
+said. He was optimistic Lhat common 
+sense would prevail and those with 
+handicaps would be helped in an 
+emergency. 
+
+"An elevator is a death trap." said 
+Fort Wayne Fire Marshall Tom 
+Loraine Stairwells are often sealed off 
+from flames and. if possible, people 
+wilh disabilities should wait there for 
+
+
+
+By JENNIFER ACKLEV 
+Chief Reporter 
+
+Personal counseling at IPFW is 
+more than just finding answers lo the 
+questions of how to deal with stress 
+and how lo cope with anxiety. 
+
+Several resources for personal 
+counseling are available at IPFW 
+Vivian Hernandez, a psychologist from 
+Park Center, Is available on a part- 
+time basis for all students. Working 
+with short term, goal -orientated 
+therapy. Hernandez is presently 
+
+
+
+"Very often, a student on a campus 
+such as IFPW feels overwhelmed by 
+riorum;, i iii lilies — Job. family, school 
+work — and may find themselves In a 
+crisis situation, where things seem lo 
+be falling apart," said McCray- 
+Worrall. who is an ordained 
+Presbyterian clergywoman with a 
+doctorate in pastoral counseling. 
+
+Counseling all faiths and all in- 
+dividuals, from Ihe non- traditional 
+
+; change in 
+
+
+
+"The problen 
+noslly relatio 
+
+
+
+that I 
+
+
+
+wlthai 
+
+
+
+
+
+
+
+
+
+depression." she said 
+
+One technique Hernandez uses is 
+progressive relaxation which leaches 
+people to relax and, therefore, lo deal 
+with the pressures of stress more ef- 
+fectively. 
+
+In conjunction wilh Campus 
+Ministry, o women's group dealing 
+with self concept and assertiveness, 
+was offered by Hernandez and Rev. 
+Marga ret McCray- Worral. 
+
+The g.-oup, which will meet again in 
+the spring, "provides an opportunity 
+for women to get together with other 
+women students in a small Intimate 
+atmosphere lo discuss the problems 
+with being a student and 
+
+
+
+
+
+
+■jaidw 
+
+
+
+
+
+
+The group also locuses on developing 
+skills necessary in interacting with 
+other people. 
+
+In the future, Hernandez hopes to 
+offer a workshop centering around 
+ea ling disorders, such as anorexia and 
+bulimia. 
+
+An extension of personal counseling 
+is pastoral counseling, which involves 
+spintua I s trengtheni ng 
+
+
+
+pe hence and learning." McCray- 
+Worrall's goal Is lo help (he individual 
+develop a 'sense of wholeness and 
+strength. As a former La maze 
+childbirth instructor, she also uses her 
+skills in helping those dealing with 
+crisis in pregnancy and childbirth 
+
+McCray-Worrall spends most of her 
+time at IPFW. although she also hasan. 
+office at Indiana Institute of 
+Technology and is available to SL 
+Francis College. PVY Tech and 
+International Business College 
+
+Father Larry Kramer, pastor of Our 
+Lady of Good Hope Parish also 
+provides counseling as a referral lo 
+Catholic students 
+
+John Ulmer. dean of student ser- 
+vices, as another resource at IPFW for 
+personal counseling Ulmer. who has a 
+doctorate in education with a maiorin 
+counseling does "an awful lot of 
+listening" while helping students cope 
+and make adjustments with their lives 
+The most common problems he deals 
+wilh arc the stresses caused by Job, 
+school and family — relationships 
+from ihose between students and their 
+parents to those between hizsbandiand 
+wives — and some type of moderate 
+
+
+
+personality disorders 
+
+Ulmer is an advocate for Ihe student 
+and. as a result, sees many students 
+who "ore frustrated with Ihe 
+bureaucracy of Ihe system" and tries 
+lo resolve legili mate concerns 
+
+Debbie Freimuth. disabled student 
+services counselor, is available to all 
+handicapped students who have 
+personal problems or simply want lo 
+talk 
+
+For all university employees and 
+their families. IPFW also sponsors an 
+Employee Assistance Program. This 
+program is designed to deal wilh 
+human problems - thekind that affect 
+an employee's personal well-being and 
+lusher ability to perform on the job. 
+These problems may include marital 
+difficulties, financial or legal 
+problems, emotional difficulties. Or 
+problems caused by alcohol or other 
+drug abuse Employee assistance 
+counselors Greg Arnold, Kathleen 
+Schrock and Michael Miller arc ac- 
+cessible through Park Center 
+
+All personal counseling services at 
+
+fidenlial. Referrals are often made to 
+Park Center, a community counseling 
+center II has extended facilities and 
+
+
+
+— Campus Ministry. Walb 221, i83- 
+■291 
+
+— Of rices of Counseling. Testing and 
+Placement Wa lb l u. 4E-5SM 
+
+— Dean of Student Services. Walb 
+118.182-5616 
+
+— Disabled Student Services, 
+MuLlipurposeBuildir^.sK-SMO 
+
+— Employee Assistance ct 
+Park Center. M2-911 1 
+
+
+
+(Ppfntflti 
+
+
+
+0.'in- (Cammunicotor 
+
+
+
+NOVEMBER is. t! 
+
+
+
+Guisti may leave IPFW 
+
+
+
+In this spate 1 several weeks ago, we 
+wondered what WB1 going on concerning 
+Ihe leavcuf absence taken by Chancellor 
+Joseph P GiUMl 
+
+We got the impression Giusti was 
+looking for anoihet Job when Ihe booklet, 
+"Giiali The First Five Years." was 
+published He said ii was published as a 
+publii- relations tool lor IPFW 
+
+He responded to the editorial with a 
+telephone call to The Communicator 
+Office He talked about his job gathering 
+
+
+
+inlor 
+
+
+
+ing 
+
+
+
+the 
+
+
+
+reauthorization o( the Higher Education 
+Ai I ol 1965 He said he wanted to be part 
+of muking history 
+
+(Jiusti also said his present and future 
+were with IPFW 
+
+Today, liiusti is in consideration (or 
+the presidency at Easlcrn Kentucky 
+University He is one of three finalists 
+for Ihe job. If he is elected by the 
+Eastern Kentucky Huard of Kegents, he 
+will be expected lo start his new job in 
+January 
+
+(Jtusli hail lo have applied for the F.KU 
+job sometime during Ihe summer, an 
+
+
+
+Eastern Kentucky spokesman said If he 
+was looking for a new job, why didn't 
+Giusti tell anyone that when he began his 
+leave of absence? 
+
+If Giusti resigns as chancellor within 
+Ihe next month lo begin a new job in 
+January, he doesn't leave much time for 
+Indiana and Purdue universities to find a 
+replacement. 
+
+If Giusti doesn't plan lo return, why 
+then did he say his future is IPFW, when 
+his future may be Eastern Kentucky. 
+
+Giusti seems lo go out of his way to 
+promote the IPFW image. If he is 
+serious about IPFW's image, why not 
+tell the trulh about his plans? 
+
+The Giusti booklet appears, not to be a 
+promotion of IPFW, but a promotion of 
+Joseph P. Giusti — a glorified resume. 
+
+The Fort Wayne Faculty Senate has 
+denounced Ihe booklet as an em- 
+barrassment to IPFW because it con- 
+
+
+
+isstatements. 
+Chancellor Giu: 
+forward. 
+
+
+
+Writer has power to predict 
+
+
+
+mnr in Tut in this space as 
+lung as two months ago it 
+was predicted that Ronald 
+Reagan would win the 
+election, 
+
+
+
+Rather 
+
+
+
+Ihin 
+
+
+
+hordes o[ jo-called Jour- 
+nalists who rely on the potts. 
+1 perccivcda Reagan victory 
+thrnvieh the special gut In- 
+night which is minealono 
+
+In all modesty— dare I 
+remind everyone lhat, yes, 
+even in the final days of the 
+
+
+
+i" suggest that Ihe Manila Ic- 
+
+
+
+journallsm is all about Few 
+have Ihe vlslnn which is 
+quite Irankly mine to see 
+beyond the blue horiion. 
+Mwndnle's landslide 
+
+Now thai ihe economy is 
+goomlng. why not lake the 
+vacation of a lifetime and 
+make .i reservation on the 
+Race ■.hulllp lo Ihe District 
+§ Columbia'' 
+
+The Di-irict of Columbia 
+07 the Detached Colony 
+
+Mondale landslide is about 
+Ds remote as you can get—If 
+youdnn'tciiunlPlulo 
+
+
+
+
+Mark 
+Russell 
+
+
+
+PAYCHECK, MR. QiUSTi I'S 
+
+
+
+&amp;8lMi% an 
+
+
+
+
+Mercedes out of (he go rage 
+
+The campaign posters. 
+banners, coffee cups and 
+
+the country as George Bush 
+rummages around looking 
+lor Ins original opinions 
+William Casey will be 
+I lo pay for f 
+
+
+
+Telephones 
+
+The airlines are pulling 
+telephones in Ihe planes. 
+What wilh losing luggage, 
+overcrowding the schedule 
+and rubberiiing the food, 
+you wonder how they find the 
+
+
+
+Time to organize for funding Fine Arts Center 
+
+
+
+:r and as far as IPFW is 
+
+
+
+nassive attempt to convince 
+he General Assembly thai 
+PFW, Fori Wayne and 
+
+
+
+Setter 
+
+
+
+project Secondly, students' 
+senate should involve the 
+10.000 IPFW students in a 
+letter writing campaign 
+
+
+
+representatives. 
+
+As studcnl body president 
+last year. 1 was excited to 
+stand among our stale 
+representatives and hear 
+Ihcm say publicly thai this 
+year Ihcy will work together 
+
+
+
+Assembly We can change 
+
+Purpose Building and ihe 
+&gt;'— i Care Facilities One 
+id vantage for us is 
+
+
+
+e major growth sector of 
+
+
+
+
+
+
+
+
+
+I the 
+
+
+
+nlghi ihe networks had a big 
+map ti the U.S. wilh Ihe 
+Heaganstali-sinredandlhe 
+Monday in blue And Ihe only 
+tflue was utile DC blinking 
+on and oil, signaling 
+IMayday, Mayday!" 
+
+v, we soy in Washington. 
+DC . we're in touch— with 
+Minnesota. 
+
+/.Hccaru huppi 
+
+I don't know who looked 
+
+defvul, lionatd Reagan or 
+John -— 
+Gary I 
+
+
+
+botched installation of , 
+hidden camera in the 
+M onda I e bedroom. 
+
+Democratic strategy 
+
+The Democrats strategy 
+for Ihe future will be a 
+delicate one— you start wilh 
+Minnesota and the District of 
+id thenyou allow 
+
+
+
+Governments Legi. 
+
+an attempt i 
+
+students^ to mcrauov a 
+lobbying effort in 
+
+cooperation wilh the plans 
+already organlied by Ihe 
+IPFW administration lo 
+
+
+
+IS Prerequisite not offered 
+
+
+
+to 
+
+
+
+i the B08l -election relurn 
+
+"— lalcy, even one is 
+
+on wilh their 
+
+eluding the Zac- 
+
+
+
+them 
+
+The message ol the people 
+is finally dawning on the 
+Democratic leadership Tip 
+O'Neill just called Teddy 
+Kennedy and said. "Ted, you 
+
+this- Rom evell died." 
+
+The Democrats will build 
+lor tomorrow by combining 
+a new realignment with old 
+parly traditions The main 
+locus will be on black 
+counlry clubs. 
+
+No more New Deal. Fair 
+Deal, Cametol or Great 
+Society From now on it will 
+be Ihe New. Aware. For- 
+ward Looking. Pragmatic 
+Democratic Parly A party 
+
+
+
+Irip for Thanksgiving, It 
+
+
+
+what the now lelcphoni 
+lor— to coll ahead I 
+
+You say 
+
+cuaggerating— thai 
+airlines haven't golten thai 
+bad Flown anywhere 
+lately? Wait till the holidays 
+
+
+
+Radio-TV-Film 
+was very upset 
+w the lisl of classes 
+
+schedule I was hoping to 
+lake COM 251 I Intro to 
+Electronic Moss Medial, but 
+
+
+
+prerequisites For COM 431, 
+HI, andJM. i radio. TV, and 
+film prac lieu msl 
+
+In my COM 250 class 
+eleven olher COM majors 
+signed a paper si 
+
+
+
+Lei's continue lo en- 
+courage our stale 
+representatives as well an 
+the Fort Wayne community 
+
+working toward this goal 
+
+During ihe next low weeks 
+
+formation arising on this 
+
+
+
+first complclecampusinthe. 
+stale, and more importantly, 
+provide adequate learning 
+
+
+
+thear 
+
+
+
+&gt; department 
+
+
+
+Ihcy would la 
+
+
+
+ilhecli 
+
+
+
+ilfll 
+
+
+
+is offered Out of a class of 
+less than forty people, eleven 
+is a rather large percentage 
+I'm sure many more Radio- 
+TV-Film majors would lake 
+the class if it was offered 
+Because is is not ottered. 
+
+
+
+Ol Radio-TV-Film mil |oc^ n 
+
+this campus II the class 
+offered, enough sluden 1 
+would sign up so that It 
+
+
+
+We can convince the Stale 
+legislature to appropriate, 
+funding for Ihis project, but 
+it will take combined eltorl 
+between the administration 
+and ihe sludent body 
+
+We can do it, we've done it 
+
+
+
+Editor appreciates anniversary staff 
+
+
+
+Comi 
+
+
+
+which 
+
+
+
+opportunity to publicly thank 
+all of Ihe people who assisted 
+us in pulling logelher Ihe 
+anniversary issue of The 
+
+
+
+First. I want to thank ihi 
+other editors: JohnetU 
+Toplisek. managing editor; 
+
+
+
+George Hayne 
+
+Annelte Hoy. 
+
+editor. Dan Clemens, sports 
+editor and Michael Ciaburri. 
+photo editor Without the 
+extra work they put in, Ihe 
+
+
+
+completed 
+
+Secondly. 
+
+rritmii'd i» 
+
+
+
+IPFW archives and Elmer 
+Dcnman at the Learning 
+Resource Center. These two 
+
+
+
+(he i: 
+
+
+
+
+Typewriter returned late 
+
+
+
+Berggoeti. Angela Franco, 
+Diana ilawfield, Christina 
+Mercer, Tami Rice. Doug 
+Runyan, Michele Shalfer. 
+Carolyn Suwyn and Dcolse 
+VanOrt 
+
+
+
+To the Editor- 
+In January 1383 Students' 
+Government purchased five 
+electric typewriters wilh 
+Student Activity Fees. They 
+
+Library with the stipulation hrought back on Friday, 
+they would be borrowed by 
+Slu dents' Government to 
+type student idcnlificalion 
+
+
+
+electric typewriters. One 
+was returned In September 
+The Students* Government 
+s notified by phone and 
+many limes i 
+
+
+
+than us 
+
+
+
+ailablc 
+
+
+
+■alher 
+
+
+
+other 
+
+
+
+lypew 
+
+
+
+cards. 
+
+
+
+Until thai lime the library 
+had (our electric typewriters 
+available lor IPFW students 
+Most students waited on an 
+
+
+
+through Ihe Student 
+Acuviiy Fee that the 
+typewriters are maintained 
+Why have these typewriters 
+been kept from the students 
+who are paying for them for 
+months at a time? Is (his 
+how the students want their 
+money spent? 
+
+Cathy A. Voora 
+Julia L Shaffer 
+
+
+
+idea of a joinl campus of 
+
+Indiana and Purdue 
+
+universities at Fort Wayne 
+
+Mike Rocger 
+
+Edilor-m-Chlef 
+
+
+
+Letters welcome 
+
+Ever 
+municator reserves spnc, 
+
+Hi is pane lr&gt;r Idlers from double-spaced or write 
+
+readers Your views are legibly onevery olherlinc. 
+
+welcome. You may bring your letter i 
+
+, _„ , ;__,.. j toThc Communicator office. • 
+
+„,™„ ,i' ;: z «&gt;» «"™™i "■&gt;"». ™»» 
+
+
+
+Voices across IPFW 
+
+Should part-time students be required to pay a student activity fee? 
+
+
+
+
+OHO! 
+
+
+
+HHI Management 
+
+
+Sociology 
+
+
+No, I don I have lime to 
+
+
+"Payment of the fei 
+
+
+E any of the services 1 
+
+
+should be voluntary 
+
+
+rk forty hours a week " 
+
+
+Everyone should have thi 
+
+
+
+
+choice of paying 
+
+
+
+•News 
+
+
+
+NOVEMBER IS. 1M4 
+
+
+
+afje (iDoimiinicalar 
+
+
+
+Are bought research papers worth their money? 
+
+
+
+Bf JOHN COOK 
+
+
+
+
+Using mall-order term 
+
+
+paper companies a* a means 
+
+
+of taking oil Ihc pressure at 
+
+
+mid- lerm Is one way to go (or 
+
+
+IS or 16 a page. Honest? 
+
+
+The College Heights 
+
+
+Herald of Western Ki-nlu&lt;-k% 
+
+
+
+
+cipcrimcnl by ordering two 
+
+
+lerm papers from Authors 
+
+
+Research Services, Inc . o 
+
+
+"professional research and 
+
+
+writing service," based in 
+
+
+
+
+Nine professors graded Ihe 
+
+
+
+
+The grades were nol 
+
+
+satisfactory The Herald 
+
+
+reported an English paper 
+
+
+
+another novel, "A Farewell 
+In Arms," not "The Sun Also 
+Rises." Factual errors anda 
+lack of specific details also 
+contributed to the low grade 
+This paper ccel 128.50, 
+
+When contacled about the 
+poor quality of the paper, a 
+spokesman for Author's 
+Research apologised and 
+sent a second paper tree of 
+charge. 
+
+The Herald also reported 
+that Ihc history department 
+received n lerm paper 
+Theirs cost ISO. DO Likewise, 
+
+
+
+professor wrote, "I 
+give this papers D or . 
+particularly tacky. 
+
+
+
+psmdo-snpfuslicatlon..." 
+Purchasing term papers 
+
+from agencies in this 
+
+business Is not regularly 
+
+prachcedallPFW 
+John P. Ulmer, Associate 
+
+Professor ol Education and 
+
+Dean of Student Services. 
+
+said most students probably 
+
+
+
+papers is clearly wrong and college for an education, and class is graded ona curve" falls under the same lor 1PFW clearly slates that 
+
+unethical for tworeasons second, this isunlalr toother Wilson, along with Ulmer. category as plagiarism academic dishonesty must 
+
+"First, people are at students especially If Ihe said buying term papers The students' handbook nnt be tolerated 
+
+Trustee discuss tuition at IPFW 
+
+
+
+t KOECER 
+■r-lo-Chlef 
+
+
+
+)1 willing 
+
+
+
+the | 
+
+C+.sD-a 
+
+
+
+'.r ■Jith.i 
+
+
+
+W J Wilson, assistant 
+professor of psychology, said 
+the practice of buying term 
+
+
+
+President John I 
+III Board o 
+Saturday. 
+
+
+
+6 Purdue faculty are among 
+c, ihe lowest paid '" *« B'B 
+• y Ten Conference, 
+te The board of trustees will 
+
+es make final approval for fee 
+increases for all campuses 
+
+
+
+Education Commiu 
+
+
+
+"&lt;Vou) can't rau 
+salaries at the o 
+s bj dents," Gorney 
+trustees. '"I You're 
+people oul of 
+
+
+
+also asked the 
+lo consider a 
+jn of how lab fees 
+
+
+
+direclor of Ihe Learning 
+Resource Center, was given 
+the additional lllie of acting 
+director of Ihe library. 
+
+
+
+WARNER BROS. AND WOODEN NICKLE RECORDS 
+BRING YOU THESE HIT L.P/S 
+AT HOT PRICES! 
+
+
+
+
+lp/ct $ 5.99 
+
+
+
+RICKIE LEE JONES 
+
+ThS Magazine 
+
+
+
+
+! LP/CT 
+
+Compact Disk " U.3U uc^na,i, 
+
+
+
+Wi*f *J W/CoupcnO 
+
+
+
+
+LP/CT s 5.99 
+
+
+
+W/CouponOnly 
+
+
+
+CHAKAKHAN 
+
+I feel For You 
+
+
+
+
+CASSETTE 
+
+
+
+! LP/CT 
+'Compact Disk 
+
+
+
+s 5.99w 
+
+
+
+
+lp/ct s 5.99 
+
+
+
+
+lp/ct $ 4.99w,c..„.„, 
+
+
+
+
+LP/CT$ 4.99wc. 
+
+
+
+G 
+
+
+
+a'bacab 
+
+
+
+-- -^ W n- i PySni^ 
+
+
+
+
+routs 
+HO REPtf fl AIL 
+AHUTHER RECORD 
+
+
+
+FLEETWOOD MAC 
+
+Rumours 
+
+IrhlixVMk' HiK 
+Co*urOwnV\bjt Dream 
+
+and Don I Stii]&gt; 
+
+
+
+}?w3M™~!~}\wsi_\4Mj!d 
+
+
+
+
+lp/ct $ 4.99»c..p. 
+
+
+
+
+
+THE CARS 
+
+
+
+
+ROVER WASHINGTON.)!* 
+
+
+
+
+LP/CT S 4.99CASSETTE 
+
+
+
+W/ Coupon Only 
+
+
+
+LP/CT s 4.99 
+
+
+
+VII Coupon Only 
+
+
+
+lp/ct $ 4.99»,c-„.o*i! LP/CT $ 4.99»c- 
+
+
+
+
+!lp/ct $ 4.99 
+
+
+
+36S? N. CLINTON 
+
+
+
+WOODEN NICKLE RECORDS 
+
+TOP 50 l.P.'S AND TAPES 5 5.99 
+
+
+
+■^t Give the gift 
+Sr^^it^ of music 
+1 P 
+
+
+
+Entertainment 
+
+
+
+0. hi: llLinimuniCiitur 
+
+
+
+NOVEMBER IS, I! 
+
+
+
+
+Music graduate directs atWBNI radio 
+
+
+
+By DIANA IIAvYFIELD 
+
+
+
+of Music Director for WBNI, 
+Fort Wayne's public radio 
+slalion Her responsibllib'a 
+Include the supervision and 
+scheduling of all on-air 
+announcers and the main- 
+tenance and acquisition of 
+recordings Tor the station 
+library. She will also be 
+using on Ihe im- 
+provement ol the on-air 
+sound of the station. 
+
+Furtner moved with her 
+family lo Berne. Indiana 
+from Costa Mesa. California 
+in 1973. Seven yean later she 
+graduated from 1PFW with a 
+bachelor's degree in vocal 
+music. She said that the 
+
+
+
+obtaining the degree was 
+valuable because it enabled 
+her lo take full advantage of 
+the wide variety of academic 
+offerings at Ihe University 
+
+
+
+languages, art history, and 
+geology, which she found 
+
+She feels that both her 
+
+
+
+in very good stead a 
+
+particular, she value 
+close relationships wil 
+faculty which she 
+maintained even 
+
+
+
+and repertoire, Ihey imbued 
+me with enthusiasm for 
+learning and performance," 
+she said. 
+
+Enthusiastic Is certainly 
+the correct word to describe 
+this woman, who glowed 
+
+
+
+would enrich people's I 
+
+
+
+i lo i 
+
+
+
+station this week and hear 
+something that fits perfectly 
+with ycur current mood, 
+while next week thai space 
+
+
+
+will be filled with some 
+entirely different, bul 
+entirely appropriate I 
+through our 
+
+
+
+ts training in those 
+
+
+
+i me WBNI 
+in German, 
+
+
+
+Savetime,work 
+
+faster withyour own 
+
+computer system 
+
+
+
+uilvjiiiimes in LisM?t &gt;nu. a I'niHjjIt'lt' .ir 
+iiiuiiK i in ■ [iuiit cliisiei anil j hot lint 
+
+ComputerLand is fun uf I 
+
+
+
+•• di-|ian iii j Hide variety o r com- 
+
+r usf ttlii'fi vnu tuKv (|ui-siiuiu&gt; alwiut 
+iu r ^tt i^fau 11 &gt;r i i.stiujniiitt-vd. because 
+ivnrttJ's kuyvsr ct.mpLiliT retail chain 
+
+
+
+The ComputerLand STUDENT STARTER SYSTEMS 
+
+
+
+Apple lie 
+
+
+
+
+IBM 
+PCjr. 
+
+
+
+The ComputerLand GRAD STUDENT SYSTEMS 
+
+
+
+IBM PC 
+
+
+
+Compaq 
+Portable 
+
+
+
+■ 
+
+
+m 
+
+
+m 
+
+
+c^~ 
+
+
+* gfTtmrrtfrjUi \ 
+
+
+
+
+w. 
+
+
+
+
+u 
+
+
+it "^:"37a* 
+
+
+^-« 
+
+
+
+STi"ri SKi Either for 
+;;''";;.,!".Ni;* as little as 
+
+
+
+It's till' |turtalik&gt;[iHli|iulrrul'li rJr&lt; rn 1 
+biiili ill nil nl lid I liuyniul -tr-i'ii 
+&lt;l i ■ live n. Jl i 1 1. ■ j-h-ji Softs i &gt;f | m &gt;n j I .i N 
+wiihoui Inldfng .iff am eiiinjiUITl 
+ikmvr iJ|iilnliiv. Tin- system is in 
+plcic (like ihe IBM) imli two liiul: 
+sldvij duutile densiiy dish drill 
+
+
+
+
+a month* 
+
+
+
+
+ComputerLand 
+
+
+
+Fort Wayne Downtown 122 W. Wayne • 1219) -122-9561 Fort Wayne North 5450 N. Coldwaler Rd. -(219) 483-8107 
+
+Stop in anytime or call for an appointment tu discuss which .system is best Tor you. 
+
+
+
+Champa gne-Urbam 
+
+
+
+Illinois 
+
+Her last | 
+WNED in 
+York, doing 
+
+cess fully elevating 
+station's listener nufiiwct*. 
+She said she learned a great 
+deal there, but the high- 
+powered nature of Ihe Job 
+
+her numerous older in- 
+
+
+
+t. In Berne ihe has 
+
+
+
+direcled pageants for Swiss 
+Days, taught Swiss (oik 
+songs and dances to the 
+Swiss descendants In the 
+area and helped them lo 
+recall ihe I r heritage. 
+
+"Radio is a twenty-four 
+hour lob." she said. "You're 
+always thinking about and 
+planning for It. whether 
+you're at the office or not" 
+She feels that her other In- 
+
+portunltylo'dc-tox' 
+
+WBNI now employs five 
+paid staff people, two or 
+whom are women. The 
+remainder of the work load 
+in their Wells Street YWCA 
+headquarters Is handled by 
+approxtma'ely 70 volun- 
+teers A targe part of Furt- 
+ner's Job will be to coor- 
+dinate the efforts of the 60 
+on-air volunteers. 
+
+When asked about the 
+fulurc, she looked bulcfully 
+at the pile of work on her 
+desk, built up over the five- 
+monlh period that her 
+pos i lion was vacant 
+
+"First I have to get 
+through that," she said, 
+"and these," indicating a 
+formidable stack of records 
+next to her chair "I think 
+lhal one keeps changing, so 
+that by Ihe time a decision 
+comes along, It's pretty well 
+been prepared for by the 
+choices already made. Oh, 
+and I jusl bought I harp!" 
+
+
+
+(1 
+
+
+
+CAVANAUGH &amp; ASSOCIATES 
+
+TO: FALL &amp; SPRING 
+GRADUATES 
+
+RESUMES WITH RESULTS 
+
+...THE KEY TO UNLOCKING 
+
+INTERVIEW DOORS. 
+
+PROFESSIONAL CONSULTATION 
+
+AND RESUME PREPARATION PROGRAM. 
+
+The Cavanaugh Consulting Group 
+
+Management Consulting Services 
+
+Suite 600 The Metro Building 
+
+292 W. Berry St. (219) 423-2506 
+
+
+
+
+An illuminating (rip Into tha malaiolani darirnsss 
+surrounding rock musicians, thcit music and thai/ 
+audiences. 
+
+
+
+NOVEMBER 29 
+
+DECEMBER 6 
+
+NOON and 7:30 pm 
+
+BOTH DAYS 
+
+WALB 222 
+
+Sponsored by New Lile Fellowship 
+
+
+
+STORE YOUR STUFF 
+FOR LESS! 
+
+
+
+Prints storage spaces tor isnl bj ihs monlh 
+
+• SlICS is lull your netrJi • t-OCk your irjjt rj jnrj lite the It 
+
+• Ouldoai ilongt |RVs. brjttl, elc | al leme locations 
+
+• Heildanl manager on prtmll" 
+
+
+
+FORT WAYNE 
+
+1801 W Coliseum Bl 
+&gt;1f ihe light 
+Nexl to fleet Supply 
+484-3666 
+
+
+
+FORT WAYNE 
+5020 Slufflon Rd 
+Nexl to Bobick's 
+Gall Range 
+
+
+
+Q 
+
+
+
+PUBLIC 
+STORAGE. 
+
+RENTAL SPACES 
+
+
+
+KEICTRPI 
+
+
+
+iEntertammettt 
+
+
+
+Hitft (.'.nminunirnttir 
+
+
+
+
+
+
+
+
+
+
+
+^^^ 
+
+
+
+
+
+
+r \ £ ^ 
+
+
+^C8 
+
+
+
+
+
+
+ft ^ 
+
+
+1 
+
+
+
+
+■ 
+
+
+^\^ 
+
+
+
+
+
+
+r 
+
+
+i 
+
+
+
+
+^^ — ■ 
+
+
+
+
+
+
+
+
+# * 
+
+
+
+
+
+
+PIT presents "Agnes of God" by John Plelmelrr 
+Hulh. Janet Gabti at Dr. Martha Uvlngjlon 
+
+
+nd directed by Larr 
+and Annr Bcreslort 
+
+
+L. Uft tomorrow. Nov. IT, a. Z4, ». 3D 
+C|arke u Sister Agnei. 
+
+
+nd Dec. 
+
+
+. Appearing In fhe play a 
+
+
+re Donna Blackburn as 1 
+
+
+other Mir lam 
+
+
+
+Beresford-CIarke debuts at PIT as 'Agnes' 
+
+
+
+ByJENNlFERfl-BOSK 
+
+
+true slory or a n 
+
+
+un who wos 
+
+
+Life to bring it 
+
+
+o the PIT 
+
+
+replaced Amand 
+
+
+Purdue- Indiana Theatre s 
+
+
+
+
+i baby and 
+
+
+
+
+
+
+merinlheleadro 
+
+
+inler production, "Agncsof 
+
+
+then murdered 
+
+
+, the play's 
+
+
+"When I first s 
+
+
+w the play 
+
+
+felt the play did 
+
+
+
+id Life people. The. 
+
+
+
+GET YOUR CAREER 
+OFF TO A FLYING START. 
+
+
+
+If veuve ever wanted to be- 
+at the controls of a pave of machinery 
+that enn hover over a dime, rise 
+straight up. do fantastic things with 
+power and air ,ind pitch and aero- 
+dynamics, you belling at the controls 
+of an Army helicopter. 
+
+The Arniv ha^npenin^snim 
+m us Warrant Officer Flifjhi Training 
+
+Eroj,Tam To qualify, you must 
+
+we pret^.H-I.-.-iM - ye.ir-nj colle^ 
+
+Pnnr to entering helicopter 
+llieht training, yi &gt;u rhusi successfully 
+complete basic [raining and pre- 
+flight training. 
+
+When you've completed the 
+course successfully, you'll be wearing [he wings of an Army Warrant Officer. 
+
+For more informal ion, call the Army Recruiter near you 
+
+
+
+CAPT. JOHNNY PIERCE 
+219-485-5452 
+
+ARMY. 
+BEALLYOUCANBE. 
+
+
+
+
+
+JOB LOCATION SERVICE 
+
+
+
+SECRETARY. 20 hrs./wk. flexible. Musi have good typing and telephone 
+
+skills. Wage negotiable. Job Number: 1 1-1-0-3 
+
+CLERK. 11 p.m. to 3 a.m., M-F. Will train on computer. $5/hr. Job 
+
+Number: 11-1-0-3 
+
+DISPLAY COORDINATOR. 5 hrs./wk. Dfess mannequins for store window. 
+
+Prefer art major or someone knowing fashion. S3 50/hr Job Number 
+
+11-1-R-3 
+
+TECHNICIAN. 10-15 hrs./wk. Repair computers, prefer EET or compuler 
+
+technology major. Must be able to work without supervision; will provide 
+
+some training Start a! S6. 50/hr. Job Number 11-1-I/T-1 
+
+BANK MACHINE MONITOR. Fri,, 5-11 p.m.; Sat., Noon-5; Sun., 5-11 
+
+p.m. Must be able to work without supervision S3.75/hr. Job Number: 
+
+11-1-G-3 
+
+NURSES AID. 20 hrs./wk., flexible, mornings or afternoon. Will train. 
+
+S3.50/hr. Job Number: I1-1-H-2 
+
+GRADUATE PLACEMENT 
+PERSONNEL ASSISTANT. Degree in personnel management or related 
+Held. Dec. 1984 or prior grad required. An internship or work experience 
+in personnel desirable. 
+
+ADVERTISING SALESPERSON. Some college preferred; 1-3 years 
+newspaper advertising sales desirable. 
+
+LOAN OFFICER. Degree in economics or finance. Will consider May 1985 
+and December 1984 grads. $14,000. 
+
+INDUSTRIAL ENGINEER. Degree in industrial engineering. Compuler 
+background helpful. 
+
+SUBSTANCE-ABUSE COUNSELOR. Degree in mental health technology. 
+Individual and group counseling in an adult outpatient clinic. 
+ELECTRONICS TECHNICIAN. Degree in electrical engineering technology. 
+Duties include electronic-instrumentation repair 
+
+IF YOU ARE INTERESTED IN ANY OF THE ABOVE POSITIONS, PLEASE 
+CHECK THE JOB BOOKS IN THE JOB LOCATION/GRADUATE PLACEMENT 
+0FRCE, WALB 113 
+
+
+
+I the play at 
+■ething about it 
+so I got a copy, 
+
+
+
+Even though the play had 
+a murder- mystery billing in 
+New York, Life did not see 
+Ihe play being performed as 
+
+
+
+Beres ford-Clot 
+sr debut at PIT as 
+
+Be res ford-Clarke 
+.t seen at First 
+rian Theatre in 
+
+
+
+Added to this production of 
+"Agnes of God" are three 
+
+McForland. Kris Fitzgerald 
+and Lynn Paulsen Hughes. 
+
+
+
+Not ci 
+
+
+
+id for in the 01 _ 
+:ript. Life presents them 
+
+
+
+Gubet. returning 
+ti tig a nd working in 
+
+
+
+with a lol of questi 
+ility of miracles in 
+
+
+
+"Life psychiatrist Don 
+
+Importance of Being Ear- 
+nest." plays the Mother 
+
+
+
+16-17, 
+
+
+
+Agnes of God" runs Nov. 
+29-30-Dcc I 
+'ickets are $s for general 
+dmisslon. $1 [or senior 
+ilizcns and $3 Tor students 
+
+
+
+
+
+
+
+8 
+
+in ai 
+
+ffl Q 
+
+oo u 
+=i &amp; 
+a° 
+
+4. M- 
+0) 
+
+O 
+
+a 
+a 
+
+a 
+
+a 
+□ 
+a 
+
+o 
+a 
+
+
+
+CITMFMTX c-m Building 
+
+^- ' J ^ L -y *** Auditorium 
+
+
+
+UE BOUCHER } - Cla 
+
+
+
+laloijleal suspense thriller, the 
+fter J decade In the army. ..he be 
+Ith the schoolnlstress, then nurd 
+
+
+
+•i to the scrwrNC wtrr 
+
+
+
+the rag ulcus M 
+
+
+
+IPFW Activity Card - FREE 
+General Public" $2QQ 
+
+
+
+Film Cards -lOfilms-SlOao 
+
+
+
+Squire, Ratt sell out 
+
+ByCAROLVNSUWYN' 
+Stan Writer 
+The double bill of Billy Squire and Ratt that played the sold 
+out Coliseum last Thursday night drew a crowd thai was I 
+light on leather, heavy on females and a lillle younger than 
+onemightcipecl 
+
+
+
+
+
+
+
+
+
+A near majority of the croud came to see Rait, which has 
+grown popular because ol their MTV ejrposura Halt played 
+the highlights of its lop ten album Out of the Cellar." with 
+an abundance of onstage energy With Ihe autllen™ on Its 
+
+"Round and Bound" seemed to come too ion Aj Rail said 
+good-bye they promised lobe back next year. 
+
+Squire appeared on stage to a regrouped crowd in Jeans 
+and ,i Hilly Squire It-o-'hirt The crowd phoned i-iiriMdcrabti.- 
+enthusiasm He sang from his fast three albums, did a lillle 
+dancing and played his «mlar a little mure Mian he usually 
+
+
+
+He seemed to gel Tired up whet 
+crawled about the floor a bit. and ' 
+wane Squire didn't make much 
+stage His three encore numbers w 
+had been wailing lor all night long 
+
+
+
+he sang 'The ! 
+
+
+
+&amp;teppfn* GDut 
+
+
+
+Film 
+
+The Fort Wayne Cinema 
+
+
+
+Cent 
+
+
+
+#111 
+
+
+
+
+
+
+Testament, 
+
+American n I m. this weekend 
+Ihe Art Museum 
+dilorium, 111 E. Main, 
+lis drama depicts the 
+instating aftermath ol a 
+■clear war. Showtlmes ore 
+
+Saturday at B p.m. and 
+
+Sunday at 7:30 p.m. 
+
+Concerts 
+
+The ever-popular Let- 
+Icrmen bring Iheir standard 
+favorites, mixed with new 
+tunes, for the IBlhyear at the 
+Embassy Theatre, this 
+Saturday night at a pm 
+Tickets for reserved scats 
+
+
+
+of tl 
+
+
+
+Spectrin 
+
+concert entitled "No Strings 
+
+Attached" S 
+
+p.m. at the Performing Arts 
+
+Center There ore a limited 
+
+number of tickets available 
+
+tor 16 at the Embassy bo? 
+
+office. 
+
+Jail artist Di«&gt; CtiHinpii 
+will be appearing wl" 
+Fort Wayne Philharmonic 
+Saturday, Nov 2* at 8 p.m. 
+inihcEmbassyThcatrc The 
+pops program will feature 
+the great trumpet virtuoso 
+both with the Orchestra and 
+with his Trio in jnu 
+arrangements from bebop to 
+
+
+
+tin? 
+
+
+
+"P-UUH 
+CfOWl 
+
+fiii&amp;ufa at 
+
+
+
+rr»/ 
+
+
+
+4* JioupoN onr.H expires i i 30-8.1 
+
+GameTokens 
+«^ $3.00 
+
+f\m Purtpolf and Gamefi 
+
+" din " VALID ONLY AT mam 
+
+
+
+COUPON OFFEH E-XPIRLS I ] 
+
+BUY 1 GAME 
+
+of Putt-Putysoir 
+
+GET 1 FREE 
+
+
+
+Pun Putt Golf and Games 
+
+
+
+MARKETPLACE OF CANTERBURY 5731 ST. JOE R[ 
+
+GREAT MEETING PLACE FOR GOOD FOOD. DRINK OR 
+
+JUST PLAIN FUN AND CONVERSA T10N 
+
+WE HAVE DANCING AND ALL YOUR FAVOPIJE GAMES. 
+
+POOL. DARTS. VIDEO OR SHUFFLEBOARD ALSO A 
+
+LARGESCREENTV F0RALL THOSE SPORTING EVENTS 
+
+OUR MENU FEATURES 19 DIFFERENT SANDWICHES. 
+
+FROM HAMBURGERS TO ITALIAN STYLE PIZZA. AND 
+
+MANY DIFFERENT LATE NITE SNACK ITEMS 
+
+ALL ITEMS ON MENU AVAILABLE FOR CARRY0UT 
+
+DAILY LUNCH SPECIALS 
+
+HOURS 11:00 A.M. UNTIL 3:00 A.M. 
+
+HAPPY HOUR 4:30 P.M. UNTIL 7:00 P.M. 
+
+HAPPY HOUR: 2 FOR 1 OH YOUR FAVORITE MIX OfllNK 
+ALSO LARGE PITCHER OF PREMIUM BEER 
+ONLY '1.75 OH SMALL PITCHER FOR MOD 
+
+
+
+"Watch for our 
+Pajama Party and 
+Christmas Party" 
+
+
+
+LUNCH SPECIAL 
+
+
+
+PIZZA 
+
+BUY 1-GET 1 
+
+FREE 
+
+
+
+WITH COUPON | SINGLE TOPPING 
+
+RECEIVE SECOND Out | SM ■ 14.55 E 
+
+FREE | MEO-6.35 TO 
+
+■l.*S VALUE I LG- 1.6S 11 
+
+
+
+I 1:00 A M UNTIL .1:00 I'M 1 1:00 A.M. UNTIL M1DNITE 
+
+
+
+ItizatutZB 
+
+
+
+ilhc Comtnuniciitai 
+
+
+
+NOVEMBER IS. I9W 
+
+
+
+Alumna wins 
+business award 
+
+
+
+Ky MELISSA 
+CONTADELtCI 
+
+Stiff Writer 
+
+
+
+IPr'W alumna Linda Knnygh 
+refers lo when she tatks 
+aboul her career palh and 
+iiccnmplMhmciits. 
+
+"I want lo be somebody — 
+make my nun mark as a 
+woman and aa an In- 
+dividual," said Kanyuh "I 
+have had great tenacity " 
+
+Kanyuh has slrivcd for 
+success and attained It. She 
+is acting director ol the Fori 
+Wayne Urban Release 
+Center and has recently 
+earned Hip distinction of the 
+Busin 
+
+
+
+wife going back loschoo 
+wondered why any wc 
+would want to work ir 
+
+
+
+the 
+
+
+
+iallo 
+
+
+
+Worn 
+
+"Woman ol the Year lor the 
+Meridian Chapter." 
+
+More lhan llD.ooo mem- 
+Association are potential 
+candidates for the annual 
+Woman ol the Year award. 
+The 2,000 ABWA chapters 
+vote and each chapter elects 
+an Individual candidate 
+Selection is based on the 
+following qua I ili cations 
+
+vnlvcment. cmploymenland 
+A8WA participation 
+
+A panel el independent 
+judges then narrows the 
+national award nominees to 
+ten finalists These ten 
+proceed through Interviews 
+with the Judges and the lop 
+two arc singled out (or the 
+award. Kanyuh says lo gel in 
+the top ten is a great 
+achievement. 
+
+"It 1 the award] made me 
+feel really good," she said, 
+"we (the linalislsi were 
+honored u n be I i cvab ly . " 
+
+Kanyuh has worked hard 
+lo 
+
+
+
+Kanyuh said. 
+
+She knew that work and a 
+job would be part of her life 
+So, Kanyuh sought an 
+education on which to build a 
+
+"I loundoutl loved college 
+and criminal justice," she 
+said "There were a lot of 
+older students ail there just 
+like me. setting goals, 
+plugging away 1 was 
+determined lo get my 
+degree" 
+
+Two and a half years later 
+she had her associate's 
+degree in criminal justice 
+from IPFW To receive her 
+bachelor's Kanyuh com- 
+muted to IUPUI 
+
+She called the commuting 
+"a rough grind," but all the 
+while continued to make the 
+
+Jobs Two a! the Jobs were 
+part lime waitress and floral 
+designer. The third consisted 
+of various positions In the 
+criminal ]uslice field 
+
+After receiving her 
+bachelor's, Kanyuh started 
+her job in Moy 1979 with the 
+Department of Corrections 
+at Ihe Fort Wayne Work 
+Release Center She said she 
+was the first female in the 
+state hired to work in Ihe all- 
+male minimum security 
+facility As a woman in a 
+non traditional Job, she 
+
+
+
+
+
+
+
+■^B 
+
+
+
+
+9 &lt;v 
+
+
+BuL ^a 
+
+
+
+
+\ ' -* A 
+
+
+
+
+A 
+
+
+
+
+^B 
+
+
+J 
+
+
+
+
+
+
+- 4H 
+
+
+
+
+
+
+«* 
+
+
+'A^wpx 
+
+
+J 
+
+
+* &gt; 
+
+
+
+
+
+
+
+Course helps with stress 
+
+
+
+By ■ RUN VAN 
+
+Chltl Reporter 
+For most students, college 
+
+perience. The pressure of 
+studying tor too frequent 
+ind writing pi 
+
+
+
+dancing a nd we I gh t lira ng . 
+
+Because of Ihe type of 
+class work that is involved, 
+think the 
+
+
+
+will 1 
+
+
+
+
+
+
+light be 
+
+
+
+■e they are due ca 
+
+
+
+make the college years 
+dilli cult to handle 
+
+At IPFW. however, there 
+is a class specifically 
+designed to teach students 
+and others how to recogniie 
+when stress Is adversely 
+alfecting their health. 
+
+
+
+it," Livcrance said. "We try 
+lo teach people lobe healthy 
+and happy." 
+
+
+
+nlh-nr 
+
+
+
+if them 
+
+
+
+ur unils with a different 
+slructor for each section 
+lore is one instructor each 
+om the departments ol 
+ipervision, nursing, mental 
+:alth technology and 
+msumer and family 
+
+
+
+■■ bctlcr in touch with tholr 
+todies and learn when Ihey 
+tave stress. Through this 
+
+
+
+plays tapes of relaxing 
+music throughout the class 
+period. She said people arc 
+constantly surrounded by 
+
+
+
+that is reining can decrease 
+stress. This Is something 
+that employers need to 
+realue so that their em- 
+
+
+
+The work in the class Is 
+mainly reaction-oriented, 
+said Ltverance Instead of 
+tests from lecture notes. 
+
+which express how they feel 
+aboul Ihe topics discussed. 
+
+
+
+rorry Liver 
+"Some people took the 
+class hoping for an easy A, 
+but hare gotten a lot ait of it 
+anyway from hearing what 
+
+Llverancc 
+
+Senior philosophy ma Joe 
+Oavld Walker, who ts 
+enrolled in the Saturday 
+morning class. ■ ' ' ' 
+
+
+
+the c 
+
+
+
+
+
+
+relaxing. He says that the 
+class and ihe work Is easy 
+but students learn lo com- 
+municate from the course. 
+
+"The students are calm 
+and relaxed and things are 
+discussed In this class thai 
+arc not talked about In other 
+classes It gives mc a dif- 
+ferent perspective on things 
+that I have gotten from my 
+philosophy classes." said 
+Walker. 
+
+"I took the class because I 
+needed stress manage- 
+
+
+
+by learning skills i 
+care, she sa ' 
+
+
+
+self- 
+
+1 students 
+currently enrolled in the 
+class represent every 
+
+offered on 
+
+the popularity 
+
+
+
+oriented to their personal 
+
+
+
+problem wtlh letting stress 
+,k - "—it of me The class 
+
+
+
+
+
+
+■r theai 
+
+
+
+qualities 
+
+she has received 
+
+She began, II year 
+age 28. to study c 
+justice at IPFW. At L 
+
+
+
+mple 
+
+
+
+drive mc away," Kanyuh 
+
+Since joining IheABWAin 
+1979 Kanyuh has held a 
+number ol offices. She is 
+currently president of her 
+chapter. 
+
+"The ABWA has provided 
+the chance for me to be 
+around other professional 
+
+
+
+working. II gave me Ihe 
+opportunity to learn." 
+
+volvemenls include: being 
+current president ol the 
+American Cancer Soclely, 
+working for United Way: 
+teaching project business for 
+Junior Achievement; being 
+active in the Chamber of 
+Commerce, the Mental 
+Health Associalior 
+Indiana Can 
+Sheal 
+
+
+
+the class 
+
+
+
+sajd Li vera nee. 
+
+The instructors try to 
+nake the students aware 
+
+
+
+share 
+
+
+
+ird these goals. They do 
+ass project or a collage 
+:h reflects themselves 
+what they are willing to 
+
+
+
+ilC.,,1 
+
+
+
+tremendously " 
+Kanyuh sugg 
+
+
+
+Tien entering a non- 
+
+il field, Kanyuh 
+
+thick skin" is 
+
+
+
+"If they (those 
+
+established! cant attack you 
+professionally, they II attack 
+
+
+
+inn nn I 
+
+
+
+Some of lhc class projects 
+in Ihe past have Included 
+teaching the class sign 
+language, singing, or 
+playing an air guitar Some 
+of the projects have been 
+: health oriented. 
+
+
+
+*&amp;&amp;_ 
+
+
+
+fn n nnt 
+
+
+
+why it's one ot the most 
+popular classes on campus." 
+
+Walker a Isosuggested tha t 
+freshmen could bonctlt from 
+taking lhc dais lo orient 
+them 1 col lege 
+
+"Freshmen would enjoy 
+taking this course," said 
+Walker. "11 could relax Ihcm 
+lo a university selling. The 
+class would be helpful In 
+gelling over the feeling of 
+being overwhelmed by 
+"" -e."sald Walker 
+
+
+
+I 
+
+
+
+tnnnn I 
+
+
+
+
+
+
+
+
+
+
+m 
+
+
+
+NOVEMBER 24 
+
+
+
+$irooip™ 
+
+
+
+
+ACTIVITY CARD 
+
+
+
+$1 Q00 NON-ACTIVITY 
+10 CARDHOLDERS 
+
+
+
+Stops at 
+
+WOODFIELD MALL 
+and 
+.WATER TOWER PLACE 
+
+
+
+^ 
+
+
+
+Deadline 
+
+(or 
+
+Payment 
+
+Friday 
+
+NOVEMBER 21 
+
+
+
+Paid Reservations accepted now at the 
+
+IPFW SWEET SHOPPE 
+
+Walb Union Building 
+
+Sponsored by the Student Union Board 
+of Governors 
+
+
+
+Campus Calendar 
+
+
+
+Thursday is 
+
+
+
+New bfe Fellowship. Walb 222. noon 
+
+Business and economics alumni reception. Summit 
+
+Club. 5-6.30 p m Call 4B2-5343 
+Health career day. Walb Ballroom. 9 a.m.-noon 
+College Level Examination Program [CLEP], 
+
+general, KT G47, B B.m. 
+Exhibition of paintings by Robyn Ihne, fine arts 
+
+auditorium, through Nov. 29 
+
+Friday is 
+
+College Level Examination Program [CLEP], sub- 
+lets, CM 244, Bam. 
+
+SUBOG cinema, "The Butcher 1 ', CM 159, 7:30 
+p.m. 
+
+PIT. "Agnes of God", 8 p.m. 
+
+Women s volleyball. Northern Kentucky, Grand 
+Valley State, and Mount Saint Joseph at IPFW. 
+6p.n 
+
+
+
+Saturday i 
+
+
+
+Veterinary aptitude test. Walb 112. B a.m. 
+English, reading, and math placement tests. Walb 
+
+Ballroom, B a.m. 
+Multistate insurance licensing program, CM 1 59, 
+
+
+
+ismg 
+
+
+
+KT 227, 8:15 
+
+
+
+Old Daken Bucket alumni bus trip to Purdue. West 
+Lafayette, 9 a.m. 
+
+Contmuing-educatjon one-day courses: "Looks That 
+Worn: Invest in a Day for You," 9 a.m.. "One- 
+Minute Manager," 8:30 a.m. 
+
+Continuing-education course: "Beginning Micro- 
+computer I [ages 11-15], 9a.m. 
+
+SUBOG cinema. "The Fabulous World of Jules 
+Verne." CM 159.2 p.m. 
+
+PIT. "Agnes of God", 8 p.m. 
+
+Tn-State Honor Band and Honor Choir Festival 
+Concert. Neff Rectal Hal. 7:30 p.m. 
+
+Women's volleyball. Northern Kentucky. Grand 
+Valley State, and Mount Samt Joseph at IPFW, 
+
+
+
+Tuesday 20 
+
+Continuing-education course: "FOFTTH as a S 
+
+Language," 4:30 p.m 
+Men's basketball. Albion at IPFW, 7:30 p.m 
+
+Wednesday 21 
+
+IPFW Christian Fellowship. Walb 222. noon 
+Nursing information meeting, KT G41 . noon 
+Anthropology forum. Walb 114. noon 
+Institutional Scholastic Aptitude Test [ISAT], Walb 
+
+Ballroom, 8 a.m. 
+New Life Fellowship. Walb 222. 7;30 p. 
+
+Thursday 22 
+
+Thanksgiving recess, no classes 
+
+Friday 23 
+
+Thanksgiving recess; no classes 
+PIT. "Agnes of God." B p.m. 
+
+Saturday 24 
+
+PIT. "Agnes of God." 8 p.m. 
+
+Basketball alumni night, IPFW vs. Kentucky State, 
+
+AC. 7 p.m. 
+Women's basketball. Northern Kentucky at IPFW. 
+
+3 p.m. 
+
+Monday 26 
+
+Faith and freedom forum, Walb 222, noon 
+Student Action Coalition. Waft) 1 1 2. noon 
+Continuing-education course: "Photo Discovery: 
+
+Camera as Artistic Tool,'' 7 p.m. 
+Men's basketball, Central State at IPFW, 7:30 
+
+
+
+Tuesday 27 
+
+Ftegistration for spmg semester. 10 8 
+2:30-8:30 p.m. 
+
+Continuing-education course. "Advanced Photo- 
+graphy." 7 p.m. 
+
+Wednesday 28 
+
+IPFW Christian FeJowshp, Walb 222. noon 
+Anthropology forum, Watt) 114, noon 
+Chemistry semnar: David Onwood. KT 227. 
+
+12:15 p.m. 
+Registration for spmg semester, 10 a.m.- 1 p.m., 
+
+2:30-630 p.m. 
+New Life Fetowsrip. Walb 222. 7:30 p.m. 
+
+Thursday 29 
+
+ReOECratjon 'or spriig semester, 10a.rn.-1 p.m.; 
+
+2:30-6:30 p.m. 
+New Life Fellowship, Wad 222. noon 
+PIT, "Agnes of God," 8 p.m. 
+
+Friday 30 
+
+SUBOG enema, ■'Denton," CM 159, 7:30 p.m. 
+PPT, "Agnes of God," 8 p.m. 
+ON-CAMPUS RECRUITMENT 
+Thursday, Nov. 15 
+
+Bankers Life and Casualty 
+U.S. Navy 
+
+Campus Calandir la aponaorsd by Indtana-Purdua Uni* araJty at Fort Wayna for tha usa of all unfvar- 
+•■tv dapart/nanu and groan nations, tuns u ba Indudad in Caropua Calandir must ba autanitwd to 
+'-&lt;■. Otfico of Unhraraity flotations, Kanlar 1 1 1 1ra. B p jn. on tha Thursday pracNBng tha anaa ol 
+
+
+
+Sunday is 
+
+Conunuing-education course: Advanced Microcom- 
+puter II [ages 1 3-1 8), 1 p.m. 
+
+Monday 19 
+
+Career assessment group test. Wafb 112, 5:30 
+p.m. 
+
+■J i.. '■ «■:: ■ ■_.-• ;■■.■':-! ■■/■J-: ti li 6 i;o:-r, 
+Meet the faculty Jeanette Clausen, modem 
+foreign languages, Walb cafeteria green room, 
+
+■'Stfl Life and figure 
+
+
+
+%mrt0 
+
+
+
+.NOVEMBER 15 
+
+
+
+kiln- ifummimitcitnr 
+
+
+
+84-85 critical for men's basketball 
+
+
+
+H ( MtWMAt'.t.'lt.rt 
+
+Staff Writer 
+With lour starters 
+'■ turning from last Season, 
+
+two of them the lop scorers 
+(or Ihc team, the IPFW 
+men's basketball team 
+enters its llrnl season of 
+
+
+
+the overall 
+
+
+jcvelopmenf of 
+
+
+
+
+1 basketball 
+
+
+
+
+.aid coach Tim 
+
+
+Russell "T 
+
+
+•: strength and 
+
+
+tradition 
+
+
+the GLVC 
+
+
+
+
+jnprecedented 
+
+
+challenge 
+
+
+o our young 
+
+
+program 
+
+
+
+
+
+
+may be every 
+
+
+1)11 us gooc 
+
+
+
+
+
+
+
+
+
+
+will include 21 
+
+
+■ i iiuLirihij 
+
+
+programs as 
+
+
+
+Waterloo, a tc, 
+Canada. Nov 
+
+
+
+volleyball finals begin at 6 
+pm (ollowed by the 
+basketball game al 7:30 
+pm [PFW's regular 
+si-.isnn pln&gt; l&gt;eninial home 
+— Nov 20 against Albion 
+College 
+
+Conference (avorites are 
+GLVC champion Kentucky 
+Wesleyan Bcllarmine and 
+
+Teams outside the 
+
+conference that could give 
+
+the Mastodons problems 
+
+
+
+! 1982 r 
+a year pi ons Wnghl Stale 
+
+
+
+of the eventual 
+
+
+
+I might be louah are 
+
+
+
+returning from last year; 
+
+
+
+valuable player. Mark 
+Cook is also returning. 
+
+
+
+thii year are Jeff Nannen 
+IG'T". 220) who averaged 
+9 4 points per game and 
+was the second leading 
+rebounder last year; Willie 
+Brooks is'll". i60i who 
+averaged 5.9 points per 
+gume last year- and Jim 
+M or Ian le's", ub&gt; who ■ 
+averaged A 9 poinls per 
+
+Two new players this 
+
+16 1", IBOi and Richard Ivy 
+
+
+
+■ hi.i.im,! average from the 
+
+
+
+, averaged 17 
+gameand pulled 
+rebounds per 
+
+
+
+• two best 
+join lhc 
+
+
+
+Ivy 
+
+
+
+firou/ramallPFW 
+
+The starling lineup will 
+probably be made up o( 
+Cook andAllcn Long al the 
+Huard positions. Fullove 
+and Marian al forward and 
+Nonnan al center. Russell 
+
+Russell has been at 
+IPFW for Iwoyears In his 
+first year al IPFW. the 
+team went 16-12 Lasl year, 
+
+
+
+Freshmen the key to women's basketball season 
+
+
+
+FITZGKHAI.il 
+Stall Wrllrr 
+
+"This is definitely IP- 
+FW'j best-ever recruiting 
+year." said Kirk 
+Kavanaugh. third year 
+coach of the IPFW 
+iomon'5 basketball team. 
+
+Kavanaugh is leading 
+Hie Mastodons inlo their 
+second season ot NCAA 
+Division II competition 
+and Ihcir first season o( 
+
+
+
+IPFW 
+
+
+opens its $ 
+
+
+
+
+Nov. 2* 
+
+
+al home againsl 
+
+
+
+
+Kentucky 
+
+
+The 
+
+
+Mastodons will 
+
+
+
+
+conlercn 
+
+
+■ ■ jjI.c. Ian 
+
+
+
+
+
+
+
+
+
+
+top-notch 
+
+
+
+
+
+
+
+
+will 
+
+
+
+
+
+
+
+
+returning veterans it 
+
+
+
+
+Kavana 
+
+
+db .■•[.'!-(.'. ' 
+
+
+be a 
+
+
+
+ranking scorer. 
+Michelle Folti. 
+The Mastodon 
+
+
+
+Maslodons' two leading 
+scorers, averaging 202 
+points and 12 2 points per 
+liiimr. respectively 
+
+center Clara Trowbridge. 
+
+
+
+■'1 1 ' i&gt;&gt;naJ championship 
+am. shot -to percent from 
+t field and ai percent 
+
+
+
+Intramurals offer sports 
+to those with limited time 
+
+
+
+lADBERGGOBTC 
+
+SI all Wrllrr 
+Many students have a 
+great interest or latent in 
+some area of sports bul do 
+not have the lime to dedicate 
+themselves to it because of 
+school and-or their Job. 
+Usually what happens to 
+Ihcse people is thai they 
+
+
+
+Itfoolslil.. . . 
+physically active and they 
+gradually slide Inlo a boring 
+sedentary life. If you are 
+lamiliar with this situation 
+then the Intramural 
+program mighl be the an- 
+
+Int 
+
+
+
+with 
+
+
+
+
+
+
+le enrolled 
+illeastacredit 
+e paid the 
+
+
+
+Intramurals L 
+at IPFW lor a 
+hours and tc 
+student servi 
+
+Currently competition in7 
+events is taking place The 
+even UJ include Hag loolball. 
+singles tennis, racquetball. 
+
+
+
+voile-, lull 
+basketball 
+
+
+
+ind 3 
+
+
+
+Senior ready for opener 
+
+
+
+She is a potential division 
+II. NCAA. All-American 
+candidate She has scored 
+more points in her sport than 
+any temale or male at IP- 
+FW Her name is Rhonda 
+Unverlerthandher game is 
+basketball 
+
+Unvcrferlh 
+
+
+
+I Indiana 
+averaged 15 
+
+
+
+points a game and h 
+
+
+
+al IPFW she-has- shot 51 
+percent IromMhc FffiHP Lasi 
+"Jnverlcrlh ended her 
+
+
+
+name." she said "It w 
+
+
+
+.year is 
+rehuifrlinj" year 
+
+
+
+UnverferUl began play 
+
+
+
+tomboy of the family " And 
+being that tomboy has paid- 
+oil and, the team hopes, will 
+continue to help as lhc 
+
+
+
+"They also have a girl up 
+for Al I- American and a quick 
+guard.'' said Unvorterth 
+"Hut &lt;ve-hnve gm 11 to" of 
+individual talent- II we can 
+put it together we'll be un- 
+stoppable'" 
+
+
+
+FOR TRAVEL INFORMATION - 
+
+'Airline Fare and Tickets 
+
+Domestic St Overseas 
+"Charier Flights to Eurppe 
+
+'Honeymoons . 
+
+'Passport Photos 
+
+-Closest Travel Agency To Campus- 
+
+
+
+Open 
+
+
+Wed Evenings 
+
+
+And 
+
+
+Sal. Mornings 
+
+
+
+OF WASHINGTON SOUAAE 
+593? N. Clinlon (219) -182-3795 
+
+
+
+Start Saving Now 
+
+for SUBOG's Winter Break 
+
+Ski Trip... 
+
+
+
+January 2-9 
+
+Travel AMTRAK To 
+
+WINTER PARK 
+
+COLORADO 
+
+6 days - 5 nights 
+
+Included With Trip Package 
+
+Roundtrip AMTRAK/bus transportation 
+
+(Fort Wayne - Chicago by Greyhound bus) 
+
+5 Day Lift Ticket 
+
+Lodging at TWIN RIVERS 
+
+CONDOMINIUMS 
+
+(Cable TV, Fireplace, Hoi Tubs. Sauna) 
+
+
+
+
+AVAILABLE 
+750 Acres of Skiing 
+
+Snowtubing 
+
+Ice Skating 
+
+Snowmobiling 
+
+Sleigh Rides 
+
+Handicap Skiing 
+
+
+
+
+*sQ*an°° IPFW 
+
+OOU ACTIVITY 
+CARD 
+
+*SOOCOO NON- 
+•*«*•* ACTIVITY 
+CARD 
+HOLDERS 
+
+* s 248 00 CHILDREN 
+
+
+
+"P1»J 120°° refundable damage deposit 
+
+
+
+[under 12] 
+
+
+
+PAYMEIVT DEADLINE- DECEMBER 1 
+
+
+
+Sponsored by the IPFW Student Union Board of Governors 
+
+
+
+Li«*fcfcrt, £7* 
+
+
+
+
+Book Traders 
+
+OVER 80,000 
+Gently used books, comics and magazines 
+
+2212 Maplecrest Road 
+
+Behind Georgetown Square 
+Across from Koehlmgers Cycle Shop 
+
+749-4045 J^^tP) 
+
+
+
+A W h ANNIVfifr f 
+
+
+
+
+19441Q&amp; J 
+
+
+
+Open 24 hours 
+
+a day 
+
+7 days 
+
+a week 
+
+
+
+■alleyball mil be added 
+
+
+
+idd«j Id 
+Wolteybaii 
+
+I it Is played in 
+anicqueioaiicourt. 
+
+There arc two categories 
+of competition, individual 
+and leann sports The in- 
+dividual sports include 
+racquetball. billiards, table 
+
+spring run iSooom and i 
+milci The team sports are 
+football, 
+volley tall 
+
+
+
+..■ .i uggci ■ 
+
+■ pnifirain «, 
+I IhC inlr.im 
+
+
+
+Lisa Shcchat. ... 
+
+Craig Ftn ami LtronGtbcri 
+
+They handle 
+
+
+
+lodenli 
+EapA 
+
+
+
+.Cln.'.illli'- 
+
+
+
+porlunily lo participate in a 
+sport where lhc primary 
+emphasis is not to win but lo 
+have a good lime competing 
+againsl others and togcl Inlo 
+
+The only requirements 
+
+
+
+tailored to his or her ability 
+If slrenuwis physical sports 
+do not Interest you, billiards 
+and table tennis arc two 
+games of skill (hat arc of. 
+feral. Or II physical 
+exhaustion and the 
+satisfaction of knowing thai 
+youaredoingsomc'thintilhai 
+is good for your health 
+pleases you then there arc 
+
+
+
+design the 
+tourneys and keep track o( 
+all thcreiulls 
+The otllry dales lor each 
+
+sporl arc available ni Iho 
+
+Intramural office in the 
+
+Multipurpose Building li is 
+
+up in the Individual or lenm 
+
+managci gn up for the 
+
+activity in ihc intramural 
+
+office li in .ll-n up in Un- 
+learns and lndivirln.il- lo gel 
+the result-, -ii lhc contest) to 
+
+it Hi..- 
+
+There li uric major 
+problem w,Hh lhc program 
+AllhouKh li lol of 
+ilk cv 
+
+
+
+people signed ui 
+are m&gt;l being 
+
+
+
+football 
+
+by NCAA or federation 
+rules unless specified dif- 
+ferently by the Intramurals 
+
+
+
+i triple led 
+c turn pi on-, 
+
+
+
+andrc 
+
+
+
+
+
+
+each sporl The champions 
+arc determined by cither a 
+single or double elimination 
+tournament depending an 
+how many entries (here arc 
+
+The director ol 
+tramural program if 
+volleyball coach Am 
+
+
+
+a Ihc t&gt; 
+
+
+
+gether. 
+
+Lasl year the problem was 
+jusl the opposite. Ihe leomi 
+and Individuals were to 
+
+pushed so h.irrl I., h.ivi'lln-ir 
+
+competition complolod by 
+iheir deadlines itai a few ol 
+
+
+
+3506 N. CLINTON 
+PHONE 483-6175 
+
+
+
+PROFESSIONAL RESUMES 
+Typeset &amp; Printed 
+
+at 
+Economical Prices 
+
+
+
+LOWEST PRICE 
+THIS FALL! 
+
+
+
+
+SPECIAL W 
+
+
+
+■ CALL FOR PRICES ON 10K and 14K GOLD - 
+
+SHANNON JEWE LERS 
+
+W27 N. Clinton 
+
+Vashlngton Square 483-7967 
+
+
+
+I 
+
+SALOON 
+
+(219)424-9279 
+
+3730 E. Washington Blvd. 
+
+Adjacent to the Hallmark Inn at the Cloverleaf 
+
+Jeremiah 's Saloon Now Open 
+
+Monday through Saturday 
+
+
+
+
+BpOttB 
+
+
+
+CT hr (J. nmniLin jcjliir 
+
+
+
+MiVEMBERlS.lSW 
+
+
+
+Holy smoke! Dons bagGLVC 
+
+School's first team conference championship 
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,2576 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv5i41indi/communicatorv5i41indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv5i41indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv5i41indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA - PURDUE COMMUNICATOR 
+
+
+
+[NDIANA- PURDUE UNIVERSITY, FORT WAYNE, INDIANA 
+
+
+
+g;gg 
+
+
+
+
+Broyles: econ equivalencies 
+out too; Manges*, not so 
+
+
+
+Super-chancellor candidate, Dr. Willi; 
+campus last Thursday and Friday to n 
+students. Dr. Charles J. Merdinger will be 
+
+
+
+R. Monat. far left, was on 
+
+with faculty, staff, and 
+
+campus today and 
+
+
+
+Monat visits campus for 
+chancellor interview 
+
+
+
+ByKURTULLMAN 
+
+The equivalency controversy was 
+fueled this week by the administra- 
+tion at I.U. A memorandum with the 
+official cancellation of the English 
+equivalent courses contained a 
+surprise 1 hat involved both schools. 
+
+The problem began on April 3, 1974, 
+when Ralph E. Broyles, chancellor of 
+Indiana here, issued a memorandum 
+to Dr. David Skelton of the registrar's 
+office. The memo, given to the 
+i iinniuinieiitor by the chancellor's 
+office, said "Will you please take 
+s^eps to see that Indiana University 
+does not autlimi/e (emphasis theirs l 
+implementation of the following 
+equivalencies at this time." Those 
+courses to be cancelled included 
+previously announced English cours- 
+es and equivalencies in business and 
+economics for I.U. and industrial 
+management for Purdue. 
+
+Roger J Manges, dean and director 
+of the Purdue administration, early 
+this week met with Broyles to resolve 
+the differences between the two 
+schools and have the equivalencies 
+implemented in lime for the summer 
+and fall semesters. The negotiations 
+apparently ended with nothing 
+changed as far as the I.U. adminis- 
+tration was concerned. 
+
+Magnes then talked with Skelton 
+and told the registrar that he was to 
+register the courses as the original 
+agreement indicates, which is eur- 
+renily being done. 
+
+Broyles said that the problem was 
+aquestion of muti-lateral establish- 
+ment of the equivalencies. He stated 
+that Purdue did not include the I.U. 
+) the degre 
+
+
+
+1 fur i 
+
+
+
+J Of 
+
+
+
+University of New York, 
+campus last Thursday and Friday to 
+be interviewed for the post of 
+super-chancellor. 
+
+Monat, along with six other men 
+was selected to be interviewed by the 
+Search and Screen Committee, out of 
+over 200 applicants for that new post. 
+
+Monat received his B.A. and his 
+PH.D. from the University of 
+Minnesota in political science. 
+
+He began his teaching career in 1949 
+as a teaching fellow at Wayne 
+University. In 1953 he became an 
+instructor at the University of 
+Minnesota. A year later he transfer- 
+red back to Wayne U. to be an 
+instructor of political science there. 
+Pennsylvania State University was 
+the location in 19G0 when Monat 
+became an associate professor and 
+also was the location when he was 
+named professor in 1965. 
+
+In 1969 he took over as chairman 
+of the Department of Political Science 
+at Northern Illinois University. 
+
+Monat was an adjunct professor 
+of both the Illinois Institute of 
+Technology and Southern Illinois 
+University in 1971. 
+
+Monat received administrative 
+
+Faculty votes for 
+independence --again 
+
+The American Association of 
+University Professors released 
+Thursday the results of a campus- 
+wide poll of the faculty on the question 
+of confidence in the presidents of the 
+
+
+
+experience beginning in 19G1 when he 
+was the director of Graduate Studies 
+in Political Science at Penn State. He 
+received the title of associate director 
+of the Institute of Public Admini- 
+stration and held that post from 1963 
+until 1969. He was also the executive 
+assistant to the Governor of Michigan 
+in fields of economic development, 
+education, urban affairs, and public 
+and mental health. 
+
+Dr. Monat has authored The 
+Public Library and Its Community: A 
+Study of the Impact of Library 
+
+
+
+Charles J. Merdinger, vice 
+president of Aspen Institute for 
+Humanistic STudies, the Aspen 
+Institute, New York, is on campus 
+today and tomorrow. He will be 
+available to medet and talk with 
+faculty, students and staff at a 
+reception in Room 224 of the Student 
+Union from 4 p.m. until 5:30 p.m. 
+
+
+
+"Basically there a 
+cancel the industrial management 
+eiuiivalencie." according to Broyles. 
+"One is that the bugetary implica- 
+tions have not been completely 
+researched. Reason number two is 
+that there was not a proper 
+involvement of the I.U administra- 
+tive personell." 
+
+refured by Jam 
+
+
+
+Gilbert, the plans for the equivalen- 
+cies were instituted with the full 
+cognizance of Richard E. Hill (P.U. 
+i department), and Dayne 
+
+
+
+administration. 
+
+He was a consultant to the United 
+States Department of Health, Educa- 
+tion and Welfare, the Pennsylvania 
+State Treasurer, Pennsylvania 
+Governor's Committee on the Handi- 
+capped, and the Department of 
+Labor. He has coordcinated and 
+lectured at various seminars on urban 
+leadership, management, etc. 
+
+The dean is a member of many 
+professional associations. He is listed 
+in WHO'S Who in America, American 
+Men of Science, Men and Women of 
+Science.and Who's Who in the East. 
+
+Monat was born in 1924 and is 
+married and has five children. 
+
+
+
+4 student speakers to 
+compete nationally 
+
+
+
+By TOMMY FRANKE 
+
+Four members of the Purdue- 
+Indiana Student Speakers will com- 
+pete in national contests as a result of 
+their victories in Indiana intercollegi- 
+
+
+
+According to the AUP paper, the 
+Irregular, there were a total of 92 
+ballots received. Of this number, 52 
+were received in envelopes bearing 
+the signature of the voting party, and 
+considered to he authenticated votes 
+on the question. 
+
+The question posed by the faculty 
+organization was whether or not the 
+presidents had the confidence that the 
+presidents were acting knowledge- 
+
+
+
+
+
+
+best interests of the 
+its, and academic 
+programs of the school. 
+
+Of the 52 authenticated votes, 4 
+respondents have confidence in the 
+presidents. 41 do not, and 7 abstained 
+from voting. There also were 40 
+ballots submitted anonymously from 
+the instructors. The vote totals on 
+these were 11 voles of confidence, 24 
+no confidence and 5 with no vote. 
+
+The faculty were also asked if 
+they agreed with the statement that 
+the interests of the faculty, students, 
+n best be served by 
+
+
+
+n of Indiana-Purdue to a 
+separate, independent state univer- 
+sity with a separate, independent 
+state-wide board of trustees. 
+
+32 professors who sent in 
+authenticated ballots agreed, 19 
+disagreed and one abstained. 
+
+In the unauthenticated ballots, 18 
+agreed with the statement lauding 
+independence, and 22 disagreed. 
+
+In toto, 50 faculty members 
+indicated that this university should 
+be independent. 
+
+Vets office to go to 
+Bloomington hearing 
+
+There will be a hearing at Indiana 
+University in Bloomington this 
+Thursday for veterans to air their 
+complaints regarding the veteran 
+problems. Senator Vance Hartke, who 
+is currently sponsoring a bill to 
+increase G.I. benefits, is hosting the 
+hearing. 
+
+A van will leave Indiana-Purdue on 
+Thursday morning in order tp provide 
+
+
+
+On March 25 Meg Mettler, Denise 
+Yaney, Saul Fields, and Sharon Ault 
+were accompanied by faculty spon- 
+sors Richard Hess and P. Dale Ware 
+to Ball State University for the 
+competition with students from seven 
+other Hoosier colleges and univer- 
+
+Miss Yaney and Miss Mettler 
+participated in the Indiana State 
+Oratorical Association (ISOA) com- 
+petition Miss Mettler placed second, 
+which qualifies her to participate in 
+the Interstate Oratorical Association 
+competition to be held at Southern 
+Colorado State College in Pueblo May 
+
+
+
+Miss Yaney placed third, which 
+qualifies her to attend if Miss Mettler 
+cannot. 
+
+Both were awarded plaques for 
+their Hoosier achievements. 
+
+The contest that Misses Mettler 
+and Yaney participated in required 
+the students to have a memorized 
+speech of 1500 to 1800 words, 
+preferably Problem-Solution or Per- 
+suasion. In past years men and 
+women competed in separate cate- 
+gories in this event; however, this 
+year a female Wisconsin student 
+threatened the ISOA with a lawsuit of 
+sexual discrimination Consequently, 
+
+
+
+New course contest 
+
+
+
+The COMMUNICATOR. 
+with the help of an anonymous 
+benefactor, is sponsoring a 
+contest to try (o get ideas for 
+new and innovative courses that 
+students would like to see 
+offered at Indiana-Purdue. 
+
+Ideas should be submitted 
+typewritten, no longer than 50 
+words per idea, and deposited in 
+the boxes at the stands before 
+April 19. 
+
+The ideas will be judged by 
+
+
+
+First prize will be $25 and 
+there will be five $10 second 
+place awards given. 
+
+
+
+and a tape of her speech w 
+
+the National Intercollegiate Peace 
+
+Speech committee for further 
+
+competition. 
+
+Fields was awarded second place 
+in the Extemporaneous Peace Speech 
+category. A tape of his speech will 
+
+
+
+be 
+
+
+
+the National 
+
+
+
+Miss Mettler's speech will be 
+published in the 1974 edition of 
+Winning Speeches, published by the 
+Interstate Oratorical Association. 
+
+At the business meeting held at 
+State for participating ISOA 
+
+
+
+schools, Hess was elected I 
+Secretary for 1974. 
+
+Miss Yaney, Miss Mettler and 
+Lynda Jackson have all qualified to 
+compete in the National Individual 
+Events Tournament to be held at the 
+State University of New York in 
+Pittsburgh. New York, April 19-21. 
+
+To qualify for this competition the 
+students had to place in the final 
+round at a speech tournament during 
+the 1973-74 academic year. The 
+Purdue-Indiana Student Speakers 
+competed in six tournaments this 
+year, excluding the ISOA. 
+
+
+
+E. Stonebarger, head of the I.U. 
+Division of Business and Economics. 
+
+"The major problem with the 
+equivalencies at this campus," 
+according to Gilbert, "is that when 
+the two sehools agreed that one school 
+would have one academic mission 
+They also said that it would furnish to 
+the other school classes in the area of 
+it's mission." Thus Purdue wanted to 
+offer courses in business and 
+economics to their students who 
+planned to transfer to the main 
+campus to complete their degree 
+work and asked the I.U. department 
+to furnish them, 
+
+Gilbert did not feel that the 
+budgetary problems uutlined by the 
+I.U. administration were of much 
+consequence. 
+
+"There are two basic kinds of 
+equivalencies according to the mis- 
+sion agreement," said Gilbert. "One 
+kind is when students of both schools 
+would lake from both faculties, such 
+as the English equivalencies. The 
+second kind is when one school takes 
+from the other with no students from 
+the other involved." The industrial 
+management courses fall into the 
+latter category. 
+
+Under the equivalency agreement, 
+I.U. would furnish faculty for the 
+equivanlent courses. Purdue would 
+then transfer )o I.U. the entire $20 (Hi 
+
+
+
+enrollment fee and pay the student's 
+$7.00 building fund assesment. Thus 
+for every hour that a P.U. student 
+took from an I.U. instructor, the latter 
+school would make a "profit" of the 
+$7.00 building fee This would help 
+I.U. lessen the impact of the 
+W! i5,0«). &lt;M&gt; defecii it paid to Purdue 
+last year under the program Gilbert 
+also slated that P.U.'s only concern 
+was that that students are given the 
+best education possible. 
+
+Gilbert denied Broyles' charges 
+mat P.U. did not consul! with the I.U. 
+administration. Richard L. Desmond, 
+dean of faculties of I.U. here, sent a 
+memorandum to Gilbert on October 9, 
+1973, recounting a paper presented by 
+Stonebarger and Hill setting out 
+which courses were to be considered 
+equivalent The memo indicated that 
+I.U. would grant the equivalencies 
+effective next year. 
+
+According to Stonebarger and Hill, 
+the equivalencies were set-up mainly 
+as a convience to students at 
+registration lime Even under the old 
+eoiidil ions. Pun lue students could and 
+did take the courses by applying for 
+admission to I.U. as a transient 
+student and then following the normal 
+registration procedures. At the end of 
+
+
+
+Human values topic of 
+planning conference 
+
+
+
+"Human Values: Their Role in 
+Long Range Planning" will be the 
+topic of a conference on campus April 
+17, 24, and May 1. 
+
+The conference will be sponsored 
+id coordination with the Center for the 
+Sludy of the Person, by the League of 
+Women Voters. 
+
+Each discussion will be from 7:30 
+p.m. until 10:30 p.m. in the ballroom 
+of the Student Union. 
+
+Three discussion meetings are 
+planned which will deal with three 
+broad areas of community planning. 
+The format of the meetings will be a 
+lecture in which an oulside speaker 
+will discuss philosophic and-or histo- 
+ric problems. Then a panel of reactors 
+will discuss the problems before the 
+audience. 
+
+The participants will then break 
+into small discussion groups to 
+analyze the problems. 
+
+During the first meeting, April 17, 
+Thomas Philbrick, professor of 
+American literature, University of 
+Pittsburgh, will explore the tradi- 
+tional dichotomy in American values. 
+The reactors will be: James Childs. 
+professor of theology and ethics, 
+Concordia Senior College; Clifford 
+Nault, professor of English, IU-PU; 
+Sister Jean Schaeffer, undergraduate 
+dean and professor of English, St. 
+Francis College. 
+
+Michael Graves, professor of 
+architecture, Princeton University 
+and Princeton urban planner, will 
+speak on the "Aesthetics of Ugli- 
+ness," April 24. He will talk about the 
+nature of growth. 
+
+
+
+The reactors to this speech are: 
+
+James Churchill, professor 01 educa- 
+tion, IU-PU; Gene Phillips, professor 
+of education. IU-PU; and Alan 
+Grinsfelder, community architect, 
+Fort Wayne. 
+
+May 1 the Purdue-Indiana 
+Theatre will present "Selected Songs 
+
+
+
+Dwi 
+
+
+
+The reactors are: William llruen- 
+ng. professor of philosophy. IU-PU; 
+Henderson, professor of 
+
+
+
+history, IU-PU: and Linda Jackson, 
+IU-PU student. 
+
+The moderator will be William R. 
+Din-land, director of the Center for the 
+Study of the Person. 
+
+
+
+Hartke at open house 
+
+
+
+Record with Senator 
+s the theme of an 
+sponsored by the 
+: Club today from 4 
+
+
+
+Vance Hartke" 
+open house to I 
+Fort Wayne Pre 
+p.m. until 6 p.m. 
+
+There will be refreshments 
+served and members of the press will 
+be in attendance. 
+
+All students and staff members 
+from this campus are invited to the 
+informal gathering to talk with the 
+Senator. 
+
+The open house will be located on 
+the first floor of the Sheraton Hotel, 
+downtown Fort Wayne. 
+
+
+
+
+Dr. C. H. Law she, retiring Purdue vice president for 
+regional campus administration, was honored by local 
+faculty and staff Friday. He is holding a painting of It -IT 
+that was presented him at a reception given in his honor. 
+
+
+
+Edlton'allii 
+Speaking 
+
+
+
+Student presidential candidates 
+
+
+
+ACT to use experience 
+
+to improve campus services 
+
+
+
+Un-Party to get involved 
+to make IU-PU 'great' 
+
+
+
+Scare 'em off 
+
+
+
+Another possible . 
+candidates is that they 
+already have someone i 
+their time going thi 
+
+
+
+The first two super-chancellor candidates were on campus last week, 
+and at least one did not like what he saw. 
+
+ulil Schwartz, trom the State University of New York at Buffalo, 
+
+hinted to a faculty panel that he may not be interested in the jot. wilhnul ;i 
+firm understanding with the two presidents as In whal thai job I rally is 
+
+Neither candidate was given a job description "1 any kind. Neither 
+knew In whom hi' would be reporting nor who would he reporting to him. 
+Both candidates wereexlpnsed to IU-PU faculty, staff, and students that 
+had no better of an idea on what the situation is. 
+
+Schwartz summed it up pretty well when he said thai the campus 
+must lirsl determine whal Us mission in Northeast Indiana is Until thai 
+mission is determined, the campus cannnt have any idea of what the 
+future should aod will hold. 
+
+Neither candidate was interviewed by the two university presidents 
+It is a rule of thumb that any job candidate is interviewed by his potential 
+immediate superior This mav suggest that the super-chancellor will not 
+report directly to the presidents at all, but through a modified RCA 
+bureaucracy. 
+
+wer for the presidents' failure to meet the 
+! not interested in these candidates. They may 
+aind to fill the position and do not want to waste 
+._„_- the motions of screening applicants. 
+
+The presidents have said repeatedly that the super-chancellor would 
+report directly to them, and that the field was wide open to all potential 
+candidates Whv do we no longer believe what the presidents say? 
+
+The mood of'imslrusl that exists on Ibis campus is endangering the 
+orderly unification of IU-PU. That mood is certainly scaring the 
+super-chancellor candidates. 
+
+This newspaper is just as sceptical of the promises of the two 
+presidents as is anyone else. The frustration is getting old, but we just 
+do not know what to do about it. 
+
+
+
+Student elections 
+
+
+
+Tomorrow and Wednesday will be the voting for student body 
+president and other Students' Government officials. The camlpaign has 
+been low-keyed, so the voter turnout can be expected to be low. 
+
+Both the Alliance for a Campus Together l ACT) and the Un-Party are 
+factions of the Alliance for a Better Campus (ABC), the party that has 
+been in power the last three years. ABC has always been a broad-based 
+coalition of very different types of individuals, sticking together only 
+through compromise. 
+
+Apparently no compromise coalition could be reached this year, 
+probably because there was no opposition to ABC. Also, personal 
+ambitions were more intense this time around. 
+
+Both parties have indicated the desire to reform Hie roahlion after 
+the election. To preserve the environment for this coalition, the campaign 
+has heen kept free of the usual mud-slinging. 
+
+The Comniunicaloi would like to see this post election coalition come 
+about. In this regard, we will not endorse either party or presidential 
+candidate. 
+
+We do urge students to vote a split ticket, because both parties have 
+some excellent senatorial and Student Union Board candidates. We also 
+remind students that the only polling place is located in Kettler Hall. 
+
+
+
+By CHARLES PRATT 
+
+Within the Students' Government 
+there lie the resources lo provide 
+broad ranging services to students of 
+this campus. The ACT party, with the 
+experience 'it each of its candidates, 
+feels that it can create a Govern- 
+mental body with a broader appeal to 
+
+
+
+and 
+
+
+
+icher 
+
+
+
+Charles Pratt is Hie Alliance 
+for a Campus Together candi- 
+date tor Student Body President. 
+He is presently a member nf the 
+
+
+
+the Activity Card to the average 
+sludent is of major importance to the 
+ACT candidates. We feel one way of 
+building this program is to negotiate 
+with area businesses to provide 
+discounts on food and entertainment 
+to Activity Card holders during the 
+academic year. The ACT party also 
+believes in the programs of the 
+Student Union Board. Film Series, 
+and the Convocations Committee 
+should appeal to a broader base of 
+students. We also feel that activities 
+should be increased to provide 
+programs in the Student Union during 
+the week. 
+
+The ACT party believes that the 
+Students' Government should be an 
+efficient, business-like organization. 
+In order to achieve this goal we would 
+like to incorporate a program of 
+independent study within Students' 
+Government In other words, we 
+advocate a program whereby non- 
+elected student government parti- 
+cipants would receive some academic 
+credits for the services they provide. 
+We also believe that there is room in 
+Students' Government for a large 
+number of students. It will be the 
+responsibility of the president of the 
+student body to delegate authority to 
+many students in order to broaden the 
+representation of our government. 
+
+The ACT party feels that it is 
+important to expand the present 
+facilities of the recreational area and 
+to reduce the cost to the Activity Card 
+holder. 
+
+Intramural sports is another area 
+of concern to the ACT party. Our 
+candidates feel that participation 
+should be increased and made 
+available to all interested students. 
+
+Broadly, the ACT party believes 
+that the responsibility of the Students' 
+Government should 
+
+
+
+programs. The ACT party is also 
+hopeful of improving the environment 
+of our campus by effectively 
+improving the lagoon in front of the 
+Student Union. 
+
+The ACT party believes that the 
+Students' Government should remain 
+non-partisan in their dealings with 
+outside political and community 
+
+Finally as the name of our party 
+indicates, Alliance for a Campus 
+Together, we believe in bringing 
+Students' Government and the 
+students of this campus together. We 
+believe that our campus should 
+preserve the degrees of both Indiana 
+and Purdue, while striving to make 
+the university community act and 
+participate as one unit. 
+
+Our basic pledge is to provide to 
+the students of this campus a 
+government that is open to a wide 
+variety of participation and that can 
+act effectively towards securing 
+students rights and s 
+
+
+
+By RUSSELL CANE 
+
+Have you ever sat down and 
+thought about what your purpose was 
+here on earth? Did you want to 
+change the world but didn't know 
+what to do? To us, it's beginning with 
+our environment, our homes, our 
+social lives, and what we take part in 
+every day. School plays a large role in 
+
+
+
+our lives at the present time. What 
+can we do to make these times 
+memorable ones and not just years 
+gone by? For myself, it is involve- 
+
+Two years ago I came to this 
+campus, not knowing anyone. Today 
+I've shared memorable and good 
+times with many friends I've made on 
+campus. Mike Yann and I 
+
+
+
+
+worked hard in bringing good 
+entertainment to this campus in the 
+past two years. This was a goal I'd set 
+for myself after the first dance I 
+attended. I thought it was pathetic 
+and knew changes could be made to 
+
+I feel I've reached that goal and 
+now set myself to more serious 
+matters. 
+
+-I. The students education: Are 
+the students getting the most out of 
+what we call our higher education? 
+
+-2. The quality of education at 
+this campus compared to other 
+colleges: Do you go to other campuses 
+and say, '"Gee, I wish we had that on 
+our campus." 
+
+-3. The students' possibilities of 
+succeeding after college. Will we have 
+a job when we are finished with our 
+education? 
+
+-A. The help needed in completing 
+college at this campus, for example: 
+Proper training, facilities and coun- 
+
+
+
+All of these ideas affect you and 
+me every day. What should we do 
+about them? 
+
+I hope you will lend your support 
+for the Un-Party. We are a group of 
+students who want to make something 
+of our campus. If you spend five 
+minutes of your time to vote, we will 
+spend an entire year to help you. 
+
+Students, the possibilities and 
+opportunities are here for what we 
+call a great campus! Let's take 
+advantage of them! 
+
+
+
+Quotes 
+
+
+
+
+
+
+provide 
+) the 
+
+genuine needs of students on a 
+commuter campus Besides what has 
+previously been mentioned we would 
+
+
+
+American, German and French 
+
+students. For you all this counts for 
+little. For you my book amounts for 
+little. You will understand it all when 
+they bellow at you 'You are under 
+arrest,' and you yourselves trudge off 
+to our archipelago, (prison)" 
+
+ALEXANDER 
+
+
+
+Dreadful things are just as apt to 
+happen when stupid people control a 
+situation as when definitely ill- 
+natured people are in charge. 
+
+DON MARQUIS 
+
+
+
+JUST BEING ME 
+
+
+
+Grandfather sets good example 
+
+
+
+;ill 
+
+
+
+I AY 
+
+
+
+Luther Thomas was born in 
+Alexander City. Alabama in 1890. He 
+started working at seven years of age 
+and he hasn't slopped yet, While 
+growing up in the south, "he held an 
+assortment of jobs from picking 
+cotton to cooking for one of 
+Hinmnnliams leading hotels. 
+
+He moved his family to Cleveland 
+hoping for more educational and 
+economic opportunities Once he was 
+situated, he quickly realized that even 
+in the north opportunities for the 
+black man were severely limited. 
+
+He was hired by a building firm 
+and for 47 years he was one of their 
+most valued employees In those 47 
+years he was never absent and never 
+'ate His employers had a great deal 
+of respect for such an industrious 
+Negro Upon his retirement, he was 
+presented with a check for four weeks 
+salary and a pat on the back 
+Generous, wouldn't you say'' The only 
+
+
+
+iron will. He always boasted of never 
+being sick a day in his life. One day I 
+came outside to find him stooped 
+over. He couldn't hear me talking 
+because the power mower was on. I 
+happened to look down and the top of 
+his shoe was gone and so were two 
+toes. It seemed he had gotten his foot 
+caught in the lawn mower. I was 
+absolutely frantic and anxious to get 
+him to the hospital. He stood in that 
+very spot ignoring the pain and the 
+blood, and informed me that he had 
+never been to a hospital and he wasn't 
+about to let a little cut send him! 
+Unfortunately foi him. I had inherited 
+some of that stubborness, so his 
+record was spoiled. 
+
+1 firmly believe that in some other 
+time, some other place, he could have 
+been a great leader He always had 
+
+
+
+such pride, such dignity. Quiet and 
+
+decisive, he spent his entire life 
+working and providing for his family. 
+He continues to work around the 
+house. Working is a necessity for him. 
+I have never known him to sleep past 
+eight nor take a nap in the afternoon. 
+
+
+
+He has a garden and he enjoys that. 
+He sings in the church choir and does 
+his thing. 
+
+Do I tend to make him seem 20 
+feet tall? If I do, it's because I'm 
+slightly prejudiced and I cannot seem 
+to help it. I want you to know him as I 
+
+
+
+do. 
+
+
+
+PURDUE 
+COMMUNICATOR 
+
+
+
+could tell you about the 
+
+times in the south and the 
+
+ggle he had just trying to 
+
+itain his dignity. I wish you could 
+
+deep-rooted sense of caring 
+
+
+
+could. I want you to know that at 84 
+years of age, this man is still going 
+
+
+
+i suddenly his work record 
+wasn't as satisfactory as his while 
+
+Luther Thomas accepted that 
+decision as quietly as he did all unjust 
+discriminations against Negroes. He 
+expressed no resentment or bitter- 
+ness Because he had seen all kinds of 
+bad times and he expected nothing, he 
+was determined to do the best he 
+could and be the man he had always 
+
+Then 
+one. He w 
+and he owed no one. He knew that a 
+long as he lived, he would feel that 
+e way; he wanted no favors, 
+
+
+
+of the most self-sufficient 
+people I have ever known Stubborn is 
+a word lhat does little justice in 
+describing the man When he set his 
+mind on something, neither man, 
+
+
+
+
+
+It's Gasoline! 
+
+
+
+Letters to the Editor 
+
+
+
+APO to fold without support 
+
+
+
+Bumper to bumper 
+
+
+
+To the Editor: 
+
+If you have ever used the A. P.O. 
+book exchange to rid yourself of 
+unwanted books or to pick up those 
+much needed books for this semester, 
+you know its value. 
+
+If you have ever been in an 
+accident an required blood, A.P.O. 
+was there providing the Red Cross 
+with donors; students helping 
+students. 
+
+But like so many other things 
+today, these two projects along with 
+numerous others are doomed to 
+extinction unless more students are 
+willing to lend a helping hand. This 
+fine organization, which has helped 
+the students so much over the years, 
+is now reaching out for some help in 
+
+A.P.O. is suffering from a lack of 
+genuine interest and involvement, 
+and so, many of its projects, or 
+possible projects are doomed. This 
+fine organization is composed of 
+young people all genuinely wanting to 
+lend a helping hand to their fellow 
+students. They have been involved not 
+only in the projects above, but also 
+such outstanding community projects 
+as United Way, WOWO Penny Pitch, 
+as well as holding the First Screw of 
+the Year Award to raise money for a 
+
+
+
+needy little girl. They also support a 
+little'girl in South America. 
+
+What is A.P.O.? A.P.O. is a 
+service fraternity, .reaching out to 
+help those in need, mainly you the 
+students. But it is not all work and like 
+numerous other organizations, we 
+have parties, usually after we wind up 
+a successful project (which is quite 
+often) . It is one very good way to meet 
+people. A.P.O. has had many projects 
+that involved area businesses and 
+their officers. As most everyone 
+knows, a little pull never hurts. 
+Involvement in school and commu- 
+nity affairs is a sure way to meet 
+people. 
+
+Those interested in giving even a 
+few minutes of time are invited to join 
+A.P.O. to experience what happens 
+with involvement. This is not a 
+time-demanding organization; just 
+one geared toward helping others and 
+helping yoursejf at the same time. 
+
+Is it worth your time? Are you 
+willing to check into this organiza- 
+tion? DO YOU CARE? If you do, 
+come to a meeting this Sunday, April 
+21 at 7:30 p.m. in the Student Union 
+building to see if A.P.O. has 
+
+
+
+1 be there. Will you? 
+
+
+
+■ ! 
+
+
+
+Of Gatsby movie 
+
+
+
+F. Scott Fitzgerald would approve 
+
+
+
+:t Inrliana-Puriiue Communicator Mon. Aori 
+
+
+
+Geologist Tuthill to speak 
+
+
+
+f the University on Mont 
+
+
+
+dii Fitzgerald 
+
+
+
+Hollywood publicity. The 
+
+really excellent 
+
+
+
+self 
+
+
+
+rely 
+
+
+
+r Ivrical. visuallv 
+1 creative meta- 
+morphosis of Gatsby and 
+ionship. 
+Jack Claytoi 
+
+
+
+of 
+
+
+
+:ally 
+
+
+
+pleased for several reasons 
+
+the movie will, undoubtedly, 
+
+H Fitzgerald's greater satis- 
+would be based on the 
+
+.tic fidelity 
+h recorded 
+
+
+
+■ of 
+
+lhi[islll]&gt; 
+
+Director Jack ( 
+
+explores admirably the faulty 
+
+realily which is Jay Galsby's 
+
+larly poignant scene shows 
+Daisy asking Gatsby to reach 
+
+simple rt'i|iiesl, it would seem, 
+liut Gatsby is simply unable to 
+
+really an infinity aw; 
+
+
+
+impossible When Nick warns 
+be repeated Galsby's reply i; 
+
+
+
+after Tom and 
+
+
+
+faction would b 
+
+
+
+for B 
+
+
+
+• spir 
+
+
+
+possessingDaisy 
+
+
+
+married Tom Buchanan. In 
+one scene Gatsby totally 
+destroys a" potentially tender 
+
+tinually harping on that 
+subject. Gatsby is possessed 
+
+
+
+e able to accept 
+I will see life onl 
+, fatllasii's ha' 
+
+
+
+Gatsby will 
+life only as his 
+
+
+
+s the bay from Daisy, 
+
+Ins .beam was already 
+id him. A very njiptopri 
+piUijili Iit .lay Gatsby is 
+
+
+
+absnluK' delir&gt;hl. the haunting 
+
+
+
+Although 
+
+
+
+;1 (the ring Gatsby 
+Daisy; Gatsby's 
+
+
+
+Survey indicates 
+controls preferred 
+
+
+
+Daisy's dock; East and West 
+
+Eekleburg, Meyer Wolf- 
+sheim's human molar cuff- 
+buttons; Jay Gatsby's gold 
+
+
+
+BLOOMlNGTON.Ind ■■ 
+Should certain controls, im 
+
+posed to i at air pollution 
+
+be reduced or lifted in ordci l&lt; 
+
+large percentage of student: 
+
+
+
+Prospecls," in I.U.'s School o 
+
+
+
+the use of high sulfur coals 
+because of danger to health 
+
+
+
+taught by Toufio, \ Siddiqi, 
+and Environmental Affairs. 
+
+
+
+
+
+
+(i. lay Gatsby. t 
+
+
+
+and to Gatsby and Daisy's 
+
+British Break 
+drinking record 
+
+More than 37 million barrels 
+of beer were consumed In 
+Britain last year, the highest 
+
+
+
+(|Ui's|]iii][idir 
+Fort Wayne 
+
+
+
+i question concernir 
+i automobiles ■ 
+
+
+
+the 
+
+
+
+
+
+
+e early 1920s. 
+
+
+
+I be- 
+
+
+
+Profile of American 
+family is changing 
+
+
+
+verything else, 
+;. When the Censt 
+:ompared data for tl 
+
+
+
+I'lii' yiiiitm laniiiy lir.nl 
+'■■ '■- fai; bedel- edLK.al.-ii 
+
+s eompk'ted by adults is 
+
+
+
+;d 45 per cent of all 
+1 family head was 
+
+
+
+Many students favored ; 
+
+u.it indiejimn Hi.i1 ri'ikK'tlni 
+travel might be oi 
+
+the energy problems Somi 
+sptniderits. for example 
+
+iirinmbih's regardless 
+
+-How high would _..-..lii!. 
+ices have to rise h. Im. yoi 
+
+lion as an alternative tl 
+
+•aPereeolages are rnunM 
+
+
+
+son the question 
+
+
+
+r.'iir.-si.TilM; 
+Farm familie 
+
+
+
+i.-spr»is]ljilir; 
+Twenty-six j 
+
+
+
+families \ 
+
+...ni'-twentieth in 1970. 
+
+Finally, each yea 
+approximately 2 
+
+changes residence. 
+
+county, 3 percent to a different 
+county in the same state, and 3 
+percent to a different state 
+Black mobility and mi«ra- 
+
+
+
+populatio 
+
+
+
+ly mentioned fidelity 
+i tremendous impact 
+
+
+
+i limited role of Jay 
+
+
+
+Karen Black as Myrtle 
+
+plays Nick Carraway, is 
+
+exactly suited for this very 
+important role of the man who 
+
+
+
+[ Wolfsheim is delight- 
+
+
+
+liauilht. cheated-oit husband 
+
+
+
+find it impossib 
+
+
+
+..) closely 
+great novel. I, 
+e ghost of F. Scott 
+
+
+
+Tuthlll's lecture will 1 
+
+
+
+l-olliiwuiu his talk, Dr. Tuthill 
+will be happy to entertain 
+
+qiieslinns from the audience 
+
+
+
+informally with interested 
+staff and students. 
+
+This program is being 
+sponsored through the Addl- 
+
+
+
+if lectures giv 
+
+
+
+Workers drink 
+
+The National Council on 
+Alcoholism estimates that 
+from 5 to 10 per cent of any 
+given group of employes in the 
+nation suffers from progres- 
+sive alcoholism. 
+
+
+
+Alii -I-: i nt-'. I "ilh'Ki-. New C 
+
+cord.O. lie has made seve 
+iieulo K ical expeditions 
+
+Silence Found. iimn m.inis 
+
+'l"ullnll""i's ,'''p!,i'r",'l,l'," to, 
+
+..iid m.neral' resources i 
+environmental affairs 
+
+
+
+April means visits 
+from outer space 
+
+
+
+they do not present a large 
+
+observed, they are known for 
+their brightness. At the peak, 
+
+expected to be about 12 each 
+hour, i hough some Lyrids can 
+he seen for two or three days 
+before and after the 22nd. 
+
+
+
+ally good t 
+
+
+
+revolves riround the sun, il 
+
+bygone comet. Debris from 
+the cornel still litters its old 
+sky and 
+
+i the e.ntbs 
+
+
+
+matter spewed forth from the 
+liki/ini; passage of a comet 
+
+impressed by the beautiful 
+
+and sometimes spectacular 
+
+
+
+April Is also a good mon 
+see many of the bright, 
+inels. Venus and Jupiter ni 
+
+
+
+
+
+
+
+
+
+
+
+
+plie, 
+
+
+
+"■■ ' 
+
+
+
+originate, namely. Lyra-The 
+
+
+
+i sky nearly over- 
+
+it (he visitors wilt 
+ir as they begin 
+
+
+
+If you compare, 
+you'll select Etna... 
+If you don't compare, 
+don't say we didn't warn you! 
+
+
+
+The /Etna College F 
+
+
+
+Jjjjffi 
+
+
+
+;■-• 
+
+j Help bring 
+
+! public television 
+
+\ to Fort Wayne 
+
+
+CHANNEL 
+
+
+: A : 
+
+
+: r, : 
+
+
+: St-)1 7ln 
+
+
+; ^SfpHrHSi 
+
+
+ALL CONTRIBUTIONS ARE ; 
+TAX DEDUCTIBLE 
+
+
+
+BIG SAVINGS 
+
+DISCOUNT LOW PRICES 
+
+JEANS 
+
+
+
+* BAGGIES 
+
+* BIG BELLS 
+
+♦FLARES 
+
+BOTH FOR GUYS &amp; GALS 
+
+
+
+! SEE OUR SPECIAL BAGGIES \ 
+$5.99 \ 
+
+GLENWAY BARGAIN CENTER 
+
+Across from AYR-WAY North 
+on ColaWer Road 
+
+
+
+Open i 
+
+
+
+ngs till 9 Sun. 12-5 
+
+
+
+74 GREMLIN 
+
+
+
+
+WHY WAIT? 
+
+
+
+Immediate delivery 
+
+
+
+Fort Wayne/American 
+
+
+
+REDWOOD INN 
+
+ANNOUNCES ITS 
+
+APRIL SPECIALS 
+
+Beer nights Mon. &amp; Thurs. 
+
+$1 off large pitcher 
+
+Tues. &amp; Wedn. Food specials 
+
+"come in and see" 
+
+1432 W. Main Parking in rear 422-8995 
+
+"YOU MUST BE 21" 
+
+"if you're not try our carry-out service " 
+
+
+
+
+y 
+
+
+
+Army ROTC usually takes four years 
+but you can do it in 
+mpleiing a six-week Basic 
+
+
+
+r the Advanced 
+Course and receive $100 per 
+month for up to ten months y 
+of each your Junior and _S 
+Senior school year 
+
+
+
+/ 
+
+
+
+s 
+
+
+
+s 
+
+
+
+s 
+
+
+
+Backpacking in 
+Southern Indiana 
+
+
+
+(reading on Ihe Copperle 
+
+tipped rays of Ihe sun, I 
+ilher a glimpse of Ihe s 
+ithin myself. 
+Iloosicr National Forest w 
+
+
+
+dynasty, ii will \»- well i 
+lul&gt;iij;r.i|ihnal majicil Hu- 
+
+
+
+ll only provide you with 
+iBtion to tell you where 
+
+lere the highs and lows 
+
+
+
+I folks 
+
+
+
+jndly a 
+
+
+
+lelpful, 
+
+
+
+opposite of the slerotype mat 
+
+Southern folk. 
+
+into the backpacking expen- 
+ence to lake ample food 
+supplies with you il you check 
+
+
+
+MORE EXOTICS JUST UP THE STREETI 
+
+
+
+
+9 
+
+
+
+I &amp; HARRISON if PHONE 742-0901 
+
+
+
+Accounting and Business 
+students 
+
+The Communicator needs a Business 
+Manager for next year 
+
+* PAY RANGE $2.00-82.50 
+
+
+
+* Course credit possible through 
+Professor Berry 
+
+
+
+* See Bob Hudson 
+Room 215 Union 
+
+
+
+
+(airly shallow which enab 
+outdoor buffs to combine 
+canoing and camping trip ir 
+
+
+
+ll would also lie .ukiv.-ilili- In 
+ke along a couple of close 
+
+
+
+issiillur 
+tieliold 
+
+
+
+honor Broylos 
+
+honor o( Dr. Ralph E. Broyles. 
+
+Chancellor of Indiana UmeeY- 
+sily al Port Wayne, will be 
+sponsored by I U Fridav. 
+April 19, al Zoli's Chalet. 
+
+The dinner is planned as a 
+tribute to Chancellor Broyles 
+
+with Indiana University at 
+
+and administrator. 
+
+
+
+ember in history at I.U., i 
+
+Dr Broyles began hi 
+ri-er in Tori Waym- in ItM 
+
+.. Itai'h.T ef chemistry a 
+
+
+
+How to buy a bug a little bit at a time. 
+
+
+
+First say to yourself, "I'd like to 
+buy a bug a little bit at a time." 
+
+And if you've got $89.00 for a cash 
+down payment, you can have the 
+whole car and pay for it little by little 
+888.49 a month for 36 months. 
+
+(If you don't have an adding 
+machine handy, that works out to a 
+deferred payment price of $3274.64 
+which includes a finance charge at an 
+ANNUAL PERCENTAGE RATE of 
+
+Along the way, you get a little 
+
+
+
+financial help from the car. 
+
+Such as an average 25 miles to the 
+
+Pints of oil to fill it up instead of 
+quarts of oil. 
+
+And no outlays for antifreeze at 
+all. 
+
+Of course, you might be the kind 
+that says to himself, "I don't like 
+borrowing money." 
+
+In that case the cash price is 
+$2789.00. 
+
+
+
+
+AUTOWSRLD 
+
+
+
+
+
+NFL teams seek more oomph 
+
+
+
+Comb back through tl 
+Uonal Football League' 
+ruary draft picks and y 
+
+
+
+The Atlanta Falcons had a 
+3 offensive edge in the draft. 
+Philadelphia was the only 
+
+
+
+NFL totals were 247 offense, 
+181 defense, 14 kickers or 
+punters. In t 
+
+
+
+7 choices. Defen- 
+
+
+
+lades from his colleagues for 
+
+
+
+Redskin's first-round 
+
+
+
+it Allen needs to bolster his 
+lg quarterback slot. Allen 
+
+in as his starting signal- 
+
+
+
+Washington, incidentally, 
+had the lowest number of 
+draft picks in either confer- 
+ence — 11. That's because Al- 
+len likes to watch players per- 
+form for other teams before 
+he decides whether to attempt 
+
+Strangely, AFC clubs went 
+
+
+
+were selected in the first six 
+rounds. 
+While quarterbacks moved 
+
+
+
+ball player, Vince, 
+
+
+
+round and Pittsburgh went for 
+Frank Kolch, of Eastern 
+Michigan, in the 13th. 
+
+ively speaking: Quar- 
+
+
+
+Van G alder, who played for 
+the St. Louis Cardinals. ... 
+Linebacker Mike Truax, New 
+Orleans' 13th pick from Tu- 
+
+
+
+f the running 
+
+
+
+was the yej 
+back. But u 
+colorful runner like O.J. 
+Simpson slipping and side- 
+stepping around out there, the 
+straight-ahead run is a bore to 
+most spectators, even if it 
+chalks up points like it did for 
+
+
+
+Atlanta's 10th choice, 
+Paul Ryczek, is a brother of 
+Washington center Dan 
+Ryczek. Both attended the 
+
+University of Virginia. 
+
+
+
+Students fool sex law 
+
+
+
+Miami in the Super Bowl 1: 
+Dolphins dob- 
+
+
+
+January. 
+
+
+
+be red the Minnesota Vikings 
+in the Bowl, critics said Don 
+Shula's team was brilliant but 
+that the game was dull be- 
+
+
+
+Minnesota grabbed five 
+running backs, and small 
+
+
+
+and at quarterback, but the 
+Super Bowl drubbing exposed 
+their weakness on the ground, 
+
+man. The Vikes especially 
+
+
+
+n Redskins, is getting a 
+
+
+
+students in Ihe same dorm has previously been 
+
+All-black floor to be eliminated 
+
+
+
+devoting anv building, hall- The rU- S enl.s' ruling 
+
+way or flour louniie exclusive- wlu.h was supposed lo hav- 
+
+ly to members of a particular been implemented in al 
+
+minority group, colleges and universities ii 
+
+The Barnard Organization the state last fall, is no 
+
+of .Soul Sisler.- obj.cl.il lo Ihe expected lo affect all-black o 
+
+ruling contending that the all-Kosher suites since suit- 
+
+.ill bl.j.k Hour is part of their assignments are made on at 
+
+"cultural right to self-deter- individual choice basis. 
+
+
+
+1974-5 COMMUNICATOR 
+STAFF OPENINGS 
+
+All IU-PU &amp; DOTS Students eligible 
+All Positions Open: 
+
+
+
+EDITOR 
+
+MAN. EDITOR 
+
+PAGE EDITORS 
+
+REPORTERS 
+
+COLUMNISTS 
+
+PHOTOGRAPHERS 
+
+REVIEWERS 
+
+
+
+BUSINESS MANAGER 
+
+AD SALES MANAGER 
+
+AD SALESMAN 
+
+ARTISTS 
+
+PASTE-UP 
+
+TYPISTS 
+
+BOOKKEEPERS 
+
+
+
+APPLY AT ROOM 215, STUDENT UNION 
+
+or call 482-5585 
+
+
+
+NOW PLAYING--CIRCLS IN C HK AGO'-RATED X 
+
+Most of the Chicago White Sox players enjoyed their 
+spring training session down in Florida under manager 
+Chuck Tanner. The South Side Sox had many problems to 
+solve concerning the 1974 campaign, but knew that no 
+matter what happened in Sarasota, it would be an exciting 
+season for the fans. 
+
+They should never have left the serene southern state. 
+They found this out quickly.. .in their home opener against 
+the California Angels last week. 
+
+In the game itself, the Sox were bombed by the very 
+mediocre Angels, 8-2. Their top two hurlcrs were shelled by 
+the light-hitting Californtans. But that wasn't where the 
+
+In the last half of the game, hundreds of fights broke out 
+across White Sox Park. One man told me he had to hustle 
+his wife to the nearest exit in the sixth inning after four 
+young men threatened to carve them both up if they didn't 
+come up with a quick donation for beer. 
+
+You think that's bad? The man estimated that the 
+"young men" were of these ages: 10, 12, 14, and 16! The 
+three younger ones each had brought a six-pack into the 
+
+
+
+sixth inning, the children were out of Stroh's and l 
+clamoring for another round. 
+
+The man, in Fort Wayne on business, recounted to me 
+(as I waited on his table at the Cork 'n Cleaver) that no one 
+would help him and his wife. And he claimed that the 
+youngest of the quartet looked meaner than the 
+demon-possessed girl in The Exorcist. 
+
+tides several days ago in Chicago newspapers told of 
+i being beaten as hundreds looked on, ushers being 
+
+
+
+found plenty of action. Almost all were drunk. 
+
+WhiteSox relief ace Terry Forster, who was creamed 
+by the Angels and nearly creamed by a full can of beer, 
+offered, "I was afraid for my wife and child up there in the 
+stands. What man would bring his family to something like 
+this? I've never seen anything like it It was ugly." 
+
+Slugger Ken Henderson stated: "If that goes on all 
+season, there won't be many guys playing ball here." 
+
+The man who told me his story concerning the opening 
+day affair saw only one streaker during his limited stay at 
+the park. But there were reports in the papers of many 
+
+As can be expected, the White Sox management placed 
+a big share of the blame for the chaos in the stands on the 
+streakers. There were tall ones, fat ones, small ones, old 
+veterans, young rookies, both male and female. 
+
+One lady, though, made her tour through the aisles but 
+
+) streak. She was Ann Marie, a Chicago 
+
+Somebody 
+
+
+
+refused offers t 
+
+reportedly said, 
+wheelbarrow." 
+
+
+
+'She &lt; 
+
+
+
+n't streak because she'd need i 
+
+
+
+Ands 
+
+
+
+t last week at the White Sox Zoo. 
+
+
+
+IRISH RIVALS RE.IOICE 
+
+Recently Notre Dame All-American John Sumate 
+decided to pass up his last year of eligibility and enter the 
+realm of professional basketball. At a news conference he 
+offered his reasons for seeking an early pro career: "It was 
+a difficult decision. I tried to be objective in weighing all the 
+circumstances. But I had my family to consider first, Notre 
+Dame second and myself third. Being able to help my 
+mother, father and sisters was the biggest factor 
+influencing my decision. One of the biggest reasons I came 
+to college was so that, after I graduated, I would be able to 
+help my family. 
+
+So John Shumate has decided that he needs pro 
+basketball. And pro basketball needs a lot more of his kind. 
+
+Digger Phelps, Shumate's mentor and national 
+Coach-of-the-Year, sums it all up concerning his departing 
+
+
+
+Dame and to his family." Let's hope that Mr. Shumate 
+makes it big in the pro ranks and that his attitude rubs off on 
+other athletes. 
+
+EVERYBODY INTO THE ACT 
+
+A new group is trying to purchase Charlie 0. Finley's 
+ABA club, the Memphis Tarns. The group is headed by none 
+other than Finley's best known employee, MVP Reggie 
+Jackson of the World Champion Oakland Athletics, 
+
+Jackson and another member of the group have definite 
+ideas on what they'd do if they would be able to buy the 
+bungled franchise Irom Finley. Gary Walker stresses that 
+lines of communication would be opened, from team trainer 
+to the top heads in the front office. He states: "The most 
+important thing is to be able to do your best mentally and 
+physically. Then winning comes as a result. In the long run, 
+we think our programs would make better athletes." 
+
+Anything would be an improvement over Finley, and 
+the group headed by Jackson appears like it would be a 
+world of improvement for the Tarns, the worst pro team in 
+
+TAKE CARE. SPORTS FREAKS! 
+
+
+
+CLASSIFIEDS 
+
+
+
+
+Fort Wayne/American 
+
+
+
+</pre>        </div>
+      </div>
+    

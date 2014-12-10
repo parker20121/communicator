@@ -1,0 +1,1595 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i15indi/communicatorv22i15indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i15indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i15indi">The Communicator</a>"
+          </h1>
+          <pre>
+President Bush expresses 
+
+views on gulf crisis Page 2 
+
+
+
+60s musical 'Hair' comes to Fort Wayne Page 6 
+
+
+
+] 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 15 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Students go to Saudi Arabia as soldiers 
+
+
+
+I 
+
+
+
+NFOGRAPHS 
+
+
+
+Protest training 
+
+The Gray Panthers 
+
+
+
+diM:i&gt;i;ri;&lt;::i. , h.ii'Ci'.-kl:.'-" 
+
+
+
+Campus counselor 
+hired 
+
+
+
+psychology from Purdue i 
+ployed by Psychological i 
+
+
+
+Martin Luther King 
+memorial 
+
+The Memun.,1 Celebration for 
+
+
+
+In.' ■;■■ .iv. r ,. .1.. : K.Mni 
+
+
+
+Die ■..'.'ml M-cuniy Police Flight . 
+
+
+
+Stimuli. .Sj;i H:&lt; 
+The flight, wh 
+
+
+
+U'!' W student, w&lt;-v |i|.hiimiii- I 
+
+
+
+■ ml .in ■■ «-erriin -minimi of Bo,h lm '" '"'milled ^"'K frightened ^'"nr. r. nr.lH. ..ml III- 
+.'. _ ( , v " (|| hiV|i ,,'.,„„,,, .,,„, "I Mi.' I lire., I ill w.ic ..mi brini: tliuvllv "I &lt;"'■ 'I" e ' I" I'." " 
+
+
+
+Mid-East crisis 
+
+Violence in Kuwait 
+documented in report 
+
+By JERRY KARPE Sabah Hospital in Kuwait tc 
+
+
+
+
+
+
+ha- hec.i ranied out. Mu*' critical .&gt; 
+
+
+
+ed to rape her. They fc 
+e her villa When (he n 
+
+
+
+fated by a 15-year-old Kuwaiti 
+f-ri'SMiinj! Human Rights Ct 
+
+
+
+EACH 
+
+
+
+
+^"^■^ D 
+
+
+
+
+viERTi .SB 9 
+
+
+/-% 
+
+
+— ■■ 
+
+
+r~~ 
+
+
+Campus kiosks filled 
+
+
+
+Oct. lo. stated, "The second week af- members of the Kuwaiti armed forces, __, TT3TPW/ 
+
+l.Tir on. I volunteered at the Notional Guard oolite, and in- ^SCaPCCS COIllC tO JrtW 
+
+a. \.ld.,i, Hospital ... I was the dividual, -r.,,. n I I. ,■. me partici- jT 
+
+IHHnSftEnrl ^£BF?iBBt Pakistanis recount experience 
+
+
+
+sising the Kuwaiti flag. 
+
+
+
+gests the government of Iraq 
+adopted a policy promoting 
+
+
+
+
+
+
+I high sehc-il They were topped 
+
+
+
+Fitness classes offered 
+
+The athletic department's Fit 
+
+
+
+Classes begin Feb. 
+
+
+
+spread among the Kuwaiti population. 
+
+
+
+; two weeks reall&gt; '.'.■mi&lt;&lt;l i" lii'M Mi-- i r . ■ |i - 
+
+
+
+Peace rally 
+
+Citizens show concern 
+
+
+
+nni ■■■ftrl. .'.lulli's father refused 
+
+
+
+; Farooq family packed 
+
+mned food, locked their 
+ed for the Iraq/Turkey 
+
+
+
+l phrases such as "No Gulf War" Fort ' 
+
+■'No Blood for Oil," The demon- the si 
+
+i War!" Approximately halfway a real 
+
+ed in with a guitarist and sang the don't 
+
+
+
+m:enrij.' student, "but we didn't t. 
+
+
+
+tTsneits^eHLKXpie a distance whiXenabted Mufti to ™£*&lt;W™*&gt; ta *' - 
+SdShSaSuo ,00d SUPP,ieS Taf^. also an engineering student, The Muft, family and the Faroot, 
+T."™ S S'„r h a,"„ into the citv and bST.miJ, were very scared, and gjJ^J* at. ta tato f^ght 
+
+
+
+
+
+
+
+
+
+[ Sept. 11, Mufti's parents 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+International unrest 
+
+Civilized world 
+not so civil today 
+
+
+
+Fifteen months ago, on 
+of Nov. 9, 1989, a 
+happened. East 
+German ana Soviet tr&lt; 
+started tearing down 
+Berlin Wall. It was a sign 
+that the Cold War was fi- 
+nally over and for 
+everyone had come out a 
+
+More positive events fol- 
+lowed. Communist coun- 
+tries started moving toward 
+democratization of their 
+governments. Talks in the 
+House and Senate of the 
+United States turned toward 
+cutting defense spending. 
+The reunification of Ger- 
+many took place. It seemed 
+that the world was finally 
+becoming a peaceful place. 
+
+Something happened. The 
+
+
+
+Sovi 
+
+
+
+it Union' 
+
+nued its downward 
+spiral and cracks began to 
+show in its 60-year-old 
+union. Racism throughout 
+the world, and especially in 
+the United States took off 
+like a raging forest fire. 
+African nations mixed 
+themselves into shooting 
+wars over border disputes. 
+Apartheid continued to re- 
+sist all efforts to dislodge it 
+from South Africa. Two 
+countries in the Middle 
+East also started their age- 
+old border dispute anew. 
+
+
+
+these 
+Iraq, seemingly overnight, 
+decided to finish their ar- 
+gument by military 
+Resistance in Lithuania, 
+and political 
+views, came to a head, and 
+the Soviet Union sent troops 
+rising. 
+
+From 15 short months ago 
+until now, the world has 
+changed radically, or so it 
+seems. It seems, in retro- 
+spect, that little in fact has 
+changed. Maybe a few new 
+infamous names have en- 
+tered the limelight, and a 
+few new battle lines have 
+been drawn. The world of 
+man has forever been at 
+war with itself. Since the 
+time Troy was a city-state 
+and was repeatedly sacked 
+by marauding Athenians, it 
+seems as if man has con- 
+tinued to embrace the blood 
+and destruction of war. 
+Perhaps it is naive to think 
+that man would ever learn 
+a lesson from his own past. 
+
+When you feel the urge to 
+
+
+
+From the President 
+
+Bush claims moral obligation is justified 
+for U.S. military involvement in Middle-East 
+
+
+
+pray 
+
+
+
+whomev 
+
+
+
+don't forget the rest of the 
+world, and don't forget 
+yourself. The world is 
+sorely in need of a prayer 
+
+
+
+Gulf 
+
+
+
+There's no bright side 
+to war with Iraq 
+
+
+
+
+« 1 1 /» p - aoe Kui '''''■' i;!Ll1 ''' ,,ilLt i " lVV " inl 'ii'-n .tnd women as they stand ready 
+
+^tllil J^lltu gfilr TJ"fcl* YYl £±YY% f\1*\T aggression would be to end the pro 
+
+kjlUUClllS a»K IUI IIlClIIUI V mise of our New World Order To do their duty and do it well. They 
+
+r reward ^[-..v-ion It &lt;&lt;: ■■;■ ■■ . ■,■,.■ ..-mplute and enthusiastic 
+
+
+
+reward aggressior 
+
+
+
+are shooting to the 
+i one of the many do- 
+
+
+
+of date to be positive 
+
+To the Edilor: Commemorating the philosophy of 
+
+Dr. King will now be regarded in his- 
+
+Jan. 15, the birthday of Martin tory as a day for potential violence to -h- -v^ 
+
+Lu,h d er f Ki £f Jr [sadayttat_siould haveerupted. _M IJ 
+
+Shrill ^»~ I Letters J. olicy 
+
+
+
+OMMENTARY Z^^XT^ KAlC 
+
+*_ | -'^s wars that AnuTK.'! has h, V n in 
+
+but cause to die for. They were fighting 
+
+
+
+
+Student wants more 
+U.N. troops to help 
+'take out' Saddam 
+
+
+
+i HAS TO BE STOPPED! 
+
+
+
+Every week The Communicator reserves space 
+on this page for letters to the editor. Your views 
+are welcome. 
+
+Preference will be given to letters addressing 
+matters of direct concern to IPFW. If necessary, 
+letters will be edited. 
+
+Letters must include the author's name, sign- 
+ature, address and telephone number. Please iden- 
+tify yourself as an area resident or IPFW student, 
+faculty, or staff. Only the author's name will be 
+published with the letter. Names will be withheld 
+only for extraordinary reasons. The deadline for 
+letters to the editor is Monday noon of the week of 
+publication. 
+
+The editorial board reserves the right to reject 
+letters. 
+
+Letters should be sent typewritten to The Com- 
+municator office, Walb Memorial Union Suite 215, 
+or mailed to The Communicator, Walb Memorial 
+Union Suite 215, 2101 Coliseum Blvd., Fort Wayne, 
+Ind. 46805. 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Gandhi and the gulf 
+
+Chains of hate must be broken 
+for new world order to emerge 
+
+
+
+Hussein or George 
+
+
+
+people the heart . (by) suffering 
+
+
+
+The Underground 
+
+
+
+U-tlumhu Mrwi Wcsi 
+
+
+
+Best Fundraiser On-Campus! 
+
+Looking for a fraternity, 
+
+sorority, or student 
+
+org.ini,\ition that would like to 
+$500-$l,000foraone 
+on-campus marketing 
+
+
+
+PAPERS 
+THESES 
+CONTAINS 
+
+
+
+WJi 
+
+
+
+SPELL CHECKED!! 
+
+
+
+
+kWfllMIBETTER LETTER 
+
+
+
+Is war justified? 
+
+Students offer opposing poitions 
+on how crisis should be handled 
+
+
+
+DON'T 
+
+
+
+
+Updated weekly, JOBUNC offers you access 
+job openings, 24 hours a day, seven days 
+have exceptional career opportunities ava 
+right person, with unlimited growth 
+potential. That might well be YOU. 
+
+
+
+Why not give us a call TODAY, or slop 
+by any one of our many banking centers 
+and |)i&lt; k up a JOBUNC card. It could be 
+the beginning of a mutually rewarding TiNC-OUT 
+relationship. NATIONAL 
+
+BANK 
+
+
+
+n 
+
+
+
+d Red, While and Blue 
+
+
+
+rg'to'get'S ■ Whaf kind of ^^^^S.iZ'itbD.^ ^"'vet . 
+
+will this set? In e, , , I t „d Golden Books' „„ G „™', 
+
+„ Searing- ' ^hX ,Z.h Hussein started™ *&gt;&gt;&lt;*&gt;«" 
+
+" ■ , "'" un, .,..■■:■ *" ' ! " 
+
+lomeM Anyone heard of the ]2 _p and retoud 
+
+apolitical religious fanatic IZdZhm you" Mr' Jota"?' wS- -- 
+
+d Worid fount™ then°we Mont ' ' ' '"*' Trt"t little ' 
+
+
+
+
+
+
+Campus Calendar J5H 
+
+
+JANUARY, 1991 
+
+
+
+
+' llri'iM™. 1 '""' ""'"'' '"* kl '' b °" " UC '' 
+
+
+
+
+■NnllllMi, SCHEDULED. 
+
+
+:lfe'.SSS bC!1 '^'"'- 
+
+
+■Sf"" 
+
+
+• i;H:.; :: :=r^Il 
+
+
+•MSI r.,,,.„l,Vl,,...,.n,,.,.,,,, | .,,,,l | |,,r i 
+
+
+!™™!;, i-toy tKgin. for ACUI 
+
+
+
+
+B.rr.Ip.m, 
+
+
+• AAUWaiTW^S, i,"|."*..«hl«r 
+
+
+•n e .un,«rlll,». KM lpn 1 W.lb02i,4pm. 
+
+
+• SSSfSSsaii.. 
+
+
+■ V„. „„.,&gt;.. 1,,.1'HI, ,11 ,:, 1 n ',.:.(.■ / p ,„ 
+
+
+'■■'„[' in ",,„„,,: ,i II 1 Crnylnj 
+
+':■»" "»„n, l|u„ &lt; ,11 M,, h /,l 
+
+
+g£=s 
+
+
+
+
+N-SH,",!i"ltaW. ■!*»»«« ta 
+
+
+• "tJ:„ |..',!l,. , Kinil Jrt coital. W.I5 
+
+• -v.'",! i'',"i 'IT'!."' ■". ■','''. .i 
+
+
+sirrii, 
+
+
+gg£ 
+
+
+- 
+
+
+-■«» 
+
+
+— 
+
+
+
+SAB &amp; OK 
+
+present the 
+January 
+
+wax 
+
+Party! 
+
+At Elegant Occasio 
+
+
+e 
+
+l¥, 
+
+ns 
+m 
+
+
+
+
+8:30 pm to 12:30 £ 
+
+
+D Friday, 
+January 18 
+
+come out of the cold and 
+party with your friends! 
+
+
+ELEGANT \G»j HO ^ 
+
+occasions -&gt;V 3£a 
+
+
+HUNTEflTOWN 
+
+
+CARROLL RD. 
+
+
+C DUPONT 
+
+
+DUTONT RD 
+
+
+
+
+COLISEUM BLVD. 
+
+
+
+
+
+THE COMMUNICATOR 
+
+
+
+Classifieds 
+
+
+
+CLASSIFIED RATES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Lirgesl Library of Information In 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW all of th&lt; 
+above rewards can he inhnvcil Multiple scholarships will b&lt; 
+awarded by the parent Fort Wayne local American Productior 
+and Inventory Control Society Chapter, nl the regional level i 
+$500.00 grant, and at the national level a $1500.00 educationa 
+gift will be given. A brief theme paper on one APICS topic 
+which cons^s of inventory control, production activity, J.I.T. 
+
+forecasting ciin win a cash reward. Your faculty advisor car 
+
+on each students need and ability. All papers need to be tumec 
+in by March 15, 1991. So come to our monthly meeting everj 
+third Thursday at 6 P.M. in 
+
+
+
+iculty t 
+
+
+
+Learn how an APICS 
+i at -193-4311 or Gail at 
+
+
+
+yqpics — 
+
+
+
+-V-SIHCE 1944 A^&gt; 
+
+Open 
+7 days 
+a week 
+
+
+
+Indiana guard 
+
+Air, army units prepared for war or peace 
+
+
+
+i';iMi-rl ,]l I'ori Wayne is call- 
+
+iv.'iid T.-uticj Kiahter Win,.'.." 
+
+
+
+? flew the F-100 Super Sabre in 
+I the F4 Phantom jet in 1979. 
+
+
+
+
+
+
+Guard by explaining I 
+
+
+
+! role of the Guard 
+
+
+
+ting that there are 
+he longer the situa- 
+
+
+
+Guard participates in drug inter- 
+diction, which means catching drug 
+
+
+
+Fort Wayne business 
+feels pinch of crisis 
+
+
+
+■ ilenbn.r.k s (l! . 
+
+'t.-ih Kcllv i 
+
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the kind of friend a 
+college student needs. He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+
+If 24-hour access to your bank accounts 
+sounds like .* yond deal in vou, make friends 
+with the OWL. on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+FORTWAYNE 
+NATIONAL 
+
+thatsmyBANK 
+
+
+
+*^*&gt; 
+
+
+
+
+Sobering AdviceL. 
+cansavealif^jCj 
+
+
+
+
+AT SERA TEC WE 
+
+DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+THAT'S WHY WE... 
+
+
+
+- Use Sterile. Disposable Equipment 
+
+- Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise - Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+■ Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED F 
+
+
+
+EARN I 25°° A WEEK DONATING 
+
+
+
+NEW 
+
+DONORS 
+
+RECEIVE 
+
+
+
+10 
+
+
+
+Donation 
+(With This Coupon) I 
+ID Required I 
+
+
+
+CALL OH STOP B' 
+SERA TEC BIOLOGICALS TUES.-FRI. 7 A.M.-4:3C 
+
+921 Clay Street CLOSED MON. 
+
+For, Wayne. IN NEW °2JS"SJ*,"- ! 
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+OICES 
+
+
+
+s a military 
+
+esponse justified 
+
+f Iraq fails to abide by the 
+
+I.N. deadline to withdraw 
+
+rom Kuwait? 
+
+
+
+Prayer vigil promotes peace 
+
+
+
+
+If you think you're all 
+
+alone... your not! 
+
+We deal with the 
+
+problems of unplanned 
+
+pregnancy everyday. 
+
+
+
+MEMO 
+
+urUteM. i&lt;m tfo tfvti*? t99t 
+uuKettei. TVe. &gt;teed ttuxOmto. t* 
+
+unite- l&amp;Ume*. teecvi- aMtC 4pmta - 
+
+uuutt t* potted tfa* "rtUM? 
+t&amp;ltU and &lt;pU* exjx&gt;Ue*ce- 
+ItOeieited ttudentA t&amp;otdd auKe 
+ty Scute ZiS *t "&amp;&lt;*&amp; 1**** »* 
+call 4%t-6SZ4 {m maw 
+tofruKOtta* on to afifUit- ft* 
+
+
+
+Students 
+
+escape 
+
+Kuwait 
+
+
+
+
+■Hi, 000 to 50,000 newly unrmpU.vr.t 
+Pakistanis back in Pakistan dm- lo (In- 
+Kuwaiti crisis. Since Pakistan is al- 
+ready an inijHiv.TLslicd nalion. lias is 
+
+
+
+,-v l„ I,,,'. I 
+
+
+
+(in.iMiii|,ir; I'll''-. 
+
+
+
+FLOOR F 
+
+will be communicating with people. 15-20 h 
+$5.50-$6.00/hr. 1-2-0-4. 
+
+
+
+CLERICAL - Need to be familiar with Word Perfect 5.1 , be 
+type 50-60 wpm. The job is temporary (or 3-4 weeks and 
+in Warsaw. The hours are 8-5. $8.00-$9.00/hr I 3-0-1. 
+
+
+
+i month, flexible. 
+
+
+
+m 
+
+
+
+FOR ALL 
+
+IPFW 
+
+STUDENTS. 
+
+
+
+IU CREDIT 
+
+UNION 
+
+MEMBERSHIP. 
+
+
+
+Now you can open a student 
+account and receive all the great 
+benefits fo IU Credit Union 
+membership. 
+
+Just talk to a Credit Union 
+
+representative at our convenient 
+
+location in Kettler Hall on campus. 
+
+They're ready to help you choose 
+
+the services that best fit your 
+
+needs. 
+
+Choose your checking: 
+
+Economy, Regular, or Money 
+
+Market Checking. 
+
+Get the advantage of choice with 
+
+your IU Credit Union. Open a 
+
+checking account that best fits your 
+
+specific banking needs. 
+
+50 free checks with each new 
+
+account. 
+
+Get your first 50 checks free when 
+
+you open your student checking 
+
+£r:.r;..' 98f IU Credit Union 
+
+
+
+account at the Credit Union. 
+Free MoneyMover® 24 hour teller 
+card! 
+
+Use your IU Credit Union 
+MoneyMover card to make 
+transactions on your student 
+checking account any time, day or 
+night. Use it in any Automatic 
+Teller Machine that displays the 
+Plus* symbol. 
+
+Other free services available. 
+Take advantage of free bank by 
+phone service, free travelers checks 
+and more! 
+
+Convenient campus location. 
+Sign up for your IU Credit Union 
+account today at the branch in 
+Kettler Hall. Open 9 a.m. to 12:30 
+p.m., 1:30 to 4 p.m. Monday, 
+Tuesday, Wednesday and Friday. 
+Open 9 a.m. to 1 p.m. Thursday. 
+
+
+
+NCUA 
+
+
+
+Indiana University 
+Employees Federal 
+Credit Union 
+
+
+
+Features 
+
+
+
+ty$&gt; 
+
+
+
+THE COMMUNICATOR 
+
+
+
+WE'LL ERASE 
+
+YOUR COLLEGE 
+
+LOAN. 
+
+
+
+If you qualify, we'll 
+reduce your debt by 1/3 
+for each year you serve as a 
+er, so after just 3 years 
+
+You'll also have training 
+in achoiccofskills.and 
+ugh self-assurance to 
+you the rest of your 
+
+
+
+from your Annv ]u'i mil 
+Call: 
+
+(219)745-4947 
+
+(219)482-4300 
+
+
+
+'Hair' becomes more timely with 
+the flow of current world events 
+
+
+
+
+We need to understand 
+the dynamics of a war 
+
+
+
+rk properly, voice our fears in letters so th 
+
+e mentally. diers don't think they are the 
+
+wind, a vet- ones with fears. 
+
+: during the this? It has a free service to veti 
+
+Luunlry v.;.- families. The V..-1 '..'enler lifters &gt;.»■ 
+
+
+
+Because of the p 
+
+
+
+they'll keep it from 
+
+
+
+gs. The American Legion is 
+jring a toll-free telephone mini 
+ir the families of U.S. Armed 
+s members. The FamiK Smipori 
+
+
+
+IV 
+m 
+
+
+Ican'fWrwewWrU 
+t«vl^r iTiorrn'nj rlekiork 
+TV iW civg doing 
+
+In 
+
+
+1 
+
+
+3&amp;J5L&amp; 
+
+
+
+SicUsf 
+
+/w, SMrt .cwi;&lt;: 
+
+I &amp;!W«» to SWi fipb'i 
+Hod ItBcU+keenrto 
+&lt;4sV of tVToiUy SU&gt; 
+
+,v the N««k virgin;* 
+
+
+
+G 
+
+
+
+#A 
+
+
+
+W«J_«UVCKt 
+
+»H, fcr U 
+yqflrjs and recent 
+
+
+
+tteyUcMrs.5r.rff, 
+«l»l'ft«l«Zit»cl«ore- 
+mofe. from tte same 
+S-hMlo where Uemwte 
+l fltU.rofW«te«' 
+IW5 f i'l K 
+
+
+
+F 
+
+
+
+;:: ." 
+
+
+necomtg anZo U t ni one is e o r Iat Skiw!"*^ ^^ " 1 " 8&lt;M&gt; " 
+
+
+f'"r 
+
+
+H You MJoraTt notice any difference, 
+
+
+
+
+but your country will. 
+
+
+1 
+
+
+m The five minutes you spend registering with 
+mm Selective Service at the post office won't 
+^H change you. But it will make a difference to 
+^H your country. So when you turn 18, register 
+^H with Selective service. It's quick. Its easy. 
+f^m And it's the law. 
+
+
+
+
+™ A public service message of ttiis publication and Selective Service System. 
+
+
+
+There's a good reason 
+your Collegiate Reps know 
+how students think. 
+
+They're students. 
+
+
+
+
+Your IBM Collegiate Representatives are now 
+located in Follett's Bookstore. Visit them during 
+their normal office hours: 
+
+
+
+Monday and Wednesday 
+Tuesday and Thursday 
+
+
+
+9:00 am - 1:00 pm 
+12:00 pm - 4:00 pm 
+
+
+
+Or call them at460-IBM0 for an appointment or 
+for more information on great student discounts. 
+
+
+
+Monday, Jan. 21 
+
+at 8 p.m. 
+
+at the Embassy Theatre 
+
+
+
+in Fort Wayne 
+
+
+
+
+$500 off 
+
+nth this coupon and your student I.D. 
+
+tic fo f ra/5\DK 
+
+at the Embassy Theatre 
+
+
+
+Coupon valid day of show only 
+Monday, January 21, 1991 at 8 p.m. 
+
+- LIMIT TWO TICKETS PER COUPON - 
+
+
+
+for information/tickets, 
+
+call 424-5665 
+
+or visit the Embassy 
+
+Theatre Box Office at 
+
+121 W.Jefferson 
+
+across from the 
+
+Grand Wayne Center 
+
+in downtown Fort Wayne 
+
+
+
+</pre>        </div>
+      </div>
+    

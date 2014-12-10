@@ -1,0 +1,4800 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv35i29indi/communicatorv35i29indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv35i29indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv35i29indi">The Communicator</a>"
+          </h1>
+          <pre>Fort Wayne 
+
+
+
+Wednesday. April 27, 2005 
+
+
+
+INSIDE: 
+
+
+
+Xhe Commui#ator 
+
+
+
+Opening Round Win 
+
+Volleyball team rallies back to 
+top Findlay in five games in 
+MIVA first round. PAGE B1 
+
+
+
+Smoker's Rights 
+
+torial: benefits and detriments 
+i potential smoking ban on 
+ampus. PAGEA4 
+
+
+
+Confluence Preview 
+
+An advanced look at the 
+upcoming issue of IPFW's 
+literary magazine. PAGEA4 
+
+
+
+Volume 35, Issue 29 
+
+
+
+.viphvcommunk3tor.org 
+
+
+
+1 2 Pages, 2 Sections, Free 
+
+
+
+THIS WEEK ► 
+
+
+
+I Professor profiles: Linda Fox. 
+
+
+
+I Vance's Views: Dane Fife may 
+dunk in basketball, but not in 
+tank, page AS 
+
+I Casey at the Bat 2 years at 
+
+
+
+■ freshman Brock Ullrich becomes 
+part of the history of IPFW 
+Volleyball with. Page B2 
+
+■ Women; tennis team wraps up 
+2004-200S season with third 
+place finish. Page B4 
+
+■ In "Off the Field' this week, Nick 
+sits down with women's softbatl, 
+player Angela Pasquali. Page 64 
+
+
+
+BsaEnia 
+
+
+
+WOST 
+director 
+advances 
+IPFW by 
+leaps and 
+bounds 
+
+
+
+Spanish professor Linda Fox 
+
+knew she 
+
+wanted to 
+
+be involved ^^^ 
+
+with Ian- ^^^^P 
+
+studied ^K 
+
+three Ian- ■■ p^pW 
+
+for ^^H^M 
+
+seven years Bfl B^BM 
+
+through- ■ M 
+
+out high ■ HI 
+
+
+
+three Ian 
+guages for 
+
+)ugh- 
+high 
+school but 
+s forced 
+
+choose 
+
+
+
+e down on the good side of 
+that. Not that French is a bad 
+major, but in terms of utiliza- 
+tion of Spanish in this country. 
+I was fortunate in my choice." 
+Originally intending to 
+teach at the high school level, 
+
+
+
+► FOX: Page A3 
+
+
+
+psrii 
+
+
+
+Purdue, IPFW discuss tuition increase 
+
+
+
+Students predict extra work because of possible 4% increase; administrators cite lack of state funding 
+
+
+
+
+four hours a week they figured 
+they'd need to make up for the 
+tuition Increase. 
+
+Purdue Student Body 
+
+
+
+luilional ll'lWislikeUlo Hi stxulnns vvimkl he willin,; I. 
+■ease for dlc200G-20l)7 Iim ,il pay the extra tuition." 
+
+Purdue University Prcsl- 
+
+
+
+versity last Friday, Purdue's 
+Hoard ol trustees discussed a 
+
+possible 4 percent tuition in- education over the last 10 years, 
+
+crease. Input was solicited from In 15194 Indiana paid for 60 
+
+Purdue's North Central and percent of Purdue's operating 
+
+Calumet campuses as well us costs, hut currently only j 
+
+IPFW. However, only students for 40 percent, 
+
+from Purdue University at West The previous two years 
+
+Lafayette spoke; at IPFW, only have each seen a 4 percent tu- 
+
+administratnrs ami local media itinn iru rease. IPFW decides on 
+
+alimdi-il I lie forum. a tuition increase based upon a 
+
+The forum was held to budget range dictated by Pur- 
+
+
+
+i for the change in tuition 
+and students complained thai 
+higher tuition might cripple 
+their ability to get an educa- 
+
+
+
+Photo by Steve Kacala / skacala@ipfw 
+
+
+
+WOlllll ll.HT 
+
+Increase in * 
+"I almost feel like I have der for an in 
+sacrifice my education bi 
+tae I c - - 
+
+
+
+Wartell said that 
+IPFW is one of the least funded j 
+the slate, there 
+be a significant ; 
+e funding in o 
+
+
+
+n null 
+
+
+
+TUITION: From LEFT to RIGHT, Chancellor Michael Wartell, Vice-Chancellor of 
+Financial Affairs Walt Branson, and Associate Vice-Chancellor of Institutional 
+
+Research sits as Sarah Snyder, a student at Purdue West-Lafayette, speaks about student's statements .m'mu he- 
+hardships of balancing finances while in school, in a teleconference between ing unable to work the extra 
+three Purdue campuses Friday. 
+
+
+
+Administration confirms 
+possibility of smoking ban 
+
+
+
+| Campus following in footsteps of similiar Purdue ban. Chancellor still urn 
+
+
+
+By Stephen Pepple 
+
+
+
+Chancellor Michael Wartell and the IPFW 
+
+administration have not decided whether there 
+will he a smoking ban next year. Die administra- 
+tion has only indicated thai there have been nu- 
+
+nirnni- kolnplainlsaboiil sci nml-hand Mnokeoli 
+
+
+
+work the 
+
+Questions about the Inline of IPFWs smok- 
+ing policy have been spurred In the decision ol 
+Purdue and other universities aenss the country 
+to ban smoking on campus. 
+
+The Purdue University Senate approved and 
+pi aiii to implement .1 smoking ban beginning ne.U 
+fell. The Purdue Student Government depreciated 
+
+this decision because the government was unhap- 
+py ivilli the plan lor implcme g tin: policy and 
+
+
+
+|&amp; 5 
+
+Photo Illustration by Scott M. Lawson 
+at Purdue, hundreds ol people gathered on the 
+Memorial Mall at (lie university to protest the 
+ban. The protest was organized bv the University 
+Conservative Action Network and according to the 
+Purdue Component received more than /Oil peti- 
+tions against this kiugpolii \ within the first 15 
+
+minutes of the protest; over 100 signatures were 
+compiled hv die organization. 
+
+How the smoking km will work next seines- 
+
+
+
+o the proposed smoking policy 
+
+
+
+► SMOKING: Page A3 
+
+
+
+Mastodons on display at 
+Headwater's Park May 1 
+
+
+
+By Stephen Pepple 
+
+spepple@ipfwcommunicator.org 
+
+
+
+As pan ot ll'l \\ s mth anmi.vr-.an celebra- 
+tion, the fort VVauic will be hosting a "Mastodons 
+on Parade" event this Sunday. May 1 at Headwa- 
+ters Park from 3 to 5 p.m. Over 10(1 mastodons 
+have been sponsored lot the event and will he oil 
+disp|,i\ i Krone,! I. iii i i lie i m dm n ig the summer. 
+
+"Sunday will he an opportunity to meet the 
+whole herd before they go out to their positions 
+for the summer," said Irene Walters. 
+
+Walters, the IPFW Director of University Re- 
+lations and Communications, who Hrsl thoughl 
+
+
+
+Indiana-Purdue Student Newspapers, Inc. 
+Walb Union, Suite 215 
+2101 Coliseum Blvd. East 
+Fort Wayne, IN 46805 
+
+
+
+up the parade to celebrate II'IAV- anniversary 
+about It months ago, said it will be Fort Wayne's 
+lirst public art project. 
+
+The original plan was to have 40 fiberglass 
+s placed around Fort Wayne, like it has 
+
+
+
+Olp.lll 
+
+
+
+i Chicago and 
+
+
+
+However, Wallets said that city fc 
+and institutions were so eager to help with th 
+project that over 100 donations were offered t 
+sponsor 102 mastodons. 
+
+
+
+tinned ■.'. i r 1 1 prncei'ds going ro the United Way. 
+
+► PARADE: Page A3 
+
+Newsroom: (260) 481 -6584 
+Fax:(260)481-6045 
+Advertising Oept.: (260) 481-6563 
+E-mail: contacl@ipfwcommunlcator.org 
+
+
+
+Student organizes 
+book exchange 
+to combat high 
+bookstore prices 
+
+By KSfl GlaSS probably become a recurring 
+
+
+
+students have an inexpensive 
+
+option to buying their books 
+
+from the bookstore. A high stu- 
+
+A typical text may cost dent turnout also means that 
+
+$100, yet the bookstore may students will have a large selec- 
+
+only offer you S20 to buy it back, tion from which to choose. 
+
+By the time thi 
+
+leases the se- 
+
+lists, school 
+
+is nearly back 
+
+
+
+
+
+
+■- 1 &lt; 1 1 1 h - 1 1 r -. Ii.ii. 
+
+
+
+ducted by 
+the State of 
+Califon 
+
+
+
+If s kind of a grand 
+experiment. If the 
+demand and response 
+is good, this will 
+probably become a 
+recurring event. 
+
+
+
+the best 
+vertising; ■ 
+courage y&lt; 
+
+
+
+— Ryan Brown, attend." 
+
+organizer students 
+
+
+
+Student Pub- 
+lic Interest Research Group, the wish to sell or trade, &lt; 
+average American college Stu- 
+dent spends nearly $900 a year 
+
+
+
+,,■1. , 
+
+
+
+list of the books they will need. 
+
+A contact sheet will be available 
+The good news is for students to leave their con- 
+that you don't have to be count- tact information regarding the 
+ed among the average, if you books they need and the books 
+attend this year's campus book they wish to sell or trade. For 
+exchange. students who cannot attend ci- 
+
+The IPFW Honors Student ther day, they can forward their 
+Group is determined to allevi- book lists, prices and contact 
+ate the burden of high textbook information to honrstul@ipfw. 
+expenses by holding a campus edu where a webpage will soon 
+book exchange where students be made available for students 
+can set their own prices, but to exchange their books, 
+student attendance is needed For the exchange to work 
+
+for it to be a success. properly, attendees will need a 
+
+copy of their class schedules. 
+
+The book exchange will have 
+president of the Honors Student copies of required books for 
+Group at IPFW. "If the demand some classes, but the list will 
+and response is good, 'his will ««_„- _ 
+
+► BOOKS: PageA8 
+
+
+
+HjS .■. ■ 
+
+
+
+[23 
+
+
+
+The Communicator 
+
+UIHffifll;fflffl 
+
+
+
+Andrew Welfle 
+
+Edilorm Chief 
+
+mrtllKO^Ivrtommiywalororg 
+
+ICE. Casey 
+
+Managing Editor 
+
+Alden Bordner 
+
+Advertising Manager 
+
+
+
+Katie Pniltt 
+
+Copy Editor 
+
+kjNuittOiphwommunlcarot twg 
+
+David Hunter 
+
+News Editor 
+
+ddunCerfftpfwwnmiriator wg 
+
+Kelly Royal 
+
+Photo Editor 
+
+boyaltfipdwommuriicaioi.oig 
+
+Anthony Maurer 
+
+Sports Editor 
+
+
+
+Kelly Lynch 
+
+A&amp;E Editor 
+
+VtjrKhGiplw(ommumcatO(Oiq 
+
+Brlanna Belford 
+
+Page Designer 
+
+M' '' '! I'-'. "' ■''■'■ ""l 
+
+Steve Pepple 
+
+Chief Reporter 
+
+Dorie Reynolds 
+
+Publisher 
+
+
+
+210) Coliseum Blvd. Easl 
+fori Wayne. IN 46805 
+
+
+
+Newsroom / Editor 
+
+(260)481-6584 
+
+
+
+Advertising 
+
+(260)481-6583 
+
+
+
+Publisher 
+
+(260)481-6585 
+
+
+
+Interests, personal reasons 
+lead to professor's curriculum 
+
+■ Focus on familes, own research drives Dixon to consider online learning as equal alternative 
+
+
+
+college c 
+•1 c 
+a sEudcnt doesn't 
+
+
+
+. tlisciplim 
+opaya 
+
+
+
+1 day. 1 
+
+
+
+BBBffllZBl 
+
+
+
+Teaching university students about 
+
+Dixson's goal, bill it inevitably became her 
+mission in life. Dixson, a professor in the 
+communications department grew up on a 
+farm in Iowa. While she was born in Texas, 
+her falher's work forced her family to move 
+around quite a bit when she was growing 
+up. She received both her undergraduate 
+degree and Masters degree in the state of 
+
+While Dixson originally intended to 
+major in journalism and had hopes of writ- 
+ing for a magazine, at her father's urging 
+she .iKogoi di'RrLT in leaching. 
+
+"I wanted to write for magazines, but 
+I was terrified of the city," Dixson said. "I 
+started as a journalism major and my dad 
+) get a teaching degree as a back- 
+
+
+
+ward a teaching degree. While in a 
+methods course, where she was 
+to develop her first miniature less 
+Dixson immediately enjoyed the v. 
+
+
+
+i problem in my class here. I 
+show them where the door is." Dixson said. 
+She also said she enjoys the schedule of a 
+college professor over that of a traditional 8 
+a.m. to 4 p.m. high school job. 
+
+When Dixson and her husband di- 
+vorced, she again turned it into an oppor- 
+tunity to further her education, returning 
+to Iowa to study for her Ph.D. After teaching 
+at University of Iowa during her Ph.D. pro- 
+gram, Dixson made her way to Indiana. 
+
+
+
+around 20. here it was about 27 years old. I 
+teach family communication, and these are 
+people with families... I get the whole range 
+
+
+
+" Dixson said. After mar- 
+ng a local Missouri man, Dixson laughl 
+(h school there for three years, until she 
+s laid off due to budget 
+
+
+
+3 director for the de- 
+partment. She is also involved in various 
+research projects. 
+
+
+
+the class was on-line that students would 
+not get that social interaction that you need 
+for a group to be cohesive," Dixson said. 
+What she found was that a good percentage 
+of the on-line interaction was, indeed, so- 
+cial interaction. She also looked at whether 
+the on-line courses offer the same quality 
+of learning as the traditional on-campus 
+courses. While that portion of her research 
+
+
+
+"I think that is because when students 
+get on-line that is what they are primariiyfo- 
+cused on and they also have an opportunity 
+to prepare," Dixson said. "When you c 
+
+
+
+down to the class." There is also n 
+to research and discuss class topics on-line 
+as some discussions last two or three days, 
+where a traditional class' discussion may 
+end after an hour. Dixson's focus for her 
+research is how to enhance the learning in 
+
+"1 really believe that on-line teaching 
+and on-line learning can be as in-depth 
+and as rich in opportunity as the traditional 
+classes, but we have to figure out how to 
+make that happen," Dixson said. 
+
+Outside of the university, Dixson takes 
+
+joys spending t 
+
+
+
+seemed like a horrible 
+thing at the time, lit) turned out not to be," 
+Dixson said. "I felt good when they wanted 
+me back a year later." But Dixson chose not 
+to return to teaching at the high school lev- 
+el, because she was in the process of com- 
+pleting her Master's program and looking 
+forward to trying out teaching at the college 
+
+Dixson said she enjoys the university 
+atmosphere more than high school because 
+she is not required to discipline students in 
+
+
+
+and child communication. After 10 years 
+of researching this subject, she has moved 
+on to examining communicating in on-line 
+courses, an area she has personal experi- 
+
+Dixson routinely offers her family 
+communication course on-line. She want- 
+ed to ensure her students get the best ex- 
+perience, so she began to look at how the 
+discussion forums contribute to the goal of 
+learning. 
+
+"1 was originally worried dial because 
+
+
+
+&lt;. related tasks. She e 
+: with her children, es- 
+3-year-old daughter has 
+just moved out. Even though she no longer 
+lives there, Dixson sees her many times a 
+week for homework study dates. She said 
+she hates to be bored, so she is the picture 
+of multi-tasking. 
+
+Even while watching her favorite foot- 
+ball teams, the Dallas Cowboys, Oakland 
+Raiders and Indianapolis Colts, play she is 
+usually knitting or doing something else. 
+She said she also enjoys building things, 
+and plans to turn her garage into a work- 
+shop in the future. 
+
+
+
+MOTIVE" The Communicator will not print 
+I il \J I I V- C ■ until May 1 8 for a final summer 
+edition. Regular printing will begin again in August. 
+HAPPY SUMMER! 
+
+
+
+STAYING 
+
+FOR SUMMER? 
+
+AreYouSickofJ.O.B.'S? 
+
+Potential Earnings of 
+
+$2,000 - $4,000 
+
+per month! 
+
+Internship &amp; Scholarships 
+Awarded 
+
+Valuable Work Experience 
+
+Excellent Income 
+
+Awesome Atmosphere 
+
+Increase People Skills 
+
+Increase Resume Value 
+
+Team Atmosphere 
+
+
+
+INTERVIEWING NOW! 
+
+(260) 969-6874 
+
+
+
+Campus &amp; 
+Calendar 
+
+
+
+for April 28-May 4, 2005 
+
+
+
+3p.1 
+
+Theatre: Medeaby Euripides, WT, 
+8 p.m.; also April 29, and 30 at 
+8p.m.andMaylal2p.m.Tickets$10 
+and under; IPFW students free with 
+proper ID. For tickets or information, call 
+16555. 
+
+29 Campus-Wide Planning Conference: 
+"The Next Big Thing," IPFW's 2006- 
+20 1 1 strategic plan. NF 1 1 , 8 a.m.-l p.m. 
+
+Mathematical Sciences Colloquium 
+Series: For information, call 16188. 
+• "Planar graphs without cycles of 
+length from 4 to 7 are 3-colorable," Oleg 
+V. Borodin, Sobotev Institute of 
+Mathematics, Novosibirsk, Russia, and 
+University of Illinois Urbana- 
+Champaign; KT218, 1 1 a.m.-noon. 
+•"VisibilityofComplete Bipartite 
+Graphs," Weiting Cao. University of 
+Illinois Urbana-Champaign;KT243, 
+2-3 p.m. 
+
+
+
+1 Helmke Library Hours 
+
+
+
+Concert: Guitar Ensemble, Fort Wayne 
+Museum of Art, 2:30 p.m. Free admission 
+to concert and museum. For information, 
+call 16714. 
+
+
+
+Mastodons on Parade Community 
+
+Party: Headwaters Park West, 3-5 p. 
+Children s games, ent 
+Vote for your favorite mastodon. For 
+information, call 16808. 
+
+
+
+
+
+
+SAB Event: Exam Break, KT ground 
+floor, 1 1 a.m.-l p.m.; donuls, muffins, 
+juices. For information, call 16590. 
+
+Biology Thesis Seminar: Trina S. 
+Harkenrider, presenter; SB 1 85, noon. 
+For information, call 16305. 
+
+Fating Disorder Support Group: 
+WU 234, 6:30-8:30 p.m. For informatior 
+call 16647. 
+
+
+
+SAB Event: Exam Break, KT ground 
+floor, 8-10 a.m.; donuts, muffins, juices. 
+For information, call 16590. 
+
+Stop Smoking Support and Information 
+Table: KT lower level. lOa.m.-noon. For 
+information, call 16647 orI5748. 
+
+Concert: Fort Wayne Area Community 
+Band, Embassy Theatre, 7:30 p.m. For 
+information, call 16714. 
+
+
+
+Spanish Table: jVenaconversary 
+comer con nosoiros! (Come eat and talk 
+with us), WU Cafeteria, noon; bring a 
+sack lunch. For information, call 16689 or 
+e-mail confortm@ipfw.edu. 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+
+
+
+of IPFWs -illth anniversary and rc-peei tor the institution and what 
+it tan do for the community," she said. 
+
+"It is a win-win for the i (immunity anil IPRV." she said. 
+
+Local artists, totaling Ml), in number have volunteered over 
+the past few months to design and decorate the mastodons. Each 
+five-foot mastodon weighs I hn pnunds and will lie secured to a 600- 
+pound base with .1 plaoue 11. minibus sponsor alter decoration. 
+
+Walters said. The vulumeer artists haw worked hard and are 
+the reason that this event will be successful. 
+
+Maximillian Meyer, who is the curator of the Tort Wayne Mu- 
+seum of Art's children and (atnilies program, and worked with the 
+museum on UVMast-o-piece" design, said that people have really 
+got into the project t In &gt; ihmighi it was cool that thev got a chance 
+
+
+
+1111; a mastodon, which she created in honor ot Elvis Presely. 
+
+All sponsors and artists will be recognized at the preview, 
+and the community will vote for die top It) mastodons that day. The 
+
+
+
+is unclear. This is partly the 
+
+ise of tin- controversy. 
+
+There is already a smoking 
+mastodons chosen will be nuhe three Rivers Festival parade on July ban at IMrduc North Central 
+
+I the campus has had troubles 
+
+
+
+e food along with special activities 
+
+
+
+Walters said that there v 
+
+for children at the I leailwalers preview For example, a large ri 
+
+3re than 500 people is being prepared 
+
+
+
+participate in a public project, 
+ated a"Bigga Hunka Love" mu-mdnn She said she enjoyed decorat 
+
+
+
+it and artist in Inn Wayne, c 
+
+
+
+After the mastodons 
+disclosed locations, there v 
+
+ers will need to locate as many of the mastodons 
+
+they can. All persons who hod all the mastodons will be entered 
+a drawing to win a trip to Disney World. The exact details for t 
+event will be announced at the parade. 
+
+The community will be ama/ed by the incredible talent a 
+creativity on display, said Walters. There is a wide range of 111a 
+odons representing a gamut of ideas." 
+
+
+
+Fox returned from a year abroad in Madrid. Spain and knew she 
+would be better suited teaching at the college level. She imme- 
+"verier Master's Degree The high school 
+: ox's "back up" in case she could get no 
+
+
+
+certification servei 
+other job. 
+
+After moving to the Midwest to complete her Ph.D. with a 
+fellowship at IU in blootnington, !o\ left her program two years 
+later to move to Wisconsin and get married. She finished " 
+Ph.D. at the University of Wisconsin. When her husband was 
+1 academic job in bis held of German history, 
+
+
+
+bers when the campu 
+"I have always ' 
+
+think the community has 
+
+
+
+ere a good university, but 
+
+:r to really value the thing: 
+
+offer," Fox said. "But there is nn uuestion in my mind tha 
+
+
+
+there wasn't any research, or very little ol it, that really reflected 
+women's experiences hack in the HlhOs. Once women began re- 
+searching, women realized that most of the courses being taught 
+at the university level were not telling the story of the Other 50 
+percent of the population." 
+
+Fox said the WOST program has deeply impacted the com- 
+munity, by showing them that evervonc is responsible for social 
+change' 
+
+"I never would have been the person I am today if I would 
+not have gotten involved in the women's movement. I am certain- 
+ly a product of my experiences," Fox said. "1 am really proud ol all 
+of my awards, especially my campus teaching awards. But I have 
+also received many service awards ihal have been on the behalfof 
+the either women or students. I hose are niv passions." 
+
+Combining both her passions, I ox is currently comparing 
+two Spanish women writers. The first is a Chicana, a second gen- 
+"on Mexican American poet and writer. The other poet she is 
+
+
+
+because I' NCs policy' 
+
+defined," said Matt Martinez, a 
+member of PNC's student gov- 
+
+people are confused about the 
+policy or have chosen not to fol- 
+
+While few people will deny 
+the deadly consequences of 
+smoking, many object to ban- 
+ning smoking in public places 
+because smoking is a legal ac- 
+tivity, and there are additional 
+doubts about the actual causes 
+of second-hand smoke In an 
+
+Students at IPFW ate di- 
+vided over the issue, and more 
+than willing to talk about smok- 
+ing on campus. 
+
+"I understand why non- 
+smokers dislike the smoke, but, 
+speaking for myself, I always try 
+to stay away from people when 
+
+
+
+the International Agency for 
+
+
+
+General and the National Pub- 
+lic Health Service, second-hand 
+smoke increases the risk of lung 
+cancer between 20 and 30 per- 
+cent for adults. 
+
+The study additionally 
+found that involuntary smoking 
+is responsible for an approxi- 
+
+heart disease and related respi- 
+ratory problems. 
+
+This study and related 
+studies focused on people who 
+
+
+
+
+
+
+n-smokers can work 
+n their 
+
+
+
+In addition to teaching upper level Spanish courses, Fox 
+has also served as the clireclnr ol the women's studies program 
+
+lerSpanish have shaped tliei 
+
+Fox has also seen the development ol the women's studies 
+program, going from a women's club started by women on cam- 
+pus involved in the women's movement 10 a full program offering 
+a minor, a certificate and a Hacealaurcate Degree. The university 
+approved the offering ol aWOS'l minor in IMTti, with a full degree 
+becoming available in ITlM'i'i;] school year. 
+
+"We were the first campus ol either IU or Purdue offer the 
+Baccalaureate Degree," Fox said, "blnomingiun did not get theirs 
+until 1997 and Purdue just began offering theirs in 2002." 
+
+The fact that ihe IPFW program is thriving, despite the ab- 
+sence of any full-tune faculty, makes Fox proud. She said that the 
+program is on the verge of graduating its jtith graduate with a 
+
+
+
+Chilean 1 
+
+political reasons. She hopes 10 determine that the women's ex- 
+
+both Spanish speaking countries as well as America 
+
+
+
+Mary Meehan, who will 
+finish a degree In general stud- 
+ies this year, disagrees, "As a for- 
+mer smoker that has now quit, 1 
+feel imposed upon by smokers, 
+especially on campus," she said. 
+"It seems like there is no where 
+
+
+
+comfort," 
+businessadministrationstudent. 
+"If smoking on campus makes 
+enough people uncomfortable, 
+
+if should be prohibited." 
+
+Grasner's comments mir- 
+ror the university adtninisiia- 
+
+
+
+commodates the wishes and 
+comforts of all students. 
+
+Grasner's opinion also may 
+be a reflection of the national 
+
+
+
+lorand memory are used by these two writers." She goes 
+
+y that she has found that the hybrid nature of the women's 
+
+o the hybrid nature of the gent 
+
+
+
+
+
+
+She will be 1 raveling to Honduras in o&lt; tuber during her next 
+sabbatical to present her research findings to about 100 interna- 
+tional Spanish speaking women writers. 
+
+With only two years until retirement. Fox looks forward to 
+moving out West, where she will undoubtedly lie able to put her 
+fluency in Spanish 10 good use. She said she would enjoy working 
+
+
+
+Attention Students 
+
+
+
+SUMMER WORK 
+
+GREAT PAY! 
+
+Flexible Schedules, Sales/Svc. 
+
+All Ages 18+, Conditions Apply. 
+
+Call Now! 
+
+(2601471-8682 
+
+
+
+SIP 
+
+
+
+Just announced 
+for college grads! 
+
+
+
+2005 DODGE RAM 1500 
+
+
+
+rjrj-3 rjrjfJGE iMagimuiVI 
+
+
+
+PRICING! 
+
+
+
+
+FACTORY INVOICE! 
+
+
+
+PLUS 
+
+$ 
+
+
+
+4,000 10 
+
+
+
+% 
+
+
+
+
+CASH ALLOWANCE 
+
+s 500 - s 4,000 depending on model 
+
+
+
+APR PLUS 
+
+FINANCING* I "ST 
+
+on select models ' WARRANTY' 1 ! 
+
+
+
+WHEN YOU BUY OR LEASE ANY NEW 
+CHRYSLER, DODGE OR JEER VEHICLE. 
+
+
+
+FOR MORE DETAILS VISIT: 
+
+dc-collegegrad.com 
+
+
+
+(^) OOOi 
+
+
+
+D0DGE.COM 'l-eiXMADODGE 
+
+
+
+en res-si 
+
+
+
+CHRVSLEfl.COM • 1 -800-CHRYSLER 
+
+
+
+Jeep 
+
+
+
+Jeep is a registered trademark of DaimlerChrysler Corporation. 'Preferred Pricing program allows buyer lo purchase a '03, '04, '05 vehicle 1 
+
+at Ihe maximum price of 1 v below dealer invoice, plus a l 75 administration fee. Must be a college senior enrolled in a four year program a: J 
+
+getting your degree within six months. 'Financing for qualified buyers through Chrysler financial. Must take delivery from dealer stock, "See | 
+
+your dealer for details and for a copy of this limited warranty. Transferable to second owner with a fee. A deductible applies. 
+
+
+
+The Gommunjcator 
+
+
+
+K.E.Caa*Manjorqt&lt;tW 
+
+
+
+Podium 
+
+
+
+Opinions • Editorials &lt; 
+
+
+
+
+Kelly Lynch / klyncl; -ipiMC 
+
+
+
+Staff Editorial 
+
+
+
+Debate should precede a decision on smoking band 
+
+
+
+Unless you do not need to breathe, it is an 
+issue hard to ignore as you are exiting any build- 
+ing at IPFW; what should be the smoking policy on 
+campus? 
+
+IPFW is thinking of instituting a ban similar 
+to Purdue West Lafayette, which would have the 
+smokers stand in a designated smoking huts locat- 
+ed in the parking lots. This would keep the smell of 
+smoke from entering the buildings, but it would be 
+a major inconvenience to the smokers. 
+
+There are several telling facts that help to 
+frame the smoking policy debate. The Centers for 
+Disease Control and Prevention (CDC) reports that 
+in 2002 there were 45.8 million adult smokers in the 
+
+
+
+United States. Furthermore, smoking has been part 
+of the national consciousness since the beginning 
+of the country. 
+
+The cigarette industry has had a long and tur- 
+bulent history, from the early years, when cigarette 
+smoking ads promoted with glamorous ads, to the 
+current robust anti-smoking campaigns on the 
+television, radio and the Internet. 
+
+The dangers from smoking cannot be con- 
+tested. According to the American Cancer Society, 
+435,000 people die each year from tobacco-related 
+causes. Furthermore, the society says that cigarette 
+smoking is responsible for 30 percent of the total 
+number of cancer deaths. For lung cancer, the total 
+
+
+
+number of smoking-related deaths is 87 percent. 
+Other diseases, including asthma, heart disease, 
+emphysema, and stroke can be either created or 
+exacerbated by smoking. 
+
+But eating a pizza every day from Pizza Hut 
+may cause heart disease, and no one is calling for 
+a removal of fats from the campus. Does the dan- 
+ger of smoking preclude smokers from the right to 
+smoke on campus? 
+
+In cases such as this, the debate over the 
+smoking policy should hear both sides. The rights 
+of the smokers should be considered as should the 
+rights of the non-smokers. The road to finding a 
+proper policy for IPFW may be a long one indeed. 
+
+
+
+LETTERS TO THE EDITOR 
+
+
+
+Reactions to smoking bah story 
+
+Ban not enforceable; a ridiculous idea 
+
+
+
+This has to be the most ridiculous pro- 
+posal. J am not a smoker: however, I do have 
+friends that smoke quite a bit. Now I read in 
+the paper thai there is currendy a 20 fi-et dis- 
+
+
+
+icy? I know a lot of people who "light up" after 
+they leave their cars to go to class. Now tell me, 
+if we get rid of all the ciganMte butt containers 
+when they try to enforce the rule where will 
+students put their butts diat they "light up" 
+from dieir journey from their car? They will, 
+of course, throw them on the ground. This will 
+make the campus look a lot better, wouldn't 
+you agree? 
+
+Then I hear all of these people complain- 
+ing about secondhand smoke. To those who 
+
+We have a free air policy in the United 
+States, I believe. They have already banned 
+Smoking in buildings. After you ban the air 
+where else can smokers go? 
+
+I would like it if you don'tt discourage 
+smokers; they pay a great deal in taxes each 
+time thai they buy cigarettes. These are taxes 
+that I would not like to have to make up if 
+
+
+
+smoking gets banned from everywhere. 
+
+1 really haven't seen the research on peo- 
+ple dying of secondhand smoke from walking 
+through a smoking area. If I am not mistaken, 
+people get secondhand smoke and cancer 
+when they live with a smoker or are exposed to 
+smoke more than the 20 seconds each day that 
+non-smokers have to experience while walking 
+into the entrance doors. 
+
+I hope, to those who complain, that 
+you never are exposed to a bonfire parry or 
+ever grill out on a nice day. This, believe it or 
+not, is also smoke. So don't be hypocritical to 
+
+
+
+it like ii 
+
+
+
+thing that you or 1 would like t&lt; 
+
+
+
+i the people who walk 
+
+
+
+- Jeremy Bienz 
+
+
+
+Current '20 feet' rule not posted clearly 
+
+
+
+In response to the recent front page article 
+of the April 20th edition of The Communicator, 
+about the banning of smoking on campus, I 
+"'""" vhich I feel need to be made 
+
+
+
+n campus because people don't follow a regu- 
+ition that first off they don't know about and 
+
+
+
+ban of smoking within 20 feet of ihe buildings 
+was enacted on this campus, 
+
+When was this enacted and why was 
+oobod] Informed of this? 1 personally am in 
+loui different buildings on campus and never 
+s.iw .in yd linj; po\k'd abnui Minting within 20 
+feel. The only thing that I did see was the ash 
+trays at the T portion of Ketder Hall moved 
+and little white signs with red lettering posted 
+on the ash trays. 
+
+Secondly, why was this not attempted to 
+be enforced? They are going to ban smoking 
+
+
+
+beginning, andb 
+and ban it immediately, they started a plan o 
+l that included a lack of responsibility ti 
+" eguladon known s " 
+'ersons went to ba 
+.i this but it didn't 
+
+
+
+— James Pittman 
+
+
+
+Smoking ban great idea; no more smoky exits 
+
+
+
+something about it. 
+
+I really like the idea of having designated 
+
+
+
+Gaither Stephens 
+
+
+
+Charity bracelets label wearers, 
+a fad with a good cause 
+
+
+
+The Waffle House 
+
+By Andrew Welfle 
+nmhacha@ipfwcommunicator.oro 
+
+
+
+I went in the dunk tank last week durinj 
+Spring Fling, and after enduring 30 minutes o 
+r-pneumonia-causing cold water and repeat 
+
+
+
+ed throws by c 
+ment who shall rer 
+was given a purple 
+
+
+
+for 
+
+
+
+Later on that day I was in line for the free 
+food offered all week, donning my new bracelet. 
+
+After receiving ribs that were indistinguish- 
+able from a swatch of vulcanized rubber, a girl 
+in front of me noticed it and asked, "Ooh, what 
+charity are you wearing?" 
+
+After Lance Armstrong's yellow "Livestrong" 
+bracelets were seen on the wrists of athletes, 
+coaches and celebrities, they became an instant 
+fashion accessory. 
+
+Now there are blue tsunami relief bands, 
+green "save the earth" bands, red "give blood" 
+bands and camouflage "support our troops" 
+bands. 
+
+It's amazing— you can instantly display the 
+causes you support in an easy-to-read color- 
+coded wrist tag. It's son of like the clips scientists 
+put on bird wings to track migration patterns. 
+
+What a handy dating device this is for the 
+socially minded individual! I imagine they would 
+aid in selecting a date pain li-ssK .mil uith a mini- 
+
+
+
+and you are a double venti white chocolate cap 
+of student govern- puccino — sorry," 
+
+It is getting to the point where the cyn 
+ics among us overlook the fact that they a ' 
+charity. A coworker who is definitely in her 
+stage wants one that says "Label Me." 
+
+My mother's friend, who hops on Internet 
+conspiracies and urban legends like they are 
+hundred-dollar bills, commented on the wrist- 
+bands by saying, "Children wear those to school, 
+and it means they are willing to have sex." 
+
+I rolled my eyes and said, "No, those are the 
+littie plastic skinny bands that supposedly mean 
+
+
+
+low. green and black. That's a brain c 
+Darfur and the Oregon spotted owl. 
+
+HIM: (backing off) Uh oh... Yoi 
+breast cancer, and white violence ; 
+
+
+
+that. Plus, I think that is a rumor. Rosie v 
+
+If you knew my sister Rosie, you'd know she 
+wouldn't have a clue. 
+
+Some people aren't even trying to pretend 
+the silicone bands are for charity anymore — they 
+are out there blatantly trying to make money. I 
+saw a display in a store the other day with wrist- 
+bands reading "Support a Cause." 
+
+Meanwhile, sure, I'll jump on the wagon. 
+I'm still wearing my purple "Hope" band, and I 
+just ordered a blue one on eBay that says "Don't 
+Panic!" the mantra from "The Hitchhiker's Guide 
+to the Galaxy" to wear to the movie opening on 
+
+You know, I think I'm going to break into 
+the industry myself. "Give Andy Money" wrist- 
+bands in five colors are now available for only 
+S10 at wivw.giveandymoney.com Be the envy of 
+all your friends or get them for your friends — buy 
+10 and save a dollar! 
+
+
+
+Have something 
+
+
+
+Make your voice heard. 
+
+
+
+
+letters@ipfwcommunic3tor.org 
+
+
+
+Walb Union, Ste. 215 
+2101 Coliseum Blvd. 
+Fort Wayne. IN 46805 
+
+
+
+Utters to the Editor should be no more th 
+115 ol the Walb Student Union, or email tti 
+you/ email addict* (optional) This Information U 
+
+dais standing frf applicable) w 
+
+
+
+
+
+
+Lessons learned after second year at university ! Representation' felt 
+
+more acutely by 
+minority candidates 
+
+
+
+Casey at the Bat 
+
+Katie Casey 
+
+kecasey@Jpfwcommunicator.org 
+
+
+
+By the time this article is published you will be knee-deep ir 
+tests, papers and preparation for exams You have been pushed u 
+your limit and unforgiving professors, parents or other loved one; 
+show no sympathy. 
+
+Naturally, it's finals time. 
+
+I have witnessed the unraveling of the student body aftei 
+spending the greater part of the last two weeks of my life ir 
+the Walb computer lab. Between try- 
+ing to write an entire portfolio (thus, 
+an entire semester's worth of work) in 
+about one week and listening to the five 
+millionth person talk on his cell phone 
+in the "quiet" (note the use of quotation 
+marks) computer labs. I began to ques- 
+tion my sanity. 
+
+This Sunday things finally came to 
+a breaking point. I had begun 
+
+
+
+I have witnessed the unraveling of 
+
+the student body after spending 
+
+the greater part of the last two 
+
+weeks of my life in the Walb 
+
+computer lab. 
+
+
+
+vanished around 7:30 p.m., and I decid- 
+ed I needed a break. 1 looked out the window and noticed that the driving 
+sun was setting, and so I decided to talk a walk outside. there w 
+Walking past the student technology assistant asleep at the before t! 
+
+
+
+a sleep on the floor in the who v 
+
+
+
+desk, I wondered if it would be 
+
+Communicator office rather than drive the half hour back 
+
+For being 
+
+Tgroupsofstudentswereworriedly campus these first 
+
+s, 1 looked out the window and saw and even fool the s 
+
+■v and the parkin;.: K-naj.;*.- lonl-in;.; ,i iln-m 
+ilors of the sunset. I walked outside "This is iust al 
+
+wasn't a cell phone — or a portfolio, campus, 
+
+
+
+from the Wizards stadium. I never realized how quickly the sun 
+sets, but you really i..m just Maud tin.- re and watch it. 
+
+1 looked to my left ami niv right ,u tl»; thoroughfare between 
+Walb and the library. The cement is plain, worn and cracked in 
+many places, and the trees are still quite young. 
+
+But then I saw something i-Ke I U.ukrtl up and down the 
+thoroughfare, and suddenly ii wasn't freezing cold and nearly 
+
+dusk. U was summer, and I saw myself 
+
+walking to Spanish class. I looked the 
+other way and it was late winter. 1 was 
+running to Walb alter 1 realized I hail led 
+my homework in the Communicator 
+office. In another memory, I was skip- 
+ping back to Walb after acing a test, 
+
+A hundred other memories passed 
+through my mind as 1 looked at the 
+homely surroundings. 
+
+I turned around again and I saw 
+
+the dorms — I mean, the student hous- 
+ing—in the distance. I remembered 
+work everyday as they were being built, amazed that 
+Id be students who would never know the campus 
+housing was built. 1 thought about all of the students 
+I come after me, who would stand right were I was and 
+
+
+
+In the hallway, where otht 
+discussing their upcoming test 
+the sky pink, orange and yellow 
+lesser shade of ugly with the cc 
+and took a deep breath. There 
+for that matter— in sight. 
+
+The campus 
+
+snow that we had received the day before, the rain and the 
+
+had made the campus more brown than green, and there was a 
+harsh wind whipping across campus. 
+
+I walked around the area in front of Walb aimlessly for a 
+, looking at the trees, thinking about how silly the 
+
+
+
+student, 1 have practically lived on 
+ars. 1 have managed to pass my classes 
+newspaper into thinking I can write for 
+
+
+
+
+
+
+s empty and freezing cold from the April 
+
+
+
+a Sunday night under a cloudy 
+
+fc myself 
+
+
+
+Mastodon looked, wondering if the library is going to put a hold 
+my grades because I haven't turned in any of the books I checked 
+
+out a month ago. look I 
+
+I finally came to stop next to the Classroom Medical building, the s? 
+
+facing west and watching the sun slide out of the sky. As the sky gone a lot farther than you think, 
+grew less light and the trees blacker, I could make out the lights Congratulations to the grad 
+
+
+
+I had finally arrived, late 
+sky. Somehow it was fining. 
+
+I started to trudge back to the student un 
+back in the computer lab for the rest of eternity. 
+
+the wind didn't feel so cold anymore. 
+running for classes and going to the 
+campus and remember how many 
+
+
+
+This week, between 
+library, stand somewhere 
+
+times you have passed the same way before. Even though it may 
+
+look like the same old campus with the same drab buildings and 
+
+chances are that if you think about it, you've 
+
+
+
+s of 2005. 
+
+
+
+Basketball skills mean nothing at dunk tank 
+
+
+
+Vance's Views 
+
+By Dan Vance 
+dvance@ipfwcomn 
+
+
+
+
+
+
+Like a pair of my coworkers, I was 
+afforded the opportunity last Wednesday 
+to appear in a dunk tank as part of SAB's 
+Spring Fling week.' 
+
+Fortunately for myself and our sports 
+editor Anthony Maurer, few of the athletes 
+knew that either of 
+ment. If so, I believe th; 
+found ourselves in that frigid water much 
+
+Not to say that I didn't encounter my 
+fair share of athletes along the way. But, 
+let's just say that some Softball pitchers 
+(yeah, you Kady Elliot) had to use measures 
+other than their pitches to dunk me. 
+
+Speaking of college pitchers, is it really 
+fair that Adam Gibson, one of the baseball 
+team's fireballers, got to stand within 15 
+feet while throwing strikes at the target? I 
+
+
+
+o take its shot, i 
+of'lPFW athletics' new faces that made n 
+dunk tank experience memorable. 
+
+It was around halfway into my time 
+
+
+
+the tank when head n 
+Dane Fife made his v. 
+knoll for his opportunity at yours truly. 
+
+At that point I thought twice about But on throw number 30, 1 went down 
+
+walking to Gates and trying to get Coach like Duke in the NCAA tournament. Call it 
+
+Fife over to dunk Tony earlier in the day. retribution, il you will, but Coach Fife put 
+
+After all, had I not mentioned a dunk lank mr dov.n in llie tro/en w.m-v-. ,,\ that dunk 
+
+' him, he wouldn't have been there to get tank And it pit-tn well miked 
+
+e nearly half an hour later. At leasi he had -.onie eonlnleut e \&gt;,u !■ 
+
+
+
+as a highly recruited high school quarter- three 
+
+back. I guess it 
+
+and took up, as that should be indicative of what 
+
+
+
+kind of coach he will I 
+
+
+
+t basketball 
+
+
+
+So Fife took a lc 
+his first shot — O-for-l.Thenhe look 
+er — O-for-2. Finally, he took 
+0-for-3. But as the numbers go, victory 
+
+I felt bad, really I did. On the other belonged to me. On that warm day, nus- 
+hand, 1 was just glad to stay a little dry. But, tied firmly between Neff and Classroom 
+in the true spirit of competition, Coach Fife Medical, mighty Dane was Mr. 4-of-53. 
+didn't give up. He took another three shots, Maybe Fife will step into one of those 
+
+or should I say another three misses. 
+
+A good five minutes later, there \ 
+still were face to face (so to speak). I w 
+
+
+
+t least I got this colui 
+
+
+
+For the Write Reason 
+
+By Katie Pruitt 
+
+
+
+was Ireleounted In 2004. politi- 
+cal analysts the nation over 
+turned iheii attention to 2008, 
+and the possibility of a viable "Why don' 
+
+
+
+do this?" 
+
+When men go crazy and 
+
+carefully-managed 
+
+sniper sprees, news analysts 
+
+
+
+female presidential candidate 
+
+In the ensuing weeks, one 
+obvious name— Sen. Hillary don't say, "Men i 
+
+Clinton (D-New ble — what do you expect?" Or, 
+depressed. You know 
+l suffer from depres- 
+
+
+
+YorkJ— wi 
+
+a couple less In-your-face pos- 
+sibilities in Secretary of State 
+
+
+
+treated as Indl- 
+duals, responsible only to 
+perhaps their 
+
+
+
+Condoleezza Rice and Rep. 
+
+Niincy ivIom (I) California), 
+
+Wliile the weather in Southeast themscives 
+
+Asia, the elections in Iraq, Terr! mothers but 
+
+Schiavo's ordeal and the death gender. 
+
+of Pope John Paul 11 have con- It has been suggested In 
+
+sumed the news so far in 2005, some of my women's studies 
+
+the 2008 primaries remain just classes that Busklrk lost the 
+
+three years away. election because women don't 
+
+If the 200B election gives support each other, 
+the U.S. its first woman presi- I believe that women want 
+
+dent, the pressure surround- to support other women and 
+ing (he already intense position that we want to see women In 
+eoukl he crippling. power, but we're too conscious 
+
+No one blames President of the pressure and the repre- 
+'"" sentatlvc spotlight that would 
+inevitably follow the obtaining 
+ol any kind of power. 
+
+Each little error In judg- 
+ment she commits and each 
+s performance is mistake she makes— large and 
+
+
+
+inevitably 
+in light 
+
+
+
+small — and 
+every time 
+
+
+
+Men are treated as 
+
+individuals, responsible 
+
+only to themselves and 
+
+perhaps their mothers but 
+
+never to an entire gender. 
+
+
+
+I voted was lort Wayne's 1999 makes 1 
+
+mayoral race — the first contest not a type. 
+
+between Graham Richard and As far as 2008 goes, I feel 
+
+I inda Buskirk like Hillary Clinton could ban 
+
+
+
+of the nmlon, 
+
+
+
+Making friends abroad: more than it seems 
+
+Subtitles 
+
+
+
+o i asioutvotes, . stamped on the lii'.t ■ivumnn 
+
+M\ r„s, „,„„,, was ,„ p,*iL,,p 
+vote lor the woman, to support history, 
+my gender and the idea that Am I a poor feminist 
+women are as capable as men. because I would vote for Sen. 
+But Richard more adequately John McCain over Clinton 
+represented my political ideas, (never mind the party flip- 
+such as they were at age 18. flopping that choice implies)? 
+
+In the end I couldn't vote Feminism, like any other serl- 
+
+based on a trait neither candi- ous ideology, carries with It a 
+
+date had any control over, but responsibility to be open, 
+more importantly I couldn't risk 
+Buskirk running Fort Wayne as 
+a representative of my gender. 
+
+I didn't want the job I 
+feared she would do to be asso- 
+ciated with me in any way. 
+
+By the time 2003 arrived, 
+
+my personal political ideology from narrow-mindedness, 
+had developed, and Buskirk's While women may not 
+
+behavior during the course of be a minority as far as the 
+
+the second campaign made me American population goes, they 
+
+glad 1 hadn't voted for her the are a minority among elected 
+
+first time. officials. 
+
+Even though 1 was trying Therefore, each woman 
+
+to think of Richard anil buskirk elected to office, whether she 
+
+as individuals, I couldn't help accepts the role or not, is a rep- 
+
+but be a little ashamed of the resentative, not just of her party 
+
+way she was representing my and not just of her district, but 
+
+gender. of her gender. 
+
+
+
+it? 
+
+red 
+
+
+mining our position, how 
+we know IF we need to alter 
+
+
+Gender-based voting 
+ects a slngle-mlndedness 
+
+derived from feminism but 
+
+
+
+"You're very handsome," he said and smiled. Most Karaoke machine. 
+Korean friendships between men come off vaguely homoerotic "You have to sing," he said. "In Korea, when a younger 
+
+despite the fact that most Koreans deny that homosexuality exists man meets an older man for the first time, he's supposed to sing 
+
+in Korea. "My whole life, I just wished that someone would tell me for him." Again, it's Korea, 
+that— that I'm very handsome." I told him that I'd try to sing later and put it off as long as 
+
+"Alright, you're very handsome," I said. I'm pretty used to I could. I did eventually get roped into it a few hours later, but it 
+
+this stuff by now, doesn't even faze me. took a lot of beer before I got to that point. This was after the point 
+
+"Oh," he said and smiled big, "then I'm buying dinner that he told me that I was, in fact, "good at drinking. " 
+tonight." He patted me on the shoulder and drove all the i ' 
+
+
+
+the way to the restaurant with a smile c 
+his face. 
+
+"I'm not a gangster," he said out 
+of no where. "Many people when the first 
+
+
+
+1 le u 
+
+
+
+Milk Milk was the name Of the aboul Buddhism and offered to take n 
+
+"Do you know Jang?" he a 
+for the second time that night. 
+
+
+
+bar. Korean bars often have 
+weird names like that. 
+
+
+
+i the Korean Mafia. He's a short, " "" " = 
+
+stocky Korean man with his short hair 
+slicked and shining like patent leather. All he needed was a tattoo 
+of a dragon, and he would have been set. 
+
+But then again, he was one of my students' parents, and 
+
+
+
+
+
+
+i word that doesn't 
+English equivalent, but 
+friendship without 
+
+
+
+she always said that he taught English. He confirmed this for 
+
+"I teach English, but my speaking isn't so good. I mostly 
+work with kids on grammar." His speaking was fine. 
+
+During the course of the evening, I heard him speak Korean, 
+English, Japanese, and Chinese. He was doing okay for himself 
+language wise. but I have oniy three real friends. One is a doctor, ana tv 
+
+During dinner, he confessed. "1 was a gangster for a few gangsters. I think that real friends are what is important." 
+years. Not too long, lust while I was in high school. But I quit He ordered another round of drinks and invited 
+
+when I met my wife." This was the first of three explanations of girls to drink with us. "Have you ever been to Jeju Island?" he 
+why he quit the Mafia. The other two were his mother and finding asked. I hadn* 
+
+
+
+expecting anything from the other person. "Unselfish friendship" 
+I guess would be a close translation. 
+
+Since he had already explained this to me earlier in the eve- 
+ning, I said yes, I knew. 
+
+"I have a lot of jang," he said. "I have many friends. Many 
+are very.. .what do you say in English?...they are very white collar. 
+fudges, and lawyers, and doctors. 
+
+But many of my friends are gangsters. I have many friends, 
+
+
+
+Buddhism. 
+
+
+
+"Are you good at drinking," he asked v 
+
+
+
+e left t 
+
+
+
+"I don't know. I guess so." 
+
+"I hope you're good at drinking." 
+
+Milk Milk was the name of the 
+
+ird names like that. 
+
+len we pulled into the bar, he 
+
+
+
+e." He let r 
+another island a few mi 
+English teacher. 
+
+
+
+; there. You should c 
+; know that he had another cottage o 
+
+
+
+s later. He was very well-off for 
+
+
+
+the morning, he invited me back to his 
+house and showed me his artwork collection, 
+bars often He was quick to quote the prices quietly to me, as though it 
+
+were a secret he was keeping from his wife in the other room— the 
+hanging up from the first only other person that could possibly be able to hear. 
+
+
+
+The hostess at the bar, which was very quiet for a Korean food, if you're lonely, if you need anything you call n 
+
+r, seemed to recognize him when we walked in and immediately me, and I can get you anything." 
+:orted us to a private room at the back of the bar. 1 left his house at about two thirty after a very expensivi 
+
+The room had a huge conference table and, oddly, a evening. I had made a new friend. 
+
+
+
+Editorial Policy 
+
+Editorials are the opinions of The Communicator. 
+The opinions expressed do not necessarily reflect the 
+views of 1PFW, its employees or its student body. A 
+column is solely the opinion of its author. 
+
+The Communicator welcomes responses, Let- 
+ters to the Editor must be signed, dated and accom- 
+panied by a current address, telephone number and 
+class standing/major or title (if applicable). Letters not 
+meeting these requirements will not be considered for 
+publication. All submissions made via email will be 
+verified by telephone or in person. Addresses and tele- 
+phone numbers will not be published. 
+
+Submissions must be typed, and no more than 
+700 words. The editorial board of The Communicator 
+reserved the right to edit all submissions for length, 
+grammar, style, and clarity. Letters deemed potentially 
+libelous by the editorial board will not be published 
+under any circumstances. 
+
+
+
+PLEASE RECYCLE 
+THIS NEWSPAPER! 
+
+
+
+THEGmVUNIOUOK 
+
+
+
+
+
+
+Arts 
+
+
+
+assembling 
+
+^arts 
+
+
+
+i preview of IPFW's literary magazine 
+
+
+
+The Spring 2005 issue of Conflu- 
+ence, IPFW's Literary magazine, will 
+be available for sale starting May 2 
+in CM 145 for one dollar, with addi- 
+tional copies for $3 each. 
+
+The magazine, published yearly 
+on campus, showcases the written 
+word and captured images of its 
+artistic students. 
+
+Students whose submitted writ- 
+ings will be published in the maga- 
+zine will have the chance to read 
+their short stories and poems. 
+
+Editor Sarah Sandman explains, 
+"this issue seems to concentrate on 
+the human condition and how it 
+responds to death/absence and rela- 
+tionships—many of the pieces pres- 
+ent characters who are being forced 
+to look human fraility in the face." 
+
+Sandman hopes that Conflu- 
+ence continues to grow and gain 
+recognition in the area, 
+
+
+
+
+"This is the first year that we 
+saught sponsors outside of the typi- 
+cal academic departments. I would 
+love to have local businesses and art 
+venues sponsoring the magazine so 
+as to allow the magazine to grow. " 
+
+
+
+Why does it take so'-^ 
+che w a damn carrot st.ck. 
+The phone rang. 
+
+Hel,0? u -..♦•&gt; 
+Walter Schmidt? 
+
+You have ten minutes to 
+
+live. 
+
+-Gaither Stephens _ 
+"Ten Minxes to Live 
+Unlike an early orange, 
+lr k eatamarmd.ther,nd 
+
+out from underneatn c 
+
+-Sarah Jane Gaines 
+"Marriage of Ufe and Death 
+
+
+
+"rain than have that littl. rfi» y 
+
+-Rosemary S. Imrick 
+
+"Musings of a Distressed 
+Camp Counselor" 
+
+
+
+Student-produced 'anti-show' aims to draw attention to world events 
+
+
+
+its development here on campus. As a stu 
+dent, he (and any other student) is able fc 
+udios and editing equipment fc 
+
+
+
+It is the "anti-show," according to its 
+producer, it reports on the Biblical im- 
+plications of microchip implants, toxic 
+chemicals produced from cloud seeding, 
+the secrets behind 9/ 1 1 and the Illuminati. 
+And it has a musical showcase. 
+
+All of these elements make up the 
+
+
+
+sent things you would not see" in regula 
+broadcast television, said Hornberger. 
+
+The program opens with the sound 
+of a gong and a psychedelic, mirror-like 
+depiction of Hornberger, long blond hair 
+flying as he bobs his head and the image 
+spins on screen. After such an experimen- 
+tal opening credits, the 
+
+
+
+talk show host would. 
+
+From behind a desk covered with 
+macrameand Indian blankets, Hornberger 
+interviews guests from such places as the 
+Catalpa Tree shop la metaphysical store), 
+and mode rales discussion between his 
+"cronies" whom he brought to the show, 
+he explained. 
+
+The show also has faux commer- 
+cials from other students. One such com- 
+mercial was for "|TT Cheese," a spoof 
+poking fun a1 Jonathan Taylor Thomas. 
+
+
+
+Cookie Monster eating 
+fewer cookies to combat 
+child obesity epidemic 
+
+
+
+By liana Weinberg 
+
+
+
+(U-WIHE) WASHINGTON 
+
+
+
+keepingwiththenewtheme, "Grovercise" and lessons c 
+eachepisodenowopenswith personal hygiene and ge 
+a health tip. New characters, ting a good night's sleep. 
+
+
+
+fewer cookies, and his Inter- 
+net home page now features 
+"healthy habits" 
+
+
+
+"The preschool years 
+
+
+
+icluring the familiar blue, 
+
+HIV monster eating -- an 
+
+)ple? Yes, "Sesame Street" 
+
+l its 36th season last 
+
+featuring a segment 
+
+
+
+app 
+
+
+
+obesity rates in America, new initiative and 
+
+Cookie Monsiei has decided tioning to a healthier, more 
+
+to lay off the cookies for a well-balanced diet. But don't 
+
+bit. He's not going on a diet, worry, he's not giving up his 
+
+per se, but he is advocating cookies altogether. 
+
+a healthier eating style. His "We are not putting 
+
+new song, replacing the fa- him on a diet, and we would 
+
+
+
+and Clinton discussing the 
+
+
+
+
+
+
+differ 
+
+
+
+the trusted characters of 
+'Sesame Street' with the re- 
+spected voices of more than 
+
+
+
+es that "a cookie is a some- 
+times food." 
+
+Rosemarie Truglio, the 
+show's vice president of re- 
+search and education, em- 
+phasized the need to teach 
+children about healthy eat- 
+ing habits and physical ex- 
+
+
+
+healthy hah 
+
+
+
+i of embracini 
+
+its for life 
+
+» with children and 
+
+adults alike," said Sesame 
+
+' cookies that stray from Workshop President and 
+
+J chocolate CEO Gary Knell in a recent 
+
+
+
+Cookie's new eating 
+n will include fruits and 
+i, but also "health- 
+
+
+
+YOUR AD HERE 
+
+
+
+Contact Aiden Bordner 
+at IPSN Advertising at: 
+481-6584 
+
+
+
+the Chamber ol ( Commerce." 
+
+Hornberger pointed out that he wants 
+to use such ironic elements in order to get 
+
+
+
+More than a dozen 
+taped public 
+
+messages with "Ses- 
+
+
+
+habits. Recent data reflect eluding nutrition, to fitness 
+both the immediate and and personal hygiene. Par- 
+long-term consequences sicipants include such high- 
+of poor dietary behaviors," profile politicians as Hillary 
+said a recent press release Rodham Clinton (D-NY). 
+for its new health initiative from the Sesame Workshop Bill Frist (R-TN) and Christo- 
+at i he beginning of each epi- Company. pher Dodd (D-CT). In fact, a 
+sode. Cookie Monster is the recent episode featured Frist 
+the rising child leading man behind this jumping up and down with 
+
+
+
+aid. characterizing i 
+
+
+
+the editing (breach episode lakes between 
+
+
+
+in Keitlei Rumi! d-Jiv 
+
+
+
+Make a 
+
+
+Difference. 
+
+
+Every semester, all editorial positions 
+
+
+Positions Include: Copy Editor 
+
+
+at The Communicator open. We are 
+
+
+News Editor 
+
+
+looking for well-spoken people who 
+
+
+Photo Editor 
+
+
+are good with words and images. 
+
+
+Sports Editor 
+
+
+have an excellent sense of ethics and 
+
+
+Arts Editor 
+
+
+judgement and possess the ability 
+
+
+Page Designer 
+
+
+to manage a staff and enforce 
+
+
+Chief Reporter 
+
+
+deadlines. 
+
+
+
+
+
+
+Call 481-6584, or email contact©ipfwcommunieator. 
+
+
+Previous news experience is not 
+
+
+org for any questions. 
+
+
+necessary, but preferred. 
+
+
+Stop by Walb 215 to pick up an application today! 
+
+
+
+BEST LOCATION. 
+LOWEST RENT. 
+PERIOD. 
+
+
+
+
+1 Month 
+FREE rent 
+
+
+
+$25 monthly discount for 
+GPA of 3.0 or higher! 
+
+
+
+Village Green Apartments 
+
+
+
+Call Now 492-9272 Leasing Today! 
+
+Check us out online @ www.apartments.com/villagegreenftw 
+
+
+
+STUDENTS: GET DISCOUNTED 
+TICKETS WITH YOUR STUDENT ID! 
+
+
+
+
+3 updated annually t 
+add bits of new information or 
+tocorreci minor typos, students 
+should also ask instructors ifan 
+older edition will work for the 
+class or if the "extras" (i.e.CD- 
+rtOMS, tab manuals, etc.) are 
+required. Many times students 
+pay for supplemental items and 
+
+"We are conditioned as 
+students to think we have lo 
+make monetary transactions: 
+everything doesn't have lo be 
+measured against the dollar,' 1 
+said Brown. "There are many 
+creative possibilities such as 
+exchanging books for notes and 
+trading books." 
+
+Thebottomlincisihatstu- 
+dents set their own conditions 
+at the campus book exchange. 
+The campus book exchange 
+will be held at the Grassy Knoll 
+(between Neff and CM build- 
+ings) on Thursday and Friday 
+May 5 and 6 from 10 a 
+
+
+
+call 40 1-6924. 
+
+According lo a 2005 sur- 
+vey conducted by the State 
+of California's Student Public 
+Interest Research Group, the 
+average American college stu- 
+dent spends nearly S!)00 a year 
+on textbooks. The good news Is 
+that you don't have to be count- 
+ed among the average, If you 
+attend this year's campus book 
+exchange. 
+
+The 1PFW Honors Student 
+Group is determined to allevi- 
+ate the burden of high textbook 
+expenses by holding a campus 
+book exchange where students 
+can set their own prices, but 
+student attendance is needed 
+for it to be a success. 
+
+"It's kind of a grand ex- 
+periment," said Ryan Brown, 
+president of the Honors Stu- 
+dent Group at IPFW. "If the de- 
+mand and response is good this 
+will probably become a rccur- 
+
+
+
+smdenls have an inexpensive 
+option to buying their books 
+from the bookstore. A high stu- 
+dent turnout also means that 
+students will have a large selec- 
+
+
+
+your friends and classmates t&lt; 
+attend." 
+
+Students are encouraged 
+to bring the books they wish 
+to sell or trade, as well as a list 
+of the books they will need. A 
+contact sheet will be available 
+for students to leave their con- 
+tact information regarding the 
+books they need and the books 
+they wish to sell or trade. For 
+students who cannot attend ei- 
+ther day, they can forward their 
+book lists, prices and contact 
+information to honrstul@ipfw. 
+edu where a webpa^e will soon 
+be made available for students 
+to exchange their books. 
+
+For the exchange to work 
+properly, attendees will need a 
+copy of their class schedules. 
+The book exchange will have 
+copies of required books for 
+some classes, but the list will 
+not be exhaustive. 
+
+To get die books needed 
+for upcoming s 
+
+
+
+■ updated annually i 
+
+
+
+ROMS, lab manuals, etc.) are 
+required. Many times students 
+pay for supplemental items and 
+
+"We are conditioned as 
+students to think we have to 
+make monetary transactions: 
+everything doesn't have to be 
+measured against the dollar," 
+said Brown. "There are many 
+creative possibilities such as 
+exchanging books for notes and 
+trading books. " 
+
+The bottom line is that stu- 
+dents set their own conditions 
+at the campus book exchange. 
+The campus book exchange 
+will be held at the Grassy Knoll 
+(between Neff and CM build- 
+ings) on Thursday and Friday 
+May 5 and 6 from 10 a.m. to 2 
+p.m. A rain date is scheduled for 
+Saturday, May 3 from 1 1 a.m. to 
+3 p.m. For more information 
+contact honrstul@ipfw.edu or 
+
+
+
+The Communicator 
+staff wishes you 
+a happy summer 
+
+break! 
+
+
+
+
+Thi-Gwimi'nu.mur 
+
+
+
+Sports 
+
+
+
+
+Fife completes hirings 
+
+
+
+The men's basketball coaching staff has been 
+
+completed with the edition of leu nai tie Kimbrough as 
+an assistant coach. F-asi season. Kimbrough served as 
+an assistant at the University of Massachusetts, it was 
+his first with the Minutemen. 
+
+"Jermaine brings energy, intelligence and integ- 
+rity to the program I ie played at the top level s 
+
+Fife. 
+
+Before embarking on his coaching career. 
+Kimbrough played at Virginia lech starting in the 
+1998-1999 season. The guard averaged 3.1 points per 
+game in his first year .u Virginia lech. He also played 
+college basketball at Saint Catherine Junior College 
+and Neosho Community College. 
+
+Kimbrough was recommended to Fife by Donnle 
+
+
+
+mbrough applied for a 
+Fife learned more about him during coaching meet- 
+ings during the weekend ul the Final Four in St. Louis, 
+Missouri. 
+
+Prior to joining the staff of former 
+coach Steve Lapp. is. kin through spent 
+
+
+
+, lime 
+
+
+
+-. Fife 
+
+
+
+According to Fife, the Indiana headman said 
+Kimbrough "would be a great Ik and a great addition 
+because he is a good guy." 
+
+
+
+In his first season at 1 toward, the I lawks record- 
+ed a 23-game win streak, including winning their 
+conference. Dunne, his time with various programs, 
+Kimbrough served as a recruiter, academic liaison, 
+scouting, tape exchange and team travel among oth- 
+
+"I think a little bit of everything." said associate 
+head coach left' lungate ot what prompted brining 
+Kimbrough into the program "Having played at the 
+
+
+
+IPFW inks first Fife recruit 
+
+lakari Johnson of Ottawa Hills High School in 
+Grand Rapids, Michigan lias signed a letter of intent 
+to play for coach Dane Fife and the Mastodons during 
+the 2ti0;j-2006 season. 
+
+Johnson, a 6-foot-3 shooting guard, is the first 
+recruit signed by Fife since being named head coach. 
+During his senior season. Johnson averaged 22 points. 
+
+
+
+* « s* 
+
+
+AT 
+
+
+
+4/27-5/3 
+
+
+
+Wed. 27 ■ Western Michigan 
+O Wizards Stadium, 
+
+S:00PM(OH) 
+Sat. 30 ■ ■ ' Bowling Green. 
+
+IflOPMIDH) 
+Sun.1 ■ ©BowJIng Green. 
+
+12tt)PM{DH) 
+
+EEXEE^M*- 
+
+
+
+COACH: New coach Jermaine Kimbrough 
+(right) talks with Assistant Coach Joel Cot- 
+ton last Saturday at the volleyball match. 
+
+six assists, four steals and three rebounds for the 
+Bengals. 
+
+"lakari is a guy that I didn't need to see niticli in 
+order to figure oui if he mold pi, iv What intrigued me 
+most is that he has a great steal and great instincts for 
+
+► STAFF: Page 82 
+
+
+
+
+Wed. 27 ■ O Michigan Statu, 
+3:00 PM |DH) 
+Thur 28 ■ Toledo, 
+
+
+
+Sometimes 
+it takes five 
+
+Tiger's Pen 
+
+By Anthony Maurer 
+
+tmaurer@ipfwcommunicator.or9 
+
+
+
+The IPFW men's volleyball 
+team faced off against Findlay 
+Saturday night, it was a game 
+
+
+
+for Mastodon fans 
+and foes alike. 
+
+Arnie's army has endured 
+one of their rougher seasons to 
+date, going 11-16 in the regu- 
+lar season, and losing an emo- 
+tional roUercoasteragainslQhto 
+State in five games. I'nfifcriost 
+positive head coach Arme Ball 
+has popped a few aspirins this 
+season, because it has Ijeen 
+nothing short of a headache for 
+the 4th all time highest winning 
+coach in NCAA men's volley- 
+ball. 
+
+The Mastodons have been 
+up and down all year. They 
+opened up with a win against 
+Juniata, but lost their next three 
+matches, including a conference 
+loss to Lewis in five games. 
+
+Then, they picked up three 
+straight MIVA victories, includ- 
+ing two straight 3-1 matches 
+against Findlay. The Mastodons 
+split their 
+
+
+
+Loyola-Chicago and a three 
+game sweep of Me rcy hurst. 
+
+The next seven matches 
+IPFW go 3-4 heading 
+
+
+
+to California 
+
+Mastodons, who lost all four 
+
+of their matches in the invita- 
+
+Perhaps such a midseason 
+12) wouldn't be a 
+, but considerinf 
+i started off last 
+son at 10-2, there was much 
+to worry about. Last year, the 
+Mastodons finished the season 
+14-lland 12-4 in MIVA play. 
+
+It didn't appear that Coach 
+Ball was unaware of the strug- 
+gles his team was going through. 
+There were various lineup 
+changes, including switches at 
+the setter and libero position. 
+
+
+
+I up after t 
+
+
+
+
+
+
+► TIGER'S PEN: Page 83 
+
+
+
+IPFW survives and advances 
+
+
+
+
+IPFW bounced back after a heartbreaker against Ohio State 
+to knock Findlay out of the MIVA Tournament in five games 
+
+
+
+In game three, junior Mikeluig.irni 
+the lineup at setter lor Mike H.mdnlph am 
+Mastodons jumped out to an early 3-0 
+But, the Oilers came chargitifi hack and e 
+tually took a Five point advantage .11 22-1 
+
+
+
+Jones / bjonesijSipfwcomiminicator .org 
+
+
+
+HAMMER: Team captain Matt ZbyszewsM, shown 
+against Northridge, recorded 26 kills Saturday night. 
+
+
+
+The MIVA Tournament started this past 
+weekend with IF! VV knot king Findlay out of 
+the bracket, 3-2. 
+
+The Mastodons got off to strong start, 
+stumbled in lite middle and rallied hack at 
+the end of the match. IPFW picked up the 
+win in five games, 30-21, 24-30, 22-30, 30-22 
+
+"I am just glad to have won," said coach 
+
+Amie Hall "It gives u a chain e to mi and play 
+again. I am real pleased with what we did 
+when we were down 2 to I." 
+
+Senior Matt Zbyszewski led the volley- 
+ball men early in (lie first game with five of 
+his match hijiti 26 kills. I he Mastodons got off 
+loan early 10-2 lead The Oilers ^ol within si\ 
+points at 24-111 before IPFW pulled away for 
+good in the first game. 
+
+In game two, the teams battled back in 
+forth in the early going. Up 12-10, Findlay 
+started to pull away going on a 4-2 run to put 
+some room between them and Hall's squad. 
+
+IPFW stayed in contention in the later 
+part of the game, but a kill front Findlay hit- 
+ter lim D/ic/.kowski off a Chris Keen set put 
+the Oilers hack up 26-20 and sent them into a 
+game two victory. 
+
+Dziczkowski picked up 10 kills on the 
+night, the third highest total on the team. 
+Corey 01 i 
+
+
+
+£ 
+
+
+
+Itall took a timeout in 
+an attempt to stop the 
+run of Findlay. I he 
+Mastodons managed a 
+few more points, hut a 
+Zhys/ewski attack error 
+allowed the Oilers to 
+pick up the 22-30 win. 
+
+Between games 
+three and four, junior 
+
+in entered the contest, replacing 
+
+i at the libero position. 
+Randolph's thur 
+
+
+
+Another close game came around in 
+the fourth with Findlay pulling ahead by as 
+many as four points at 8-4. But once again, 
+the Mastodons rallied hack, pulling ahead for 
+good with the match, 9-8, on a kill by fresh- 
+man li.ock Ullrich. 
+
+The first play of die game was disputed 
+by both sides, leading to a yellow card sanc- 
+tion being given to junior Serdar Sikca. The 
+penalty gave Findlay an early 1-0 lead. 
+
+Sikca, a starting middle hitter, picked up 
+
+
+
+► MIVA: Page 82 
+
+
+
+Mastodons prepare to face Loyola 
+
+
+
+With IPFW's win last Friday over Findlay, the 
+Mastodons will now advance to die sem- finals of the 
+MIVA tournament. 
+
+The Oilers were seeded tilth in die tournament, 
+where as 1 PIVV is seeded first. Now, coach Arnie Ball's 
+squad will face off with the No. 1 seeded Loyola- 
+Chicago. 1 he Ramblers currently sit at 26-2, with only 
+
+
+
+Ball's team pit ked up the win with a slightly dif- 
+ferent lineup, including jerrod Quillen. Mike Daiga 
+and Nick Belman came in mid-match as the setter 
+and libero spots. Sophomore fosli Collins also came 
+in off the bench at outside hitter. 
+
+However, Ball is unsure of the lineup come 
+Friday night. 
+
+"All of that depends on practice. Jerrod Quillen 
+Started Saturday because he had a really great week 
+of practice. We just look .u practice and see what is 
+the best combo come Friday," said Ball of his plan for 
+the Ramblers. 
+
+"It's got to be a nice luxury to have as a coach to 
+be able to bring people in and get some good results 
+
+
+
+to happen. Nick (Belman) did a great job and he's 
+done a ureal job the last time he came in." said Daiga 
+"As far as just a winning standpoint, which is all that 
+matters, when you have a bench that you can go to 
+anil get results, that's awesome." 
+
+Last Friday night, Loyola soundly defeated 
+Clarke 30-16, 30-22 and :)0-2:i. I he Hamblers were 
+victorious in both meetings with IPFW this year, but 
+each match went to five full games. 
+
+Ohio Slate and Hall state will play in the other 
+MIVA semi-final, with the winner lacing the winner 
+of Loyola/IPFW on Saturday night, all on the campus 
+
+
+
+► LOYOLA: Page 82 
+
+
+
+
+Baseball fights through harsh weather 
+
+
+
+v 
+
+
+
+J 
+
+
+
+* m 
+
+
+
+The Falcons left two on in the first and scored no runs on 
+one hit. Ryan Keena, who is tanked nationally for his hit by pitch 
+average, led off the game gelling heaned, and advancing to second 
+
+
+
+Photo by Chad Ryan / cryan@ipfwcc 
+
+
+
+tor.org Keena steinbach v 
+
+Fowler lined out to short for the second 
+
+CLOSER: Sophomore Adam Gibson picked up the looking, striking out to retire the side. 
+
+save in the win over Bowling Green last Tuesday. The Falcons jumped ahead with a 
+
+
+
+the lead in the second. IPFW also chipped in two runs in the bot- 
+tom of the inning, courtesy of a Keena single to left field. BGSU 
+hit another round tripper in the third to tie up the score at three. 
+IPFW's bats were silent in the bottom of the inning, and the score 
+remained locked at three going into the fourth. 
+
+IPFW kept the I alums quiet in the fourth, not even allowing 
+a hit, and came up in the bottom of the inning to again he aided 
+by two RBI courtesy oi Hyan Keena. Keena real lied on a fielder's 
+choice, scoring Al wine and WaJton. 
+
+BGSU scored two runs on three lots In the fifth inning and 
+retired the side easily in the bottom of the inning, leaving the 
+score tied up at five. The sixth inning was more productive for the 
+Falcons, who scored another five runs on four hits and one error. 
+The Mastodons failed to answer in the bottom of the inning, only 
+reaching on an error at shortstop. 
+
+Bowling Green extended its lead with two more runs in the 
+seventh, but IPFW answered with four runs of their own. The top 
+
+► BASEBALL: Page 83 
+
+
+
+[Jjj-TT' 
+
+
+
+^23 
+
+
+
+Part of the new wave 
+
+■ One of five freshmen on the 2005 squad. Brock Ullrich is helping IPFW volleyball expand its legacy 
+
+
+
+plan fin Bn.t k IJIIru h Years later and almost 2UU 
+miles away, Ullrich is umv .j freshman outside- 
+fuller, consistently starling fur IITW's Mastodon 
+volleyball (earn unclrr le-iiftuJ.iry toijeh Arnie 
+Ball Ullrich was raised in suburban Wirilicld. 
+Illinois— iusi ."{[) minutes outside of Chicago, 
+
+"It was pretty much (ml run around, play 
+kick the can, build forts— -just theiypkal hanging 
+around the neighborhood as .1 kid," said I Jltrich 
+Volleyball became an option fot the firs! 
+time as a high si bun] freshman and was an idea 
+hosted by Ullrich's mother. She iold him that it 
+was worth a try due 10 bis growing height and 
+lack of a spring sporl One uf I he most important 
+points in Ullrich's volleyball 1 areer came in his 
+iirsl ye.tt playing club volleyball In that season, 
+Ullrich's team made il 10 the- (mid medal round 
+of the national tournament in Phoenix, Arizona 
+file (cam subsequently lost, hut the opportunity 
+thrust Ullrich into the club volleyball elite. At .1 
+tournament lor his club team during his senior 
+season, Ullrit h was approached by iihyen Maley. 
+former IPFW volleyball player and coach Ullrich 
+said that he had never heard of IPFW before 
+being approached by Staley. 
+
+Months later, Ullrich signed with IPFW 
+because be thought he had a belter opportu- 
+
+
+
+nity to improve with volleyball than with foot- 
+ball. UN rich plavcil font ball all lour years in high 
+school. After gradual ion. be was offered a chance 
+in play wide receiver at Division lis Quiju y, bul 
+turned it down 10 attend IPFW. With thai deci- 
+sion, Ullrich became part of the IPFW volleyball 
+legacy. "When I Brat heard of it (this historyl, I 
+leally didn't know mm h about it. But now, I know 
+a hunch of players w ho played here before, some 
+of the history, it's pretty ne.it to be a pari of it and 
+how we have so many players across the globe 
+and the fact that I was chosen to play here too 
+means a lot." 
+
+On Jan. T&gt;. Ullrich made his regular season 
+debut in a f-2 victory over litniaia I he freshman 
+started the match and recorded a single kill with 
+a pair of service aces. Since then, Ullrich has 
+played in all Jll matches, starting 21. "When 1 
+lirsi came in here. I Figured I would maybe be a 
+red-shirt, I never thought I won Id be able lo play 
+just because 1 am a freshman and I didn't have 
+as much experience," said Ullrich. "Now that 1 
+have been playing, it's been great. I didn't expect 
+anything, but now that 111,11 b gave me an oppor- 
+tunity, I've been glad thai I have been able to get 
+in there and try lo make a difference." 
+
+"Unorthodox," said Ball in one word 
+describing Ullrich "Because that is what he IS. 
+Hul he gets the job done so we don't mess with 
+him. He has progressed 10 the point that he 
+needs to be in there all of the time because of 
+how he handles the ball," However. Ullrich was 
+not alone in joining the ranks of the Mastodon 
+volleyball tradition Four other freshmen (Mike 
+
+
+
+Since, each has been a contributor in his 
+iwn way. While Morici.ai li hero, and Slew art start 
+egularly— McNerncy and Rogers have added 
+
+
+
+the whole initiation ilnng hiotigbi us logelber in 
+knowing lb, it we are all in this together." Ullrit h 
+says that he tries |&lt;&gt; look .K each day as a learn- 
+
+
+
+Mastodon squad that is hopin 
+mm opportunities. 
+
+It is that passion lor learning thai will also 
+
+
+
+
+hitter will try to put 
+his secondary education major to the lest. "I 
+really enjoyed the high school experience and 
+
+
+
+Bui, before I Hlin h 1 an embark on his hit 11 re 
+in the education world, be has three more years 
+as an IPFW volleyball player More importantly, 
+he hopes that be has three more weeks left as 
+a freshman as IPFW continues in postseason 
+play. Last Saturday, Ullrich recorded nine kills 
+
+
+
+and 1(1 digs in an MIVA ( (inference Tournament 
+quarterfinal win over Findl.iy. In bis First (areer 
+n match, be tied the Fifth game at 14- 
+
+
+
+"1 think (he biggest thing is closing mil 
+matches. The biggest thing we learned I. isi week- 
+end was closing mil a man ii We didn't close out 
+I oyola (earlier (bis season) and we should have 
+beat them. Same thing with Ohio State." 
+
+On April Ik the Masiodous heal Ohio Slate 
+in two Straight games before dropping the last 
+three to lose the match. The Buckeyes were 
+ranked 1 1th in the country at the time. 
+
+Loyola senior outside hitter Scott Greene, 
+the recently named MIVA Player of the Vear, aver- 
+aged 112 kills per game. Greene had 56 kills and 
+21 digs over two matches with the Mastodons 
+
+this year. 
+
+"Defense wins championships, that's 
+always been said We've been working like crazy 
+to improve our defense this year." said Daiga. 
+I he junior combined with bis team has 2-1 block 
+assisls and (luce -oto blocks ag.unsl Findlay. 
+
+"If you have confidence and you are the 
+underdog dials (rouble," concluded Daiga. "If I 
+was I oyola. I wuiildni want lo play us right now 
+
+
+
+,, three digs and two block 
+assists. One of those block assists came on the 
+match winning point. 
+
+"As long as we win. il really doesn'l 111aiier.it 
+all," said Daiga o! ihe rotating lineup "Winning 
+an MIVA tournament or winning the national 
+championship will he muih more exciting no 
+matter where you.are." 
+
+Not knowing if be will siarl or play against 
+Loyola doesn't get lo llaiga much As a leader lor 
+the team on and off the court, the junior plans to 
+make (he hesi of any situation II Daiga starts, il 
+will be only his second playoff siari ol his career 
+lie also started in last year's loss to Lewis. 
+
+"(I want to bring) unity and hopclully lead 
+ership in whatever way I can. I just hope whoever 
+is out there plays as hard as (hey can because 
+these years go last," mentioned Daiga with a him 
+
+
+
+Daiga appreciates opportunity 
+
+Junior Mike Daiga is very' thankful for the 
+opporiunity be has during this year's MIVA 
+Tournament It is Daiga's third MIVA Tournament 
+
+Daiga made his tournament debut 
+
+
+
+Zbyszewski and Sikca honored 
+
+Senior Malt /hys/ewski anil |unior Serdai 
+Sikca were named to the All MIVA Iirsl learn last 
+week. It was (he second straight year for both to 
+
+
+
+
+
+
+■ kill. 
+
+
+
+
+
+
+is and last year's quarterfinal loss tc 
+
+
+
+for Daiga. 
+
+"Winning a match like that is just a rush and 
+
+that's why most people play. I am just thanklul 
+thai t.od gave me ihe opportunity to be there." 
+
+Arnie Hall, in his 25th season, also helped 
+to a third Daiga a chance lo make an impact in 
+the win. Ball suhsntnted Daiga into the match 
+just before the third game for (he injured Mike 
+Randolph. 
+
+
+
+complete game shutout. Along ihe way, Connelly 
+stnick out five and walked two. 
+
+Jenna Beacby was die only IPFW player to 
+register a multiple bit game I'asquali, Johnson 
+and Green each bad a RBI in ihe victory. Megan 
+Carroll had two hits for the Crusaders. 
+
+On Monday, the third double header of 
+the week took place as Indiana lech made the 
+
+
+
+to give the Masiodous the victory in game one. 
+Natalie Clark and ISeaelw each homered in the 
+game. too. The Warriors out hit IPRV 11-10 
+
+
+
+1 1 kills on the night along with a team high nine 
+blocks. 
+
+"I thought we were much better (keeping 
+calm]. We (old Matty thai he had to get guys 
+together. 1 thought we handled that adversity 
+much better than we did the week before, said 
+
+
+
+from a pair of kills by Zbyszewski and 
+
+Findlay attack errors. 
+
+"1 think after a while, they just kind of let go 
+of the fourib game Which |iisi happens some- 
+nmes. I think Serdardid a great job ol pulling the 
+ball away. I sei bun all the time,' said Daiga. 
+
+The Oilers pulled away in the early pan of 
+game Five, taking an H-b lead before the teams 
+switched sides of the court for the remainder 
+of the fifth game. A Josh Stewart kill put the 
+Mastodons back at 10- 1 1 post switch. 
+
+A ball handling error by Daiga put the 
+I indJaj lead at 14-12 and gave a match point 1 
+
+
+
+during the regula: 
+
+Sikca stepped up as a valuable asset for the 
+Mastodons during the 211(5 campaign, leading 
+the team in blocks yvith 147. In addition, the 
+junior out of Turkey was ranked nationally most 
+
+of the year in h ig percentage. Me finished the 
+
+regular season ranked 2&lt;Kh in that category. He 
+is also ranked liltb nationally in blocking, yvith a 
+1.43 block/game average. 
+
+Zbyszewski is also ranked nationally, lead 
+by his number four ranking in kills per game. The 
+senior is also ranked ninth in aces and fourib in 
+points according to the NCAA and AVCA. 
+
+"It goes back to practice, those guys who 
+play more than others are only as good as the 
+
+
+
+in the contest. Harmon picked up the win to 
+improve to 8- 10 on the season. 
+
+In game two, IPFW only needed 10 hits, 
+
+including two each from Kan Boiler and Stone to 
+put away Indiana lech again, I'y l-ambcrt hom- 
+ered for the Mastodons. 
+
+Connelly, who has struggled in pans of the 
+season, improved her record to 6-15. She struck 
+out five, walking none in the complete game 
+shutout. 
+
+The 4-2 week makes the Mastodons 14-31 
+on the year, ihe team plays a double header a( 
+Michigan Stale today, then wraps up ils season 
+at home on April 28 with a double header against 
+
+
+
+night, lo let IPFW pull back within one at 13-14. 
+As a team, the Oilers suffered 26 service errors 
+compared to the Mastodons nine. 
+
+One play later, a Findlay shot was deflected 
+off Daiga and three Mastodons collided mid- 
+court, all attempting to set ihe ball. However, out 
+ol the collision. Belinan managed to bump the 
+ball to Ullrich, who lapped il over the net, deny- 
+ing the match point for the Oilers. 
+
+lble play. Guys were flying 
+
+
+
+later, /bys/ewski served a shot at the Oilers with 
+a chance lo win. D/.k/.kowski attempted a kill. 
+but was blocked by the Daiga/Sikca tandem 
+to end the game and allow the Mastodons to 
+advance. 
+
+Ball's team will play again Friday again the 
+No. 1 seeded Loyola-Chicago, 
+
+
+
+I be game. (In ihe defensive side ot ihe hall, he is a 
+greai player He is going to be a very good college 
+player," said Fife on Monday. 
+
+Johnson also plays \AU basketball tor the 
+' Rapids Sturm, where be played on the 17- 
+
+
+
+
+
+
+
+
+
+n lasts 
+
+
+
+hit a last second i-poinier ti 
+
+
+
+coach leli Tungaie, who saw lohnson play while 
+he was coaching at Oakland University' last sea- 
+son. "When Dane asked me lo come on board, 
+one of the first people I (old him about was Jakari 
+lohnson." 
+
+Mature to have surgery 
+
+Freshman go, ml l.ison Malone will be hav- 
+ing wrist surgery during the off-season. 
+
+The surgery is tentatively scheduled for 
+May 1 1 . just after the semester ends. 
+
+Malone suffered through most of the season 
+yvith a wrist injury, miss- 
+ing several games along (he 
+
+
+
+make him belter. I asked him 10 handle it he 
+could be pushed 10 his limits, said Fife on his 
+prerequisites lor lohnson when the two had the 
+opportunity lo sit down. 
+
+Johnson signed his letter of intent last 
+Friday, April 22. 
+
+MichiganPreps.com lists him as the No. 
+li shooting guard in the stale of Michigan, 
+while rivals.com noted thai lohnson is a "lough 
+defender" among other things. 
+
+"Jakari was someone we knew was avail- 
+able. He was the best player in the state of 
+Michigan siill available," said associate head 
+
+
+
+* 
+
+
+
+The broken bone that 
+
+will be repaired in the sur- 
+gery is the scaphoid bone, 
+which is the largest bone in 
+
+
+
+urgery is the 
+
+
+
+l|\ same that Jason's older 
+
+brother Byron Malone, ; 
+
+J. MALONE sophomore, had last off 
+
+
+
+
+Scan Kirk hit a single to left field, scoring 
+Siemb.ii li .iml kirk advniuei! on .mother llirow- 
+mg error. ] lory r.mneti to end fin- iiiiiirif; I he sev- 
+enth iiiiiinpiva&gt;- mild with IPIW seonnj; the nn!\ 
+
+
+
+it of Brent 
+
+le top of the ninth. IttiSU s 
+
+as held one short of tying 
+
+
+
+Fremion led the effort for 1 
+one run scored and one RBI. 
+
+Kirk batted in the other two runs with his 
+one hit from the d.'sign.ited hitter split. Caleb 
+Smith and f-rie I ;imhuri were the only other pow- 
+ers to net hits on the night. On the other hand. 
+Cleveland Stale nuked up in hits with two home 
+run-, to score their I Ion the night Cole Uebelhor 
+(2-2) got the loss lor ll'l W. I le gave up eight runs 
+on eight hits in 1.2 innings of work. 
+
+After weather mrulitions pnstp.iiud games 
+.igiiinsi lllmios ( In, ., K ,i mi l-riiirtv and Saturday, 
+(hey finally go! in ,, donhleheader on Sunday. 
+
+The first game was all lllinios-t hic;iuo 
+thriuigh the lilih i ng, who S 
+
+
+
+popped out n&lt; the first baseman 12 batters laid 
+The flames heated up in their at bat in the 
+extra inning. I hey stored four runs on four hits 
+and one error I hat was not enough i.i burn the 
+Mastodons, wlm won with ihelinal score of 12-7. 
+Keegan I aycot k CM) got the win for IPFW. 
+
+The second game was inin.li less productive 
+from the plate, both teams had only seven hits 
+and scored the same number of runs between 
+them. Sean kirk and Tyler fowler each had two 
+hits, Kirk scoring two runs and baiting in one 
+with a home run. 
+
+Eric Lambert (5-2) picked up the loss for 
+&gt; innings, giving up Four 
+
+
+
+IPFW. Lambert thrc 
+
+
+
+on the scoreboard. . 
+doubled to right eentertVld. iiyan Keena ground- 
+ed out to short, advancing Walton to third. 
+Fremion struck out swinging. Ryan Steinbacb 
+
+
+
+allow for humps and bruises to lie healed up. A I 
+the least, his players came back to playing /&gt;lll&gt; 
+ball at the end ol the season, going t- 1 including 
+a marathon victory over the I indiay Oilers this 
+past weekend. 
+
+Matt Zbyszewski and Mike Daiga both 
+mentioned that the leant cohesion started com- 
+ing together late in the season. Fortunately, 
+they didn't let the heartbreak of the Ohio Slate 
+game repeat itself in the first round of the M1VA 
+Tournament. It was one oF those games you 
+almost knew was going to be close. I1TVV has 
+a better record in the MIVA (8-81, than I indiay, 
+who registered a l. II) record in (he conference 
+
+
+
+Buckeyes. Findlay I 
+16-14. To the unav 
+on paper seemed tc 
+
+
+
+I struggled off and on this 
+b overall after the loss to the 
+id a better overall record of 
+ire volleyball fan, the game 
+
+
+
+cpiick 11-2(1 decision All seemed well and as if 
+the Oilers would be sent packing in three of four 
+games But they proved more resilient in the 
+next two games. I hey won the next game 2\M), 
+despite a laterally led by senior Matt /bys/ewksi. 
+who came up with three points late to pull within 
+6. IPFW pulled ahead in the third game after 
+a Chris Keen error and two more points from 
+
+
+
+season's win total of 20. 
+
+They will he in action tonight in a dou- 
+ble header at Memorial Stadium, home of the 
+Fort Wayne Wizards. 1 hey are playing Western 
+Michigan in a double-header thai kkks offal :".:()() 
+
+
+
+Zbyszewski. Again, things seemed to he another 
+repeat of earlier matches. 
+
+Itwasanoihei disappointment, becoming a 
+22- ill losing eltort It was g&lt;i lug or go home time 
+for the home team. It could have been the season 
+for ll'l W, wlm has experienced upsets and dis- 
+appointments around almost even i Timer this 
+year. Serdar Sikca received a yellow card after 
+Findlay argued the first point for what seemed 
+like an eternity It was one of many signs of frus- 
+tration out ol the IPIW side ol (he contest. 
+
+However, they reversed the score in the 
+fourth, winning Ul 22 ami sending the match to 
+the fifth game I he fifth game defined what peo- 
+ple hoped to see out of the team, coming out of 
+adversity and upset to win a hard-fought battle. 
+
+Trailing by as many as 3 (G-9). and being a 
+mere six points from elimination. IPFW fought 
+knowing everything was on the line. 
+
+They scored point fur point and brought the 
+game to a 14-14 tie. The intensity in dates was 
+unrivaled by any this season. 
+
+Daiga set up Sikca for a kill that brought 
+the fjlJU plus crowd to their feet, and the Oilers 
+had to call a timeout. The duo blocked a Jim 
+l)/n /kuwskiatu, V. to end the bailie and send the 
+
+
+
+IPFW 
+
+Playmakers 
+List 2005 
+
+
+
+Matt Zbyszews- 
+ki and Serdar Sikca 
+both were picked as 
+first team select inns 
+to the Division I 
+MIVA all conference 
+
+Both registered 
+double digit kills in 
+the MIVA tourna- 
+ment victory over 
+
+1 indiay. Zbyszewski 
+also added eight 
+digs ami Sikca had 
+eiglit block assists in 
+the contests. 
+
+Sean Kirk 
+slapped five hits, in- 
+cluding 6 RBI and a 
+home run last week. 
+He has a. 418 avg. 
+
+
+
+*f 
+
+
+
+I 
+
+
+
+I Han had 26 hills and eighl 
+digs in the MIVA opener with 
+Findlay He was also named 
+A First Team. 
+
+
+
+Scan Kirk 
+
+
+
+&lt;f&gt;5on 
+
+I l.lld'.IA 
+
+St 9 
+
+fill 
+
+
+
+■an r--f|isl,'iei-| live hil&gt;. ,„ K | sn 
+Jhn 12 .il-lnls last week (he 
+■signaled hittci ,ilsu homered 
+
+
+
+S. nl.u Sikd 
+
+
+
+Serdar had one solo block and 
+eighl block 
+I Findlay. Sikca was one ol two 
+| Mastodons named All MIVA 
+
+
+
+
+li n 
+
+
+
+
+
+
+more week 1 oyola is their nexl match, and defi- 
+nitely the hardest opponent in the MIVA. 
+
+You know what I say to that, if it takes five 
+games to get back, so be it. 
+
+
+
+GREAT JOB OPPORTUNITIES! 
+
+
+
+We're hiring students, part-time NOW and RJU-TIIVIE during summer and breaks! 
+
+
+
+
+Flexible Hours and GREAT PAY!! 
+
+
+
+Route Delivery Positions Available 
+
+We Offer 10-40+ Hours/Week! 
+
+$6.50 to $12.00+ /Hour 
+
+Great part-time hours are available and we ofler schedule flexibility. Work around your 
+
+school schedule with morning/afternoon and weekend hours. 
+
+NO EXPERIENCE NECESSARYI 
+
+Train in one lacility during school, and work in another during summer break! 
+
+Schedule an interview loday and bring a friendl 
+
+CALL TODAY: 1 (800) 622-6566 
+
+
+
+Or visit us at www.homecityice.com to fill out an online application! 
+
+
+
+
+- Individual housing agr 
+Fully furnished units 
+
+
+
+Dining area with chairs 
+High-speed internet and cable 
+
+
+
+Social lounge with big : 
+
+
+
+• 24-Hour laundry facilities 
+
+■ Computer learning center/cybe 
+
+
+
+1 Basketball sport court 
+
+• On-site community assistant staff 
+
+1 On-site management and 
+
+
+
+IPFW Student Housing 
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY FORT WAYNE 
+
+260-481-4180 
+
+41 1 Crescent Avenue • Fort Wayne, IN 4681 5 
+■ www.IPFWstudenthousing.com 
+
+Professionally managed by American Campus Communities 
+
+
+
+
+
+
+
+en 
+
+
+
+Tennis grabs third 
+in championship 
+
+
+
+By Nick West 
+
+miefpfwcommunicatoi. 
+
+
+
+bui dropped 6-4 and 6-4. 
+Barielheim and Hager played a 
+valiant game against Islanders 
+Brahim and Stephanie Canales 
+
+
+
+leam finished In third place at 
+thelndcpendcnt Championship 
+at Northern Colorado over the 
+past weekend (Friday, April 22 
+and Saturday, April 23). 
+
+
+
+
+
+
+defeated Texas 
+
+3. but lost to 
+
+champion Northern 
+
+
+
+Colorado, ; 
+Texas A&amp;M Corpus ChrislL 7-0. 
+"I think we played pretty 
+
+mis i hrisii and 
+Northern Colorado were head 
+and shoulders above the other 
+teams and they battled in the 
+
+
+
+Coulson, Jill Carte 
+Miller all won 
+IPFW. Couls( 
+
+
+
+Championship 1-2, Northern 
+Colorado was 3-0, Texas A&amp;M 
+Corpus Christ) was 2-1 and 
+Texas Pan American was 1 -2. 
+
+The IPFW men's tennis 
+team fell in their final home 
+game of the 
+
+
+
+a Pine Ridge 
+:t Wayne. 
+
+
+
+Track championships ahead 
+
+
+
+By Anthony Maurer 
+
+
+
+"iin. Hitchey has established her- 
+
+
+
+Carlos 
+
+would have gave IPFW its only 
+point of the day by defeating 
+
+
+
+Miller upped Bronc Monica 
+Lopez, 6-2 and 6-2. Mastodons 
+Hanna Hager, Lisa Bartelhcim 
+and Jennifer Pape all lost their 
+singles games. Hager Inst her 
+first match, battled back to win 
+the second, but lost the third. 
+Bartelhcim fell 6-2 and 6-1, and 
+Pape lost 7-5 and 6-1. 
+
+
+
+i ctei 
+
+
+
+■ gels to four, 
+i pull birr 
+
+
+
+won their double set 
+the Hmncs, 9-8(5). 
+
+"Jill Carie really r 
+
+
+
+Miller and Pape won 
+IPFW's second doubles set. 8-4. 
+Hager and Bartelhcim fell 8-4. 
+
+TheMastodons were swept 
+
+
+
+i Miller v 
+4. Bartelhein 
+i had a rough outing, get- 
+
+
+
+&amp; get- 
+ting swept in six games. Jackie 
+
+
+
+I [ikrighi didn't have much s 
+r, losing 6-0 and 6-1. 
+IPFW had equal amount 
+of down luck against Texas 
+A&amp;M Corpus Christi, losing 7-0. 
+Bartelhcim played better, but 
+lost 6-3 and 6-4. Miller bat- 
+tled against Amanda Brahim, 
+
+
+
+Mastodons Landry Nzudie 
+and Nabil Mourad lost their sin- 
+gles matches, 6-1 and 6-1 and 
+6-4 and 6-3. Ian Leonhardt fell 
+7-5 and 6-2 to Alex Friesen and 
+Sam Rocke dropped matches 6- 
+2 and 6-2 to Adam Ford. Daniel 
+Jackson lost 6-3 and 6-1 to 
+Diego /egorra-Ballon. 
+
+
+
+Because the 
+
+moved to a different location, 
+IPFW and Northern Illinois 
+were only allotted a certain 
+
+
+
+Buffalo in the quarterfinal 
+round of the MAC Tournament 
+on Thursday, April 28. The 
+Mastodons lost what Burns 
+called a heated match, 5-2. 
+
+"1 think that's the best 
+draw we could have gotten," 
+he said. "We match up a little 
+betier with them. 
+
+■' competitive 
+
+
+
+is lompeiingin the 1 
+
+self at IPFW for breaking numerous indoor and outdoor records 
+
+since joining the track and cross-country programs last year. 
+
+Nicole Crone will be competing in the hammer throw. 
+lunior runners Lauren and Kristen Simpson will join Crone in 
+Sacramento. The sisters will he (.ompeting in the 3,000-meter 
+steeplechase. 
+
+There are five barriers, four regular 30-inch tall barriers, and 
+one similar barrier that has a 12-foot water barrier following the 
+obstacle. 1 he water harrier iwm an incline ili.il becomes shallower 
+the farther it is from the barrier itself. 
+
+There are a total of.tS jumps that must be made in order to 
+complete the event I he jumps equate to the 4:1 ratio of the bar- 
+riers (28-7). The ev. 
+meters less than tv 
+upon whether the v 
+
+
+
+**m*4&amp; 
+
+
+JS&amp;31 
+
+
+■ ■ 
+
+a ■• id £ ' 
+
+
+a ti£ 
+
+
+^B Wf~i a« 
+
+
+W^H 
+
+
+„^m 
+
+
+%zm 
+
+
+
+
+
+
+r pit is placed on the inside I; 
+
+
+
+When the 
+total of 7.5 laps 
+
+the first obstacle When its on the imtside, there are a toi 
+laps and 100 meters before the first jump. 
+
+pit itself is not to be jumped, but leaped 
+
+
+
+tcrs before 
+otalnl 7.2 r i 
+
+
+
+Will,, 
+
+
+
+? foot. The obstacles are roughly three- lanes u 
+
+
+
+have a 30-inch height I he mam difference in the w 
+
+you want to land with only one foot hitting the water in order to 
+
+retain good stride. 
+
+What makes the race more dangerous than other events is 
+that barriers themselves arc large wooden beams thai will not give 
+like regular hurdles liming any hurdles on the track could lead to 
+a hard encounter with the track it sell One would also have to step 
+on the top of every barrier to bound successfully past it. Again, a 
+misstep may prove to be dangerous, and could potentially land the 
+
+Lauren Simpson is the c 
+
+siecplet base with a time of 11: 
+
+one second-place finish and a third place finish in the e 
+
+Her sister Kristen currer 
+the event.. She has recorded tw 
+and two sixth plate finishes o 
+
+
+
+o by Josh Farrell / IPFW Athletics 
+
+
+
+JUMP: Twins Lauren (far) and Kristen (near) Simpson 
+compete in the steeplechase earlier this season. 
+
+
+
+o keep m\ n 
+
+
+
+it all three years she 
+
+Kristen Simpson also 
+Her other 
+
+
+
+itionally for the past four 
+years. Runners ami throwers in i he top live rankings of each event 
+are allowed to participate m the Independent Championships. All 
+lour competitors achieve the top five rank necessary to compete 
+
+Lauren Simpson has excelled in the steeplechase. "Basically. 
+I am able to perform well because of my water jump," she said. 
+"I jump a lot farther than other girls are able to and therefore 
+only do I gel just one loot wet, but it allows 
+turn, which is key in this event." 
+
+She also competes in the 1500 and 81 
+sionally runs the 5.000-meter in the seasot 
+
+Kristen Simpson has run in the ev 
+has been a Mastodon. She feels that the t 
+difficult that she has had to compete in 
+acknowledges the danger and difficulty i 
+
+
+
+
+
+
+
+
+
+l lite f&gt;,tl 
+
+
+
+
+
+
+Softball picks up success late in the season 
+
+
+
+Another multi-game week came 
+t for coach Keith Fisher's softball t&lt; 
+. the squad going4-2. 
+
+
+
+
+Laura Randolph, Miranda Ditton and Jenna 
+Connelly each had a hit. 
+
+Connelly was also on the ruound, giv- 
+ing up 12 hits and five earned runs on the 
+five inning game. Four separate Jaguar hit- 
+ters had two hit games. Blair Branson and 
+Stacy Speshyock each had two RBI in the 
+
+In game two. IUPUI scored five runs 
+before the Mastodons ever got onto the 
+scoreboard. Randolph supplied three of the 
+Mastodon- six hits, but it was Kacie Stone 
+who provided the only IPFW run. 
+
+Speshyock was big again at bat for 
+IUPUI with a pair of RBI on three hits. 
+Included in Speshyock's hits was a home- 
+run, her third of the season and second of 
+
+
+
+Another Mid-Continent Conference 
+hosted IPFW on April 2 
+
+
+
+both games. 3-1 and 3-0. 
+
+The game went into the seventh tied 
+at one when Ditton laced a single to right 
+field scoring both Randolph and Angela 
+Pasquali. Both Randolph and Pasquali 
+reached base on singles to start the inning. 
+
+Beth Harmon picked up the win, 
+going.a full seven innings, giving up six hits 
+
+in the second half of the double head- 
+er with Valpo, Connelly pitched a four hit, 
+► SUCCESS: Page B2 
+
+
+
+"Actually, A.J. gave me the nickname 'Squalnuts 
+
+It's best not to ask questions 
+
+
+
+d that you 
+u are very versatile. 
+it of my time. But being a lawyer, I 
+
+
+
+author, a lawyi 
+
+
+
+1 NW: I did a Google search for "Angela Pasquali 
+
+a blogger along with being a Softball player. Y 
+
+AP: The author, you know, tends to consume a 
+
+and giggles and to support my family, (giggles) 
+
+NW: It's been cold the past few days. Your thoughts on playing in not-warm conditions. 
+' fhan T 50 be h ° neSt ' "'* miSe,ab,e - ' W ° Uld rath6r piay in ^-degree weather than.aqything.wJcJe;. 
+
+1 NW:Are you familiar with Jennie Finch? 
+
+
+
+might be one of those times where after I wake up, I'd have to charge the mound. 
+time in middle school I got hit in the head and my helmet shattered. 
+
+"* good. The most painful was when I was playing in the state softball tournament, 
+there and hit me in the butt! I was like what are you 
+
+
+
+1 got hit in the butt. This girl just hurli 
+
+doing?! (laughs) 
+
+NW: Did you go after her? 
+
+AP: No, I didn't go after her. I just kind of laughed as I jogged down to first 
+
+
+
+NW: Word 
+
+NW: Best hitler on the team? 
+AP: Jenna .Beachy, 
+
+
+
+Closest friend on the team? 
+
+
+
+': Best nickname on the team? 
+AP: Actually, A.J. (Ashley Johnson) g 
+NW: Hottest on the team? 
+AP: Laura Randolph. 
+NW: Coach Fisher? 
+AP: Animated. 
+
+
+
+e the nickname "Squalnuts." It's best n 
+
+
+
+NW:I 
+
+
+
+AP: Hockey. I 
+
+
+
+is golf. \ 
+
+
+
+second favorite sport? 
+
+; played street hockey since I've had a pair of rollerblades 
+since i was s.x. My dad is from Detroit and he's a big Red Wings fan. That city thrives off of hockey. 
+
+NW: Do you have a pre-game ritual? 
+
+AP: I have a necklace that my dad ga 
+
+imttlin l j i , 
+
+
+
+I graduated, with a softball player o 
+
+
+
+NW is th. ; re a certain song or songs you listen ti 
+
+AP: Anything by AODC. Lately, it's actually been the Transplants. My boyfriend got n 
+the Transplants. 
+
+NW: No "Eye of the Tiger* from "Rocky"? 
+
+AP: No, actually "Eye of the Tiger" kind of makes me want to hurt someone. 
+NW: You are the only left-handed batter on the team. Your thoughts. 
+L. AP: Lefties oV ,,'.:,.-, fi.-.ufjhs) 
+
+
+
+
+</pre>        </div>
+      </div>
+    

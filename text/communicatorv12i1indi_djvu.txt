@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i1indi/communicatorv12i1indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i1indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i1indi">The Communicator</a>"
+          </h1>
+          <pre>the COMMUNICATOR 
+
+
+
+Buildings take shape 
+
+
+
+
+
+
+growth and support of IPFW 
+
+
+
+
+
+
+perhaps you'll be pleased to just 
+
+
+
+
+e»acu«*mo-Zt Stadualftoutt***, j 
+
+
+
+'2.5 million ........„,„.,„.„„„„„„.„„, 
+
+Financial aid to fall short of need 
+
+
+
+t Program, only funds w 
+
+
+
+PAGE 2-THE COMMUNICATOR-AUGUST 12, 1980 
+
+2-year search over 
+
+
+
+Nicholson jew faculty dean 
+
+
+
+- J'jjt: 1 i i..i:..M.i-:L j^fH-ino! -.uKahur.^Ai'!'. liid!.,r.i 
+
+
+
+College, Virginia 
+
+
+
+
+
+
+2 
+
+
+
+ment Development savs . 
+
+A Program, Center for ^"jj 10 ' 
+
+
+
+
+
+
+GALS AND GUYS 
+
+STROLL ON BY FOR 
+BACK-TO-SCHOOL SAVINGS! 
+
+
+
+ALL FAMOUS BRAND NAME JEANS AT DISCOUNT PRICES 
+
+GLENWAY 
+
+BARGAIN CENTER 
+
+
+
+AUGUST 12, 1980— THE COMMUNICATOR— PAGE 3 
+
+
+
+
+Beaver County 
+
+
+
+
+psychology and 
+
+
+
+
+! the (acuity of Wright 
+
+
+
+
+&gt; f 
+
+
+
+
+
+
+male at Wright Stall 
+
+
+
+
+
+
+E""' ""' 
+
+
+
+PAGE4-THE 
+
+
+
+
+Book buying requires 
+preparation, attention 
+
+
+
+By NICK ST ANGER 
+
+
+
+Officials predict 
+more students 
+
+
+
+p£S3f| 
+
+
+
+
+" b3 ,*S Tddrf!°"ta' high 
+
+
+WORLD FAMOUS 
+
+
+^SfH 
+
+
+"faymy't, P«6." 
+
+
+I1SII? 
+
+
+
+
+VAWSKS-POOUl 
+
+
+
+
+on tap 
+
+
+
+
+SSSR-WKS 
+
+
+
+
+936 &amp;UUeu*tt Glut. %*d 
+
+
+Slw KT^e ^jS 
+
+
+
+
+
+
+
+
+SS&amp;SLST"^ 
+
+
+K-mart Plaza East 
+
+
+
+
+1 MILE NORTH of INTERNATIONAL ' 
+
+
+« un Junes. 
+
+
+HARVESTER -NEXT TO MOTEL 6 
+
+
+
+
+
+
+€|S|3rF£w 
+
+
+424-9639 llrOOom thru 3:00 am 
+
+
+
+PACE 2 THE STUDENTS'HANDBOOK AUGUST 12. 1980 
+
+Chancellor Giusti welcomes IPFWs new students 
+
+
+
+
+Classes And Grades 
+
+Attending Classes 
+
+
+
+
+
+
+
+
+
+Lveraged together The first t 
+
+
+
+
+
+
+Academic Services 
+
+
+
+Directory of Student Support Services 
+
+
+
+5 STUDENTS' HANDBOOK PACE 3 
+
+
+
+GALS AND GUYS 
+
+STROLL ON BY FOR 
+BACK-TO-SCHOOL SAVINGS! 
+
+
+
+IANS • JEAN SHIRTS • BIB OVERAL 
+
+
+
+NTER PANTS AND TOPS OF ALL KINDS 
+
+
+
+ALL FAMOUS BRAND NAME JEANS AT DISCOUNT PRICES 
+
+GLEN WAY 
+
+
+
+BARGAIN CENTER 
+
+3820 Coldwater Road - Across From Glenbrook Penney's open evenings till 9 Sundays 12-5 ' 1 
+
+
+
+
+
+
+Some of our classrooms 
+
+
+mm ca^ "l$££&amp;f^PO^ 
+
+
+
+
+arerit classrooms. 
+
+
+
+
+r 
+
+.A 
+
+
+management and military procedure. You'll learn 
+how to manage people, lo handle money and equip- 
+ment. But you'll get more than jusl the classroom 
+theory. You'll experience it. 
+
+navigation, be ready to gel your boots dirty in ac- 
+
+muriictlinu. Aiul when &gt;"u -.iu&lt;l&gt; uc-jpuns. expect to 
+
+Then, when you decide to enter advanced ROTC 
+ri.ui.rs ^ ,1 jLini.jr. plan on applying everything 
+
+
+^n ■jHjB 1 ih^i^^j^m 
+
+
+■ W-'J 
+
+
+Military science courses offer you challenges. 
+
+leadership responsibility as an Army otTicer when you 
+graduate. 
+If that's the kind of challenge and experience you're 
+
+ARMY ROTC. 
+LEARN WHAT IT TAKES TO LEAD. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE! THE STUDENTS' 
+
+
+
+Student activities and organizations 
+
+Join In! Have Fun! Meet People! 
+
+
+
+aare, and darkroom ore available in Walb ^"SknmeeBlW 
+
+■P'P" Day Care Center I 
+
+nicalor is published every Thursday during meets informalli I 
+
+
+
+
+
+
+indomly, depending on It 
+
+
+
+SUBOG 
+
+
+
+Fall Activities 
+
+
+
+HI 
+
+
+
+Grade appeals 
+procedures 
+
+"acuity Senates, the following procedure si 
+
+
+
+. A.idni.^.H 
+
+
+
+n ol Faculty will ultimately 
+
+
+
+ARA FOOD SERVICES 
+
+of FORT WAYNE 
+
+WELCOMES YOU TO IPFW 
+
+YOUR MOST CONVENIENT ANSWER 
+
+TO YOUR MOST BASIC DESIRES (FOOD 
+
+&amp; BEVERAGE) 
+
+We Are Able To Satisfy Your Basic Desires Thru 
+
+•AUTOMATIC FOOD SERVICE - ON CAMPUS 
+•SNACK BAR - STUDENT UNION 
+•PARTIES TO GO - 483-4733 
+
+SNACK BAR (THE FORT) HOURS ARE: 
+
+MONDAY-THURSDAY 7:30 am-3:30 pm 
+
+FRIDAY 7:30 am-3:00 pm 
+
+
+
+THE FORT 
+
+
+
+GROUND FLOOR 
+
+
+
+WALB MEMORIAL UNION 
+
+
+
+1, 1980 THE STUDENTS 
+
+
+
+• Ski Rentals 
+•Service and 
+
+• Ski Trips 
+
+•Weekly Ski 
+Reports 
+
+• Knowledge- 
+able Stall 
+
+
+
+FORT WAYNE'S 
+ADULT TOY STORE!!! 
+
+
+
+Equipment &amp; Fashions for the 
+
+Skier, Backpacker, Hiker, 
+Camper and Tennis Player! ! ! 
+
+YOUR "IN" OUTDOOR SHOP 
+
+WHERE QUALITY, SERVICE, 
+
+&amp; VALUE MAKE 
+
+THE DIFFERENCE 
+
+219-484-2604 
+
+rant's 
+
+CAMP'N SKI HAUS 
+
+
+
+StUff 
+
+for students 
+
+
+
+Hanks 
+
+
+
+Thperbaefp 
+
+
+
+Supplies 
+
+
+
+Learning Aids 
+
+fbllert* 
+ft 
+
+rdLcuLdTore book 
+
+GreeiingOrds " $$?$ 
+
+
+
+MEioaBiiia 
+
+
+
+CALCULATORS 
+
+SCHOOL SUPPLIES 
+
+OFFICE FURNITURE 
+
+OFFICE SUPPLIES 
+
+
+
+
+SHARP 
+
+
+
+SAVE UP TO 30% 
+
+
+
+PAGE 6THE STUDENTS" HANDBOOK A 
+
+
+
+If you need assistance 
+
+
+
+Counseling and Student Assistant Program National Student Exchange 
+
+Testing Services ,,...,■ ..:■.■.■ .. .■...,.■. .. . . ■ ■■■ ■ ■■■. 
+
+
+
+Career Development wuieprogres 
+
+and Placement exctingandi. 
+
+
+
+f '[-:;;:;[ ™ d /£™ '["'"""''^,7^ ""ndT^Ms mci^e tree r istr.oon wiu, the Student Academic 
+
+Counseling Services 
+
+■ ■&gt;' I' ■' '&gt; '■••: -...HI .i. , ;;,, I ;r ... . , .,.,..: ..,,, 1 -\ X.-l,', v. : ! h jClk-mi -i hidlllrt ^- V 
+
+Management Admission Tes! 1GMAT1. the Miller seling, andcareer em. r, ,",... ,,.,• f ^ P persona problems is the role of the Student Aca 
+
+
+
+
+
+
+Our door is always open 
+
+Housing Information but latt [tes _ „, e rlsk or in , dem] , tt (wlds „ mM jludenl lo ^ 
+
+
+
+ffeafcfc Service, Veterans' Services „ ] rl 
+
+Come to G27 of the Student Urnon or Keiuer 179 if you Student Job 
+
+uei)be.nG..r Location Service 
+
+beincurred. within that period, please take advantage of the Vet-Rep- The Job Location Service actively recruitsemploj 
+
+Financial Aid ^^^^SS^'S^SZ i^g ^S^S°S^^^^S^ 
+
+; mploymenl either singly or in combination, as the Alumni Activities researchers anr/lab" technician. Participation"' 
+
+meansioprovideuiisassisiance. Handyperson pool, Babysitting pool, and Typing p 
+
+
+
+pletion of an ;ip iJ lii_..!i...i, ... .mI] Micmpt to refer jobs to 
+
+
+
+Transitional Studies 
+
+
+
+greater Fort Wayne seven t 
+
+
+
+1980 THE STUDENTS" HANDBOOK PACE 7 
+
+A note from the Dean 
+
+
+
+lents are encouraged n, partiuipjit- m Hit- man;, 
+
+,ri|. ..kslli ■ Hi. -■■■■■ :ln.)l:i&gt;Fi V: ■,,,-.: !f ).:tn 
+
+
+
+English W130 (Principles of Composition); 
+
+
+
+Placement Services 
+
+
+
+Services for 
+disabled students 
+
+
+
+Adult Place) Program for Purdue I 
+
+
+
+The Career Development 
+
+
+
+
+
+
+ROCK N ROLL 
+AT ITS BEST! 
+
+
+
+
+3627 N. CLINTON 
+
+FORT WAYNE 
+
+483-9290 
+
+
+
+PACE » THE STUDENTS' HANDBOOK. AUGUST1Z. 1980 
+
+
+
+IPFW Athletic Program 
+
+
+
+mlercollegiale intramural, and recreational activities sports, notably gall and racquetball, require an entry fee 
+
+;,.;„:..:.'■:;/'"' ■'.■.■:'"'"" ^' e ^ Tne intramural program offers a v.inciv of op- 
+
+- d i,'oT^»T", l| "' , '™""""1 '" '■ n'lii'/ii piof s "bte , s ilL™'*' 
+
+■ ■ ■ ■ ii «i' ■- ■■■ i i ,,,,,;, 
+
+SSSSSSh Programs ^beZramoral program also has eqaiptnent available MEN'S BASKETBALL 1*10.(1 
+
+
+
+INDIANA UNIVERSITY- 
+PURDUE UNIVERSITY 
+at FORT WAYNE 
+
+WOMEN'S BASKETBALL 1«S0-(1 
+
+
+
+A Statement of Student Rights and Responsibilities 
+(Purdue Univ.) 
+
+
+
+Tho -II..II ,*.■ ..ntc.[ve.n.&gt; rh.. l-'r-rsiit-j-ntr.! 
+
+
+
+
+STUDENTS' HANDBOOK PAGE 9 
+
+
+
+1 DISCOUNTER 
+
+
+
+WHERE YOU'LL FIND 
+
+
+
+The best selection of albums and tapes by your 
+favorite artists 
+
+A COMPLETE RECYCLED RECORDS DEPARTMENT, ■ .We BUY 
+
+and sell the highest quality used records for 
+"karma kash 
+
+Hollywood's blockbusters— For your home 
+entertainment. ..a wide selection of video movies 
+
+Ye Olde Tobacco Shop,.,A complete line of pipes, 
+pouches and smoking accessories 
+
+Gift and craft items... T-shirts, games, pottery 
+
+The finest in record care products 
+
+
+
+KARMA. ..your complete home 
+entertainment center 
+with everyday 
+LOW, LOW DISCOUNT PRICES 
+
+
+
+| BRING IN THIS AD AND GET \ OFF THE .PRICE OF A KARMA T-SHIRt"| 
+
+
+
+Give the gift 
+of music. 
+
+
+
+
+3413 N. ANTHONY BLVD. 
+4822326 
+
+
+
+PACE 10 THE STUDENTS' HANDBOOK AUGUST 
+
+
+
+Confidentiality Statement 
+
+
+
+
+ANNOUNCING the REBIRTH 
+
+
+
+B5 
+
+UNDER NEW OWNERSHIP. 
+
+Great Food, Excellent Atmosphere 
+and Good Service 
+
+Enjoy exciting live entertainment 
+
+while you dine — Donee in our lounge 
+
+Open for lunch or dinner 
+
+
+
+AUGUST 12, 1980 THF.SU j t) • 1 ■ 
+
+S£T AMERICAN 
+
+W^^ think anr 
+
+| ^B where we're thii 
+
+
+
+AMERICAN FEDERAL 
+
+think american 
+
+thinking of you 
+
+
+
+
+/tales n'Tculs 
+
+2332 NORTH CLINTON 
+
+
+
+Offering a fuil line of 
+
+Tropical Fish, Exotic Birds 
+
+and one of Fort Wayne's 
+
+largest selection of tanks 
+
+and equipment. 
+
+Open 7 Days a Week 
+
+
+
+MEXICAN-AMERICAN FOOD 
+
+LUNCH SPECIALS „■» '3.00 
+
+PROMPT SERVICE. CARRY-OUT SERVICE AVAILABLE 
+
+•HAPPY HOUR 5 PM-6 PM MON. thru FRI. 
+
+(Two for the price of one. First Drink only) 
+
+•FULL SUNDAY COCKTAIL SERVICE 
+
+Open 11:0 
+
+5629 ST. JOE RD. 
+
+
+
+f THE MARKET PLACE o 
+
+
+
+
+' Service projects. 
+
+' Retreats and seminars. 
+
+' Facilitation, co-sponsorship. 
+
+
+
+• Occasional worship experiences 
+
+made possible by: Greater Fort Wayne Campus Ministr 
+
+Inc and The Diocese ot Fort Wayne-South Bend Dept. I 
+
+
+
+}'\&lt;,l v: Nil- M) DENTS' HANDBOOK. AUGUSTS 
+
+
+
+;■ M-- '.rr.. ; -- ..I-,., i..,^,,,,..,,, n.-r.'.rvr- ,n.l th.»i I ■ . , „|,. Vm ,, ;l K S&gt; st.m. 
+
+for two years beginning on June 1, and ending on May 31, delegated to the faculty. The Board of Trustees hereby 
+
+B rJ it n Ok- t p, lik-n. ,.,- i... i v.,, .^ ,.-., ., [ ( nu c.immunii; grades area measure of 
+
+pointmeals. fill vacancy ... ::,!,,.■ -urn ..rii.-r d,. t ion as he b) The grade appeals system affords recourse to a 
+
+deems necessary to constitute a Campus Appeals Board student wim lu- ,-vui.;u ,. r | rt .|ieves that evidence exists 
+
+!lT '■"■■ '■ ■■'"I" 1 - " : ''" l nr-.T-fv l0 show that jj, ilMppr,,,.;:^, ,;,■, J.,,* f .,,.. : .,„,,;,■,.;! 
+
+_ci The Campus Api&gt;,.- E I ,■;,,,.- , , : .,. ., ,,.,&lt;_,,, ,„ f , r , (lKlKl . ^pn,,. or other improper con- 
+
+eonsiswnt with these regulations The appeal hearing Univer-ih &lt;:r, ,:,■.,[,;.-,,:. ,-,. jiin, mc-es 
+
+
+
+
+
+
+it 6ui»y undergraduate) 
+
+
+
+THE STUDENTS" HANDBOOK PAGE 19 
+
+
+
+
+
+
+e Committee on Student Affairs of (he University be fi 
+
+
+
+
+
+
+
+
+
+e Appeals Committee, of if at any time Committeeorunderlegalci 
+
+
+
+lrjnM.Tipr ;v |)n.'p.ir.'&lt;1. n v. ill U v safeguarded and used ir 
+
+
+
+tstoresolvegradegrie 
+
+
+
+A Statement Of Student Rights and Responsibilities 
+(Indiana University) 
+
+
+
+PAGE 14 THE STUDENTS' HANDBOOK AUGUST 12. 1! 
+
+
+
+AUGUST 12. 1980 THE STUDENTS' 
+
+
+
+HANDBOOK PAGE 1! 
+
+
+
+
+
+
+
+
+
+y__^^^l 6024 Slellhorn Road 
+^^OT ^^W Foil Wayne, Indiana 46815 
+
+Announcing a New 
+Generation of 
+Personal Computers 
+By Atari® 
+
+
+HzfSEr 
+
+
+Come fn for a demonstration. 
+
+" A "" 400 '" ATARI" 
+
+»""••"- ~'- o 
+
+
+-.J— «. krt ~.— 
+
+
+
+
+
+
+Art School 'quiet 9 
+
+
+
+AUGUST 12, 1980-THE COMMUNICATOR-PAGE 5 
+
+
+
+
+PAGE 6— THE COMMUNICATOR— AUGUST 12, 1980 
+
+SAs counsel, 
+advise students 
+
+
+
+
+
+
+
+featuring.... Dancing 
+Daily 
+
+rom 11:00 a.m. to 3:00 a.m. Mon. thru Sat. 
+
+
+
+• SANDWICHES 
+
+
+
+• TRY OUR 
+CARRY-OUT 
+
+
+
+r-club 
+
+1018 Coliseum Blvd. I 
+
+
+
+Spec/a/ Celebration 
+Mon. thru Thurs. 5 pm - 6pm 
+
+
+
+WIPU-FM 
+
+89.1 
+
+
+
+You Won't Find It Anywhere Else 
+
+
+
+Classical Music 
+Bluegrass 
+
+Broadway Hits 
+Information 
+
+
+
+Jazz 
+Folk &amp; Ethnic Music 
+
+
+
+Opera 
+
+
+
+
+
+
+mr^- 
+
+
+
+FM station 
+on campus 
+
+
+
+AUGUST 12. 1980-THE COMMUNICATOR-PACE 7 
+
+
+
+
+ARA new 
+food service 
+
+
+
+american federal 
+savings &amp; loan 
+
+
+
+
+•ightssyltwu 
+
+
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIROS 
+
+AND A FULL LINE OF PET SUPPLIES. 
+
+COUPON -. 
+
+
+
+10% 
+
+
+
+OFF ANY ONE FISH OR BIRD 
+
+
+
+t One Coupon Per Cus' 
+COUPON 
+
+
+
+483-4930 
+&gt; 
+
+
+
+"OPEN 7 DAYS A WEEK" 
+
+
+
+1 COMMUNICATOR- 
+
+
+
+Union 
+has much 
+to offer 
+
+
+
+
+S.G. represents student body 
+
+
+
+t officers Johnson, Sally I 
+
+
+
+telephone directory, renl 
+guide publication, weekly 
+
+
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1931 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv6i4indi/communicatorv6i4indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv6i4indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv6i4indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA UNIVERSITY-PURDUE 
+— UNIVERSITY AT FORT WAYNE. THE — 
+COMMUNICATOR. 1974-75. 
+
+
+
+THE 
+
+
+
+
+
+
+**** 
+
+&lt;^S 
+
+
+
+COMMUNICATOR 
+
+
+
+IU faculty senate calls for 
+review of Ryan's plan 
+
+
+
+September IS, 1974 
+
+
+
+sity at Fort Wayne | 
+
+
+
+versity system 
+
+
+
+ack of clarity on effects of the 
+ion on the Regional Campuses, 
+it by faculty, students and staff 
+
+
+
+i plans that directly 
+
+
+
+"We, as a faculty, look t( 
+
+
+
+i, passed by a 
+was a second version ol otv 
+passed by the Senale on Septen 
+
+
+
+, They also requested tl 
+
+
+
+e to study (he problem in depth, made tin 
+
+cial meeting of the Senate, the resolution staling tl 
+
+request of Chancellor Donald "strongly disapprove of thl 
+
+bated an hour on how or if the as stated in the preamble, 
+
+
+
+Student election 
+
+
+winners 
+
+
+Indiana Student Senate: 
+
+
+
+
+RICHARD LAUER 
+
+
+47 votes 
+
+
+HANS CHRISTENSEN 
+
+
+45 votes 
+
+
+TIM McENTEE 
+
+
+43 votes 
+
+
+PAM CRAIG 
+
+
+42 votes 
+
+
+BYRON R. BRAUN 
+
+
+40 votes 
+
+
+TIM USINA 
+
+
+33 votes 
+
+
+. LOUISE DOBLER 
+
+
+33 votes 
+
+
+BRETT BROWN 
+
+
+32 votes 
+
+
+Purdue Student Senate and Student Unix 
+
+
+„ Board: 
+
+
+Karen Bacon and Ann Morthorst were au 
+to the Purdue Student Senate; Michael 
+Tom Feichter, and Teresa Forte were a 
+to the Student Union Board, 
+
+
+Yann, Ann Buchheit, 
+Jtomattcally elected 
+
+
+Out of 8000 students, 90 chose to go 
+
+
+o the polls. 
+
+
+
+campus. 
+
+Likening Ryan t 
+
+
+
+
+
+
+Boards September n 
+Indianapolis faculty s 
+
+
+
+We goofed 
+
+
+
+v Harper of the 
+had ignored 
+
+
+
+
+: input on decisions h 
+
+
+
+Switchboard support in crises 
+
+
+
+Gutmans business office 
+consolidation not near 
+
+
+
+
+Editon'a))i| 
+
+
+
+Speaking 
+
+
+
+t Communicator Thurs. September 
+
+
+
+Writer's motivations misunderstood 
+
+
+
+Since the publlcolio 
+s-lnterprelalion of Ihi 
+
+
+
+Merger on schedule 
+
+It was witli great pleasure that we were able to report the final chapter o 
+great equivalent courses controversy of last s 
+
+For freshmen and those with short 
+campus is one taught by one school 
+universities. 
+
+There were fifty-lhrt't- equivnlant cot 
+
+urii' supposed to go intn effect with tl 1 
+
+semester I V derided less than two weeks before registration began that they 
+were not going to allow I U. people to take classes from P.U. profs. 
+
+Citing the "integrity of the budget", a term with the same crcdil.ihly as 
+■'executive privilege", ii was deemed that the proposed plan would bankrupt I hi- 
+Indiana English Department and render all sorts of nasty plagues upon this 
+campus. „ ... 
+
+What we were not told at the time is Dial 1 U was nol really going to lose as 
+much monev as tliev were busy leading us to believe. 
+
+Under tin- equivalent courses agreement between the Iwo sehools, the hosl 
+school the one leaching the course receives the full 521 tuition lee. In addition, the 
+guesl school, the one with the "vi siting" student must pay $7 into (he bond 
+reliremeiil kind This means a 57 "prolil" to I he host school sine e il is not required 
+to put any of the $21 tuition into the fund like it would have to with Its "own" 
+students. ... ... „ , . . 
+
+First glance al I he situation tells us that there would he a substantial drain ■ 
+
+
+
+menl duties Consequently. 
+
+The lj.it He is with the adm 
+
+Recently, an adminis 
+
+opportunity following a si 
+
+
+
+mttedly. this will limit 
+and administrators. 
+
+
+
+-upational personality" 
+
+
+
+decision ( 
+
+
+
+), She felt that 
+
+j making the 
+
+lor this lady, it 
+
+1 the intentions 
+g good or bad 
+
+
+
+non-professior 
+
+
+
+personality during 
+impossible for me to 
+
+
+
+1 will continue to 
+
+Generally, those picked to be 
+
+
+
+lopics and personolit 
+
+
+
+■ than one-half of the high o 
+
+
+
+e position of being the 
+
+
+
+ysell as u "loser" Alter all, I did follow 
+e Jerry Ford model of achievement and 
+Id the presidency (or several weeks 
+■ring the summer. It is not olleo that one 
+e luxury of losing the same 
+
+
+
+There is, as always, a kicker involved. l.U is still able to count all oMhe 
+Purdue-taugiit student's when they reijuesl money from the legislature, i 
+Sixty per cent of all monies spent each year c 
+
+Perhaps, the ' 
+
+
+
+) from the State House, 
+side "effect was a blow to the merger of the two 
+departments The English equivalencies would have the effect of combining the 
+
+iwo departments ii 
+
+
+
+Students' Hovel pa I I Ills lull 
+
+
+
+Cafeteria costs rise 
+
+Although the Student Union was planned to stand in the center of the future 
+
+IU-PU campus, it now stands at the far north end because construction has 
+slopped This puis the Union out of the way of many students and consequently they 
+do not use the building. 
+
+This less than optimal use ol the building means that many of its services are 
+nol fully utilized For one of these services, this lack of use is spelling severe 
+financial difficulty This service is the cafeteria. 
+
+Last year University Fnod Services, a division ol Alt A, which was awarded the 
+cafeteria contract, suffered a substanlial operating loss This year appears to be 
+bringing much of the same. 
+
+One major problem is the rise in food costs Any housewife is aware of the 
+increasing cost ot food and its effeel on the household budget. These costs have 
+been rising more sharply on the wholesale level, placing an even greater squeeze 
+on the cafeteria's operating budget. 
+
+Another area of rising costs is cafeteria clean -up University food Services has 
+been forced tohire an additional stall member lu bus tables during the noon hours 
+Although people have been urged to bus themselves, many do not. Hence, 
+increased easts and decreased prof i I margins. And, of course, there are the 
+perennial problems of dish and silverware breakage and pilferage, 
+
+'Decreased profit margins must be compensated (or by increased revenues 
+lluough greater customer volume Utilnrlunalely. this has nol been the case. On a 
+normal day belween H liu and I, oulv /mi Hon people go lluough the cafeteria lines. 
+This represents a meager It) per cent of the people who allend classes or work on 
+campus. 
+
+ARAisnol alone in its problems The Chronicle ol Higher Kduealion reported 
+that many universities arc losing money on their cafeterias. Most have 
+..uinpensated by increasing prices or by making board payments mandatory. 
+
+It is obvious Dial AHA will nol care to operate the cafeteria al a loss every 
+year. Returning the cafeteria to the university for operation will be potentially 
+more disastrous If a competent prolcssjonal lood service orgaiuz.alion like ARA 
+
+canto' operate the cafeteria at a profit, the university b ureaucracy will do no Establ 
+
+better and probabh much worse The loss b\ the university would have to be made 
+up out of academic funds or through increased student fees No one wants that. 
+
+Increased volume would do much toward easing the financial bind. Self-busing Mark 
+
+will help also Another answer, increasing prices, is something everyone wants to Put 
+
+This paper realizes how difficult it is to rally support for the cafeteria. 
+
+Contemporary prejudice insists that school cafeterias serve bad food, give rotten Michael Snyde 
+
+service, and charge too much If enough people can sef aside this prejudice, the Managing Edit 
+
+present levels of service and prices can be maintained in the cafeteria. 
+
+Leary sentence unfair 
+
+
+
+iekster Dick Tuck 
+
+
+
+sues of the Students' 
+filer's loss in last 
+□ bearing on what Is 
+
+
+
+be administrate 
+
+
+
+ejection on Stuihul body President Husly 
+'nnc's leadership iihililies. But It Is very 
+mportnnl that nil students be made aware 
+
+
+
+Cuurl Killing and certify last spring's 
+
+
+
+
+COMMUNICATOR 
+
+
+
+fetters to the editor 
+
+
+
+Union board chairman asks for opinion 
+
+
+
+St Hi leu I 
+
+Maybe 
+
+
+
+Student Union I 
+
+
+
+dem 
+
+
+
+
+
+
+inn. a higher authority, prov, 
+ind the Watergate a 
+
+
+
+sophistry, pruning uny ubjeclive relerer 
+
+My initial efforts were in writing o 
+
+democratic representatives; though, 
+
+anticipated little aid or encouragement V 
+
+another, regardless of any person 
+sympathy or recognition ol injustice, 
+politician wools n. contend with parochi 
+hysteria (which would then be- entered to I 
+
+
+
+Pandora' 
+
+Part of my efforts on th 
+
+unhide petitions, addressed 
+Ford, pleading an eighth 
+
+violatioiwuul asking, on clear 
+for a presidential pardon 
+
+
+
+; any politicians, ha 
+o oppose parochi 
+open this politic 
+
+
+
+Manager and the c 
+Agency for the grot 
+
+
+
+upgrade 
+; Student Union 
+
+
+
+Purdue that is better than 
+Student Union Board wants and needs 
+its and suggestions. 
+
+
+
+quality of 
+
+
+
+e Union Built 
+
+
+
+...-in ■ i fit 
+
+
+
+i lor tl 
+
+
+
+port in initialing a well-publicized 
+on wide crusade. A number of people 
+unrkmi: with nie leave me oplinnstic 
+
+
+
+FRANKLY SPEAKING. . . .by phil frank 
+
+
+
+and '.ught to-- to be granted and v 
+Playboy Foundation willing to ci 
+
+
+
+
+'1 THOUGHT HOlTD LIKE MY MEW 
+PERFUME -ITS HY0R0CHU3RIC ACID 1 
+
+
+
+supply I 
+
+
+
+IU-Purdue. If we ci 
+i the Student Union I 
+•e to the Ballroom. 
+
+
+
+total student body. Without extra power 
+the ballroom, the students are subject t 
+performance that, the majority of the til 
+is inferior to performances held in ot 
+
+
+
+Student Lounge in 
+quality of groups tl 
+
+
+
+student body without using up their budget 
+
+public. The f 
+IU-Purdue at 
+
+two albums oi 
+
+
+
+Lighthouse, Cactus, REO Speedwagon, and 
+
+various ski trips to Cannonsberg, Michigan. 
+The Union Board, by saving money through 
+ticket sales to the public, put on last April 
+the largest and best Harbar-Arbar Days the 
+university has ever had in its history. More 
+people attended the Harbar-Arbar days 
+festivities, including a pig roast and bike 
+
+12,000 people, which is more participants for 
+a university function than every before. The 
+
+people together for an afternoon of musical 
+
+different part of the country, they had a 
+
+
+
+p of Ten Forti. Ann Bucheil, 
+Mike Yann, and various 
+
+■tudent newspaper about the 
+
+
+
+d perform. The newspaper, and! 
+
+
+
+Higher education 
+exploits faculty 
+
+
+
+■l today, Septem 
+
+i- llmh.a Kdii 
+
+sity faculty ir 
+
+
+
+.hi. Richard Gibb, 
+
+liennium budget. The AAUP group,; 
+
+
+
+Larry Lucas (Educational Research, BSUl, 
+
+
+
+faculty purcha 
+
+
+
+
+er by July 1, 1974 had 
+
+
+
+
+
+
+
+
+
+
+iesof 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+year with university 
+
+
+
+
+
+
+is. John Ryan, ami 
+
+
+
+
+
+
+
+
+
+
+
+
+1 fringe benefits for 
+
+
+faculty across 
+
+
+are'fto 
+
+
+e. Following the fall 
+rts will be conducted; 
+
+
+
+
+' 
+
+
+
+president J 
+
+
+ihn Ryan was presented to the 
+
+
+assembly 
+
+
+
+
+Noting 
+
+
+
+
+higher education, Ryan stated that Schwartz was 
+
+
+chosen "by 
+
+
+careful and deliberate process to be 
+
+
+ftK-sm^d 
+
+
+anccllor or a campus that enjoys the 
+
+
+
+
+e good will, and the expertise of two 
+
+
+
+
+si ties." He expressed confidence in 
+
+
+Sdm..rl/s. 
+
+
+n'lity to steer (he separate schools in 
+
+
+°" e Wafb '° 
+
+
+en introduced Purdue President 
+
+
+
+
+en, who discussed the meaning of the 
+
+
+
+
+en said that he viewed Dr. Schwartz 
+
+
+
+
+o understands the problems of a duel 
+
+
+■ ji..|..ji* bii 
+
+
+who will be able to overcome these 
+
+
+
+
+
+
+In his inaugural address, Dr. Schwartz cited 
+
+
+
+
+sin attitude that he sees in the future 
+
+
+
+
+
+
+
+
+next few years, Indiana-Purdue will 
+
+
+be striving 
+
+
+for excellence probably more 
+
+
+unnrijusly 
+
+
+lan in prior years because It will 
+
+
+lintltTsl.Klli 
+
+
+nore clearly what its academic goals 
+
+
+
+
+5 academic goals will crystallize as it 
+
+
+
+
+•■ responsibility (or its own destiny," 
+
+
+said Schwartz. 
+
+
+Schwartz said he felt that the university was 
+
+
+obligated to 
+
+
+
+
+develope leaders, but also to develope to their 
+
+
+
+
+
+
+[iii|&gt;i|1.iMijii. 
+
+
+ius improving the quality of life for 
+
+
+
+Schwartz officially 
+named Chancellor 
+for IU-PU campus 
+
+
+
+
+
+Firms concerned about 
+materials, safety 
+
+
+
+
+
+Library to sponsor 
+'{] displays, programs 
+
+
+
+I 'olleJiO 
+
+
+
+The goal of the English 
+
+English composition classes 
+more homogenous in nature. By 
+grouping students of similar 
+capabilities it will make it much 
+
+
+
+through Friday. 
+
+
+
+Finuiual aid, person"' 
+und ouidemit tt«M*H 
+ana, most liPp» irapt ' 
+
+
+
+■ j-r i.lu.iit J from the Fort 
+
+
+
+Wayne / 
+Champaign I 
+
+
+
+Is included in 
+"Elementary 
+
+
+
+less ol the depository of 
+
+publications from the govern- 
+ment that are sent to the Library. 
+These documents are available 
+
+The Library staff also 
+worked during the summer to 
+
+fhe Library now has three 
+separate card catalogues, filed 
+
+
+
+i ' Bloomington, it used 
+
+
+
+Fund and is a men 
+
+Composition testing 
+
+Purdue's English Deparl- 
+
+change and is now making it 
+
+iglish composition 
+it before enrolling in 
+
+
+
+
+
+
+Student problems 
+
+Starting Friday. Septemb 
+
+in'room'G46 Rusty Cane and P 
+Teagarden will be meeting wi 
+
+
+
+e change 
+
+
+
+would like to see these 
+
+brought objectives accomplished: 
+ige-fl!d problem of " Informal meetblg with 
+
+ng placed in a your Student Body P r ^'|[ ,,nl ^ 
+
+.,,.. improve universitv functions 
+
+freshmen for Pur- h ^^^"SwTe^ious^tobe 
+
+e aware o n i,,.,,,,^,, , Ui.-opiTi m see if we 
+
+ime Of enrollment, can work i^her to solve them 
+
+ilionmre- juniors q&gt; nnjime 
+
+e still unaware of getting involved in 
+
+
+
+IULERC courses 
+
+The Indiana Umversit 
+
+its Union Leadership Progrj 
+-Purdue at Fort Wayne. 
+
+
+
+Tuesdays from 7 
+The instructor wi 
+Houseman, of th 
+
+
+
+i day, with the first 
+
+lomlc strips, starring "We've found 
+
+ner films and the departments duplicate 
+
+
+
+&gt; ques- experimental t 
+
+
+
+SAVE WITH US! 
+
+
+
+ih with &lt; .intrusting Vinyl Roof- DeepE 
+h black Bucket Seals. 5 Brand New P 
+
+
+
+Hill I" 'Mir. iactnry ;nr. only ■i-t.(KKi mill's on 
+-8 -1 speed transmission, power steering .&gt; 
+
+Blur with while Vmvl kip and white 6(1 
+
+Nave a bunch on Ibis one- G995.00 
+louialu transmission, lull power. Light Gn 
+
+V-k Encine- lull power, factory a 
+
+
+
+&gt; 
+
+
+
+
+
+
+' wh, ■•■}-. It 
+
+
+
+Engine, 
+Silver finish- Red Stripes. Radial 
+
+lIvmhIh-i .ri]- i 
+
+erf 
+
+V-H Kngine. 
+
+
+
+miles Factory 
+
+
+
+mil | 
+
+
+
+Hl.n-t, Hlkk&gt; 
+
+options but runs perfect 
+
+
+
+8 Engine, full power, automatic transmission, faelory a 
+ier. factory air, ^ speed- orange finish with Black Buc! 
+
+
+
+Small 8 clyinder Engine, full power 
+■s Green finish- Hani to find- 2795.00 
+- The ptushed of the Matador's- White finish with 
+
+
+
+data they require for 
+s and the informa- 
+
+
+
+tion Hint they release 
+public. We're trying h 
+fairly current collect! 
+Wayne documents," 
+
+
+
+I. I i.- Mill 
+
+
+
+Mllll (.'.ill 
+
+d, or too 
+
+lie library 
+
+ie sold for Cartwrighl and 
+
+
+
+Biolette also said that 
+
+working with Carol 
+
+sociology 
+
+
+
+■eTuextay 
+in Keltler 
+
+
+
+i and testing ukmii i&gt;Lh 
+
+
+
+GALS&amp;GUYS 
+
+
+
+
+Ft. WAYNE AMERICAN 
+
+
+
+4320 CoUwter Rd. 
+
+
+
+*$&gt; 
+
+*\™ JEANS 
+
+cuffs, 
+
+bells, 
+
+straights 
+
+jean jackets 
+
+tops 
+
+dress slacks 
+
+knit tops 
+
+baggie tops 
+
+
+
+
+WHERE A DOLLAR 
+SEEMS LIKE FOURI 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+
+
+Wempler grant 
+
+
+
+Membership week 
+
+completing the boo 
+Circle K has turned ii 
+focus to adding strong net 
+
+ber 16-20 has been designated a 
+
+manned by K members will b 
+located near the cafeteria in th 
+Student Union. Also, a displa 
+case depicting many of th 
+
+highlights can be found in Kettle 
+
+Again this year Circle K 
+
+
+
+IIIHllvi'll I 
+
+tampusandintl 
+
+
+
+Hall, Wednesdays f 
+Edwin Leonard, of tr 
+
+
+
+development of collectiv 
+[Mining in Ihc United Stat 
+provide background in c 
+bargaining theories and 
+
+"The Unions and the G 
+
+
+
+g such organizations and 
+iple Sclerosis, 
+Volunteer in 
+
+
+
+will include the 
+s of local and state 
+s and will emphasize - 
+
+
+
+f patholo- 
+
+
+
+each year. Expanded a 
+this year include Hie se 
+operation of a campus b 
+
+
+
+i, Kettler Hall, Wednes- 
+
+
+
+o\c_ellcl)t orj 
+
+So, if an 
+
+really gettui 
+
+
+
+:h program \ 
+il feeding beh; 
+
+
+
+
+
+
+
+
+
+e damage t&lt; 
+
+
+
+second g 
+ing and ex- 
+treme-obesity Six major controls 
+on feeding will be examined in 
+both the lean and fat animals 
+with brain damage: Meal 
+patterns and the changes 
+themith 
+
+
+
+eight Impressions 
+
+
+
+something happen'' 
+
+
+
+
+
+
+Slavic series 
+
+"Iconography: Vis 
+
+
+
+of 
+
+
+
+Wayne faculty for two 
+
+
+
+Portnoy's Complaint 
+
+
+
+xing interested 
+ding a lengthy sta&gt; 
+
+
+
+,. They will go 
+
+
+
+FOCUS ON 
+FINE ARTS 
+
+
+
+Van Morrison makes 
+you forget heartbreak 
+
+
+
+Dr. 0. F. (Frank) Kenworthy 
+Department, teaches courses in theater history, stagecraft, scenic 
+r management, and other theater -related subjects, and 
+is general manager of PIT (Purdue-Indiana Theater). 
+
+i campus. In the Fort Wayne 
+
+
+
+
+
+
+
+
+
+Kenworlhv is 
+
+
+vice-chairman of the Fine 
+
+
+!-..&gt;iJH'l,ii 
+
+
+
+
+
+
+
+
+
+
+deal of 
+
+
+
+
+
+
+
+
+
+
+expand the Fine 
+
+
+
+
+
+
+
+
+:c ess fully working 
+
+
+
+
+d organization ith&lt; 
+
+
+do not n 
+
+
+BC&lt; 
+
+
+ssai 
+
+
+lly happen at the 
+
+
+-m-K' Urn 
+
+
+I. And this year 
+
+
+
+
+Mastodon soccer squad beats OSU; 
+edged by St. Francis College 4-3 
+
+
+
+RAP LINE 
+
+
+
+a behind 
+
+iury and minute 
+ilu' rapidly improving goaltend- Maslodoi 
+
+
+
+the scoring at 39:45 with an assist 
+
+Goalie Mike Heiman made a 
+
+registering the first Mastodon 
+
+
+
+Boston undMinnwtlii All lint Minn, -.la are sill) in solid COi 
+and even the twlm an in 'I elbnbafed mathematically yeL) 
+
+The elder league still has an. jvcr.jl.undn rite of stars, and will 
+
+Miami. PitLsburfih, Uakl.inrl. U.illas. Minnesota, and Los 
+are my choices, even ,w conventional as ihey mighl seem. E 
+of these teams has ;&gt; lop notch &lt;\uw terback, and most of lh&gt; 
+sufficient back up corps uh well. Look for Buffalo and Wash; 
+sneak in the playr.lfs with rc.perlable second place record 
+
+
+
+»*■•%* 
+
+
+
+fl»ft 
+
+
+
+anna 
+
+UNZAUTOHAUS 
+
+
+
+tally kicks by begin 
+
+
+
+I on u goal by ( "nnilo 
+-, Uan rlamigan closed! 
+
+mini' v-.illi an iiii-j ■-■■1:1 "''I 
+
+
+
+, Mulugela Aguonler. 
+evcre arm Injury and 
+31 for an Indefinite 
+
+(the season record at 
+
+
+
+
+; the humble choici 
+ip Hanratly at (he appreciative nppo 
+ipponents, theyll have to display t 
+
+
+
+and Hill (o outdisi 
+
+
+
+y knowledge of ll 
+,, Miami 2. Buffalo 3 New England 
+.' England could very well be the surpri 
+
+
+
+SPORTS 
+
+
+
+s FIAT- Ibe biggssl selling cat in Europe 
+
+
+
+. CANDIDATES FOR DEGREES I HI S JANUARY 
+PLACEMENT CONVOCATION 
+When: Oct. 3, 1971 
+
+
+
+I. Baltimore 
+
+
+
+/ York. This could b 
+1 Central; l.Minn. 
+.aughcr outside o 
+
+
+
+th :■ bi-'lihv 
+
+ClevH.ml! 
+
+
+
+e league Oakland has excellanl 
+ashinglon 3. Philadelphia i m 
+
+
+
+Netters smash Saxons; 
+defeated by Marion 
+
+
+
+o problems whalsoevc 
+
+
+
+m has had little &lt; 
+lclice, and therefe 
+ngs rough against hi 
+e opposition. 
+
+
+
+
+
+
+i I'hl.un.-d l 
+
+
+
+Summarizing 
+
+breaks up the gai 
+
+Steve Hargan 
+
+Champion Oakland 
+
+
+
+ies through August 
+
+style of play 
+difference betwee 
+
+Hargan, a For! Wayne na 
+
+
+
+e Royal's Fran Mealy 
+■tealing catcher in the major 
+
+i tin.- i. animals, speedy Lou 
+! and Willie Stargell is that he 
+
+. LvceiHly ik'hSiUd Hie W.ii'ii.l 
+
+
+
+Hoping to capture tho 
+tecker and Bolyard 
+
+
+
+the match During practice liin&lt; 
+players must sit around and wai 
+
+
+
+Purdue football 
+tickets available 
+
+
+
+r expressed high 
+for the team. He 
+much impressed 
+
+
+
+Becker to raise funds for courts 
+
+
+
+downtown 
+
+704 W. Jefferson 
+(at Broadway) 
+
+422-7696 
+
+
+
+north 
+
+257 K-Mart North 
+(across from Glenbrook) 
+
+484-8624 
+
+
+
+CAESARS 
+SPA 
+
+
+
+park and public 
+
+capacity during the available 
+outdoor days 
+
+The heavy demand for tennis 
+court time makes scheduling 
+
+
+
+iber 21, and the Iowa garni 
+
+available for Indian; 
+
+i Fort Wayne students cai 
+a student season ticket b&lt; 
+&gt; S18.00 to; Bill King 
+nl Ticket Manager, Indi 
+
+
+
+;en published for the 
+in games with eight t&lt; 
+
+
+
+CLASSIFIEDS 
+
+
+
+Regional Campus. : 
+
+
+
+■rwarded to IU 
+
+
+
+U. student. ule follows; Stoneface vs. 
+Bolinger, Wild Bunch; Eagles vs. DGTS; 
+
+
+
+
+private rooms 
+
+authentic rock sauna 
+
+steam bath - stereo 
+
+needlepoint showers 
+
+free parking 
+
+
+
+
+SOLUTION 
+
+
+
+
+
+Cross country team defeated 
+
+
+
+ison against nationally r 
+
+
+
+Spring Arbor's Tony L 
+
+
+
+: against Anderson 
+cd Hillsdale College 
+
+
+
+Smoker to be Sept 24 
+
+
+
+t Mollenkopf. He will will 
+
+
+
+• ilunnii !n&gt; hHirluen &gt;v,n 
+
+
+
+first film. The second feature 
+
+'erry Hanratty, 
+quarterback for 
+eelers, filled the 
+
+
+
+lOPENMON-FRI 10 am to 12 pm SATURDAY 10 am to 4 pm 
+
+
+
+FREE TUTORING IN ALL SUBJECTS 
+BY COMPETENT TUTORS 
+
+ROOM 440 A-B (4th FLOOR LIBRARY) 
+CALL 482-5745 FOR INFORMATION 
+
+
+
+</pre>        </div>
+      </div>
+    

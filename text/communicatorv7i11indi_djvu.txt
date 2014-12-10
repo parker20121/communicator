@@ -1,0 +1,2098 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i11indi/communicatorv7i11indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i11indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i11indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+VOLUME VII, Issue 
+
+
+
+THIS 
+WEEK 
+
+Recital 
+
+
+
+
+Survival 
+
+
+
+. Cornhuskers, 
+one of the nations top soccer 
+teams was barely able to slip 
+by the IPFW soccer sqaud 
+when they met last Sunday. 
+Barry Blackburn tells of the 
+
+
+
+COMMUNICATOR 
+
+
+
+y-Purdue University al Fort \ 
+
+
+
+No building until 1980 
+
+
+
+Hansen and Ryan hear students 
+
+
+
+
+minority staff." 
+
+In asking f( 
+
+Fillmore stilled, 
+
+
+
+isitional program 
+■e ill prepared for (I 
+
+
+
+Hansen -nd, "We are doing some work 
+n Ciilunu'i ivhiili helps students complete 
+iu,li schiml bm is als,&gt; applicable for college 
+
+
+
+c offerings to satisfy tl 
+
+
+
+meeting was opened by Student 
+
+
+
+I- Hie ii|ii"H'luiiJlv fur Die n-pivsmtnlivi-s 
+
+
+
+The top of a secretary's desk 
+fire was the last in a series of "about" three or four fires in "around' tbi 
+
+weeks, said campus business manager Jim Thatcher. The fires appear t . 
+
+according to reports received by The Communicator. (Staff photo by Chris Hall 
+
+Placement center helps 
+students find employment 
+
+
+
+studies expanded 
+
+
+
+ivas somehow differ enl from 
+n from Jane Mildred, s 
+
+
+
+'. IPFW, left the Inline. I 
+
+
+
+Youngstown Steel in Chicago. 
+
+Another person the placement 
+found a job is Ron Hertensein 
+
+
+
+ailable-righl there on campus," h 
+Diane Mitchell claimed the plat 
+iter was very helpful and placed h 
+) last April at a time when jobs wer 
+employers io get. "I had applied at the cente 
+
+
+
+c R-hlrd N.lm-.mt-ss [n l.jrl. 
+
+
+
+and having the &lt;&gt;p|inriu 
+feellilpA Willi nlher |x hjiIh- 
+i|iK'sli,jri mil urily inyscll, 
+
+
+
+One of those who was assisted last year 
+is Samuel Mclnturff , who is now a math 
+teacher at New Haven High School. He 
+found his job through the help of Barkhaus 
+
+
+
+,e applied in September 
+
+
+
+introduced to students through certain 
+
+The only requirement may just be to 
+
+register early enough. "Students should be 
+looking early," said Barkhaus. "You've got 
+
+possible-not a week before graduation." 
+
+Study wasn't 
+special project 
+
+rectly reported that Tim Ducey's study of 
+ng for higher education was done 
+
+
+
+ihc models I 
+w of myself and of 
+
+
+
+ividing of role models of successful 
+i the community along with support 
+uragement for women to heighten 
+
+
+
+Another student, Nancy Storms, was 
+happy to express the changes encouraged by 
+the opportunity to share frustrations and 
+reflect upon expectations imposed upon her 
+by society. 
+
+"I understand myself more and I am 
+aware of the reasons for my fear of 
+achieving success which have affected my 
+
+Psychology of Women's Exper- 
+took, there i 
+
+
+
+unh lliriiue.li llu' dillcn 
+Irian i Oliver rial i-|,i-m. 
+
+
+
+mini ill mi'i'lmi: .mil discussine. niiKkIi' 
+
+f a friend of mine were to ask if they 
+
+
+
+9 program has been 
+
+
+
+In (he spring semi 
+
+ercd: Psyc. 493, taught by Cathri 
+
+
+
+, taught by Mary Ka; 
+
+
+
+ami uonlemporary points of vie. 
+will feature women in polit 
+historical aspect as well as an ii 
+
+
+
+. ilitl " 
+e taught li&gt; Barbara Knight; 
+
+
+
+expressed by studer 
+
+
+
+which will delvi 
+
+
+
+_ it by Bai 
+taught by Ruth Langher 
+
+
+
+Student government discusses 
+'publish or perish', cafeteria 
+
+
+
+Spring registration 
+November 10-14 
+
+
+
+
+. LRC is donating the four speaki 
+
+
+
+registering between 8 
+
+
+
+LETTERS 
+
+
+
+Director claims AAUP unprepared 
+
+
+
+EDITORIALS 
+
+
+
+Let's stop lip service 
+
+Last week The Communicator reported on a sludy done by Tim Ducey un I he 
+er^s ine.ju.dilv ..I fundim.- lor shile supported colleges Ihe report showed ih.il 
+l) |lli,.i.i l ili Norllicni !i: li.m.i contains three of tin- slale's largest hm 1 1 &lt;.|».hl .u, 
+areas "the per capita eMjiendMure lor higher cduc.dion in this area ranks last in the 
+
+
+
+sily faculty why did il 
+
+
+
+sity budget appropria 
+cipal Employees, an 
+
+
+
+lable things tor faculty 
+
+
+
+ceiii|K-iiiic Why Ed Byrne a 
+
+
+
+BSUbmitli'fl '" Hi' 1 cli.incollor 
+and his exeeulive cabinet over a month ago, and as yet, (here has been no public 
+reaction bv ihcm nn this outrageous situation 
+
+111 fact Chancellor Schwartz has had the nudacny In prohibit a top 
+aduiinislr.ilui- In. in rJistnl.uiiii)'. 1'ucev's study I" sli.tr legislators Me has also 
+done ever\ thine l.nl .ij),.|in.'i/e!oiV--nl&lt; hi- Hansen .m. I Kv.in tor the injiisti. ,-: I lie 
+report illii-.ii.iies. when in reality, they should be apologizing to Schwartz for the 
+
+n great need of 
+
+;, and broader academic offerings If 
+ebenifits. the campus adminislrnliuiis, along 
+with lln' m.lei.is. faculty, ami communities of .ill Northern Indiana are going to 
+j publielv unile and light for them, 
+
+ofover-suppm mir I'.l.iiunioi.;..... ,mu un«jc«c i« 
+nnncps is nn Innppr valid IPFW is Ihe largest H„„ - 
+
+iudepeijd. 
+
+
+
+Landis real asset 
+
+
+
+L - Northern region is to r 
+
+
+
+t the day 
+
+worked in each area ( " 
+
+weekly opportunities to work in Ihe Infant 
+
+Room, run by Glada Landi ~" 
+
+
+
+Nurses dislike ad 
+
+
+
+lould be recognized 
+
+, and sloped being treated as a second-class 
+' lis! ration quit playing lip service to Bloomington and 
+
+
+
+A good show! 
+
+, along with the InterCollegiale Activity Counsel 
+a colleges with a fine program last Friday evening 
+irgani/ed well, and the event W 
+" e another, something that 
+
+
+
+When will they learn? 
+
+Students' Government: when will they ever learn? At their last senate 
+1, Ihey decided lh.il the clocks on campus should all be synchronized That 
+e enough gesture, I ml Ihe shale] il gnvornmenl ot two years ago also passed 
+similar resolution, which turned oul to be just as futile. 
+The resolution nf two vears ago demanded Ilia! all Hie clocks in Neff Hall be 
+
+
+
+Manges, Mini Mean and Director of 
+after the equipment "" " ' 
+
+
+
+Kin* 
+
+
+the condom as a conlr 
+
+
+efeel 
+
+
+he ...lis. 
+
+
+tensive to th 
+
+
+
+
+
+
+
+
+Communicator 
+
+
+
+
+coft 
+
+
+
+
+as an effect! 
+
+
+h control. 
+
+
+
+
+
+
+!',".":,!;'.,' 
+
+
+"Lt'cm 
+
+
+
+
+
+
+image ot th. 
+
+
+.sion 
+
+
+nstead of 
+
+
+degrading it 
+
+
+
+
+*•••••••••••••••••■*. 
+
+
+
+THE 
+CALENDAR 
+
+
+
+3 The Communicator T 
+
+
+
+Friday-7 
+
+Saturday-8 
+
+Sunday -9 
+Monday-10 
+
+; Tuesday-11 
+
+,. Wednesday 12 
+
+
+
+CAMPUS BULLETIN BUARU 
+
+
+
+Q 
+
+nicESTENSiAi. raESENTfl-n 
+
+
+
+P1.AC1NC THE MgM^^SMM IS ■.iSTORICM PERSPECTIVE 
+
+
+
+SEPTEMBER 11 - NOVEMBER 20, 1975 
+THURSDAYS, 8:00-9:00 P.M. 
+
+
+
+
+, fee. 
+
+
+
+lectures are open to Che public; no admis_ _ 
+le« also avatble as a one-credit college course, with a fin— 
+--For undergraduate credit: History H225, Section NUO 
+-For graduate credit: History H42S, Section Kill 
+-Registration during Fall Registration period, August 20-22, 
+7:30-8:00 p.m., Kettler Hall, Room 146 
+
+
+
+
+
+
+Saturday-15 
+
+Sunday 16 
+
+
+
+NEW UNIQUE HEALTH PRODUCT 
+
+SUNASU PRODUCTS, INC. 
+
+SUNASU IS A CAREFULLY 
+
+BALANCED FORMULA OF 
+
+VITAMINS-MINERALS &amp; HERBS 
+
+i r ..ii . i . | ALL IN 0NE COMPLETE 
+
+t UH In 8 L B NUTRITIONAL PRODUCT. 
+
+
+
+
+The Salesians... 
+
+Helping 
+others 
+to help 
+them- 
+selves. 
+
+
+
+always a handful ol 
+
+rice. . . or (he gift of a 
+
+warm shirt . . . it's helping others to help themselves. 
+
+A more lasting and dignified, way, we say. 
+
+Since our foundation in 1859, this has been the 
+Saleslan way. Education is the keynote. What good is a 
+meal today when one must think of all the tomorrows? 
+St. John Bosco knew this well. What good are dreams 
+unless they are translated in reality by deeds? 
+
+Around the world, Saleslan missioners hBlp their 
+flock by giving them ways to help themselves. Whether It 
+is agricultural training or technical training for a trade 
+(hey can learn, people are encouraged to find their 
+own niche, their own way of betterment, their own road 
+to human dignity and self help. 
+
+Salesians work primarily for youth, for it Is in the 
+young that hope is born. There are Saleslan missions In 
+73 countries around the world. If you are Interested 
+in a life that gives as much as It receives, fill-in the 
+
+
+
+
+Salesians? 
+
+
+
+lt „ recruiters, students -^ ^ "f ^"t serve) * J -'^SSS 
+i,„lble to interview with rec t bas is («»' Failure to keep lntet . 
+
+To be eligible to duled on an Wf" he recruiter s yi i suspension ot iu 
+
+Ml interviews are s _. perlod P«« dl ° 8 cance iutlo&gt;. could result 
+
+be scheduled in m. advance notice 
+
+interview without 24 
+
+
+
+interview 
+
+„lew privileges. 
+
+
+
+November 10 
+November 10 
+
+
+
+
+== nreceded by 
+fA^ced^ acting I-- 
+
+Annaur-Di* 1 
+, uncota National Corporation 
+
+
+
+Metropolitan Ufe 
+(Business re 
+
+
+
+isterick. (*) 
+
+
+
+lllle 
+
+
+
+schedules, howev 
+
+
+
+„ In BU9i ne9! 
+
+
+
+; , students may request 
+
+t supervision lor Sales 
+
+
+
+a «a for Sales pos" log |.o»iti« iMB . 
+Technology '"""^nagement Trainee poal 
+for Administrative 
+
+
+
+^ B T^^s;ies 
+
+U.S. degree in any 
+tlve positions. 
+
+
+
+ratlve pOSltiOPS 
+
+
+
+ljor with 2.6 CPA^or sales Repres. 
+
+
+
+:rainee 
+
+
+
+Republic Steel 
+
+
+
+Hay „e national Ban* 
+Magnavox Company 
+
+
+
+, r , „ -,*i-»™T/B S^aegrees 
+A S /B.S. *^« 9 V Si" Tratnee P"'" 1 ""^ Atrial Englnee- 
+^ntenance »»£^5 ng Techn"lo» ° ^'.^ t: T»l 
+
+ln ""Tnology "" Productlon^^^ £o r Accounts 
+
+ing Technology ^ s de8t eas In *« 
+
+£i3£- ' 19tratlo „, including^ 
+
+„ ee in Business ""^"Accounting and Cener 
+"• S - d "f 8 "terketi»g. fMa T f a ree"positions. 
+Economics, nage „ent Train 
+
+Business, tor 
+
+
+
+B.S. degree 
+B.S. degree 
+
+
+
+B.S. degree 
+
+positions; B ; 5 ; ltlon s. 
+
+Programming P 
+
+
+
+-, Flectrlcal Engln 
+EE T for Ele "„,..i and M 
+MET for Mech-nle 
+
+
+
+Scions; 
+
+■ing Engine 
+
+
+
+,™iogy £ot comp 
+
+
+
+"""-PUBLZC SCHOOU. 
+P »""C TRUST OR „ »„ 
+
+" PRIVATE ^P0» SIBIUn 
+
+
+
+Thursday, Novm|)| 
+
+
+
+
+riday, 
+sale for 
+
+
+
+faculty &amp; staff 
+iday morning, November 7 - outi 
+Saturday morning, November 8 - 
+
+p; $5.75 ($5 nn F ««- n* + 4,w4t-,t . 
+
+
+
+tivity i 
+
+
+
+Richard Sauer r 
+
+Fat her James " Po , rt Wayne Lutheran q 
+
+
+
+• Audit. 
+
+
+
+- ""yne Public i. h , 
+
+- Allen /•„ Schools 
+en Cou nty Schools 
+
+
+
+Project Directo C °™ 1 
+
+
+
+SEMINAR SERIES 
+
+
+
+BIOLOGICAL 
+
+
+
+MONDAY, November 3 
+11:30 am - Kettler 128 
+
+
+
+
+The Campus Bulletin Board Is supported through the administrative offr 
+Academic departments, recognized faculty groups, and student organizations 
+
+lents of campus events and programs for inclusion on this page by set 
+Middleton - 198F Kettler by noon on Monday of the week in which the 
+terns carried will be subject to space available and determination o 
+
+
+
+FOCUS ON FINE ARTS 
+
+
+
+GENERAL CIMEMA CORPORATION 
+
+1 ALL CINEMAS EVERY DAY S1.25TIL 2:30 1 
+
+
+
+STARTS FRIDAY I 
+
+Whiffs 
+
+
+
+I STARTS FRIDAY! 
+
+
+
+Old Dracula 
+
+
+
+HELD OVER! 
+
+
+
+HELD OVER! 
+
+
+
+3 Days of the Condor 
+
+
+
+Let's Do II Again 
+
+
+
+French &amp; Baroque music featured 
+in Meyer's voice recital Saturday 
+
+
+
+i Saturday , November 
+
+
+
+it stnee I am singing the 
+lighted that she has 
+hat I probably shouldn't 
+
+
+
+\ Meyers, a lyric 
+
+
+
+approach to a progre 
+
+
+
+Best selling 
+
+Paperbacks 
+
+from Follett's 
+
+1. Caldwell: GLORY &amp; THE LIGHTNING $1.95 
+
+2. Bugliosl: HELTER SKELTER 1.95 
+
+3. Thompson: TATTOO 2.25 
+
+4. Berlitz: THE BERMUDA TRIANGLE 1.95 
+
+5. Rogers: DARK FIRES 1.95 
+
+6. Heller: SOMETHING HAPPENED 2.25 
+7. Giles: SLAVESOFSABREHILL 1.75 
+
+8. Herriott: ALL THINGS BRIGHT &amp; 
+BEAUTIFUL 1-95 
+
+9. Hollander: ON THE BEST PART OF 
+MAN 1-95 
+
+lO.Tryon: LADY 1.95 
+
+fOlletts 
+bookstore 
+
+GROUND FLOOR KETTLER HALL 
+
+
+
+-ylng to Three of the Wolf songs are from 
+
+with as the Italian Song Book. My wife 
+
+et from and 1 sang the complete Italian 
+
+s why I Song Book in 
+
+
+
+panato style, followed by kow, s 
+
+pid. joyous "Every Val- us He 
+
+both from Handel's which 
+
+~ b (wo pieces perfoi 
+
+
+
+"Then, if I were sinking (he 
+program by myself, I would 
+probably do some French art 
+songs, for I made a specialty of 
+
+
+
+is a very lovely cycle of six 
+songs, all very delightful. It's 
+about Marguerita of Navarre and 
+
+I performed the cycle on one of 
+
+Teels that it belongs to her, since 
+
+performed it on the radio for 
+
+
+
+o German u 
+
+e performance with the Vernaud-Meyers v 
+
+Schoent 
+
+ita, who is now 
+inductor of the Los Angete; 
+s includ- Philharmonic, and she latei 
+ber, the toured with the work in Austria 
+in i.f American composers and and Italy. She has performed al 
+; by Menotti." the Salzburg Festival, 
+
+
+
+and radio program: 
+land, Belgium and F 
+
+
+
+i Schoenberg's 
+Mehta. 
+
+
+
+Metropolitai 
+
+
+
+ne University of 
+
+he studied at the 
+Usic for seven 
+
+
+
+Iroadcasting Com- 
+Vernaud-Meyers holds Diplomas 
+
+
+
+is soloist last mon 1 
+I Wayne Philha 
+
+Mahler Symphor 
+
+
+
+
+LRC sponsors slide show contest 
+
+
+
+ronrrsiTiUl 
+organizatio 
+
+
+
+ions nniLvniim.; miIijcl.1. 
+L'm)'! ,i|.liu,i| location. 
+
+JiKtuirit: cnleria will ■ 
+of general quality of the p 
+
+
+
+Opera in Bonn, Germany, singing 
+
+appeared in Austria. Germany, 
+
+the Vienna Chamber Opera in the 
+Schoenbrunn Castle Theatre. 
+After returning to the United 
+States, Meyers completed his 
+doctoral work at the University of 
+Missouri -Kansas City. He taugfit 
+at Western Illinois University for 
+four years, and currently is head 
+
+director of the Opera Workshop 
+
+of the Division of Music, IPFW. 
+
+The recital is free and open to 
+
+Faculty-artist 
+recital series 
+
+The Faculty-Artist Recital 
+
+IPFW, will present a recital on 
+Sunday, November 9, 1975, in the 
+
+
+
+1 be Mary Stewart Ator, 
+
+zzo-soprano; Wayne Bennett, 
+rinet; Carol Collins, Piano; 
+1 Betty Turnley, piano. They 
+1 be assisted by Susan Bennett, 
+
+
+
+: THE : 
+ARMY i 
+NAVY i 
+
+j STORE j 
+
+,1831 Wells S tree r; 
+', 422S727 ' 
+
+
+
+nical slide quality. 
+
+
+
+Bach concert 
+
+
+
+sented by the Indiana Cham- 
+
+
+
+Wayne 
+
+
+
+" by Bernhard Cusell. , 
+
+
+
+nnett will perform "Solo de 
+Concours for Clarinet and Pi- 
+' by Andre Messager. Ator 
+
+
+
+Heap iG. Buy iG, use iG, 
+
+Dll D I U t and saue $110 ' 80 in y° ur pocket) 
+
+The 600 System . . . definitely a step up. 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRIHDERS 
+BROASTED CHICKEN 
+
+SAUSAGE ROLLS 
+
+MONDAYS &amp; THURSDAYS 
+
+S1.00 OFF 
+
+ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+'Black Is the Color," "Gently, 
+
+Johnny," and -, Soldier, Soldier." 
+
+The program will close with 
+
+"Divertimento for Flute, Oboe, 
+
+featuring Wayne Bennett, Susan 
+Bennett, and Kay Borkowski. 
+
+
+
+At DGTS: 
+DECAs 
+Reno days 
+
+
+
+the first of its series of Reno Days 
+in the DGTS student lounge 
+November 5 and 12. DECA, 
+Distributing Education Chapters 
+
+
+
+Task Force discusses 
+vocational education 
+
+
+
+FRANKLY SPEAKING. . . .by phil frank 
+
+
+
+'established through a grant from 
+"|ocal needs. Professor F. Lee 
+
+Gorgone attends 
+i workshop 
+
+
+
+Computer technology, particpat- 
+ed in a workshop in two-year 
+college programs in computer 
+
+
+
+IPFW students in bicentenniul debate 
+
+
+
+
+"I CAMT £EE yWSELF WORKm 
+FOR A OCRFDRATOl THAT 
+PROPUCK muim AW/flEW 
+MOT ffc*IO,O00H HOT fORf ll,O0o!&lt; 
+HSWEVSR- R3B # I4,ooo,..* 
+
+
+
+«C COLLEGE MEDIA SERVICES-80X 9411-6ERKEL£y CA 9 
+
+Antiques c/ass offered 
+
+
+
+p and Eval- antiques will be offered by i: 
+
+
+
+Post-Secondary Schools, 
+
+
+
+idi.'ntifk\ition and buyin 
+antiques will be offere " 
+beginning November 
+
+days from 9 
+
+
+
+Mon.-Fri. at 6:00, 9:15 
+
+also: "Superdad" 
+
+Weekdays at 7:40 
+Call 422-1768 for Weekend Times 
+
+Adults- $1.50; children- $1.00 
+
+
+
+r Point, Virginia. 
+Sponsored by t 
+
+
+
+Graduate nominated 
+
+
+
+i task Saturday afternoon antiquing 
+
+
+
+named t 
+for the 1 
+
+rvllmv-il 
+
+
+
+of IPFW has been 
+
+6 Danforth Foundation 
+
+
+
+976. The foundation is a 
+
+Sanitation, dedicated to 
+g the humane dimension 
+le award is made for one 
+
+
+
+Cantor gives 
+critical views 
+
+critical of US involvei 
+
+'Louis Cantor, £ 
+.of histor; 
+
+D.C.. November 14. 
+
+introductory paper. Following 
+'the complete presentation, a 
+formal critique will be given by 
+professors from the universities 
+of Virginia and Colorado. The 
+
+
+
+f$xUt&amp;$c&lt;&amp;mX&amp; 
+
+
+
+'The times they are a changin' 
+and so are you. 
+
+If you're looking for tomorrows 
+fashions, in footwear, today... 
+check out the new spot... 
+
+
+
+ST 
+
+
+
+£ 
+
+
+
+
+
+
+
+
+
+
+
+Plus 
+"The Deviates" 
+
+Nov. 7-1S 
+
+Couples Always Welcome 
+
+THEATRE _. 
+
+Shows continuous 
+from WO pm. 
+
+Last complete show 
+starts 8:00 pm. 
+
+
+
+-RENT-SELL-SERVICE 
+
+
+
+lAAAPARKERSON 
+I TYPEWRITER 
+
+1 1 FEATURING 
+
+' f IBM-SCM-ROYAL-OLIVETTI 
+
+
+
+£ ADLER-FACIT 423-9418 
+
+SI 030 BROADWAY at JEFFERSON 
+
+
+
+
+Use the classifieds— 50C. 
+
+
+
+Campus hires 
+B staff members 
+
+have been added to the faculty of 
+IPFW effective with the fall 
+
+
+
+and economics; Or. Edward L. 
+Suntrup, assistant professor of 
+
+sociology; Earl E. Sato and 
+
+
+
+'Health Fair' 
+Nov.8 
+
+
+
+HIS CIA CODE NAME IS CONDOR. 
+
+IN THE NEXT SEVENTY-TWO HOURS 
+
+ALMOST EVERYONE HE TRUSTS 
+
+WILLTRYTOKILLHIM. 
+
+
+
+
+
+
+•••••••••••••••••••••••••••A* 
+
+J STAR PROMOTIONS Presents: * 
+
+3r One of the Hottest Groups in the Country )f 
+
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+* 
+
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+* 
+
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*••*•••••**•••*••••••**•••••• 
+
+
+
+K.C. and the SUNSHINE BAND 
+
+
+
+Featuring Their Hit Single: 
+"GET DOWN TONIGHT" 
+
+
+
+And "That's the Way II Like HI" 
+
+
+
+SPECIAL GUEST * 
+
+Curtom Recording Artist 'T 
+
+LEROYHUTSON * 
+
+* 
+
+WED., NOVEMBER 19 * 
+
+EMBASSY THEATRE $ 
+
+Limited Seating— 2700 * 
+
+Tickets on Sale at: )r 
+
+• Louie D's 3f 
+
+• Slate wood Records 4 
+
+• My Brother's Discount A- 
+
+• Pants Potlatch Jf 
+•Montgomery Ward's Southtown-)f 
+
+Record Dept. jf 
+
+At the door: J 
+
+$6.50 J 
+
+
+
+
+Advance: 
+
+$5.50 
+
+
+
+REDFORD &amp; DUNAWAY 
+
+-IT'S ABOUT TIME! 
+
+HIS CIA CODE NAME 
+
+IS CONDOR. IN THE NEXT 
+
+SEVENTY-TWO HOURS 
+
+ALMOST EVERYONE 
+
+HE TRUSTS WILL TRY TO KILL HIM. 
+
+
+
+
+
+I!, Sesame two di;*slmm 
+
+uptown Saturday Night" 
+
+but this time they're back 
+
+with kid dyn-o-mite! 
+
+
+
+
+JIWWIB WatiKEB 
+
+
+
+
+
+FINAL WEEK 
+
+"HARD TIMES IS A STYLISH, 
+
+SHARP MOVIE. 
+
+s characters are taut 
+k and springy and it is 
+^frequently 
+
+tunny." 
+
+
+
+HARD I 
+TIMES f 
+
+
+
+flBorvGcvdvlilm 
+
+
+
+Diana Ross J|] 
+
+Mahogany^ Jglgj^ 
+
+
+
+RESEARCH PAPERS 
+
+THOUSANDS ON FILE 
+
+
+
+COLLEGIATE RESEARCH 
+
+
+
+15-1. 16-2 to Cli ppers 
+
+IPFW hockey team loses first two games 
+
+
+
+V Mastodons first 
+
+
+
+
+
+
+
+
+
+■sity I 
+
+
+
+players. 
+
+
+
+' hockey In CanadJ 
+
+end started 
+
+
+
+-■IMIM 
+
+
+
+irlyti 
+
+
+
+GALS&amp;GUYS 
+
+
+
+
+THE JEANS OF 
+TOMORROW TODAY 
+
+
+
+JEANS 
+FLARES-BIG BELLS 
+
+PRE-WASH 
+$8.99 TO $11.99 
+
+
+
+Special Purchase 
+
+JEAN JACKETS 
+
+U.S. Made - 100% Cotton 
+
+$20 value Now 
+
+$9.99 
+
+FAMOUS BRANDS AT LOWER PRICES 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 Coldwater Road 
+
+Across from Ayr-Way North 
+
+Next to the new Sambo's 
+
+Open evenings till 9; Sundays 12-5 
+
+
+
+-.l,..|,l n 
+
+
+
+scoreboard first just 1 
+
+
+
+jlfor 
+
+i f.f the 
+
+
+
+b;i(! ;i couple nl golden opport 
+followed, howevei 
+left Mastodon goali 
+end of the first period, 
+Despite bei 
+
+
+
+Clippers that pound: 
+
+"' 1 Nico- covere 
+
+By the for the 
+
+
+
+i period 5-0 
+; really showei 
+e nasty. After 
+tactics by Ih 
+II decided 
+
+
+
+typical hocki 
+men getting I 
+collegiate ru 
+fighting. In 
+
+
+
+C&lt;i|-kl.-d l(o|;.T ! 
+
+ighthoo! 
+
+l.'.tll vn, , F 
+
+
+
+)ave Com pa ret. Compare 
+I up and Lyons was gon 
+
+two man advantage am 
+f took a pass from Bol 
+•on at the blue line and le 
+
+
+
+third period, but Thompson made 
+
+IPFW had its second goal. The 
+Gipper's Bill Budzik, who had a 
+great series, thrilled the fans one 
+
+another point up for KSU. The 
+game contained a total of 97 
+
+penalty minutes. 
+
+
+
+e-La(ayette Season tickets 
+sale, $15. for family. (10 
+ngle, or (5 (or student 
+ts can be purchased from 
+
+
+
+Volleyball team wins 
+over area colleges 
+
+
+
+Nebraska nipsTuskers 
+
+
+
+ian intheearliermeet, 
+
+.V took a blow on the chin 
+
+i loss placed the 
+
+
+
+period-, Coach Len Thornst 
+
+
+
+icked up his third 
+
+
+
+irrwuru.l after taking a p 
+
+
+
+PREGNANT? 
+It's not: that 
+
+
+
+you just don't 
+
+know where 
+to turn! 
+
+Call 
+BIRTHRIGHT 
+4SS-1B1B 
+
+
+
+
+making good on two ol 
+Craig Bobay put IP 
+by Muhlegetta Agoi 
+
+
+
+, and throughout th 
+in its periods with t 
+
+
+
+offensive p 
+eda 
+
+
+
+ically. t 
+
+
+
+?huck Shortridge s 
+
+
+
+on goal i 
+t Shortrid 
+e Mastodons while Stan'Kull 
+
+/ Sunday 
+
+although the IPFW squad had a 
+
+Bob Leffers was optimistic. 
+
+improved greatly from game to 
+game, and was pleased with the 
+
+
+
+;, when they plai 
+nd Fort Wayne Bib 
+
+
+
+IPFW repeated i 
+nee against St. J. 
+t, defeating them 15 
+
+
+
+e Tuesday Huntington and St. Joe. 
+
+
+
+e College and John Wesley P'* m( , , 
+
+
+
+Got a friend 
+
+interested 
+
+in a 
+
+Free Lunch? 
+
+It's only minutes away. 
+
+
+
+Monday thru Friday 11 
+a.m. to 2 p.m. when you en- 
+joy a Noble Roman's 99S 
+Luncheon Special present 
+this coupon and we'll treat 
+your guest to the same 
+lunch FREE. And look at 
+what you get. Monday, 
+soup and sandwich. Tues- 
+day, two large pieces of 
+
+
+
+Don't forget money saving 
+Family Night specials, too! 
+
+V Tuesday is family night at Noble 
+
+
+
+Sicilian pizza. Thursday, 
+spaghetti and meatballs. 
+Friday, four pieces of deep- 
+dish Sicilian pizza. Drink 
+extra. So take that lunch 
+break where you save both 
+time and money. Noble Ro- 
+man's near Georgetown 
+Squ 
+
+
+
+The Harmon Football Forecast 
+
+
+
+19— CALIFORNIA 
+
+
+
+We predict you will be happy with 
+our products and services. 
+
+
+
+• 
+
+
+ITORT WAYNE 
+
+1 ELECTRONICS 
+
+
+• 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+Hockey team here Friday 
+
+
+
+
+^% I 484-4184H r744-4334~| 
+744-6135 
+
+
+
+
+
+A FAIR. OF 
+HOT PANTS? 
+
+
+
+gat'em. THE LOWEST PRICES ON 
+JEANS &amp; SLACKS (prewashed &amp; knit) 
+special selection $18- 824 values - 85-810 
+
+AND MUCH MUCH MORE 
+
+6806 THE REBEL 
+
+s anthony PEDDLERS 
+
+
+
+
+38,500,000 
+Unclaimed 
+Scholarships 
+
+
+
+</pre>        </div>
+      </div>
+    

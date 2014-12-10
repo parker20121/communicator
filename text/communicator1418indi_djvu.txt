@@ -1,0 +1,3232 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1418indi/communicator1418indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1418indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1418indi">The Communicator</a>"
+          </h1>
+          <pre>The Communicator 
+
+
+
+a University-Purdue University al Fort Wayne 
+
+
+
+Newell doesn't see attrition problem here, despite urban setting 
+
+
+
+BvMEKILEEFORD 
+Si ilf Writer 
+
+n Newell, ossiilnnl In the 
+liar, said even Ihough [PFW Is 
+
+wrongfully concluded there is an at- 
+trition or dropout problem here. 
+"Frankly, 1 don't beliet 
+
+■ ' "What 
+
+
+
+i more about IPFW's student 
+Newell has been conducting a 
+ongitudinal study since 1980. He has 
+ipilcd data an every studt 
+
+
+
+Newell ! 
+
+records semester by sen 
+
+who returned to IPFW 
+
+Non-degree students 
+
+ilted temporarily ui 
+
+
+
+New-ell 
+national 
+Hannah I 
+
+
+
+
+Henderson plays like Abdul-Jabbar 
+
+
+
+b Henderson dliplay 
+
+
+
+Cottage once stood near lot 15 
+
+
+
+ByKAYGASVODA 
+Stall Writer 
+
+What was the foundation in (hi 
+at one lime? Whal stood ami 
+trees by parking lol number flvt 
+
+
+
+The State School 
+
+
+
+ir or the Porl Wayne 
+r raining Center said 
+
+
+
+I Oak Park farmed 
+
+
+
+30 Bypass and Indiana 371 o 
+Park Farm were offered It 
+diana and Purdue Univerilie: 
+
+
+
+om one stale agency lo an 
+le dream of an interrelated program 
+;twocn the extension center and the 
+ale School The idea was to provide 
+
+
+
+-sity KM. 
+
+
+
+
+
+
+■n Cenli 
+
+
+
+(be 
+
+
+
+"In August. 1357, the antiquated 
+juncture &lt;24u bed collage* at Oak Park 
+Has partially burned. There was no 
+loss of life or serious injury. The quick 
+action of personnel and the local lire 
+departments prevented what could 
+have been a real tragedy." This was 
+reported June ISM in the Fort Wayne 
+
+
+
+Depression: Are students susceptible? 
+
+
+
+By JIM BILLINGS 
+Still Writer 
+
+The pressures ot college are hard lo 
+
+
+
+many p--i&gt;|&gt;(.- think it\ j second choice 
+school." said Joanne Land, chair- 
+woman of the psychology department, 
+tonight. Financial "People lend to say 1 ltd be different If 1 
+ib can lax one's were at a resident campus,' ... they 
+
+
+
+dcpressioi 
+
+referring It 
+early le 
+
+
+
+i years. "The i 
+
+
+
+«&lt;ur- 
+
+
+
+1 faculties The r. 
+
+
+
+depression than a resident campus? 
+
+Beering 
+president? 
+
+Purdue University is expected In 
+choose Steven C. Beering as its nlnlh 
+president In lis lit year history at a 
+press conference tomorrow, according 
+to Ihe Indiana University Purdue 
+University Indianapolis IIUPUI) 
+News Bureau. 
+
+Bom In Germany, Beering, SO, has 
+been dean of Indiana University's 
+school of mediclneslnce 1974 It chosen, 
+he will lake over his new Job July 1. 
+
+
+
+themselves." 
+
+"On the olhcr hand," Land said, 
+"many students work in Ihe everyday 
+world. Thai may be a solid nail on 
+which to hang your hat. ft can provide 
+stability However, Ihe lime factor 
+
+depression'"" 
+
+David M. Young, associate professor 
+ol psychology at IPFW. suggests 
+slu dents a I lending this campus may be 
+less susceptible to depression because 
+the support system of family and 
+friends is intact. Young says IPFW 
+students usually live al home and are 
+not suddenly casl into a strange en- 
+
+
+
+osphere of IPFW "doesn't 
+
+relationships." Young i 
+
+k college is more a ca&gt; 
+
+
+
+Depression is broken down into two 
+stages, shorl- term and long-term. Moil 
+cases are shorl-lerm. "Everybody gels 
+depressed." said Young, who agrees 
+with Land lhal people with long-term 
+depression would not be able to handle 
+the rigors of college tile. "We all 
+cycle." Land said. 
+
+Symptoms ol depression are: 
+di si urbane es in appetite, sleep or 
+sexual drive; extremes in altitude;" 
+poor motivation and low sell-esteem. 
+
+What can one do to cure depression? 
+Land suggests students organlie their 
+life and make a list of priorities. 
+
+Students who want counseling can 
+make an appointment or slop by 
+Campus Ministry, room 221 ol Ihe Wulb 
+Margaret McCray- 
+
+
+
+Wor 
+
+
+
+CM 
+
+
+
+said 
+
+
+
+depressed students can also seek help 
+from academic advisors or the Mental 
+Health Cenler. 
+
+
+
+I Hes 
+
+
+
+d that ni 
+
+
+
+like 1U- 
+Ball Stale lose one third 
+ol their freshman classes after Ihe first 
+year. This figure has been consistent 
+for Ihe last -to years. IPFW's loss is 
+slightly higher, as 38-39 percent will nol 
+
+
+
+IPFW. Financial 
+responsibilities forcing 
+leave IPFW are two ex 
+Examples of nega live 
+
+
+
+"Each year, we will lose lo 
+Bloominglon. more students I nan 
+gain," Newell said "Last year ll 
+87) alone, our nel loss to IU was 2 
+
+Since Ihe fall ol 1980. 43 percent ol 
+sludenis In New-oil's study hove tr 
+fcrred to IU or Purdue 
+
+
+
+alter Hi 
+
+
+
+
+
+
+After two years, 
+retention rate for slate universities is 
+SS-S6 percent. IPFW retains 5S pcr- 
+
+Newell identified Ihree lypcs of 
+student attrition — positive, neutral 
+negallvc. 
+
+
+
+of students who lea 1 
+dissatisfaction wit 
+"Many who leave 
+
+
+
+&gt;ol 
+
+
+
+Posill 
+
+
+
+improve Job skills, 
+of graduating. 
+
+Neutral attrition 
+cumstanccs nol d 
+
+
+
+
+
+
+■IPFwbi 
+their education 
+mply wanl lo ex- 
+lenence rcstaential campus life. It's 
+»l thai they don't like il here" 
+
+Kennel gave a range ol reasons why 
+students slup attending IPFW. They 
+nclude financial problems, marital 
+; pec I at Ions of 
+
+
+
+have been "token 
+what we perceived i 
+
+
+
+school olficiBls 
+
+ir attrition rate 
+itional dala. Instead. 
+c concerned wilh al 
+
+
+
+
+
+
+poor grades 
+" by a course 
+
+
+
+lllll.T 
+
+
+
+and Newell agree the 
+the main campuses 
+
+
+
+Newell believes satisfying a 
+educational needs Is what 
+important, not whether Ihe 
+graduates from IPFW "As 
+those needs ore being met, 
+
+needs ol Ihe community — 
+
+
+
+Focus on Health not returning here 
+
+
+
+By MARY LOUISE: LOVE 
+Staff Writer 
+
+The Focus on Health program will not 
+return lo 1PPW this year because of 
+parking problems, said Dorothy Woods, 
+assistant project director. The model 
+site for the program will be Glenbrook 
+
+Focus on Health is sponsored by 
+WRTA-TV, Ihe Allen-Wells Chapter of 
+the American Red Cross and the 
+National Health Screening Council for 
+Volunteer Organisations II offers free 
+testing to anyone wilh such possible 
+medical problems as height, weight, 
+blood pressure, vision and anemia. II is 
+done by professional and lay volun- 
+
+
+
+WLTliS I .Hi 
+
+the doctor 
+which Ihe; 
+
+
+
+required lo register 
+?w and referral with 
+
+
+
+s for a fee of 18 A period of fa 
+
+
+
+IPF' 
+
+
+
+lei silc lor the project 
+February However, Woods said 
+Ihe lack of open parking spaces. In 
+addilion to on icy pavement, caused a 
+
+"This is Ihe only drawback. The main 
+ballroom tin the Walb Memorial Union) 
+is a wonderful, ideal place for a site," 
+Woods said. "If IPFW agrees, we may 
+possibly do another model sile Ihere 
+(sometime in the future). '* 
+
+"We enjoyed having it. But it was a 
+one-lime affair lhal provided a first 
+session for I raining." said Carl Bickley. 
+IPFW's program liaison "It was a sort 
+of dress rehearsnl. There were no 
+expectations lo have it al IPFW again. 
+
+
+
+lam i hi- 1 r luiflings lo the 
+They may suggest Ihe 
+participant sec a doclor, lose weight, or 
+do whatever is indicated by Ihe tests. 
+Heallh education is emphasiicd. 
+
+"This is basic screening and is not 
+meant lo replace a physical in your 
+doclor's office." Woods said. "The 
+screening picks up symptoms or the 
+beginning ol symptoms." 
+
+She said Ihe follow-up is made by 
+phone six lo eight weeks laler lo Ihose 
+who have abnormal or significant 
+findings. People screened are then 
+asked if they followed Ihe recom- 
+mendations of the nurse and ll their 
+doclors agreed with the lindings 
+
+Optional lests are olfered al various 
+
+hearing and sickle cell anemia These 
+special tesls arc geared primarily to 
+ihe sile, Woods said. She cited the 
+
+
+
+
+
+
+5 IPFW. 
+
+
+
+Siles scheduled in Fori Wayne arc; 
+February 5, Turner Chapel. April IB, 
+City-County Building. April 18 and 19. 
+Central Soya, April 70. Senior alliens 1 
+Center. April 21, Aldersgalc Methodist 
+Church. April 27. YWCA. April 73 and 
+23, Southlown Mall; April 24, SI Paul 
+Catholic Church and New Haven 
+Methodist Church Link'? Wonderland 
+has a time reserved for April The 1983 
+Model Health Fair will be al Glenbrook 
+Square on February 18 from 10 am to 9 
+
+
+
+Bicycle racks to block illegal traffic 
+
+
+
+lota, 
+
+
+
+BySHANNONM. 
+JOHNSON 
+Stan Writer 
+
+e tracks, divides two parking 
+
+
+
+It from IPFW l 
+
+
+
+Library and the other between Nefl 
+Hall and the Classroom and Medical 
+Building Kamps [or the handicapped 
+on both sides of Ihe walk, ap- 
+propriately 100 feet from each other 
+diagonally, provide an illegal short cut 
+for cars from one lot lo the other. 
+
+The University Resource Policy 
+Commit lee, during a Jan. 21) meeting, 
+decided to have bicycle racks installed 
+
+
+
+pedestrians, said IPFW Police Chief 
+Maurice Shady. 
+
+"Because of the number of students 
+walking ihrough llhls areal 11 would be 
+
+
+
+around the campus to reach the ad- 
+
+Sunderland said the blocking idea 
+was first discussed Oct. 71, 1987 "The 
+original solution was lo install cement 
+posts to block all traffic," he said. 
+
+In November and December, the 
+
+
+
+"The problem is on 
+
+
+e of safely 
+
+
+loo. 
+
+
+When you increase Ira 
+
+
+
+
+
+
+Ihe possibility of acci 
+
+
+
+
+
+
+
+
+
+
+
+
+An elevated walkway conslr 
+
+
+
+
+
+
+t arm glii 
+
+
+
+
+
+
+e parking i 
+
+
+
+
+and involve a high o 
+
+
+si aesthetically 
+
+
+
+■villi- | 
+
+
+
+:n the li 
+
+
+
+wilh 
+
+
+
+Jioroughfare 
+neavily by 
+
+if U.S. 30 bypass 
+
+
+
+During the December meeting Ihe 
+committee decided- to return lo Ihe 
+cement posl barrier solution. But it 
+then decided at Ihe January meeting 
+
+Install bicycle rocks which could be 
+removed to permit maintenance 
+equipment lo pass." Sunderrnan said. 
+
+
+
+'Cushman' provides maneuverability 
+
+
+By ""HWriter HER , \ lf~\ 
+
+
+Jrtr 
+
+
+semester, university police ollicers 1 1 II \ F 
+have been driving a liltle white / / ,' 7 fc 1 
+n™.... n .»w ..hi-l. .™,-H V 1 i ■ 
+
+
+i\T/fJ mA 
+
+
+mUitV 
+
+
+campus. Several times a day, Ihe 1 \ 
+
+
+L&lt;KtJB -M 
+
+
+n»i«, P Ariu.nfl Ihn uri.i-1. w,ll .pftl / •&gt;— | •£- 
+
+
+■ ■Lian 
+
+
+on illegally parked car, maneuver ] 
+
+
+■ w n 
+
+
+
+
+
+
+
+
+
+
+place a parking licket under the "tiu ' 
+windshield wiper. ' i 
+
+Purchased in J one nl lasl war, the tkj^JB^k 
+vehicle is called a Cushman ihre.e- 'atfA 
+
+
+
+
+wheeler. It gets 50 mites to the Pt» * 
+
+
+^M 
+
+
+gallon. I''*L 
+
+
+
+
+"•"- —~t~* "Hrf * i\\aaaaaaaa\aa. 1 
+
+
+
+
+pnr.»l™ ■' ga.A IUI.-UJ U„l,~ l-Kt-l ^&gt;"J^J i^^fe, '■■ 
+
+
+
+
+Mm. nil. ".horiv "Ihn win lr« ^^^»iii 
+
+
+
+
+■"|*" lllllUF Mill ^^k^^^^M 
+
+
+
+
+Ihere arc numerous advantages ^^■"■"■■■■■■■■■■■■■■■■■■■■■■■^■^■^■^■^■^■" 
+
+
+
+
+
+
+
+
+police officer sold iralfic .Jams are The maneuverabilily makes It easy Also, visibility can be poor 
+
+
+easier lo reach in the Cushman. lo position the Cushmnn lo Jump a because of blind spots and an 
+
+
+"It Is warmer and faster lhan ca r inadequate defroster. 
+
+
+walking." Shady said "The olficers j n spile ol all the benefits, there University police, however, said 
+
+
+
+
+Along wilh moneuverability. one ma n For one Ihere is no comforl. replacing pari ol ihe window wilh 
+
+
+major benefit o( Ihe Cushman is 11 ■&gt;n ndes like a log wagon," said a plexiglass so the heater will have a 
+
+
+has a special set of Jumper cables. campus officer. smaller area of real glass todefrosL 
+
+
+
+PAGE2-THE COMMUNICATOR- FEBRUARY!. I9« 
+
+opinion __ 
+
+
+
+Pros &amp; Cons of regulation 
+NCAA rule needed medicine 
+
+
+
+Under the National Collegiate Athletic Ass ocialion's 
+new rules, which lake effect in 1986, freshman athletes 
+entering Division 1 schools will be required to have 
+scored 700 out o( 1600 on their Scholastic AptiludeTest 
+(SAT1, or 15 composite on their American College 
+Tests (ACTi and maintained a T average in English, 
+math and science courses before playing a varsity 
+■port. 
+
+These rules have been praised and criticized. 
+
+Most critics contend the rules arc biased toward 
+whites. According to the Indiana Daily Student HDSi, 
+in 1981 while students scored an average 9Z5 on the 
+SAT while blackscores averaged 634. 
+
+The IDS also reported that further research by the 
+College Board, which administers the SATs, indicated 
+students from more affluent socio-economic 
+backgrounds recorded higher scores than low-income 
+
+Although these criticisms are valid, the rules should 
+still be enforced in 1986, 
+
+Suppose an athlete played varsity basketball all four 
+years of high school, was a consensus all-stale player 
+in his junior and senior years and won an award equal 
+lo that of Indiana's "Mr. Basketball." During his 
+second week at a major university, he sat in class 
+staring at an English skills test After five minutes, he 
+began to shake with terror. Tears rolled down his 
+eyes. He panicked, not knowing what to do because he 
+could only read at the filth grade level. 
+
+Hopefully, his suffering stopped there. However, 
+
+
+
+history has shown there have been and probably still 
+are coaches who care more about their teams winning 
+the NCAA championship than their players getting a 
+proper education If this athlete had such a coach, he 
+would have gone four more years without improving 
+his reading level. 
+
+It is sad that situations like this one have happened 
+and that some secondary educations in this country 
+are lo blame. A student's mind, as well as his physical 
+talent, should be developed to their fullest potential. 
+
+Tf the NCAA's new rules are enforced, this problem 
+may not happen. The rules may be biased, but the 
+NCAA has to start somewhere. Perhaps the rules 
+should judge students on their GPA and the type of 
+curriculum followed during high school. To do well in 
+college, one must work hard. A high GPA in a con- 
+structive curriculum shows a student did indeed put 
+forth an effort. 
+
+Education officials should make sure a secondary- 
+education in Fort Wayne is equal to one on the south 
+side of Chicago. If the NCAA rules are enforced, Ihey 
+could cause a chain reaction of high schools con- 
+tinually trying to improve their curriculum and 
+requirements to prepare all students for college. 
+
+If colleges are forced lo take only those students 
+who meet certain requirements, their variety or 
+selection might be hurl. But the average atlitude of 
+the players will be belter. Hard workers in the 
+classroom will provide for an improved performance 
+on the Held. 
+
+
+
+
+Futile attempt to curb cheating 
+
+
+
+■ the playing fields ; 
+
+
+
+The National Collegiate Athletic Association, inan attempt 
+to ensure that intercollegiate sports arc an extension ot the 
+athletes' education, recently passed a regulation staling all 
+incoming altikk-i in Division I schools must score at least a 
+700 on (he SAT, maintain a Coverage in high school, and have 
+taken such core classes as math, English and the social and 
+
+The NCAA should be commended for Its inltlative. 
+Ilowever. a student should not be penalized because the 
+system of secondary education failed him. 
+
+We don't want to sec college athletes become pro less iona Is 
+who only carry books for looks. They should be In school lo 
+earn a degree and get an education But the NCAA s new rule 
+may discriminate against black athletes who, on the 
+average, score lower on the SAT than whites, because of 
+bull I- In biases. 
+
+Regardless o( what many people think, most athletes are 
+nol in college to hone (heir skills (or a possible pro career. 
+
+
+
+They are in college lo get an education. 
+
+Theproblem comes when akid Is told hecon't miss as o pro 
+prospect and is led through school without ever learning lo 
+read or write Whal happens when the kid is injuredand can 
+no longer play, as was the ease with former IU basketball 
+star London Turner? Where ore the people who were his 
+friends? Probably they' re out lying to'someother kid. 
+
+Despite his paralyzing injury. Turner is still in school at PU 
+and should soon graduate. He realties his 6-10 body will 
+never stand again, but he also knows the importance of a 
+college education. 
+
+No. the NCAA rule won't stop cheating If a coach badly 
+wants a kid lo ploy, he'll find ways to doctor a transcript or 
+have 5omeoneelse take the admissions tests. 
+
+If the NCAA really wants to stop all cheating and make 
+sure student athletes truly are student athletes. It should if a 
+school is caught cheating- suspend the school's scholarships 
+for four years; deny the school a share of conference 
+revenues for four years; not allow the school lo hast any 
+NCAA tournaments for at least four years; and refuse the 
+school any television appearances for four yean. 
+
+
+
+eCOh 
+
+
+
+Records si*&gt; 8 -S6 98 
+Cassettes s 3 98 &amp; s 4 98 
+
+
+
+Jan. 31-Feb. 26 
+
+FOLLETT'S FORT WAYNE 
+BOOKSTORE 
+
+
+
+483-6100 
+
+
+
+GROUND FLOOR 
+
+
+
+KETTLER HALL 
+
+
+
+
+
+The Communicator 
+
+
+
+
+
+
+j»ip~ 
+
+
+iSLw c™ «~-J „ «, ™» 
+
+
+phen uo, 4B!-5501 C=~ 
+
+
+Stress seminar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"r^cS™™- «™ Km 
+
+
+
+
+«.*-■*- 
+
+
+
+
+!™V?f o£.'"r£ «£j £5 
+
+
+Rev. Margaret McCray- 
+Worroll is sponsoring an B- 
+
+
+
+
+
+
+sscs^.'^rsi 
+
+
+■-. i.i.k scries of workshops on 
+stress beginning Feb. 7. For 
+
+
+
+
+
+
+
+
+
+
+■ . 
+
+
+»*m»i&gt;ua» aisVoi' tuktw 't^ 
+
+
+---'•' '-'—'- ■""■■'■ ■ •■' ■' 
+
+
+McCray-Worrall in the 
+
+
+
+
+
+
+
+
+
+
+■ 
+
+
+, 
+
+
+ZtSZZZJZZAZ" ' r * 
+
+
+the Walb Memorial Union. 
+
+
+
+NEW HITS! 
+
+
+
+DEF LEPPARD 
+
+
+
+RED RIDER 
+
+
+
+
+RID KID 
+
+
+
+
+PYROMANIA 
+
+•5" LP OR TAPE 
+
+CHRISTOPHER CROSS 
+
+IfflgQJ 
+
+
+
+NURUDA 
+
+"5" LP OR TAPE 
+
+JOURNEY 
+
+
+
+
+
+ANOTHER PAGE 
+•5" LP OR TAPE 
+
+99' Rentals 
+
+•Journey — Frontiers 
+•Night Ranger-Dawn Patrol 
+•Duran Duran — Rio 
+•Jefferson Starshlp — 
+
+Winds Of Change 
+
+MAXELL 
+
+UDXL II 
+
+90 Minute Chrome 
+
+
+
+FRONTIERS 
+s 5" LP OR TAPE 
+
+
+
+WOODEN 
+
+NICKEL 
+
+RECORDS 
+
+
+
+)49 
+
+
+
+1 Block South Of Glenbrook, 3627 N. Clinton 
+Remember...We Always Feature The Top 50 LPs 
+And Tapes For Just '5.99. 
+
+For Latest New Release Information Call 484-2451 
+
+
+
+FEBRUARY 3, 1983 - THE COMMUNICATOR- PAGE J- 
+
+
+
+Per spec lives 
+
+Wolfe explains letter 
+
+
+
+receiving a teller in the mnil 
+concerning the Library 
+Endowment Fund. No. it Is 
+f"?l Hie forecast surcharge 
+on tuition or a notice For (he 
+three parking ticket! lying 
+on Ihe back seal of your c 
+
+
+
+r itself Is 
+
+
+
+:i- .in&gt; 
+
+
+
+ion of any slie will be 
+xnated Bui (here are 
+
+
+
+Talk to your fellow members 
+
+Harbor Arbor Days. Many 
+students have already put in 
+hours ol work planning, 
+stuffing envelopes and 
+
+
+
+The 
+
+
+
+resulting from your &gt; 
+trlbutlons For inslar 
+reference material! will 
+brought up lo di 
+Periodical and Joui 
+
+
+
+present and future IP 
+Now that you know u 
+
+
+
+municator staff h 
+very generous wilh Ihelr 
+support of the student drive 
+Everyone Is doing their part 
+A few people have said Ihe 
+sludenls an this campus are 
+apathetic, - that there Is no 
+unity or school spirit Let's 
+prove we ARE interested in 
+our education and CAN unite 
+lo do our part for such a 
+worthy cause as this ono it's 
+
+
+
+acrnber of Ibe Student 
+enate. Is chair ol ihe 
+4udent Affairs Committee. 
+
+
+
+Reader agrees with editorial 
+
+
+
+Hlinuld !*■ '.pent on program: 
+
+
+
+iors" program woul 
+together, it may t 
+blc lo eliminate th 
+
+
+
+New York Theater tour 
+
+The 1PFW Office of Continuing Education is Sponsoring a 
+New York theater lour, April 3-9. For more in-, 
+formation, conlacl continuing education. - -- 
+
+Summer in Austria 
+
+Stephen Harrolf. director ol the 1983 IU Summer in Austria 
+Program, will hold a meeting for interested students 
+tomorrow in room 246 of Ihe Classroom and Medical Building 
+
+Health seminar Feb. 9 
+
+The IPFW First Aid &amp; Health Informolion Office is olfering 
+a series of lunch lime seminars lo enhance the heallh of in- 
+i community. 
+
+
+
+Alhiclic Center, 
+speakers will be 
+heallh office. 
+
+
+
+r will be Feb 9 at noon in Room 104 of Ih 
+The topic will be nulrition Feature 
+Barbara Kidd and Amy Zuercher of Ih 
+
+
+
+ATTENTION... 
+
+STUDENTS! TEENAGERS! 
+ADULTS! ...ANYONE!!! 
+
+Announcing the start of the new na- 
+tionwide "PEN PAL NEWSLETTER" 
+...the WRITE way to make new friends 
+and keep in touch with them. 
+
+This newsletter will be devoted ex- 
+clusively for those wishing to make 
+friends, and through this newsletter, 
+you'd be able to write back and forth with 
+your pen pal — and your letters will be 
+published! 
+
+The first issue of the PEN PAL 
+NEWSLETTER is scheduled to be publish- 
+ed in JUNE 19B3, and every month 
+thereafter. This first issue will list the 
+names and addresses, ages and hobbies 
+of people like you who are looking for PEN 
+PALS— all across the country! ! ! 
+
+When you subscribe, you will 
+automatically be entered in the JUNE 
+19B3 issue, and your subscription is 
+LIFETIME! 
+
+Go ahead... REACH OUT AND WRITE 
+SOMEONE! 
+
+
+
+NAME 
+
+ADDRESS 
+
+CITY ST A 
+
+AGE MALE 
+
+MY HOBBIES ARE:_ 
+
+
+
+[Enclose check or money for $ 3. 00 for 
+
+a LIFETIME subscription to the PEN 
+
+PAL NEWSLETTER &amp; send to:] 
+
+PEN PAL NEWSLETTER 
+
+9250 Lake Ave./Suite 200 
+
+Ft. Wayne, IN 46B05 
+
+
+
+PERSONNEL 
+CLUB 
+
+meeting Sun., Feb. 6, 
+
+5 p.m. 
+
+Walb Memorial Union, 
+
+Rm. 114. 
+
+Featuring a guest speaker 
+from the business community. 
+
+
+
+WORLD FAMOUS 
+
+
+
+"(2*f«ey'4 "Ped" 
+
+
+
+
+
+
+936 &amp;xta*aM SW TUtfi 
+
+
+
+K-mart Plaza East 
+
+
+
+
+■*J£?,'££«JiVJ£i--.- Dancing Dally 
+
+• POOL 
+
+♦ SANDWICHES ^"Siy 
+
+* TRY OUR CARRY-OUT f - f 1 1 lb 
+
+♦ PIZZA "tL'lS&amp;S?™ 
+
+
+
+SAVE MONEY! 
+
+ONLY 8c for self-serve Xerox copies 
+
+at 
+
+Instant Copy's new self-serve 
+
+copying center 
+North Anthony Shopping Center 
+Just 2 minutes from IPFW campus 
+M n WEEKDAYS — 8-6 
+M SAT. 9-5 
+
+2 Instant Copy 
+
+^* of Indiana Inc. 
+
+Your full service copying and printing center 
+
+
+
+
+ATTENTION 
+IPFW STUDENTS 
+
+
+
+'CABLE TV 
+•LAUNDRY IN EACH BUILDING 
+•CLUBHOUSE AND SWIMMING POOL 
+•CENTRAL HEAT AND AIR CONDITIONING 
+•SPECIAL LEASING TERMS AVAILABLE 
+
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+Appletree Apartments 
+
+6500 St. Joe Road H^+wLmiwm**** (hS\] 
+
+485-7529 ^^&gt; 
+
+
+
+-campus— 
+calendar 
+
+
+
+THURSDAY 3 
+
+"SUBOG movie, Shoo! Ihe Piano Player, CM auditorium, 
+
+B p.m.. activity card holders free, others $1 .50 
+'Women's basketball, Taylor University, at IPFW 
+
+gym, 7 p.m. 
+'Continuing Education courses: 
+
+Photography Critique 
+
+Wedding Photography 
+
+Pulling It All Together-Shoestring 
+
+Decorating wilh Style 
+
+Interior Design 
+
+Landscaping 
+
+Beginning Fencing 
+
+How to Run a Successful Small Business 
+
+Beginning Crocheting 
+FRIDAY 4 
+Athletic Update breakfast, Columbia &amp; Fairfield 
+
+rooms in Walb, B a.m. 
+Anthropology dub, CM1 1 6, noon 
+Geology colloquium. Kettler 146, 3:30 p.m. 
+*SUBDG movie, Mississippi Mermaid, CM auditorium, 
+
+B p.m. 
+'Continuing Education courses: 
+
+Spanish II 
+
+Stained Glass 
+
+Yoga 
+
+Tax Incentive Investments 
+SATURDAY 5 
+"SUBOG Ski Trip to Cannonsburg, $22 for activity 
+
+card holders, others $25. call 489-5353 or 
+
+4B2-525Q for more information 
+■ 'SUBOG movie, Hiroshima, MonAmour, CM auditorium 
+
+2 p.m. 
+"Women's basketball, Tri-State University at IPFW 
+
+gym, 2 p.m. 
+"Continuing Education courses: 
+
+Interior Design 
+Personal Federal Income Tax 
+SUNDAY 6 
+
+'Continuing Education course: Italian I 
+'Men's basketball at Purdue University-Catumet, 
+
+2 p.m. 
+
+'denotes charge 
+
+For more information an Continuing Education 
+courses call 482-5B11 
+
+
+
+MONDAY 7 
+
+Graduating Class Council. Kettler 108 noon 
+
+Soc/Anthro forum. The Future ot Higher Fducalion in 
+
+Fort Wayne Educating Who tor What? Walb 224, noon 
+Young People in Broadcasting, TV studio in basement 
+
+of Helmke, noon 
+Stress workshop, Walb 110, noon 
+'Continuing Education courses: 
+
+Business Writing 
+
+Juggling 
+
+TUESDAY 8 
+
+"Women's basketball, Indiana Tech at IPFW gym, 
+
+7 p.m. 
+'Continuing Education courses: 
+
+Lyric Composition 
+
+Touch ol the Orient 
+
+Weaving l 
+
+WEDNESDAY 9 
+
+Camp Fair Day, Walb ballroom, 10 a.m.-3 p.m. 
+Nutrition program. Multipurpose 104, noon 
+CSSAC meeting. Kettler 1 78. 1 :30 p.m. 
+Indiana-Purdue Christian Fellowship, KG 46, noon 
+A Woman's Group, Walb music room, 7:30 p.m. 
+'Continuing Education courses: 
+
+Computers and You 
+
+Love 
+
+THURSDAY 10 
+
+Senator Lugar speaking on current Senate topics, 
+
+broadcast thru IHET, KG 46, 3:45. question period 
+
+with the Senator following talk 
+Women's Studies. Pornography. Walb 224, 7:30 p.m. 
+'SUBOG movie, The Lady Hitlers. CM auditorium. 
+
+S p.m. 
+"Continuing Education courses: 
+
+Asserliveness Training 
+
+Family Self-Sutliciency- Shelter. Food. Energy 
+
+How to Read Financial Information 
+
+Lyric Composition {advanced) 
+
+
+
+ART EXHIBIT thru Mar. 4 
+Diane Valne: Photographs, Department of Fine Arts 
+1026 West Berry Street 
+
+COMING EVENTS 
+FEBRUARY 
+
+1 1 Voice Master Class with guest opera 
+
+star Jan DeGaetani, CM 35 C, 2 
+p.m. 
+1 2-1 3 'IPFW Indoor Soccer Tournament, Tah 
+Cum Wah Sports Arena 
+17,18.19,20 "PIT. Clarence Darrow. Neff Recital 
+Hall, 8 p.m. 
+
+
+
+Ci mputCalandirliapgnwmf by India na-P urdu* Umverarty at Fori W 
+aity dnpurtmaJU » end grganlxatlgna. rums to be i ncluded In Campus Ci 
+the Office ot UnhrtrtHy Hatatlgn., Kettler 111 by 9 p.m. gn th* Thu 
+
+
+
+mult ba aubmFttad tc 
+
+
+
+PAGE 4 - THE COMMUNICATOn-FEBRL'ARV3,19g 
+
+
+
+S.B.F.T.* 
+
+
+
+* SPRING BREAK FLORIDA TRIP! 
+April 1st thru 10th at King's Inn, Daytona Beach, Florida 
+
+
+
+* KITCHENETTE 
+
+* OCEAN FRONT 
+
+* PARTIES ifiS 
+
+
+
+
+"A CROCK' N 
+GOOD TIME!" 
+
+
+
+*BUS TRANSPORTATION 
+* DISCOUNTS AT SHOPS 
+■VOLLEYBALL TOURNEY 
+
+
+
+I / JiUU - 4 occupancy 
+IbUiUU -6 occupancy 
+
+'Price contingent upon final contract 
+approval and includes a "10 handling fee. 
+
+
+
+SPONSORED BY 
+
+SUBOG 
+
+
+
+Payment in full must be made at the Sweet Shop by Feb. 25, 1983 
+
+
+
+"AN EXTRAORDINARY THEATRICAL EVENT! A MUST SEE! 
+
+
+
+PURDUE-INDIANA THEATRE 
+
+
+
+presents 
+
+
+
+SPECIAL GUEST STAR 
+
+JON FARRIS 
+
+
+
+as 
+
+
+
+CLARENCE DARROW 
+
+
+
+
+4 PERFORMANCES ONLY! NEFF RECITAL HALL 
+
+
+
+THURS-SUNDAY FEBRUARY 17, 18, 19, 20 at 8 PM 
+
+GENERAL ADMISSION - '5.00 SENIOR CITIZENS - M .00 IPFW STUDENTS - '3.00 
+
+FOR RESERVATIONS CALL 482-5782 
+
+
+
+arts 
+
+
+
+FEBRUARYS. 1W3-THE COMMUNICATOR- PAGEK 
+
+
+
+Mike Geffen's 'Dolly Shot ' 
+
+'Evita' spellbinding production 
+
+
+
+■imiiiHi 
+
+
+
+Bj '.il'llvm.llir- 
+
+Eva Peron ii in unlikely 
+subjecl for a miuiMl. After 
+all, the story of an Argentine 
+
+power iri'i death li hardly 
+filling lor n singing, dancing 
+enlrovagonta. Bui then. 
+
+
+
+e These slides add a gritty 
+alism to the play and. 
+nlrasled with Ihe flashy 
+ealrical letting!, give 
+
+
+
+i in ihecomplci 
+of the score ll is more in- 
+tricate than anything they've 
+done before The music is 
+shaped more like a classical 
+
+
+
+
+
+
+k eloped and 
+
+
+
+
+
+
+Webber i 
+
+
+
+They turned 
+unlikely inurcc i 
+cesslul musical when "Jesus 
+Atrial, Superstar" came out 
+in 1971. The pro duel ion of 
+"Evlto" sponsored by Ihe 
+Embassy Thealer at Ihe 
+Scotlis 
+
+
+
+acler and ideas. sounds so subtle, 
+
+mples of Prince's The entire cast is superb 
+
+liquc include a game of and they make Ihe mosl of 
+
+cai chairs to Indicate the score. Florence Lacey is 
+
+political jockeying of excellent as Evita. She has a 
+
+i revolving door to strong, magnificent voice, 
+
+how Eva rose to capableof power nndnuance 
+
+tripping the at Uie same time. There are 
+
+
+
+ceeded ogain 
+
+
+
+
+
+
+upper class 
+symbolize 
+them of the 
+images slun 
+
+
+
+erformance has all the fire 
+nd energy you'd expect 
+om a rebel. The use of Che 
+
+
+
+Che flits through the play, 
+commenting on the acllon. 
+pointing out fads and 
+revealing character Haws. 
+
+
+
+life and thai he w. 
+it her by his genera! 
+
+
+
+assyse 
+
+
+
+is the 
+
+
+
+ivlgoratlng, eyc'caiclunfi 
+
+
+
+law she stripped 
+■ power These 
+why Prince has 
+load ol Tonys. 
+
+
+
+trasled with Eva's ulopi 
+view. When they meet 
+"WalliForCheAndEva,' 
+
+
+
+ide for a thrilling 
+evening shown by the near 
+capacity crowd's roaring 
+applause. 
+
+Eva Peron is an unusual 
+subject for a musical. But 
+then, "Evita" isn't merely a 
+
+
+
+energy and dynamic per- equally Imaginative Their 
+
+formanccs 11 has everything growth os composers is 
+
+o great musical should have, evident in "Evila." The 
+
+fine singing, dancing and a „„„. has a subtle, satiric 
+
+wonderful score The lorceol edge ihat wasn't found in 
+
+the play Is contagious, and "Superstar." The bile of Ihe 
+
+you leel energiied music is shown in songs like 
+
+One of Ihe more -And The Money Keeps 
+
+re m a rim bj e_ a c- Rolling In And Out," with its 
+references lo corrupli 
+
+
+
+Lacey pain Is a portrait of 
+(ighling her lower class 
+
+
+
+
+
+
+lis s 
+
+
+
+Vou 
+
+
+
+to Ihe poor, of it," and in "The Aciress 
+
+and "RainbowTour," where Hasn't Learned the Lines 
+
+Eva's world tour resembles You'd Like To Hear." Lacey 
+
+i rock tour. gives a well-rounded per- 
+
+Rice and Webber's daring lormance, bringing oul all of 
+
+
+
+Philharmonic's program features oboist Wright 
+
+Mozart: elegant, precise 
+
+
+
+IjKATIlHYNANN 
+
+M.r.iiiM i 
+Staff Writer 
+Fort W 
+
+
+
+precision. 
+Featured were principal 
+oboist Joan Wrighl. an eight- 
+
+
+
+s agile handling of 
+t passages and her 
+a control the gradual 
+
+
+
+Ronald Ondrejka 
+usly explained lo the 
+:c Ihat he had offered 
+to excuse Wright from this 
+work, but "nobody wants to 
+give up a chance lo play 
+MoiarL" 
+Certainly this serenade. 
+
+between dark and light, its 
+harmonious proportions and 
+seemingly elfoftlcss grace, 
+is flawless Moiart. The third 
+movement, Menuelto in 
+Canone. is particularly in- 
+teresting for (he clever in- 
+lerchange and imitation of 
+(hemes among the in- 
+
+
+
+creativity during II 
+mer of 1788. Allhoug 
+rial Symphony is nol 
+JuiowjyislheGMJn.O 
+or Ihe "Jupiter." Mo 
+
+
+
+..N.I.-1- 
+
+
+
+15.1c rpie&lt; 
+right, distinct In mood and 
+character. Among its many, 
+
+cheerful little theme of the 
+Mcnuello 
+
+No single short program 
+could display the lull range 
+of Moiart 's works, which 
+includes such diverse forms 
+
+
+
+le range of 
+i works. The three 
+ions (or, this spectrum 
+rt, however, captured 
+
+
+
+Smith concert 
+shows variety 
+
+
+
+Fugue in D Major," Brah- 
+ms' "Fugue in A-flal 
+Minor," and the complete 
+-Svmphonie HI" by Louis 
+
+
+
+
+
+
+■»tty of 
+
+
+
+Smith 
+
+
+
+■ Onii 
+
+
+
+with 
+
+
+
+Of particular 
+
+
+
+fallowing 
+
+HuhM-ll Saunders, and '. 
+
+took a graduate degree at 
+
+Syracuse University He 
+
+Sol 1 of William Dotcom's studied w.th David 
+"Three Gospel Preludes Craighead al the Eastman 
+lor Organ." Bolcom, 
+
+
+
+Roches 
+
+
+
+s doctora 
+med for i 
+
+
+
+He 
+
+
+
+faculty al Ihe University or E 
+Michigon, Ann Arbor, ■ ' 
+blends mid-nineleenth I r 
+century hymn lunes with. ; 
+
+-fern " ctmipniiiticirs:.! f&gt;riMmsts and, In I9S2. 
+
+idioms lo produce a most a fealured arlisl al .... 
+unusual, but enjoyable AGO. national con- 
+sacrcttsecular chorale. venlion He has iaughl al 
+
+The selling ol "What a Uie School of Music at 1U- 
+Friend We Have 
+Jesus!", with its mixture of "e w 
+spiritual and jau rhythms, 'he 
+especially effective It bcgi 
+
+
+
+
+
+
+otter 
+
+
+
+First 
+
+
+
+Mi ^ The Fort Mj 
+Wants You To Have 
+
+IVIUrC meat in your 
+diet! 
+
+JUMBO HOT DOGS 
+
+
+
+75* 
+
+
+
+w/chili 95° 
+
+
+
+Day Hrs. 7:30 a.m.-IOa.m. 11 a.m. -3:30 p.m. 
+Night Hrs. 3:30 p.m. -7:30 p.m. 
+
+
+
+
+Next Thurs.— 
+Head East In Concert 
+
+SOS E. Oohseum Blvd. 
+
+Champ Feb. 2-5 
+
+
+
+arts 
+at a 
+£ £ glance 
+
+On the silver screen 
+
+SUBOG will be showing the movies "Mississippi 
+Mermaid," "Shoot Ihe Piano Player." and "Hiroshima, 
+Mon Amour" at B p.m on Thursday. Feb. 3. and Friday. 
+Feb 4 and onSaturday, Feb 5 at 3p.ro. in the CM building 
+
+..The Cinema Ccnler will show "Jonah Who Will Be25 In 
+Ihe Vear 2000" on Thursday, Feb. 3 and Saturday, Feb S 
+al7:30p.m in the Fort Wayne Public Library. 
+
+Treading the boards 
+
+The 
+
+Ihe th 
+
+"Design tor Murder." a mystery- thriller by George 
+Daston. will open on Friday ,Feb. II at the Arena Dinner 
+Theatre Performances arc scheduled for 7: IS p.m. 
+
+The First Presbylerian Theatre will present George 
+Bernard Shaw's "Major Barbara" through Sunday. Feb. 
+Sal Ihe theatre. 
+
+The Arena Dinner Theatre will hold auditions for Ihe 
+production of "Boy Meets Girl" on Monday.Fcb. 7 and 
+Tuesday. Feb B at the theatre annex. Those inleresled in 
+previewing a script may obtain one at the Chamber of 
+Commerce. 
+
+Concerts of note 
+
+The voice 
+recital on f 
+room3SC 
+
+Jan DeGaetani. mezzo-soprano will perform with the 
+Fort Wayne Philharmonic Orchealra on Saturday, Feb. 12 
+at Ihe Embassy. The program commemorates the 100th 
+anniversary of Wagner's dcolh. 
+
+..The Embassy Theatre will host a Gilbert and Sullivan 
+concert on Friday, Feb. 25 at 8 p.m. Reserved seats only. 
+
+Exhibits of interest 
+
+The exhibits: "New Figure Painting" and "The Moving 
+Image" will continue now through Sunday. Feb. 20 al The 
+Museum of Art. 
+
+The line arts department will host an exhibit enliUed 
+"Pholographs" by Diane Value on Friday, Feb. i at the 
+museum A reception is scheduled for Feb. 4 from 7:30 
+
+
+
+
+
+Communicator 
+Classifieds 
+
+
+
+One ol the many nim cells on cihlhlt at the Fort Wayne Museum of An. The rxhlbll enlH 
+"The Moving Image" consists ol a hundred selected works from the Jerome K. Mil 
+Collection. This particular collection documents animation from its earliest beginnings, 
+will return viewers to their childhood. This exhibit will continue through Feb. 20th. 
+
+
+
+Putt-Putt 
+
+Golf &amp; Games 
+
+
+
+OPEN YEAR ROUND 
+
+^ «■■ COUPON ««■■% 
+
+(pUITMItA Present thlB | I PUTT- PUTT 8 1 
+&gt;i.,Ua / coupon and | {?*&gt; ' "* , / i J 
+receive I 
+
+
+
+
+H Coupon expires 
+| Feb. 3. 19B3 
+
+
+
+*2 for 1 Drinks 
+Thurs. 8-10; Mid.-l 
+* Vz Price Happy 
+Hour 4 p.m. to 
+8 p.m. in lounge 
+daily. 
+
+Hours Bjndtoom-B p.m. lo 3 i.m. 
+
+Htd. thru SiL 
+
+Lounie 4 p.m.-3 i.m. 
+
+Man, thiu Sal 
+
+
+
+
+PIT 
+
+presents 
+
+CLARENCE DARROW 
+
+This one-man show stars JOHN HARRIS who recreates 
+
+the greatest trials of America's most famous 
+
+champion of justice. 
+
+Neff Recital Hall 
+
+8 p.m. 
+
+February 17, 1B, 19, 20 
+
+For ticket information call 482-5782 
+
+
+
+GENTRY'S BIG BUCKS FOR LADIES ON 
+
+THURSDAY NIGHT 
+
+Wed. Night Tit Midnight, Alt The Beer 
+
+&amp; Bar Mix You Can Drink For 15. 
+
+Oiro Code Plus*. You Hmi Be 21. 
+
+
+
+februanj 12, 1983 
+Hosted by Saturday Nite on the Square 
+
+Who and what is Saturday Nite on the Square? 
+
+We are a growing group of young, single 
+Catholics. 1 8 years or older who enjoy celebrating 
+the Liturgy. Christian fellowship and good enter- 
+tainment. Every single Catholic over 1 8 is invited 
+for these and similar festivities held throughout 
+the year. All festivities are free and sponsored by 
+the Ft. Wayne - South 8end Diocese. 
+
+For more information see the flyers around cam- 
+pus. 
+
+
+
+PAGE6-THE COMMUNICATOR-FEBRUARYS, j«3 
+
+
+
+
+Women raise record to 12-2 
+
+
+
+ByGEORGEHAYNES 
+
+Staff Writer 
+
+The IFKW women's 
+
+basketball team chalked up 
+
+record, soundly defeating 
+both Ohio State-Lima and 
+Purdue-Calumet, by 31- point 
+margins. They plan more ol 
+the same (or Taylor 
+University tonight at 7 p.m. 
+in the Athletic Center. 
+
+A Mastodon press in the 
+opening half of the Calumet 
+game Jan. 29 gave fPFW 
+control over the contest. The 
+victory was 9Mil. 
+
+With the Mastodons 
+leading 15-0 nearly six 
+minutes into the half, 
+Calumet finally landed their 
+first Shot Of '-tic- Rami- But 
+balanced scoring by IPFW 
+helped the Mastodons in- 
+
+
+
+Calumel and hold s 
+
+advantage by ha If time 
+
+"We controlled the I 
+
+of the game right froi 
+
+
+
+the Mastodon.- UpBS-51 al 
+
+
+
+' 'We played well except for 
+
+the Kavanaugh. We put on an 
+
+en's offensive and defensive 
+
+lirk clinic, and played good team 
+
+we.d ball." 
+
+Center Joan Wenning led 
+
+i no IPFW scoring with 17, 
+
+the followed by Rhonda Un- 
+
+heir verferth and Horn with H 
+
+ling apiece, Clara Trowbridge 
+
+tnse with n and Charlotte Wilson 
+
+kept with 10 points. 
+
+
+
+Freshman Cindy Horn 
+showed Calumet their 
+thrashing by IPFW wasn't 
+over She fired in 14 points in 
+
+
+
+changed. Laure Kenninger 
+
+
+
+throw, fallowed shortly by 
+another steal from Lima by 
+Deb Krouse. who laved up 
+two more points tn give 
+IPFW a 19-12 lead. 
+
+Lima's efforls to slap the 
+Mastodons' mome 
+failed IPFW owned a 
+
+
+
+s didn't get climbe 
+
+
+
+beginning at ? p.m. Both 
+games will be in the Athletic 
+Center The women's team 
+has not lost a game at home 
+
+
+
+Looking 
+the first 
+IPFW c 
+
+
+
+Men use scoring spree to win 
+
+
+
+Booster club supports teams 
+
+
+
+B) WALTEH ERVINS 
+
+Staff Writer 
+
+Every athletic program 
+
+needs dedicated supporters 
+
+
+
+:holarships lor the program 
+ich year, Kidd said. 
+
+
+
+point 
+
+
+reak (ha 
+
+
+turn 
+
+
+d a 
+
+
+
+
+
+
+
+
+
+
+Ihe IPFW men'i 
+
+
+basketball 
+
+
+
+
+on Jan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frank 
+
+
+in College E 
+
+
+■**■ 
+
+
+
+
+their se 
+
+
+
+
+nrri 
+
+
+In 1M 
+
+
+
+
+
+
+
+
+The 
+
+
+
+
+
+
+
+
+
+
+
+
+, by 
+
+
+
+
+
+
+when Lo 
+
+
+g hit 
+
+
+his 
+
+
+
+
+
+
+
+
+
+
+lead 43-12. After 
+
+
+
+
+
+
+
+
+rs.theM 
+
+
+
+
+
+
+the ball back 
+
+
+nd so 
+
+
+
+
+
+
+on a lay 
+
+
+
+
+letl 
+
+
+
+
+
+
+
+
+
+
+for a 
+
+
+ihot. 
+
+
+
+
+Mnstoc 
+
+
+on guard 
+
+
+rv Lukens 
+
+
+
+room with a 36-33 halt- 
+lead. 
+Franklin scared first i 
+
+protect lis lead. But 11 
+was more aggressive In the 
+second half, outscorlng 
+Franklin 30-13. 
+
+Long led the Mastodons in 
+scoring with 22 points. Willie 
+Brooks nil seven out of eight 
+[or 14 points, and Hansen and 
+Lukens added 12 and II 
+respectively. Henderson 
+pulled down six rebounds 
+and Hansen was next with 
+
+
+
+One of those close gai 
+
+against St. Francis. 
+Mastodons beat SI Fra 
+63-60 in overtime. The 
+was Ihe Mastodons' t : 
+
+
+
+,o Franklin. IPFW won 
+
+
+
+developed o great deal of 
+
+
+
+Attendance small 
+
+
+
+Booslcr Club L-omei in 
+The Red and Gold Bo 
+club has been going oi 
+about (our years. Barb Kidd, 
+the president, said the club's 
+objeclive is "to roise 
+scholarship funds for Ihe 
+alhletic program al IPFW." 
+
+sponsoring a July 4 popcorn 
+sale. Peoplecomlng lo IPFW 
+
+buy the club's popcorn. Kidd 
+
+
+
+"This was one ol tl 
+complishmenls we 
+
+
+
+A 5 teal by Rob Henderson 
+led lo a Hansen jumper to 
+increase the lead lo seven. 
+Franklin was denied again, 
+and Long look ihe hall down 
+
+making it 51-42. Hansen 
+finished off Ihe streak with 
+two bank shots thai pul 
+IPFW ohead by 13, 55-12. 
+
+
+
+iv GEORGE IIAVNES 
+Staff Writer 
+
+We need lo develop a 
+
+i women's basketball 
+ch Kirk Kavanaugh 
+ul low Ian turnout a I 
+'W men's and women's 
+kelball games, 
+he lack of support is a 
+cem for bolh Kavanaugh 
+
+
+
+HELP WANTED 
+
+Fort Wayne 
+
+Plasma Donor Center 
+
+$CASH PAID$ 
+
+FOR 
+
+PLASMA 
+
+DONATION 
+
+"Plasma Donors Are 
+Life Savers" 
+
+Bring this Ad for 
+
+a Special BONUS 
+
+(NEW DONORS ONLY) 
+
+SS.OO-lit Donation 
+
+SID.OO-Znd Donation 
+
+(Hilhin »mt weet) 
+
+HOURS 
+lues, t rhurt 10-5 
+Wed., Fri. I SiL 8-3 
+Call for Inhumation 
+
+422-7435 
+
+114 W. Washington Blvd. 
+Fort Wayne, Indiana 
+
+
+
+Us 
+
+
+
+Anyone wonting lo join ca 
+get informalion in th 
+Alhlclic Cenler, she said. 
+
+
+
+a program 
+
+
+
+•Health Highlights' 
+
+Writer examines physical fitness craze 
+
+
+
+Husscll "How- 
+
+-Mn.-iI- to IUI 
+
+around." 
+
+Russell added thai before 
+this year, there WBS'liUle, if 
+onylhing, positive aboul 
+IPFW s athletic program lo 
+draw people 
+
+
+
+'Us 
+
+
+
+
+
+
+:A KIDD 
+IPFW Health &amp; 
+
+First Aid Coordinator 
+
+EDITOR'S NOTE 
+
+Today's column begins 
+
+•erics of articles dealln 
+
+wllh health r. 
+
+
+
+nol fir. nil!' 
+groups. 
+
+
+
+:ngth of mus 
+nd lend to ovei 
+program theyhs 
+
+
+
+.Mil I.. 
+
+
+
+keep you In good fitn 
+
+
+
+Harris Poll reflects 
+inlry's mania for 
+!&gt;■ staling more than 
+
+
+
+Beyond that limit, an oxygen 
+dcbl begins to build. The 
+ability of Ihe body to work 
+wilhout oxygen is limited, 
+even for those who are 
+physically fit 
+~ ■ athlete musl train the 
+
+
+
+similar UiDUghls. 
+Improver™ 
+
+
+
+IPFW's 
+in alhletics. 
+this year and 
+
+
+
+"I'd also be witling to 
+speak lo groups lo help build 
+support," said Kavanaugh. 
+"We need lo develop a 
+sense ol unity on Ihe campus 
+We need our athletes to be 
+involved In other areas of 
+campus life so student 
+
+
+
+there will be inf&gt; 
+
+
+
+body and spirit tn holistic 
+
+The topic lirr today Is the 
+would be or could be athlete 
+and physical HI n est. 
+
+The physical fitness craie 
+is a lull-blown fad that has 
+caughl the rancy of a large 
+segment of the population, It 
+
+
+
+est "in" thing to do. Right 
+*■, racquelball Is gaining 
+oularity very rapidly, 
+
+Incidentally, if you aren't 
+are ol the programs 
+tillable ot Ihe IPFW' 
+iltipurpose Building. 
+
+my activities otfered.l 
+Jr. Peter Wood, author of 
+Health" had "a 
+ial [he people of 
+
+
+
+the Ben Gay 
+
+
+
+anyway? In bis !»■ 
+Energy." James 
+
+give up living lo be I 
+
+Uie pleasures of III 
+
+
+
+heart Is able lo adequately 
+provide oxygen to tissues 
+that are working Such 
+
+need (or oxygen. The 
+American Colleg.- nl iporw 
+Medicine found each of us 
+
+
+
+ardim 
+
+
+
+tensity of 60 lo 
+capacity over 
+
+
+
+
+
+
+,.&lt;M-.-l, 
+
+
+
+:..«-jn, 
+
+
+
+percent of 
+&gt; period of 
+
+
+
+us win the close or 
+naugh believes in. 
+
+
+
+Looking ol the situation 
+from a business perspective. 
+Russell said. **Wc have lo 
+offer a good product in order 
+lo gel people to buy. We 
+finally ' 
+
+
+
+l HEV.-if.n-PftCHi.qn 
+
+
+
+I 
+
+
+
+I'n ,i '»■ a. I'l'.vnnvi.ini 
+I .' IfflMMMI 
+L } -I.^^^H'BRn'iiWT 
+
+ftfftftMJ'liiT. i :'ilViftM 
+■■■■■■T^.l "T'^ ^ftftftg 
+
+
+
+Nowv 
+
+
+
+need ■■ 
+
+
+
+mmm 
+
+
+
+
+
+
+PROTECT YOUR INVESTMENT 
+
+COUPON 'i 
+
+SAVE S 1 50 i 
+
+ON YOUR NEXT FULL SERVICE WASH I 
+
+inside &amp; out— Special attention to windows | 
+
+S&lt;375 I 
+
+, TOTAL COST •* ,1 
+
+i ONLY AT | 
+
+J THE NEW NORTH ANTHONY \ 
+
+CAR WASH ! 
+
+3309 N. Anthony jj 
+
+This Coupon Good i 
+
+Mon. thru Sat. 6 p.m. to 8 p.m. and ■ 
+
+Sun, 8 a.m. to 4 p.m. Only. f 
+
+Offer Expires 2/1 6/83 k 
+
+— ———— COUPON. _„._.„,_ J 
+
+
+
+
+e^dt^'vui 
+
+
+
+' Olvo Ihil apodal lorn none ▼ 
+
+lorn it h I n a voiy ■ paela I 
+
+A ueroonaiiitd. lovnbie r»ddy Ban 
+
+
+
+Remember the days when 
+
+you could buy something 
+
+for a nickel? 
+
+YOU STILL CAN... 
+
+
+
+
+
+6047 STELLHORN RD 
+
+NORTHWOOD 
+
+SHOPPING CENTER 
+
+(Ncnr Thu Poll Ofttce) 
+
+
+
+call US...485- 1107 
+
+
+
+?jF5 
+
+STAND-UP « 
+SINGLES SALOON ^ 
+
+Pizza, Sausage Rolls and Sandwiches 
+
+to go - Call 483-2727 
+
+
+
+
+-&amp; 
+
+
+
+TXMm-SI'IUITS-goni) TIMES 
+
+4111 PARN ELL AVENUE 
+ACROSS FROM THE COLISEUM 
+
+DANCING 
+
+HAPPY HOURS 
+V 2 PRICE NO LIMIT 
+
+Noon Lunches Mon.-Fri. 11:30-2 
+
+
+
+</pre>        </div>
+      </div>
+    

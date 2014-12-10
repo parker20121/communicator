@@ -1,0 +1,2481 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv5i40indi/communicatorv5i40indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv5i40indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv5i40indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA -PURDUE UNIVERSITIES -FORT ' 
+
+
+
+nicator. 1973-74. 
+
+
+
+INDIANA - PURDUE COMMUNICATOR 
+
+
+
+INDIANA-PURDUE UNIVERSITY. FORT WAYNE. INDIANA 
+
+
+
+
+First chancellor candidate 
+hrviewed on campus 
+
+
+
+Donald Schwartz was the first super-chancellor 
+candidate to come onto campus for interviews. His busy 
+two day stay at IU-PU included an open reception in 
+the Student Union last Tuesday. 
+
+
+
+INDIANA-PURDUE 
+LIBRARY-FORT WAYNE 
+
+By TOMMY FRANKE 
+CAROL REEVES 
+
+The first of six candidates to be 
+interviewed for the post of super- 
+chancellor here selected by the 
+Search and Screen Committee was on 
+campus Tuesday and Wednesday. 
+
+Donald Schwartz, acting presi- 
+dent of the State University College at 
+Buffal, New York (SUNY), talked to 
+students, faculty and staff members 
+at a reception at 4 p.m. in Room 224 of 
+the Student Union Tuesday. 
+
+Another open meeting that he 
+attended was with representatives of 
+the American Association of Univer- 
+sity Professors ( AAUP), the America 
+Federation of Teachers (AFT), and 
+both faculty senates. Three represen- 
+tatives from each group were chosen 
+to questions the president during the 
+meeting. 
+
+Today and tomorrow William R. 
+Monat, dean of faculties of Baruch 
+College, City University of New York, 
+will be interviewed on campus. His 
+schedule will be identical toSehwart- 
+
+
+
+this ti 
+
+Schwartz began his teaching 
+degree at Villanova University in 
+Pennsylvania as an assistant profes- 
+sor of chemistry in 1955. In 1959 he 
+was awarded the rank of professor. 
+
+He became acting head of the 
+chemistry division at Moorhead State 
+College in Minnesota in 1958 and then 
+Coordinator of analytical, inorganic, 
+and physical chemistry at Noirth 
+Dakota State University. 
+
+In 1968 he was named Associate 
+Dean of the Graduate School and 
+Director of Research at Memphis 
+State University in Tennessee. He 
+then took the office of Dean for 
+Advance Studies at Florida Atlantic 
+University in 1970. 
+
+In 1971 he became the vice 
+president for academic affairs at 
+SUNY in Buffalo. In January of this 
+year he was named acting president 
+ni (hid institution. 
+
+
+
+Schwartz has published over 50 
+scientific and technical articles 
+chiefly in chemistry. He has been a 
+consultant and panelist to the 
+National Endowment to the Human- 
+ities, the Office of American Studies, 
+and the Office of Education. 
+
+Day care registration 
+
+The Drop-In Child Care center is 
+now taking registration for the 
+summer session. Children ages four 
+months to ten years are eligible. Any 
+parents that are students, faculty or 
+staff members may register for the 
+rmealionally oriented care. 
+
+Costs are $.75 per hour for the 
+first child and .50 per hour for each 
+additional child. Registration for ca 
+can be made in the center's office 
+Trom 1. 
+
+
+
+He is member of Phi Lambda 
+Upsilnn, Sigma Xi, American Chem- 
+ical Society, Faraday Society, Amer- 
+ican Association for the Advancement 
+of Science, apd Phi Delta Kappa. 
+
+
+
+Biography. 
+
+Schwartz is 47, is married and has 
+four children, and was born in 
+Scarsdale, New York. 
+
+
+
+Other men I 
+the dates that they will be on campus 
+are: Charles J. Merdinger, April 15 
+and 16; John W. Snyder, April 18 and 
+19; William A. Jenkins, April 22 and 
+23; and Jack M. Ryder, April 25 and 
+
+
+
+Slank.y Kegler. also selected by 
+
+
+
+Pratt. Cane vie 
+
+Students to elect leaders 
+
+
+
+Next Tuesday and Wednesday. 
+April 16 and 17, Indiana-Purdue 
+students will have an opportunity to 
+elect the student body president and 
+vice-president, a student senate, and 
+a Student Union Board during the 
+campus general elections. 
+
+There are two parties vying for 
+the election: Alliance for a Campus 
+Together (ACT), and the Un-Party. 
+
+Leading these parties are Russell 
+Cane and Pat Teagarden in the top 
+posts for the Un-Party, and Charles 
+Pratt and Roland Clemens, for the 
+ACT party. 
+
+The voting polls will be on the 
+ground floor of Kettler hall, near the 
+student lounge a 
+
+
+
+location that has been used i 
+
+
+
+the 
+
+
+
+Any person carrying at least one 
+credit hour at Indiana -Purdue is 
+eligible to vote. Each student must 
+present identification at the polls, 
+preferably a student activity card. 
+The election board has a list of all 
+students and will mark off the names 
+as the students vote, in order to 
+prevent any person from voting more 
+
+Paper ballots will be used, and 
+will be counted by hand after the polls 
+close Wednesday. The polls will be 
+open from 9:00 a.m. until 8 p.m. each 
+
+Results of the election will be 
+announced after Brock Able, incum- 
+bent student body president, certifies 
+the election. The new student body 
+officials will then take office. 
+
+
+
+L_ L 
+
+
+
+i 
+
+
+
+
+Party positions on the ballot will 
+be determined by drawing straws 24 
+hours in advance of the polls' opening. 
+Candidates of each party will be listed 
+vertically with president and vice 
+president first, followed by the senate 
+slate and the student union board 
+candidates. 
+
+Indiana senators will be listed 
+first followed by Purdue senators and 
+be so designated. Senators and 
+student union board members will be 
+listed alphabetically. Presidential 
+and vice presidential candidates of 
+each party are running mates; a 
+vote for one is a vote for both. 
+
+A box at the head of each party 
+column will be available to vote a 
+straight ticket, which is a single vote 
+for each candidate listed under that 
+
+Red ink pens will be provided for 
+use at the polls. Any ballot not 
+marked with those pens will be 
+disqualified. 
+
+Any ballot that has indicated 
+votes for more than one president and 
+vice-president, more than seven votes 
+for Indiana senators, more than seven 
+votes for Purdue Senators or more 
+than four votes for Student Union 
+board members will be disqualified 
+
+
+
+Bradtmueller, Greg Lewark, Pam 
+Craig. Vicki Dossier, Sandi Mason, 
+Karen Laney and Jim Potter. Purdue 
+students running for Senate posts are 
+Barry LaBov, Terry Kundysek, Steve 
+Beck, Dirk van Luling, Saul Fields, 
+Rex Putt and Pam Wesley. 
+
+Running for the SUB on the ACT 
+party are Mary Adams, Dan 
+Flanigan, Hans Christensen, and 
+Linda Eloph. 
+
+TB tests to be 
+given free 
+
+A free tuberculosis skin test is 
+available to all interested students, 
+faculty and staff April 23 from 9 a.m. 
+to 1 p.m. in G17 of the Student Union, 
+and from 1 p.m. until 4 p.m. in the 
+stduent lounge of Kettler hall. 
+
+April 24 the tuberculosis mobile 
+unit will give chest x-rays for $1 at the 
+campus. 
+
+For further information, Starley 
+Pifer, R.N. and director of the .Student 
+Health Center may be contacted. The 
+center is located in G17 of the Student 
+Union and her phone number is 
+
+
+
+
+
+
+
+
+
+
+rite-in Candida 1 
+
+
+
+This Indianapolis cut-rate gasoline station informs 
+motorists that inexpensive gas is no longer available 
+anywhere because the energy crisis. 
+
+Phi/harmonic to perform at 
+Indiana-Purdue today 
+
+today. April 11. Sponsored by the 
+Division of Music, these two presen- 
+tations are free for activity card 
+holders. Admission is 75 cents for all 
+: performed Thursday by the others. 
+
+Fort Wayne Philharmonic Chamber Russel Pecks' work Time Being 
+
+Orchestra in the ballroom of the will feature faculty member, David 
+
+Student Union. 
+
+The program will be at 
+
+
+
+disqualify the ballot. 
+
+Only the election board, which 
+was set up by the Student Senate and 
+consists of students John Gerber, Jim 
+Lasser and Jim Duncan will be 
+present during the counting of the 
+ballots. 
+
+Within 12 hours of the final tally of 
+votes but before the presidential 
+certification, -either party or any 
+candidate may ask for a recount. If 
+the election board feels that this is a 
+valid request, it will make the 
+recount. 
+
+If the election board refuses to 
+take the recount, an appeal may be 
+made to the Student Supreme Court. 
+The court then may order a revote, 
+certify the original tally or call for a 
+new election. 
+
+Those running on the Un-Party 
+ticket for Senators are Indiana 
+students Jeff Bell, Michael Myers, 
+Patricia Haynes, Byron Braun, 
+Dennis Jackson, Patrick Hoog and 
+Tim Usina. 
+
+Purdue students running for the 
+Senate with this party are Tom 
+Johnson, Tracy White, Michael 
+Starewich, and Ann Morthwurst. 
+
+The Un-Parly ticket for student 
+union board are Michael Yann, Terri 
+Forte, Ann Bouktle, and Tom Fiector. 
+
+The ACT candidates for Senators 
+on the Indiana side are Terry 
+
+
+
+Purdue to honor students 
+
+
+
+Outstanding Purdue students will 
+be recognized at a luncheon planned 
+by the Student Affairs Committee of 
+the Purdue Faculty Senate April 25. 
+
+The luncheon will begin at noon 
+and end at 2:00 p.m. It will be served 
+in the ballroom of the Student Union. 
+
+In addition to lunch, each student 
+i memento in recognition 
+
+
+
+Purdue students who have been 
+invited received grade point averages 
+of at least 5.5 out of 6.0 during the 
+1973-74 school year. 
+
+106* students have been invited. 
+Out of that total, 32 earned a perfect 
+6.0 average. Students invited and 
+interested in attending must contact 
+the Office of Student Services by 
+April 20. 
+
+
+
+11 IU-PU faculty i 
+been invited to attend the luncheon 
+also, in order to recognize the 
+academic successes of these students. 
+
+The chairman of the committee 
+sponsoring the luncheon is Arthur 
+Friedel. professor of chemistry. Also 
+
+
+
+committee members are: David 
+Fairchild, professor: Pauline Flynn. 
+professor; William Bruening. profes- 
+sor, Peter Gerity, professor; Dan 
+Cashman, professor; and John F. 
+Ulmer, associate dean of student 
+
+
+
+PIT presenting Jacques Brel 
+
+
+
+Solar wall 
+
+
+
+Purdue-Indiana Theatre will 
+close its season with the presentation 
+ofJacques Brel Is Alive and Well and 
+Living in Paris. The musical will run 
+for three weeks, April 5. 6. 7, 10, 11, 12, 
+13, 14, 17. 18, 19, 20, 21. 
+
+The production, which is not 
+really a play, but more a recital of 
+Brel's music and poetry, adds up to a 
+delightful evening, a little happy, a 
+
+
+
+A "solar wall" of double-glazed been adapted by MortShuman and 
+iss is keeping part of a school v 
+Cheshire, England. 
+
+
+
+t wall, by absorbing heat and 
+transferring it into the classroom as 
+needed, does away with the need for 
+conventional heating equipment, offi- 
+cials say. 
+
+
+
+Eric Blau and molded into the 
+dramatic framework of a musical 
+
+with libretto by Moni Yakim. The 
+original production ran for six years 
+at the Village Gate in New York City 
+and has toured most major American 
+
+
+
+Jacques Brel was born in 
+Belgium in 1929. His early years were 
+spent in the bitter atmosphere of the 
+Nazi occupation. Following the war, 
+Brel went to France and began 
+singing in cabarets. His fame has 
+grown through the years and he now 
+plays to sold out houses in Carnegie 
+Hall and similar concert halls in 
+France. 
+
+Brel sings of the human experi- 
+ence and life as it is lived, bringing his 
+own unique vision to both music and 
+lyrics. It is this special quality which 
+the PIT performance will capture and 
+project. 
+
+For reservations call the Purdue- 
+Indiana Theatre box office at 482-5782. 
+
+
+
+Editorallq 
+Speaking 
+
+
+
+hull. hi. i I'linlm- * .innii 
+
+
+
+Court decision 
+
+
+
+Last weekend, the Student Supreme Court ruled that Tom Johnson 
+was ineligible to run for Student Body Vice President. Johnson is 
+currently taking only six hours and in the Court's opinion, the student 
+constitution clearly requires nine. 
+
+What was not clear is why the Un-Farty bothered to attempt to get 
+Johnson on the ballot. The Elections Board ruled him ineligible and 
+Johnson exercised his rise to appeal the ruling to the Court. The Court 
+upheld the ruling by unanimous vote. 
+
+One parly official argued that although the constitution does require 
+nine hours, it does not specifically say "at the time of the election." 
+
+Another argument was that the constitution hoped to keep 
+unqualified people off the ballot by the nine-hour rule. Johnson was very 
+qualified for the position because of his past work in the Students' 
+Government; therefore, the clause was not meant to keep him off the 
+ballot. 
+
+Still another person said that Johnson would promise to take at least 
+nine hours next year if he were allowed to run. 
+
+The Court did nol think much of these or other arguments offered at 
+the hearing, Its vote would indicate that. 
+
+The Court's decision was a sound one. Although Tom Johnson would 
+undoubtedly make an excellent vice-president, he just is not qualified at 
+present to run for the office. It is a good sign that the Student Supreme 
+Court is finally Jcciding cases on the b; sis of fact rather than individual 
+prejudices, 
+
+
+
+Genesis revisited 
+
+A couple of weeks back when the (wo presidents were on campus at 
+the invitation of the Ad Hoc Joint Faculty Steering Committee, much was 
+learned about I he future of the campus. There was also an interesting 
+piece of information divulged about the present state of things. President 
+Hansen let slip the fact that the Purdue Business Office has some 2,000 
+fiscal "details," 
+
+As unbelievable as it may seem, the Purdue Business Office 
+religiously follows 2, nun business policies and procedures to insure the 
+safekeeping of university monies. This is the type of thing you always 
+suspected to be true but were never really able to prove. 
+
+The Student Senate and this newspaper can vouch for 1,794 of those 
+"details." for that is the number we have been subjected to during the 
+simple task of getting student activity money to the Communicator so 
+thai it can be given free to all students. 
+
+Last week we were promised exposure to the other 206 "details" 
+before the matter is resolved. (Incidentally, we were told that more than 
+likely the problems will be resolved by May, the month that classes end. ) 
+
+One cannot help but wonder what goes on in Trom 5 that requires so 
+much time to complete a simple task. This newspaper suspects that the 
+big problem lies in Lafayette. The following example will illustrate: 
+
+The form approving the transfer of funds from one account to another 
+was lost twice, not just once, but twice, by Lafayette. The purchase 
+requisition approving the concept of the transfer of money from the 
+second account to the Communicator is being held up in Lafayette until 
+the request to transfer funds to the second account from the first account 
+is processed for the third time And the check request approving the 
+actual transfer of money from the second account to the Communicator is 
+being held up in Lafayette until the request to transfer funds to the second 
+account from the first account is processed for the third time. And the 
+check request approving the actual transfer of money from the second 
+account to the Communicator is being held up here until Lafayette 
+approves the purchase requisiton, which it is holding up until it approves 
+the transfer of funds request. 
+
+Confused'' The Purdue Business Office sure is. 
+
+All of this is still happening in April when the Student Senate 
+allocated the money on December 5. We wonder whether the Purdue 
+employees receive their paychecks on time, 
+
+Wefeel sorry for the local Purdue business officers who must justify, 
+and at times apologize for the irrationality of their Lafayette overlords. 
+None-the-less the problems will be with us as long as Lafayette continues 
+to run the day-to-day affairs of this campus. Inside information we have 
+received from a number of sources down state suggests that Lafayette is 
+fighting hard to keep this control. 
+
+Super-chancellor or not, merger or not, unless the strangulation hold 
+that the Lafayette Business Office has on this campus is severed, our 
+suffering will continue. We hope that this hold will be broken and broken 
+
+
+
+
+Election brings 
+abortion decision 
+
+
+
+By CONNAUGHT COYNE 
+
+Spring is surely here for 1974, 
+ushered in by a spate of by-elections, 
+almost universally viewed as bell- 
+wethers for the 1974 Congressional 
+
+The prospects are not encourag- 
+ing if the special elections patterns 
+hold true in November. Of four races, 
+the Republican candidate won only 
+one seat. That is not in and of itself 
+necessarily discouraging, except that 
+in all cases the Republican was the 
+more conservative candidate. 
+
+The Pennsylvania race was won 
+by John Murtha only with the 
+concentrated help of the whole 
+organized labor establishment-and it 
+was close. The Michigan race for the 
+traditionally Republican seat of Vice 
+President Ford was conducted by the 
+Democrat, Vander Veen, on the basis 
+of Nixon: "Impeach Nixon and make 
+Gerry Ford President," was his 
+theme, capitalizing on Ford's popu- 
+larity in the district. 
+
+The California race was won by 
+Robert Lagomarsino, who was very 
+popular locally, and had seven 
+Democrats against him. Things would 
+have been depressing indeed if one 
+Republican hadn't been able to pull 
+
+
+
+CAIL ME MS. 
+
+
+
+Namath still chauvinist 
+
+
+
+By AUDREY GILLIS 
+
+Sometime ago, I wrote a 
+magazine article in which I named 
+Joe Namath as America's worst male 
+chauvinist. I suggested, in irony, that 
+the bragging quarterback, then 
+known as Broadway Joe, distribute 
+"Joe Namath Slept Here" buttons. 
+
+Evidently, his managers took my 
+suggestion seriously Joe Namath is 
+now endorsing a line of sheets and 
+pillowcases. They're called the 
+"Playmaker Collection" and are 
+distributed by St. Mary's, a division of 
+Fieldcrest Mills. Advertisements 
+show Joe between color -coordinated 
+sheets. 
+
+According to D.M.Tracy, pres- 
+
+
+
+women, who do 95 per cent of bed and 
+bath linen buying. 
+
+Why Joe to endorse this product 
+when admittedly all he knows about 
+sheets is "I sleep on them"? 
+
+"There are only about six men in 
+America that women relate to, and 
+Joe is one of them," Tracy bragged 
+at a press conference, without 
+revealing the source of his statistics. 
+"We like his very believable life- 
+style," the textile tycoon added. 
+
+I don't know whether Tracy was 
+referring to a magazine's report that 
+Namath's bachelor pad purportedly 
+featured "some of the unholiest 
+debaucheries since Petronius' last 
+house party" or to Joe's statement "I 
+pray every night when I go to bed." 
+However, if you want an inside look at 
+other football players' life-styles, pick 
+up a copy of Dan Jenkins' "Semi- 
+Tough" (originally published by 
+Atheneum and now in paperback as 
+well), which according to the book 
+jacket 'tells us more than we've ever 
+known about the modern athlete and 
+
+
+
+Taxes s 5,070 
+per household 
+
+
+
+According to the private, New 
+York-based Tax Foundation, tax 
+collections-federal, state and local-in 
+the lasi fiscal year were the 
+equivalent of $5,070 per American 
+household, up S3O0 from the year 
+before. $700 from the year beforethat 
+and S2.G70 since 1960. 
+
+The lax take in the U.S. has 
+multiplied 1 1 times, going from a total 
+
+
+
+personal income tax. corporate 
+income tax, estate lax, gasoline lax, 
+cigarette tax , social security tax, 
+excess profits tax, property tax, 
+
+
+
+The Tax Foundation figured thai 
+the average American put in about 2 
+hours and 40 minutes of a regular 
+
+working day last year to pay his total 
+tax bill-longer than he does to pay for 
+food, clothing and shelter combined. 
+
+
+
+
+the game of football." This is one of 
+the rare occasions when a publisher's 
+blurb can be called an understate- 
+Fortunately, Joe Namath is not 
+like his pigskin-minded colleagues. 
+Here's his explanation of a woman's 
+place in sports: 
+
+"Before the Super Bowl, I went 
+out and got this bottle and grabbed 
+this girl and brought her back to the 
+hotel and we had a good time the 
+whole night. It's good for you. It 
+loosens you up good for the game." 
+
+Did the girl get thanked for the 
+memory, if not for possibly saving the 
+ball game? This is Joe's comment to 
+the press after a chance encounter 
+with one of his adoring fans. 
+
+"Boy, that was a real memory 
+job. You know, I only was with that 
+girl one night., only one night with the 
+girl and I come up with the right 
+name. A real memory job." 
+
+(At the Fieldcrest Press Confer- 
+ence Joe was careful to announce he 
+had a steady girl friend. And he 
+remembered her name.) 
+
+Another example of how " 
+
+
+
+But how does Joe relate to women 
+who are not romantically involved 
+with him. like his employes? The Jet 
+star demonstrated his heart of gold 
+when as co-owner of the New York 
+pub "Bachelors III" (an interest later 
+relinquished because of alleged 
+professional gambling presence) he 
+
+
+
+the £ 
+
+
+
+i ili.ii \ 
+
+
+
+relate to" relates to women is in his 
+autobiography entitled "I Can't Wait 
+Until Tomorrow Because I Get Better 
+Looking Every Day." Joe describes 
+the entourage that accompanied him 
+
+
+
+INDIANA - PURDUE 
+COMMUNICATOR 
+
+
+
+them wilh waiters. While the \ 
+picketed outside. Joe partied inside 
+Smilingly, Joe explained the firings to 
+reporters: "We find that men do a 
+real good job." 
+
+Despite such antiwoman, anti- 
+labor, antihuman attitudes, Joe is still 
+the darling of the media. Time 
+Magazine in a cover story glorified 
+Namath as the all-American male 
+referring to his "booze 'n' dames'' 
+exploits with a leer more envious than 
+critical. New York Magazine gave his 
+injuries more coverage than those of 
+war-wounded veterans, and Cosmo- 
+politan ran an ad with this headline, 
+"We make pantyhose for Joe 
+Namath," 
+
+Next to the photograph of an 
+appropriately hosed model was this 
+explanatory text: "They're worn by 
+women, of course. But they're really 
+made for men. Men like Joe Namath. 
+who are turned off by tired legs. 
+Legmen." 
+
+You better not get varicose veins 
+shopping for Joe Namath linens. 
+
+
+
+Blocks access to 
+parking records 
+
+
+
+1 cannot stine a little chuckle. Abdul, when I think of 
+pampered Americans doing without such fuel-consuming 
+luxuries as busing, emission control systems, and 
+electronic surveillance. 
+
+
+
+By MAC HAMILTON 
+
+Well, boys and girls, the Purdue 
+University Accounting office is at it 
+agin. My co-hort in crime, Kurt 
+Ullman, attempted to wrench from 
+the hands of that department certain 
+records in relation to how student 
+monies are being spent 
+(HORRORS!). In relation to the 
+trustees approval of lower parking 
+rates for next year, KVU attempted to 
+obtain the amount ol funds available 
+within the account whence all of our 
+parking fees went. A simple request... 
+we thought. 
+
+The logical place to start seemed 
+to all to be the Accounting office. They 
+are, after all, the ones who are 
+charged with administering the 
+aforementioned account. 
+
+"So solly," she said, "boss not in, 
+call back in howah." Call we did until 
+finally we found (ta daaaa) THE 
+BOSS! 
+
+"What amount of money is 
+available to us in the parking 
+account?" we asked innocently. 
+
+
+
+"Can't tell you, old boy, call the 
+dean and director for access to those 
+public records." 
+
+OH BOY! 
+
+We called the d&amp;d, and he was 
+nice enough to let a reporter from the 
+Student Publication find out about 
+Student Monies. He explained that 
+
+e things were just not to be given 
+
+
+
+for refusing the public 
+records of public interest. (We would 
+like at this time to invite Mr. M and 
+anyone else interested to the 
+Communicator offices to look at the 
+previously published payroll figures 
+-from state records-for this campus 
+or see back issues of the Indiana Daily 
+Student for those un-publ;c records of 
+the Bloomington faculty. 
+
+So, as always happens, the petty 
+bureaucrats were playing games with 
+the PEOPLE'S RIGHT TO KNOW. 
+I am forced to ask my old buddies in 
+the PU Accounting office just one last 
+question: vat is you hidink, fellas? 
+
+Good night.... 
+
+
+
+Ihinc- together .ig.iinst seven Dem 
+The Ohio race is interesting i 
+
+
+
+Thomas Luken, former Cincinnati 
+mayor, and City Councilman for ten 
+years, was running against Republi- 
+can Willis Gradison, a Taft protege. 
+Gradison was hardly conservative, 
+though he did try to take the proper 
+positions against wage and price 
+controls and price rollback, in 
+principle, whereas Luken opposed 
+controls because they hadn't been 
+handled right, and supported a price 
+rollback. Luken capitalized on a crisis 
+of confidence in government, of which 
+Watergate was the leading symptom . 
+Gradison brought in Jim Buckley to 
+campaign for him. 
+
+That was more embarassment 
+than it was worth. Ohio Right-to-Life 
+had sent questionnaires to the 
+candidates enquiring their position on 
+abortion, and various legislative 
+recourses. Gradison, a Jew, gave the 
+impression of being in favor of 
+abortion. Luken, a Catholic, favored 
+some kind of Constitutional amend- 
+ment. Jim Buckley, of course, has 
+sponsored a Constitutional amend- 
+ment in the Senate. The press had a 
+field day with Buckley-"You're 
+against abortion, he's for it, why are 
+you here working for him?" Buckley, 
+being above everything a man of 
+principle, did not waffle his anti- 
+abortion position. Gradison said he 
+hadn't actually made up his mind yet, 
+but would later, like in November, 
+when he stood for reelection. 
+According to different campaign 
+aides, the issue received fully as 
+much press attention as the economy 
+or the crisis of confidence. 
+
+Luken was elected by a 4,000 
+vote margin. It's hard to say how 
+many of those votes were influenced 
+by the right to life. Paul Scott, 
+Washington columnist, estimates as 
+many as 10,000 votes were influenced 
+by this issue alone. It is probably safe 
+to say it was a significant number, 
+significant when you're talking about 
+so close a race. Luken, of course, is up 
+for election again in November, and 
+Gradison is going to be his opponent 
+again. By then Gradison may have 
+reconsidered his position on killing 
+babies. If he comes out with a position 
+favorable to right-to-life, it will be a 
+stronger indication than any debat- 
+
+important 
+
+Ohio has a particularly strong 
+right-to-life organization, but in many 
+other states pressure is being brought 
+onto politicians to wake up on the 
+issue. They're anxious to avoid it. A 
+week or so ago, while voting on 
+capilal punishment, the Senate voted 
+without dissenting vole, to prohibit 
+death penalty to a pregnant woman- 
+out of the respect for the innocent life 
+within her. Anti-abortion amend- 
+ments of one form or another, of 
+varying degrees of directness, have 
+been put on different bills, and the 
+elected representatives have gone 
+through hoops to avoid a rollcall vote. 
+On a few, rollcall votes took place, so 
+that a record, albeit patchy, exists. 
+Senator Baynh of Indiana has already 
+felt pressure from right-to-lifers, in 
+response to which he called the Senate 
+Judiciary Committee hearings on a 
+human life amendment. 
+
+Right to lifers are not generally 
+highly sophisticated politicos. But 
+their motivation is high. End-the -war 
+freaks and eco-nuts were not politicos 
+when they started out, either (though 
+the pro-abortionists of the '60's by and 
+large were politically sophisticated.) 
+
+All indications are that abortion 
+will be an issue in the November 
+elections, more than a heck of a lot of 
+candidates would like it to be. If one 
+feels any loyalty to James Madison's 
+belief in countervailing "factions", 
+however, one must welcome the 
+appearance on the scene of active 
+right to life political organizations. 
+Elections are going to be close in 
+November, 1974, and many of them 
+are no doubt going to feature the 
+throwing around platitudes, or wean- 
+ing the cape of support for the 
+impeachers or for the Trick. The 
+injection of a very solid, very 
+clear-cut issue into the races can help 
+separale sheep from goats. It will at 
+least be a real grounds for decision by 
+
+
+
+Spirit lifter 
+
+
+
+By RUTH STAFFORD PEALE : 
+
+To handle life's problems sue; 
+cessfully there is one thing we must 
+do, and that is to remain calm. ■ 
+
+Indeed, mi mind will not function 
+when disturbed. We can only think 
+effectively when the mind is quiet. It 
+is so terribly important to keep calm'. 
+1 to do that practice God's 
+
+
+
+ind, and said unto the sea. Peace, be 
+ill. And the wind ceased, and there 
+as a great calm." -Mark 4:39. 
+
+
+
+Private college threatens publics in Britain 
+
+
+
+3 Indiana-Purdue Communicator Thurs. April 11, 1974 
+
+
+
+cinga 
+
+
+
+
+
+
+*'»■ 
+
+
+
+f.U|ipnrl h.is 
+
+dons and teachers 
+
+eclaration calling 
+
+rsily totally inde- 
+
+the state. They 
+
+rgued llial the autonomy of 
+
+
+
+sity, and in August 
+will definitely be 
+
+
+
+for a uni&lt; 
+pendent i 
+
+
+
+led Hi.- planners to mo\ 
+rural Buckingham an 
+
+nrdiiii' the numtiirs '!r, 
+.illy Kunmn^i'iists will In 
+entirely by sludt-nfs ft-i-- 
+it is hoped that pri 
+
+t'lidnwrni'iil iv ill Itikini &lt;■ li 
+
+Hir derision of many ei 
+
+
+
+Bill opens records to students 
+
+
+
+versi I y 
+
+school 
+
+unidiuili' 
+school" 
+
+
+
+Klansman - OK ; 
+bodyguard - no 
+
+
+
+such inform 
+
+individual not employed by 
+
+the college or university. 
+
+
+
+li Iowa. So he sent offa 
+i the United Klans o'f 
+
+
+
+iker who wore bedsr 
+
+
+
+
+1974-5 COMMUNICATOR 
+STAFF OPENINGS 
+
+All IU-PU &amp; DGTS Students eligible 
+All Positions Open: 
+
+
+
+EDITOR 
+
+MAN. EDITOR 
+
+PAGE EDITORS 
+
+REPORTERS 
+
+COLUMNISTS 
+
+PHOTOGRAPHERS 
+
+REVIEWERS 
+
+
+
+APPLY AT ROOM 215, STUDENT UNION 
+or call 482-5585 
+
+
+
+
+Accounting and Business 
+students 
+
+The Communicator needs a Business 
+Manager for next year 
+
+
+
+''■' Course credit possible through 
+ProfeSBor Berry 
+
+
+
+* See Bob Hud* 
+Room 215 Union 
+
+
+
+BUSINESS MANAGER 
+
+AD SALES MANAGER 
+
+AD SALESMAN 
+
+ARTISTS 
+
+PASTE-UP 
+
+TYPISTS 
+
+BOOKKEEPERS 
+
+
+
+IU-PU Students 
+
+are at 
+
+Howard's 
+
+to help you with 
+
+your needs in... 
+Photo Equipment 
+&amp; Photo Developing 
+Greeting Cards 
+Fine Gifts &amp; Candles 
+Office Supplies 
+Russell Stover Candies 
+
+
+
+^safiaff^ 
+
+
+
+
+4 Indiana-Purdue Communicator Thurs. April 11, 1974 
+
+
+
+Doctor's Bag 
+
+
+
+pliVMi.-ilK .iikI legally. Inr , 
+
+
+
+ion mating praclie 
+merely fcminlsl pi 
+
+n unwilling woman 
+ce. According to i 
+
+roblcm With the I 
+
+
+
+would gelling an 
+most frightening 
+
+
+
+a no inforrnalion on 
+j refer, bul suspect 
+
+
+
+successfully removi 
+
+
+
+ing anolhcr surgical t 
+
+
+
+id run parallel lo for 
+
+:e less conspicui 
+In the abdomen. 
+
+
+
+i important part and 
+
+
+
+™ ENTERING DILEMMA N0 -2 
+
+
+
+
+IT YOLfW TRIED PLAYING 
+TK ENTERING 
+VOU K 
+
+
+
+TO TROWEL THRU THE 
+MOST FflWORABLE OPEN- 
+INGS IN THE FOUR RINGS 
+AND CONNECT EACH OF 
+
+
+
+
+Philharmonic to give final concert 
+
+
+
+
+
+
+very tiny stitches are descended into the scrotal sac 
+with extremely line 'rom inside Ihc abdomen very 
+
+• material to Insure a early in development Compa- 
+
+
+
+abdomlnol surgery. 
+r. forces on the ab- 
+
+
+
+Luvisi hiis inured 
+extensively in the United 
+Stales, Canada and Europe. 
+
+
+
+n April 23. Reduced 
+d students a 
+
+
+
+ith Kabalevsky's 
+•lo Colas flreugnon" 
+by Beethoven's 
+
+
+
+Scottish 1 
+
+available for 
+
+senior citizens and student 
+1 1 it \w\ olfice. Student i 
+
+students may purchase 
+
+
+
+protruding through a 
+
+
+
+lace the belly together ade- 
+quately ;inil prevent rupture ol 
+
+
+
+Tickets will be available 
+
+Mormons streak in bathing suits 
+
+
+
+iy who would stray 
+mage of the typical 
+
+
+
+fiBsarngr** 
+
+
+
+SAlE 
+
+
+
+
+
+
+«v" 
+
+
+
+
+FOLLETT'S FT. WAYNE BOOKSTORE 
+
+KETTLER HALL 483-6100 
+
+
+
+On the Way Out 
+
+
+
+.... _n a snow sprinkle 
+taught most of us wetly that Indiana winters keep coming 
+back like the flu. It also reminded a usually reliable source 
+as still officially with 
+
+
+
+of another s 
+
+
+
+Dwight Henderson, chairman of Arts and Science, 
+usually walks to school, some two miles from his house. 
+However, on this particular wintry day there was a lot of 
+snow left over and driving was in order. The Hendersons 
+were having a party at 7:30 that evening. Almost everyone 
+that came was prompt. Except the host. His car refused to 
+strat or move a tire tread on the parking lot at 
+school-making the host tardy, and the guests inquisitive. 
+Eventually the history professor convinced the engine that 
+revolution did not mean overthrow of the government all 
+the time, and he made it to his own party. Maybe a set of 
+snow shoes for winter wear would be a good investment for 
+the walking professor who can always depend on his own 
+power. 
+
+
+
+Bright new blotches a 
+rIU-PU land. The Un-Pa'rty and ACT s _ _ r _ 
+their posters in place. Admiration of the clean and bright 
+
+
+
+campaign creations led to another general bill board 
+
+You really blew it if you wanted to see Dracula at North 
+Side for 99 cents. That was February 23. If this and other 
+miseries are going to drive you out and away from it all, 
+how about the Bahamas? Somebody wants to sell you the 
+ideal escape vehicle-a twenty-one foot sloop that's already 
+been there once. If you'd rather try riding off into the golden 
+sunset, available are three Appys listed for sale with "2 for 
+the price of 1." There should be some puzzling math if that 
+ad sells all. Until Wounded Knee broke the headline 
+barriers, the American Indian was frequently referred to 
+as, "neglected, forgotten, ignored." Such Is still the case on 
+the second floor at Kettler. You are being welcomed to 
+attend the American Indian Seminar, October 21, 1973. And 
+if you thought that Richard Nixon bought US through the 
+
+
+
+: very foggy autumn day last year she and her 
+husband visited the scene of Indiana's bloody but almost 
+meaningless Battle of Tippecanoe. It must have been much 
+like this when the original battle was met in that early misty 
+morning of November in 1811, the anthropologist was 
+o still. They were all alone. No other living 
+
+
+
+musing. It v, 
+
+souls were there on the cold, foggy, quiet grounds. Suddenly 
+through the fog, Jackie heard some weird and chanting 
+sounds. Indian cries? Somehow, someway was this ancient 
+bloodied ground releasing the long held sounds of savage 
+signal cries? To a scientist, the thought was preposterous, 
+but the eeriness grew while the Tippecanoe tourists plowed 
+on through the thick vapors until-they almost walked on a 
+young couple and their wailing transistor radio. The power 
+of suggestion— and transistors— farewell Tecumseh! 
+
+
+
+out of hand the day vacation began. She was almost hidden 
+behind a screen of greens. Chris had been down to Dr. 
+Tobolski's last botany class before the break and 'interested 
+students were given specimens to take home. She expects to 
+use TLC and good earth to make her samples 
+
+sprout "What a boring book store," sighed KATHY 
+
+GURBERS. Only the occasional three deep people pile up in 
+'Porno Corner' serves to remind the staff that Operation 
+
+Overwork will return anew In a certain class, the 
+
+professor inquired if anyone had ever hear of "Bruner and 
+Postman." MARY GAFF was overheard whispering that at 
+home they had A. Postman-he delivers their mail. And in 
+the same class PAT BROWN answered right out loud, 
+"Richard Nixon," to the question, "How many black hearts 
+
+have you seen lately? Dr. Linda Fox informed her 
+
+Spanish class that having finally worked her way through 
+
+
+
+over a glass of water on the last blue books which dampened 
+
+her enthusiasm and the exams SUE MARKEY, GIRI 
+
+GORHAM, and VIRGINIA LAHRMAN split the cost 
+between them to give a hapless change seeker a cup of 
+coffee fee when no change could be found in all of Kettler's 
+
+informal study hall The COMMUNICATOR cleverly or 
+
+accidently placing the two student president interviews on 
+the left (Rusty Cane) and right (Charlie Pratt) of Page One. 
+Several interested people noticed that their positioning 
+paralleled their political directions well. 
+
+
+
+Radio Shack 
+
+'System of the month' 
+SAVE 160°° thru 5/26/74 
+
+
+
+The STA-75 Stereo AM-FM Receiver with 
+
+Quatravox- 
+
+10 Watts IHF IC-FET Tuning 
+
+Push button loudness, mono-stereo, and 
+
+tape monitor controls 
+
+i and two Aux Inputs 
+
+
+
+Nova 7 acoustical suspension speakei 
+10" woofer 
+
+Mid range and treble controls 
+
+The Lab 3H changer 
+
+2!M»"&gt; value shure cartridge 
+
+
+
+Normally 518m 
+Now only 3589U 
+
+
+
+[-Mart North Plaza 
+
+
+
+PIT'S 'Jacques Brel' 
+intense drama 
+
+
+
+5 Indiana-Purdue Communicator Thurs. April 11, 1974 
+
+
+
+
+6 Indiana-Purdue Communicator Thurs. April 11, 1974 
+
+
+
+Spring trip results in optimism -ft 
+
+ByPHILIIARTMA, . down"!" furnish 'sonic co'mp- dip with Jacksonville Kni- hiliYsi, in 7 .itlcmpls in !he 
+
+
+
+washed out. Then 
+
+
+
+hi^hlV SULtfNslljl I'.'T-l M.MSIIO 
+
+The piklunR. List year's sore 
+spot ol the 7-111 squad, nppcurs 
+
+
+
+Mastodon triumphs. 
+
+
+
+Fori" Wayne and had only two 
+days to round Into shape in the 
+south before enKi&lt;t!in^ the 
+souilii-rnsqiiadN lint they still 
+performed excellently, with 
+Ihe pitching and defense 
+especially standing out. 
+
+Journeyed to Jaeksunville, 
+
+
+
+mvitlfl University squad a 
+
+
+
+n Georgia, according t&lt; 
+
+
+
+i Captain Gary Trump 
+
+
+
+
+i- |iil&lt; luru', &lt; "rps .tn'i ' ,,irl ""''i" vi,sl potfjitiiil be^m 
+
+
+
+facing Head Coach H 
+
+
+
+Georgia, Southern ( 
+
+
+
+k Junior College club ei 
+
+
+
+t;nry 'frump, returning fi 
+
+down the shortstop post Tl 
+
+.i :nn showing in (;eor(ii.i 
+
+Dave Slonch.in'cr will I 
+ixihind the plate The Snidi 
+graduate, who hit .262 
+spnnii pl.-iv. made the fir 
+team of the All-Cm sijuarl ,is 
+senior Lasi yc.ir tie pl.'iyed li 
+Cor t'ollecc in Cellar Rapid 
+l..w... Inttinu at around a .3: 
+clip. 
+Stdiu'tmrger will likely s&lt; 
+
+
+
+The return of spring to Fort Wayne 
+early this week encouraged IU-PU students 
+to take advantage of the warm weather 
+before it disappears again. The sport of 
+frlsbee throwing continues to be popular 
+among college students. 
+
+Golfers return 
+from South 
+
+
+
+Four hopefuls remain in 
+quest for coaching position 
+
+
+
+kiski'tkill 
+CuirK' 1 We 
+
+
+
+Mastodon 
+
+InnliK 
+
+
+
+
+
+
+Haney also coached i 
+e coached Ihe Hoagland 
+
+
+
+jt'iiily beitin 
+lis, student 
+
+
+
+Divisional (I [mni.-liip 
+
+
+
+tiirnn'il li 
+
+
+
+named by Friday 
+
+
+
+four prospit!-. 
+wimntii: learns 
+
+
+
+ln'iiiB sought by the 
+
+
+
+llll'.l, S( llixil. ■ 
+
+•■346 points 
+e all ■i'iuiiil&gt; !• 
+
+years, nll-r 
+
+
+
+hipti school ball several years 
+ached the Hoagland 
+captured County 
+
+earned a reputatio 
+I H 
+
+oulslandirm 
+
+Haney belie 
+
+
+
+years, all sectional 
+years, oll-r 
+
+and player i 
+
+
+
+winning cu.irli ;it HmiRlatifl 
+He was also an 
+
+■oposed a three-day 
+icliceschedu' 
+r schedule will g 
+
+r .ii-ademii 
+
+
+
+I praiTn'i' schedule. The 
+' ' will give tr 
+players a belter chance : 
+
+
+
+
+
+
+1 ilcJIIYC . 
+
+
+
+Haney is well acquainted 
+
+
+
+three years 
+games, while losing rr 
+
+
+
+it Indian 
+Slate. He also did some 
+.aWiiion.il graduate work at 
+I'urdue University. 
+
+Gene Haney is also a father 
+nl two, n daughter, who was a 
+cheerleader at Indiana-Pur- 
+due last year, and a son who 
+attends Heritage High School 
+
+Heritage, 
+
+
+
+
+
+
+- and person, ill- 
+
+
+
+He 
+
+
+
+I sdllllll 
+
+
+
+
+
+
+lop Mastodon players L 
+
+Tony Rogan is a 29 yt 
+married man. He W8 
+
+Tri-State 
+Und 
+
+the Burroughs Compam 
+
+
+
+Under 
+Tri - Stal 
+
+
+
+The payments aren't very big, either. 
+
+
+
+Just a $89.00 cash down payment of 5 quarts. 
+
+
+
+and $88.49 a month for 36 months. 
+
+(If you're not too good at math, 
+that works out to a deferred payment 
+price of $3274.64 which includes a 
+finance charge at an ANNUAL 
+PERCENTAGE RATE OF 11.08 per 
+
+Along the way, you get a little 
+
+financial help from the car. 
+
+II uses about 5 pints of oil instead 
+
+
+
+It doesn't need antifreeze because 
+the engine's air-cooled. 
+
+And although it does need gas, it 
+doesn't need much of it (usually a 
+gallon every 25 miles or so.). 
+
+Of course, you might be the kind 
+that likes to pay cash for everything. 
+
+In that case, the cash price is 
+
+
+
+
+AUTOWSRLD 
+
+
+
+e ball at Homestead A 
+
+
+
+four years, leading Hie lea in in 
+rt'luiuniling and defense. He 
+made all -conference in his 
+
+If ..gan inlnrmed the council, 
+"My basic coaching philos- 
+ophy is pattern ball that 
+stresses good solid liindam- 
+
+Larry Hoyle is the youngest 
+of the four prospects as he is a 
+recent graduate of Indiana 
+University. He played for 
+lmiinna-Piiidue last year, and 
+
+Hoyle studied under Indian 
+Knight, and like the Hoosier 
+
+
+
+Hoyle asserted thai e 
+
+always play good 
+defense with a littl hustle and 
+
+Hoyle also informed the 
+
+
+
+high school coaches and t 
+check out prospects attendin 
+
+
+
+golf squad opened its season 
+with a spring vacation jaunt to 
+Jekyll Island, Georgia The 
+Mastodons finished twelfth in 
+Ihe competitive Intercollegi- 
+
+Golf and Racquet Club in 
+
+The University of Florida, 
+the defendine NCAA cham- 
+pions and presently the 
+second ratea team in the 
+
+twelve opponents with a 1169 
+
+
+
+Edwin Leonard. Leonard said. 
+
+played the course : we had nol . 
+
+schools play a nine-month 
+
+Leonard added optimisti- 
+cally, "We played better than 
+
+
+
+e weather cooperates." 
+
+
+
+Leonard emphasized the fact 
+that Rollins University, which 
+placed third behind the Indi- 
+
+toiiriia meni two weeks prior to 
+the GAC, placed only four 
+places above the Mastodons. 
+All six Mastodon players 
+J considering tl 
+
+
+
+.ill.lllS' I 
+
+
+
+II. -.1, 
+
+
+
+aid Leonard, 
+i. shooting 
+
+
+
+
+was supposed to play in the 
+GAC, instead flew to Scotland, 
+
+possible entry, instead flew to 
+
+Southern excursion by the 
+
+nificanl, regarding traveling 
+
+Contemplating the results 
+of the GAC, Leonard asserted 
+
+
+
+rhe early experience should 
+give us a big advantage in the 
+Spartan Invitational on May 
+10 and 11." Every Big Ten 
+team except Indiana will 
+participate in this tourna- 
+
+Concerning the golf pro- 
+gram at Indiana-Purdue, Leo- 
+
+jrobably the only school in the 
+iorth that has the philosophy 
+A letting anvone who wants 
+or golf. If the 
+
+greeable 
+
+
+
+-Ilalent i an aiTaniie In- 
+schedule so that it is ag 
+with the golf schedule, 
+
+
+
+The Mastodons finished 
+
+and 7 losses in dual meets. 
+Eighteen players had the 
+
+opportunity to play intercol- 
+
+
+
+itional are back 
+
+
+
+Jacksonville 122 
+
+Florida Southern 124 
+
+Southern Florida 125 
+
+Mori.-h.td Slate 12S 
+
+Rollins 125 
+
+Florida International 127 
+
+Indiana-Purdue 135 
+
+Finley finally 
+sells hockey 
+franchise 
+
+
+
+'ational Hockey 
+bungled 
+
+
+
+inally got Charlie 
+o sell his bu ' 
+i Golden Seals 
+
+
+
+RAP LINE 
+
+
+
+1974 MAJOR LEAGUE BASEBALL PREDICTIONS 
+
+Baseball action has begun in the major leagues, and it 
+looks as though there should be some fair divisional races 
+this year. 
+
+The Oakland Athletics have captured consecutive world 
+championships, and it remains to be seen whether they can 
+make it three in a row. I say they won't. 
+
+Cincinnati is highly favored in the National League, but 
+they have failed in the clutch every other year in the recent 
+past", so why should this year be any different? 
+
+In the Senior Circuit, I look for the St. Louis Cardinals to 
+be the surprise of 1974, while Los Angeles should edge out 
+Cincinnati with their abundant youthful talent. 
+
+Joe Toree, Lou Brock, and Bob Gibson make a fine 
+nucleus for a competitive Cardinal squad, which has been 
+very disappointing the last several seasons. This year they 
+should take their divisional title and the National League 
+pennant as well. 
+
+Their stiffest competition will be coming from New 
+York and Pittsburgh. The Mets probably have the best 
+pitching staff in the National League, but their hitting is 
+below par, and I don't think they will be able to luck out 
+another divisional title like last year. 
+
+Pittsburgh can look very impressive with its hot bats, 
+but they lack winning pitchers, and are extremely 
+
+The Cubs will be lucky if they don't land in the cellar 
+this year. They have an inadequate and unproven pitching 
+staff, and they foolishly traded away a half dozen of their 
+best hitters and their top pitcher Jenkins, who threw a 
+one-hitter at the world champion A's in his American 
+League debut. 
+
+Montreal could be the darkhorse of the eastern division. 
+They have several fine hitters and several fair pitchers. It's 
+difficult to predict where they might land. 
+
+Philadelphia is fair, but no more. 
+
+San Diego could very well be the surprise of the 
+National League West, as they have acquired some solid 
+hitters. A line up with Beckert, Colbert, and McCovey can 
+hardly be ignored. But their pitching isn't much, so even 
+though they might make it out of the cellar, it is probably 
+safe to say they don't have a chance of beating out Los 
+Angeles and Cincinnati. 
+
+San Francisco and Houston are about equal. Both are 
+very unpredictable. Both are supposedly capable of winning 
+their division, but I'm afraid that both will probably be in 
+for a long year. Even though they both have the talent to 
+win, recent past results tend to discourage any miraculous 
+performances for this season. 
+
+Atlanta has a slugging lineup led by none other than 
+"Hammering Hank", but their pitching is poor, poor, poor. 
+
+Over in the superior American League, which outhit 
+and out homered the National League and took the World 
+Series as well, there are going to be plenty of surprises. 
+
+Look for Boston to sweep up all of the marbles in the 
+East, as they have added tremendous strength to their 
+pitching staff with the acquisition of Wise and Cleveland. 
+With solid hitters like " Yaz" and Carlton Fisk, they should 
+be able to nose out the Orioles. 
+
+Baltimore has some very good young talent, but I have 
+a feeling that injuries are going to hamper them this year. 
+Brooks Robinson and Boog Powell are still around, and they 
+still have a potent pitching staff. 
+
+Cleveland, Detroit, Milwaukee, and New York will all 
+be fighting to stay out of the cellar. The Indians could easily 
+pass the other three, if the Perry brothers are effective this 
+
+Detroit has half of its team receiving retirement 
+benefits, while Milwaukee has a weak pitching staff. The 
+Yankees are capable of taking it all, but they won't. Look 
+for them to finish at the bottom. 
+
+Beware of the Minnesota Twins in the American 
+League West. They won 14 out of their last 18 games last 
+year, and have added several strengths, the most 
+prominent being the acquisition of catcher Randy Hundley. 
+
+A good year by Harmon Killebrew will more than make 
+up for any weaknesses on the mound. The Twins have the 
+power and the hitting average (as they led both leagues in 
+team batting last year with a .270 team average.) Bert 
+Blyleven is considered to be the top pitcher in the majors by 
+
+Oakland will again be tough, but they still need a few 
+better hitters. Jackson can't carry the full load. Their 
+pitching is very solid. 
+
+Kansas City, Chicago, and California will all be fighting 
+for the title in what should be the tightest race in both 
+leagues. The winner from this division will again win 
+everything. 
+
+Kansas City has plenty of speed, Chicago has the power, 
+and California has a little of each. 
+
+Texas has a much better pitching staff with the addition 
+of Jenkins, but I think it will be another year or two before 
+they become real competitive. My picks follow: 
+
+
+
+LEAGUE 
+
+
+
+EAST 
+1. St. Louis 
+2 Pittsburgh 
+
+3. New York 
+
+4. Montreal 
+
+5 Philadelphia 
+
+6 Chicago 
+
+
+
+2. Baltimore 
+
+3. Cleveland 
+4 Detroit 
+
+5. Milwaukee 
+
+6. New York 
+
+
+
+2. Cincinnati 
+
+3. Houston 
+
+4. San Francisco 
+
+5. San Diego • 
+
+
+
+AMERICAN LEAGUE 
+
+
+
+1. Minnesota 
+
+2. Oakland 
+
+3. Kansas City 
+
+4. Chicago 
+
+
+
+Parnell Park F rom 
+
+siis.ot 
+APARTMENTS t TOWNHOUSES 
+
+(Furnished or Unfurnished)' 
+
+Open 9 a.m. to 7 p.m. Daily 
+
+Saturday 9 to 6 p.m. Sunday 1 to 6 p.i 
+
+
+
+7025 Ridgewood Or. Phone 483-3196 
+
+
+
+Reds pay 
+
+
+
+bracket-Johnny 
+
+
+
+. 
+
+
+
+</pre>        </div>
+      </div>
+    

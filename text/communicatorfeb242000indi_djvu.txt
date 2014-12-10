@@ -1,0 +1,2782 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorfeb242000indi/communicatorfeb242000indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorfeb242000indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorfeb242000indi">The Communicator</a>"
+          </h1>
+          <pre>February 24, 2000 
+
+
+
+Volume 32 
+Issue 21 
+
+
+
+Since 1969 
+
+
+
+The 
+
+
+
+Valentine's 
+
+dance offers 
+
+social 
+
+opportunity, 
+
+educational 
+
+experience 
+
+by Mishaiuu Wood, 
+Managing Editor 
+
+Last Sunday evening, as a pan 
+of Dlverjlty Week, United 
+Scxualitlci hosted Its first 
+Valentine's Dance in Walb 
+Ballroom. The llrst hour consisted 
+of a drag show where female 
+Impersonaion lip synced and 
+danced to v-arious t&gt;pei of music. 
+The latter half of the evening was 
+
+
+
+niii 
+
+
+
+rfort 
+
+
+
+th da 
+
+
+
+■Ing '. 
+
+
+
+ming. 
+
+There ate not a iot of gaj' 
+activities for people under 21. 1 
+remember when I was younger and 
+1 felt isaiatcd, I met people at 
+United Sexualities and realized 
+that I was not the only one,' said 
+AUe Knopf, who attended the 
+
+"For a lot of people who come 
+here. It Is their (irsi lime at a drag 
+show. Many people don't want to 
+go to a gay bar because the)' might 
+reel uncomfortable. We view the 
+event as both social and educa- 
+tional," said Jeff Sterling, chief 
+executive officer of United 
+Scxuallties. Sterling said many 
+people think that all drag queens 
+
+Many people perform as drag 
+queens for theatrical reasons. 
+Their only pay is gratuit&gt;'. 
+
+Miss Tula, the Seventh 
+Wonder of Fort Wa&gt;Tie was the 
+opening act and performed 'Over 
+the Rainbow' by Patty LaBeilc. 
+Tula is on the board oF directors of 
+Justice Incorporated, which deals 
+with hate crimes and HIV. Tula' is 
+also on the board of dlrcciors of 
+the Up The Stairs community cen- 
+ter, a local ouiit:ach and education 
+program, and is the director of 
+CAT; Communit&gt;' AIDS Action, 
+which provides outreach educa- 
+tion and prevention of HIV. Tula 
+has been performing for 44 years 
+and coordinates the two drag 
+shows at After Dark 
+
+"I think this is a great way to 
+start Diversit&gt;- Week for the uni- 
+versit&gt;'. Drag culture is an impor- 
+tant pan of the gay rommunii) 
+even though it Is frowned upon b&gt;- 
+many, it is vcrj' important for the 
+younger generation to know what 
+drag is and what is so important 
+about it and where it came from," 
+said Tula. 
+
+Tula believes that drag is very 
+sign meant because drag queens 
+were among the first people to 
+stand up for gay rights at 
+Stonewall, a gaj bar in New York. 
+As part of standard operation, the 
+police force raided gay bars and 
+harassed the performers. Atmoii 
+31 years ago, one of the queens 
+confronted an officer about the 
+harassment and three days of riots 
+followed. This was one of the most 
+lamous and largest incidents that 
+helped create rights for the gay 
+communis. Today, this incident 
+In gay histori' is simply known as 
+Stonewall, 
+
+Speaking of performing, some 
+of the other performers who cele- 
+brated Diversity Week and enter- 
+tained the audience were Mr. Gay 
+Indiana, Brad King; Slmune Falls 
+from [U Bloomington; Latina 
+Garrett, Miss Gay IPFW; Aisha 
+Devorc and Trent Black, a drag 
+king. Some of the artists thc&gt;- per- 
+formed to were Cher, Martina 
+McBnde. Jessica Simpson, Brittany 
+Spears and Garth Brooks. 
+
+"It look two and a half hour^ 
+lo prepare with hair, duct tape and 
+make-up. Make-up took the 
+longesL I am a natural, so [ don't 
+have to practice," said Falls. 
+
+Falls has been performing for 
+five years and said that when she 
+fint came out. a lot of her friends 
+wore Into drag. Falls said that at 
+first she thought It was totally 
+against the norm, but tried It any 
+
+"1 took a leap of faith, put on 
+a dress and had a good time,' said 
+Falls. 
+
+This was the first event that 
+Garrett had to perform at as pan 
+of her duties as Miss Gay IPFW. "1 
+think it is great to do this for the 
+gay youth of Fori Wayne. Maybe 
+we enlightened them a little bit 
+and made It easier for them." said 
+GarretL 
+
+For more Information on 
+United SexuallUcs caU 4B1-C09. 
+
+
+
+Communicator 
+
+
+
+Indiana University-Purdue University Fort Wayne 
+
+
+
+Symposium to feature student presentations in humanities, sciences 
+
+bv Marv Anne Gates. rvnirniii in in i ; rv..nii.n, i^„„ ...i.K .i^^ r ,. j_ r. _ 
+
+
+
+Scudeni sees sign as 
+ivaste of money, 
+page 2. 
+
+Basketball moving 
+on up. page 6. 
+
+
+
+The Undergraduate Research and C.eatlve 
+Endeavor Symposium (URCES) and the annual 
+Sigma Xi Competition are planned for April IB, 
+starting at 8:30 a.m. in Walb Union. Exact times and 
+rooms for presentations are to be announced later. 
+
+"The s&gt;mposium is a forum for the communi- 
+cation and promotion of undergraduate student 
+achievement throughout IPF"W,' said David 
+McCants, associate vice chancellor of Academic 
+Affairs. 
+
+Students are invited to submit a one-page 
+abstract detailing their proposed presentation. 
+Students must have an IPFW facultj- sponsor in 
+order to participate and abstracts must be approved 
+by the faculty sponsor. Student presentations are 
+
+
+
+typically 10 to 1 
+tions and answer 
+
+Students entering the Sigma XI competition 
+must also submit a copy of their abstract to 
+Associate Professor of Biotogj- and Coordinator of 
+the Sigma Xi competition, Elliott Blumcnthal. 
+
+"It needs to be a scientific approach to a prob- 
+lem and use scientific method to answer your ques- 
+tion," Blumcnthal said. 
+
+Sigma XI is a national scientific honors soclel)'. 
+The 1PF\V chapter, whose members are primarily 
+campus facult&gt;-, is dedicated to helping students 
+with research projects. 
+
+Open to any student, projects In the sciences 
+include biologj', chcmistrj-, geoiogj and phjsics, 
+but are not limited to these areas. 
+
+"This competition makes everyone aw'are of the 
+t&gt;'pes of research projects going on around the uni- 
+versity and how much professors help students with 
+these projects," Blumcnthal said. 
+
+
+
+,g with time for ques- Awards for wmntng the Sigma Xi competition 
+
+include a SlOO gift certificate to Foiiett's IPFW 
+Bookstore for the first place winner. The second 
+place winner will iweive a SSO gift certificate. Also 
+included are a one-) ear membership to the IPFW 
+chapter of Sigma XI, an invitation to hear a presen- 
+tation from a Sigma Xi member and an opportunity 
+to apply to the Indiana Sigma Xi Society, where 
+additional money is available for research projects. 
+
+Presentations for URCES arc likely to be as var- 
+ied as the campus populadon. For e.vampie, presen- 
+tations in performing and visual arts, the fine and 
+applied arts, education and mtuic may be Included. 
+
+Formats for the symposium presentations 
+include: oral, poster, roundtabte and performing 
+and visual arts. 
+
+Deadline for submission is March 20. For more 
+information, contact David McCants in the oriiee of 
+Academic Affairs in Keitler Hall at 481-6705 or 
+□liott Blumenthal at 4Bl-&lt;iO04 
+
+
+
+Grants to be awarded for research 
+
+
+
+Tlic Summer Grants for 
+Research and Creative Endeavor 
+Program is offering scholarships In 
+undergraduate research and cre- 
+ative endeavor. Scholarships to be 
+awarded are lor Summer imu. 
+
+"The purpose Is to support 
+the effort of a carefully conceived 
+research project or creative 
+endeavor," said David McCants, 
+associate vice chancellor of 
+Academic Affairs. 
+
+Inquiries in all disciplines, 
+research and creative endeavors 
+Including experimental, empirical, 
+historical, critical, composition, 
+exhibition and performance are 
+encouraged. 
+
+"Students pursue this project 
+Intensely during the summer 
+under the close supervision of a 
+facultj' sponsor,' McCants said. 
+
+Program awards arc S SOO to 
+the student and S300 to the faculty 
+supenisor. According to McCants, 
+the student award is payable as a 
+stipend, as a supplies and expense 
+
+Deadline for applicadon for 
+Summer 2000 awards arc due 
+March IS. For more information, 
+contact David McCants in the 
+
+
+
+OfTice of Academic Affairs, Kettler 
+Hall Boom 176. or call 481-6795. 
+
+Another award program from 
+the Office of Academic Affairs Is 
+the Supplies and Expenses Mini 
+Grants PrograiTi. This grant pro- 
+gram pays up to S200 for expens- 
+es of disposable supplies. For 
+example, it may be used to pur- 
+
+
+
+
+
+
+paper, Transportati 
+amy also be included. 
+
+The Financial Travel Support 
+Award Is also available to provide 
+rinanclal support to students mak- 
+ing presentations at conferences, 
+CNhibiiions and festivals not on 
+campus. Awards of up to S2S0 are 
+granted. 
+
+Recent awards to students 
+include presentations made by 
+students traveling to the Central 
+Stales Anthropological Society. 
+Bloomingion; North Central 
+
+Pittsburgh: Conference on Human 
+Development, Memphis and the 
+National Design Competition In 
+Washington D.C. 
+
+Deadline for the Supplies and 
+E-Xpenses Mini Grants and the 
+Financial Travel Support are April 
+IS. For more Information, contact 
+the Office of Academic Affain at 
+481-679S. 
+
+
+
+Jobvlew: a path to employment 
+
+
+
+
+Ptutoby EliifrDenfflin 
+
+Looking for a career opportunity? Jobwew displays all types ol area employment. 
+
+
+
+Deaf community shares communication skills 
+
+
+
+
+t bright . 
+
+
+
+igh. &amp;entually. 
+
+to a bank to borrow 
+
+money, to an employment service 
+
+" id to everyday places most of us 
+
+I without thinking, 
+
+"Points are awarded for 
+ithuslasm. willingness to com- 
+unicaie and facial expressions," 
+Dodzik said. 
+
+Additionally, points were 
+iwarded for successful communi- 
+n, rlariti' and sinccritj . Prizes 
+e awarded during the 
+■iefing- 
+
+The smell of pizza and total 
+
+iltence greeted me when 1 entered 
+
+he room an hour earlier. 1 had 
+
+lOped to "talk" to organi7crs 
+
+before the event to get some 
+
+information. 
+
+busy setting up 
+
+tables and chairs, taping up signs 
+
+ing information cards at 
+
+ition. The information 
+
+cards were about people who were 
+
+deaf or had made a significant 
+
+contribution to the deaf culture. 
+
+There was no time to "talk." 
+
+Instead, 1 walked silently around the room, 
+reading each card and acquainting myself with the 
+heroes of the deaf world. For example. William E. 
+Hoy. [1862-1961), deaf since age Z, Hoy later 
+record-breaking Major League baseball 
+piayer. ne is Credited Willi starting the strike and 
+ball count hand signals in use today, Robert H. 
+Weitbrecht, (1920-1983), an electronics scientist, 
+invented the acoustic coupler in 1964. The device 
+eventually made It possible for the deaf to use the 
+telephone. 
+
+There were several heroes including Thomas 
+Hopkins Gallaudet, Alice Cogswell and Laurent 
+Clerc-all major names in the deaf communitj'. 
+^""^ Deaf Deaf Learning about these people and events in the deaf 
+World coordinator, explained to a crowd before world made a connection for me in the hearing 
+they entered the evenL world. 
+
+Sponsored by the Audiology and Speech Suddenly I realized it was somehow quieter in 
+
+Sciences Department, approximately 100 people this silent room than when 1 first entered. I turn&gt;;d 
+(tended the second annual deaf simulation, around, discovering the acdvity of setting up tables 
+vBrvnno «.:i, o.,.»n "-" papcrs before entering the and chain was over. About twentj' people were sli- 
+'"' -....-..-. tables eating pizza before Icitlng 
+
+
+
+PWobyAiiam , , _. . . .. . _ 
+
+Two participants have their questions answered by members ol the ^""^ pi»'^'"b informauon cards at 
+
+, ■ arv . ^ . each &lt;;I.Tlinn. Thr&gt; fnfnrinaiinn 
+
+dear communily at Deaf Deal World last Tuesday. 
+
+
+
+Deaf Awai 
+
+
+
+] dull 
+
+
+
+1. Who became the first deaf president of 
+Gallaudet University? 
+
+2. Who W3S the first deaf educator in the United 
+States? 
+
+3.Whols thedeafcommunlt&gt;' trying to get Induct- 
+ed into the Baseball Hall of Fame? 
+
+4. Who met Gallaudet at age eight and inspired 
+him to help esLiblish the first permanent school 
+for the deaf In the United States? 
+
+5 . Who proved that ASL is a true language? 
+
+6. Who invented the acoustic.coupler used in 
+machines? 
+
+7. Who undertook the filming of old masters of 
+to preserve ASL? 
+
+famous university is named after this deaf 
+Who is he? 
+Read the answeri next weekl 
+
+
+
+Pointing, writing, nodding, shoulder shrugging, 
+lip reading attempts, thumbs-up gestures and rub- ..,_,, ,,_ 
+bing llngcn and ihumb together indicating the need became a 
+for monc&gt;- are a few of the ways people communi- 
+cated at a two-hour deaf simulation in Walb Union 
+Feb. 22. 
+
+,d figut 
+there is more than o 
+way to communicate," 
+Cynthia Dodzik. 
+American Sign 
+language (ASL) if 
+
+
+
+
+
+
+"You n 
+
+
+
+signs sc 
+
+
+
+back and 
+
+
+
+Everyone was giver , , ^ .... „„„ ^„„„^ .,„ 
+
+room. One paper was a deaf awareness quiz and iiie ting aroiind t\.„ „,„,„:, ^^„„i, t,,...^ „ 
+
+other briefiy dcscnbed the program, rules and the the public In for the deaf simulation. 
+"""""'' f""" communicaUng needs without talking. With my ean, 1 could hear veiy ll«lc s 
+
+the ASL school to learn almost nothing. With my eyes. I could see con' 
+
+^te," Dodzik tion and interaction among ever&gt;'one. A I 
+
+"'0- group engaged in O"" i-iin..r.r&lt;nrinn ^nri &lt;• 
+
+The gesturing continued as participants walked snnlier conversations w 
+to a cafe where, after ordering breakfast, they real- 
+ized their wallets were lost and they could not pay. Finally, it was time for the deaf simulatior 
+
+Next they went to a hospital. expUlnIng that one of begin. It would be our torn to manage in a wc 
+
+their children had just swallowed a penny. Another that is different: In a place where oral ci 
+
+stadon was an electronics store. Participants then doo is not an opi 
+
+explained the visual fire alarm they had purchased our needs met 
+
+
+
+Te going on simuloneously. 
+
+
+
+n in making our point 
+
+
+
+
+Pholo by Adam Jafla. EUa 
+
+ASL is being used by these individuals lo commu- 
+nicate a potential situation found in everyday life. 
+
+
+
+Page 2 The Communicator 
+
+
+
+commentary 
+
+
+
+February 24, 2000 
+
+
+
+Falling arts 
+need a lift 
+
+
+
+I am a great supponer or the 
+aru, I greaily enjoy going lo the 
+theater to kc pl^yt ^nd hear 
+mutlirali. 1 love lo go to the art 
+mujcum downtown and see the 
+cxhiblu. I frequent the Qnema 
+Center to sec foreign films and 
+independent ninu, 
+
+I tTy to see every poet and 
+writer that visits IPFW. Including 
+at many Omnibus Lecture Series 
+speakers that I can. Among other 
+things, I like to spend time at cof- 
+fee shops discussing the meaning 
+of life, why bad things happen to 
+good people, and why professors 
+like to assign so much homework. 
+I try to soak up as much of life as 
+I can. rather than sit in front of a 
+TV or computer screen. 
+
+I was excited when I heard 
+that the drama department was 
+putting on a show of "Arcadia." 
+This is a play that 1 was reading 
+for a literature interpretation 
+class. It Is of the modern genre. 
+Modem meaning "of the current 
+time,' btit as 1 am learning in my 
+Post Modernism class from the 
+great Post Modern "Grand 
+Wizard," this play may cross the 
+lines Into the Post Modem era. 
+
+It's very hard to say because 
+we arc living in a Post Modem 
+Time. ICs hard to dcTine a time 
+while you are liiing in it. But any- 
+way, 1 was excited I was going lo 
+sec this play acted out before me 
+by a group of actors. "Arcadia" Is 
+about the chaos theor&gt;'. the differ- 
+ences and similarities l)etwecn [he 
+19ih and 20th centun', normal 
+people, and it's Just a plain tough 
+play to understand. Tlieatre is a 
+way [o understand a play. 
+
+A play Is obviously meant to 
+be staged, but more often than 
+not, students Just read plays and 
+never get to see them live. This 
+was a neat chance to see the play, 
+and at the same time to see some 
+people that 1 know, on stage, 
+
+I could not sec the play on 
+opening night because I had to 
+work. I wasn't able to sec the play 
+the opening weekend because 1 
+had to work. The only chance that 
+1 had to see the plaj' was this past 
+Saturday nighL I got home from 
+work and called my brother who is 
+a high school freshman. [ thought 
+he might like to go. By this time It 
+was 7;45 and the play started at 8. 
+
+There was a traffic Jam at the 
+Coliseum because of a hockey 
+game or something like that, and 1 
+got caught in iL 1 got to my broth- 
+er's house at S exactly. We got to 
+IPfW at about 8;10-8:1S. 
+
+there was another girl entering 
+Williams Tlieatre. We were told 
+that If we didn't have a ticket, then 
+we couldn't enter. We both needed 
+to see this play for class. 1 don't 
+know what she had to do, but 1 
+had 10 write a review. Well, the 
+box ofdcc had Just closed and they 
+wouldn't open It up for us. They 
+were making their counts for the 
+evening. 
+
+1 was a bit upset because 1 
+wanted to see the play, and I also 
+needed to see the play. 1 could 
+understand if the bo\ ofiict- had 
+been closed for 10 minutes or so, 
+but it had Just closed. I Just want- 
+ed to lay my monc&gt;' down and 
+walk In. Also, I understand the 
+courtesy of theatre. It Is rude to 
+enter too late into the play, but we 
+would have been extremely quiet. 
+
+I am not complaining about 
+not being able to enter without a 
+ticket, because I was late. But. if I 
+had 3 ticket t would have been 
+able to go In. The arts on this cam- 
+pus, and the arts in society, arc on 
+the downward spiral. 
+
+For some reason our country 
+does not put as much emphasis as 
+It should on theatre and things of 
+the like, and to deny somebody 
+the right to participate In an arts 
+presentation is quite annoying. 
+My question Is this: Is there any 
+way that I could see the perform- 
+
+Can 1 have a prl^-aie showing 
+or something? Arc the actors put- 
+ting on a showing at a later date? I 
+know this desire Is probably 
+Impossible, but It never hurts to 
+try does It7 Besides, I have a few 
+bucks that could be Just the thing 
+the dnima department may need. 
+
+
+
+The truth hurts: Walb just another place in need of more students 
+
+
+
+
+Any college building that has the words this campus is the lack of activity. It Is a 
+
+"student union" in its name usually makes repeated theme In this paper that we obvi- 
+
+people think of a place full of activit&gt;'. We ously don't believe can ever be repeated 
+
+have visited sev'cral other campuses and enough. We want to know what It will take 
+
+have found this statement to be true, for the students of a commuter campus to 
+
+Hustling and bustling are two words that come to activities. Is It an interest In the 
+
+traditjonally Ht the descripdon of a student subject matter perhaps? Do you need more 
+
+union. time! Do you need fewer obligations to ful- 
+
+The main contributors to that hustling fill and more free iimc7 Guess what, we all 
+
+and bustling description are students and need those things. We feel thalwhoevercan 
+
+activity. Poor old Walb Union is lacking in answer this question and solve IPFWs pnib- 
+
+both of these areas. The norm for , , lem related to student participa- 
+
+
+
+■No man la an 
+Island, entire of 
+Itself: every man 
+19 a piece of the 
+continent," 
+-John Donne 
+
+
+
+the Union during the daytime is 
+an empty, quiet building filled 
+with the luual people who work 
+there or have an office for a stu- 
+dent organijation. The evening 
+hours are prett&gt; quiet as well, 
+with the exception of the mainte- 
+
+Ever&gt;-body who works in 
+Walb Union is a familiar face to 
+us, whether the people are students, facult&gt;' 
+or staff. The few activities there are, such as 
+lectures. SAB events and an occasional con- 
+cert are also ver^' familiar to us. From our 
+penonal observations, we have found that 
+the same people who frequent the building from yi 
+on a regular basis are the same people i ' 
+attend the events. This group consists m 
+ly of Greek organization brothers and 
+
+SAB and IPSGA members, our staff and little low compared 
+
+
+
+; members of the student organlza 
+
+
+
+don In campus c 
+genius. 
+
+Although many people have 
+theories about this Issue and ii 
+may seem like a simple problem, 
+the situation at hand has never 
+been solved. Students, where are 
+you7 We would like to meet more 
+
+Walb Ballroom is In desper- 
+ate need of a change of pace and a change 
+of attitude. The empUness and quietness 
+are pathetic. It Is more tike a monasterj' In 
+here than a place of activity. You, the stu- 
+body, need to give yourselves a break 
+ir routines and closed up lives. It Is 
+okay to have fun and socialize once in a 
+while, even If Just for a few minutes, 
+
+Tlie number of events here may be a 
+other places, but that 
+
+
+
+go. You can meet a lot of 
+dons. people and get a taste of a different flavor 
+
+It appears to us that convenience may of college life by attending them. Walb and 
+be the key problem here. One of the most Its "regular community" are patiently wait- 
+written about complaints that comes with Ing to meet new faces. 
+
+
+
+Will they enjoy the outcome of 'The End'? 
+
+
+
+by Malissa Fritz, Features Editor 
+
+When I was asked to wTile this 
+column for the commentary section of 
+the newspaper, I thought to myself. 
+how hard can it be to write a column 
+on basically anything that I wanted to? 
+So, of course, I said yes that 1 would be 
+happy to wTite this column. I mean, it 
+would be something different to write 
+
+Then I began to start working on 
+the column and by the time the end 
+came, 1 decided that 1 did not like what 
+I had written on the paper. So, 1 tore 
+up the paper, threw it away and start- 
+ed over with another topic, I worked 
+on that topic for about an hour to an 
+hour and a half. 1 ended up with the 
+same result. 1 read what 1 had written 
+on the paper and decided that 1 did 
+not like what I wrote this time clther^l 
+sat at the table for about 15 minutes. 
+
+
+
+completelj at a loss over Ideas to write 
+
+1 realized that this Is not a new 
+problem in my academic life. No mat- 
+ter what 1 have written in the past or 
+will write in time to come, I hardly 
+ever completely like what the final 
+product Is, No matter how many times 
+someone may tell me they like what I 
+have written, I'm still not vcr&gt;' happy 
+with It myself 
+
+Think about it for a minute. How 
+many dmcs have j'ou not been happy 
+with the Hnal product, whether It is 
+dealing with ivritlng, a project or some 
+other kind of work? A majority of us, 
+as students, have probably slaved for 
+hours and hours over papers at least 
+once in our lives and did not like the 
+final outcome. -Some times we -are In 
+such a hiirry to get it done that we 
+
+
+
+have 
+
+
+
+
+
+
+c like it 
+
+
+
+We always seem to be so worried 
+about pleasing others and hoping that 
+they like our work that we sometimes 
+forget that the hardest person to 
+please Is ourselves. Why is that? 
+Maybe we are our own harshest critics. 
+Or we have been taught for so many 
+years to Tmd the problems within our 
+work so that we can fix and Improve 
+them, that maybe we really have not 
+been taught to find the good that is In 
+there too. Majbc we are too scared to 
+realize that if we did succeed, then 
+that Is what is expected from that 
+point on and. In turn, we are scared of 
+the possibility ol failure. Then agam, it 
+could all Just be self-consciousness. 
+
+Hey, these affi jU;( a few possibil- 
+ities that I have thought about and I'm 
+
+
+
+throwing them out Into the open air. 
+Catch them and think about them if 
+J'OU want. The)- are free to ever&gt;-one. 
+For all I know, I could possibly bi^ way 
+off this train track and headed In the 
+wrong direction, but maybe I'm noL If 
+someone can answer this thoughtful 
+dilemma of mine, congratulations! 
+Can you let the rest of us know the 
+answer please? There may not be an 
+
+those many questions In life that can- 
+not be answered. Then again, I might 
+be making too much out of this small 
+subject matter in life. Who e.tactiy 
+knows? 
+
+Well, 1 think that I will end my 
+thinking process on this subject right 
+there.' It comes back to my question. 
+^m^SlP '■Mi final product? No. but 
+then again, 1 hardly ever do. 
+
+
+
+Sign takes 
+away beauty 
+
+The expense ot the new 
+electronic sign is directly pro- 
+portional to Its offense. It 
+destroys my Illusion that culti- 
+vated minds seek beauty. One 
+thing I've appreciated about the 
+Fort W3&gt;Tie campus is the phys- 
+ical and architectural land- 
+
+The campus has a symme- 
+try, enhanced by the river and 
+long lawns, that creates a peace- 
+ful, unhurried environment 
+
+Prcviouslj', I've enjoyed m&gt;' 
+walk from the parking lot o( 
+Gates to Ketiler Hall. Now, my 
+sercnlt&gt;' Is assaulted with obtru- 
+sive red lights, flashing tjme 
+and temperature and a big, 
+bold, impenonal "WELCOME." 
+
+I am not opposed to tech- 
+nology, but there already exists 
+an electronic marquee- 1 PEW'S 
+homepage on the Internet. A 
+link to campus events could be 
+created on the e-mail quick sta- 
+tion screens. Televisions, like 
+the one In the lobby of CM. 
+could broadcast campus events 
+Instead of soap operas. 
+
+I may get used to the sign, 
+and at 550,000 this folly will 
+undoubtedly remain. But 1 v,-ritc 
+now to mourn the loss of one 
+more pleasant view. To whoever 
+suggested and/or approved the 
+electronic sign: your iniendons 
+are understandable, but the 
+placement of the sign Is dis- 
+tasteful, 
+
+BIzabeth H, Wilson 
+
+
+
+Too much for the children 
+
+
+
+by Chadd Pierce, Staff Writer 
+
+les ugly how kids are killing kids, 
+That Columbine thing tricked Just about 
+ever&gt;' parent in America into thinking 
+that ever&gt;' school In America Is a war- 
+zone-a land mine Just waiting for a slight 
+breeze to sot It off. The crime rate among 
+youth is perceived to be at a high num- 
+ber by lots of people in this country and 
+there are reasons. There are also reasons 
+that the younger population Is getting 
+more violent to the misunderstanding 
+eye. It isn't Just as If all these kids Just 
+woke up one morning and decided to go 
+lay out the teacher. It's much more in- 
+depth than that 
+
+For too many In this nation, the 
+recent school violence situations meant 
+ground zero for minors. There is no 
+going back-we might as well expect them 
+to be like the nvelve-year-old guerrilla 
+army from Thailand and tr&gt;' to take over 
+the country. That's not so, In my opin- 
+ion. The tendency of the news to focus 
+on the vhorst of 
+things isn't 
+without reason. 
+They do it to get mmm^^^^^^^^^^m 
+
+so if there is only 
+
+one crazy thing right now-and especially 
+if that one thing is oh, so perfect for con- 
+slant reporting-of course CNN will Jump 
+on it like there is nothing else that could 
+ever achieve that level of Importance. It 
+is Just buslncss-what ihey do. 
+Unfortunately, the American public 
+tends to be Intelligent, rational thinkers 
+by themselves, but in a large group, 
+we're Just a bunch of dumb animals In a 
+herd, who could be sent Into a raving 
+stampede if we found out or saw an)'- 
+thing that in our minds could pose a 
+threat. We watch TV like if s real-and 
+that entertainment thing Is the side 
+
+Well, tap the glass, 'cause there ain't 
+nobody In there. 
+
+It's all about Brittany Spears, too. I'll 
+give her the fact that she's got 
+
+
+
+taleni-and lots of It-but look past the 
+
+dancLig, flipping, and posing and I'm 
+not sure how well she can sing. That's 
+because it's not her Job. She was hired 
+for the main purpose of selling CDs lo 
+kids-an untapped market! Mandy 
+Moore, Christina Aguilar or Agliear, well, 
+you know who I'm talking about-all of 
+them: They are a perfect example of a 
+good idea taken by others when it works 
+for the first. Ever^' song sounds like Ifs 
+got twenty back-up singers. It's the Idea 
+that they are young, barely legal girls 
+who know how to strut their stuff and 
+draws millions of fans-male or female. 
+The nation Is getting younger, so the 
+markets have to start thinking about 
+that, too. If the money Is In people IS 
+and up, why on earth would a company 
+who wants to make money focus on some 
+tw e n t&gt;'-e I jjht -year-old who Just bought a 
+house and is letding down? There arc a 
+huge number 
+
+
+
+erlng firewood like they once may 
+have-these are responsibilities at which 
+those earlier generations would have 
+cowered. The funny thing Is that we 
+don't focus on the Important stuff. The 
+education quality has dropped, while 
+superficial requirements have surged. 
+It's awful that we train the kids to laugh 
+as if they don't know what a mouse docs 
+(on a PC), but when It comes to knowing 
+how to do their taxes, many couldn't 
+care less. It's stereotypes and neglect. I 
+can't excuse the prctO' recent shootings, 
+beatings and other violence, but I am 
+saying that there is a major abandon- 
+ment problem here. 
+
+When it comes to the children buy- 
+ing our products -that's line, but when 
+llttie Bobby wants a hug from Daddy, 
+there is not enough time in the day. 
+We're messing up somehow. We consider 
+,.j. . -gulllj' until they 
+
+
+
+luithood a 
+
+
+
+rally s 
+
+
+
+Ing things Some joung teenager comes 
+up to an old woman (who is television 
+friendly) and she almost keels 
+r try Ing to read) her walk- 
+Tor the attack. However, 
+'hen the kid Just walks by, 
+h might notice that the 
+e Just 
+ould kill 
+
+
+
+
+ting younger More 
+education, earlier In 
+terms of lechnolog) 
+
+and other adv 
+
+mentsisabigone 
+
+Children onl) age five 
+are using the Intemci-b) ihemselvesi 
+Wewantquitea bitoutofihem There 
+arc a lot more responsibilities 
+Hopped onto todays kids than In 
+previous times, but as a socle^ we 
+are so Immature ourselves, we 
+expect them to know everything and 
+do like we do-or else. The "To Do" lists 
+don't involve milking or plowing or gath- 
+
+
+
+Adun Taylor, Edilar 
+Miihanna Wood, Managing Eiilor 
+Muy Anne Gitca, Nnw Edilor 
+Maliiia Fritz, ftaiura Editor 
+Erie Tan. Editorial Cartoonist 
+Kilhy Deligiinge, CcTiy Edilor 
+Brian Miller, Adixrlising Manager 
+Doric Reynolds, Publisher 
+
+
+
+MaiL The Communicator, 
+Suite 215. V^lb Student Union, 
+2101 E. Coliseum Blvd.. 
+Fort Vftyne, IN 46805 
+
+E'tnalL stupapetfiholmes.i pfw.edu 
+TtUphont: 
+Editor: WI-65S4 
+Publisher 4Sl-6Sa5 
+Advertising: 481-6583 
+
+
+
+Unsigned editorials are the opinions of The CommunicabDr 
+TTicy do not necessarily reflect Ifie views of IPFW. Its 
+employees or its student body. A column is solely the opm- 
+
+The Communicator welcomes responses from its readers. 
+Letters to the Edilor and gue^t columns must be sigited, 
+dated and accompanied by a current, valid addiess. 
+
+All submissltnu wade via e-mail must be verlfled by photw 
+or in person. Submissions via mail or e-mail without this 
+informatitn will luil be published, except under ex tiaordi- 
+
+
+
+naiydtcumslances. Class standing or title are also requested. 
+Addresses and phone numbers will never be published. 
+
+Submissions must be typewritten, double-spaced and no 
+more than 300 words. Submissions for the next week's issue 
+must be received prior lo 5 p.m. on liie Friday before the 
+Issue is printed for timely consideration. 
+
+The editorial board of "The Communicator reserves the right 
+to edit all submissions for length, grammar, style and clarity. 
+Letters deemed libelous by The Communicator's editorial 
+board will not be published under any d 
+
+
+
+February 24, 2000 The Commumcator Page 3 
+
+
+
+AMERICAN EAGLE 
+
+OUTFITTERS 
+
+
+
+
+The Communicator Page 4 
+
+
+
+features 
+
+
+
+February 24, 2000 
+
+
+
+
+Choir and wind ensemble prepare for spring break trip 
+
+
+
+Sor 
+
+
+
+hJll 
+
+
+
+! PICC 
+
+
+
+i of n 
+
+
+
+performed." 
+c will be 
+
+
+
+TTic IPFVV Choir and wind 
+ensemble will be on Cour from 
+March 1-7. Their Hni perform- 
+ance will be in Ohio. Numerous 
+ilops planned along ihe lour 
+buses' winding road will land 
+them in unknown territory. Of 
+itic destinations scheduled, 
+many choir iiudenu are most 
+excited about New York Cl[&gt;' 
+ahd Washington D.C. 
+
+According to Wiiiiam 
+Skoog, director and conductor 
+of choir and assistant profes- 
+sor of music, "There are two 
+things that happen when you 
+go on tour like ihis. FInt, the 
+music reaches a nciv level, ai if 
+a Ore had been placed beneath 
+a beaker and cooked for seven 
+days,' said Skoog. "Second, 
+you get the word out. You put 
+IPFW on Ihe map. If you are 
+attending a school locally, 
+such as Soulli Side High 
+School, are you likely to attend 
+IPFW because we came to your 
+school tosinglOr. areyou'like- 
+ly 10 ancnd IPFW because you 
+heard our choir sings al places 
+like Washington D.C and New 
+York?" 
+
+Two busloads of IPFVVs 
+wind 
+
+totaling SO people, will be pai 
+ticipating In an event that loo 
+many months to plan. Reed 
+Thomas, conductor and direc- 
+tor of the wind ensemble, said 
+"Roughly twenty pieci 
+
+
+
+played jointly betwi 
+choir and wind ensemble. One 
+such piece, "Homeland" by 
+Gustav Hoist (187-4-1934), was 
+plajed at Princess Diana's wed- 
+ding and funeral and will now 
+bo played by [PFWs choir, 
+wind ensemble and assistant 
+directors and pianists, Donna 
+Harileroad and Steve Walley, 
+
+Adam Zollinger, a tenor in 
+the IPFW choir said, "H is kind 
+of sad, patriotic and uplifting 
+all at once.- 
+
+'There's a French pi 
+we sing Ihat is like yc 
+holding your heart In 
+hand," said AIbi Minga, 
+Dnd soprano. 
+
+"Originally our f 
+person price for (his to 
+W3J S2S0," said Katrina^ 
+(Kaiie) Vargo, 
+
+
+
+
+"People don't even know 
+we exist," said Zollinger. "1 did- 
+n't oven want to go to college, 
+but a rrienil talked me Into tn- 
+
+
+
+ing out (choir), and now 1 am 
+back." Zollinger Is playing solo 
+in a German piece called. 
+"Zlgeun eric ben" Op.29. Nr. 8, 
+written by Robert Schumann 
+(1810-1B56). 
+
+The tour will be "a good 
+opportunlt&gt;' for new students 
+to get to know othera in the 
+choir," said Karen Staniec, 
+chamber and alto singer, sec- 
+tion leader and president of a 
+professional music fraternity. 
+
+"I think over the last few 
+j'ean since we have been tour- 
+ing fperformlng on the road) 
+there has been a 
+
+
+
+Thomas said, "We are 
+
+hurches and we are 
+
+going to be doing a joint 
+
+/clinic with the United 
+
+, States Army Band and 
+
+Field Chorus, Both wind 
+
+ensemble and choir will be 
+
+performing." "Skoog has been 
+
+real encouraging to students 
+
+may be discouraged due 
+
+to financial obligations of this 
+
+tour," said Rittenhouse. 
+
+According to Vargo, the 
+only money needed after the 
+cost of the ticket is .for meals. 
+■We hope to lower our 
+price from its current S130 
+down even further because of 
+
+
+
+ling Fe 
+
+
+
+12 
+
+
+
+fundr^ilser." added Vargo. 
+
+The combined force o( 
+unique and unknown territo- 
+ries is wrapped around the 
+choir ensemble that Skoog 
+considers pan ot his family. 
+TTie entire choir bunch "con- 
+sists of around 60-62 metn- 
+bers, which includes a vocal 
+)azi ensemble consisting of 
+U," said Skoog. 
+
+Skoog proudly referred to 
+the name that the jazz ensem- 
+ble choose for their group. 
+"They call themselves "one 
+short of a dozen' (OSD)," said 
+Skoog, 
+
+"This is the first time that 
+we have taken on such an 
+endeavor," said Skoog. This 
+will take the first four 
+days ofspring break and this Is 
+a testament to one of the three 
+areas author Weston Noble 
+writes about." 
+
+"He writes that there are 
+three areas in life we ha\'e to 
+work on: mind, body and soul 
+or heart," said Skoog. 
+
+Noble says our sodetj Is 
+wonderful at addressing our 
+body and mind, added Skoog. 
+Skoog agrees with Noble that 
+
+of addressing the needs of the 
+
+Skoog makes ever; 
+attempt to allow anyone Inter- 
+ested in joining choir to expe- 
+rience this need. For more 
+information, call the School of 
+Fine and Performing Arts at 
+.2X9-481-6977. 
+
+
+
+The Communicator is currently hiring 
+
+salespeople to help lighten the load. 
+
+Experience is helpful, but not necessary. 
+
+Qualified candidates please call 481-6583, 
+
+orstopby Walb215. 
+
+
+
+
+Goldfinger, Violent Femmes to release new albums in March 
+
+
+
+Artist: Goldfinger 
+
+Title: "Stomping Ground" 
+
+Ubel: Mojo/ Universal 
+
+Genre: Ska influenced punk 
+
+Street Date: 3/28/00 
+
+Web: 
+
+iv.mojorecords.com/goldfin 
+
+
+
+tofS 
+
+
+
+Rating: 4 o 
+
+
+
+The California punk outfit 
+Goldfinger is back with a 
+vengeance. Goldfinger, whose 
+number one alternative single 
+"Here In Your Bedroom- 
+gained them popularil&gt;' among 
+mainstream and alternative 
+audiences. Is back with their 
+third release "Stomping 
+Ground." 
+
+"Stomping Ground- 
+brings Goldfinger lo a leiel 
+that their second album 
+"Hang-Ups" did not achieve. 
+The album features songs that 
+may help the band appeal to 
+mass audiences and generate 
+new fans of the band, but also 
+contains songs thai will not 
+disappoint long-ume fans of 
+Goldfinger. 
+
+-Counting the Days," the 
+first single off of the album. Is 
+a poppy-punk song that will 
+generate the band some 
+commercial radio airplay and 
+earn Ihe band more credibility 
+in the mainstream marlict. 
+'Counting the Days" Is a great 
+song that will bring people 
+who would not normally listen 
+to Goldfinger to the band. 
+
+Long-time Goldfinger fans 
+
+
+
+will be impressed with the 
+album also. Songs like "I'm 
+Down," "Cany On" and -You 
+Think It's a Joke" will maintain 
+the band's credibility with 
+their loyal fan base. The album 
+also contains a cover of Nina's 
+"99 Red Balloons- which does 
+the original justice. It is a ver- 
+sion that stays true to the orig- 
+'-"' while punking It up to a 
+
+Goldfingi 
+
+Ground," proves to be a great 
+album that has not left my CD 
+player since 1 received my 
+copy. This album will be 
+released March 28 and is 
+worth purchasing. 
+
+Goldfinger is currentiy on 
+tour in Europe with the 
+Bloodhound Gang, but will be 
+returning to the U.S. In March. 
+No tour dales have been 
+announced yet. 
+
+Aniit: Violent Femmes 
+Title: -Wh-a Wisconsin" 
+Label: Beyond 
+Genre; Alternative 
+Web: www.vfcmmej. 
+Rating: 3.S out of 5 
+
+
+
+Violent Femmes sho' 
+this album is a great o 
+to pick up. The albur 
+basically a greaicsi 
+album done live and compli 
+
+
+
+ly acoustic. 
+
+The album contains songs 
+such as "Cofinay Death Song," 
+"Prove My Love," "Blister in 
+the Sun," "American Music" 
+and "Kiss Off." 
+
+If you are a Violent 
+Femmes fan andthbik this Is- 
+going to be the same product 
+as"AddltUp,-which--- 
+
+of the; 
+songs that w 
+included on "Add ii^ 
+Up"aredifferentiy/^ 
+arranged and I 
+
+sound better. 
+
+
+
+"Freak Magnet" has been 
+pushed back to some time in 
+late March. Their U.S. lour 
+dates have not been set, but 
+there should be dates some 
+dme in April or May, 
+
+
+
+STOIF STlRgiSdlNKga 
+
+The first step toward eliminating debt 
+is consolidating debt 
+
+
+
+
+Use your III Credit Union 
+debtconsolidotionoDtions! 
+
+
+
+
+Flexible Hours to Fit Your Class Schedule! 
+
+
+
+I United Art and Education^ 
+
+
+
+LOOKING FOR ENERGETIC WORKERS 
+
+
+
+JOIN OUR WAREHOUSE TEAM S, WORK IN A FRIENDLV ENVIRONMENT, 
+
+■ Work part-time new/ruli-time in the summer 
+
+■ Duties include order Tillins (iiKludes SSTne lisht l^infi up tQ SOlbs) 
+
+■ Starting at iT.OO 
+
+Contact Mark op Tom: |fSCndEdiJ^n| 
+
+(219)478-1121 Monday-Friday 44»Dii...R.,i,h,&lt;wiy..,iN 
+
+
+
+
+^ Campus 
+
+Calendar 
+
+
+
+for Feb. 25-March 9, 2000 
+
+
+
+February 
+
+OlvBrslty Week Events 
+
+25 Exhibdicjn Patland. One Woman's 
+Century by artst Kalhy Giowen, Fort 
+Wayne Museum of Art, conbnues 
+IhroughFeb 27, 
+
+"Reno Finds Her Mind" (for mature 
+audience), WT. B p m, 
+
+29 'An Evening wilh Langston and Martin," 
+Danny Glover and Felix Justic*, GC, 
+7 30 p m , advance tickets available. 
+For information, call 6B08 
+
+
+
+26 Women and men's baahelbBll vs 
+
+Quincy Univetsity. GC, ) p.m , (W); 
+3 p.m , (M). 
+
+27 Faculty Aniats Series: Masson L 
+Robertson, piano. NF Recital Hall, 
+2:30 p.m. 
+
+28 Careerassessmentgroup 
+
+Interpretation, WU 116, 5.30 p.m., 
+
+for information, callGSOO. 
+
+Visiting Writers Series: Janet Hotmes, 
+
+poetry reading, WU Ballroom, 7:30 p.m.; 
+
+ret:epllDn follows. For information, call 
+
+6751. 
+
+29 Wellness Center TLC Series: 
+
+•Strength Training Basics," Jim Thurber, 
+GC 120, noon-1 p.m.; tor information, call 
+6029 
+
+
+
+29 "Straight Talk with School 
+
+Corporations," WU Ballroom, 4-5 p m . 
+for Information, call 6595 
+
+March 
+
+1 Registration for Rdsumd Export 
+Connections Database (required for 
+campus interviews), WU 113, Sa m- 
+5pm, continues through March 31 
+PsI Chi Bake sale. KT ground Hoot and 
+NF lobby, 10 am -3 pm 
+AnthropologyClub Lecture: 'Culture of 
+Higher Education,' Michael A. Wartell. 
+KT G46, noon. (Popcorn for sale ) 
+Dinner Series: Hilger's 'An Evening al 
+Mallory's,' The Guesthouse, E. 30 p.m., 
+335 per person; for reservations, call 
+219-432-7969. 
+
+2 Fencing Club Movie, title TBA. NF 101, 
+5:30 p.m., adml^ion free. 
+Anthropology Club Movie: Dead Birds 
+KTG46, 6:30 pm. 
+
+3 Campus Ministry spring break work trip 
+to Mexico, continues thtotigh March 1 1 
+Fencing Club can drive entls. 
+
+
+
+Exhibit: Inslall II. FA Gallery. Monday- 
+Friday. 7 a.m,-9 p.m.; weekends. 9 a.m.- 
+6 p.m ; continues through April 7 
+
+
+
+HAPPY SPRING BREAK 
+
+
+
+This ad courtesy of the Office of the Chancellor 
+
+
+
+February 24, 2000 
+
+
+
+sports 
+
+
+
+The Communicator Page 5 
+
+
+
+Women's basketball team sets sights on conference tournament 
+
+
+
+by Brian Miller, 
+Guest Writer 
+
+
+
+The IPFWwomen-i baskei- 
+ball (cam haj been cnjojing 
+lome of lu ben basketball 
+ilnce 1995-96 and has the con- 
+ference tournament on its 
+
+TTie Dons rattled off an 
+Impressive four-game confer- 
+ence win streak, something an 
+IFFW women's basketball team 
+has failed to due since the days 
+Of Undy Jones, 
+
+The team, which Is cur- 
+rently 12-12 (8-10 In the 
+GLVC). has a chance lo Hnish 
+the season with a winning 
+record with a pair of victories 
+against UM-Si. Louis and 
+QMlncy lonlght and Saturday. 
+
+One thing that this team 
+has been able lo say Is that 
+there has been a point in each 
+of [heir 12 losses where they 
+had a chance to at least make a 
+comeback, losing S games by 
+five points or less. 
+
+The four-game winning 
+streak came after a shilackJng 
+at SIU-ndwards\lllc where the 
+
+
+
+team lost by 25 points, their 
+worst loss of the season. 
+
+Riding that four-game 
+winning streak Into this week- 
+end, the team went to face 
+Indianapolis. 
+
+The Greyhounds, who out- 
+slied the Dons in their previ- 
+ous meeting, did just that In 
+this meedng as well. Howe\'cr, 
+the Dons did force overtime 
+and were outscored 93-90 
+after the extra session. 
+
+Jamie Holderman scored a 
+game high 27 points, after 
+scoring 12 the previous game. 
+
+Guards Kara Moore and 
+Shante Smith had 22 points 
+and 19 points respectively, a 
+career high for Smith. 
+
+Trish Fleming recorded 13 
+points and 11 boards as the 
+Dons lost yet another close 
+game In the final minute. 
+
+Saturday wasn't any easi- 
+er for the team as they squared 
+ofT against the toughest team 
+in the conference, the 
+Northern Kentucky Norse. 
+
+The Norse entered the 
+game 16-1 In conference play 
+--■ --- NCAAi- 
+
+
+
+favo 
+
+
+
+uihis 
+
+
+
+IPFW matched NKU 
+baskei-bybasket and only 
+trailed 40-37 after the half. 
+
+That left the coaching 
+staff and the players feeling 
+pretty good, seeing that IPFW 
+has baiUed back and put them* 
+selves in a situation to win all 
+throughout this j-ear. 
+
+However, this game would 
+be an exception to the norm. 
+IPFW came out flat and 
+rctnained that way. shooting a 
+miserable 15.4 percent from 
+the field and scoring only 12 
+second half points-thelr low- 
+est single-hair productivltj' the 
+whole season. 
+
+One thing that also 
+plagued the Dons were 
+turnovers, something Coach 
+Smesko has always prided his 
+team on. The team committed 
+24 turnovers, which Is the 
+
+Holderman was held to 
+only 12 points on 4-18 shoot- 
+ing and Fleming led the team 
+with 16 points on 5-14 
+shooting. 
+
+Foul trouble by Tecara 
+Dudley and Mandy Loveless 
+
+
+
+inside enth and only two spots a\'ail- IPFW has lost to twice, has a 
+able to male the tournament pair of tough games against 
+
+
+
+really hurt the tea 
+
+Hopefully, the team will puts a lot of pressure on IPFW. SlU-Edwardsv-lile''andSouih'cni 
+be able to leani from their Kentucky Wesleyan. a Indiana. 
+
+errors, as they did in the SlU- team that IPFW has beaten 
+
+Edwardsville game, and tnakc twice, has a pair of wlnnable 
+
+something happen. games at Lewis and Parkslde. 
+
+A three-way tie for sev- Indianapolis, a team that 
+
+
+
+It will be an exciting finish 
+10 what has alrcad)' been a fun 
+and etdting year for the 
+
+women's basketball program. 
+
+
+
+GLVC STANDINGS 
+
+
+
+
+
+
+Coafiireact 
+
+
+Ovimn 
+
+
+TEAM 
+
+
+W-L 
+
+
+PCT. 
+
+
+W-L 
+
+
+PCT. 
+
+
+Northern Kenrucky 
+
+
+17-1 
+
+
+.944 
+
+
+22-2 
+
+
+.917 
+
+
+SIU-Edwardsville 
+
+
+12-6 
+
+
+.667 
+
+
+17-7 
+
+
+.708 
+
+
+Bellarmjne 
+
+
+12-6 
+
+
+.667 
+
+
+17-7 
+
+
+.708 
+
+
+UM-St. Ixjuis 
+
+
+12-6 
+
+
+.667 
+
+
+15-9 
+
+
+.625 
+
+
+Lewis 
+
+
+12-6 
+
+
+.667 
+
+
+15-9 
+
+
+.625 
+
+
+Southern hidiana 
+
+
+10-8 
+
+
+.556 
+
+
+15-9 
+
+
+.625 
+
+
+Indianapolis 
+
+
+8-10 
+
+
+.444 
+
+
+14-10 
+
+
+.583 
+
+
+IPFW 
+
+
+8-10 
+
+
+.444 
+
+
+12-12 
+
+
+.500 
+
+
+Kentucky Wesleyan 
+
+
+8-10 
+
+
+.444 
+
+
+11-13 
+
+
+.458 
+
+
+Wise. - Parkside 
+
+
+4-14 
+
+
+.222 
+
+
+8-16 
+
+
+.333 
+
+
+St. Joseph's. 
+
+
+4-14 
+
+
+.222 
+
+
+6-18 
+
+
+.250 
+
+
+Quincy 
+
+
+1-17 
+
+
+.056 
+
+
+5-19 
+
+
+.208 
+
+
+
+I.EV rs aSIII«HTEK VOVII K»IILC 
+
+
+
+
+Are you getting the most 
+out of your workout? 
+
+IPFW "TiC Series" Walk This Weigh Workshops 
+
+
+
+
+Strength 
+
+Training 
+
+Basics 
+
+Free Workshop! 
+
+
+
+' Come learn how strength training 
+can help you achieve and maintain 
+a healthy weight. ^i^ 
+
+► Come get strength training principles. 
+
+• Come understand a simple strength training 
+workout plan. 
+
+When: Tuesday, February 29, 2000 
+
+Time: Noon - 1 pm 
+
+Where: iPFW Hilliard Gates Sports Center, Room 104 
+
+Guest 
+
+Speaker: JimThurber, BS 
+
+Exercise Specialisl, Parkview Health &amp; Fitness Center 
+
+
+
+Sponsored by IPFW Wellness, IPFW Department of Athletics, Recreation, and 
+Inlranwml Sporls, and IPFW Center for Women and Reluming Adults. 
+For more information call 4111-6647 or 4Ut-G029 
+
+
+
+
+
+net • . 
+
+ZL'-'Ajnicatior 
+
+[vferslty Purdue University Fort Wayne« 
+
+
+
+Your Student Newspaper 
+
+is seeking writers for the following 
+
+sections: news, features and sports. 
+
+PAID POSITIONS STILL AVAILABLE: 
+Sports Editor and Photo Editor 
+
+This is a fantastic opportunity 
+
+to enhance your writing skills, learn about your 
+
+campus, and obtain marl«table experience! 
+
+Stop by Walb 215 and fill out an 
+
+application. You can also email 
+
+us at stupaper@holmes.ipfw.edu, 
+
+or call 481-6584 and speak with 
+
+an editor. 
+
+
+
+February 24, 2000 
+
+
+
+sports 
+
+
+
+The Communicator Page 6 
+
+
+
+Men's basketball team on the bubble entering last week of season 
+
+
+
+ITic [i'FW mun'i ba^kclball 
+[cjm hail 3 irlo a( [samcs ihls 
+pjiiKcck, all or which art^vlul 
+as Ihoy compete Tor a spoi in 
+Ihc Grcal Lakes V.illcy 
+Conference poit-icaion lour- 
+namcnc The DonmurciUiIng 
+preity 3j 3 number seven seed 
+but had a tou^h, long week of 
+road gamci. 
+
+On Tuesiiay the (earn irav- 
+elcil 10 Kcniseltrar. Ind.. to fare 
+
+
+
+Sl Joseph's College, a icam 
+thai had been riding a se\'en- 
+game losing streak. 
+
+The Dons came out and 
+attacked St. Joseph's, playing 
+high-paced IPFW basketball. 
+
+For the fourth time this 
+season, the Dons scored over 
+the century mark, winning 
+105-83. the team's largest mar- 
+gin of victory since Dec. 28, 
+
+Senior Michael Akanni 
+recorded a career high 22 
+points and Nick Wise scored 2 1 
+a,s the team had eight players 
+with more than eighl points. 
+
+
+
+GLVC STANDINGS 
+
+
+
+
+Onnfprpfifp 
+
+
+QYCxali 
+
+
+TEAM 
+
+
+W-L PCT. 
+
+
+W-L PCT. 
+
+
+Kentucky Wesleyan 
+
+
+16-2 .889 
+
+
+22-2 .917 
+
+
+Northern Kentucky 
+
+
+15-3 .833 
+
+
+23-4 .852 
+
+
+Southern Indiana 
+
+
+15-3 .833 
+
+
+20-4 .833 
+
+
+Lewis 
+
+
+12-6 .667 
+
+
+18-6 .750 
+
+
+Indianapohs 
+
+
+12-6 .667 
+
+
+16-8 .667 
+
+
+Missouri-St. Louis 
+
+
+7-11 .389 
+
+
+12-12 .500 
+
+
+Beilarmine 
+
+
+7-11 .389 
+
+
+12-12 .500 
+
+
+IPFW 
+
+
+7-11 .389 
+
+
+10-14 .417 
+
+
+Quincy 
+
+
+6-12 .333 
+
+
+9-15 .375 
+
+
+SIU-Edwardsville 
+
+
+5-13 .278 
+
+
+9-15 .375 
+
+
+Wise. - Parkside 
+
+
+4-14 .222 
+
+
+8-16 .333 
+
+
+St. Joseph's 
+
+
+2-16 .111 
+
+
+6-18 .250 
+
+
+
+That victory really posi- 
+tioned the Dons nicel)- as 
+Indianapolis, Beilarmine. SlU- 
+Edwardsville and UM-Si, Louis 
+all lost that same night. 
+
+However. Coach Noll knew 
+that his team would need to 
+win one of its next two road 
+games if they were going to be 
+able 10 breathe comfortably. 
+
+Thursday, the team trav- 
+eled again-thls time 10 
+Nlcoson Hall to face the 
+Indianapolis Crreyhounds, a 
+team that beat them 91-79 at 
+the Gates Sports Center less 
+than one month ago. 
+
+Indianapolis, much like 
+IPFW, enjoys the fast-paced, 
+run and gun style. It would be 
+a battle of execution between 
+the it\o schools. IPFW came out 
+anil scored 47 points in the 
+Hrst half, but team defense 
+wasn't there and the 
+Greyhounds scorched the 
+Dons for 61 points in the first 
+hair alone. 
+
+IPFW entered the second 
+half down by 14. a deficit 
+which is tough to come back 
+from in this conference. 
+
+Again. IPFW shot the ball 
+well, but trading baskets with 
+the Grey hounds didn't help as 
+the team lost 98-85. 
+
+Indianapolis had quite 
+possibly one of its best games, 
+shooting an astounding 57 
+percent from the field and S3 
+percent from behind the arc. 
+
+ScniorSteve GriCTm scored 
+30 points in the contest, con- 
+necting on si.x 3-polnt baskets. 
+
+That night, Beilarmine 
+beat SlU-Edwardsiillc in over- 
+time to pull oven (vilh the Dons 
+[at 7-10 in the conference) to 
+
+
+
+in the conference lourna- 
+
+Saturday would mark the 
+last road game of the regular 
+season and the Dons wanted 
+to upset Northern Kentucky. 
+
+NKU. ranked tenth in the 
+nation (according to the 
+NABC/'Division II poll), had 
+only suffered a few losses all 
+year in conference play. 
+
+The Dons played well in 
+front of 1,822 screaming NKU 
+fans, leading 34-30 at the 
+half. The first half was low 
+scoring, which the Dons 
+
+IPFW had NKU on (he 
+ropes, leading 47-40 In the 
+secpnd half, but the Norse 
+were too much as the) rallied 
+back (o stay undefeated ai 
+home this year, winning 68- 
+63. 
+
+Akanni led the Dons in 
+scoring with 20 points and 
+CiifTin added 15. 
+
+Thanks to a Beilarmine 
+loss, the Dons are currently 
+tied for seventh place and 
+need to win both games, to 
+assure a spot In the GLVC con- 
+ference tournament. 
+
+The Dons host the 
+University of Missouri-St. 
+Louis tonight at 7:30 p.m. and 
+Quincy University Saturday, 
+Feb. 26, at 3 p.m. That will be 
+Senior Day for the team's six 
+seniors Akanni, Benji Gibbs. 
+Rand) Spicer, Aaron Ishman. 
+Grifrin and Dave Mcshberger. 
+
+The conference tourna- 
+ment will be played at 
+Roberts Hall in Evansville this 
+
+
+
+isi fm lEssKswf 
+
+
+
+fftis year's team has set school mark,s in 3- 
+point field goals made (216) and attempted 
+
+(581)! 
+
+
+
+Steve Griffin scored 1 5 point 
+
+
+
+Randy Spicer has already recorded 3:i steals ti 
+year, giving him 145 for his career which plac 
+him fourth all-time here at IPFWl 
+
+
+
+BenJi Gibbs currently holds the school record . 
+for 3-point field goal percentage. Gibbs is shoot- i 
+ing .516 from behind the arc (16-31)! 
+
+
+
+vc Grirfln is fourth all-ilmc in steals i 
+cer with 1 14. Griflln has only played two 
+IS with the Dons! 
+
+
+
+Advertising 
+Works 
+
+
+
+
+Call The 
+
+Communicator today 
+
+and ask about our 
+
+advertising rates at 
+
+481-6583! Why? 
+
+Because Advertising 
+
+Works! 
+
+
+
+
+</pre>        </div>
+      </div>
+    

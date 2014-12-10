@@ -1,0 +1,1441 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i8indi/communicatorv8i8indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i8indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i8indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATaft 
+
+
+
+
+
+
+&gt;^ 
+
+
+
+VOLUME VM, ISSUE 8 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY al FORT WAYNE 
+
+
+
+OCTOBER 14, 1976 
+
+
+
+ithis, 
+week 
+
+
+
+Schwartz considered as 
+
+Florida State U. president ^^TC blooms at IPFW 
+
+
+
+
+_ ■ piii sluHH Onobfl- 17 chokes, develp the tools to evaluate his that deals with learning how to locate, 
+
+tjl % UM • I 1 J ^ J ■ Interests, values and abilities, and acquire a identify, and secure a job Di- Robert 
+
+^**tf*rfcTirl rfclOf rit^nSiTf^ r**''flT#i&gt;l*tt Swme tm v«ctlnat,on .hots wm be rramework tor analyring career informa. Barkhaus, placement director, will present 
+
+kl/C'V^l-Fl.ltJ. JJJ-Jl tJ-C'-UCl IC/ V/C'lllC'X O adnrislerod on SIrnL'l,C 17 rom tion. The Individual's past and present Intorlnation concerning local and nalional 
+
+O „™ , """"""■&gt;• °'-°°"., '""^ experiences arc assessed along with his employment trends and salary Informalion. 
+
+1« . |» • A A • ran im Th willnolhoBv nat PFW personality type tor compatibility o( career Individual appointments will be scheduled 
+
+tf'b'KI 'trtrt^'^'W'Ckm'UW'WT md~^'W*£^'Hlf'W^ CKTTrSI'BVC^ i;r,»,li„r r«,„r ,h ""8 en a ir IV as placement. The objective Is not in making a to help participants with speci/lc concerns, 
+
+Oil lllOl dllly^ lOl di'll dllalxS •"'""''" '"'°""'' »"e;?h°.'lee",ie£™"*''°"'°'"°'"" o^cSIX'ScS^'^^^S 
+
+Byl,&lt;tRRV»lcPADDEN themselves dommated by the Soviet UnE?' morality of U,S, foreign policy was evidenc ^ '"™'' "^^ " °"'^' " '" '""'-' "" l^i^ ZZr ZO^'tm"'-, Z'Sl'p.r" 
+
+
+
+a like to see Mr. Ford convince 
+
+
+
+Ta 
+
+
+
+'^''' '^iljf''^ ^h 
+
+
+
+xes issue in 
+
+
+
+
+
+
+s Russia. Carter look turned. "TheUnitedStatesis 
+
+
+
+
+FW Task force on I.U. fee modifications held a meeling Tuesda; 
+
+
+
+oSSisS^dsS^ !i§EiS§§ir li^5F=f!! Task Force ready to move 
+
+.u„. ,^ ly did not know Both Ford and Carter voiced commitment to cinct committee' woman, is working on f /* • 
+
+the other of seeking normalization of relations with Conrad's gubernatorial campaign. She said .rf^ "B^ Sft'M I ^ ^tW^ t' -T^t^t t W^ ^tW*^~t^^ Cf ^~% tf 
+
+aS'ttir'-ex' ?rwr."ct™™iid"ih°."un'ted'iKrs' 'zXi"^!^7's%T^z^t:. on siuaeni jee increases 
+
+
+
+
+
+
+he had evern f^ ■« *■ "M-k •11 fee modifications The first meeting of the perienced as well the one to meet this need with moi 
+
+use Eastern ft^H^^-VT rZt^n n d^'W*t^ Task Force, held October 6. yielded only one There was concern about the availability financial support of the university. "Tl 
+
+.Tthe-vros?' -DUlllly lAldl licit; J"t™lnce™te'seLtme.'lng'S« wo!;Tbf™''lnc?e°a« l"f'el'''S;en S cTmttTV'Smnrrs. Lsk is' 
+
+JtSles^coSr |&gt; &gt;-W ^ -■ M 1 . ^IST'e'aVer"wiih° atouT'l "Jli^'ons would ako" ™7n"in'c"rea'iT in 'studcm encourage the State l.egislature to tav, 
+
+tor Oct. 15 date ""'•"'■ .,^.,.r.,...^,..,,^... ^^.,.....,,.^_,....„., 
+
+WIMEE offer ^Buddymch.^oneot the greatest drum- includmg the Bunny Berigan 
+
+t*'C't_-l'I'f f/C-l* being sponsored by Die 
+
+
+
+erving a tour in the Marine Corps, 
+
+
+
+and should provide 
+■nunication Department The music of Buddy 
+
+
+
+1 first band. The b 
+
+
+
+I the Task Force. 
+
+
+
+Tuesday, he said there v 
+
+
+
+vith Keith, Pantages. and the 
+
+
+
+president. John Ryar 
+
+
+
+Student opinion on jacket bill asked 
+
+
+
+THE COMMUNICATOR 10/14/76 
+
+
+
+MJ 
+
+
+
+Jacket bill disgusting, unwarranted 
+
+
+
+r one week so that the legislat 
+
+
+
+■. Senator Tim Ducey, is to make 
+
+
+
+i Govern- "makeni 
+
+
+
+I is to The Stu 
+idenfs is gen&lt; 
+
+
+
+lopeluUy approached 
+
+
+
+In the past the Student's Gov- 
+
+
+
+
+
+
+J jackets for the Student's 
+
+
+
+will also probably pass b 
+
+
+
+} Ducey, the Jackets w 
+D each activity card )i 
+
+
+
+■ issue is not the jackets, i 
+
+
+
+CAMPUS MINISTRY FORUM- 
+TIM: 
+
+"no one survies unscratched" 
+
+
+
+people perceive it. the work-a-day w 
+jungle. It Is roush out there- s 
+
+
+
+
+
+
+LARRY: 
+
+'iny freedom depends mainly on me" 
+
+Maybe I 
+
+
+
+So-called remedies only placebos 
+
+
+
+Myers, (Bristol-Myers, nies are intensifying tJ 
+
+
+
+e ingredients with prove that their products actually FDA" i 
+ence against its work, 14 years after the 1962 FDA 
+
+
+
+it the Food and Drug practically every cold i 
+
+
+
+
+
+
+evidence to support 
+
+
+
+Food, Drug, and NAS declared Contac and other 3), that these "remedies" have. Donald LaBreque, "I'll tell you prescription drugs. ' 
+
+reQuirinK that cold capsules "ineffective as a for the most part, only a "Place- why the companies haven't pro- is implied, thou^ m 
+
+fixed combination" in 1966. In be effect." duced the research. They know suggested other th 
+
+1969 an FDA medical officer Cold symptoms, insomnia, ir- damn well they can't show the boycott, by the staff c 
+
+urged the FDA to ban Contac regularity, 
+
+
+
+tims of consumer fraud. The 
+
+
+
+
+
+Vick, we found that no matter 
+
+
+This jonrhal has provided a 
+
+
+
+
+
+
+
+
+
+
+sliow tliat Vicks Vapo^Steam was 
+
+
+
+
+
+
+
+
+
+
+
+
+than plain steam itself." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wipe out Ihe market." 
+
+
+fie research. 1) The drug 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+porducts already on the market. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sive proff" that the product is 
+
+
+
+
+
+
+
+
+
+
+permits miUions to be spent for 
+
+
+proved ineffecUve or harmful, 
+
+
+
+
+
+aid about waste and 
+
+
+
+
+cm 
+
+
+
+THE COMMUNICATOR 10/14/76 
+
+
+
+lTisid&amp;Ne_ws 
+
+
+
+Yoga union of body, mind, spirit 
+
+
+
+[yoga "Yoga changed my life and my she will 
+hat it energy level," commented Mrs. strictly on b 
+
+
+
+n the future? This U 
+
+
+
+intr '" Pro-Life sets third forum 
+
+uTsSJ^ai^^Si Dn Alvin Schmidt\s 'Law-Divine &amp; CiviV featured 
+
+
+
+Activity card offers big advantages 
+
+By CATHY BALLAU 
+
+year, the one that is supposed to Uke only five minutes to get, but usuaUyjiakes more tike 
+forty-five? You know, the card that has the picture of you with your mouth open, or your 
+eyes looking to the side. The card that you keep hidden betwixt pictures of past 
+
+You know, the activity card. Ring a bell, j 
+free activities and cost break adva 
+
+
+
+Those interested in sports may presented by Diocesan 
+" ; can Diocese of Fort 
+nation Bend, on Tuesday, 
+
+
+
+, Concordia Theolo- 
+
+, Springfield, m.; Society,! 
+
+■ ; Sociological So- 
+ciety, Society for the £ 
+
+
+
+Works, film, party scheduled 
+at Art Museum October 15 
+
+
+
+Advanced education for minorities 
+supported by Danforth Foundation 
+
+
+
+study of Social Problems. A 
+
+
+
+
+
+
+
+SERVING LUNCH FROM 
+
+6 DAYS EVERY WEEK 
+
+
+
+ALASKAN KING CRAB LEGS '6.95( 
+
+
+
+GIANT COCKTAIL HOUR ^^^ 
+
+4:30 to 6:30 P.M. 13 ^y" a^S wi 
+
+Double Drinks-Single Price | J^ei?''e*X J", 
+
+5629 Sf. Joe Road '■;,'.::;::;"■ 485-1 685 1 !I£';F£!S! 
+
+
+
+Our New Line 
+
+- 1(ll©Q)itA|A, 
+
+
+
+DIRECT FROM ARIZONA 
+
+
+
+GENUINE INDIAN 
+TURQUOISE JEWELRY 
+
+iM haled: HA^D■^^AUE! 
+□BRACELETSQEARINGSn'TIGER EYE'Q 
+
+□silver CHOKERSn 
+
+□inlaid TURQUOUS CROSSESQ 
+
+LOWESfjgPRICES IN TOWN!!! 
+
+■^ LAKE AND ANTHONY^ 
+
+Come in and bargain with us! 
+
+
+
+Copy Center 
+offers students 
+varied services 
+
+
+
+andwiUcopy flyers for clubs, etc. 
+Copies are ready in twenty-four 
+
+want copied and the quantity you 
+
+
+
+FRIDAY 10-15 
+
+Fish and Chips I. OS 
+
+Chinese Pepper Steak 1.00 
+
+Turkey Pot Pie .90 
+
+
+
+MONDAY 10-18 
+
+Turkey and Dressing 1 .i 
+
+Spaghetti .89 
+
+Pork Fried Rice .90 
+
+
+
+Tuesday 10-19 
+BeefSlroganoff 1.:I0 
+Polish Sausage 1.10 
+Sahsbury Steak .75 
+
+
+
+WEDNESDAY 10-20 
+
+Roast Beef Au Jus 1.2; 
+
+Baked Fish .90 
+
+Tuna Noodle Casserole . 
+
+
+
+BOLDED ENTRIES SPECIAL 
+OF THE DAY 
+
+INCLUDES CHOICE OF TWO 
+VEGETABLES, ROLL AND BUTTER. 
+
+
+
+THE FORT 
+
+/' TorATED UN THE STUDE 
+
+
+
+LOCATED EN THE STUDENT UNION 
+
+MONDAY-THURSDAY 
+7:30 AJM. to 5:30 P.M. 
+
+FRIDAY 
+7:30 AJH. lo 3:00 P.M. 
+
+
+
+lera I'oocl st-r 
+
+
+
+Our years of experience, 
+
+dedication fo photography, 
+
+and a qualified professional staff allow us 
+
+to MAKE TIME STAND STILL.' 
+
+
+
+
+
+
+THE COMMUNICATOR 10/1 4/76 PAGE . 
+
+
+
+PROFESSIONAL NEWS 
+
+
+
+ffhi 
+
+Calendar 
+
+
+
+'oteMslndNotember'ltwm Shipchondler 
+
+
+
+will allend (oulr field U-ips and GtSek CoUDCil 
+"tIi "symposium will beheld in ' S*'"'*^ SeOSOn 
+
+!i?!,""'"i'.°'..?'",°J,"'L"r°.r at Summit Club 
+
+
+
+Arts Department, sytems." Proles 
+
+gilt to the city ol „,e purduc. will lead the Nov- 
+
+ortli oTt* °F "'■' *"'' l''^'"''''''""'™ ''"■ ™l''- 
+
+uilding on Spy Run a "talk-back" device will be 
+
+
+
+Zoher E Shipchandler, 
+
+
+
+. specialists on the Ordovc 
+
+Chemical Ed system, iron, nve continents 
+
+tprojecioi publishes ^ ,. , , 
+
+ternaUonol &gt;- English QOd 
+
+rchTiso'i Pacer article Linguistics 
+
+Pa?e "ai'oclate'''profes'or'' ol Profs WOnted 
+
+
+
+Organization of the Greek 1. 
+tally maintaining its own ide 
+
+
+
+! Greek CouncU i 
+
+
+
+Free handicap | SOCIAL NOTES I ^^£.1 EHS^I^ ^^~ i!=i^=^,S^^'llw.„. 
+
+nrnnrnms sated „..„.. .„ . , _.,. k™ „i„„,^ ■_ .u„ «. ,_:„ 'erred, bu expenence is also a be held on Friday, October 29, •='«! 
+
+
+
+programs slated ^aren 
+
+
+
+Provisions i^ooom. e 
+
+
+
+y handicapped in eligible i 
+
+
+
+, Department of Eng- 
+
+
+
+1 II II II iiiiiiiiiii mpi^^^i^M 
+
+
+
+
+
+GREEK COLUMN 
+
+Delta Gamma 
+
+The sistere of Delta t 
+
+! new mem- The role of a pleiige could be 
+
+the Fall pledge class are: likened to that of an apprentice. 
+
+Berghoff. Barb Celerek, A DG pledj " " " 
+
+Cathy Dare, Sue Eifert, Denise Fralemily; i 
+
+
+
+
+JteplT^senlalivo of the Xi Episilon Allen County." Tlie event by 1 
+
+Beta Soronty. a chapter ol Beta XEB was so successful Ihev plan . I 
+Sigma Phi, who held a benefit to make It an aniiil mnt. I 
+
+over the summer, with the pro- the public. AU lUuSd Sl^na I 
+
+ceeds gomg to UCPAC. . are invited to attend. 1 
+
+
+
+(W 
+
+
+
+THE COMMUNICATOR 10/14/76 
+
+
+
+Tom Briccetti divides time 
+
+Heads Fort Wayne Philharmonic, Ohmaha Symphon 
+
+
+
+EtitertalTnuent 
+
+
+
+3 
+
+
+
+FILM SERIES KKVTEW 
+
+
+
+Boh, Carol, Ted, Alice next flick 
+
+
+
+
+IS 
+
+p of the St, Petersburg "B"^ • . "■"* 1 • "■ A wastlitwitha wave of these kind funny and original and the qual. md Gould. The screenplay, 
+
+hony Orchestra, mus, at ■^■■-»»C!-^ l-'-*»^iCl l^-mT-^ ^5i-»»1 »^ "B^ l-^^XVa -a^ CM of movfes and one. ■■Tunnelvl- Ity of the mo«ie depends oo the however, drags. The scenes ar^t 
+
+z^1Lz^.:z -T irsi X resDyterian .oeffins r.:,^^f.^si,7xz^ "s^„°e',So;'rr^e„,iypiay. xietntd'sxtoi-!!: 
+
+icting career a . -■ /^^ ••' ^^ ^^^ Chase, of "NBC's Satur- ing at the Holiday 1 theatre and Even so. most of the movie i^,' 
+
+T^-^g series with Singing Hoosiers llgll? =^^""?~ "^.ea.ng,nd.- 
+
+
+
+
+
+
+if the Indianasity School Presently he h 
+
+
+
+
+
+
+oth Fort Wayne By DEBBIE CANTWELL 1949, and since then hai 
+
+Director and The Singing Hoosiers of Indi- sung for more than IS.OOO.OOO of Music-the largest musical Curator 
+
+)rmances with such celebri- On February 15. the Concordia also artist-in-residence 
+
+IS Bob Hope. Alan Sherman, Choir from Moorehead, Mlnne- Cleveland Museum of Ai 
+
+Umatia and Fort Wayne orches- unurch on Octolwr 17. Pete Fountain, Duke Elington, sota will sing. The choir is also artist-in-residence 
+
+tras, Briccetti does not divide his This will mark the twentieth Red Buttons, and Hoagy Canni- entering its 40th year under the Oeveland Institute of Mi 
+
+talent. Ust Friday night's 1976- consecutive season for the Music chael. The Hoosiers. under the direction of Dr, Paul Christian- in addition to his Unite 
+
+77 Philharmonic season opener Series. The Singing Hoosier auspices of the USO. have enter- sen. recital engagements, Baukert come, 
+
+proved that. An enthusiastic Fort concert has been designated as tained servicemen in Germany, Karel Paukert. Czech-bom or- tours regulariy in Europe. gigug 
+
+formance of a super orchestra, Muriel Gould Jurgensen Memor- land, and the Caribbeari among March 
+
+
+
+Carol and Ted i 
+
+
+
+talented, the The Singing 1 
+
+
+
+S«i.Stj£.^{^^^^^ wi^L'™ S°X°lS'.?r mS'ttni'i;' ctmlttr 1 
+
+Library skills 
+iffoS course offered ^rS 
+
+
+
+urgan Playing Ington that is « 
+
+ich is sponsored efect of the i 
+
+Series. The 
+
+Series. The 
+
+
+
+w 
+
+
+m 
+
+
+
+
+MARSHA 
+
+
+♦ POOL 
+
+
+MELLOW 
+
+
+SANDWICHES 
+
+
+exotic shows nightly 
+
+
+Y OUR CARRY— OUT 
+
+
+Mon. thru Sat. 
+
+
+♦P'^^* Mon. 
+
+
+Special celebration j 
+hruThurs.5pm-6pm 
+
+
+Club 
+
+
+Openll;00am 
+to3:00am 
+
+
+
+
+
+
+
+Instead of working and going out. 
+
+the March 26, is open to the public as the other established networks by 
+
+■place honors. The committee is then shown 
+
+
+
+"iHSst I'il'dera i"£Sillci''"EpfSvf- New symphonic wind 
+iru^tvil'ite'ls7r'ead; cnsemble givcs concert 
+
+
+
+{MimwMiA MiMi 
+
+
+1 NOW SHOWINO |Jj|j|j|^j|jli|i|||(|j||j| 
+
+
+»E"'^kr^Si^ 
+
+
+
+
+.0.SK0«,K0 ff'I^Zri^ 
+
+
+^^^JMtF^ OBSFSS/O/V 
+
+
+.HWEEK ^ 
+
+
+ft^^HR 
+
+
+Wf^iSm 
+
+
+"ith°w°"e" ■^il|.'L'lVWjHIi|.'''l 
+
+
+
+L^'^. 
+
+
+
+
+''.^.f : 
+
+
+
+
+Freshman English J.S. Bad 
+
+
+
+e Tuesday sessions, explained 
+
+
+jM^^atlonandreadthefa 
+
+
+
+
+li'/M:Mi 1 
+li'iy;';\l!li 
+
+
+1 
+
+
+A thriller 
+
+
+aJOHNSCHLESINCERfilm 
+
+DUSTIN HOFFMAN 
+
+LAURENCE OLIVIER ROY SCHEIDER 
+
+
+WIIUAM DEVANE 
+
+MARTHE KELLER 
+
+^MARATHON MAN" 
+
+
+IJIISJII "^JiifMH 
+
+
+
+
+
+
+tilenbrook Center 
+
+484-1147 
+
+
+
+
+I ALL 
+
+
+
+CINEMAS EVERY DAY $1.50'TIL 2:30 
+
+
+
+
+STUDENTS: 
+
+Connmunicato 
+
+Classifieds 
+
+Only 
+
+50' 
+
+
+
+LUNCHEON 
+SPECIALS 
+11 to 3 
+
+
+
+
+HAPPY 
+HOUR 
+
+4:30 to 10:00 
+
+
+
+Columbia at HanUim — On The Landing 
+
+
+
+cSports: 
+
+
+
+THE COMMUNICATOR 10/14/76 
+
+
+
+IPFW hockey team toughens up 
+
+
+
+:^ SPORTS COUJMN 
+
+Apathy reigns at IPFW 
+
+
+
+Appleseed Program. Them 
+
+
+
+apathy Apalhy even plagues the intra- 
+115 al mural program, inly 7 people 
+only in played in the Golf Tournament 
+
+Flag Football program have been 
+; apathy forfeits, 
+
+lis team The solution to the problem is 
+
+
+
+"ApatheUc State" labels the 
+
+
+
+the hockey hotbed of Daylon 
+all competing for one of the 5 si 
+on defense. Len hopes to Imprt 
+
+
+
+INTRAMURAL RECAP 
+
+« ha»s been announced ALL CAMPUS RUN 
+
+in rhrinlr.mur.l nM and doub- Sign Up ends lomorrow, Fr 
+les tennis coinpeUllon. Ot' '* "" "•' *" Campi" 
+
+Bcngamln »ere Uie wlnnere_ FLAG FOOTBALL 
+
+
+
+SPORTS 
+CALENDAR 
+
+
+
+isCounlry VS. Goshen I 
+
+
+
+jbles tennis play was 
+, play Chris Bycr and 
+
+
+
+VOLLEYBALL 
+
+
+
+lorrolf. lead- home games a 
+
+
+
+^u"Sid'S„trn\rF'-.t ri^prr^r-imTr!^.^ Women's tennis team 
+
+and smoolh skaling Mike Fish, days and a 5:15 lime on Salur- 1 A ^1 • C!^ ^ 
+
+Theso^piayers; spots on tbc da&gt;. ratcd 4th 111 StatC 
+
+
+
+Volleyball team takes 2 
+
+
+
+Huntington lakes 
+ntry team 
+
+
+
+Earlham and Goshen trailed with 
+
+
+
+
+
+
+I begins f;,',';^'","^.'] 
+
+
+
+' second game before 
+
+
+
+IPFWs tennis team's 
+
+
+
+l,Torp?a'ellce"7,™he SCe^Thls UnTe'lhe ma.ch" « Wmn'mB StrCok StODDed 
+
+omen's Basketball sea- plnyed besi 3 out of 5 games, " ^^ 
+
+
+
+
+tk 1^ 
+
+
+
+i Tennis Champs, Steve Otten- 
+
+
+
+3 cap- Grace College h 
+
+
+
+G. I. JOE'S ARMY SURPLUS 
+
+
+
+50% off 
+
+Montigo 
+
+
+
+
+LEE MONTIGO LEESURE SUIT 
+
+"^9*^5 "Now *22." 
+BRATEMAN BROS. 
+
+221 W. Main St. 743-53 
+
+
+
+laptUTcd all six singles matches defeat Tuesday on the Grace 
+
+
+
+m 
+
+
+
+FORT WAYNE, INDIANA 
+
+
+
+Pizza inn, 
+
+
+
+
+Pizza Inns Old Fashion Thick Crust 
+Pizza .or our Original Thin Crust. 
+Your Choice . . Both from the makers 
+of America's Favorite Pizza 
+
+
+
+Pizza ijnii 
+
+
+
+You can't lose 
+with us on your team. 
+
+
+
+
+Adtd The Communicator's 
+prefer, we'll go to bat for your ci 
+with our staff of All-Stars in 1 
+Thompson call one of your ad c 
+
+
+
+npany all by ourselves. Either way, you can't lose 
+e game. (When major leaguers like J. Walter 
+npaigns "Clever. ..Engaging. Definitely the most 
+'inner. ..even without looking at all the 
+
+
+
+)l ads submitted," you know you're a wini 
+
+spiling up in your publisher's off ice.) 
+
+I matter what market you're after, we can probably reach it. With a 
+ade up of top executives, career women, young couples, professionals, 
+community leaders and full-time students, we can offer the best test market in the 
+Greater Fort Wayne area (America's number one test market) at rates that knock 
+the competition rightoutof the ballpark. So why don't you give us a call today. ..and 
+score one for your side. 
+
+
+
+THE CO/WiWUNICATOR 
+
+INDIANA'S NUMBER ONE COLLEGE WEEKLY 
+
+Campus news...Sfucfent opinion. .IPFW sports.. .Features. The ( 
+
+
+
+</pre>        </div>
+      </div>
+    

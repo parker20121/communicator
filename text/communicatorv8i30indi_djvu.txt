@@ -1,0 +1,1768 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i30indi/communicatorv8i30indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i30indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i30indi">The Communicator</a>"
+          </h1>
+          <pre>© THE COMMUNICATOR 
+
+
+
+ig)?a 
+
+
+
+
+
+(VOLUME VII, ISSUE 30 
+
+
+
+INDIANA UNIVERSITY-PURnUE UNIVERSITY at FORT WAYNE 
+
+
+
+i^nrt 
+
+
+
+Social disease New chief ° f ^ &amp; SecurUy to be appoin,ed 
+
+treatment Student patrol to be part of Fall seciirity force 
+
+discovered 
+
+
+
+Thatcher to develop 
+
+
+
+discovered by Dr. 
+
+
+
+according to Vice Chancellor for financial the "announced retirement of Chief Earl always wai 
+i\ screening of all applicants for Effective with the beginning of the 1977-78 Thatcher." 
+
+
+
+■' safety and security the field h.is m.-I).k&gt;1 v 
+iiaiia-i-uruue ai ron wayne, ana iwo oi Deen reduced to s: 
+students. Connie Gerardot and Richard Thatcher. The 
+
+n recently completed research, funded b; 
+
+
+
+witn the beginning of 
+, the Indiana-Purdue F 
+
+
+
+. ll.irpM I .,lle;V U l' : ,|:.| (11 ,. ! 
+
+
+
+. SI Ul -ti..||l r.iTn-.-i '.'. 
+
+
+
+i parking violations, they v 
+
+
+
+ities and radio dispatching. C 
+
+
+
+FS Corcordia facilities eyed by IPFW 
+
+
+
+m ;.,i ,i 
+
+
+
+possible and nol delay aplying until tt 
+
+
+
+proposal recommends moving all 
+
+SSE5S Montana State considers 
+Schwartz for president 
+
+
+
+
+Latino club 
+looks to future 
+
+
+
+^y^i 
+
+
+
+Profiles: Art profs recieve tenure 
+
+
+
+Michael Clark Downs, Maxine Mary 
+
+
+
+ligh school recruiting 
+
+
+
+f lawn to enjoy Fort 
+
+
+
+i suggested by Trevino a 
+
+
+
+A rite of Spring 
+
+Mirk Sheldon's p 
+Wayne's sunny sj 
+
+1300 students to be honored for GPA's ?- 
+
+
+
+•adley, Assistant Profes- "Hommage to Spring." was created and remaining b&lt; 
+
+constructed by George McCullough's design Wayne Fire Department. 
+
+Pre-Columbian art has McCullough has recently completed a Motz considers his stud 
+
+i Bradley's paintings of bookof poetry and stencil prints and is now "I'm just helping frien. 
+
+
+
+i. Their Noel Philip Dusendschon, ! 
+
+
+
+n Sunday, May 1 at 2:30 p.m. in the Student 
+
+
+
+ngual education and 
+ten looking for employment." The 
+
+
+
+t average associate pnik-.M.r til hisu.rv. .'.ill ihc., ■:■■.&lt;■ \&lt; ■ onlim.' ■■ 
+
+ade point ,T 
+
+rs.To be 
+
+
+
+i and '" Clyde Burt ' S classes ' students deler I.H.lx-ikIs.-Iv.i, .v.Th-.i, 
+
+rrnnciniK.-h i iln-ir ;■:.;, m i i&lt; ijIl.it i ..nrl pl.jn .ir&gt;d : hi. v.- umil.ii ilii; ■ 
+
+'Its of their own P™^ 13, According to Burt, "they On of 
+
+
+
+■address entitled "Simple Truths From a a program of this kind are that studem . .,n , . , . "*■"" "«*=»■ 
+
+^nsssrwsm ■£ msj&amp;tsss was js ssr "* h,s c ° mtry ir 
+
+rformed by Paula Ewing on the violin. with students and parents in a pci-.jMi n,. ... ., - ,.,■' k-i.w -i.'iroi timIM in hi&gt; 
+
+u «» WW wui ram i ur ur u» uiue Dr. Maxine M. Huffman, assistant profes- way." 
+
+Student senate confirms new appointments 
+
+
+
+Chairman of the Department of Fine A 
+
+
+
+Student Senate meeting i 
+
+i ii i ii Approved a 
+
+■ ndi md\ l-l 
+
+
+
+Student Union Building. 
+
+
+
+1 by Senator Tim Raymer. Ray- 
+
+
+
+narked Trevino. the Student Affairs Commit! 
+1 SUBOG in this Senator Tom Eishen, of t 
+
+
+
+Focus: Fort Wayne's past workshop and course, he introduced photo- {Q f™l[ e [ b 
+
+'The last century: A Photo Album' depicts growth of city SSsSiS^^T' ?£3 
+
+
+
+Tuesday, May 3rd, will be the final According to Cantor, the final 
+
+program in the kiLdlhi&gt;i.ir&gt;^enet, FnCUS: be a summary and overview c 
+FORT WAYNES PAST. Dr Louis Cantor, serie.v \j : . pr^en^iH.n ,,,i 
+I trp.irin-M-.it jnd Director of the FOCUS ! 
+
+I I m i , i , 
+
+
+
+, Chief Little Turtle, 
+
+
+
+Last Century." The reception will be hosted 
+University- Purdue University at Fort Way- 
+■ immittee for the Humanities, the funding 
+
+
+
+ne and the Allen ■■ -,,,: K.r. .'... ... "' / 
+
+II Hi i "' ' '■' ' 
+
+
+
+PAGE 2 THE COMMUNICATOR 4/28/77 
+
+Multiple problems cause 
+festival flop 
+
+
+
+Carter challenges America with energy plan 
+
+
+
+, He is crying and Congress h 
+
+
+
+Disorganizabon.poorpiJDlicity and bad weather were week and told the / 
+the major factors causing the least-attended Harbarar- people whal they shoi 
+bxDavsfesQvalsinceitbeganyearsagaForinstance, ^"rS','"!' ,!" i 1 '!!,,',' 
+
+
+
+to be used bv the band while the concert was in progress. going to be checked w.m. v&gt;onim t &lt; io.o,onr „) 
+
+The concert contract had stipulated that the Student crisis after another. is an hones. poUU. 
+
+Union Board of Governors (SUBOG) provide a piano, The facl of the shor,a B e would e now we 
+
+"in tune," for the band, "Nils Lofgren." Necessary CAMPUS MINISTRY FORUM 
+
+
+
+onserve and if we The truth is 
+
+I us. Many Con- tive proposal a 
+
+
+
+%£ Tim Peterson: A personal postscript 
+
+azingthe .1. M. M. 
+
+
+
+the Franke Park Foelinger Center in Lieu of bad Most students 
+
+Poor publicity was not entirely the fault of SUBOG. ^ " ^ e |££' 
+
+Theadministrationdisallowed any off-campus publicity JJ^ se q^Mons J 
+
+for the concert. The request was made to retain are days when 
+
+"IPFWs fine name in the community. The request free, others wh&lt; 
+
+came following complaints from irate parents after and ^ li " others 
+
+previous Harbararbor Days concerts, when their ™The questions 
+
+children came home intoxicated, according to Chancel- personal. The 
+
+lor Donald Schwartz. second one is m 
+
+Add bad weather to these problems and the result is in writing prop 
+
+
+
+..:&lt; ..H-iriliLTlipjUK t. 
+
+
+
+lan being and spiritual 
+
+
+
+Recently elected SUBOG members should 
+the difficulties in running t 
+year the same follies will not 
+arrangements for the community should be made, 
+all, this is a community campus. 
+
+
+
+^'^pSS! AH opinions should be considered 
+for Tenure criteria 
+
+
+
+&amp; 
+
+
+
+The Children Are Waiting 
+
+for 
+
+BIG BROTHERS &amp; BIG SISTERS 
+
+
+
+It only lakes a lew hours each week 
+
+to be that "special friend" 
+to a youth tram a one parent home 
+
+big brothers /big sisters 
+
+of greater fort wayne • ', 
+
+
+
+they are trying ti 
+
+
+
+Communicator 
+,IS ignores K 
+
+£S intramuraK 
+
+■riiird- o.\'er;ie^ oi (his ..■tviH is jusliiVd \\V fi 
+
+i.-nl ur •iinrt mure siutienLs participate port on 
+
+in intramurals than in any other as intr; 
+
+
+
+the intramural program]! 
+r, except for a token topi 
+
+
+
+subjects such as the Fort;; 
+
+
+
+a there c°uid Nonsmokers request lounge 
+
+
+
+ewlFotlffof 
+
+/ne newspapers?;! 
+
+are ajrniversitjj! '/, 
+
+
+
+"COMMUNICATOR 
+
+
+
+■ kl.l, 
+
+
+
+Before you fly out the door 
+for the summer 
+
+
+
+
+SAGA 
+
+would like to say, 
+
+'Thanks for the 
+memories!" 
+
+the fort 
+
+
+
+Ethiopia: Why borrow alien ideology? 
+
+
+
+suffering under the r 
+
+
+
+X," 
+
+
+
+mobilized for cooperativ 
+
+
+
+chapter in the history of the 
+
+
+
+reorganizing a rotten system 
+
+is currently undertaking, it 
+should help to pioneer an entirely 
+different way from the conven- 
+
+which has contributed to the 
+political downfall of the country. 
+
+
+
+d the February revolu- 
+
+
+
+tradition of the Ethiopian people politically t 
+and a philosophy relevant to system ol ci 
+
+Thr pt-t.pl.' ,)i tilhii.iikt shoulri !!•„■ Calmly i&lt; 
+
+
+
+lically but also socially, through 
+
+
+
+: King H.-nk- Selas-ie 
+
+
+
+r hardship the indivi- 
+jnunity for help. The 
+
+
+
+t.'omn-tim.iijMii tuk-tl ,. Mirul sutnii .■ 
+
+
+
+Nurses provide community health care 
+
+
+
+Nurse Service. They are: Carol people 
+WaHand Judy HornetL Judy^lso ^crisis 
+systems agency). effects 
+
+
+
+Patients can leave the hospi 
+
+
+
+tnggoes faster. This is true only with assists interested groups. In plan- 
+
+1 j trvice funding. 
+
+Carol Judy has found a lack of 
+
+■ances There is also under-utilizalion of 
+
+ing Nurse Service and the two 
+
+.- oi tht, United Way private home healthcare groups. 
+
+■ i parti il funding of this This problem is due to lack of 
+
+
+
+i Hi li..-(.il ..Iinii il ., p;itirill 
+
+and his or litx L.mily d.n'Mi'1 
+
+
+
+THE COMMUNICATOR 4/28/77 PAGE 3 
+
+
+
+International fest features food, fun, dance , Ti , ~, 
+
+t-ass=js. .... =-»-— i?~. -..«■ - ~. . .e^,^.,^. i^^^.. -.„ rhr , Pfl^wr^r b imtf 
+
+ESl'F? I SERVING LUNCH ™0M 11-3 -I 
+SisI'lS: « 6 Days Every Week 5 
+
+pc* Unil ed N a SPECIAL GOURMET SEAFOOD BUFFET 
+
+•i , Wed.-Sal. 5:30-10:30 P.M. K 
+
+
+
+. April ang&gt; 
+" by co-ordinator George Fi 
+exhibit was high-lighted Borkowski, in 
+
+
+
+group. Ngwyen Due Quang. evening, had nearl 
+including the evening was attendance up and 
+dancing under the direc- George Wehby, 
+
+
+
+Chancellor Francis 
+
+
+
+Greg Doublas. Four 
+aancers in traditional Gret 
+
+Greek Orthodox Church 
+
+
+
+i. There were School. Their \ 
+
+
+
+! " i 1 " VCrsily hu;ll .,| i( .m]r. 
+
+
+
+[ALASKAN KING CRAB LEGS^.OS 
+
+
+
+- x^™ I GIA NT COCKTAIL HOUR 
+
+2 DGTS students honored at awards banquet " Pf,ce 4:30 " 6:3a PJ1 
+
+
+
+By JULIE VOLTZ 
+
+
+
+The awar 
+
+
+
+5629 St. Joe Road "JSEBr 485-1685 ' 
+
+
+
+Indian laterns. The La Bamba. and Jesusita en Hi tud IPI 
+
+- L featured inlaid huahua (Hat Dance), were per- the Student Assembl 
+
+•roup of area junior Awards Banquet held last Tues- The Accounting 
+
+
+
+niled eggs, finely 
+
+
+
+r the Spanish-speaking 
+
+
+
+r Student Assembly Presi- Memorial ft 
+Steve Ensley. Dr. Carl Office Tech _ 
+Bickley, Dean of The Division of Certificates of Proficiet 
+
+
+
+prepared by Saga, 
+
+
+
+Greek salads, and , 
+
+
+
+Toy and ! Olga Skembos. 
+Ensley. Dr. Carl Office Technology awards were 
+an of The Division of Certificates of ~ 
+Technical Studies, There were 16 first- 
+
+r typing. There 
+3 received first . 
+for both shorthand Departmental 
+
+
+
+year The Deans List followed the club. Sorority 
+rards. Of the 109 Skembos. Chery 
+Deans List, 12 cy Alfetd, and b 
+
+
+
+JJS .Health program includes film, panel talk SsJtt^S'a 1 ^ 
+
+
+
+fortbebride of today... 
+fasfffonrntffe 
+traditions of 
+yeoterdaW 
+
+
+
+
+by Ingmar Bergman and a the Ii 
+"sponsored by panel discussion I 
+
+
+
+Bonita federally n 
+
+
+
+
+
+
+The program will consist of the to the people of northern Indiana death and dying. 
+
+1295 to graduate May 9 
+
+
+
+^^©^ 
+
+
+
+
+SCHWINN 
+
+m 
+
+
+
+^ 
+
+
+
+Especially for summer 
+
+the Tarrah Fawcett' I 
+style dress 
+
+
+
+For formal wear! 
+
+
+
+tops sundresses bathing suits 
+
+
+
+■ &amp; sportswear by 
+
+Wendy's of California 
+
+"ffrl/ecfion and Scents " 
+
+The Marketplace of Canterbury 
+
+
+
+Policy Analysis Systems has two positions 
+,for qualified men or women for statistical 
+work on life insurance policies. Applicants 
+must be good at math and detail. 
+
+b. Openings are part-time but may 
+.xievelope into permanent positions. 
+
+For personal interview, call 482-2467 . 
+
+
+
+POLICY ANALYSIS SERVICES, INC. 
+
+'.0. Box 5133 Fort Wayne, Indiana 46805 482-2467 
+
+
+
+
+TUITION AND 
+
+ROUND TRIP 
+
+AIR TRANSPORTATION 
+
+MID WEST S365.00 
+
+WEST COAST S456.00 
+
+CALL TOLL FREE: 
+
+800-223-1722 
+
+
+
+BOOK OF LISTS 
+"ESP FOLLETT'S 4 f i 
+
+
+
+33- 
+OO 
+
+
+
+PAGE 4 THE COMMUNICATOR 4/28/77 
+
+
+
+
+A REVIEW 
+
+Harbarabar days disappointing 
+
+
+
+the Regardless, the entertainers, 
+nger especially Duke Tumatoe and 
+te to The All Star Frogs, did their best 
+
+
+
+t drizzle from the &lt; 
+
+
+
+. Film Series, "The I 
+
+
+
+i Blackbird," Neff 101 
+
+
+
+...m. i.vnu.in American Heritage .Series. First Presbyteriai 
+
+
+
+Topic: The Last Century: A Photo f 
+sday. May 5 Final Exams 
+
+
+
+FACULTY NOTES 
+
+Ronald C. Emery, associate professor of electrical er 
+
+technology, received the "Best Paper" award at the recent 
+.. Society of Engineering Eduction conference at In-Stale I 
+
+
+
+U 
+
+
+
+)f the North Central Section, 
+i April 13, Captain Laurence 
+
+
+
+il Federation of Music Clubs for Capi. Dearing's 
+
+
+
+IPVV\| bonwitetu(2optAkrK)(2. 
+
+J0Lv2O-AegxVl4 
+
+p^^^JtoeL.- (&amp;«; |PPW OFFICE Of COUT.'E.D 
+IWTC&amp;e&gt;-TO0 PEKo05 CauTACT -=V&amp;2_-SE&gt;I \ 
+
+
+
+life UeeMN, 'vJiLl. Redosep Thq Wcekooo op '. 
+
+MONDAY- FWDA-y tAA^ ^-13 3 AM.-S'PM 
+CLOSED OM SAfT. MAS 4 
+
+OPeN SUNDA^ Mf 15 
+
+AAA 1 / l^ 
+
+lAOMDA^ - THWS'ZVty 8 AM - tOPMV 
+FT2\QAV BWA-SPfN^ 
+
+s^rueDAV closed 
+
+i*AlDA^ 2 PM- iOPM\ 
+
+
+
+-CALENDAR 
+
+
+
+7:00 p.m. "Twilight Concert - Purdue Concert Band", Slayter Center, 
+
+7:30 p.m. Play "AJ1 the Way Home", Community Center for 
+
+Performing Arts 
+
+1:00 p.m." Baseball - IU-PU vs. Ind. Teck", Away 
+
+7:00 p.m. "Twilight Concert - Purdue Jazz Ensemble", Slayter 
+
+Center. Purdue 
+
+S:oo p.m. "Libby and En ie Peralta", Lyre Coffeehouse 
+
+8:00 p.m. Concert "Olivia Newton John", A&amp;CC, Notre Dame 
+
+8:00 p.m. "The Musical Firewind and Jon Owens", Adams Apple 
+
+8 30pm Fort Waym rel ira Embassy 
+
+8:30 p.m. Play "All the Way Home", Community Center for 
+
+Performing Arts 
+
+9:00 p.m. Pianist "Ben Shelton", Blue Mountain Coffeehouse 
+
+10:00 p.m. Film Series "The Blackbird", Neff 101 
+
+
+
+ECON-O-CHANGE 
+
+TIME &amp; MONEY-SAVING 
+
+SPECIALS... 
+
+TO PROTECT YOUR AUTOMOBILE! 
+
+OIL CHANGE 
+
+4 QUARTS $ri49 
+ALL WEATHER H&gt; * J**? 
+
+10W30 OIL 4- 
+
+OIL CHANGE &amp; LUBE 
+
+4 QUARTS &amp;r\AQ 
+
+ALLWATHER ** Jf?~ 
+
+I0W30 8LUBE \^ 
+
+OIL CHANGE &amp; FILTER 
+
+5 QUARTS U&gt; _ An 
+
+ALL WEATHER «P /L 4V 
+
+10W30&amp; FILTER Q 
+
+OIL CHANGE, LUBE, FILTER 
+
+5 QUARTS fc^Ad 
+ALL WEATHER &lt;P^*+7 
+
+10W30&amp; FILTER / 
+
+I 1102 E. STATE BLVD. I 
+
+_ FORT WAYNE 
+
+I PH. 483-9695 I 
+
+
+
+
+"WEDNESDAY" 
+SUPER SAVINGS DAY! 
+
+Buy any 3 regular priced albums 
+&amp; get $.50 off per album! 
+
+Buy any 2 regular priced tapes 
+&amp; get $.50 off per tape! 
+
+Georgetown Square East 
+
+
+
+GRADUATING CLASS 
+PARTY 
+
+FRIDAY, MAY 6 
+
+p.m.-Midnight 
+Lantern 4420 Ardmore 
+
+
+
+TICKETS AVAILABLE AT THE SWEET SHOPPE 
+&amp;THE 
+
+SPONSORED BY THE GRADUATING CLASS COUNCIL 
+
+
+
+Summer program for college bound offered 
+
+
+
+THE COMMUNICATOR 4/28/77 PAGE 5 
+
+
+
+Did you Know? 
+
+At the beginning ot the 6th month 
+
+your baby can cry, suck, make a list 
+
+and that his behavior is remarkably mature? 
+
+
+
+MIKE BLANKENSHIP 
+
+CAMPUS MINISTRY 
+RESTUCTURING COMMITTEE 
+
+WILL CONVENE IN AN OPEN HEARING 
+
+FRIDAY, APRIL 29 
+
+ROOM 222 SU 
+
+FROM 3:30-5:30 P.M. 
+
+ALL INTERESTED PERSONS 
+
+SHOULD ATTEND 
+
+Campus Ministry Restructuring Committee 
+
+
+
+
+Tornadoes: rules and Information 
+
+
+
+eyeonlhcsky and be prepared tt 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRlHOCRS 
+BROASTED CHICKEN 
+SAUSAGE RqLLS 
+
+
+
+MONDAYS 8, THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+
+YOU MUST BE 2 1 -IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+Ten students finalists for PU 
+trustee position 
+
+
+
+
+a ditch or depression plumbing Automobiles offer ex- 
+
+
+
+I . i j-i 1 1 V.i'i'1 high objects. 
+
+
+
+Our years of experience, dedication 
+
+to photography and qualified professional staff 
+
+allow us to 'MAKE TIME STAND STILL.' 
+
+
+
+IS 
+
+Oannmerai 
+
+
+
+Wind 
+
+record available 
+
+
+
+Sprim: J ..lie iihIiiiIiiii.: -F.iiii.in.- 
+
+
+
+I..I- n-l;. Mc-% 
+alily recording 
+(he big. profes- 
+
+
+
+JUNE 1, 1969 
+
+THE ADVENT LOUDSPEAKER WAS FAST 
+BECOMING WORLD FAMOUS FOR ITS 
+OUTSTANDING MUSICAL REPRODUCTION 
+
+QUALITIES. 
+
+SINCE THEN, THERE HAVE 
+
+BEEN MINOR IMPROVEMENTS 
+
+MADE AND MANY, MANY 
+
+RAVE REVIEWS. 
+
+TRULY, THIS WAS (AND 
+
+STILL IS) A STANDARD 
+
+FOR ALL MEDIUM-PRICED SPEAKERS 
+
+1 ODA Y, A SPECIAL SALE. 
+
+UNTIL OUR PRESENT SUPPLY IS GONE, WE'RE SELLING THE 
+ADVENT LOUDSPEAKERS AT UNPRECEDENTED PRICE REDUCTIONS. 
+FORT WAYNE ELECTRONICS HAS ROLLED BACK 
+THE PRICE TO 1969 LEVELS: 
+
+
+
+
+.■UjVKXI Li&gt;[ [J-.Ht \Kh.i; i 
+
+
+
+ADW'.M L'lLDSPEAKEK ii 
+
+
+
+$116.00 
+
+
+
+$102.00 
+
+
+
+
+• 
+
+
+CORT WAYNE 
+
+ELECTRONICS 
+
+
+• 
+
+
+
+IN THE GLENBROOK MALL 
+
+
+
+RENT-A-BAY 
+
+«.,„• TIRE REPAIR r w„ 
+
+A lubrication'" 8 " 
+
+• MINOR REPAIRS 
+oSSEL. • TUNE UP 
+• OIL CHANGES 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+3301 Crescent Avenue • 483-9643 
+Rental bay open 7 days/wk 7 AM-9 PM 
+
+
+
+
+\ *POOi 
+
+
+
+KANDI KISSES 
+* POOL &amp; MARSHA MELLOW 
+
+SANDWICHES „„.„„„, ,.„„,„.„„,„„„ 
+
+I OUR CARRY— OU1 
+
+* PIZZA ,„.,=-'—„ r- club 
+
+
+
+Meet the Happiest Girl in the World! 
+
+
+
+
+FALSE FACE 
+
+You could die the way she got it! 
+
+
+
+AMERICA'S 
+FAVORITE 
+
+PIZZA &lt;&amp; 
+
+
+
+Monday Thru Friday 
+
+
+
+
+Fant 
+
+
+
+SUMMER E*TERTAL\ME!\T PREVIEWED 
+
+What are you going to do this summer? 
+
+
+
+THE COMMUNICATOR 4/28/77 PAGE 7 
+
+
+
+4215 Blufflon Road at Engle Road 
+
+RECORD SHOP 
+
+HEAD SHOP 
+
+UNDERGROUND COMICS 
+
+CANDLES MACRAME JEWELRY 
+
+
+
+
+and serve yourself 
+CHEESE BAR 
+
+r-WAPpK HOoR SPECIALS— 
+
+• FREE$1 00 
+CHEESE PLATE 
+
+• FIRST 2 DRINKS 
+FOR THE PRICE OF 1 
+
+ALL DURING HAPPY HOUR 4:30-6 P.M. 
+
+
+
+OPEN MON.-SAT. 4 P.M. to 3 A.M. 
+BUBBfl'S} NORTH LOUNGE 
+
+
+
+Do you feel like 
+just one more puffy, 
+pompous mass 
+consumer? 
+
+
+
+liiH&gt; "i I'mk Khiytl (June 19 a 
+
+
+
+
+
+
+DOMINATRIX 
+&amp; ME, ANGEL 
+
+
+
+
+
+
+THEATRE 
+
+A 
+
+
+
+
+MA OPENING 
+
+g2MP 
+
+"DOUBLE BUBBLE" 
+
+Man. thru Fri. 
+
+12 noon -7 p.m. 
+
+DISCO DANCING &amp; FUN 
+
+i 7 Nites J 
+
+F 1-69 &amp; 14 West I 
+
+
+
+Don't just sit idly 
+swallowing 
+everything the 
+world hands you! 
+
+Hand something back! 
+
+.Gain valuable experience and training in news and feature writing by working 
+
+on THE COMMUNICATOR AND EARN COLLEGE CREDIT! 
+
+Beginning with the 1977 Fall semester the Department of English and 
+Linguistics will offer up to three hours of credit for practical work experience 
+on THE COMMUNICATOR combined with academic training in journalistic writing. 
+If you're interested in developing your writing skills through professional training 
+and practical experience contact John Logan or Gil Bierman at 
+THE COMMUNICATOR office (482-5585), Rm. 215 Student Union or fill 
+out the following coupon and drop it in the mail. 
+
+
+
+GENERAL CINEMA THEATRES 
+I ALL CINEM AS-E VERY DAY 'TIL 2:30 P. M.-S1.50 | 
+
+
+
+1^-iiVVr, 
+
+
+LlliJJKS^H 
+
+
+p 1 2,o.v..\C 
+
+
+1 /• -i-SEa 
+
+
+
+
+r — 
+
+| Name- 
+
+! AHrtroe. 
+
+
+
+I 
+
+I 
+
+■ I 
+I Phone No Class standing. ■ 
+
+■ I want to enroll in COAS W398 for — 1 , — 2, or — 3 hours during J 
+
+■ the 1977 fall semester 
+
+I THE COMMUNICATOR. 2101 tolise^ Blvd^^Wayre^NJMOS __| 
+
+
+
+DAILY LUNCH 
+SPECIALS 
+
+MON-Any Sandwich 
+TUES-2 pes. Sicilian &amp; Salad 
+WED-ltalian Beef Sandwich 
+
+
+
+99&lt; 
+
+
+
+FRI-%Sau§a K e 
+
+
+
+THURS-Spaghetti [ 
+&amp; Meatballs | 
+
+I 
+I 
+
+J 
+
+TWO i "I* .„.,.,..„,«.,,,.„ ,„r,„ : j 
+
+LOCATIONS I 1 FREE SOFT DRINK I 
+
+. GEORGETOWN | WITH LUNCH 
+
+2910 Maplecre 8 , J .TflSIDE ONLY j 
+
+• CLINTON ' „„„,,, I 
+
+at ™. .«•.„» L— COUPON EXP 5/13/77 ___ J 
+
+
+
+TVobleTipinaifs 
+
+
+
+PAGE 8 THE COMMUNICATOR 4/28/77 
+
+
+
+'YOUR LIQUOR STORE' 
+
+
+
+NORTH 
+CLINTON 
+
+
+
+
+PHONE: 
+
+484-2713 
+
+
+
+MONTHURS 9-1 Op.m. FRI-SAT 9-12 p.m. 
+
+3322 N CLINTON 
+
+
+
+Baseball team over .500 on season 
+
+
+
+1,,,,,,-k.ll .Mc.terl .&lt; slmni' i 
+
+
+
+
+
+
+buried game on-- I'lidier 
+
+
+
+, Craig Klein and relief 
+
+
+
+College. w,js rained out. with tv 
+
+Tuskers have played some'fine Doug B 
+
+
+
+Leffers resigns; new IPFW soccer coach sought £t 
+
+
+
+The Tuskers will t 
+
+
+
+BATTING STATISTICS 
+
+
+
+i process. Spade feeis t 
+
+
+
+$100,000 
+
+of low cost 
+
+Yearly Renewable 
+
+Term Insurance 
+
+
+
+POLICY ANALYSIS 
+SERVICES, Inc. 
+
+
+
+Golf team achieves winning combination in tourney 
+
+
+
+I in!' li- ■iil!t-i •■nl | -I.J &gt; 
+
+
+
+■ liivilnlioi);i! I hi&gt; pasl week: men," (Dan Gerard, 
+
+
+
+-oke the old Jim Till, from Bishop Dwenger, 
+
+stroke-; Th&lt;- '''.''h ' ^miMimi.' i:s Imkl ,,\&lt;.-t\,v..: 
+
+owest -18-hole-average. 
+
+
+
+JimFirks 48 
+
+Cris Donnelly 28 
+
+Bruce Jump 24 
+
+
+
+KING 
+
+
+
+
+iFFW 386, Ashland 386. Taylor 
+
+
+
+Hazelett, Myers get voUvball honors * 3 - Ken &gt; st » l e of Trumbie m?, 
+
+J fe J Marion 414, Grace 426 Purdtll 
+
+Kirk Hazelett and Jess Myers, while Myers won a place on the Nor,h Cen,ral 427 ' defending 
+
+...... .- ... l,,.!,,,,.,-!'..;.!.,, |...nor.,l,i, ,„.,„ , | I 1 I I Tech 4 
+
+
+
+| mi had a Women's tennis 
+Mhe! a „l f h LrJears '" co "' finishes fourth 
+
+
+
+is sponsoring the Seven,! Ajmu.,1 l K prm ..led will. ,., h i.miily or Debbie CantweL, Connie ' 
+Student Union Building. (vegetable, salad, or dessert). Any women interested in 
+
+
+
+t NORTH 
+ANTHONY 
+•—LIQUORS 
+
+CARRY OUT 
+
+COLD BEER 
+WINE, LIQUOR, 
+CHAMPAGNE 
+
+
+
+Get an "A" 
+this semeser 
+....get ARISTA! 
+
+
+
+
+
+
+3627 NORTH CLINTON 
+PHONE 483-9290 
+
+
+
+$4 
+
+
+
+98 
+
+ONLY 
+
+
+
+
+ARISTA 
+
+
+
+
+
+
+HOURS: Open Daily 10 to 9, Sat. 10-8, Sun. 12-5 
+(Sunday Hours subject to change) 
+
+
+
+</pre>        </div>
+      </div>
+    

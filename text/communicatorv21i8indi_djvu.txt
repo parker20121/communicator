@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i8indi/communicatorv21i8indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i8indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i8indi">The Communicator</a>"
+          </h1>
+          <pre>
+George Bush 
+
+Strengths, weaknesses discussed/Page 2 
+
+
+
+Peace studies 
+
+New program established at IPFW /Page 3 
+
+
+
+Cross country 
+
+IPFW hosts conference championships/Page 4 
+
+
+
+The Communicator 
+
+
+
+i University-Purdue University at Fort Wayne 
+
+
+
+October 26, 1989 
+
+
+
+Quote of the week 
+
+
+
+"Since the Supreme Court's Webster deci- 
+sion in July, student outrage has exploded. 
+Our phones have been ringing off the hook, 
+with students all over the country asking, 
+•What can I.do?' " — Sheri O'Dell 
+
+—NOW mobilization director 
+—Page 1 
+
+
+
+Wartzok receives research grant, contract 
+
+
+
+-INFOGRAPHS- 
+
+DASEL to present Cannon 
+
+Disabled Students Excelling in Leadership (DASEL) will present a 
+forum featuring Dennis Cannon, chair and associate professor of psy- 
+chology, as part of their first r 
+
+
+
+PIT holds Halloween sale 
+Forum airs teleconference 
+
+"Fundamentally Speaking: Catholic Views on Campus," is a two- 
+
+Nov. 2, at 8 p.m. in Classroom Medical Room 159. The first program in 
+t.hii htiw will be "Which Came First, the Bible or the Church ' This 
+live, interactive teleconference will be Lin expose on Biblical Fun 
+
+Forum and Campus Ministry, 
+
+Seiler to discuss Germany 
+
+On Monday, the International Student Organization will present the 
+second lecture in their Faculty Lecture Series. Christiane Seiler, asso- 
+
+i ,i Union Room G21. Free refresh- 
+
+ments will be provided after the lecture. The presentation is free and 
+
+War veterans share insights 
+
+A panel discussion between Soviet soldiers who fought in the war 
+
+day at 8 p.m. in Kettler Hall Room G46. The program, titled "Bridging 
+u.l,i„ enter on what it 
+
+homeland. The discussion is tree and open to the public. 
+
+Skelton to lecture on space 
+
+liversary Odyssey Series 
+
+the past and future of A 
+) the educational system 
+
+
+
+Former governor to speak 
+
+Otis Bowen, former governor of Indiana and past U " 
+Health and Human Services, will give two one-hour ( 
+
+
+
+Committee asks for opinions 
+
+
+
+t draft. Copies of the f 
+
+
+
+Communicator seeks writers 
+
+
+
+■ Ktlll -. ,&lt;H hid ■ 
+
+
+
+
+Wartzok enjoys his w.irr. 
+
+
+
+IU report 
+
+Changes in personnel 
+approved for IPFW 
+
+
+
+NOW sponsors rally 
+
+
+
+nijs ' Marjorie Souers, s 
+
+
+
+itical Science t " s ™ V ^'Z^llis 
+Smulkstys, associate p 
+
+
+
+"Since the Supreme Court's 
+
+
+
+: dying. Students t 
+
+
+
+Wral. \... d :\U,r (or Aca- Stephen Harroff, a^.r..,r, pf.^v 
+
+demie Affairs lor the period ol Julv I. ,l! ' ■'■■"'"■&lt;i&lt;" ; -"'^&gt;.&lt;r.' '■ ■ ■ .'■■■■mi 
+
+i , [,,. s . sjbbiiiic;.!, which was originally j 
+
+
+
+i Craig, assistant professor monetary allocations given i 
+
+
+
+NOW mobilization 111 ictoi 
+
+
+
+Sf^^ta^** Dutch students 
+
+JfgpES Visitors researching 
+^^3Hp 3g2pess£ public administration 
+Follett's gets new look 
+
+
+
+y MARLENE VODER wm inc i ude 
+
+Surf Writer carpeting t 
+
+&gt; Nov. 1, students going to fixtures. 
+
+
+
+Dutch students. This students a 
+
+
+
+Opinion 
+
+P«t2 
+
+Presidential blunders 
+
+The Bush administration 
+pilots a sinking ship 
+
+George Bush's strategy during his Soviet Union and the East Bloc 
+campaign consisted of wrapping him- Challenged by an unprecedei 
+self in an American flaR and spouting portunity to negate the 
+patriotic homilies while artfully side- 20,0()() nuclear missiles, ousn 
+stepping relevant issues. His was a chosen to hide his head in the sane 
+campaign that cultivated emotional Meanwhile, the Pentagon arms 
+rather than intellectual appeal— a up continues to roll bl 4 ' u "'" 
+slickly packaged affair, loaded with ting out $65 millic 
+symbols that tugged at the heart bombers costing $535 million each, and 
+strings of voters in an effort to pull the a four billion dollar Star Wars pro- 
+blinds shut on their brains. gram. These projects, piled atop the 
+
+The living embodiment of Bush's res t f the Pentagon's voracious bud- 
+cynical campaign approach was Dan ge tary requirements, are propelling the 
+Quayle— a handsome product with national debt into the stratosphere. We 
+bright teeth, fresh breath, and a thick are bankrupting our children's future 
+shock of hair lopping an empty head u , pay for arms w hich we may not need 
+
+The selection of Quayle as his run to produce Their future depends upon 
+
+ning mate was so glaring an indicator whelher George B ush wakes up and 
+
+of the Bush campaigns hollow facade, pursu( . s meaningful, mutually veri- 
+
+that for a brief ,■!,.. m, ■ ,. .,i ,( fjab}e arms Cl)t . backs with the Soviet 
+
+,i|,p:.. ;.&lt; (I lh,,i In &lt; !i . [&lt;&gt;: ,il. ii;.hI i'imv.o |i nl(1 . 
+
+wise to the manipulate™ which Bush B ^, sideklck „ , our (ormer 
+
+employed. But aced with the alter- nol|ona| dsman ' who kepl lne 
+
+i" ,l„ ™°" shores of Indiana guarded during the 
+
+3ShJSSSUSSttPSi?ffS asa S? war'nT™"^ spewin6 
+
+dent whose methods in public o/fice ore ShToScelveTtol 
+consistent with those lie used to gel ^ \ , , , 
+
+&amp;■ isAfiSA rs&amp;&amp; r z e z i , mp ^ ena h , , ed ?v, rapist ' s - e 
+
+tefiigenlly dealing with these problems, gal v.cbms of sexual assauts 
+
+the Bush regiin.' li,,-. , hu-.-n I., iliv.-rt nr0 « d mares lor their atlacKers is 
+
+the public's attention and the energies harmonious with the 
+
+he XS fiT* inSUbSta "' i '" &lt;"*" would alfow MedVaTd-tunded abortions 
+
+The most notable ol these ploys was 1° poor women who are impregnated 
+
+the recent tailed attempt to acquire a through rape or incest. Welcome to the 
+
+lihiu,,.,,! .um [Him, hi 10 ban flag "kinder, gentler America." 
+
+I, &gt;&lt;i 1 an effort which trivialized A ' P res J efl r t ;. lhe American ship of 
+
+ll„. i,,„„.i u,„ ,■ ,.l Hi.- I onstnulion ami stole is drifting in dangeiou- li... • 
+
+i.n.r,l II.,- |„, -i,t.-,,r- ,™„- ,,[ a,„i Hi inn v 1,11 ' 
+
+priorities colorful symbolic gestures ol bilge water As the man behind the 
+
+over meaningful action helm. Bush bears the responsibility of 
+
+Other problems faced by the Bush keeping our ship from foundering. He 
+administration include lhe drug plague should be more concerned with the 
+and the national decline in education holes ip the hull and the fair- 
+standards. These problems have re- ness and directness of the course which 
+ceived tough-sounding words and Band- he is steering, rather than fretting 
+Aid solutions about the flag on the mast. 
+
+IVihap- Hi, i„„-.l dislresMiig ol lhe And first male Quayle ought to be 
+
+Bush adminislra, ,,,.„lc.|u,„ les is demoted to a position that is more 
+
+its response to the process of demo- compatible with his knowledge and 
+
+,,,,!„ transformation occuring in the ability, such as third-class deck swab. 
+
+Alternate View 
+
+Bush treated Noriega right 
+
+New evidence has surfaced on the cost ol waiting for another opportunity 
+
+failed ousting ol Panamanian dii.-lat.ir lo nab the Panamanian general. 
+
+Manuel Noriega We now have been In dealing with the Panamanian sit 
+
+told that the Bush administration felt uation the way he did Bush has given 
+
+thai in aiding the rrlu'is, we would be us a taste of the way he will deal with 
+
+.iM.fi.o-- in assac-Minitm,'. linn MurdmiiR light situations. Bush is going to be a 
+
+a world leader is in clear violation of more passive and thoughtful leader 
+
+United Stales' foreign policy. Bush and than the emotional and absent-minded 
+
+Ins ,id\i..ors clearly made a wist' choice Ronald Reagan. 
+
+in standing aside in this situation. Bush has shown that he is a man of 
+
+George Bush is making a point with action with his interest in the drug war 
+the lack of action from his office in Ihis and with his involvement in most of the 
+instance. Bush is interested is staying issues facing the nation today. Bush is 
+within the confines of the Constitution a strong leader but may be too inter- 
+where use of his power is concerned, ested in his own popularity. He needs to 
+Former presidents Nixon and Kennedy remember that he's already in office 
+stepped well beyond the lines drawn by and that he can remain there even if he 
+the Constitution and by Congress in the makes decisions that lower him in the 
+form of national laws and policies. polls. 
+
+If John F. Kennedy was faced with Most of the Bush administration 
+
+the Noriega situation, he might have choices thus far have been prudent. He 
+
+gone as far as sen. loir ,t Mafia hit man may take this prudence to a passive 
+
+to Panama to take out the general, extreme but this is a much better ac- 
+
+Richard Nixon would have thought tion than taking his power behind the 
+
+nothing of deceiving the American law. Hopefully, Bush can continue in 
+
+people if it would have been the end of his thoughtful and concerned manner of 
+
+the problem. Bush knows all about the decision making and leave behind the 
+
+trouble presidents can get into if they interest in popularity With his choice 
+
+try to deceive the American people He to let Noriega live, Bush has made a 
+
+The Communicator 
+
+Lon Bishop . ; * ' ". * * '. ". " '. V. V. * " ' * 1 * * " * ' " ' " " ! * '. 1 ' '. '. ' 1 ^ Editor in Chiel 
+
+Jeff Bmruson Features Editor 
+
+Marci Copsey Copy Editor 
+
+Litlianbyon Advertising Manager 
+
+Ir.di.r . P„rdoe Slu'jYiV N..-« -|&gt;j;ht- In ., •■■.' :.-. puji-i ..-, c,i,..|„ r iM...rp.jr.;li-&lt;1 in (In 
+Opinion expressed in The Communicator is thai of the wnter. or in lhe case of unsigned 
+
+The editorial and business old..- nl Tin- 1 ..n&gt;muni&lt; ah r .■■-. .... ,i,d in Suite 215 of the 
+Walb Memorial i r.-.-i:. h dun t ii.htmU I'u'dLf I inn^.lt .,• f,„: W.,vin- -UH (uiLseum 
+Blvd E . Fort Wayne. Ind 46805 The Connnonn ..(..- • .■d.1,,1 .,, phor.e number is 481-6584. 
+
+The Commuim.ii.-r .m 1. ..n . ■ i.i'.n- 1., in. .ij.v.r All letters should be concise. The 
+editorial board reserves the right '.1 &lt;dd ...1 l.-'irr- loi bnv.iy .md .'.jriu .,r.d :.. reject 
+Uiose letters it fe^lv are objectionable Each letter must contain the writer's name, 
+
+l.-to-r n ■.'.!!! t .'. lOiM-i.-i .&gt;nl&gt; oj,&lt;1it .■..ii-.-&lt;..n!m lt \ on um.-.t.nu .-s All letters must be 
+typed double spaced, or clearly printed, on one side of the paper only Deadline for letters is 
+
+Letters Policy 
+
+Every week The Communicator reserves space on this page for letters to the 
+editor. Your views are welcome. 
+
+Preference will be given to letters addressing matters of direct concern to 
+IPFW. If necessary. letters will be edited. 
+
+Letters must include the author's name, signature, address and telephone 
+number. Only the author's name will be published with the letter. Names will be 
+withheld only for extraordinary reasons. The deadline for letters to the editor is 
+Monday noon of the week of publication. 
+
+The editorial board reserves the right to reject those letters it feels are 
+defamatory. 
+
+Letters should be sent to The Communicator office, Walb Memorial Union Suite 
+215, or mailed to The Communicator, Walb Memorial Union Suite 21f, im 
+Coliseum Blvd. E., Fort Wayne, Ind. 46805. 
+
+
+
+The Communicator 
+
+
+
+
+Holiday Commercialism 
+
+Grab your wallet and soap, it's Halloween 
+
+
+
+nil- :. ih, kind 
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+New program 
+
+IPFW receives 
+'89 Peace Award 
+
+
+
+By JANHANLEY 
+
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+Cross country hosts conference meet 
+
+
+
+ired the GLVC 
+
+
+
+
+
+
+
+
+Th Oct. 26 
+
+
+F 27 
+
+Women's Vollayball 
+
+
+S 28 
+
+Wotnen'i Vollovboll 
+
+al BeHormine GIVC duMar 
+
+
+S 29 
+
+
+M 30 
+
+
+T 31 
+Women's Volleyball 
+
+
+W Nov. 1 
+
+GLVC Bill round 
+
+
+
+WINTER PARK, CO 
+
+
+
+
+SPORTS \\ AMERICA 
+
+
+
+YOUR SKI TRIP INCLUDES: 
+
+■ 4 NIGHTS LODGING 
+
+• 4 DAYS SKIING AT W 
+
+• SHUTTLES TO AND FROM THE MOUNTAINS AND EVENTS! 
+
+• SOUVENIR T-SHIRTl • FREE NEVER-EVER LESSONS! 
+
+• WELCOME PARTY! • BREAKFAST ON THE 
+
+• NASTAR RACE! • MOUNTAIN PICNIC! 
+
+• APRES SKI PARTYI • PIZZA PARTY! 
+
+• SCAVENGER HUNT! • FRASER FUN NIGHT 
+
+PONT MISS ALL THE SNOW!! SIGN UP TODAY!! 
+
+
+
+FOR MORE INFORMATION CONTACT: Scon Dinius 
+
+
+
+
+Sponsored by Student Acti' 
+
+
+
+
+</pre>        </div>
+      </div>
+    

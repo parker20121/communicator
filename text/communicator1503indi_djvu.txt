@@ -1,0 +1,1760 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1503indi/communicator1503indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1503indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1503indi">The Communicator</a>"
+          </h1>
+          <pre>The Communicator 
+
+
+
+Volume XV Issue 3 
+
+
+
+Indiana University- Purdue University at Fori Wayne 
+
+
+
+Thursday, September 1. 19331 
+
+
+
+Enrollment 
+grows 
+
+3.5 percent 
+
+
+
+EnroUmenl tor the fali wmcalCT is ui 
+IS percent from [ml (oU said 
+Franklin Keimorlhy, iaanlanl vire 
+chancellor and dean of acaijeml' 
+
+While eiacl enrollmenl figure 
+wercn'I available. The Communicalo 
+looW last tail's cniollmail rigure o 
+10,158 iludenli and multiplied It by 3 
+percent lo come up with an estimalt' 
+enrollmenl ol lOMO itu dents 
+
+Also op Irom U»l (all are crcdl 
+hours, up nlmoal Five percent, and Ih 
+average number of credit hours DC 
+
+
+
+Gas forum 
+in baUroom 
+Sept. 9 
+
+
+
+n the V 
+
+
+
+3 Mimori 
+
+
+
+Union ballroom 
+
+CoaU. a member o! the House 
+Energy and Commerce Commltlee, has 
+invlled represcnlallves o[ gas 
+(soducen (Standard Oil ol Ittdianai. 
+gas pipelines iMIehigan-Wlsconiin 
+Co I gas dlElrlbutlon companies 
+iNorlhcrn Indiana Public Service Co.), 
+and goi consumers iCiliicns Action 
+Coalilioni 
+
+Charles ingebrelson. Coats' 
+Icgislallve usslslanl. said the purpose 
+of the torum Is not to discuss natural 
+gas issui^s. tHJt lo inform and edLicate 
+the gen c rat public a tjaut' the natural gas 
+problem facing Ihc country in the near 
+
+
+
+3.5% 
+
+
+
+
+n last foil. O. Fra 
+
+
+
+ce eh in eel I or. said. 
+ilngby Bob Lang) 
+
+
+
+Indiana enacts 
+safety seat law 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lew wc&lt;ks before delivery When 
+
+
+children under Uircc years of age inloa 
+
+
+
+
+
+
+condiUoo, half of the dep&lt;sll Is retur- 
+
+
+Indiana became one ol M stales (o 
+
+
+ned, making the aclual cost 15 Other 
+
+
+pass a law mandaUng the use ol child 
+
+
+requirements for Itus program ire a 
+
+
+
+
+
+
+camcs a possible KOO fine. 
+
+
+residency, said Marilyn Curl, COor~ 
+
+
+■■I'm pleased Indiana Is among the 
+
+
+dinator of the seal renting. 
+
+
+cm ol theslalcs lo implement this law 
+
+
+Pond said saving children's livei Lin'I 
+
+
+Slfllistics prove Ihal infant folallliEs 
+
+
+the only bcnc|1l of the Child Ratralnt 
+
+
+from car accldenla drop at a surprising 
+
+
+
+
+role when such laws are enforced." 
+
+
+Congress. Indiana could receive up lo 
+
+
+SlntB Representative PhylUs Pond of 
+
+
+tl.tU million in federal monies 
+
+
+New Haven said 
+
+
+■■There Is a growing effort naUon- 
+
+
+In Tennessee, child deslha resulting 
+
+
+wide lo crack down on the number of 
+
+
+
+
+Infant deaths due to car accident*," 
+
+
+1981 from 23 lo six alter the ennclmeni 
+
+
+Pond anld "The proposal before 
+
+
+of a similar child rettralnl law. In 
+
+
+Congreu would give stalls that pau a 
+
+
+Rhode Island, the law has been credited 
+
+
+child safely seal law a one-time grant 
+
+
+wilha 2&amp; perccnl decline in automobile 
+
+
+equalling up to IS percenl of their 
+
+
+injuries to children. 
+
+
+federal highway solely funds." 
+
+
+
+
+
+
+parents or guardians of small In/anla 
+
+
+loan programs, public Informnllon and 
+
+
+will range from !»■»«) for a car seat at 
+
+
+education campaigns and training 
+
+
+area Korl Waj-nc deparlmeni stores 
+
+
+programs (or pobce. Pond said- This 
+
+
+One measure being taken to deflate 
+
+
+
+
+
+
+Congress. 
+
+
+
+Sibling rivalry on soccer field g 
+
+
+
+
+Iherestollheplsyeraontheieam. Roo 
+a freshman at IPFW, no) only gets ti 
+play against Notre Dame, but alsc 
+against his older brother. Ken. captain 
+of Ihe Fighting Irish. 
+
+IPFW faces Notre Dame SepL 6 ol * 
+p.m al the Maslodon soccer (leld In a 
+
+
+
+' As lor Notre Dame, Ron teeii IPFW 
+
+enjoys a home field advantage over 
+them "Thcy^re not used to playing on 
+grass, "he said. "I think 1 hey U have a 
+hard lime adjusting to the field." 
+
+
+
+-When I was in high school. 
+
+di'fsiH^^S '"^ed,o3ou.otcHmyhrolher 
+
+play \n Notre Dame games. 
+
+■■Whenl was in high school. I used to Now I'm placing againsl both 
+
+of them (Notre Dame and 
+
+Ken). " 
+
+IPFW ioccer player. 
+Ron Harkenrider 
+
+
+
+I my brother play 
+Dame games." said Ron. ' 
+playing against both cI the 
+Dame and Ken)." 
+
+Ron said there have be 
+comments about him playin 
+his brother. '■It's funny bei 
+share some of the same Incnd 
+they don't know who lo root 
+
+
+
+some brotherly raizing as well, "Ken 
+was telling me before he left for school 
+Ihal his team hod a real easy opener 
+Ihis year." How iloes Ron (eel about 
+that? "We're going ID cream them," he 
+
+Because coach Terry SlefankiBWIci 
+
+
+
+
+Frtihman Ron Harkenrider and 
+
+Sept. t al home agilntl Notre Dime. Tlie 
+
+tvoIherKen. 
+
+
+
+h ore captained b) llarkenrlder't 
+
+
+
+The vor 
+beat on 
+Mostodons 
+
+
+
+The team also participated in a 
+soccer Jamboree on Aug n at Grace 
+College, where Uic Mastodona shul out 
+Grace l-Q and Bethel College M. IPFW 
+plays both (eoms laler In the season 
+
+The IPFW reserve team also did well 
+al (he Jamboree, defeating Grace^s 
+reserve squad 2-0 
+
+
+
+Artifacts found at Fox Island 
+
+
+
+llyDliEIHARMEMNG 
+SUKWrilei 
+
+AnUiropotogy iludeots at IPFW 
+recently completed a two-&gt;'ear ar- 
+chaeological dig at Fox Island Nature 
+Preserve, localcd In southwest Allen 
+County. The dig, headed by Di 
+
+
+
+IhrDpology. produced several moji 
+findings dating bock 5,001) yeori. 
+
+"The Foi Iilond orchaeological of ifi sites located in ihe park. The dig 
+
+excovallon represents (he first conlinued again this summer until its 
+
+systematic eicflvalion of a site in Allen completion during the first summer 
+
+County," Beynon said. session. 
+
+Thedig.fundedby thedivisionofarls "Site i:aLI31 was chosen first 
+
+and theFoi (ilandAUiance. because of Its proximity (o school." 
+
+
+
+
+d also liecause o( i 
+
+
+
+la see inside the di 
+
+
+
+Work tiegan on the excavation with 
+students receiving oo-ttic-Job training. 
+Inoddiilon to learning how to excavate, 
+students had to reci^niie artUacts and 
+work m the lob analyiing and 
+cataloging Ihe orlUacti. BeynoD said. 
+
+Eicovation began oHer a coatour 
+map of the site was drawn, with ex- 
+cavation units plotted on Ihe tnap. 
+
+■■Our first goal was (o determine how 
+much disturbance (he site had suffered 
+from molorcycie activity, but our main 
+goal was (o eipcoe the t&gt;lack lens. The 
+Uack lens produced most of cur larger 
+[seces of pre-historlc ceiamlci and one 
+broken la-ojectile point. ■' Beynon sold. 
+Tlie bbick tens is a layer of earth. 
+
+Once uncovered, each ortifact was 
+measured in place according to Its 
+bariuntal and vstical pcBition viilin 
+the grid system. Carbon and organic 
+remains were also taken (or 
+radiocarbon samples which dated Ihe 
+artilacli. Beynon said. 
+
+
+
+
+Several cultural c 
+dunng the dig indicated dilferenl tl. 
+periods in which tbe area was occupied. 
+
+
+
+years ago. Various pieces of pottery 
+dating back to Eorly Wood Period from 
+
+
+
+With tbe comp 
+dig, Beynon is su 
+River Valley foi 
+
+
+
+XI of the fox Island 
+ylr«theSt. Joiepb 
+
+
+
+PAGEI- THE COMMUNICATOR - SEPTEMBER 1. 1«J 
+
+
+
+PLAY YOUR FAVORITE 
+ARCADE GAME 
+
+
+
+PRESENT THIS COUPON WHEN YOU 
+
+BUY A DOLLAR'S WORTH AND RECEIVE 
+
+A DOLLAR'S WORTH FBEE 
+
+
+
+
+
+mm 
+
+COMMWCflTOR 
+■83- 
+
+
+
+We've Cut The Price 
+Of Records &amp; Cassettes 
+
+Prices Starting At $^98 
+
+
+
+
+^Popular i^Rock •Jazz i^Classical 
+
+Top Artists! Major Labels 
+
+Come Early For Best Selection 
+
+FOLLETT'S FORT WAYNE 
+
+
+
+BOOKSTORE 
+
+
+
+Ground Floor 
+
+
+
+Kettler Hall 
+
+
+
+483-6100 
+
+
+
+TIME IS RUNNING OUT 
+
+ON WOODEN NICKEL 
+
+RECORDS' 
+
+Back to School Sale 
+
+Rent Any Single LP In Our Large Stock 
+For Just 0w 
+
+
+
+
+LP or Tape 
+
+
+
+LP or Tape 
+
+
+
+Rent 2 LPs or Purchase 2 LPs- 
+Get A ^2.00 Value Record Cleaning Brush— FREE 
+
+Hurry! Sale Ends 
+September 4 
+
+
+
+'5.99 
+
+AllBop 3 Cassette 
+Cleaning System 
+
+
+
+Wooden IMickel 
+Records 
+
+3627 N. Clinton Street 
+Phone 484-2451 
+
+
+
+■9.99 
+
+Complete Dishwasher 
+
+Record Cleaning 
+
+System 
+
+
+
+arts 
+
+
+
+•Dolly Shot' 
+
+Summer films inretrospect 
+
+
+
+BrMIKEGEFKEN 
+
+
+
+Ion of [lay Bradbury's 
+wnpUyi. do«n( rely on 
+
+
+
+CartUrf L-reale an cIlKlWe 
+moody almoiptnire 
+
+■The Man Wilh Two 
+Drains" ii Slv^e Martin's 
+
+
+
+
+
+
+lejoko 
+
+
+
+hen lalli m 
+
+slluadon 
+omedy. and 
+
+
+
+(Ibwi— lomc of the )akes are 
+irlcgraphed and lome ol Ihe 
+character! aren't developed 
+
+believable characleri, whith 
+ftomethlnj rare In any 
+ledy iheie ilays. The Hlm 
+
+tormancei by Jamie Lee 
+
+Ralph Bellamy and Dan 
+
+"Yellowbeard" a a funny, 
+■wash buckling satire from 
+lame of the Monty Python 
+ere*. Full of the Python'i 
+deadpan wit. the film boaila 
+an all slur cait conilsling oI 
+Madeline Kahn, Graham 
+Chapman. Eric Idle, John 
+CIcese, Cheech and Chong. 
+Peter Boyle, Marly Pcldman 
+and Peter Cook. The plot, 
+
+people wanting to obtain a 
+map hidden by Yellowbeard. 
+The plot doesn't mailer, 
+(hough, as practically every 
+pirate movie cliche gela 
+Jabbed. A fun movie! 
+
+■'Flashdonce' is more 
+efleclive ai music videos 
+(which II has since been 
+chapped Into! than as a 
+movie The plot is slncUy 
+soap opera— a welder wants 
+
+
+
+film UP 
+
+
+
+
+
+
+toned .Martin down and geu 
+both Kolhlvcn Turner and 
+
+elfccttve teaming of Dan 
+Ackroyd and Eddie Murphy. 
+Murphy Ileal) the film as a 
+
+
+
+and dancing It can't be 
+denied Ihat Ihe dancing hat 
+energy and if the rest of (he 
+rUm were as good. It would 
+
+"Slaying Alive" could be 
+
+"Flaihdance." Sylvester 
+Stallone iona It again He 
+
+
+
+Art department 
+presents variety 
+
+
+
+B&gt; YVONNE PASKE 
+
+; the IPFW 
+
+
+
+wide variety ot mediums ar 
+
+
+
+re at least &lt; 
+painllngs cihlbll and 
+(acuity exhibit, McCee sn 
+[n nddlllon. McGce 
+currently negotiating for 
+weaving exhibit Iroj ~ 
+Stale University. . 
+le res ting facet of t 
+coming season, McCi 
+
+
+
+Ball 
+
+
+
+[hly one month apiece, 
+nning with a paintings 
+bit by former student 
+t Myers. His paintings 
+be on display Sept 2-30. 
+second show will be 
+IB-Nov IS. and will 
+
+
+
+heir careers." which serves 
+jpollighl the unique 
+levelopmenl oI each. 
+Whether a person is in- 
+olved m the Fort Wayne 
+
+
+
+
+
+
+rable vl 
+ce Ihli 
+
+
+
+drawings, and prints ol A 
+
+
+
+n the school 
+audllorium ai ID« West 
+Beny Streel. The houra are 
+nexible enough lo oc 
+commodate almost any 
+schedule. Exhlbils may be 
+viewed all day on Tuesdays 
+and Wednesdays, during the 
+
+
+
+Motilnger, Celeste Em- hours of 1M p.m 
+merlck. and John Zaumer 
+Tlie cihibll can be viewed 
+
+
+
+Dance class 
+
+Let's dance at ihe Fort adults. Adult 
+
+Wayne Ballell ottered tw 
+
+The Academy ol the Fort courses: a 
+
+Wayne Ballel. under the ballet-exercl 
+
+
+
+week and a Basic 
+
+
+
+e prin 
+
+
+
+I. Ballet. Jaaasd Ihi 
+
+
+
+cliches oul ol slmabons that 
+are olready cliches and 
+pulverlics any emotional 
+subtly He has transferred 
+John Travolta's Tony 
+Manero. a living, breathing 
+
+Lolved 
+
+
+
+tupid t 
+id Ihe ( 
+
+
+
+are sounderwrll 
+
+
+
+only 
+
+
+
+energy the ; 
+Ihe last fiv 
+
+■•Twiligl 
+
+
+
+people died making the Tii 
+segment, which is a siiiy 
+slory of racial prejudice as 
+we've all seen before. Steven 
+Speilberg'J canlributlon is a 
+hMby lale about old people 
+wanting lo (eel young. Joe 
+
+detailing a child's ability lo 
+fabricate anything QUI of his 
+Imagination. The bcsl 
+segment, though, is the Insl 
+one by Australian direclor 
+George Miller Miller ef 
+(ectively catches Ihe feeling 
+of claustrapbobia. John 
+Lithgow I 
+
+
+
+portray hysteria withou 
+being overwrought Just a 
+good 13 Ihe opening be Wee 
+Dan Ackroyd and Albet 
+
+
+
+"Psycho 11" IS an luiscary 
+
+original. Anthony Perkins is 
+
+Norman Bates Actually he's 
+the only reason lo see the 
+film. But, even though there 
+
+
+
+
+
+
+cnces to Sir Alfred and 
+lor Richard Franklin 
+manage to put more 
+
+
+
+managed ti 
+
+
+
+"SIroker Ace" - Another 
+lurl Reynolds good ol' boy 
+novic Who needs them'' 
+
+"Class"— A muddled (ilm 
+whether It's 
+
+
+
+lellher 
+
+
+
+imedy oi 
+
+
+
+3-D"— Dumb shark 
+
+
+
+Michael Ritchie 
+
+
+
+Director film. 
+
+
+
+
+
+
+
+
+
+( nying ; 
+
+
+
+
+ATTENTION 
+IPFW STUDENTS 
+
+
+
+•CABLE TV 
+
+'LAUNDRY IN EACH BUILDING 
+•CLUBHOUSE AND SWIMMING POOL 
+•CENTRAL HEAT AND A)R CONDITIONING 
+•SPECIAL LEASING TERMS AVAILABLE 
+
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+
+
+Appletree Apartments 
+
+
+
+6500 St, )oe Road 
+485-7529 
+
+
+
+SEPTEMBER 1. 1W3- THE COMMUNICATOR- PAGE 1 
+
+
+
+
+Thurs Night Ladies' Night 
+No Cover For Ladies 
+gFor 1, B-1QS 12-1 
+
+
+
+Wed Nighc Till Midnight 
+
+AH The Beer S Bar 
+Mix Yoii Can Dnnk For 
+
+'5.00 
+
+
+
+Fn. a Sat. 
+2 fori 
+B-9:3D 
+
+
+
+Rock 'N Roll 
+
+with class 
+
+505 E. Coliseum Bli/d. 
+
+
+
+*Ft. Wayne Entartainment 
+Show Every Tues. Come 
+Before 8 p.m. 
+
+• TempestWed.-Sat. 
+Aug- 31 - Sept. 3 
+
+• From Chicago - Dr. Bop 
+&amp; The Headliners - 
+Wed.. Sept. 7 
+
+• Bandit Thurs. -Sat. 
+Sept. 8-10 
+
+
+
+Hours: Bindrcom - S p.m. 
+Wed.lhruSal. 
+lounge 4 p.m. -3 a.m 
+Man. Ihru Sal. 
+
+
+
+R 
+
+
+
+THE BEST TRUCK MONEY CAN RENT 
+
+15% 
+
+COLLEGE DISCOUNT 
+
+COUPON 
+
+Call: (219) 482-8481 or (219) 749-9587 
+
+FOR YOUR SPECIAL STUDENT RATE 
+ON ALL ONE WAY MOVES 
+
+
+
+wm 
+
+
+
+Driver of vehicle must be 1 8 years o* age 
+
+
+
+
+Be wise. 
+Bank on 
+campus with 
+the OWL. 
+
+
+
+I' you dashed lo class wilhout your cash, don'l wofry. 
+There s a Fort Wayne Naiional Bank OWL Machine 
+downstairs in Ihe Walb Memorial Union Building. 
+The OWL aulomalic teller lets you make withdrawals, 
+deposits or transfer tunds wilhoul leaving campus. 
+How s that for a class act? 
+
+Gp! wise today. Get an OWL Card from Fori Wayne 
+National Bank. Indiana Bank or Peoples Trust Bank. 
+And start banking on campus wilh the OWL 
+
+FORT WAYNE 
+
+NATIONAl BANK 
+
+
+
+(jlSj) JOB LOCATION SEHVICE 
+
+ACTIVITIES REPflESENTATIVE. 8 a.m--l p m or 9 a m.-2 p.m. 
+Mon.-Fri , S3 35/hr Greeting coordinating promotional aclivilles, track- 
+ing promolions, planning birlticfay parlies and lours. Musi Ce very per- 
+sonable and outgoing. Job Number 8-3-A-2 
+
+ELEVATOR -OPERATDfl. 6 p.in.-lO p.m. Tues, -Sat'.. 'Some weekends, 
+S3.35/fif Taking food up and down on an elevator, filling up lo 50 lbs. 
+Jot) Number: 8-4-0-6 
+
+HOSTESS. 24 hts /wk., pay negotiable Stiould liave some experience in 
+reslaurants Job Number B-4-f-? 
+
+TEACHERAIDE. 15-20tirs./wk., S3.35/fir Must like young ctiJldren Job 
+Wumber e-4-H-3 
+
+RETAIL SALES, Belween9am -6 pm., Mon.-Fri &amp; 11-5 Sun, £3. 35/hr, 
+Need felail sales experience and Irainlng in horticulture. Job Number: 
+8-4-R-6 
+
+ALUMNI PLACEMENT SERVICE 
+
+SALESPERSON. Degree not required Marketing or managemeni major. 
+Could move into managemeni position in 6 monlhs. 
+
+ASSISTANT BUYER- B S. in marketing or business managemeni. $14,000 
++ 10% bonus + protit-sftarmg 
+
+CUSTOMER SERVICE. B.S in business managemeni or supervision. Ar- 
+iislic talent or drallmg experience preferred. 914.000-S16.000. 
+
+TRAINEE-STEEL ROOM SUPERVISOR. B.S. in mechanical engineering. 
+Previous management ol employees, shop experience, or welding ex- 
+perience preferred 
+
+PLEASE COME TO THE OFFICES OF COUNSELING, TESTING. AND PLACE- 
+MENT SERVICES, WALB MEMORIAL UNION 113, IF VOU ARE IN- 
+TERESTED IN ANV OF THESE JOB OPENINGS 
+
+
+
+AIMelei. a speclsl s 
+ctHirte. will begin aL Ihe end 
+ol September. 
+
+For Inlormsllon and 
+nguInUon. call or slop by 
+.ademy ol the Fori 
+Wayne Ballfl 
+
+
+
+Tup tor chi 
+
+On the silver screen 
+
+SUBOG Mill show Ihe moiiej "Tbe Han Who FeU lo 
+EiUh." -The Tall Blond Mui wilh One Black aioe." and 
+"The Golden Voysge ol Smbad" on Thuradliy. Sep!. 8 and 
+Friday, Sepi 9 al 8 p m. and Sslunlay. Sept. 10 aL 3 p.m 
+respect i^-ely. 
+
+Treading the boards 
+
+Purdue- Indiana TTiealre will open lis Tinl production of 
+the season, ' 'Come Back lo the Five and Dime, Junmy Dean. 
+JimmvDcan"onSept Jo. 
+
+Exhibits of interest 
+
+Art classes lor young people wUl tMglo on SepL 10 al IP- 
+FW -nie clssjes are orfered Id tludenU in grades l-ll. For 
+more Inlormatiivi coclaci (he detiaruneni of Tine arts. 
+
+The rahibilentlUed ■'Five Inifiana Artists" will open at 
+Arlllnk Artspace on SepL : and continue Uirough the 2Sth. 
+
+Others of appeal 
+
+The Fori Woyue Dance CollecUve wiU sUrt fall classes on 
+Sepl B Siudmts arc required lo pre-reglster ty Saturday. 
+Set*. 3 by mall or in penon at the studio. 
+
+
+
+pcampus— 
+calendar 
+
+
+
+THUHSDAY 1 
+
+•Women's Volleyball, Ohio State Univ. at IPFW qym 
+
+7:30 p.m. 
+SATURDAY 3 
+Cross country. Grace College and Manchester College 
+
+at IPFW. 11 a.m. 
+Women's tennis at Valparaiso Univ. with Indiana 
+
+State and Evansville. 9:30 a.m 
+MONDAY 5 
+Labor Day 
+'denotes charxie 
+
+
+
+TUESDAY 6 
+
+Forensic league organizational meeting, Neff 282. 
+
+2:30 p.m. 
+Notre Dame at IPFW on new soccer field. 4 p.m. 
+
+WEDIMESDAY 7 
+
+•Computer Show at the Coliseum. rKX)n-9 p.m. 
+Clergy/Faculty forum, "Martin LulJier, A 500th 
+Annwer^ary Appraisal." The Rev. G. Fry, SU 
+Columbia Ftoom, noon 
+
+THUHSDAY B 
+
+'Comput;er Show at the Coliseum, noorvS p.m. 
+
+SUBOG Dnema. "The IVlan Vi/ho Fell to Earth," 
+^C^^uditonum^^^T^^^^^^^^^^^^^^^^ 
+
+
+
+PACE4 - THE COMMUNICATOR - SEPTEMBER 1. 
+
+
+
+sports 
+
+
+
+fa 
+
+
+
+Walb Union Basement I 
+
+Coupon 
+
+
+
+Home opener slated for runners 
+
+
+
+Pizza By The Slice 
+
+Reg. '1 .OD w/coupon 75* 
+
+Expires 9-31-83 
+
+
+
+
+
+
+ind Cra 
+
+
+
+sophomores. Tliesi 
+
+
+
+of tl 
+
+
+
+impflelniunm 
+Sepl. 1. ngalrul 
+
+
+
+t College 
+
+
+
+TTir meel wn* InllUIJy 
+icheduled lo Mart at 1 1 a m , 
+bul Mike Kail, [he new 
+IPFW croM-eounlry coach, 
+■aid "Ihe meel hai been 
+moved up lo 10 a m »o Ihe 
+
+
+
+College should .. , ^-- 
+
+onc," laid Kail "Mm- Jim Beam, a freshmiu. ..u... 
+cheiler hoi a good, strong Northrop High School, has 
+running team I'm not aware *on local road races lhl» 
+ho* eompellllve Grace'i jummcrand has placed high 
+lum i&gt;, bul Tm lure Ihcy In olhcr races Ken Swate*. 
+will have a compelUlve team alio Irom Deialur, i&gt; run- 
+■ -' rlhefinlltme.andhe 
+lot o[ polenllal. Phil 
+in IS anoUirr good 
+
+
+
+depending on whe 
+team compeles in 
+mod ora NCAA me. 
+
+
+
+of placing 
+The 1 
+
+
+
+Kail, aueuing IPFW's 
+ilrenglh* and weaknesKi, 
+uld "Mark Moore Irom 
+Columbia Clly and Tom 
+Hodman from Decalur are 
+both good runnert, and bolh 
+
+
+
+Kast laid one weaknex 
+I lack oC depth. "We di 
+lave eniiii|;h good ninni 
+
+
+
+Volleyball team opens season 
+against Ohio State tonight 
+
+
+
+HyGKonCEIIAVNCS 
+
+IPFWa women'! 
+volleyball iquad will pul 
+many long houfi ol practice 
+inlouwlanlghl In ill opening 
+malch Dgnlnil Ohio Slale 
+
+
+
+
+
+
+englh w 
+
+
+
+Saturday Kasi would like lo 
+have some more women try 
+oul for the team. "The 
+
+a cross-CDunlry leam should 
+have IS five," said Kasl 
+
+compelequileaijhardandas 
+
+
+
+le laek of NCAA 
+
+
+
+Runners in Salurday's 
+meet will lollow a course 
+from Ihe AlhlcUc Ccnier lo 
+
+
+
+ist towards Indiana 37 The 
+
+imc Irees in Ihe area and 
+&gt;lurn to Ihe Athletic Cenler 
+
+Fall golf 
+to begin 
+
+
+
+1 slarll 
+
+
+
+c Ccnli 
+
+
+
+II "a lot of 11 will depend Comingofl a 30-1J-3 leaion 
+
+how well our freshmen lasi year, IPFW faces an 
+
+^ feact. " Ohio Slale learn which may 
+
+L key lo Mailodon viclory be stronger Ihan last years 
+
+ly be In Us serving 1V14 record. Since Buckeye 
+
+englh and defense. Ball coachJim Sloneltbeglnrung 
+
+
+
+cdlhallh 
+
+
+
+g plaj-crs Ihis Buckeyes 
+
+
+
+_.uare his ! 
+
+iian Ihe Stale, he's had more I 
+
+smaller. recruit, drenglhen 
+
+our solldily the squad, E' 
+
+
+
+Men's, women's tennis teams 
+to begin season's schedule 
+
+
+
+IPFWt 
+
+begin Ihii 
+pel) lion u 
+
+
+
+I 3 The V 
+
+« away Sepl. 11 
+
+face SI Joseph's 
+
+
+
+Tftc lollowing day, Sepl. 7, 
+Ihe team will meet Findlay 
+College on their courts. 
+
+
+
+YOU'LL LEARN THINGS IN 
+
+O.CS.-mEY NEVER HEARD OF 
+
+IN ENGINEERING SCHOOL 
+
+
+
+Army Ofdior CjluJldiili.' 
+?cK&lt;».l IOCS Ill's nl4-WL&gt;,;k 
+chnllini'f 10 your mental nnd phys- 
+
+,C;,I|,.1,b1„k.» 
+
+h isri I easy. Bui you II L-nm 
+whin's dcfp tiiskk- ynu. Thill 
+y&gt;iuhnvL-whmiimki;sYoullcome 
+uui iiRmt!, sure in yniir ability lo 
+If.iJ, :iiid in jCTiMt shnptv You'll bi- 
+i\ ciimmissioiK.'d ottia-r m ihi; 
+Army, n-ady lo exorcist; L-adcrship 
+skills civilinn comp.nnics pui .1 
+
+c about iot&gt;i?i vour 
+
+
+
+Ifycn 
+
+
+
+
+dfLTLV ill cnginwnnK, tht; O.CS. challi;ni;e could be just what 
+jix'kinH 
+
+
+
+Call: CPT Michael LIneberger 
+219-485-5452 
+
+ARMY. 
+BEAUYOUCANBE. 
+
+
+
+TI Professional 
+Computer and 
+
+Lotus.. [W 
+
+
+
+I-2-3. Ihe powEiful and easy- 
+
+■use sottwafe package Horn 
+Lotus. IS now available lor Ihe 
+Texas Inst lumen Is Piolessional 
+Compuiei 1-2-3 delivers elec- 
+z spieadsheeis, giaphits, 
+processing and inlormalion 
+mafiagemeni-ail in one m- , 
+
+tegraled package i-2 3 gives you Ihe" 
+convenience ol advanceO pieprogtani' 
+med lunclions lor data. Iinancial, slatishcal 
+anO malhemahcai applications With ihe Tl PiO' 
+'essionaf Computers programmaoie lunclion 
+keys, you can create and store l-?-3 
+
+functions loi msiani use Vtsn our Com- 
+pute' Center and let us demon si rale the 
+advanlages ol Ihe Texas Instruments 
+Pfolessional Computer and Lotus 1-2-3 
+Togetflet ihey fnake youi woik as easy 
+
+
+
+
+as 1-J-3 
+
+
+
+COfflPUTW sviTtini 
+
+
+
+easy as 
+1-2-3. 
+
+
+
+" LJelecthqnicsi™ 
+
+
+
+COIWPUTEH CENTER 
+(219) 423-3422 
+
+
+
+A SUBSIDIARY F UBelllnduslries 
+
+3433 E. WASHINGTON BLVD. • FORT WAYNE, INDIANA 45B01 ■ 
+
+
+
+playing for the leam 
+should contact coach Karl 
+I Kfiltlcr 
+
+
+
+INTERN WANTED 
+
+A paid internship in news writing and publications is 
+available this semester in the IPFW Office of University 
+Relations. You can earn 3 credits for working 9 hours 
+weekly, scheduled flexibly. Under professional supervi- 
+sion, you will gain experience in writing news releases 
+and feature articles, producing brochures, taking and 
+editing photographs, and working with printers. 
+
+Prerequisites include: a grade of B or better in one or 
+more of these classes (or their equivalents): W 131, J 
+200. Jill, COM 144; staff experience of at least one 
+academic year on The Communicator, high school 
+publications, or professional/business publicatfons. 
+
+Information and applications are available in Kcttler 
+111. Deadline for applying is Tuesday. September 6. 
+
+
+
+
+
+
+
+""5.00 
+
+
+
+FALL '83 SERIES 
+BEGINS SEPTEMBER 8 
+
+CINEMA 
+
+
+
+IPFW ACTIVITY CARD HOLDERS - FREE 
+GENERAL PUBLIC '2.00 
+
+ALL FILMS WILL BE SHOWN IN THE CLASSROOM-MEDICAL BLDG. AUDITORIUM 
+
+
+
+
+
+
+for you 
+from SUBOG 
+
+
+
+</pre>        </div>
+      </div>
+    

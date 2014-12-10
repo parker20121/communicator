@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i12indi/communicatorv7i12indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i12indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i12indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATOR 
+
+
+
+RE6EIV! 
+
+
+
+NOV 13 1975 
+
+
+
+VOLUME VII, Issue 1 
+
+
+
+Indiana University-Purdue Unr 
+
+
+
+THIS 
+WEEK 
+
+
+
+
+Winning 
+
+
+
+The first of two winning BVD 
+speeches (Bicentennial Youth 
+Debates) from IPFW is present- 
+ed on page 2. Dave Nichols, a 
+history major at IPFW, presents 
+his award winning entry this 
+week. Next week Bryon Braun's 
+speech will be presented. 
+
+
+
+Teaching 
+
+
+
+B y in-line com puter &lt;?yrgtem 
+
+
+
+Faster registration in 77 
+
+
+
+» Kathy 
+
+
+
+Managing editor - ni 
+Franson talked with a recruiter 
+from the Peoples College of Law 
+on campus this week. She tells of 
+the unique teaching and admini- 
+strative structure of the school 
+on page 4. 
+
+
+
+Playing 
+
+
+
+John Carbery. and exchange prof 
+from England teaching at IPFW, 
+talks of his first PIT production 
+"The Ruling Class" with Susan 
+Morrison on page 5. 
+
+
+
+Singing 
+
+
+
+A singing clown, Coc'kian, imper- 
+sonated a third century Christian 
+leader at St. Francis this week. 
+Sue Morrison was on the scene, 
+and reports on the strengths and 
+weaknesses of "Philemon" on 
+
+
+
+Coming 
+
+
+
+The king of sports in Indiana, 
+basketball, is now becoming the 
+"queen" sport at IPFW. The 
+college is fielding a long awaited 
+
+
+
+year for the first ti 
+
+Editor Barry Blackburn talks 
+
+. Art Johnson, 
+page 6. 
+
+
+
+
+Life, Armstrong to 
+view public interest 
+
+
+
+e-Indiana Theatre's Larry 
+
+
+
+they have witnessed 
+
+
+
+:titudes since the Sixti 
+The third guest to jt 
+night in the Art School 
+
+
+
+i portable c 
+
+
+
+discuss ci 
+
+with the emphasis on eve 
+decade and the effect of t 
+today's social and political 
+
+
+
+,nd Now." They plan to 
+
+ipation in government 
+
+the last 
+
+
+
+Slips b v Hillsdale 5-4 
+
+Hockey team wins at home 
+
+
+
+, Friday, November 
+
+
+
+mpleted a long run at PIT and Life hopes 
+oosing "HAIR" as his bicentennial play. 
+
+
+
+rich and go into the g 
+
+
+
+and day" to complete. 
+
+It was designed and built by v 
+Rick DeBolt and Bill Hakley, both I 
+
+
+
+■Statistics on Page C. 
+
+
+
+Art in politics is oi 
+and one that will 
+another TFI session scheduled for later this 
+
+Former Snider Athletic Director Bob 
+Armstrong, will explain why he chose to set 
+aside a good position with Fort Wayne 
+Community Schools-a position that was not 
+
+ng gambled and 
+
+istrong will talk 
+
+plans for the city and its 
+
+,ife and Armstrong have spent 
+
+
+
+e topics portable s 
+
+
+
+expand programs for 
+
+
+
+two men short, as Greg Miliums was als&gt; 
+visitng the penalty box. Hillsdale w.inied d 
+maximize this scoring opportunity, am 
+pulled goaltender Charles Blessed in fi 
+
+
+
+IPFW had its heros also. Luke Flelter, 
+the "blond perpetual motion machine, " 
+scored three goals [&lt;&gt; register the l&gt;eg inning 
+ni the Mastodons tally. 
+
+Newcomer Jeff Happel's goal in the 
+second period also helped the Mas ties lake a 
+4-3 lead to the locker rooms. 
+
+JohnQuinnof Hillsdale tii 
+
+
+
+r '.'.innini' k.iiiif' ,j|;.iins[ Uilkd.il&gt; ],i.-,i 
+lay was well played and we hail j&gt;im'J 
+ii-niMifiiipiir.V ini.Tcsl .mil IjjL'kiny in mir 
+
+added he anticipated a good 
+
+
+
+
+
+
+SUB to sponsor 
+Penny Carnival 
+
+
+
+
+OPINION 
+
+
+
+America's frontiers still open 
+
+
+
+Student eyes needed 
+
+
+
+e progress soothing prayer at the 01 
+
+
+
+In view of some recent fires on campus that were unmistakably caused by 
+
+arson.il would seem Dial n is almost becoming a national paslimr 
+becoming popular in Northern Indiana. 
+
+Arson I- rmi .. 4 ,inK', bul il is mon- likely :in infectious disease ■ one that ha, 
+cost 11-. some nil he' most beautiful histnmal silos of the cily In met, in the cas,eof 
+the recen! fire at the Sheraton Hotel, arson was surpassed Hnd the act became 
+murder. 
+
+Nowthcidoa has spread lothiscampus In Ihepasi lew weole. Ihei c hove been 
+several attempts of arson at IPFW, including two in the library this week 
+
+As it stands now, out of the $21 paid for each credit hour, eighl dollars goes 
+toward payng off Ihe building dehls The library is I ' 
+
+
+
+Ider three well-spaced frontiers in 
+
+_n hislorv-the westward mnvcincnt, 
+
+least it's industrialization, and the span- program. 
+
+
+
+1 and cost 
+appro ximatefv four million dollars - it is obvious that it's certainly going to be 
+
+a while before i he debt is retired -and it is ty— ■' '■■ 
+
+if a is damaged or destroyed, 
+
+
+
+made it; Other- faili-d. still ol tiers slopped 
+short and made big money taking their 
+IMIuw pioneers (or sorely nreoY-d supplies 
+Which group could be pointed to as saying 
+
+Imlnslriah/alinn was brought about bv 
+fur the masses, yet other industrial plor 
+
+
+
+II surely deal « 
+■r splitting v 
+
+
+
+
+
+
+nly going to be farther out of reach 
+
+
+
+sidered are the implications of a fire in the middle of the day 
+
+when the building arc occupied by many people. 
+
+With the number of students circulating around tins campus, it seems 
+unbelievable Ih.U an arson anil.) gel away with such actions under so many eyes 
+and in such close quarters. The only solution is for students and faculty to 
+cooperate tnllv with campus security and pay more attention lo what is i-'omn mi 
+around I hem An issue such as this affects everyone, and in the case of destruction, 
+it will hurt everyone. 
+
+
+
+people when il involvf 
+
+
+
+England almn 
+
+anything about 
+
+time, it does speak well for those directly 
+
+involved. And what they did can surely be a 
+
+revolutionary conflict. Whal do we do now? 
+
+
+
+■ n-mliiiiiinary period in / 
+
+
+
+were many conflicting ideologies runninf 
+through the colonies ranging from Radical 
+Whig philosophy to Tory conserva 
+
+
+
+lively considered this 
+he delegates 
+
+
+
+■nging, i 
+
+■ms that people have a deep-rooted 
+rt to have high 
+
+oi politicians and 
+
+founders knew 
+
+if power w 
+
+
+
+r dcalim's 
+
+
+
+o another; and consider 
+
+:tive process, not heredity. Quite 
+one considers the record of U 
+II of examples to the contrary. 
+e delegates 
+
+
+
+
+from iyrranical ones. What the delegate; 
+produced- the constitution-was a tribute ti 
+the art of politics, the art of the possible. 
+
+What I've spoken abou t- the post wa; 
+
+
+
+e all important but perhaps you 
+where all this fits In with today. 
+, as I noted earlier, we're getting 
+celebrate our national bi-centennial 
+r and I think we need to go about it 
+
+
+
+a national celebration lo focus 
+
+
+
+until we've looked backward t&lt; 
+
+assess the real importance of what 
+
+happened in this country during the 
+
+revolutionary period of our national history. 
+
+
+
+not look at then 
+
+something as illu 
+
+
+
+
+
+
+Pregnant? 
+
+Call Rusty 313-227-6311 
+
+SCOTSDALE 
+
+
+
+-People who care 
+
+
+
+GALS&amp;GUYS 
+
+
+
+
+THE JEANS OF 
+TOMORROW TODAY 
+
+
+
+JEANS 
+FLARES-BIG BELLS 
+
+PRE-WASH 
+$8.99 TO $11.99 
+
+
+
+Special Purchase 
+JEAN JACKETS 
+
+U.S. Made - 100% tcotton 
+$20 value Now 
+
+$9.99 
+
+FAMOUS BRANDS AT LOWER PRICES 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 Coldwater Road 
+
+Across from Ayr-Way North 
+
+Next to the new Sambo's 
+
+Open evenings till 9; Sundays 12-5 
+
+
+
+RESEARCH PAPERS 
+
+
+
+Of People's Colle g e of Law 
+
+'People's lawyers' is goal 
+
+
+
+
+••••••••••••••••••••••••••••• 
+
+I STAR PROMOTIONS Presents: * 
+
+One of the Hottest Groups 
+
+
+
+1 the Country 
+
+
+
+
+K.C. and the SUNSHINE BAND 
+
+
+
+Featuring Their Hit Single: 
+
+"GET DOWN TONIGHT" 
+
+And "That's the Way (I Like It)' 
+
+
+
+SPECIAL GUEST 
+
+Curtom Recording Artist 
+
+LEROY HUTSON 
+
+
+
+
+WED., NOVEMBER 19 
+
+EMBASSY THEATRE 
+
+Limited Seating— 2700 
+
+Tickets on Sale at: 
+
+• Louie D's 
+•Slatewood Records 
+•My Brother's Discount 
+•Pants Potlatch 
+
+•Montgomery Ward's Southtown-4 
+
+Record Dept. y^ 
+
+* 
+
+* •••••••••••••••••••••••••••■^' 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE'S FINEST PIZZA 
+GRIHOERS 
+BROASTED CHICKEN 
+SAUSAGE RoLLs 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+Scholarships awarded 
+
+
+
+Advance: 
+
+$5.50 
+
+
+
+At the door: 
+
+$6.50 
+
+
+
+Don't Be Your 
+Own Worst 
+Enemy! 
+
+
+
+
+potential." — Charles J Kern, 
+President, Wyelh i 
+Published by AMACOM a d\\ 
+lerican Management Associa 
+
+
+
+folletts 
+bookstore 
+
+GROUND FLOOR KETTLER HALL 
+
+
+
+TEEN CLUB 
+
+
+
+&lt;e All Nude Dancing 
+* Pool Tables-Pinball 
+¥ Soft Drinks-Sandwiches 
+
+Open 7pm -3am 
+
+Mem . thru Sat. 
+
+Broadway at Taylor 
+
+
+
+'Be Who You Are' 
+weekend planned 
+
+
+
+Although "Cursillo" luerally 
+eans small Christian commun- 
+
+
+
+Costfor two nights and fiv&lt; 
+eals is $29. Interested student: 
+ay call Kathy Lauer, -156-3913 
+
+
+
+TO 
+
+U a.m. tcCIu siiic 
+
+
+
+
+SI 
+SPECIAL 
+
+
+
+DINING ROONi OR CARRY OUT 
+N0RTH-3410N.ANrH0NY-484-4184 
+SOUTH-4339 S. ANIKONY-744-4334 
+ONHiAL-3929S.lAFSYEn[-744-6135 3 
+
+
+
+FOCUS ON FINE ARTS 
+
+
+
+Exchange prof to direct The Ruling Class' 
+
+
+
+ien they think bad n 
+
+
+
+.:,ni prol'-ss.ir of thealre. Carbery in England, in America .mil n 
+
+will din-Li his first production for doubt in other counino rurouul- 
+
+PIT Thealre, "The Ruling out the world. We have had ou 
+
+Class," a play by English scandals in the upper classes i 
+
+playwright Peter Barnes, open- England; there have been sevei 
+
+
+
+&lt;n he would find at PIT 
+
+,e University and from 
+Kenworihv, managing 
+r of PIT the situaiion 
+
+ieall with in England, he 
+
+
+
+We don't have the quick turnover draw," he stated ' 
+
+in productions that PIT has here, a change for me 
+
+Not that one way is necessarily jdjuscncni which 
+
+different plan of attack altogeth- PIT'S produc 
+
+
+
+e makes a difference t&lt; 
+
+
+
+comedy-"baroque i 
+ed and glittering,' 
+
+
+
+paranoid schizophre 
+play deals with h 
+attempts to obtain a 
+the title and thefoi 
+
+family attempts to effe&lt; 
+
+Iy, the Hth Earl 
+t from his illness 
+
+e thai he 
+
+
+
+in try, perhaps Chappaquid 
+
+
+
+e heir for tragedii 
+
+
+
+, their scandals, t 
+s would have in 
+
+
+
+t plays are el 
+
+
+
+IN REVIEW 
+
+
+
+ohad 
+n Chicago. 
+
+,..&gt;!■. 
+
+h playwright. His n 
+iuction has already b 
+
+scheduled; he will direct Eugene 
+
+
+
+production of the children's playl 
+
+annual Family Thealre Festival. 
+Plans are also in the works for a 
+special production during PIT's 
+summer season, but nothing has 
+
+
+
+NEW LOCATION 8 
+
+MAPLE WOOD PLAZA 
+
+
+
+FEATURING 
+
+THE IN LOOK 
+
+FOR 
+
+MEN'S CLOTHING 
+
+
+
+
+(.■ W.Ull.'ll. I 
+
+Jrilishpl . 
+
+1' production h;i- iliv.n.K l&gt; 
+
+
+
+opening all aspects o 
+
+
+
+rill [] 
+
+
+
+opens November 21 
+
+
+
+CANDLE 
+CELLAR 
+
+
+
+HAND MADE JEWELRY 
+MACRAME HANGERS &amp; 
+
+I'NUJl'K SCENTED 
+
+
+
+485-2031 
+
+
+
+Actually, 
+
+
+
+St. Francis' 'Philemon' first-rate 
+
+
+
+Notre Dame to host 
+Midwest Blues Festival 
+
+
+
+Sin began in Eden.. 
+Sex was perfected in Sicily. 
+
+
+
+Adults- $1.50: children- $1.00 
+
+
+
+
+Thanksgiving Special 
+
+
+
+Sliced Breast of Turkey 
+
+Celery Dressing 
+
+Whipped Potatoes Turkey Gravy 
+
+Buttered Peas 
+
+! Lunch Roll &amp; Butter Cranberry Sauce 
+
+Coffee or Tea 
+
+
+
+Women's basketball 
+ins first season 
+
+
+
+
+We predict you will be happy with 
+our products and services. 
+
+
+
+• 
+
+
+CORT WAYNE 
+
+ELECTRONICS 
+
+
+• 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+BIG BREAK 
+FOR YOUNG 
+MARRIEDS 
+ON AUTO 
+INSURANCE 
+
+
+
+Got a friend 
+interested 
+
+in a 
+Free Lunch? 
+
+It's only minutes away. 
+
+
+
+Monday thru Friday 11 
+a.m. to 2 p.m. when you en- 
+joy a Noble Roman's 99C 
+Luncheon Special present 
+this coupon and we'll treat 
+your guest to the same 
+lunch FREE. And look at 
+what you get. Monday, 
+soup and sandwich. Tues- 
+day, two large pieces of 
+
+Don't forget money saving 
+Family Night specials, too! 
+
+Every Tuesday is family night at Noble 
+Roman's Save a lull dollar on the price 
+oi our famous large, deep-dish Sicilian 
+
+
+
+Sicilian pizza. Thursday, 
+spaghetti and meatballs. 
+Friday, four pieces of deep- 
+dish Sicilian pizza. Drink 
+extra. So take that lunch 
+break where you save both 
+time and money. Noble Ro- 
+man's near Georgetown 
+Square. /CtTi&amp;N 
+
+
+
+r Moble c I(pinaiVs 
+
+"Likf in ll.li.n V.uli,m for .our mouth!"' 
+
+
+
+63 55 59 69 69 53 09 «33 IP HfJ 13 *V» 
+coc a co co co co co cSca co co co 
+
+
+
+One 
+
+Free Lunch 
+
+at 
+
+Noble Roman's 
+
+
+
+te3S2SSSBS38S838S8B8BSSSS 
+
+
+
+
+Grange Mutual Auto i: 
+They get the same low rates 
+ffers to adults age 25 
+
+
+
+ire low rates plus fast 
+
+JIM BELT 
+INSURANCE AGENCY 
+
+6914 BRADFORD DRIVE 
+FT. WA YNE, INDIANA 
+
+CALL 435-2226 
+
+
+
+sketball exhibition h.is 
+et for this Sunday at the 
+:i\ Coliseum Tip off time 
+
+
+demanding than ever, including 
+the TV contrived opener in St. 
+Louis with defending NCAA 
+
+
+game is for the benefit of 
+r Fort_ Wayne. 
+
+
+the biggies are there: runner-up 
+
+Hall, the second annual Indiana 
+Classic over the holidays and the 
+Hoosiers' first venture in the 
+Madison Square Garden Holiday 
+
+
+Four of the starters are 
+nd three of them-6-7 
+erican forward Scott May, 
+d Quinn Buckner and 6-11 
+
+
+Hillsdale vs. 
+
+
+so^ f0 woul'd 6 have a be d en Bi if 
+
+
+IPFW stats 
+
+
+^IndTana'ream'aTMr-Bfg 
+
+
+
+
+
+THE 
+CLASSIFIEDS 
+
+
+
+GRAND OPENING 
+NOW 2 McJONS 
+
+
+
+LOOK 
+
+
+
+AT THESE 
+
+GREAT VALUES 
+
+
+
+Special Purchase Sale on lei 
+
+
+
+SPECIALS 
+
+#TRIPODS 16.88-23.88 
+
+•X-GADGETBAGS 9.88 
+
+■X-ACCESSORI ES 10 % OFF 
+
+■X-HOW TO BOOKS 15 % OFF 
+
+
+
+
+REGISTER FOR FREE 
+MINOLTA SRT 202. 
+ONE TO BE GIVEN AWAY 
+AT EACH STORE. 
+
+
+
+
+*••••*••••••••••••*•}. 
+
+
+
+Ah, yesss 
+
+
+
+
+* 
+
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+3420 N. WELLS ^GEORGETOWN M* 
+
+
+
+&gt;M\\Y ASSORTED 
+\ LENS GREATLY 
+REDUCED FOR THIS SALE 
+
+
+
+*GOOD USED CARS!* 
+
+
+
+Save money on our cars. We 
+have the best car prices on all 
+models. 
+
+
+
+$295.00-$1995.00 
+
+TUDOR 
+MOTOR SALES 
+
+seo 3030 WAYNE TRACE 
+
+
+
+»*••••••■**•••••••••*. 
+
+
+
+</pre>        </div>
+      </div>
+    

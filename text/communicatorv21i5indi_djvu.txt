@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i5indi/communicatorv21i5indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i5indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i5indi">The Communicator</a>"
+          </h1>
+          <pre>
+War on drugs 
+
+Enemy knocks at the door/Page 2 
+
+
+
+'Extremities' premieres 
+
+PIT examines violence /Page 3 
+
+
+
+Volleyball 
+
+Lady 'Dons to host GLVC cluster match/Page 5 
+
+
+
+The Communicator 
+
+
+
+VOL. XXI, ISSUE 5 
+
+
+
+Indiana University-Purdue University at Fort Wayn 
+
+
+
+•m-,. her 28, 1989 
+
+
+
+Quote of the week 
+
+
+
+are really happy a lot of people 
+1 up, and it usually doesn't happen like 
+t SAB events. We see the students 
+
+
+
+in other special e 
+
+
+
+Haider 
+president 
+—Page 1 
+
+
+
+'1964: As the Beatles' 
+
+Group impersonates 'Fab Four' 
+
+
+
+/ NDCA \ 
+INFOGRAPHS-i 
+
+
+
+Chinese acrobats to perform 
+
+The Chinese Golden Dragon Acrobats and Magicians of Taipei wil 
+perform this Tuesday evening at 8 p.m. in the Athletic Center. Ticket 
+for the performance are $5 general admission, $3 for IPFW students 
+
+Walb Memorial Union Sweet Shoppe. For more information call 48] 
+6609. The event is sponsored by Student Activities Board. 
+
+Physiologist to give talk 
+
+
+
+.11 ("iinlinloc;. !:k . in Indun^pol!;.. -'.'U! pr^.'nl ,i 
+"th and Running." Wareham has com- 
+under three hours, and has competed 
+-red by the Fort Wayne Track Club and 
+
+
+
+Handicap awareness promoted 
+
+
+
+
+
+
+t Wayne Neurology Center \ 
+
+
+
+Guest speaker to lecture 
+
+be the guest speaker at the next Data Processing Manaf 
+Association student chapter meeting. The meeting will take pis 
+p.m. in Room G46 of Kettler Hall on Sunday. Ritchie will speak 
+compute! dusters at IPFW The meeting is open to all 
+
+Channel 23 airs volleyball 
+
+
+
+23 on Friday at 
+
+'Dons will face 
+of Southern Ind 
+program. For a 
+
+
+
+Isiorho to discuss Africa 
+
+
+
+Jewish holy days approach 
+
+
+
+SAB to sponsor dance 
+
+K Jl. 'i ! ru ^1 U-mii &gt; [i,:cepii..,ii 111 A livi* Irar.ri I 
+
+SAB is also sponsoring the 1989 Fall Film Series, which con- 
+
+
+
+
+Rashid promoted to engineering chair 
+
+
+
+
+
+
+Alliance will sponsor is 
+public service booth **: 
+
+
+
+
+
+
+l, energy-etfieient goals as chair ol the engineering (I 
+
+
+
+IPFW technology given 
+accreditation extension 
+
+
+
+By JEFF BBUNSON 
+
+
+
+mands that everyday 1 
+
+
+
+
+
+
+ere are currently millions oi ihol p,,wi,-bv may have about engineering technology, civil engi- h 
+
+in the United States that sutler mint I I f . l I I U I ' j ( &gt;■ ^ ( 
+
+rTare IO morT|Lp™wi\h'S sSpte^md depSoT """ '* ^X^J^Zti^S^ p^n^lor't'wayneTan'l 
+
+I'olher'uiS'" 8 h ° SP " i " b&lt;i '' S AluLeTortheMentelly "", write'w S-"Ef2iEftHgin«rTng anOrofesJor^'lhe IPFw"* 
+
+
+
+Opinion 
+
+
+
+U.S. government needs 
+to combat drug problem 
+
+
+
+Fort Wayne 
+
+* the major drug trafficking 
+
+l _- :.:::..:. ""-ugn 
+
+Presiden 
+
+drugs," drug trafficking 
+
+
+
+Midwest 
+;h p 
+
+and drug-related c 
+
+
+
+• country 
+
+- Hi 
+
+
+
+Why can't the United stales 
+control the flow of drugs into the 
+country? 
+
+Drug growers outside 
+are not regulated bv 
+governments, so they ca 
+their goods to the U 
+much difficulty. It is im. 
+the U.S. to regulate the drug trade 
+within other countries without vio- 
+lating international law. 
+
+Also, drugs are a major cash 
+crop for many South American 
+countries. If the production of 
+drugs by peasant growers would be 
+cut, governments fear this would 
+throw the growers into economic 
+disarray and push them into the 
+hands of anti-government forces. 
+
+The American government h. isn't 
+
+
+
+have been suggosird 
+plemented, but this is now 
+the type of punishment 
+deter drug traffickers. 
+
+
+
+Not enough govej nmenl hinds 
+are being used for the drug war It 
+
+targeted for defense would he u-rd 
+
+lor the war on drills, peril, i|is there 
+would on! he so nii.ieh I r;d I irking in 
+this country. If the war on drugs is 
+truly a war, then money from de- 
+fense spending would he rightly 
+used for deterrence of illegal ilmr, 
+transport. 
+
+Even if resources were made 
+available to prevent drug trade. 
+there is no guarantee that the 
+money would reach the (oderal 
+agencies on the front line of the 
+drug war, such ;.is the Drug Kn- 
+torrement Agent\ The infighting 
+within dilfemil government agen- 
+
+hampers 
+
+
+
+; the proper disburs 
+for fighting the drug 
+
+
+
+disbursement 
+
+
+
+theoretically rectified . but ■ 
+
+
+
+not altered. The 
+college generation will soon lead 
+our country, hnl d its n I is poi- 
+soned bv the drugs and the crime 
+
+with drug trnHirkin,', the 
+
+
+
+Stales social 
+The enemy is no lon| 
+
+
+
+-i Lm.»l-|: mr. 
+he lias ;il- 
+
+
+
+Hispanics should take 
+pride in their heritage 
+
+
+
+
+ifcHS^ter tt-mffl.-'EtodB&amp;vf! 
+
+
+
+Hispanic Heritage Month is upon 
+
+Legislation establishing Sept. 15 
+1 Oct. 15 for national His- 
+panic recognition was passed I 
+
+year. An expanded, 
+
+celebration allows for I 
+
+
+
+To the Editor 
+
+Another side represented in bookstore issue 
+
+
+
+ganized 
+
+panic culture and its contributions 
+Hispanics have much 
+1 Their food, music, an, 
+i incorporated 
+mainstream Amtrica. 
+
+But more importantly, 
+month long recognif 
+opportuniiy to focus attent 
+
+
+
+
+Student apathy 
+
+Involvement needed for future IPFW growth 
+
+ie 
+
+Ubtrute 
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+
+2^ ffj&gt;^ J22ft/ 
+
+
+
+£y££?H L z "j= ffi*M Archives preserves campus memories 
+
+"— : I By APRIL RIDGEWAYY 
+
+{ /j campus!" beamed 1 
+
+p. V" Hunserger, IPFW ai 
+
+&gt;y%_&gt;^ V ,-^r. and doMtirui of this 
+
+MlP ' ~Sf S P ecial 25th ann » 
+
+
+
+
+important thing 
+
+
+
+T^ 
+
+
+
+
+
+
+&lt; w.rJ"", ,.,_-&lt; U&lt;- 
+
+
+p 
+
+
+
+
+
+
+,* *, - fc r.^ w - 
+
+
+r 
+
+
+A^-d*3BF~§ 
+
+
+
+
+Jx^ 
+
+
+E 
+
+
+
+
+kl 1\ r £ 
+
+
+// 
+
+
+
+Hunsberger had I 
+
+
+
+
+Problem Corner 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+is colored either red or 
+
+
+■oluhons will In- published 
+Pn?is will Ik- awarded to 
+itu- uiH].-i,;i-,iduale solvers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28S or 283, Kcttler Hall. 
+
+
+
+
+
+
+
+
+also available there. 
+
+
+Gregg Chrislens..-n :m&lt;t 
+
+
+t ^ m8,h dePar ' menl 
+
+
+Kathleen Ryan 
+
+
+
+h ico timbers! 
+
+on fa {**$i°n shouts... 
+in cotnpMtfoli .- 0{ ) 
+s p*-h 4ovs... «par+ 
+
+of flea/s shorts,., in 
+femscnntrs, ..everywhere, 
+
+f 1 
+
+
+
+uic shouU Jo qbouf- 
+
+
+
+ilk! 
+
+
+
+/! »wy/ /f you 
+fttl 100 «&lt;"")«* « 
+ql»W wH 
+
+
+
+,L 
+
+
+
+
+. BOO 861 0222 
+
+
+
+\=!ETTErT LETTER 
+
+
+
+747-0072 
+7 DAYS A WEEK 
+RESUMES W PROFESSIONALLY DONE-ACCURA 
+
+
+
+FASTSlRVICtl 
+
+
+
+T|MP 
+
+
+
+
+
+W/w Friend (ell, 
+
+teas B 
+
+
+COMMONS,^ 
+Pi Alphas!! \£ 
+
+We be you! 
+
+Jane Aftmeyer Karen Kortenber 
+Eiizabeth Bernard S/ie//y Landis 
+Laura Betten Monica Moon 
+Deanna Fischer Anita Mueller 
+Michelle Gratz Jean Siela 
+Amy Harrison Jody Smith 
+Janet Hershberger Jennifer Vetter 
+Amy Hungate 
+
+
+
+The Communicator 
+is now accepting 
+applications for: 
+
+
+
+WRITERS 
+
+Needed for 
+features, news, 
+and sports. 
+Writing experi- 
+ence helpful but 
+not necessary. 
+Flexible hours, 
+work around 
+your class and 
+work schedule. 
+
+
+
+campus activities 
+such as sporting 
+events and SAB 
+sponsored pro- 
+grams. Must 
+have own 35mm 
+camera. Flexible 
+hours, work 
+around your 
+class and work 
+schedule. 
+
+
+
+CARTOONISTS 
+
+Produce your 
+own weekly 
+cartoon. Some 
+art experience 
+helpful but not 
+necessary. 
+
+
+
+Apply in person 
+
+at Walb 215 
+or call 481-6584 
+
+
+
+Campus 
+
+Calendar 
+
+
+
+
+• Interviewing workshop, Walb 
+224, 3 and 6 p.m. 
+
+• Career assessment - adminis- 
+tration, Walb 113, 5:30 p.m. 
+
+• SAB Party, Ceruti's, 9 p.m., 
+
+
+
+• SAB faU film series: 
+"Physical Evidence," CM 159, 
+" d7:30p.n 
+
+
+
+by Neutral Zone and Hott Luv. 
+
+
+
+' Women's volleyball tourna- 
+ment: Lewis University vs 
+IPFW, 7:30 p.m. 
+
+' Purdue Indiana Theatre, "The 
+
+
+
+» Cash Flow," KT 108 A 
+and B, 6 p.m. 
+
+• Continuing Education: "In- 
+troductlon to Apple Maci- 
+ntosh," NF 279, 6:30 p.m. 
+
+* 25th Anniversary Lecture: 
+IPFW Professor James Far- 
+low, "On The Trail of Din- 
+osaurs," NF 101, 7 p.m. 
+
+
+
+vs Lewis, noon; IPFW vs U of 
+Southern Indiana, 2 p.m. 
+• Purdue Indiana Theatre, "The 
+American Clock," 8 p.m., box 
+office: 6555 
+
+
+
+MONDAY 2 
+
+• SAB Mid-da 
+Time," Walb Green Room, 
+
+
+
+• PC Write Introduction, KT 
+217,2 p.m. 
+
+TUESDAY 3 
+
+
+
+• Career a 
+tration, Walb 224, 5:30 p.m. 
+
+• Continuing Education: "Word 
+Processing on Macintosh," 
+NF 279, 6:30 p.m. 
+
+• Purdue Indiana Theatre, 
+"Extremities," 8 p.m., box 
+office: 6555. 
+
+
+
+, KT 217, 5 
+p.m. 
+• SAB Special Event: "The 
+Chinese Golden Dragon Ac- 
+robats and It' 
+
+
+
+SATURDAY 7 
+
+• Saturday Academies, FAST 
+Program, 8:30 a.m., campus 
+
+• Continuing Education: "How 
+to Find/Buy the Right Busi- 
+ness," Multi-purpose Building 
+
+
+
+Features 
+
+
+
+Season opener 
+
+PIT explores brutal confrontation 
+
+
+
+sz^ 
+
+
+
+plays Paul, 
+
+
+
+W- 
+
+
+tajI 
+
+
+
+
+K m 
+
+
+
+
+*T /rim 
+
+
+
+lining 'the two decidedly "I wonted lo create 
+
+
+Gelsung, and Tciry playi &lt; 
+Playgoers are cautioned 
+
+
+^iUm-IIHH!* W ° RD ""OCESSINGN^ , , . 
+
+
+1 TERM PRPERS STUDENT &amp; FBCU 
+"Presumes St-BDrseKVttB 
+PROFESSIONALLY DONE 
+
+
+LTY DISCOUNT 
+
+
+todays /week 
+
+
+
+
+i CREATIVE HAIR CO. 
+
+! IN THE MARKET PLACE OF CANTERBURY 
+
+I October Specials: 
+
+;uts $8 
+
+.$10) 
+■ • Perms $34 
+I (reg. $37) 
+I Spirals $45- $50 
+
+I 
+
+
+
+Looking for a fra- 
+ternity, sorority or 
+stndent organiza 
+
+
+
+Radner's book celebrates life 
+
+
+
+
+B.M.O.C* 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the kind of friend a 
+college student needs- He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like a good deal to you, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fori Wayne National 
+Bank. Where helping out our friends is just 
+
+
+
+FOHTWAYNE 
+NATIONAL 
+
+tints my BANK 
+
+
+
+AT A JOB INTERVTEW, YOU GET 
+ABOUT 20 MINUTES TO COMMUNICATE 
+THAT YOU'RE WELL-EDUCATED, BRIGHT 
+HONEST AFFABLE, MATURE, DISCERNING, 
+
+AND EAGER TO GET STARTED. 
+
+
+
+
+FORTUNATELY, YOU CAN SAY MOST OF IT 
+BEFORE YOU EVEN OPEN YOUR MOUTH. 
+
+Reel wootU Ross 
+
+Only our service is old-fashioned 
+
+Glenbrook Squaie • Ft. Wayne, IN 46805 • 219/482-2209 
+
+
+
+r The Communicator. 
+
+talented people seeking outlet for their 
+
+-ome to Walb Room 215 today &amp; team 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+light typing, i 
+2-0-3 
+
+
+
+mandatory. S7.00-S8.00/hr. 
+
+
+
+INTERIOR DESIGNER; 
+
+
+
+SECURITY: Full-I 
+
+l' s p or-,l a = m m 
+
+
+
+ARE YOU AN IPFW STUDENT LOOKING 
+FOR A JOB? COME IN AND SEE US. WE 
+HAVE MANY JOBS AVAILABLE. 
+
+
+
+Be 
+
+
+
+Sports 
+
+
+
+
+Photo Essay 
+
+
+
+The Communicator 
+
+
+
+All-Campus Picnic celebrates IPFWs 25th Birthday 
+
+
+
+
+</pre>        </div>
+      </div>
+    

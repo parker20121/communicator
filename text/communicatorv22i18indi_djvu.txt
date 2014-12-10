@@ -1,0 +1,1583 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i18indi/communicatorv22i18indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i18indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i18indi">The Communicator</a>"
+          </h1>
+          <pre>
+—Quote of 
+the Week- 
+
+
+
+Desert Shield Fact Book found in local comic 
+book store Page 5 
+
+Volleydons tourney photos Page 6 
+
+
+
+Chicago Blues comes to campus Page 5 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 18 
+
+
+
+Indiana University-Purdue University at Fort Wayn 
+
+
+
+i! International Student Organization 
+NFOGRAPHS ^ A . ... . j. i . i . 
+
+J Group activities to dispel racial tension 
+
+
+
+tape 
+
+
+
+Peacewatch to sponsor 
+panel discussion 
+
+
+
+Arts group to meet 
+
+
+
+;■:,£ 
+
+
+
+Button sale for 
+Valentine's Day 
+
+
+
+Election volunteers 
+needed 
+
+
+
+
+Govern- Directory will 
+
+
+
+
+S5?KKEK Garage to be complete in March 
+but opening date still undecided 
+
+
+
+,,,1-rf I.- 
+
+' the gal 
+garage I 
+
+
+
+Ihe initial sile plimif Sy I'tii i Iwinj/ |.hinnt'd I 
+
+
+
+Student to go to Mideast 
+with Red Cross unit 
+
+
+
+l™ r ''ir'',",',''.*iv 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+Communicator 
+
+
+
+
+State of the Union 
+
+Coach Bush's pep talk 
+won't win the game 
+
+President Bush, in the first \ 
+dress since the Vietnam conflict 
+
+3 In his 
+
+improvr-menls 
+
+wasn't all bad, 
+
+thus far. 
+"The end of the Cold War h. 
+
+"y," Bush said in the part of 
+nited world. 
+
+"If il is pnssihle, I w;ml lo continue lo build ;i lasting basis for 
+.N Soviet cooper -;ilion for a more peaceful future for all 
+
+
+
+f'Msliiil'. '.iiii/Ic diejl inll.tlu 
+
+nios! mi Iiisl lies so tar, ami . 
+
+-Wt; will Kd (his recess. 
+
+
+
+Furry friends 
+
+The animal rights debate rages 
+
+
+
+
+
+
+: ' rt,; 
+
+
+
+. iiessihihiv i)i . 
+
+
+
+o growth 
+/ictory in 
+
+
+
+
+
+
+"We will succeed 111 : 
+
+'Hie question remain 
+in the Persian Gulf? Through 
+speech, we are expected l,&gt; helieve Hie answer is yes. But can 
+we all hold to the optimism that so freely flowed from our 
+presulenl's lips lost week'' Is there rv:\\\\ .in\1 Innj4 positive lo 
+find in a nation at war with Saddam Hussein in the Middle East 
+and with poverty at home? 
+
+By the mejit »| Hie Male ol (lie Union address, 11 U.S. soldiers 
+were dead and seven more were missing. This number has 
+increased almost twofold in the last week. There is nothing 
+positive about these deaths. 
+
+Bush also declared the Cold War lo be over. This is a pre- 
+mature claim .is Hie Soviel I mon is piovmr, to be anything but 
+our pal. They are not listenine, to Rush's suggestion concerning 
+the military actions in the Baltic region. There is nothing 
+positive ;ihoul die Soviel Union's skivinc ol polilu ,,l ;n hwsi-- m 
+1 .iiiiu.uii.i List month. 
+
+Bush copped out in 
+He used the dreadei 
+said in his address, 
+Together, since 1981, 
+inflation in half, and 
+
+Things have been 
+
+
+
+nuMicly «.ti..'.-.-&lt;i I... i.:i!-;c people through 
+animals we're worried about. Where When conducting research, the ut- 
+
+only? Quadrupeds onl- The ' hjt conditions are controlled. Busi- 
+
+m'lhfi '■' nr ,ir&lt; we di-cussi-ijj. ih.' use rinses fund research on the belief that 
+
+of all living organisms, m research" I! 'Ik- n.M-urdi evil! be done carefully 
+
+.,,. .; || 1 n...'il!c.!i,i ,&gt;!!&gt; I his is why visitors 
+
+
+
+
+
+
+Ms. Seller's sighted, 
+
+
+
+■ Qlo 
+
+
+
+s Resource Center, I would re- 
+
+
+
+Gulf war 
+
+Writer calls for consistency in views 
+
+
+
+killing of a professio 
+
+
+
+nothing po 
+life in the' si 
+
+
+
+nln p ', .]!,■( live 1 ; . , 
+
+) million jobs, cut sway on! 
+
+
+
+Persian Gulf iivmu to Hu s ", h v '. r „,' 
+th S situafio'n iMhaUcan't' P ^ 6 ' ""*■ 
+
+
+
+3 positives 
+'pep talk. But he didn't say anything 
+i game, our team is going to lose. 
+
+
+
+I submit to the student body: "Why 
+e against the war? Conversely, why 
+.11 supporting tlif war?" I go to these 
+
+
+
+programs. Maybe thev think view Hmotie.iui 
+ill give them more time to pro- but cloud the i 
+*ther things. The right doesn't brain. Maybe i 
+
+
+
+[MiiL/uUdy dis- 
+
+
+
+Students should be 
+supporting Fort 
+
+
+
+griping abo 
+
+irlh.nr m.-u i 
+
+
+
+hers, The Fort 
+
+
+
+IPFW students are often bij 
+activity on campus, but when 
+the students here, the interest i 
+
+
+
+The Fort cafeteria in Walb Memorial Union. Students 
+been complaining about the early closing time at the d 
+area for years. And The Communicator even wrote at 
+torial on the short dining hours in an issue last vear. 
+
+So, in response to these suggestions and 
+has extended its hours to 7:30 a.m. to 6 p.m. Monday through 
+Thursday and 7:30 a.m. to 4 p.m. on Friday. 
+
+Are all of the students who complained about the short 
+hours flocking into the cafeteria in [he evening? Well, not so 
+far, according to workers at The Fort. 
+
+If the demand does not increase enough for the cafeteria to 
+make at least a slim profit limn .Ijnte open later, The Fort 
+will be forced to return lo the sh„i-ic, hum's students should 
+take a minute and walk over to the cafeteria in the early 
+cveinnu iiwea.i ol pj-jhhini; ,, snack from the vending ma- 
+elnn.-- in Kelllei Hall I he l-',„-| „||ers liul sandwiches soup 
+and a salad bar into the evening hours. A bowl of vegetable 
+soup or a plate of salad makes a hcallhv alternative to a 
+
+With students stretching their bodies to the limit-studying, 
+working and rarely sleepmg-the nutritional " 
+
+
+
+Vis, I I 
+
+
+
+in Waib a 
+
+
+
+regular part of their evening 
+
+
+
+in a human body, yet now they're biases in desperate need of a theory 
+
+A friendly word 
+
+Students should be open 
+and interact with others 
+
+
+
+OMMENTARY 
+
+
+
+
+
+
+Campus racism 
+
+African descendant wants 
+
+classes cut for King Day 
+
+
+
+except a few I 
+r King, Jr. 
+
+
+
+I the star t recognizin 
+ndid nients of Afrikan 
+
+
+
+. Martin Luther King 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+¥ 
+
+
+
+OICES 
+
+
+
+"How do you feel about 
+President Bush's State of 
+the Union address delivered 
+
+
+
+
+Pseudo-humor 
+
+Job evaluation quiz 
+ranks student types 
+
+
+
+RESEARCH HFORMAIION 
+
+UrgBStubtdrvotlntormoUoninO S. - 
+
+
+
+
+
+
+
+7oj 
+
+
+
+Sto, 
+
+
+
+Vi the 
+
+
+
+team. 
+
+
+
+Suite 0P 2l t Walb 
+
+
+
+ay!" 
+
+
+
+THE COMMUNICATOR 
+
+rated XXX - X-citing, X-ceptional and X-cellent! 
+
+featuring campus, area and world events. 
+
+COMING SOON TO A NEWSSTAND NEAR YOU! 
+
+
+
+
+
+Student Activities Board presents the 
+
+St. Valentine's Day Dance 
+
+
+
+Thursday, 
+Feb. 14, 1991 
+
+
+
+Elegant Occasions Reception 
+at 8 p.m. 
+
+
+
+featuring the big-band 
+sound of 
+
+tr Dick Seeger's 
+12-piece 
+Orchestra 
+
+
+
+tickets a, 
+
+$ 6 00 single, $ 10 00 couple 
+Available in Walb 
+Sweet Shoppe 
+
+
+
+semi-formal attire preferred 
+
+
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+SAVE! 
+
+Student Cuts 
+* $3.00 off* 
+
+w/coupon 
+Expires March 1 
+i-2961 Visa and Mastercard 
+
+[_CREATIVE HAIR CO. MarMpJace_of^&gt;rtobury_ J 
+
+
+
+
+
+
+
+
+
+
+
+THESES 
+CONTAINS 
+
+
+
+
+
+
+
+
+
+
+
+il 
+
+
+
+
+
+
+Before you dissect... 
+
+
+
+
+i 
+
+
+
+NFOGRAPHS 
+
+
+
+Scholarship Available 
+
+
+
+UFO constitution party 
+
+
+
+Bomb threats spark formation of 
+Campus Safety Committee 
+
+
+
+quently— probably 
+
+
+
+:ond time this year, IPFW 
+
+
+
+i the gulf war according to heightened awareness by students and 
+i Safety Chief Stephen Roby faculty to prevent crimes, and the 
+ase in threats is unaccept- Campus Safety Committee encourages 
+
+
+
+the com- This &lt; 
+
+
+
+Diehl and Bruce ; 
+
+
+
+C parking reduced due to lack of use 
+
+
+
+
+
+Students' Government 
+
+Election Board needed! 
+-eight IPFW students 
+
+-need students with 6 credit hours or more and 
+a C average GPA 
+
+-duties include administering the election, 
+developing and distributing specific guidelines 
+for the election, and publicizing the election 
+-elections will be held April 2-3, 1991 
+-contact Mark S. Snyder at 481-6586 or stop by 
+Students' Government in Walb Suite 225. 
+
+
+
+THE COMMUNICATOR 
+
+
+Classifieds 
+
+
+
+
+S5H!r£E t;§ 
+
+
+uiHEPfiTiHS SEESSiEHr 
+
+
+The S Comrmm S |S. Walb Union Minimum h 
+
+■.■':■■:.■.■.!' 
+Easl. Fon Wayne. IN 4680S. Ads 2 weeks. 
+
+
+^SSIFIED HATES 
+.$ ,50/line 
+
+
+-Warned l'?Bu, Ci " eg ° ,y ' 
+
+
+Aodiess 9 
+
+
+-Textbooks loi Sale 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thLwTah of sS^led^bl^ionT^i'r SVnarwiflT ^V^'nclSr. 
+
+
+
+Mblblblblrjlrjirjlblrjlrjlblblrjlbltilbp 
+
+
+
+Puzzled about 
+your future? 
+
+
+
+Love to write? 
+
+
+
+
+Want to build up 
+your resume? 
+
+
+
+
+Like to look 
+
+beneath the 
+
+surface &amp; investigate? 
+
+
+
+Don't fret! You , 
+
+aren't at the end 
+
+of your rope! 
+
+
+
+Come see us- 
+
+and write for 
+
+The Communicator! 
+
+
+
+We are looking for news, 
+sports &amp; feature writers . 
+Come see us in Walb Union Suite 215 
+
+
+
+
+^Mqi^rgrqi^rqi^^ 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Acid 
+
+
+
+The plot thickens as Ward finds another clue 
+
+
+
+speechless, for once. As the story con- A hw.ri«l i 
+
+tinued to unfold, Hufus started dating ,° r* ' a rj 
+
+Madam X steadily. Ward, once again e . R 
+
+h/s sorrows and ogJe dancers. At tni PV°* eui * 
+
+Larry's. Ward ran into Kip, the hu- sweai pew a 
+
+two of them they decided to find Rufus sight he nevt 
+
+.;.-,■...' ■-,■: /id:; '.,' ../..:;■ \ ',', I 
+
+The story picks up with Ward and "I don't ki 
+
+Kip behind Larry's contemplating to be lined w 
+
+
+
+FAST 
+
+
+FUNDR AISING 
+
+
+PROGRAM 
+
+
+$1000 in just one week. 
+
+
+Earn up lo $1(100 lor your 
+
+
+L.impuMivu.ini/iition.Plus 
+
+
+a chance al $5000 more! 
+
+
+This program works! No 
+
+
+investment needed Call 
+
+
+1-800-932-0528 Est. 50 
+
+
+
+Tips for forai FAF 
+1-900-535-9700 art. 391 
+
+
+
+low. Kip. This place t 
+
+
+
+ihroucli il 
+
+
+
+Tennesse Williams portrayed by two people 
+
+
+
+Sponsored by 
+Speech and Hearing 
+/ j Club 
+
+
+
+Tuesday, February 13, 1991 
+
+8 a.m. to 2 p.m. - Kettler Hall 
+
+
+
+Design your own! Bring in your favorite 
+photo or choose between 2 photos taken 
+there to be placed on 3-inch button 
+
+
+
+
+Clerk for Students' Government. One individual needed, 
+for hours 8 a.m. to noon, Monday-Friday, and 8 p.m. to 
+10 p.m. Thursday (can be flexible hours). Duties 
+include light typing, filing, and answering phones. Work 
+study student preferred, but will consider other 
+students. If interested, call Students' Government at 
+481-6586 or stop by the office, Walb Suite 225. 
+
+
+
+Computerized Car Care 
+
+DISCOUNT MAY NOT BE USED WITH COUPONS OR OTHER SPECIALS. 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+FREE 
+
+CATALOG 
+
+n ° f * I 
+
+Government ' 
+books / 
+
+
+
+Uiii-i-iiinn-n' Ihi 
+
+Sll[1M-llU-|1(ll'fll ( 
+
+in.: urn. nf- fimdi 
+
+
+
+,1&lt;|II! IlltlllC bicuii'v, 
+
+
+
+&lt;^s^&gt; 
+
+
+
+Free Catalog 
+
+
+
+Volleyd 
+
+
+
+
+iS poRTs S f 
+
+
+
+Seventeen former IPFW I 
+
+
+
+! Pizza Hut Hot Seat 
+
+
+
+ea participant t&lt; 
+
+i -uccc^fully cm 
+
+
+
+
+9 JOSTENS 
+
+
+
+A Josten's Representative Will Be in the Bookstore 
+
+Monday thru Wednesday 
+
+February 11, 12, &amp; 13 
+
+10 am - 2 pm 
+
+
+
+
+Are you missing this $22 
+million market? 
+
+The Communicator. 
+THE way to reach students 
+or teachers or young people 
+or married people or 
+professionals or car owners oi 
+apartment dwellers or record 
+buyers or home-owners or 
+
+
+
+
+
+
+For information, call the 
+advertising office of 
+The Communicator at 
+481-6583. 
+
+Nobody reaches IPFW like 
+we can. We're big enough 
+to do the job but small 
+enough to be interesting. 
+Your ad doesn't get lost in a 
+ma2e of supplements, 
+inserts and grocery ads. 
+Our modern offset 
+
+
+
+ng, pi 
+
+
+
+layout, and award-winni: 
+
+produce the best ads for 
+your business. 
+
+
+
+I 
+
+
+
+219-422-7511 
+
+
+
+The Underground 
+
+Under the Landing in 
+the basement of 
+
+Street West 
+
+
+
+Local and are 
+
+live every S 
+
+at 7 p.r 
+
+
+
+Swrts Writers 
+Needed 
+
+The Communicator is seekir 
+
+working knowledge 
+
+age and grammar skill 
+
+contact Mark Donaldson, Sports 
+Editor, at 481 -6584. 
+
+
+
+;ihoiit anything in life N: 
+
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Mastodons split 
+
+
+
+
+Lady 'Dons continue winning 
+streak with two more wins 
+
+
+
+
+When 
+you give 
+
+blood 
+you give 
+another 
+birthday 
+another 
+anniversary 
+another 
+
+laugh, 
+another 
+
+hug, 
+another 
+
+
+
+eginners on Feb. 21. II 
+
+in the filneWcondilioi 
+• Athletic Center from 5 
+
+
+
+If you think you're a 
+
+alone... your not! 
+
+We deal with the 
+
+problems of unplanned 
+
+pregnancy everyday. 
+
+
+
+Specializing In Buying 
+
+&amp; Selling Baseball 
+Cards &amp; Me 
+
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW. all of the 
+above rewards can be acheived. Multiple scholarships will be 
+awarded by the parent Fort Wayne local American Production 
+and Inventory Control Society Chapter, at the region.il level a 
+$500.00 grant, and at the national level a $1500.00 educational 
+gift will be given. A brief theme paper on one APICS topic 
+which consists of inventory control, production actini.;.. J. IT.. 
+M.R.P., systems resource management, or planning and 
+forecasting can win a cash reward. Your faculty advisor can 
+help with recommendation and these scholarships will be based 
+on each students need and ability All papers need to be turned 
+in by March 15, 1991. So come to our monthly meeting every 
+third Thursday at 6 PM. in Walb Union Room 222 and meet a 
+practicing professional face to face. Learn how an APICS 
+certification can h|hti employ mm!, doors for you. For further 
+info see your faculty advisor or call John at 493-4311 or Gail at 
+
+Thanks! 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+- light housekeeping 
+
+
+
+
+I -. I &gt; I \\ \ '. J\ I KM I •, 
+PURDUE UNIVERSITY 
+FORT WAYNE 
+
+
+
+4M 
+
+Open 
+7 days 
+a week 
+
+
+
+
+AT SERA TEC WE 
+
+DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+THAT'S WHY WE... 
+
+
+
+- Use Sterile, Disposable Equipment 
+
+- Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise - Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+
+- Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED PLASMA 
+
+EARN S 2S°° A WEEK DONATING PLASMA 
+
+
+
+NEW 
+DONORS 
+I RECEIVE 
+
+
+
+10 
+
+
+
+SERA TEC BIOLOGICALS 
+
+
+
+Donation 
+
+(With This Coupon) 
+
+ID Required 
+
+CALL OR STOP BY 
+
+ES.-FRI. 7A.M.-4.30PM. 
+
+CLOSED MON. 
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the k 
+college student needs. He h 
+Fort everyday. Carries a lot 
+
+
+
+If 24-hour access in your bank accounts 
+sounds like a good deal to you. make friends 
+with the OWL. on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any olfice of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+
+
+Business as Usual. 
+
+
+
+FORTW/WNE 
+NATIONAL 
+
+IMS my BANK 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Dear Students, 
+
+Welcome to all of those students attending IPFW for the first 
+time this semester and welcome back to all of you who are 
+returning from last semester. 
+
+Throughout the year we in Students' Government are aware 
+that many students have no idea of what we do for you or if, in 
+fact, we do anything or accomplish anything at all. 
+
+At this midway point in our year I would like to re-cap for you 
+some of the many things that your Students' Government has 
+accomplished or provided for you thus far this year: 
+
+Picnic tables in Aquarius Park. 
+
+Microwave oven in the library lounge. 
+
+Extended cafeteria hours beginning this month. 
+
+A discount meal ticket plan at The Fort . 
+
+Replaced or up-graded T.V.s in all lounges. 
+
+A Student Directory coming this semester. 
+
+A Freshman Yearbook coming this year. 
+
+Topical speakers coming to this campus soon. 
+
+Presenting a new theater play this spring. 
+
+Provided TV. and VCR for the Art School. 
+
+Initiated a short-term Student Emergency Loan Plan. 
+
+A Students' Government News Letter beginning soon. 
+
+An activity calendar. 
+
+A 40% increase in student representation of faculty and 
+
+university governing committees. 
+
+Provided funding for student programs on Channel 6. 
+
+Provided televised Students' Government meetings. 
+
+Held an "issues rally" for students to bring their concerns and 
+
+complaints to their Senators. 
+
+Provided funding for several Student Organizations. 
+
+Provided funding for Confluence , a literary magazine. 
+
+In addition to those accomplishments, your Students' 
+Government and/or its members have addressed topical issues 
+on this campus or of concern to students as: 
+
+- "Safe sex" and womyn's reproductive rights. 
+
+- University divestment in South Africa. 
+
+- The parking situation on this campus. 
+
+- "Free speech" and "students rights" issues. 
+
+- Smokers and non-smokers rights in regard to the university's 
+Smoking Policy. 
+
+- Minority recruitment and minority issues. 
+
+- International student issues. 
+
+- Child care consortium problems. 
+
+- Safety on campus (prompting the formation of a university 
+committee to study this issue). 
+
+- Enacted a Senate Resolution in support of the establishment 
+of a Womyn's Study Major. 
+
+- Returning Adult Student issues and problems. 
+
+- Increased student study/lounge space. 
+
+So you see, your Students' Government has been working for 
+you this past semester, and the year is not yet over! Some of the 
+
+
+
+
+things you can still look for this year are: 
+
+- A 24-hour Student Union. 
+
+- A re-decorated cafeteria. 
+
+- Free Legal Aid service for students. 
+
+- The establishment of a health clinic on campus. 
+
+- Alternatives to Follett's Bookstore. 
+
+- A new "smokeless" study lounge in Walb Union. 
+
+- "Voters Registration Week" on campus. 
+
+- Earth Day Festivities and Events. 
+
+- Provide for the sale of condoms on the campus. 
+
+- Elimination of styrofoam use on campus. 
+
+- Outside pay telephones around campus. 
+
+- "Emergency Phones" in the parking lots. 
+
+- Student representation on Faculty Hiring and Tenure 
+Committee. 
+
+- Ashtrays for indoor and outdoor smoking areas. 
+
+The list could go on but I think you have the idea that we, in 
+Students' Government, are far from being through this year. 
+
+Finally, I want to personally thank all of those students, faculty, 
+administrators, and staff members who have helped in our 
+accomplishments and successes so far. Without everyone's help 
+we could not have succeeded to the extent that we have. This 
+does not mean that we do not still need your help. There are 
+many openings in Students' Government from seats on the 
+Senate to Presidential Assistants and committee appointments. If 
+you would like to be a part of the excitement which comes 
+through an active involvement in your university and are not 
+afraid of controversy or speaking your mind, please contact 
+either myself at 481-6588, or any member of Students' 
+Government at 481-6586. We need your help. There is still much 
+to be accomplished. 
+
+Mark S. Snyder 
+
+President, IPFW 
+
+Student Body 
+
+
+
+
+\ |PFW. The 
+
+activity is not worm a anyUme f the tried 
+
+different strategies to get P ^ our student body a 
+
+attending our events. presW " t n £ c twltlW Board 
+
+
+
+</pre>        </div>
+      </div>
+    

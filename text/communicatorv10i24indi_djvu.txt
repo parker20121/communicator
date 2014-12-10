@@ -1,0 +1,1371 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv10i24indi/communicatorv10i24indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv10i24indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv10i24indi">The Communicator</a>"
+          </h1>
+          <pre>
+^ Derbies 
+
+I &gt;Bfc, 
+
+
+Albums 
+
+page 5 
+
+
+
+\ H 
+
+
+
+aseball 
+
+off and 
+page 6 
+
+
+
+™ COMMUNICATOR 
+
+
+
+Volume X Issue 24 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+March 22, 1979 
+
+
+
+
+Rec building cut 
+
+
+
+e proposed n 
+
+For ,4r(s ancf Letter 
+
+
+
+New course set 
+
+
+
+First meeting 
+
+
+
+New senate lacks quorum 
+
+
+
+Bv DEBBIE CANTWELL 
+
+
+
+
+
+
+
+
+poor attendance at the SUBOG- 
+
+
+
+
+spring break, the new student govern- 
+
+
+spiinson.'d L-oriVrhousc which featured 
+
+
+
+
+ment, attempted to meet late Friday 
+
+
+
+
+
+
+
+
+
+
+
+
+The assembly was three members 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formal business. Only eight senators 
+
+
+tatives and stated what she believed 
+
+
+Office, room 225 in the Walb Union. 
+
+
+
+
+were the group s functions and 
+
+
+
+
+University Progressive Party was 
+
+
+
+
+
+
+
+
+
+
+maintain at least a "C" GPA and have 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+President John Krasienko, however. 
+
+
+Both Zoucha and Arnold said they 
+
+
+
+
+
+
+hope SUBOG and the Senate van work 
+
+
+
+
+group discussed standing senate ruses 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'"Lisa XSafsUBOG (Student Union 
+
+
+Zoucha said a retreat for SUBOG and 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reported SUBOG's Woody Allen Film 
+
+
+becoming so serious, but you can have 
+
+
+room 225 Walb Memorial Union. 
+
+
+
+Guffy candidate; 
+Eishen bows out 
+
+Donald (iuHry. former student bort 
+
+
+
+ther Democratic candidt 
+ndJdates will be rider mm 
+
+
+
+Dr. Friedman named 
+for exchange post 
+
+
+
+Moses sees campus needs 
+
+
+
+
+PAGE 2 - THE COMMUNICATOR - It 
+
+
+
+(_yj__EDITORIAL_ 
+
+All not lost 
+
+
+
+Despite the reports at pi 
+&gt;ur proposed recreational 
+wen dropped from the : 
+
+
+
+nity support for 1 
+recreational building. The fact that I 
+propiis.il remained a " 
+
+
+
+facility has not been en 
+
+Politicians are beejnmh 
+needs of IPKW seriously 
+The battle fm the huilri 
+
+
+
+Realogue 
+
+Women beneficial 
+to campus ministry 
+
+
+
+;e the it this year This would Indicate that if 
+
+we begin earlier and push harder during 
+
+an up the next 60 day session we may be 
+
+wasranked"^'™ hV 'ib.Mmli'm.i "•"» 1' &gt;l&gt;" '«" lobbying also is 
+
+„,, ,.„, i.,r lliMlit--! Kdui-.ilK.il &lt;&gt;ii&lt;- in iv ri-siiimsibl.. Im the o-niurks made by 
+
+say thai .1 was unusual lor the building m.iyuri.-il hopeful Wiiilu-ld Musi-. In an 
+
+^Patlorme^asoilwWch^eHiunlrd'l'i'ii- Al" es -..nil II.; e eilv le; , ■ -.hnuld 
+
+„,. i„„gev,lv ..1 .he prnposal was the beeome belter advocates for the 
+
+..vei-whelmiug |».rl uf the locul campus 
+
+,l,a lis si, ii-l that |.ul IPKW in the lie s thai the mayor ol Fori Wayne 
+
+public more than any other issue with should lobby on behalf of the campus 
+
+the obvious exception of the search for a before t 
+
+
+
+By LARRY KRAMEII 
+
+
+
+iter lo Ihe local campus 
+
+
+
+balanced ministry effort 
+
+
+
+Reports state that i 
+Senate Finance Co 
+reluctant to fund the I 
+
+
+
+But when all is said and 'lone the fact 
+crs of the remains tli.it despite work by our local 
+lee were legislalois, media .,i)|.p.nl and eaiopus 
+lg because suppm I . eei lain memheisnl I be &lt;;. -iu-r.il 
+. proposals Ass.-inl.lv li-ll Idlle loyally lo pari of 
+■' ■ consislenllv sends 
+
+
+
+the Allen Counly 
+n lo have lulled mis Republicans - to 
+been made Ibal there delegation — t 
+
+
+
+Rubin intriguing tt: 
+
+
+
+
+members 
+
+
+
+disinterested, self-c 
+
+reated - the group at Rubin's lecture were 
+
+March 20 to a rare occasion - Jerry sincerely concerned with issues and the 
+
+Hubiiumcovcicd real feelings in a crowd w Hlarc o! others Rubin's definition &lt;il 
+
+1 people. apathy today seems to fit IPFW — 
+
+, self-procluimed "chcci leader" people air h ustrated, emasculated hy a 
+
+ol the anti-war movement of the 60's is lack of power. They want badly to 
+
+an intelligent observer, coinmeiilaloi chanc.e llie status ipio, but they feel it 
+
+and trend spotter. While offering no firm isn't possible, 
+plan of action, he neatly caught the 
+
+essence of the 1,11s, vn's ; |&gt;o-,s ilies Perhaps liubm's appearance here will 
+
+for the future. help "M" 11 " a small spark somewhere 
+
+Rubin's two hour lalh was intriguing among those that attended. Just ^^ 
+
+Utii the true value ol bringing Jem d.scovei nig Ibal individuals si, II have ','J,, ,,„.„„„ ,,„, 
+
+Rubin to IPFW was the l' v hour righteous ange, and Im n opinions, is (1| . , (lllt( ,. ( . m . ( . „ 
+
+question-answer period. well worth I he investment ol brining ,,„,,,„, m( . so me thi 
+
+The topics discussed cow 
+
+nuclear p 
+
+Democratic Convention o 
+
+t people h 
+
+
+
+I'l'-'.iMi-.-iclfiic. "'I cepi-csfiitllK' I lie ehlllrh.-S un 
+
+, hc.ils inli-rest.'il m lh ',,, |m||||M1 , 
+
+ing religious and 
+
+
+
+for a thought- contacts 
+
+
+
+
+SSBS 
+
+
+
+.tVSI!'" 
+
+
+
+Earn 
+while you learn. 
+
+
+
+Western 
+
+
+
+s PRINTING, 
+
+\Wkilt-U-Waii!\ 
+
+
+
+Photocopies 
+
+6c° w e r 
+
+self service 
+
+483-7144 
+
+
+
+pipm4 
+
+
+
+Baby on 
+
+the way? 
+
+We're here 
+
+to help. 
+
+Professional 
+
+counseling, 
+
+free 
+
+pregnancy 
+
+tests. 
+
+Confidential 
+
+BIRTHLINE 
+422-1818 
+
+
+
+The Fort Presents 
+
+
+
+
+A GERMAN 
+LUNCHEON 
+
+
+
+FEATURING: 
++ SAUERBRATEN 
++ BRATWURST MIT SAUERKRAUfc^ 
++ GEBACKENE SEEZUHGE 
+
+also Hot German Potato Salad 
+
+Sauerkraut Salad, Hot Apple Dumplings 
+and many other delicious treats! 
+
+THURSDAY, MARCH 29th in 
+
+
+
+
+Wm?M 
+
+
+
+^ 
+
+
+
+THE FORT 
+
+WALB MEMORIAL UNION 
+
+
+
+- THE COMMUNICATOR- 
+
+
+
+
+CUB 
+^REPORTER'S 
+CORNER 
+
+Women prisoners 
+
+
+
+Business conference 
+
+Ihe IV Wayne I u. Alumni Tire and Rubber Cc 
+Fourlh Annual Business an ° tn e annual 
+
+
+
+campus 
+calendar 
+
+
+
+Disabled group forms 
+
+
+
+• Student Union Board IPFW The council, whi 
+Governors (SUBOG) advocates academic i 
+tly accepted a new cessability and social 
+
+
+
+Writing award 
+
+A $100 cash award for tent, and the r 
+
+writing, contributed by the quality nt thought 
+
+be presented at the Honors be submitted to tb 
+f'miv««-:itionApril8. ment of Engli 
+
+
+
+Preschool signup set 
+
+
+
+h.ut- iwo classes— a Mon- room 234 of the Union from 9- 
+
+day, Wednesday. Friday 11:30 a.m. for children aged 
+
+group and a Tuesday, :i'* to 5 years old. For more 
+
+l':i.r-il,i\ group. The cost is information call The Child 
+
+
+
+
+NOW HIRING! 
+
+Mountain Jack's has 
+
+several full and part-time 
+
+openings. We need food 
+
+waiters and food waitresses, 
+
+bartenders, hosts and 
+
+hostesses. 
+
+Mountain Jack's offers good 
+
+pay, flexible hours and excellent 
+
+benefits. No experience 
+
+is necessary. Apply in person 
+
+Monday through Friday between 
+
+3 and 4 p.m. at Mountain Jack's 
+
+930 Coliseum Blvd. E. 
+
+
+
+mo unta in , 
+jacks" 
+
+BEEF SEAFOOD SPIRITS 
+
+
+
+
+b 
+
+
+
+MARCH 
+
+THURSDAY 22 
+
+Cop and Gown Order Days for Students Only, Wolb 
+
+229, 9 a.m.-8 p.m. 
+Final Day to Sign Up for the 3-29, Math, English 
+
+and Reading Placement Test 
+Recruiting: General Electric, ARO Corp. 
+
+FRIDAY 23 
+
+Invitational Choir Festival. Walb Ballroom, 8 p.m. 
+Student Music Recital: M. Fritz, Neff 101, 8 p.m. 
+Cap and Gown Order Days for Student Only, Walb 
+229, 9 a.m.-5 p.m. 
+
+SATURDAY 24 
+
+Math, English and Reading Placement Test, Walb 
+
+Ballroom, 8:30 a.m. 
+Film Festival: James Dean and assorted rebel flicks 
+
+
+
+SUNDAY 25 
+
+Indiana Purdue Reports on WANE TV at 6:30 a.m., 
+on Citizens Cable at 5 p.m. A radio version Is 
+heard on WGL Radio, Saturdays at 7:30 a.m. 
+
+IPFW Orchestra concert, Neff 101 , 8 p.m. 
+
+MONDAY 26 
+
+Soc/Anthro Forum, H. Linkous to discuss archaeologi- 
+cal data collected in the surrounding area. Walb 
+222, noon 
+
+Women's Studies presents: "View From Within: 
+Women in Prison ", Tony Barnes, a former prison 
+inmate, now employed by Allen County Juvenile 
+Probation, will speak about the lives of Incarcerated 
+women. Noon, Walb 116. 
+
+Recruiting: Purdue Univ. -Personnel Services Office, 
+Quality Farm &amp; Fleet 
+
+Sign up for intramural golf begins. Student Athletic 
+Office. 
+
+Student Music Recital: J. Wainwright, 8 p.m., Neff 101 
+
+Faculty Cap and Gown Order Days, bookstore 
+
+Intervarsity Christian Fellowship, Neff 147, 12:15 p.m. 
+
+Preliminary Round, Indiana State Oratory Contest, 
+7:30 p.m., Walb 222 
+
+The University Religious Forum continues its weekly 
+"Catholic Brownbag Forum" prayer, discussion 
+and planning series during the free period Mondays 
+from noon to 1 :25 p.m. in Neff 278 and again in 
+the evening from 7:30 to 8:45 p.m. in Neff 370. 
+Anyone V 
+
+
+
+TUESDAY 27 
+
+Biology Seminar: Dr. James Tobolsk!: Investigations 
+in Pollution and Hybridizations In Pines, 12:30 p.m. 
+Kettler 122 
+
+Recruiting: Aeroqulp. Lazarus Dept. Stores, North- 
+western Mutual 
+
+Faculty Cap &amp; Gown Order Days, bookstore 
+
+External and Internal Budgetary Process Presentation 
+by Jim Thatcher, G46 Kettler, 3 p.m. 
+
+
+
+WEDNESDAY 28 
+
+Coffee House and Entertainment in the Fort-all evening 
+
+Recruiting: FW National Bonk, Lincoln National Life 
+
+Insurance 
+"Tone Clusters" Music Recital, Neff 101 , 8 p.m. 
+Faculty Cap &amp; Gown Order Days, bookstore 
+Men's Baseball vs. Bethel at home 1 p.m. 
+
+
+
+THURSDAY 29 
+
+Business Conference, Hospitality Motor Inn, 2 p.m. 
+
+Recruiting: Indiana Bank and Trust Co. 
+
+Math, English and Reading Placement Test, Walb 
+
+Ballroom, 5:30 p.m. 
+Faculty cap and gown order days, bookstore 
+Intervarsity Christian Fellowship, 2 | 
+
+
+
+lounge, Walb 
+
+
+
+withdraw from class wit 
+
+
+
+
+
+
+FRIDAY 30 
+
+grade of "W". 
+IPFW Geology Colloquium-Dr. Don Secor-Model for 
+
+development of natural hydraulic fractures. Kettler 
+
+146, 2:30 p.m. 
+Faculty Cap 8 Gown Order Days-Bookstore 
+
+
+
+i of Jon Palmer will be on 
+i the Fine Arts Dept. until 4:30. 
+
+
+
+FACULTY NOTES: 
+
+M. Ann Dirkes, Assistant Professor of Education will 
+present a research paper on "Diagnosis and Pre- 
+scription through Right Hemisphere Strengths" at the 
+Sixth National Conference of the Research Council 
+for Diagnostic and Prescriptive Mathematics in 
+Tampa, Florida. 
+
+The Institute of Sociology of the University of Basel 
+at Basel Switzerland has invited Assistant Professor 
+of Philosophy Gregory Washington to present o 
+paper at the IVR World Congress, August 27, 1979. 
+The paper is entitled: "Brown vs. The Board of 
+Educotion: A Comparative Study of the Philosophy 
+
+Dr. Richard Pacer, Professor of Chemistry has had an 
+article entitled: "The Sophomore Level Analytical 
+Laboratory" published in the Journal of Chemical 
+Education, Vol. 56, No. 2, 97-8, February 1979, 
+
+
+
+DT's blend 
+too bland 
+
+
+
+
+At WALDENBOOKS 
+we aim to please. 
+
+If we haven't 
+
+got it, we'll get it! 
+
+For all your 
+
+reading needs 
+
+come to WALDENBOOKS 
+
+
+
+Ips l/tril 
+
+
+
+WALDENBOOKS 
+
+
+
+PIZZA KING 
+
+
+
+484-4184 483-2163 744-6135 
+
+
+
+
+
+
+
+?IZZA 
+KING 
+
+
+
+Reaching back 
+
+
+
+
+
+
+&gt;[H-.,k.rs. ( mnr.lti-rilrl Mum 
+
+
+
+
+\\\OV| IMIHIMI.Ii ii. 
+lonmtiK ..n IPKW swim 
+
+
+
+
+S p olK*r2iu225 
+
+
+arts 
+
+AT A GLANCE ■ 
+
+
+
+
+
+Film festival 
+
+
+
+GENERAL CINEMA THEATRES 
+
+I STARRED(*)FEATURES-$1.50 FIRST MATINEE SHOW ONIY | 
+
+
+
+Stage 
+
+
+
+.«,„„ Music 
+
+
+
+SPECIAL SAVINGS 
+
+
+
+
+FASHION JEANS 
+
+Guys &amp; Gals 
+
+Famous name Brands 
+
+7.99 
+
+2 Pairs for $ 12 00 
+
+
+
+Glenway Bargain 
+Center 
+
+
+
+Al TKNTIOX- 
+1&lt;)7&lt;) (JKADUATIXCJ CLASS 
+
+
+
+CAP &amp; GOWN ORDER D^VS* 
+
+March 21, 22, 23 
+
+Walb Memorial Union Room 229 
+
+*March 21, 22 (9am-8pm) 
+
+*March 23 (9am-5pm) 
+
+
+
+IPFW COMMENCEMENT 
+
+May 14 Memorial Coliseum 
+
+'DGTS Students (Borr St. Compus cap 8 gown 
+
+
+
+For further information, contact the Alumni Off 
+Walb Memorial Union 235, 482—5343 
+
+
+
+«USE«TS-S2.50 
+
+"Rocky Honor 
+
+
+
+^■iroZgri'tt^i-ntJVf^B 
+
+
+
+
+fjll Will TOMTOM 
+
+
+
+*-sw [ 
+
+
+
+rj 
+
+
+
+
+
+
+-wvsv m 
+
+
+
+fcl 
+
+
+
+HARD- 
+CORE 
+
+
+
+SAT. 8 SUN KID'S MATINEE' 
+
+:, '.«mv;/y ,r:i:r.i/MD" |0) 
+
+
+
+MOVIE * 
+MOVIE 
+
+
+
+The NORTH 
+
+AVENUE 
+
+lRHEGUUUtS 
+
+
+
+^ 
+
+
+
+Fort\A/ayne Film Guide 
+
+
+
+
+Send in 
+the clones 
+
+
+
+
+
+
+saying: 111 needc(1 „ 
+
+
+
+
+BUBBfiVr 
+
+
+
+and serve yourself 
+
+FREE SNACK BAR 
+— V\APpK HOOR SPECIAL — , 
+
+FIRST 2 DRINKS 
+FOR THE PRICE OF 1 
+
+ALL DURING HAPPY HOUR 4:30-6:00 p.n 
+AND LATE HAPPY HOUR 
+12:00 MIDNIGHT-2:00 a.m. 
+
+
+
+LOOK FOR MONDAY NIGHT FOOTBALL SPECIALS 
+
+
+
+BUBBA'S 
+
+
+
+NORTH LOUNGE 
+
+
+
+"Purveyors Of Fine Coffees &amp;. Teas" 
+
+Featuring Fine imported Beers &amp; Wines 
+
+Thursday Night Pitcher Night 
+
+M off each pitcher 
+
+Live music every Thursday, Friday 
+and Saturday night 
+
+Thurs., Mar. 22 Gil Bierman 
+
+Fri., Mar. 23 Barb Bell 
+
+Sat., Mar. 24 Barb Bell 
+
+
+
+-s: M-Th. 
+Fri. -Sat. 
+Sun. 7:30-12 Midnight 
+
+
+
+2 Midnight 
+
+
+
+
+For the real beer lover. 
+
+
+
+Fastbreak scores 
+
+
+
+FOlleTTs 
+
+
+
+
+PROUDLY FEATURES INDIANA 
+AND PURDUE SWEATSHIRTS, 
+T-SHIRTS, FOOTBALL JERSEYS, 
+ASHTRAYS, PILLOWS, CERAMIC 
+MUGS, MINIATURE FOOTBALLS 
+
+Not to mention Books 
+and Supplies 
+
+COME ON IN 
+
+FOLLETT'S FT. WAYNE 
+KETTLERHALL 483-6100 
+
+
+
+
+MOUNTAIN , 
+JACK™ 
+
+BEEF SEAFOOD SPIRITS 
+
+Mountain Jack's has expanded 
+Its entertainment offerings to 
+include disco music as well as 
+live bands. And because we've 
+expanded we need to hire more 
+people. 
+
+We're looking for 
+FULL AND PART-TIME COCKTAIL 
+WAITRESSES AND COCKTAIL 
+SERVERS. 
+
+Experience isn't necessary be- 
+cause we have an excellent 
+training program. 
+
+Apply in person Mon. thru Fri. 
+between 2 and 4 at Mountain Jack's 
+930 Coliseum Blvd. E. 
+
+
+
+PAGE 6 - THE COMMUNICATOR - MARCH 2: 
+
+
+
+IPFW baseball 
+
+
+
+All-Indiana Promising start? |g§ 
+
+final in rsll 
+
+
+
+Km rniv 
+1. before 
+
+s ploy at 
+. against 
+
+ay Both 
+
+
+Callouts 
+
+All men and women 
+interested in irjine out 
+
+report to the' Elks 
+
+March 16. If you want to 
+
+
+
+Fastrack 
+
+
+
+
+"Check Local Newspaper 
+For Specific Theatre Listing. 
+
+
+
+</pre>        </div>
+      </div>
+    

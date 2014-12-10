@@ -1,0 +1,3211 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i12indi/communicatorv12i12indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i12indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i12indi">The Communicator</a>"
+          </h1>
+          <pre>w 
+
+
+
+llic 
+
+
+
+Coin 11101 iiicai or 
+
+
+
+Volume XII Issue 12 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+NOVEMBER 20, 1980 
+
+
+
+She finds career satisfying 
+
+
+
+Taper has heart 
+
+
+
+
+MHT student Darla Toper works 
+with her hands, her head and her 
+heart. ( Photo by Tim Ross) 
+
+By HELEN 
+BUSCHEY 
+
+Some work with their hands, and 
+some with their heads. Darla Taper 
+also works with her heart. 
+
+While Mental Health Technology is 
+not for everyone, for Taper, who is 
+studying to be a technologist, it is a 
+
+
+
+rewarding and satisfying career op- 
+portunity. 
+
+Taper, a 1978 Elmhurst High School 
+graduate, came to IPFW planning to 
+major in sociology, but after hearing of 
+the MHT program, decided to go first 
+into the two year associate degree 
+study and get her bachelor's degree 
+later. 
+
+Taper is also interested in learning 
+more about the police academy 
+training program, which could lead to a 
+job as a probation officer. 
+
+MHT is under the direction of Robert 
+W. Hawley, associate professor, who 
+talked about the concept of study at 
+IPFW. 
+
+The Purdue Associate Degree 
+Program was developed in 1965 through 
+a five-year National Institute of Mental 
+Health Training Grant and has 
+graduated over 300 technicians. 
+
+The Fort Wayne program was the 
+first of its kind anywhere in the world, 
+and it has been the source of in- 
+formation and study for many other 
+pilot programs throughout the United 
+States and Canada. 
+
+"The Purdue program," Hawley 
+said, "develops the "generalist," a 
+person who is competent in helping 
+people." Practicums required in the 
+study allow the student to experience 
+what is really happening and put the 
+student in contact with the job she or he 
+will be working with after graduation. 
+
+For example, Taper's first practicum 
+was spent at the Allen County Society 
+for Crippled Children; her second was 
+at Lakeside Middle School, where she 
+helped children with home-life and 
+study problems. Now she spends six 
+hours a week at the Fort Wayne State 
+Hospital and Training Center, helping 
+people with maladjustive and behavior 
+modification problems. "We try to 
+develop good behavior in the individual 
+and get rid of undesirable habits," 
+Taper said. "I like it. It is really in- 
+teresting." 
+
+Taper's class, or group of students, 
+has 19 women and men enrolled. This 
+year's enrollment is 40, and the average 
+
+
+
+
+age of the students is over 25. 
+
+In addition to the practical ex- 
+perience, students study basic courses 
+in English, biology, psychology, 
+sociology, therapy, and specialized 
+classes which aid in personal growth 
+and professional experience. 
+
+One of the student requirements is to 
+keep a journal. "It is a very personal 
+and highly confidential recording of the 
+individual's own feelings. It is a per- 
+sonal commitment, essential to the 
+student's growth and development," 
+Hawley said. "The students evaluate 
+their own progress and record how they 
+feel about what they are doing." 
+
+Taper became interested in social 
+work in high school, and it influenced 
+her involvement in the Student 
+Exchange Program. She wanted to see 
+what other countries were doing, and in 
+1977, she spent five months in Rio de 
+Janeiro, Brazil, where she learned 
+some Portuguese and observed the 
+different customs and culture of South 
+America. "The people are very close; 
+they hug and kiss and touch," Taper 
+explained. 
+
+"I want to go back and see the family 
+I lived with. They became a second 
+family to me. Just talking about it 
+brings back a lot of memories," she 
+continued. "I've kept in touch through 
+letters and phone calls. I'm saving my 
+money so I can go back someday." 
+
+She recalled that the treatment and 
+care of Brazil's mentally disabled is 
+similar to the care in the U.S. 
+
+Taper hopes to further her education 
+and would like to see a scholarship 
+program set up for MHT students. 
+"Most of the people in MHT go on to get 
+higher degrees in either sociology or 
+psychology. There are more openings 
+at the lower levels, but like other jobs, 
+the pay is better at the top," she said. 
+
+Taper's busy schedule includes 14 
+hours of credit course work and a part- 
+time, 20-30 hours-a-week job as a 
+waitress, which she says she loves 
+because of the people. "It's not too 
+bad," she said. "You get used to 
+staying up." 
+
+
+
+Placement tests are 
+'blessing in disguise 9 
+
+
+
+Service offers help for vets 
+
+
+
+By SUE SNODGRASS 
+
+For those U.S. veterans who thought 
+it impossible to return to college, earn a 
+degree and receive financial assistance 
+for their services, fPFW's Student 
+Services has an office that offers 
+counseling and guidance. 
+
+This new service has been available 
+since September and is under the 
+direction of Bob Wallace, service and 
+guidance officer. 
+
+Wallace, who replaced Steve Shieber 
+in the position last week, is a Vietnam 
+veteran currently enrolled in the VA 
+program and majoring in supervision. 
+
+Wallace worked for the VA Hospital 
+in admitting and was in work-study 
+under Denny Boester, veteran's 
+benefits counselor, thus familiarizing 
+Wallace with many of the problems that 
+face veterans. 
+
+While Boester is in charge of 
+enrolling the returning veteran as a 
+new student, Wallace provides coun- 
+seling services and general information 
+to assist the veteran in selecting the 
+program he or she needs. He also 
+provides services for the veteran 
+already enrolled who encounters 
+problems with benefits or studies. 
+
+
+
+The veteran who wishes to earn a 
+degree is eligible, for 10 years after 
+military separation, to use 45 months of 
+entitled money. Allowance rates are 
+measured in terms of the number of 
+dependents and number of hours taken. 
+
+Disabled veterans are also allotted 
+financial benefits for school, but are 
+given a lesser amount because they 
+also receive money for their 
+disabilities. 
+
+Disabled veterans also differ from 
+the non-disabled veteran in the type of 
+counseling they receive. The disabled 
+veteran first receives main counseling 
+in Indianapolis with vocational 
+rehabilitation counselor Jeff Franklin. 
+The veteran returns to the Fort Wayne 
+campus and receives additional 
+counseling with Wallace. 
+
+An application is prepared and 
+processed with all additional forms by 
+Joan Churchill, a certifying official who 
+prepares and processes all the 
+paperwork for the entire VA program. 
+
+This new counseling service is 
+provided by a government grant 
+allotted to the university through HEW. 
+The money is entirely tax free and does 
+not cancel the veteran's chance for 
+
+
+
+applying for and receiving other types 
+of financial aid. 
+
+The only stipulations for receiving 
+the VA benefits are that the vets must 
+maintain at least a "C" average, and 
+that they cannot switch majors or fields 
+of study more than twice. 
+
+Five hundred and fifty veterans are 
+currently enrolled at IPFW. These 
+veterans don't encounter too many 
+problems except, perhaps, an oc- 
+casional delay in payment, which is 
+taken care of by either Churchill or 
+Boester. 
+
+' "No changes in the program will 
+occur as a result of my filling the 
+position," said Wallace. "With a new 
+Congress wanting to cut back gover- 
+nment spending, the BI-Bill may 
+change, but a 5 percent increase in 
+allowance will take effect in February 
+of 1981. 1 think we have an outstanding 
+program for the returning vet, and my 
+job is to make people more aware of the 
+benefits they can receive, and counsel 
+the vet with any problems that he or she 
+may encounter. I hope people will take 
+advantage of such an opportunity." 
+
+
+
+By DEBBIE 
+CANTWELL 
+
+Incoming freshmen may dread 
+the English Placement Test, but 
+IPFW professors and guidance 
+counselors seem to view the 
+mandatory examination as a 
+blessing in disguise. 
+
+Dave Jolliff, director of Coun- 
+seling and Testing Service, said the 
+lest places students in English 
+classes appropriate to their skill 
+level, and it also helps counselors in 
+academic advising. Students are 
+required to take the English test 
+before enrolling in W100, W130, 
+W131 or W140. 
+
+Two years ago, the IU the Purdue 
+faculty-senates mandated the test 
+— along with the match placement 
+test — for all incoming freshmen 
+because of a wide disparity in 
+composition skills. Before that time, 
+the English department informally 
+tested students. 
+
+Is the test always accurate in 
+placing students? 
+
+"The placement tests measure 
+achievement," said Jolliff. 
+"Theoretically, the SAT (Scholastic 
+Aptitude Test) is supposed to 
+measure potential." 
+
+The director said, "There is a 
+common agreement no single lest is 
+both valid and reliable." 
+
+Although leaching assistant 
+Peggy Yoder believes the test does 
+a "fair" job in placement, she 
+admitted, "I've had three or four 
+people who needed help. I think the 
+test tends to place people high. " 
+
+Other instructors, however, are 
+more satisfied with toe-results. 
+
+Steve Hollander, one of the test's 
+founding fathers who teaches an 
+honors course this semester, called 
+the results "super." He said 
+i are easier to teach since 
+program started." With 
+
+
+
+classrooms containing students of 
+equal abilities, there is no longer 
+competition between the slower 
+students and the more exceptional 
+students, he said. 
+
+Former acting director of com- 
+position Lcland Person agreed with 
+Hollander. The test does an "ex- 
+cellent job," he said. "We take 
+placement more seriously (here) 
+than anywhere I've been." 
+
+Ric Ramsey, present director of 
+English composition at IPFW, said, 
+"The tests tell us about the 
+preparation of students who come 
+here." Some of that clientele, he 
+noted, are students returning to 
+school whose writing skills may 
+have become somewhat rusty over 
+time. 
+
+"Some schools use freshmen 
+comp to weed people out," said 
+Ramsey. "Wedon't do that." 
+
+The composition test consists of 
+106 multiple choice questions plus a 
+written essay, both of which 
+measure specific skills such as 
+vocabulary, spelling and 
+organization, 
+
+All tests are hand-scored by 
+several English professors, but that 
+may be revised soon, said Ramsey. 
+
+A $3029.20 proposal to get com- 
+puter hardware installed on 
+already-existing equipment was 
+recently submitted to Edward 
+Nicholson, vice chancellor and dean 
+of faculty. If approved, data 
+processing would change scoring 
+and reporting procedures as well as 
+store test results for research and 
+administrative purposes. 
+
+The results of the multiple choice 
+section initially place students in 
+either W130, a remedial course; 
+Wl3l, elementary composition; or 
+W140, an honors course. 
+
+But the written essays, Ramsey 
+said, often make the difference in 
+class placement for those students 
+
+
+
+whose test scores are borderline. 
+
+Of the 3,554 students who took the 
+test the past (wo semesters, 52 
+percent placed into WI30, 45 percent 
+Into WI31, and three percent into 
+WI40. 
+
+Most professors would agree the 
+percentages are less than ex- 
+ceptional. 
+
+Ramsey believes IPFW could 
+slienglhen Ms composition program 
+if all classes were tauglil five days a 
+week, and If smaller classes were 
+the rule, not the exception. IPFW's 
+class sizes, he added, arc "better 
+than some schools, but not al all 
+ideal." 
+
+Classes may In fact shrink or 
+expand during the first two weeks of 
+the semester. Students may be "re- 
+placed" during the first two weeks 
+of the semester, if instructors 
+believe they have been "misplaced" 
+hy the test. The decision to move, 
+however, is left lo the student. 
+
+All In all. Ihe English Placement 
+Test has proven to be a blessing for 
+instructors. The students, however, 
+think differentlv. 
+
+"Most students fear the test," 
+said Shirley Olwein, secretary of 
+counseling and testing services. 
+"There is no such thing as flunking 
+this lest. It just puts you in the right 
+level," 
+
+Apprehensive students often ask 
+Olwein how they can sludy for the 
+lest Her answer is always the 
+same. "There's no way to study 
+really, I tell them, 'It's just a sur- 
+prise. When you come, you'll find 
+out,"' 
+
+The next test date Is Dec. 13, at 
+B:30 a.m., in the Watb Memorial 
+Union Ballroom. Students should 
+contact the Office o( Counseling and 
+Testing Services — Room 113, Walb 
+Memorial Union — for more in- 
+formation. 
+
+
+
+IPFL places at annual meet 
+
+
+
+Three members of the IPFW 
+Forensic League, competing in their 
+first speech event, were among the top 
+winners in Ball State University's 12lh 
+annual speech tournament. 
+
+The two-day event, entitled "Age of 
+Aquarius," was on Nov. 7 and 8. with 
+more than 200 students from 20 schools 
+across the Midwest participating, said 
+
+
+
+Janet Roncelli, IPFL faculty advisor. 
+
+"Our team members were more than 
+prepared for the competition," Roncelli 
+said. Each of those who placed in the 
+contest had to present his or her speech 
+or reading four times— three times in 
+the preliminary rounds and then again 
+in the finals against the best from the 
+earlier rounds. 
+
+
+
+The highest placing IPFL member 
+was Pat Sehoenrade, who earned 1st 
+place in Novice Persunsion. Lynda 
+Hatfield was 3rd in After-Dinner 
+Speaking, and David Yarnelle placed 
+6th in Dramatic Interpretation. 
+
+IPFW placed 6th in the sweepstakes 
+competition. 
+
+
+
+Senate meets, acts 
+
+
+
+By JIM CHAPMAN 
+
+Three new bills, one resolution, 
+newly-elected senators and several 
+appointments were on the Students' 
+Senate agenda for Nov. Sand 12. 
+
+During the Nov. 5 meeting, the Senate 
+voted to make permanent the seats held 
+t&gt;y students from the Department of 
+General and Technical Studies and the 
+Department of Fine Arts, thus allowing 
+any vacant seats held by those mem- 
+bers lo remain open until they could be 
+filled by students from those depart- 
+ments. 
+
+Approved at the Nov. 12 meeting was 
+q bill permitting freshmen to run for 
+Students' Senate seats. 
+- Also passed was a bill allocating $200 
+from (he Students' Government office 
+account to fund a coupon book that will 
+be distributed lo members of the IPFW 
+student body during the spring, 1981 
+semester. 
+
+These coupons will provide discounts 
+at various restaurants in the Fort 
+Wayne area, 
+
+Resolution N was passed urging the 
+Class Scheduling Committee to arrange 
+a longer lunch break between Saturday 
+morning and alurnoon classes, ll was 
+
+
+
+requested that ARA Food Services 
+provide grill service during the 
+Saturday lunch hours. 
+
+Also at the meetings, Mark Wells was 
+elected President Pro-tem and Ken 
+Schenk was sleeted Sergeant at Arms of 
+the Students' Senate. 
+
+Matt Hall, Rhonda Stringfellow and 
+Roger Meriwether were accepted as 
+new senators during the Nov. 5 
+meeting Hall was assigned to the 
+Student Affairs Committee, and 
+Meriwether was assigned to the 
+Legislative Affairs Committee. 
+
+Some presidential and vice- 
+presidential appointments were also 
+made. Bob Griebel was accepted as 
+Constitution Ad-Hoc, Michael Edmonds 
+was named Student Affairs Chair- 
+person and Gedalyhu Ben-Shimeon was 
+accepted as Legislative Affairs 
+Chairperson. Griebel and Ellen 
+Engleman were assigned to the 
+Legislative Affairs Committee, and 
+Mark Wells was assigned to Ihe Student 
+Affairs Committee. 
+
+In other action during Ihe Nov. 5 
+meeting, the University Friends of 
+'Animals' constitution was approved. 
+
+
+
+
+Faculty ratifies merger 
+
+
+
+Members of Indiana and Purdue 
+universities faculties here have ratified 
+a constitution that replaces their 
+separate faculty senates with a joint 
+senate. 
+
+I.U. faculty members voted 104-5 to 
+approve the new constitution, while the 
+Purdue faculty favored the agreement 
+with an 84-14 vote. 
+
+The new constitution, which outlines 
+the establishment, composition and 
+powers of the new combined senate, 
+
+
+
+will now be submitted to the presidents 
+and boards of trustees of both I.U and 
+Purdue for final approval. 
+
+Among Ihe powers of the faculty 
+senate are determining policies 
+regarding faculty tenure and 
+promotion, student conduct and ad- 
+mission of students. 
+
+The faculty senate also determines 
+the academic calendar and sets policies 
+for class scheduling and student par- 
+ticipation in athletic affairs. 
+
+
+
+&gt;RT WAYNE 
+
+^rriott Inn 
+
+
+
+Students vie for award 
+
+
+
+Psychic Jean Dixon met with reporters Friday afternoon at a press conference In 
+the Marriott Inn. loiter that evening, in Ihe Walb Memorial Ballroom, she revealed 
+12 predictions for 1981 lo an audience of nearly 400. Dixon's appearance was 
+sponsored hy Ihe Student Union Board of Govenors. (Photo bj Sandra Wiley) 
+
+
+
+At the conclusion of the current fall 
+semester, political science faculty 
+members will nominate papers written 
+by their students for Ihe Sally Merrill 
+Research Paper Award This award, 
+established las! year, is given for the 
+best research paper written by a 
+student enrolled in a political science 
+course. 
+
+Announcements of the winners of Ihe 
+
+
+
+award wilt be made in January 1981. 
+
+During the spring term, 1979-80, two 
+awards were given. Margarel Mishler, 
+a student in Julius Smutkslys's Y103, 
+and Ferris Gilford, a student in Michael 
+Down's Y480. were the recipient of Ihe 
+awards. 
+
+For more information aboul this 
+aw.ird. con tad Van Coufoudakis 
+
+
+
+OPIJVIOJV 
+
+
+
+The Communicator 
+
+
+
+Give thanks 
+
+
+
+Thanksgiving Day. 
+
+Is it becoming just another vacation (rom 
+- . the routine, work-school grind? Is it simply 
+."■ihe kick-off day for the Christmas selling 
+' - season? 
+
+Yes, Thanksgiving has become for many 
+people merely a lime for gorging themselves 
+''.with turkey and stuffing, their minds with 
+■ ;-foolball games and TV specials. For others, 
+^Overfilling their shopping enrts with pre- 
+! Christmas bargains a! local shopping centers 
+; •' has become Ihe day's primary recreation. 
+
+While certainly these things have their 
+Ciloce in the customs of celebrating this fall 
+!■* "holiday, we fear that the customs are 
+
+
+
+-^ ^ 
+
+
+\ 
+
+
+#* J 
+
+
+AMONG 
+
+
+r- - C 
+
+
+
+
+m L 
+
+
+THE 
+
+
+mm 
+
+
+LIVING 
+
+
+tL m 
+
+
+By NANCY SLICK 
+
+
+
+By NANCY SLICK 
+
+Life beguiles us with its 
+'~ Inany choices and 
+
+possibilities, II threatens us 
+■ at times and befriends us in 
+
+others. How does one ef- 
+fectively grasp the essence 
+
+a( life itself? It is elemen- 
+-.tary; life Is like a bag of 
+J jmlxed candies. 
+
+
+
+Life, like a bag of candies, 
+is exciting. We find a new 
+package lying in wait for us, 
+tempting us with Its 
+unknown contents, We 
+marvel at its potential 
+(hough we fear its pitfalls. 
+Our curiosity is piqued, and 
+we find it hard to abstain 
+from involvement 
+
+
+
+beginning to overshadow the meaning behind 
+Thanksgiving. 
+Thanksgiving Day. 
+
+It's a day set aside— first by our forefathers 
+and now by us— lo give thanks for the boun- 
+tiful harvest; the harvest of our thoughts, our 
+work and our prayers. 
+
+It is a lime when we pause to reassess what 
+we are striving for and the tilings in which we 
+believe. II Is a lime lo thank not only the 
+Maker for what we have, but also to thank 
+those around us for what they have given 
+us— malerially and spiritually. 
+Thanksgiving Day. 
+
+It's a lime to give thanks. Let's nol forget it. 
+Excitement stirs within us, 
+and we make a grab for the 
+bag of candles. 
+
+Both life and a bag of 
+candies contain disap- 
+pointments. No matter how 
+excited we can get about 
+what lies ahead, we must 
+prepare for the sourballs of 
+life. The unexpected, the 
+unpleasant, the dis- 
+astrous — they are all 
+untimely and arrive just 
+when we most desire 
+something sweet. We reach 
+our hands into the bag in 
+search of the delightful and 
+are quickly taken aback 
+when we taste the dreaded 
+sourball. "Dear God," we 
+wail so piteously, "why me? 
+Why now? Why the dreaded 
+sourball?" But we allow Ihe 
+tragedy to run its course, 
+and the troubled heart and 
+
+
+
+The Communicator 
+
+
+
+iwdm Wiley MsiWflinu Hue. 
+
+th. Indiana Purdu. Commvnkoloi « 
+publhihtd an Thunder mornlngi wtujn 
+rtoiut o&lt;a In iQMb*v br Ind lona- PurduD 
+
+
+
+, whkh in*, l«l 
+
+
+
+
+
+
+II b* rvpod-doubla »pw*d, c 
+. M* orl, D™dli— . fa l»i 
+liidn b*lo'&lt; ih. mA of 
+
+
+
+"iii'^'^" COUPON ^^^^■"^™" 
+
+WENDY'S 
+
+Wendy's has the fasfe, just for you. Bring this coupon 
+our N. Anthony store and receive a free small peps/, 
+coffee, or cold tea with the purchase of a salad, 
+single or chill. 
+
+Come on in and lettuce, 
+catsup on your hunger. 
+OFFER EXPIRES DEC. 30, 1980 
+
+
+
+.COUPON- 
+
+
+
+
+INSTANT COPY 
+
+JUST A MINUTE AWAY 
+
+
+
+3420 
+
+NORTH ANTHONY 
+
+482-1126 
+
+
+
+IN THE NORTH ANTHONY 
+
+SHOPPING CENTER 
+
+DOWNTOWN INTERSTATE INDUSTRIAL PARK 
+
+232 W. WAYNE 1516 DIRECTORS ROW 
+
+422-1585 484-9116 
+
+COMPLETE PRINTING SERVICES 
+
+
+
+WE WANT TO BE YOUR PRINTER 
+
+
+
+
+PAGE 2 -THE COMMUNICATOR -NOVEMBER20. 1980 
+
+
+
+rtSSffi R£DW0DD INN- 
+
+
+
+The Communicator will not publish nexl week due to the 
+Thanksgiving break. The nexl issue will be available on 
+Dec. 4. 
+
+
+
+weathered brow somehow 
+survive. 
+
+Bolh life and a bag of 
+candies also contain great 
+surprises. It's not every lime 
+we stick our hands in the bag 
+that we retrieve a sourball. 
+No, many times we are 
+pleased to withdraw a jelly- 
+(illed import from Holland or 
+France. We tasle the sweel 
+juices of life like we savor 
+the sweetness of such can- 
+dies. And for some time after 
+having such a wonderful 
+pleasantry, the sweetness 
+lingers and the emotions 
+soar. 
+
+We are thrilled and 
+exhilirated by the rewards in 
+life— rewards we have 
+strived for and taken risks to 
+achieve. And when we have 
+achieved those rewards 
+— what joy, what 
+
+
+
+what cavities. Success 
+abounds; "Come fly with 
+me" we cry in maniacal 
+glee. "My cup — over it 
+runneth. My ship— in il 
+cometh. My Timex— still it 
+ticketh." 
+
+Life and a bag of candies 
+are both unpredictable. We 
+never know what lies just 
+beyond our next grasp; will 
+we find fulfillment of our 
+desires or nothing at all? 
+Will we be haunted by the 
+dreaded sourball, or will we 
+be blessed by the Dutch 
+import? 
+
+If life were predictable, if 
+we could recognize the 
+sourball in disguise, we 
+would be awfully spoiled. We 
+would pick out all of the most 
+delicious of the candies and, 
+
+(Continued on Page 3) 
+
+
+
+
+OFF on large pitchers 
+
+of beer THURSDAY 
+NIGHTS During NOVEMBER 
+
+Also featuring Grinders, Sausage Rolls 
+
+and Ho» Sandwiches 
+
+2 for 1 Happy Hour Mon.-Frl. 5-6 
+
+
+
+1432 W. MAIN 
+
+
+
+Open at 5 p.m. 
+
+
+
+You must be 21 . If you're 
+not try our carry 
+
+
+
+ECKANKAR 
+
+Presents 
+
+YOUR RIGHT TO KNOW 
+
+An introductory lecture 
+
+based on Sri Darwin Gross' book 
+
+by the same title. 
+
+Mondoy, November 24/12:30 P.M. 
+
+Room 222 / Student Union Building 
+
+Free copies of 
+
+YOUR RIGHT TO KNOW 
+
+at lecture. 
+
+For further informotion coll 446-7113 
+
+
+
+Noted Catholic Theologian 
+
+Fr. Richard P. McBrien 
+
+of the University of Notre Dame 
+
+will speak on 
+
+"The Future of the Church" 
+
+at 7:30 p.m. 
+Tuesday, December 2 
+
+at 
+
+Crosier Ministry Center 
+
+2620 E. Wall en Road 
+
+Fort Wayne, Indiana 46825 
+
+(219)489-3521 
+
+
+
+
+Male/ m' Tail/ ' 
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIRDS 
+
+AND A FULL LINE OF PET SUPPLIES. 
+
+- COUPON ----.. 
+
+
+
+OFF ANY ONE FISH OR BIRD 
+
+With This Coupon 
+Limit One Coupon Per Customer 
+COUPON 
+
+
+
+■ 
+
+
+
+
+
+Slatewood 
+
+Sound Spectacular 
+Savings 
+
+
+
+ItC/l 
+
+
+
+
+
+
+BRUCE COCKBURN 
+
+HUMANS 
+
+
+
+
+5 UWE.RT RAM 
+
+
+
+
+ItCil 
+
+
+
+1 1« •"""" 
+
+
+
+
+It 
+
+
+
+$1.00 OFF 
+
+these featured releases 
+
+
+
+
+3627 N. Clinton 
+Ft. Wayne 
+483-9290 
+
+
+
+Coupon good thru 12/4/80 
+
+
+
+GivUlwjiili 
+
+
+
+NOVEMBER 20. 1980- THE COMMUNICATOR - PAGE 3 
+
+
+
+Women's club collects goods 
+
+The University Women's Club is col lee! i rig canned 
+goods, paper products, and other non-perishable items for 
+donation to the Christmas Bureau A box will be located 
+near the vending machine area on the ground floor of 
+Kettler Hall, Dec. 1 tog. 
+
+Those who wish to contribute money will find boxes 
+marked "Christmas Bureau" in various locations 
+throughout the campus. 
+
+Additional information is available from Linda 
+Balthaser in the Arts and Letters Office, Trom 1. 
+
+Center solicits trading stamps 
+
+
+
+The Johnny Appleseed Center is asking the public to 
+share its trading stamps with the mentally handicapped 
+during the 10th annual "Share Your Stamps" drive. The 
+project will start Thanksgiving Day and end on Jan 6, the 
+12th day of Christmas. 
+
+Collection boxes for M &amp; M. S &amp; H and Top Value trading 
+stamps will be at all Rogers and Maloleys markets. 
+
+
+
+Forensic club plans meeting 
+
+
+
+The IPFW Forensic League will meet at noon, Monday, 
+Dec. 1, in Room 222, Walb Memorial Union. All interested 
+communicators are invited. 
+
+
+
+Echkankar series to continue 
+
+
+
+Slick continued 
+from page 
+
+by having had them, would 
+not appreciate their good- 
+ness. Nor would we have 
+grown from the struggles we 
+must suffer to realize what is 
+genuinely good. 
+
+Whatever the con- 
+sequence, we remain 
+tempted by the contents of 
+that little bag. We take the 
+bad with the good and the 
+failure with the success. We 
+accept the sour because we 
+know the sweet lies in 
+wait— a glimmer of hope 
+among the gloom of despair. 
+We would never abandon the 
+good to avoid the bad, for 
+who can pass up a free bag of 
+candies? 
+
+
+
+
+The second meeting in the Eckankar discussion series 
+will be held at noon, Nov. 24, in room 222, Walb Memorial 
+Union. The first two chapters of the book, "Your Right to 
+Know," by Sri Darwin Gross, will be discussed. 
+
+
+
+Communicator K/)$ 
+Classifieds w|/ 
+
+
+
+NOW OPEN 
+
+A NEW STORE WITH YOU IN MIND 
+
+AFFORDABLE CASUALS 
+
+JEANS-CORDS-SWEATERS-SHOES 
+SHIRTS-BLOUSES-BELTS-JEWELRY 
+
+'down-to-earth, inc. 
+
+(FOR WOMEN AND MEN) 
+
+MARKET PLACE OF CANTERBURY 
+
+
+
+SUBOG FILM SERIES 
+
+PRESENT 
+
+A WONDROUS ANIMATION SPECTACLE 
+ABLAZE WITH ADVENTURE! 
+
+
+
+
+Sleeping 
+BEAuTy 
+
+
+
+FRIDAY AND SATURDAY 
+NOVEMBER 21 and 22 
+
+7 &amp; 10 p.m. 
+WALB UNION BALLROOM 
+
+Activity Cord Holders: FREE 
+Others $1.50 
+
+
+
+campus 
+calendar 
+
+
+
+THURSDAY 20 
+
+Inter-Varsity Christian Fellowship, Noon, Walb 112 
+
+FRIDAY 
+
+PIT, "Runaways," 8 p.m. 
+
+SUBOG movie, "Sleeping Beauty," 7 &amp; 10 p.m., 
+
+Ballroom 
+University Small Ensembles, Neff 101, 8 p.m. 
+
+SATURDAY 22 
+PIT, "Runaways," 8 p.m. 
+
+SUBOG movie, "Sleeping Beauty," 7 &amp; 10 p.m., 
+Ballroom 
+
+SUNDAY 23 
+
+University Wind Ensembles, Neff 101, 8 p.m. 
+
+MONDAY 24 
+
+French Club meeting, Noon, Walb 1 14 
+
+Inter- Varsity Christian Fellowship, Noon, Neff 147 
+
+"Life After Life," Guest speaker, Mr. Robert Wrights, 
+
+12-1:30 p.m. Walb 224, Sponsored by Department 
+
+of Nursing 
+
+TUESDAY 25 
+
+Basketball, Concordia at IPFW, 7:30 p.m. 
+Soc/Anthro Forum film "Controlling Interest: The 
+World of the Multinational Corp," Noon, Walb 1 14 
+
+THURSDAY 27 
+
+Thanksgiving holiday 
+
+
+
+SATURDAY 29 
+
+Basketball, Kalamazoo at IPFW, 3 p.m. 
+
+SUNDAY 30 
+
+Piano Quintet, Neff 101,3 p.m. 
+
+MONDAY, DECEMBER 1 
+
+Women's Studies, "Women's Music," 12-1:15 p.m., 
+Walb 116 
+
+Inter-Varsity Christian Fellowship, Noon, Neff 147 
+
+French Club meeting, Noon, Walb 1 14 
+
+University Women's Club Christmas Bureau Project 
+(canned goods, paper products, and other non- 
+perishable items) collection box located near 
+vending machine area in Kettler). 
+
+TUESDAY 2 
+
+University Women's Club Christmas Bureau Project 
+
+Soc/Anthro Forum, "Contemporary Taiwan," Noon, 
+
+Walb 114 
+Basketball, IPFW at Manchester 7:30 p.m. 
+University Jazz Ensemble and Community Jazz 
+
+Ensemble, 8 p.m. 
+
+WEDNESDAY 3 
+
+Dickens Dinner, The Chancellor's Night, 7 p.m. 
+
+University Women's Club Christmas Bureau Project 
+
+THURSDAY 4 
+
+University Women's Club Christmas Bureau Project 
+
+PIT, "Runaways," 8 p.m. 
+
+
+
+FRIDAY 28 
+Official holidoy 
+
+
+
+FALL RECRUITING CALENDAR 
+
+
+
+THURSDAY 20 
+NIPSCO 
+
+
+
+FRIDAY 21 
+Kroger 
+
+
+
+MONDAY 24 
+Texas Instruments 
+Xerox 
+
+
+
+Comput Calendar I* iponiorod by Indiana Unlwertlty-Purdue UnUeralty ai Fort Woyne for the u*o 
+
+of all unlvonlly department! and organization*, liunu to be Included In tho Campui Calendar mud 
+
+b« tubmllted to tho Office of University Relation,. Rm 101. Keillor Hall by 1 p.m. on Iho Thunday 
+
+preceding tho week ol publication 
+
+
+
+PAGE 4 - THE COMMUNICAT OR— NOVEMBEH2IUMI] 
+
+
+
+CLASSIFIEDS 
+
+
+
+JEFF THE SINGING 
+MESSENGER delivers 
+all occasion singing 
+telegrams by phone or 
+
+in person. 42-H321. 
+
+TURKEY TUNES BY 
+JEFF! Show the one 
+who fixes your 
+Thanksgiving dinner 
+your appreciation. 424- 
+1321. 
+
+
+
+
+tducilionil Ctnd 
+
+
+
+Classes in Fort 
+
+Wayne begin 
+
+January for 
+
+Feb. exam. 
+
+
+
+i ion run :i»in i»J 
+
+
+
+GRINGO'S MEXICAN- 
+AMERICAN FOOD 
+
+LUNCH SPECIALS 
+
+UNDER $ 3°° 
+
+•FAST SERVICE »EAT 
+BETWEEN YOUR CLASSES 
+•SERVING LUNCH UNTIL 5 P.M. 
+OPEN 11 :00 AM-AAIDNIGHT MON-SAT 
+4:00 PM-IOPM SUN. 
+
+5629 ST. JOE RD. 485-5736 
+
+
+
+
+SUBOG 
+
+INVITES YOU 
+TO 
+
+CHICAGO 
+SHOPPING TRIP 
+
+AT 
+
+Downtown Chicago's 
+Watertower Place 
+
+When - November 29, 1980 
+Time - Leave IPFW 7 a.m. 
+
+Return IPFW 9:30 p.m. 
+
+Activity Card Holders $8.00 
+Others $10.00 
+
+Tickets available at 
+WALB Union Sweet Shoppe 
+
+
+
+■ Hlj.'i = !.-M»il«^i.-» 
+
+
+
+FRI. &amp; SAT. NITE 
+ALL SEATS S3. 00 
+
+IJoJin Btluihi 
+in Mm 
+BmUwV 
+
+
+
+I ENTERTAINMENT GIFT BOOKS onSa/.wowf/J 
+
+
+
+
+"THE STUNTMAN" im 
+
+
+
+MAGIC BOY" IS) 
+
+
+
+'CaHHll- CHEVY CHASE 
+
+********£#. RODNEY DANGERFIELD 
+
+St\HCK TED KNIGHT 
+1:45- 3:45 ■ 5:45-7:45 • 9:45 
+
+
+
+SOUTHTOWN MALL 
+447-3535 
+
+
+
+GENA ROWLANDS 
+
+
+
+SPECIAL MD01E SHOW 
+
+
+
+"GLORIA" (pgi "MAGIC BOY" m 
+
+i 2 00 -4 30-7 00-9-30 Sot 8 Sun I 30 3 30 
+
+All Sooti $1 SO 
+
+
+
+i &amp; Sun S 15 7-30-9-45 
+
+
+
+DON KNOTTS 
+
+
+
+"PRIVATE EYES" 
+
+1:40 - 3:40 - 5:40 - 7:40 - 9:40 
+
+
+
+PG 
+
+
+
+An American -. /j. . fpGl 
+Dream Becomes a ■V***** rTUnClJ ' ' 
+
+^-^ Daughter 
+
+2:00 - 4:30 • 7 00 - 9 30 
+
+
+
+SSK BOftDiffiMf 
+
+Won. -F.i 7 30-9 30 Sol * Sun. I 30 3 30-S 307 30-9.30 H**?) 
+
+
+
+PRI VATE BENJAMIN 
+
+Mon F'i 7 45 9 SO Sol 4 Sun I 30-3 35 5 40-7 45-9 50 (RJ 
+
+
+
+PREGNANT? 
+DID YOU 
+KNOW? 
+
+BEFORE 
+
+YOU 
+
+EVEN 
+
+REALIZE 
+
+YOU'RE 
+
+PREGNANT 
+
+YOUR 
+
+CHILD 
+
+FEELS 
+
+PAIN? 
+
+NEED 
+
+HELP? 
+
+CALL 
+
+BIRTHLINE 
+422-1818 
+
+
+
+
+INDIANA-PURDUE 
+AT FORT WAYNE 
+
+Breakfast With 
+Santa Claus 
+
+SATURDAY, DECEMBER 6 10 A.M. 
+
+WALB MEMORIAL UNION 
+
+BALLROOM 
+
+Cost $ 3 50 per person 
+
+All IPFW Faculty, Staff, and Students and 
+their "special little guests" are invited 
+to attend. For reservations contact the 
+Alumni Office, Walb Union 235, 
+482-5343. 
+
+Sponsored by the IU Alumni Association, 
+Purdue Alumni Association, and the 
+Music Therapy Club. 
+
+
+
+&amp;J 
+
+
+
+
+
+
+
+Ground Floor of the 
+Student Union - Walb 
+
+Memorial Hall 
+
+Breakfast 7:30-10:30 
+
+Lunch 11:00-1:30 
+
+Grill 1:30-3:30 
+
+
+
+PIZZA SPECIAL ON 
+WEDNEDAY, NOV. 26 
+
+
+
+Call us for Party Trays to go 
+
+for your holiday entertaining. 
+
+483-4733 
+
+
+
+
+Due to our LOW overhead, 
+
+nobody can undersell us. 
+
+So shop our competitor's 
+
+shows and sales for their 
+
+prices. 
+
+Then, shop 
+
+AUDIO CITY NORTH 
+
+for the best price. 
+
+REMEMBER-WE WILL 
+
+NOT BE UNDERSOLD! 
+
+3413 North Anthony 
+in back of Karma Records 
+
+
+
+(■real Sounds! 
+
+The Philharmonic 
+
+
+
+
+ORDER BY PHONE 424-4134 
+
+
+
+The Philharmonic. 
+
+
+
+Sounds Great! 
+
+
+
+
+
+
+Fort Wayne 
+
+FILM GUIDE 
+
+
+
+§) 
+
+
+
+HOLIDAY 
+
+
+
+EXC LUSIVE* NOW in STEREOPHONIC SOUND 
+WALT 
+DISNEVS q 
+
+
+
+
+n 
+
+
+
+mi 
+
+
+
+TIM 
+CONWAY 
+
+• 
+
+DON 
+KNOTTS 
+
+
+
+•NOW* 
+
+
+
+THE 
+
+PRIVATE 
+EYES 
+
+
+
+GEORGETOWN Zff.-J°„»J 
+
+
+
+EXCLUSIVE 
+ONE WEEK ONLY 
+
+
+
+
+•NOW 
+
+
+
+GOLDIE HAWN 
+
+
+
+OIANCARLO GIANNINI 
+
+
+
+QUIMBY VILLAGE ,i 4 ilSJ.\ 
+
+
+
+GOLDIE HAWN 
+
+
+
+
+PRIVATE (U 
+BENJAMIN 
+
+
+
+•NOW' 
+
+"liars 
+
+
+
+Goldie 
+Hawn 
+
+in u 
+
+perfectly 
+
+outrageou 
+
+affair... 
+
+
+
+nSBMSMBEL 
+
+
+
+•NOW* SISSY SPACER 
+
+CetWth*+Wl'j 
+
+
+
+\ UNIVERSAL PICTUI 
+
+
+
+R E Eel 
+
+
+
+
+NOW PLAYING' 
+
+She's tough . . . 
+
+
+
+
+BURT REYNOLDS 
+
+
+
+&amp;WDIT\\ 
+
+Li5iJ A UNIYEBSAL PlCIURt 
+
+
+
+
+CINEMA 27 
+
+
+
+•NOW PLAYING* 
+
+CHARLES BR0NS0N JB 
+
+
+
+BOftDfffl/fff 
+
+
+
+ad 
+
+
+
+|PGl 
+
+
+
+
+the arts 
+
+
+
+NOVEMBER 20. 1980 — THE COMMUNICATOR - PAGE 5 
+
+
+
+
+These unusual sculptures by Ha Seltzer, constructed mostly from fabric and glue, are o 
+display In Artlink 's large gallery. ( Photo by Holdcn Maecker. ) 
+
+
+
+Dance, slides featured 
+
+
+
+Exhibit opens 
+
+
+
+The latest exhibit to open 
+at Artlink offers the 
+sculptures of Ila Seltzer, an 
+artist from Madison, 
+Wisconsin. 
+
+Constructed mostly from 
+fabric and glue, each work is 
+generally a series of 
+repeated patterns that range 
+in size from small wall 
+hangings to a large floor 
+piece that covers much of 
+the back of the gallery. 
+
+Her use of colors adds 
+dimension to her work; 
+several of the pieces are 
+dyed and one. "Silver 
+Lining," has painted ridges 
+which accent the texture and 
+the outline of the fabric. 
+
+Featured at the opening 
+last Friday was the 
+premiere performance of 
+"Sundrop," a dance based 
+on Japanese culture and 
+presented by the Fort Wayne 
+
+
+
+Dance Collective Touring 
+Group. 
+
+The group consisted of 
+four women, and their 
+performances were graceful 
+and poised. They moved well 
+to the music, which was 
+lovely in and of itself. 
+
+Although the chor- 
+eography was some- 
+times corny and other 
+times bizarre, the overall 
+effect was a beautiful dance 
+that flowed smoothly. 
+
+Following the dance, 
+Seltzer gave a gallery talk 
+about her work that featured 
+slides from her various, 
+exhibits. 
+
+The slides were a 
+fascinating chronicle of her 
+progression from heavy 
+wooden sculptures to lighter 
+pieces featuring 
+
+cheesecloth. She also in- 
+cluded slides of works from 
+her current display which 
+helped show where the 
+works fit into her artistic 
+development. 
+
+
+
+Her discussion was also an 
+enjoyable enhancement to 
+the slide show. She was 
+thorough without being too 
+detailed or verbose, and her 
+thoughts added much to the 
+intrigue of her art. 
+
+Seltzer's sculptures will 
+remain on exhibit at Artlink 
+through December 9. 
+
+
+
+
+The Fort Wayne Dance 
+Collective Touring Group 
+presented a premiere 
+performance of "Sun- 
+drop" at the Artlink 
+opening of Ila Seltzer's 
+sculpture exhibit. (Photo 
+by Holden Maecker.) 
+
+
+
+arts 
+at a 
+T f glance 
+
+The social whirl 
+
+DGTS and SUBOG are co-sponsoring a semi-formal 
+Christmas dance, Dec. 6, at the Holiday Inn downtown 
+Activities include a cash bar at 6 p.m. .dinner at 6; 30 p.m., 
+and dancing from 8 p.m. Jo midnight, featuring music by 
+the band Choice. Tickets are on sale at the Sweet Shoppc. 
+
+... SUBOG is sponsoring a trip to Chicago's Water Tower 
+Shopping Mall on Nov. 29. The cost is $8 for activity card 
+holders and S10 for others. 
+
+Treading the boards 
+
+Auditions for "Tartuffe," to be directed by Maureen 
+O'Reilly, will be held from 7 to 10 p.m., Sunday, Nov. 30. 
+and Monday. Dec. 1. at PIT. There are roles available for 
+5 women and 7 men between the ages or 18 and 60. For 
+more information, contact the theatre office in Neff Hall. 
+
+... "The Vinegar Tree," directed by Kevin Behr, will 
+open at Arena Theatre this weekend. 
+
+... "The Wiz" will be on stage at the Embassy Theatre at 
+8p.m., Nov. 22. Tickets are$12.50, JlO.SOand M.50. 
+
+... "Pleasure and Repentance," directed by John 
+Tolley, will end Nov. 23 at First Presbyterian Theater. 
+
+On the silver screen 
+
+The SUBOG film this week will be "Sleeping Beauty," 
+shown in the Walb Memorial Union Ballroom, at 7 and 10 
+p.m., Friday and Saturday. 
+
+... The Cinema Center film, Nov. 22, will be "Sleeper." 
+directed by Woody Allen. The film, Nov. 29. will be 
+"Allegro non Troppo." Both films will be shown at 7:30 
+and 9:30 p.m., at the Fort Wayne Public Library. 
+
+... The Embassy Theatre Film Club will be showing 
+"The Music Man" at B p.m., Nov. 21 and 2p.m., Nov. 23. 
+
+Concerts of note 
+
+The thirteenth annual "Dickens Dinner" will be Dec. 3, 
+5 and 6, at 7 p.m., in the Walb Memorial Union Ballroom. 
+Larry Bower will read from Dickens, and Ihe Division of 
+Music faculty and students will entertain with musical 
+merriment from old England. Tickets are $10.50 per 
+person and are available in Neff 142. 
+
+... The University Wind Ensemble will perform at 8 
+p.m., Nov. 23, in Neff 101. 
+
+.,. The D?FW Jazz Ensemble and the Community Jazz 
+Ensemble will give a concert at B p.m., Dec. 2, in Neff 
+101. ... Jazz artist Billy Taylor, with the Billy Taylor 
+Trio, will appear with the Fort Wayne Philharmonic at the 
+Embassy Theatre at 8 p.m., Nov. 29. 
+
+... Blues artist Eddy Clearwater will be playing at the 
+Imperial House Motel at 9 p.m ., Nov. 22. 
+
+... Molly Hatchet, with the Michael Schenker Group and 
+The Johnny Van Zant Band, will appear in concert at the 
+Memorial Coliseum at 7 :30 p.m., Nov. 24. 
+
+
+
+At First Presbyterian Theater 
+
+Show views love 
+
+
+
+By HELEN BUSCHEV 
+
+What is love? Oh pray thee 
+tell. It is that fountain, and 
+that well, where pleasure 
+and repentance dwell. 
+
+This question and others 
+like it are contemplated in 
+Terry Hand's "Pleasure and 
+Repentance," which opened 
+this weekend at First 
+Presbyterian Theater, under 
+the direction of John Tolley. 
+
+"Pleasure i Repentance" 
+Is a relaxing two hours of 
+poetry and song, a "light- 
+hearted look at love," per- 
+formed by four readers and a 
+balladeer. 
+
+The readers. Otto 
+Bonahoom, DonEtte Harold, 
+Marsha Wallace and David 
+Yarnelle, describe love from 
+the early childhood writings 
+of Margory Fleming, 
+
+
+
+through the words of many 
+other familiar writers. 
+
+The performance, in two 
+parts, goes from young love 
+and courtship, into marriage 
+and disillusionment, and 
+ends with a section, "Last 
+Confessions," where we hear 
+George Bernard Shaw's 
+especially vivid remem- 
+brances about his mother. 
+
+The audience found en- 
+joyment and laughter in the 
+many quips and jokes woven 
+throughout, such as the 
+father advising his son on 
+marriage and saying, "It's 
+time to take a wife." "But 
+father, whose wife shall I 
+take?" 
+
+Or consider one man 
+asking the other, "Do you 
+talk to your wife after you 
+make love?" "Only if there 
+
+
+
+is a phone handy," the other 
+jokingly replies. 
+
+The performers were 
+excellent in their portrayal 
+of the various characters 
+that wind in and out nf the 
+readings. Bonahoom earns 
+applause for his quick and 
+precise "said he" and "said 
+she" in E.E. Cummings, 
+"May I feel said he." Mary 
+Collins should also be noted 
+for a lovely voice and talent 
+as the balladeer. 
+
+So what is love? It is a yea, 
+it is a nay ... take advantage 
+while you may. 
+
+Others may take ad- 
+vantage of the final three 
+performances to be given 
+this weekend, Nov. 21and22, 
+at B p.m., and on Sunday, 
+Nov. 23 at 2 p.m. Student 
+tickets are $2 and adults can 
+get infor $3.50. 
+
+
+
+Police sound fresh 
+
+
+
+By SUE 
+SNODGRASS 
+
+While imitation new wave, 
+like Cher's Black Rose, has 
+contaminated the taste of the 
+majority with com- 
+mercialized has beens. the 
+Police have made another 
+oustanding effort In 
+providing true punk for those 
+who wish to choose. 
+
+Once again, the Police 
+have superbly presented 
+their style of jazz and reggae 
+slickness with their clean 
+drive of punk; the same 
+freshness that made their 
+1977 hit, "Roxanne," a 
+success, 
+
+Their new LP, "Zenyatta 
+Mondatta," is their best due 
+to a world tour. 
+
+The album's title is 
+derived from a 
+
+conglomerate of symbols. 
+
+
+
+Zenyatta is derived from the 
+words Zen, a philosophy, and 
+Jomo Kenyatla, an African 
+politician. Mondatta is 
+descended from the French 
+word for Sanscrit and 
+combined with the Reggatta, 
+part of the title from the 
+group's second LP. 
+
+The LP was recorded in 
+three weeks in the 
+Netherlands, and directly 
+reflects what the group saw 
+and experienced on their 
+tour. 
+
+The son, "Driven to 
+Tears" is about world 
+hunger and poverty. With 
+lyrics like, "I hide my face in 
+my hand, shame grows in 
+my throat; my comfortable 
+existence is reduced to a 
+shadowless, meaningless 
+note; seems like when some 
+innocent die, all we can offer 
+
+
+
+them is a page in some 
+magazine; too many photos 
+and not enough food," the 
+band's concern for social 
+issues is proven. 
+
+Perhaps the most im- 
+pressive cut is "Bombs 
+Away." which reflects on the 
+political and military 
+hypocricy In Bombay.. 
+Stewart Copeland provides 
+skaish funk to words such as, 
+"The president speaks; his 
+shirts are clean but his 
+country reeks; bombs away, 
+but we're okay." 
+
+The entire album is a 
+social statement that makes 
+one question one's own 
+existence. The music Is 
+exciting and distinguished, 
+and it makes the Police, an 
+underground band from the 
+early movement, the most 
+prominent group of 
+musicians of the decade. 
+
+
+
+
+{j* OSBORNE/McGraw-Hill 
+
+* HARDWARE 
+5 ZDCT2? 
+HH SOFTWARE 
+
+
+
+m 
+
+
+
+X 
+
+£ 
+
+o 
+E 
+
+s MSMMNS 
+
+
+
+Sams 
+
+
+
+
+Maplewood Plaza 
+
+6024 Stellhorn Road 
+
+Fort Wayne, Indiana 466*15 
+
+
+
+A 
+
+ATARI' 
+
+
+
+T&amp;rapJierml fo PaUcc 
+
+
+
+• Jewelry • Gift Hems 
+and Other Accessor/. 
+
+(219) 4a4 -4711 
+
+
+
+1014 Coliseum Blvd. East Ft. Wayne, In. 46805 
+
+
+
+
+FREE 
+
+LEGAL 
+
+SERVICE 
+
+Are your legal woes 
+
+threatening the happiness 
+
+you once found in being 
+
+neurotic? If so, let a 
+
+friendly, competent 
+(but, most importantly, 
+free) lawyer advise you 
+
+about your problems. 
+
+
+
+Contact: 
+
+STUDENTS' 
+GOVERNMENT 
+
+482-5354 
+
+
+
+Chevy Chase 6oWie Hawn Charles Grodin 
+
+t5§Ss 
+
+
+
+
+Neil Simon's 
+
+Seems LkeOu/Smes 
+
+COLUMBIA PICTURES P,esen ls A RAY STARK woaucon CHEVY CHASE G0LDIE HAWN CHARLES GRODIN 
+IN "NEIL SIMONS SEEMS LIKE OLD TIMES" A JAY SANDRICH FILM ROBERT GUILLAUME 
+
+M oac Dr MARVIN HAMLISCH Ejecuuye produce. ROGER M ROTHSTEIN Producnon Designed by GENE CALLAHAN 
+IPGl BUIO ffm EMDMCf SDKtSTED^^P 1 ] o.recio. 01 Phoiogtaphy DAVID M WALSH w.illenoy NEIL SIMON f.^rastap. ^^ 
+It,.,.,,!,......,,,,,..:,.,,,.,.,.... ! p,oo u ced D» RAY STARK Di.ecied o, JAY SANDRICH .-» ;■«..- —.- cjg-j- 
+
+Coming This Christmas 
+
+
+
+Cagers to open season 
+
+
+
+PAGE 6— THE COMMUNICATOR — NOVEMBER 20,1980 
+
+
+
+ByMIKEFRANKE 
+
+This year's edition o( 
+Indiana-Purdue basketball 
+goes into the season with 
+some question marks, but 
+there is one intangible this 
+season Ihal was lacking in' 
+last year's campaign. The 
+team has found a basketball 
+"family togetherness." with 
+everyone pulling in the same 
+direction. 
+
+This is an important 
+aspect thai was missing 
+from last season's 4-20 team. 
+Ken Workman, starting his 
+second season as head 
+coach, feels that the 
+•■togetherness" will result in 
+a definitely improved 
+ballclub. 
+
+Workman has four 
+returning lettermen three 
+transfers, and four freshmen 
+recruits from which to mold 
+his team. 
+
+
+
+One problem thai Work- 
+man had with last year's 
+team was the lack or an 
+Intimidating center. 
+
+Although he wasn't able to 
+recruit any big centers for 
+this season, he does have one 
+player who should fill the 
+void when the season opens 
+Friday night in the Cedar- 
+villc Invitational. 
+
+Greg, Stillwell. a 6'6" 
+senior, returns for his final 
+year after a rugged off- 
+season workout schedule, 
+which will undoublably 
+mean a big improvement in 
+the pivot area. 
+
+Junior Brian Grady 
+returns to the team after a 
+one year layoff Two years 
+ago, Grady averaged 9.6 
+points per game. 
+
+Reluming to Fort ,7ayne 
+after a junior college stint in 
+South Dakota, are Rickie 
+
+
+
+Smith and Gregory Hunter, 
+both of whom played at 
+South Side High School. 
+Smith, a 6'3" skywalker, will 
+help the front-court situation 
+with good shooting and 
+aggressive rebounding. 
+Hunter will be used at guard. 
+
+Junior Ron Bojrab, an 
+excellent perimeter shooter, 
+will be counted on to do some 
+big scoring this season for 
+the Tusker squad. 
+
+Another transfer is Tony 
+Davis, a 6 foot sophomore 
+point guard from Bishop 
+Dwcnger. Davis will 
+probably* be one of the 
+starting guards in Friday 
+night's opener. He attended 
+St. Francis in his freshman 
+year. 
+
+Sophomore Craig Wort and 
+junior Mark Potty will also 
+see some action at the guard 
+spots. 
+
+
+
+Second state title 
+eludes v-ball team 
+
+
+
+B&gt; CHRIS PYLE 
+
+The women's volleyball 
+team fell short in its bid to 
+defend its state title as it 
+advanced lo the quar- 
+terfinals before being ousted 
+by the eventual state 
+champs, Taylor University. 
+
+"We were naturally 
+disappointed," coach Peggy 
+Voisin said about (he Tusker 
+losses in the tourney, "but 
+we did gel out of our pool and 
+into the quarterfinals." 
+
+"The girls have nothing to 
+be ashamed of," Voisin said. 
+"We suffered injury after 
+Injury after injury, but the 
+kids never gave up." 
+
+The reference to the 
+numerous injuries plaguing 
+the team emphasizes the 
+unfortunate happening that 
+occurred in the Tusker loss 
+to Taylor. 
+
+
+
+"We lost the first game 8- 
+15," Voisin said, "so I told 
+the girls at the break 'You 
+gotta do it now ' They came 
+out and just stomped 'em 
+(Taylor) in the second game, 
+and we were leading by three 
+points in the third." 
+
+Freshman Lori Gray 
+described what happened 
+next. "We were ahead and 
+Mary Drake ran for the ball. 
+She collided with Amy 
+Brunow and she {Drake! 
+passed out from the collision. 
+Mary really scared us. She 
+wasn't breathing and she 
+turned a blue-purplish color. 
+Coach Voisin wos ready to 
+give her mouth-to-moulh 
+resuscitation. Then Mary 
+started gasping (or air. We 
+were relieved when she was 
+able to walk off the court." 
+
+The spikers were relieved 
+
+
+
+but also rattled. They lost 
+their concentration, and the 
+momentum passed to 
+Taylor, who won the game, 
+15-6, and the match, 
+
+In the previous match, the 
+Tuskers avenged an earlier 
+season loss lo St. Marys by 
+thumping them in two 
+straight games, 15-4 and 15- 
+13. 
+
+In the opening round of the 
+tourney, the Tuskers played 
+Anderson College Friday 
+afternoon. Anderson took 
+them by surprise and beat 
+them in two straight games, 
+15-8 and 15-8. 
+
+"We really weren't up lo 
+playing them," Gray 
+commented. "We were 
+waiting for the match 
+against SI. Mary's." 
+
+The women's volleyball 
+team ended the season with a 
+14-26seasonrecord. 
+
+
+
+Walk-on Mike Schaefer 
+will use his 6'4" frame to 
+give some aggressive play in 
+the middle. 
+
+The four freshmen recruits 
+are led by 6'2" Gary Rinard. 
+The Eastslde High School 
+graduate could be in the 
+starting lineup in Cedarville. 
+Olher freshmen recruits 
+include Kendall Murphy, 
+Scott Norris and Phil 
+Sh idler. 
+
+The freshmen become 
+even more Important this 
+season because of the ab- 
+sence of two key players 
+from Ihe 79-80 season, 
+Clifford Todd, last season's 
+leading scorer, has decided 
+not to come back this season, 
+and ptaymaker Wyan Dunn 
+left the school in the fall and 
+has nol returned. 
+
+In this the final year at the 
+rented Concordia Seminary 
+Gym, prior to (he move to 
+the new on campus facility in 
+1981, the Tuskers will have 
+some problems on the court. 
+However, there is great 
+improvement from last 
+year's squad. 
+
+The major problem is lack 
+of size, but Workman sees a 
+way to minimize the 
+problem "If you're 
+aggressive and heady, and 
+
+
+
+have the desire, you can do a 
+lot of things lo overcome 
+size, or the lack of it." Work- 
+man does see some definite 
+positive aspects that the 
+team lacked last year. The 
+coach said, "We'll have 
+much better scoring 
+balance, along with greater 
+floor savvy." 
+
+In Friday night's action, 
+Ihe Tusker's will play 
+Cedarville in the second 
+game of the evening. Kenyon 
+College plays in the opener. 
+
+The Tusker's first home 
+game comes next Tuesday 
+evening, as Ihey "host" 
+Concordia College at the 
+Concordia gym. Game time 
+is 7:30. 
+
+Workman is hoping that 
+the team establishes its new 
+"family togetherness" 
+starting with this weekend's 
+games. The feeling is that 
+the new attitude will cut 
+down on the many mental 
+errors that plagued last 
+season's team. 
+
+Getting the team to play 
+aggressively is the key to the 
+season, according to Work- 
+man. "When the 
+aggressiveness becomes 
+built in, then we'll have what 
+it takes to play most of the 
+teams on our schedule." 
+
+
+
+Why do they do it? 
+
+
+
+ByCllRlSPYLE 
+
+There are some students at 
+IPFW who spend long hours 
+practicing, doing their 
+homework and studying in 
+vans and cars, gel home lale 
+al night, and have to be back 
+a( school early the next day 
+for classes. In return, they 
+reieive little fame and no 
+fortune. 
+
+That is the plight of the 
+sludenl-athlele ot IPFW. 
+The women's volleyball 
+team recently completed its 
+season, and some of the 
+members gave their reasons 
+as why they put up with it. 
+
+"I love volleyball." said 
+freshman Lori Gray. 
+"Volleyball lakes a great 
+deal of time, dedication, 
+work and pain." 
+
+Junior captain Jo Witte 
+likened Ihe relationships that 
+develop belween the 
+members as those of a close 
+knit family She also liked 
+the challenge the sport 
+presents 
+
+
+
+"Nancy Rorick is always 
+getting her fingers 
+smashed," Gray said about 
+her fellow team member. 
+"Never an ankle, always her 
+fingers. Nancy has the 
+winning spirit. She helps 
+keep the team together. Our 
+captains, Kim Heimann and 
+Jo Witte, kept the learn up 
+with their positive attitudes. 
+We had two girls, Laura 
+Franke and Cindy Frisby, 
+who never played on a 
+volleyball team before. 
+They've come a long way 
+since Ihe beginning of the 
+season. H's really amazing." 
+
+Other members of the 
+volleyball family were Sue 
+Hendricks, Linda 
+
+Przeniczny, Sarah Uhrlck, 
+Amy Brunow, Mary Drake, 
+Beih Christman, Janet 
+Braun and learn manager, 
+Peggy Link. 
+
+Head coach Peggy Voisin 
+also received high praise 
+from Gray. "Peggy made 
+
+
+
+the team fun. A coach has to 
+be supportive but corrective, 
+even in hard times. She 
+rubbed off an 'I wont to win' 
+attitude. I fell bad we didn't 
+win the state title for her. I 
+know it meant a lot to her, 
+bul I don't think she was 
+disappointed in us. Peggy 
+made a darn good coach," 
+Gray said. 
+
+Now that the season is 
+over, the family must break 
+up and go its separate ways. 
+However, some of the girls 
+will not be completely 
+separated, as it is expected 
+that five or six of them will 
+join the women's basketball 
+team. 
+
+"I'm going to miss the 
+girls that leave, but I look 
+forward to a new season and 
+meeting new friends," said 
+Gray. 
+
+"I don't know what I'm 
+going to do with my extra 
+time now that volleyball 
+season is over," said 
+Heimann. 
+
+
+
+•••in brief 
+
+B-hall tickets on sale 
+
+The fourth annual Sertoma Tip-Off Basketball Tourney, 
+sponsored by the Downtown Sertoma Club, will be held 
+Friday, Dec 5, and Saturday, Dec. 6. 
+
+IPFW, St. Francis, Indiana Teeh and Taylor Colleges' 
+women's teams and IPFW. St. Francis, Indiana Tech and 
+Concordia colleges' men's teams will compete. 
+
+The Tuskers will open the action in both divisions on 
+Friday, with the women playing at 3 p.m., and the men at 
+7 p.m. 
+
+Tickets, good for the entire tournament, may be pur- 
+chased from the Athletic Department office, room 210, 
+Walb Memorial Union, at the popcorn machine in Ihe 
+basement of Keltler Hall, or from the cheerleaders and 
+members of the men's and women's basketball teams. 
+
+Tickets purchased at the door will cost $2 per session. 
+Part of the proceeds from tickets purchased early at 
+IPFW will be donated by the Sertoma Club to the Tusker 
+Athletic program. 
+
+Unexpected climbs to 7-0 
+
+The Unexpected extended tneir unbeaten string to seven 
+games in the intramural coed volleyball league last week , 
+
+Hot on their heels are the United Flyers, 6-1, after six 
+weeks of competition. 
+
+Olher teams and (heir records: the Savage Spikers, 5-3; 
+The Sting and The Greeks. 4-3 ; and the Geology Club, 3-4. 
+
+Also, the No Names, YPBC-Channel 14, DGTS l and The 
+Mutants, 3-5; and the Aces and DGTS 2, 2-5. 
+
+
+
+SCUBA 
+
+The New Adventure 
+
+Sales— Service 
+
+Alt major brands of diving equip. 
+
+CLASSES BEING OFFERED 
+
+Basic to Advanced Le.ols 
+Join Ihe new ploneari — 
+
+leorn lo explore the last frontier 
+Begin Your Adventure Now 
+
+AQUANETIC 
+CENTER 
+
+206 tineoln Hwy 
+New Haven, IN 
+493-2904 
+
+
+
+
+
+The IPFW men's basketball team opens their 1980-81 campaign with the Cedarville in- 
+vitational this weekend. They are &lt;I-r) sitting; Phil Shldeler. Tony Davis, Ron Bojrab, Greg 
+Hunter, Kendall Murphy and Craig Wort. Standing; Head coach Ken Workman, Scott 
+Norris, Brian Grady. Greg Slillwell, Rickie Smith, Mike Schaefer, Gary Rinard and 
+assistant coach It ay Odotn. (Photo courtesy University Relations; by Gabriel DeLobber 
+
+
+
+MIKE'S VW ,. FOREIGN 
+
+CAR SPECIALISTS 
+
+
+
+HONEST WORKMANSHIP 
+
+
+
+
+Ft. Wayne's 
+Oldest Independent 
+V-W Repair 
+Shop. 
+
+
+
+NOW SERVICING HONDAS AND 
+MANY OTHER FOREIGN CARS 
+
+
+
+1720 S. Harrison 
+744-331 1 
+
+
+
+3102 E. Washington Blvd. 
+422-0218 
+
+
+
+20% OFF 
+
+STORE WIDE 
+
+3 DAYS ONLY 
+
+NOV. 21 . 22 &amp; 23 
+
+XMAS SAVINGS NOW! 
+
+JEANS &amp; THINGS 
+
+GLENWAY 
+
+BARGAIN CENTER 
+
+
+
+3820 COLDWATER RD. 
+Across From Ayr-Way North 
+
+
+
+OPEN EVENING TIL 9 
+SUNDAYS 12-5 
+
+
+
+
+
+
+
+2\ 
+
+
+
+FEATURING 
+
+SALAD BAR, PIZZA 
+
+SPAGHETTI, 
+
+CHICKEN AND 
+
+SANDWICHES 
+
+Also BEER and WINE 
+
+Try our Reuben Pizza ^WM 
+
+
+
+/MOVING WITH THE TIME5 
+
+
+
+IP 
+
+
+
+£xPlZZB#j Shopping 
+
+
+
+1S| Center 
+
+» 484-3169 
+
+
+
+
+Fort Wayne 
+PUBLIC 
+
+TRANSPORTATION 
+CORPORATION 
+
+Information 432-4546 
+
+
+
+</pre>        </div>
+      </div>
+    

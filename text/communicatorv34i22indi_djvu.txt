@@ -1,0 +1,4376 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv34i22indi/communicatorv34i22indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv34i22indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv34i22indi">The Communicator</a>"
+          </h1>
+          <pre>Indiana University • Purdue Univ ersity • Fort Wayne 
+
+The Communicator 
+
+IKKinF* ■ A shining cast ■ IPFW-IUPUI game a nailbiter ■ Dyan Cannon coming 
+
+IMJIL/L. 'Arms And The Man' well worth Mastodons lose by three points in Oscar nominated actress to sive 
+the effort to see. Page 7 a competetive game. Page 10 keynote at Tapestry. Page 2 
+
+
+
+Volume 34, Issue 22 
+
+
+
+www.ipfwcommunicator.org 
+
+
+
+Wednesday, March 3, 2004 
+
+
+
+Construction said to tear down workers 
+
+
+
+Over two dozen protesters 
+picketed Waterfield - Campus 
+Housing Friday, citing labor dis- 
+putes and skirting of the law in the 
+ongoing controversy involving 
+IPFW's first student housing loca- 
+
+Past and present project work- 
+ers, union officials and some IPFW 
+students joined in solidarity to the 
+occasional honks of horns from 
+likeminded drivers seeing the pro- 
+testers at the Crescent Avenue 
+entrance of the housing. 
+
+"Those workers are being 
+exploited. They're standing up and 
+that's a big step," Tom 
+Lewandowski said. Lewandowski 
+is the president of the Workers' 
+Project and Northeast Indiana 
+Central Labor Council. 
+
+The exploration took different 
+forms during the construction of 
+the buildings, ranging from being 
+underpaid to having their own 
+safety endangered. In recent court 
+cases and stale agencies finding, 
+subcontractors have settled out of 
+court on cases brought forward by 
+
+
+
+workers, and been fined thousands 
+for safety violations at the site. 
+Other wage dispute lawsuits are 
+still pending in Allen County 
+
+Former workers were also 
+picketing the site, stating their con- 
+cerns and handing out flyers to 
+passing motorists about the 
+approximately $25 million project. 
+
+"We want more attention so 
+
+make a change. A lot of my people 
+are afraid to come out -- but not all 
+of them," Abraham Desantiago 
+said. Desantiago had worked on 
+the building. After he and others 
+were allegedly let go, being told 
+they weren't needed any more, he 
+witnessed other workers doing his 
+former duties at the site. 
+
+"We work really hard. We 
+worked seven days a week and all 
+of the sudden they came out and 
+said our job is done. And then we 
+see people are out there working 
+and doing our job," he said. 
+
+Lewandowski noted while 
+there were many concerns, the pri- 
+mary one was with the mistreat- 
+ment of parts of the construction 
+
+
+
+
+
+
+related to this - i 
+
+workers being exploited, ' 
+
+Lewandoski explained. 
+
+Lewandowski noted the 
+workers were using their First 
+Amendment rights of freedom of 
+speech and freedom of assembly - 
+and by them taking that action, 
+other local unions have decided to 
+stand with the non-union workers. 
+
+"We told them 'If you show 
+courage, we'll show solidarity, '" hu 
+
+The solidarity comes follow- 
+ing numerous allegations of wage 
+debates from cases where subcon- 
+tractors allegedly underpaid 
+numerous workers under the scale 
+set by federal and state guidelines 
+for a publicly-funded project. A 
+number of fines have also been 
+levied against companies on the 
+site for safety violations, according 
+to inspectors who have looked at 
+the safety of the workers at the new 
+
+IPFW officials have had tittle 
+ibout the controversy, 
+
+
+
+Continued on Page 2 Workers picket the stud. 
+
+
+
+
+
+Over 75 emails claiming to be from IPFW administers were sent 
+in February. Officials are now trying to find out who did it and how. 
+
+'Fakemailz' causing 
+some real problems 
+
+
+
+Recent emails that appeared 
+to be from IPFW administrators 
+have been sent to more that 75 
+recipients. 
+
+The messages seemed to be a 
+forward from Dean of Students, Dr, 
+Donna Bialik to Chancellor 
+Michael War-tell. More than 75 
+emails have been sent using 
+Bialik's account. At least one email 
+was sent from Wartell's account. 
+
+The email was a copy of a let- 
+
+
+
+ter of resignation from a former 
+senator to Bialik. 
+
+"I'm kind of shocked that my 
+little letter caused this much trou- 
+ble," said Christopher Lung, the 
+former Ways and Means Chairman 
+for the Student Senate. 
+
+Bialik commented, "We don't 
+know who did it, but we are inves- 
+tigating." 
+
+A complaint was filed with 
+campus police. According to an 
+official, no threats or pornography 
+
+Continued on Page 3 
+
+
+
+IPFW student dies while 
+on vacation in Colorado 
+
+
+
+An IPFW student visiting 
+family and friends in Pueblo, 
+Colorado died Friday, Feb. 27. 
+
+Michael Jason Rice, 25, of 
+New Haven was a freshman at 
+IPFW. He was preparing to enter 
+U.S. Army basic training this 
+spring. He was hospitalized last 
+week after injuring his heel. 
+
+The cause of his death wasn't 
+immediately known. An autopsy 
+was expected. His body was being 
+transported back to Indiana. ■ 
+
+Rice had worked as a clerk for 
+IPFW's Walb Student Union since 
+the beginning of fall semester, 
+according to coworkers. 
+
+"We're totally shocked. We 
+were surprised to find out he got 
+injured last week and to find out he 
+passed away blew our minds," Blix 
+Fredrick said. She is the facility 
+manager of Walb Union. 
+
+She considered him an 
+employee who kept customers in 
+mind and kepi coworkers giggling 
+
+
+
+
+Michael Rice was an employee 
+with Walb Student Union 
+Information Desk. He died 
+Saturday in Colorado. 
+
+"He will be remembered for 
+his practical jokes," Fredrick noted. 
+She also said he was very dedicat- 
+
+Services for Rice will be 
+
+Thursday at E. Harper &amp; Son 
+Funeral Home in New Haven 
+
+beginning at 11 a.m. with calling an 
+
+
+
+hour before the service begins. 
+Along with the hour prior to the 
+funeral, friends and family may 
+visit a calling at the funeral home 
+on Wednesday from 2-4 p.m. and 
+again from 6-8 p.m. 
+
+Rice is survived by his wife, 
+Jessica; son, Michael Jr., both of 
+Fort Wayne; his mother and step- 
+father, Gail (Richhart) and Ed 
+Claymiller of Fort Wayne; his 
+father and step-mother, Thomas 
+and Danielle Rice of Pueblo West, 
+Colorado He is also survived by 
+his half-sister, Christina Rice of 
+Fort Wayne; and step-brother, Ben 
+Perry, of Fort Wayne. 
+
+Rice will be buried at Scipio 
+Cemetery. 
+
+He is the third member of 
+IPFW to die unexpectedly in the 
+last three months. Anthropology 
+Professor Paul J. Provost, 58, died 
+Dec. 24 after a bout with pneumo- 
+
+On Jan. 6, volleyball assistant 
+coach Tony Laux, 32, was killed 
+after a fall in Puerto Rico. 
+
+
+
+The games people play can be Universal 
+
+
+
+Looking for something to do on a 
+Friday night? Something that doesn't 
+cost much, if any, money and you can 
+have a great time with? 
+
+If so, then check out the Universal 
+Gaming Associations IPFW chapter. 
+Every Friday from 5 p.m. until 9 p.m., 
+the UGA holds gaming sessions on 
+and off campus. There are a variety of 
+gaming formats offered, and anyone 
+attending is welcome to bring their 
+
+
+
+Dragons. Although there are many 
+misconceptions about D&amp;D, the true 
+nature is one of fun and friendship. 
+
+"It's a really fun game, everyone 
+knows how to play it. It's role playing 
+and strategy," UGA President Paula 
+Brandt said. 
+
+There are many versions of the 
+game available, and the UGA offers 
+only a few do to limited Dungeon 
+Masters. Currently they have a cam- 
+paign of Orb3, which has been run- 
+ning for about a year, and they are 
+beginning one of Verrium and Dark 
+Ages Vampire. 
+
+Mike Sharp has been Dungeon 
+
+Continued on Page 9 
+
+
+
+
+7 leads a group through a D&amp;D adventu 
+
+
+
+11 
+
+
+
+'Step Afrika' gives 
+IPFW students 
+insight, entertainment 
+while perfortning at 
+the Studio Theatre 
+
+
+
+
+Spring Break 2004 
+
+
+
+Dozens of students 
+are traveling during 
+Spring Break. Here's 
+some helpful hints 
+and safety tips. 
+
+
+
+
+Page 2 The Communicator 
+
+
+
+News 
+
+
+
+March 3, 2004 
+
+
+
+Tapestry 
+to feature 
+Dyan 
+Cannon 
+
+
+
+Parkview Women's Health 
+Center will present, 'Tapestry: A 
+Day for Women" Api " " 
+Hall T 
+
+
+
+'Step Afrika' moves entertain, 
+educate university students 
+
+
+
+Step, step, side to side; more like stomp, 
+clamp, clamp, stomp, ugh! 
+
+' On Feb, 25, IPFW students witnessed the 
+forming of a new art form that has been over- 
+shadowed for years through the moves of Step 
+Afrika. 
+
+"I was pleased to see a group of young, 
+black, professional male and females expressing 
+themselves through the art of dancing," IPFW 
+student Teranee Oxendine expressed. 
+
+Once a main attraction at universities, 
+stepping was not fully welcomed into modem 
+day .ictivities or school activities dwell. 
+
+As Step Afrika, a six-member group of 
+college graduates, synchronized their fraternity 
+and sorority roots with a diverse twist of cultur- 
+al awareness, as it look center stage it was 
+unclear to what was expected. However, as roll 
+call began to become a phrase of clarification, 
+the rhythmic sounds from the hands, feet and 
+voice presented a new way of communicating, 
+stepping. 
+
+This style could once be seen on every 
+university across America and has become the 
+key element in Step Alrik.i's approach to cultur- 
+al education, 
+
+Incorporating the exchange of different 
+cultures from various countries, with an empha- 
+sis on Africa, Step Alrik.i's mission is to bridge 
+the gaps of education and cultural knowledge 
+
+
+
+
+not only to Americans 
+but people from other 
+countries and back- 
+grounds as well. 
+
+Darius Gordeen, 
+founder of the group, 
+has founded Step I 
+Afrika in two othei 
+
+America and he also I 
+has an active role in the | 
+stage performance. I 
+which gives a glimpse I 
+of this creative art form, 
+founded in America, i 
+(Made in America) and 
+how it has become pop- 
+ular in other regions in A member of Step Afrika encourages IPFW students to keep their feet 
+a more upbeat, move moving while showing them a routine. Step Afrika was one of over a 
+out of the seat sort of dozen activities sponsored by IPFW during Black History Month and 
+way. held a show at the Studio Theatre in Kettler Hall on Feb. 25. 
+
+The storyline 
+itself gives history of the traditional pledges to good," IPFW student Jenelle Davis said, 
+fraternities and sororities with a twist of mod- Throughout the performance history of 
+
+em musical chorus and an ear full of sound to the old coal mines in Africa was a topic por- 
+adhere to directly from the feet and hands. n-ayed by this art form. As the stage began to 
+
+It was a storyline surprising to some settle from the shakes set upon the floor, stu- 
+IPFW students. dents and staff learned the basics of stepping. 
+
+"I enjoyed it. Although I thought it was One IPFW student felt it was entertaining 
+
+going to be centered around African culture and enlightening. 
+
+instead of fraternal means. Still with my per- "Hilarious The stepping was good, inter- 
+
+sonal misinterpretation about its content it was esting and educational," Tayo Ojo said. 
+
+
+
+Photo provided by Elmt 
+
+
+
+Construction site troubled by labor, safety concerns 
+
+
+
+11 room 142. 
+The day's run through will be 
+follows ^■^■^■Hpjajpjp^p^pj 
+;islration B^^V| 
+
+at V 
+.m. local- B 
+in Gates IB^ 
+. o r t s ■ 
+
+fol- H 
+■c! by ^H 
+morning ^^|Em^Vm 
+'st speak- ■] 
+
+I) ol U^^p^fl 
+
+»el whose ^| 
+topic will be Cannon: twice 
+"Myth Emily nominated for the 
+Dickinson." Oscar, 
+
+From 
+9:30 a.m. to 10 a.m., from 11 a.m. to 
+11:30 a.m., and from 2:15 p.m. to 
+4:30 p.m., participants will be able 
+to shop at the boutique and trade 
+show or take time to ask questions 
+about the Parkview Women's 
+Health Center. 
+
+From 10 a.m. to 11 a.m. will be 
+the breakout session. This will be 
+the time to choose which session to 
+
+The second breakout session 
+will be from 11:30 until 12:30 and 
+lunch will be held around 12:45 at 
+Cates Sports Center. 
+
+At 1:15 p.m., the keynote 
+speaker will be Dyan Cannon. She 
+will be speaking about her life and 
+the lives of others who have hit it 
+big. Her hour-long speech is titled; 
+"Lakers, Lip Gloss and Life in 
+Hollywood." 
+
+There are two breakout ses- 
+sions (or the duration of the day. 
+
+The whole day, starting at 8 
+a.m. and ending around 5 p.m., 
+will cost $50 per person. 
+Registration and payment dead- 
+line is April 21 Dm- to limited seat- 
+ing, this day could be sold out 
+before the actual deadline. 
+
+If using mail, mail to the fol- 
+lowing address: Tapestry c/o 
+IPFW 2101 E. Coliseum Blvd. 
+Kettler 142 Fort Wayne, In. 46805- 
+1499. Make checks payable to 
+IPFW or register online at 
+www.ipfw.edu/tapestry. 
+
+If in need of any additional 
+information, or to request special 
+services, call 481-6854. 
+
+HTM program slates dinner events for spring 
+
+
+
+stating in the past the school has few controls 
+over the project. The project was approved by 
+Purdue University, and they have exercised 
+
+some authority by forcing a few contractors off 
+the project. 
+
+The lack ol comments Ironi officials didn't 
+
+
+
+surprise protest orgam/ers, saving it is not 
+uncommon in this situation. 
+
+"It's a reflection ol the way people in posi- 
+tions of authority dodge responsibility. It didn't 
+start with IPFW, it happens in a lot of places," 
+lewandowski said. According to him, this type 
+of behavior on the part of some businesses isn't 
+uncommon on many public projects. Because of 
+that, officials must scrutinize business practices 
+like the campus housing even closer, he said. 
+
+"It's about starting to gci people in author- 
+ity to be more responsible,'' l.ewandowski said. 
+
+The picketing began at about 6 a.m. and 
+lasted till noontime on Feb. 27. A handful of 
+IPFW students joined the protest, but it was a 
+small handful. 
+
+"It's too bad that people can't see the bigger 
+picture," IPFW student Marcus Rogers noted. 
+He was one of three standing at the Crescent 
+Avenue entrance and holding up a few signs in 
+support of the workers. Two other IPFW stu- 
+dents also took up positions thai morning, but 
+likewise, there were questions about how seri- 
+ous other students would take the situation - 
+and what, if anything, they might do. 
+
+
+
+
+K.E. Cos 
+
+A protestor gives an opinion of the housing 
+construction of IPFW Friday. 
+
+"Students are so inactive on this campus," 
+IPFW student Michael Hcnsk-v complained. 
+
+Amiee Younger, a graduate student who 
+works with Labor Studies, said she wants basic 
+standards adhered to. 
+
+"My biggest concern is 1 want IPFW and 
+Purdue to enforce the contract they have with 
+the builders and making sure that minimum 
+
+
+
+wage laws, safetx precautions are all abided by," 
+she said. 
+
+She is also concerned about the structures 
+themselves, wondering aloud if they are going 
+to be up to safety code when completed and 
+questioning what inspections have taken place 
+thus far. 
+
+Lewandowski explained the CLC is a col- 
+lection of a number of union organizations in 
+Fort Wayne, and this is the type of situation - ( 
+where they would show support to any work- 
+in this situation, the allegations tend to 
+focus on the use of Latino workers who have 
+been taken advantage of due to their limited 
+English skills and non-understanding of fair 
+labor practices. It is something Desantiago 
+noted with a combination of annoyance and 
+determination. 
+
+"In the United States and everywhere, my 
+race is getting exploited the most. But we're 
+going to make a change," Desantiago said. 
+
+For Purdue and IPFW, institutions which 
+are structured to teach young adults how to 
+fight for justice, Lewandowski feels it is an 
+opportunity to show by actions an ability to do 
+what is right. The silence, he indicated, can be 
+deafening. 
+
+"IPFW's philosophy is about leadership. 
+It's time for them to step up," Lewandowski 
+
+
+
+In cooperation with the tourism businesses of Fort 
+Wayne and northeastern Indiana, IPFW's Hospitality and 
+Tourism Management (HTM) Program is offering a number 
+of events this spring. Under the direction of Professor John B. 
+Knight, the dinners will offer value for the dollar, cuisine, 
+and in some cases, wine tastings, to the dining public. 
+
+Students in the class are responsible for designing the 
+menus as well as preparing and serving the meals at the 
+events. The IPFW Dinner Series Toast begins each meal 
+promptly at the time noted below All proceeds benefit the 
+Director's Fund, the HTM Program, or the HTM Student 
+Club. You can also view dinner menus or information about 
+
+
+
+the program. Some of the programs in March are: 
+
+Wednesday, March 17 - Classic Caf£ presents "An 
+Evening of Elegance" at The Eagle's Nest in Columbia City 
+at 6:30 p.m. The cost is $30 per person. For the dinner menu 
+and reservations, call Amy at 260-637-8328. 
+• Sunday, March 21 - Auburn House Restaurant and 
+Catering presents "A Night Among the Classics" at the 
+Auburn Cord Duesenberg Museum in Auburn at 6:30 p.m. 
+Hors d'oeuvres, cash bar, silent auction, and the museum 
+will also be available. The cost is 520 per person. For tbe din- 
+ner menu and reservations, call Louise at 260^181-6562. 
+' Wednesday, March 24 - IPFW presents "An Enchanted 
+
+
+
+ditorial Board 
+
+
+
+Scott M. Lawson, Editor 
+S.G. WahlberR, Managing Editor 
+Kurtls Meyers, Arts &amp; Entertainment Editor 
+Nick West, Sports Editor 
+Katie Prullt, Copy Editor 
+Alicia Layton, On Campus Editor 
+K.E. Casey, Chief Reporter 
+Josh Vargas, Advertising Designer 
+: Reynolds, Publisher 
+
+
+
+Contact Us 
+
+The Communicator 
+Walb Union; Suite 215 
+2101 E. Coliseum Blvd. 
+Fort Wayne, IN 46805 
+
+Editor: (260)481-6584 
+
+Publisher: (260)481-6585 
+
+Advertising: (260)481-6583 
+
+Fax: (260)481-6045 
+
+rY.ipfwcommunicator.org 
+
+
+
+Spring Evening on the Lake" at the Potawatomi Inn in 
+Angola at 6:30 p.m. and a silent auction. The cost is $25 per 
+person. For the dinner menu and reservations, call Lori at 
+260418-3924. 
+
+Tuesday, March 30 ■ Ivy Tech State College presents 
+"Caribbean Nights" at the Ivy Tech State College at 6:30 p.m. 
+The cost is $50 per person. For the dinner menu and reserva- 
+tions, call lean IJireley al 260-493-1164. 
+* Wednesday, March 31 - IPFW presents "The Best of 
+Indiana" at The Nolt Family Dinner Haus at 6:30 p.m. The 
+cost is S25 per person. For the dinner menu and reservations, 
+call Mike at 260-637-5227 or e-mail m.scheele@verizon.com. 
+
+Editorial Policy 
+
+
+
+Trie Communicator. Th&lt; 
+s expressed do 
+
+
+
+Ail submissions made ' 
+
+mail will be verified by tele- 
+phone or in person. Addresses 
+ot IPFW, ils and telephone numbers will not 
+
+
+
+solely the opinion ot 
+
+
+
+The Con 
+
+
+
+responses from 
+
+
+
+:eaderv 
+
+Letters to the Editor and guest 
+s must be signed, dated 
+rompanied by a current, 
+
+
+
+wel- 400 \ 
+
+
+
+The editorial board of The 
+Communicator reserves the 
+
+rii:lil in edit all submissions for 
+
+length, grammar, style and clar- 
+
+vahd address, telephone number ity. Letters deemecf 
+
+
+
+:tndniL:/in 
+
+
+
+and class 
+
+Letters 
+
+requirements will \io\ betonsid 
+ered for public"'— 
+
+
+
+f libelous bv 
+— be 
+
+
+
+March 3, 2004 
+
+
+
+News 
+
+
+
+The Communicator Page 3 
+
+
+
+'Fakemailz' causing trouble 
+
+from Page 1 
+
+
+
+were in the email. Since the mes- 
+sage only contained information, 
+police are going to keep a record of 
+the incident. 
+
+The email was sent using 
+fakemailz.com, which offers 
+Internet mail services, such as 
+anonymous and fake email. 
+
+After Bialik discovered that 
+emails had been sent using her 
+email address, she contacted the 
+website to make a complain! show- 
+ing that the message that was sent 
+via their service was a violation of 
+their Terms of Service. 
+
+"You agree not to use the 
+Service to impersonate any person 
+or entity, including, but not limited 
+to, a Fake Mailz official, forum 
+leader, guide or host, or falsely 
+state or otherwise misrepresent 
+your affiliation with a person or 
+entity," stated the website. 
+
+After the site reviewed 
+Bialik's complaint, they provided 
+the account information and an 
+investigation is currently under- 
+
+The site also states that "Mails 
+found in violation of these items 
+may be subject to immediate dis- 
+closure of original information to 
+
+
+
+the receiver without prior notifica- 
+tion, and their account holders 
+subject to banishment from the 
+FakeMailz.com network." 
+
+Bialik mentioned that because 
+her account was used, she would 
+probably have another faculty 
+member deal with the disciplinary 
+actions because she wasn't sure if 
+she could be unbias. 
+
+Student Body Vice President, 
+John Berry's worry is, "The biggest 
+concern I have is if you can get into 
+
+else can you get into?" 
+
+Bialik said that the email was 
+sent through the Fake Mailz web- 
+site, not using IPFW's email server. 
+
+"Right now, it didn't hurt any- 
+body, but it could be used later on 
+to do some damage," Berry said. 
+
+If it is deemed necessary, all 
+mail coming from the website can 
+be blocked, noted Bialik. 
+
+Berry raised another potential 
+problem, "If I get an email that I've 
+been kicked out of school ... there's 
+always a possibility of greater 
+harm being done." 
+
+According to Bialik, she can't 
+the details, but there 
+current investigation. 
+
+
+
+Admissions announces 
+potential scholarships, 
+upcoming online chat 
+
+The IPFW Office of Admissions recently announced 
+scholarships for out of state students. 
+
+The IPFW Admissions Office has 50 Chancellor Merit 
+Awards that are available to students that are not legal resi- 
+dents of the state of Indiana. 
+
+The scholarship allows nonresidents to pay in-state 
+fees. High school seniors must rank in the top 25 percent of 
+their graduating class and have an SAT score of 1100 or an 
+ACT scdre of 24 or above. 
+
+International students should contact International 
+Student Services advisor Connell Nelson at 
+nelsonc@ipfw.edu. 
+
+There are also scholarships For Indiana Residents. 
+
+There are several Freshman Scholarships available 
+for the Class of '04. Our Chancellors Scholarship will pay 
+1/2 tuition and is renewable for four years. For criteria and 
+details, please contact the Admissions Office. 
+
+There is an online chat scheduled for March 15, 2004 
+hosted by the Office of Admissions to help inform potential 
+incoming students of the university. 
+
+
+
+$479: 
+
+
+
+4&amp; 5 Night Packages 
+
+
+
+BEACHFRONT HOTEL -i.h r/t a, s T,S u ,r *»""•-"- 
+""**" 6 HEALS AND 3 NIGHTS ALL-INCLUSIVE CLUB ACCESS. 
+
+
+
+1-800-SURFS-UP 
+
+
+
+Nilinar Hair, Skin, 
+and Nails 
+
+6© 1 6 Brandy Chase cove 
+
+(ISO) 486-4951 
+Tell Free: 888-486-4959 
+
+Offering: -Haircuts y 
+
+-Facial Waxing x &lt;&gt;* 
+-Body Massage j$ 
+
+Buy One Set One Free! 
+Service of Equal or lesser value. 
+
+■t - Aprti 30lh. 2004. Appointment* 
+
+
+
+-limited time only: / 
+mutt be beaked In a, 
+
+tcrlltltaleto the referring rllent In the amount at tha ten/Ice at 
+equal or letter value attar tha ratarrad client hat rerleved their 
+
+
+
+a appointment. Mlllni 
+
+
+
+Members of organized time 
+
+
+
+
+Photo fey Amie Sorka 
+
+
+
+IPFW students Shelly Nickolson and freshman Sarah Goudy discuss the variety of student organi- 
+zations at the university Monday. This week, Get Involved is running a campaign to introduce stu- 
+dents to the over 90 organizations at IPFW with areas set up in each of the main halls of campus 
+buildings. The idea is to give students options from the different organizations, and hope for more 
+involvement through encouragement to make memories while at college. 
+
+
+
+The Communicator 
+
+will not publish the week of Spring Break 2004. 
+
+Have a good and safe week of vacation. 
+
+The paper will return March 17. 
+
+
+
+
+
+
+
+
+
+Campu 
+
+
+_. IPFW 
+
+S w 
+
+
+
+
+Calend 
+
+
+ar- • ^ 
+
+for March 4-17, 2004 
+
+
+
+
+4 SAB event: Comedians Alfred and 
+
+
+I S Spanish Table: Come eat and talk with 
+
+
+
+
+Seymour, WU Ballroom, noon; for 
+
+
+us! (Vengan a conversar y comer con 
+
+
+
+
+information, cal 1 6590. 
+
+
+nosotros!) WU lounge, noon; also 
+March 22 and 29. For information, call 
+
+
+
+
+Theatre: Arms and the Man, WT, 
+
+
+4660 or e-mail c on to rtm{o) ipfw.edu. 
+
+
+
+
+8 p.m.; also March S and 6 with a 
+
+
+
+
+
+
+matinee March 7, 2 p.m.; for information, 
+
+
+Fort Wayne (faculty) Senate meeting, 
+
+
+
+
+call the box office, 6555. 
+
+
+KTG46,noon-l:l5p.m. 
+
+
+
+
+Fitness classes: GC, noon-l p.m.; for 
+
+
+1 6 Honors Program: Lunch talk: "Muslims: 
+
+
+
+
+information, call 6647 ore-mail 
+
+
+Beliefs and Daily Lives," Avon 
+
+
+
+
+tillapau(2)ipfw.edu. 
+
+
+Crismore, KT G35, noon-l p.m.; for 
+
+
+
+
+4 weigh to Go . . . Fun with Fiber and 
+
+
+information, call 6924. 
+
+
+
+
+Flex-a-Balls. 
+
+
+
+
+
+
+1 1 Weigh to Go ... Do It Your Way. 
+
+
+1 7 Chemistry seminar: "Sticky Hydrogens 
+and Slippery Acetylenes," lUPUI 
+
+
+
+
+Testing Services; for information, call 6600. 
+
+
+Professor Clifford E. Dykstra, SB 476, 
+
+
+
+
+6 PRAXIS (Preprofcssional Assessments 
+
+
+noon; for information, call 6289. 
+
+
+
+
+for Beginning Teachers), CM lobby, 
+
+
+
+
+
+
+7:30a.m. 
+
+
+Wednesdays at Onel "Graduation in 
+
+
+
+
+9 InstitutionaJ SAT (ISAT), KT 1 20, 9 a.m. 
+
+
+Banner," KT G46, 1-2 p.m.; for 
+information, call 6129. 
+
+
+
+
+7 An Early Music Concert: Abendmusik: 
+
+
+
+
+
+
+The Music of Buxtehude, Trinity 
+
+
+Dinner Series: Classic Cats presents 
+
+
+
+
+Episcopal Church, 5 p.m.; for information. 
+
+
+"An Evening of Elegance," The Eagle's 
+
+
+
+
+call 6714. 
+
+
+Nest, Columbia City, $30 per person; for 
+the dinner menu and reservations, call 
+
+
+
+
+8 Spring break; continues through 
+
+
+Amy at 260-637-8328. 
+
+
+
+
+March 14. 
+
+
+Upcoming March Events 
+
+
+
+
+Wellness Center: Blood pressure 
+
+
+24 Annual Health Fair, WU, 9 a.m.-3 p.m. 
+
+
+
+
+screening and body fat analysis, GC, 
+
+
+
+
+
+
+4:45-6:45 p.m.; for information, call 6647 
+
+
+25 Plogstertb Visual and Performing 
+
+
+
+
+ore-mail tillapau@ipfw.edu. 
+
+
+Arts Series: A Mural in the Making, 
+featuring Chicago muralist Bernard 
+
+
+
+
+13 Lunch with an IPFW Scientist: Robert 
+
+
+Williams, WU, 9 a.m.-6 p.m. 
+
+
+
+
+McCullough, "Native American 
+
+
+
+
+
+
+Archaeology," Science Central, 
+
+
+31 Omnibus Lecture Series: Richard 
+
+
+
+
+11:30 a.m.-l p.m.; for reservations, 
+
+
+Rodriguez, "The Brown Round World - 
+
+
+
+
+call 260-424-2400. 
+
+
+Beyond Multiculturalism and Diversity." 
+WU Ballroom, 7:30 p.m. 
+
+
+This ad courtesy of the Office of the Chancei/or 
+
+
+
+
+
+
+
+Page 4 The Communicator 
+
+
+
+Opinions 
+
+
+
+March 3, 2004 
+
+
+
+Congress shall make no law respecting an establishment of 
+
+religion, or prohibiting the free exercise thereof; or 
+
+abridging the freedom of speech, or of the press; or the 
+
+right of the people peacably to assemble, and to petition the 
+
+government for a redress of grievances. 
+
+
+
+Editorials 
+
+
+
+Commenting on 'No Comment' 
+
+|*he H TW Studenl Housing has slowly but surely become a money .ind mora] pit — not just for the 
+university bul for seemingly everyone who has been involved. 
+
+Il is mil to say housing is a h.id idea, obviously il is .i good idea. Hill somehow we have discovered 
+
+what should have been .1 positive projei 1 foi the school has .1 taint .ill over it. While investigations 
+will find U there are any bi tua] illegalities, 11 iBappareni thai there has been plenty 0funeihit.1l busi- 
+ness activity. 
+
+Unfortunately, ethics ,ire only as strong, is the weakest link in any project If one in a myriad of com- 
+panies is found to ha vi ■ • heated ivml er' &gt;l monies due, 01 willed I heir way out of paying earnings 
+
+
+
+It's t 
+
+
+
+say something when IIT'W 
+
+tant time to give a few Ihoi 
+population to consider 
+
+Once-in-avvhile, it would 
+
+
+
+has pushed two subcontractors off the job. 1PFW 
+ontroversVj which does more harm than good. It 
+intent hodv, we mil be ignorant — but university 
+
+■ 1 its punitive benefits surely know the progression 
+
+lue-meal, nobody with a title seems to want to say 
+thai an investigation be launched, 
+ling of a positive nature is noted. There is no harm 
+utureof it It's naturally a bit more of a struggle to 
+:hi I [owevefj it seems thai is even a more impor- 
+i administration oltu lais for the students and area 
+
+
+
+Off the Air 
+
+
+
+lurid fashion; li 
+Ihey speak In I 
+
+
+
+for their conten 
+Hopefully, Ih 
+
+
+
+from the air. Aside from devel- 
+has done very little for public 
+
+■ publicly owned, the Federal 
+torce Clear Channel to either 
+
+ollision with the FCC and take 
+.■edom of Speech and Freedom 
+icast of a company where the 
+
+
+
+1 1 'en &gt;! . -■. psn .luring the Super Howl 
+
+■ On-flil etiquette NBC edited a scene in ER 
+and Clear Channel yanked the microphone 
+
+ied by the people, a practice of censorship is 
+tiral resource for our use, and not a physical 
+situation — and Limbaugh ( autions against 
+rn because he likes to talk about lesbians in a 
+. hi '1 t,i I , ounterparts bet arise of the politics 
+.■ has been no attempt to overthrow or ques- 
+
+
+
+id satellite outlets next for their 
+the satellite signals — and they 
+I 01 Showtime or The Disney 
+panics providing programming 
+g child pornography or another 
+11 is being shown, 
+jparently. They could argue that 
+stworks should have to agree to 
+uld not be a far jump from mak- 
+sre also needing to be reigned in 
+ps the government should also have a 
+
+
+
+■spapi 
+
+
+
+uld 1 
+
+
+
+Word of the Week: 
+Theory 
+
+
+
+Ever since Charles Darwin fir.sl published his controversial theory in 1859, many 
+creationists have dedicated their lives to proving htm wrong. The reason Darwin's 
+theory is such a bane to creationist religion is that it offers an explanation for cre- 
+ation that does not necessarily imply the existence of a creator. Not only this, but 
+it supports itself with empirical evidence had through scientific means - some- 
+thing few creation stories have ever done. For this reason, the theory of evolution 
+is constantly under attack from religious sources, who point out that there is no 
+conclusive evidence that proves evolution as a fact. 
+
+Interestingly, there are several other scientific theories which are accepted as 
+truth, instead of constantly attacked, by creationists Take, for example, the idea 
+that the process currently going on inside the sun is hydrogen being fused into 
+helium is a theor\ We cannot mnilusivelv prove this idea: we can't even get close 
+to the sun, much less measure what is going on inside of it However, using basic 
+facts we know about the nature of elements and space, we can make a theory 
+about how exactly the sun works - and from all the things we can measure from 
+the sun, we're pretty sure our theory is right. But it's not common to see a cre- 
+ationist denying the idea that the sun is a huge nuclear furnace. 
+
+Like the idea that the sun burns hydrogen into helium, there is no conclusive evi- 
+dence that proves evolution is fact Thus it remains a theory; a set of rules that we 
+think may apply to a certain aspect of science. There are three basic traits of a the- 
+ory: it is compiled of evidence had through the scientific method, it can predict 
+future events associated with the subject it addresses, and it can be falsified. 
+Evolution is all of these things and never claims to be the last and final truth about 
+how the universe and humanity came into existence Additionally, evolution has 
+volumes of empnual evidence supporting it as a theory, including the actual wit- 
+nessing of microevolution in countless laboratory experiments involving bacteria 
+
+Still, the theory of evolution admits the possibility that it is wrong. There is no 
+evidence that conclusively proves evolution is a fact. Creationists take this as rea- 
+son to call evolution a worthless theorv. After all, there's no conclusive proof evo- 
+lution ever happened. Isn't it a complete leap of 'faith' to ever put stock in such a 
+
+It is entirely possible, however, to say the same for any creation story. There is 
+no evidence proving that Jesus Christ was the son of God", that reincarnation actu- 
+ally happens, or that the Dalai I ha ma is Buddha incarnate It is a much larger leap 
+of 'faith' to believe in any creationist religion Not only are they unscientific theo- 
+ries supported by little to no evidence, they often make the ridiculous claim that 
+they are the one true source of all knowledge and that their creation story is the 
+final truth on where and how the universe and mankind came into being. 
+
+In reality, creationism .\n&lt;.\ evolution are as different as apples and oranges. One 
+concerns that which cannot be measured or tested through scientific means: the 
+other is merely a theory. Granted, this theory' is regarded as almost-truth by 
+every hard science available for study here at IPFW - biology, chemistry, paleon- 
+tology, geology, and astronomy, to name a few. However it remains, and probably 
+always will remain, simply a theory. The only threat evolution poses to religion is 
+doubt in the minds of those who once believed, but now search for something 
+more substantial than a book and a building in which to put faith. Perhaps cre- 
+ationists should be spending more time making their own stones more believable 
+before they start attacking si lentific theory. 
+
+
+
+The 
+
+Communicator 
+
+Editorial Policy 
+
+Editorials are the opinions of The Communicator. The opinions expressed in edi- 
+torials or opinion columns do not necessarily reflect the views of IPFW, 
+employees or its student body. A column is solely the opinion ot the author. 
+
+The Comminicator welcomes responses from readers. All Letters to the Editor 
+and guest columns must he signed, dated and accompanied by a current, valid 
+address, telephone number, and class standing/major or title. Telephone numbers 
+and addresses will not be printed. All submissions made vie e-mail will be veri- 
+ied by telephone or in person. 
+
+The editorial board reserves the right to edit all submissions for length, gram' 
+nar, style and clarity. 
+
+
+
+
+Campus 
+
+
+
+"How do you feel about 'The Passion of the Christ?" 
+
+
+
+■ Robbins, 
+H Freshman: I 
+B like the idea. 
+
+■ I think it 
+WM looks inter- 
+
+■ esting. It's 
+
+
+■ Rogers, 
+VJ| Sophomore: 
+H I think it's 
+
+91 interesting 
+^B persepecrive 
+"■■""""■ on a historical 
+event. 1 think it's been a lit- 
+tle overhyped. It's not quite 
+as controversial as people 
+try to make it out to be. 
+
+
+like to check out. 
+
+
+
+J 
+
+
+
+I guess a lot of 
+people think 
+&gt; bad, but 
+j it's nothing 
+but the truth. 
+There's nothing bad about 
+the movie, it's all truth and 
+how he suffered for us. 
+
+
+
+
+Urica Winder, 
+Junior: I think 
+
+
+
+-It's 
+
+
+
+showing peo- 
+ple the reality 
+of what really 
+went on. For 
+people who don't read the 
+Bible, it gave them a chance 
+to really see. 
+
+
+
+March 3, 2004 
+
+
+
+Opinions 
+
+
+
+The Communicator Page 5 
+
+
+
+Co-opted holidays give us a chance 
+to get hammered, not fired 
+
+
+
+It's now March, and soon count- 
+less college students across the 
+nation (including many from 
+IPFW) will be on their way out of 
+their respective towns to partake 
+in the ritual we call "Spring 
+
+pie you don'f know and", of 
+drinking; lots and lots of drinking. 
+It's true, many college students 
+don't need a holiday to drink, but 
+spring break isn't just any drink- 
+ing event. It's a dance-the- 
+Macarena-in-your-boxers, make- 
+out-with-a-girl-from-Panama, eat- 
+the-worm-at-the-bottom-of-the- 
+bottle, and pass-out-in-the-back- 
+of-a-cab level of drinking. It's the 
+type of drinking that can only 
+truly be done when you not only 
+have the day off, but the next day 
+
+But, in today's fast paced global 
+economy where most of us work 
+until we drop just to have enough 
+money to pay the bills, there's no 
+rime for the workforce to take an 
+extended drunken vacation every 
+year. A solution was needed - a 
+compromise between productivity 
+and hangovers. That conciliation 
+has been found in what I call the 
+American Drunken Holiday™. 
+
+How do you make a drunken 
+holiday? First, co-opt a holiday 
+from another nation (apparently 
+you get extra points if it's a reli- 
+gious holiday). Then, get the alco- 
+hol companies to spend a few mil- 
+lion bucks slamming the airwaves 
+with ads that remind you that the 
+true meaning of this holiday is to 
+get sloppy drunk. And, of course, 
+
+
+
+you can't make a good drunken 
+holiday by just sitting around - 
+you have to get out and get faced 
+yourself. 
+
+Sure, you may be thinking that 
+you don't need any expensive TV 
+ads or even a particular day of the 
+year to go out and get yourself 
+charged with public intoxication. 
+But the American Drunken 
+Holiday™ has a distinct advan- 
+tage over the random Wednesday 
+night outing where, at 3 a.m., you 
+find yourself a hundred bucks 
+poorer in a chair at Showgirl III. 
+With a sanctioned holiday, no one 
+will complain when you stagger 
+into work the next morning, 
+unkempt, unshaven and reeking 
+of whiskey. In fact, odds are your 
+boss was out getting hammered. 
+
+We Americans have a hearty her- 
+itage of good drinking The U.S. is 
+a veritable melting pot of German, 
+Irish, Scottish and other bloods 
+from nations where drinking is the 
+national past time. With this great, 
+drunken heritage, Americans need 
+a helluva lot more than just a cou- 
+ple drunken holidays. Therefore, 
+we keep inventing i 
+
+
+
+original Saint Paddies day 
+British celebration, dating back to 
+the fourth century A.D., where 
+Catholics gathered to praise Saint 
+Maewyn Succat, who, after being 
+forced into work as a shepherd, 
+escaped to France and then 
+returned to his homeland of 
+Ireland where he worked as a mis- 
+sionary, teaching converts about 
+the Holy Trinity using the symbol 
+of the Irish shamrock. 
+
+To hell with all that; give me 
+some green beer! It's almost time 
+
+
+
+for me to hobble my drunken ass 
+up to the karaoke mic and blurt 
+out a mangled version of "Danny 
+Boy". The truth is, St. Patrick's 
+day might as well be called "Green 
+Beer Day," and it could be held on 
+any day of the year, such as Jan. 1 
+or May 5. They could, that is, if 
+those days weren't already in use 
+by other drunken holidays. 
+
+My personal favorite is Cinco de 
+Mayo. This "holiday" is often mis- 
+taken to be the independence day 
+of our southern neighbor, Mexico. 
+Even though this is incorrect - it's 
+actually a celebration of a crucial 
+battle where an out-gunned and 
+out-numbered Mexican force 
+defeated the invading French in 
+1862 - it really doesn't matter 
+what happened on the 5 tn of May. 
+All that matters is that now, in 
+America, you can go out, do some 
+body shots, get really messed up, 
+and then drag-ass into work the 
+next day looking like grim death 
+without fear of repercussion. 
+
+We've also got the Fourth of July, 
+which has little to do with cele- 
+brating our independence any- 
+more, New Year's Eve, a two-day 
+event, and, last but not least, 
+Mardi Gras, which has been 
+extended from a mere "fat 
+Tuesday" to a morbidly obese 
+weeklong orgy of booze, bush- 
+beads, and breasts that, honestly, I 
+still haven't recovered from. 
+
+But is this enough? In my opin- 
+ion, it'll never be enough, at least 
+not to satisfy this nation. The only 
+solution I can see is to continue to 
+scour for unused holidays to mis- 
+ippropriate until we can manage 
+
+
+
+Hockey: What the puck? 
+
+
+
+Once upon a time, it was the job 
+of some quick-thinking person to 
+entertain 20 testosterone-driven, 
+beer drinking men. They took the 
+20 men and handed them sticks 
+and gave them one small rubber 
+object to fight over. In order to 
+attempt some order, they brought 
+in three (usually visually 
+impaired) men, who wore whis- 
+tles that they blew arbitrarily. To 
+make this whole scene even 
+MORE entertaining, they set the 
+whole ordeal onto a plane of flat 
+oval ice, marked with colored 
+lines and random red dots. 
+
+Welcome to the world of hockey. 
+
+There are few other sports that 
+can rival hockey. Not only in 
+area of fast-paced action, but in 
+entertainment value. Where else 
+can you find 250 lb grown men 
+spinning like ballerinas one sec- 
+ond and fighting like Rocky the 
+next? 
+
+In hockey, the same call can 
+have the crowd on tn*eir feet, 
+screaming for a revolt against the 
+referees and the next second car- 
+rying on as if each of them had 
+just won the lottery and were all 
+instant millionaires. 
+
+In hockey, grown men treat a 
+piece of round rubber like a frag- 
+ile egg and then send it into the 
+boards with a speed faster than 
+most cars can drive on local roads. 
+
+Teams skate back and forth in 
+enough circles to make a ballerina 
+dizzy while dodging swinging 
+sticks, charging opponents, and 
+the eminent wooden wall at the 
+end of the rink. 
+
+Hello, my name is Mandie, and 
+I'm a hockey fan. 
+
+Allow me to clarify quickly, I am 
+a Komet hockey fan. 
+
+They say that admittance is the 
+first step to recovery, but if enjoy- 
+ing a good game of hockey is a 
+disease, allow me to stay infected 
+the rest of my life. I may not be 
+your typical hockey fan, I'm not 
+only under the age of 21 (sorry, no 
+beer here) but I'm also a girl. 
+Don't discount me yet, though, 
+because quite often I can out- 
+shout, out-curse, and out-mock 
+the teams and the refs with the 
+best of the male fans. 
+
+
+
+For those of you 
+crowd etiquette, in many arenas 
+around the country, the stands are 
+packed full of very loud, very 
+vocal, beer-drinking men. When 
+gathered into these large groups, 
+hockey fans are usually a force 
+just daring to be reckoned with. 
+Hockey fans can turn on the refs 
+in a moment's notice. One call 
+can have the audience on their 
+feet, cheering and hollering 
+because the refs finally put that 
+"#&amp;!©" in the penalty box where 
+they belong, but for the same call 
+a moment later (only against the 
+home team) the stands will erupt 
+into a vicious mass of hatred 
+because the refs don't know what 
+they're talking about. 
+
+There is a study somewhere that 
+lists suicide rates by profession. 
+It amazes me that hockey refs 
+aren't higher up on the list than 
+
+Now, being a girl and a hockey 
+fan is a unique experience. To 
+many of my unsuspecting guy 
+friends, I am often discounted at 
+first for being uneducated and 
+well, simply, a girl. I let them 
+believe that I'm a sweet, demure, 
+naive girl for a little while. Then 
+the game starts. Needless to say, 
+there are only a few looks of shock 
+at not only my enthusiasm, but 
+my knowledge about the game, 
+before I'm accepted into the 
+world of the male hockey fans. 
+
+As a child, I would go to the 
+games with my parents and my 
+older brother. I was informed of 
+the importance of paying atten- 
+tion to the game (this was a time 
+before the safety nets at the end of 
+the arenas). The fear of flying 
+pucks kept me as attentive as was 
+possible at that age. I learned to 
+appreciate the game, and began to 
+enjoy them as more than an 
+evening out and cotton candy. 
+The older I got, the more I really 
+enjoyed and appreciated the 
+games and the players on the ice. 
+However, the fact of my gender 
+never really seemed to be a huge 
+issue until college. Matter of fact, 
+I never really saw myself as a 
+female hockey fan, but a hockey 
+fan that happened to be female. 
+
+Lack of money kept me away 
+from the games for a while, and I 
+looked for any opportunity to 
+attend home games. One 
+
+
+
+evening, I received a phone call 
+from a good friend of mine and 
+was offered some free tickets. I 
+made some calls to my sorority 
+
+
+
+ets were offered to me by the gen- 
+tlemen of the Sigma Phi Ep^ilon 
+chapter at Indiana Tech, and there 
+was a large number of them 
+going. So here I sat, the only 
+female in a crowd of Fraternity 
+men. I heard a number of little 
+jokes and comments, and even 
+had to defend my knowledge and 
+love for hockey from one of my 
+guy friends. But, soon after the 
+game started, I was one of the 
+gang, and my gender became of 
+little importance. Some of the 
+Alumni from that Fraternity 
+must have questioned me a dozen 
+times. They couldn't believe that 
+a girl, let alone a sorority girl, was 
+as much of a hockey fan as I am. 
+Apparently we have a reputation 
+for being "girlie" and not into 
+hockey. 
+
+Some people see hockey as noth- 
+ing more than a bunch of over- 
+grown boys skating around beat- 
+ing each other up and hitting the 
+puck around the rink. Hockey is 
+so much more than that, the skill 
+and talent it takes can be appreci- 
+ated by any gender. It shouldn't 
+matter if you're male or female 
+when you sit in the stands and 
+support the local team. Some 
+people don't even realize the 
+amount of skill and talent we 
+have here in Fort Wayne. The 
+Komets are currently first in the 
+UHL and are the defending 
+Colonel Cup Champions. We've 
+got a great team here in this city 
+and it's a shame that the stands 
+aren't packed every home game. 
+I encourage you to get out there 
+and go see a game before the sea- 
+son's over. Students get dis- 
+counts on tickets, and there are 
+always people giving away tick- 
+
+
+
+either through b&gt; 
+n the radio. There' 
+i why you 
+
+
+
+take l 
+
+
+
+game this year, and when 
+you're there, look me up. 
+
+I'll be the girl on my feet, yelling 
+at the refs, cheering on the team, 
+and enjoying some fresh cotton 
+
+
+
+The Acadamy A-boreds: 
+
+Oscars less entertaining, more political 
+
+
+
+Well, I waited for 
+
+I waited to hear : 
+one - make a fool of themselves I 
+waited to hear someone follow in 
+the grand footsteps of Michael 
+Moore and say something that was 
+just plain stupid at the seventy- 
+sixth Academy Awards. 
+
+Well, it only happened twice, 
+when one of the men accepting the 
+award for the documentary film 
+"The Fog of War" connected the 
+horrors of Vietnam with Iraq and 
+commented, "I fear we're going 
+down a rabbit hole once again." 
+His remark was received with size- 
+able applause by a tentative 
+Hollywood audience. 
+
+"I can't wait for his audit," 
+quipped Billy Crystal afterwards. 
+
+This was nowhere near 
+acclaimed documentary filmmaker 
+Michael Moore and his memorable 
+acceptance speech last year: "We 
+live in a time where we have a man 
+sending us to war for fictitious re.i- 
+sons. Whether it's the fictition of 
+duct tape or fichtion of orange 
+alerts we are against this war, Mr. 
+Bush. Shame on you, Mr. Bush, 
+shame on you. And any time you 
+got the Pope and the Dixie Chicks 
+against you, your time is up." 
+
+This year, Michael Moore was 
+stepped on by a giant elephant in 
+the midst a battle from the movie 
+"Lord of the Rings." 
+
+Sean Penn managed to slip in a 
+remark about how "there were no 
+WMDs" but it was barely heard 
+and rapidly spoken. 
+
+I hoped to see at least a peace 
+sign, a ribbon or something — but 
+instead, nothing. 
+
+Instead, Oscar night stayed rela- 
+tively bland, sticking to old max- 
+ims like: "movies, the force that 
+binds us together." 
+
+Of course— movies— that is what 
+ties the fabric of America together, 
+how could I have forgotten? 
+Despite the fact that nearly all of 
+the actors live in an isolated bubble 
+far removed from the millions of 
+moviegoers who fund their extrav- 
+agant lifestyles, movies, and their 
+drug habits. 
+
+Oscar night proved to be, well, 
+more boring than I thought it 
+would be. Yet the lack of 
+Hollywood activism got me think- 
+ing about the Janet Jackson post- 
+exposure world. Will we ever have 
+our idiot celebrites back? 
+
+One can forgive politicians for 
+lies; it's practically a given in 
+Washington. Celebrities, on the 
+other hand, are unaccountable to 
+the masses that gave them millions 
+of dollars; they have no more right 
+to say their political piece than you 
+or I. 
+
+"Ah ha!" my colleague yelled tri- 
+umphantly, when I voiced my 
+opinion on celebrities a few weeks 
+ago, "so you're saying that celebri- 
+ties have to give up their first- 
+amendment rights just because 
+people pay attention to them?" 
+
+Celebrities are obviously entitled 
+
+
+
+to their First- Amendment rights. 
+
+But the public stage requires a 
+higher level of intelligence and a 
+greater level of rhetoric than many 
+if not most celebrities possess. 
+While they retain their rights for 
+public speech, they lose their right 
+to be a public idiot. 
+
+Fame magnifies and highlights all 
+of humanity's essential flaws; from 
+drugs to violence to just plain 
+greed, the special excuse granted to 
+the royalty of Hollywood is baf- 
+fling. Every hairstyle, every choice 
+of clothing is catalogued and emu- 
+lated Should this extend to politi- 
+cal views as well? 
+
+I would say no. We pay millions 
+of dollars to these people to enter- 
+tain us, not to preach to us. 
+
+So what are we to make of 
+celebrities-turned politicians? 
+
+Where do the lines between poli- 
+tics and Hollywood begin and 
+end? When Arnold 
+
+Schwarzenegger announced his 
+candidacy on the Tonight Show it 
+
+
+
+tics — especially when it is all 
+scripted. 
+
+Regardless of whether or not the 
+celebrity is fluent in politician, 
+where is the appropriate place to 
+voice their opinions? On "Oprah," 
+as Bono did? Is it on "Good 
+Morning America," or the "Today" 
+show? Perhaps. 
+
+Is it while accepting an award at 
+the Oscars or Golden Globes?' 
+
+No. The approbation handed to 
+an actor or actress recognizes supe- 
+rior acting skills. While this takes 
+great concentration and talent, it 
+does not extend out to the political 
+
+The Oscars are removed from the 
+mainstream more than few other 
+things, and it calls for a level of 
+decorum and class— the abstinence 
+from the ironic — that very few 
+i elebrities tan recognize or under- 
+stand. I don't want to hear an 
+actress in a thousand dollar dress 
+(or more) preach to me about 
+world hunger, And surprisingly, 
+this year, they didn't. I was not lec- 
+tured abouf what a bad person I 
+was for being an American, I was 
+not shamed because I buy gaso- 
+line — Hollywood, for once, stuck • 
+to the script. 
+
+The presenfer for the Best Actress 
+award reminded me of the only 
+good social commentary 1 have 
+
+
+
+strange time," he said. "And, you 
+know, my experiences of making 
+this film made me very aware of 
+the sadness and the dehumani/.a- 
+tion of people at times of war ... 
+And whatever you believe in, if it's 
+God or Allah, may he watch over 
+you and let's pray for a peaceful 
+and swift resolution. Thank you." 
+Hollywood managed to rise to 
+
+
+
+the i 
+
+
+
+. No t 
+
+
+
+ised than yours truly. Let's see 
+how long decorum can last in the 
+Janet Jackson post-exposure world. 
+
+
+
+fetters to th e |-Hj di tor 
+
+
+
+Theory of evolution 
+
+makes no claims 
+
+about God 
+
+
+
+To the Editor: 
+
+In response to Joe Mann's (Letter 
+to the Editor) on creationism, his 
+statement, "Rather than believing 
+that a Creator designed the 
+Universe, the evolutionist believes 
+the universe and all contained 
+
+Ethin came from nothing." That 
+tement is a lie. It is a lie told by 
+neone who would so narrowly 
+define what it means to believe in 
+God and be a Christian, as to 
+exclude anyone from the Body of 
+Christ who does not accept his par- 
+ticular interpretation of Scripture. 
+Mann creates the completely false 
+
+
+
+dichotomy that you must either 
+believe in God or evolution, but 
+not both. I am a church going 
+Christian who believes evolution is 
+currently the best scientific model 
+to explain the physical mecha- 
+nisms of our origins. My pastor has 
+no problem with evolution either. 
+In fact, many entire denominations 
+have no problem with evolution. 
+Evolutionary Theory makes no 
+statements about the existence oi 
+non-existence of God, or God's 
+involvement in ihe world. Of 
+course, Mann would say all of us 
+must not be "real" Christians, 
+because that would contradict his 
+narrow absolute truth, and so a.t\y 
+contradictory evidence must some- 
+how be found invalid. 
+
+
+
+Page 6 The Communicator 
+
+
+
+arts and entertainment- 
+
+
+
+March 3, 2004 
+
+
+
+
+\u 
+
+
+
+BESTPICTURE 
+
+The Lord of the Rings: 
+Return of the King 
+
+
+
+
+lulling BesI Director 
+II wins tics them for 
+:anic and Ben Hur. 
+i, daughter of 
+ranch Ford Coppola, 
+tor her film "Lost in 
+Jill Murray. 
+mated lor BesI Ai tor, 
+eleran comedian, but 
+■ his performance in 
+v I lupp was alsonom- 
+
+
+
+spraying Binaca into his mouth before 
+announcing the winner for Best Actress. 
+Rene Zellweger won Best Supporting 
+Actress for her role in "Cold Mountain." 
+
+The event, which was hosted by Billy 
+Crystal, was well over three and half boors. 
+Crystal did an excellent job hosting, of 
+course, being his eight syear in the hntseat 
+
+In the recently added Hcsl Animated 
+Feature category, "Finding Nemo" took 
+
+
+
+i the h 
+
+
+
+Just like last year when Best 
+Documentary winner Michael Moore 
+preached about politics, this years winner 
+Errol Morris also spoke hi-, mind about the 
+war in Iraq. The "Fog and War" director 
+compared this military crisis of today to the 
+Vietnam war. 
+
+Blake Edwards, director of classics 
+such as "Breakfast at Tiffany's" and the 
+"Pink Panther" films, received an honorary 
+Lifetime Achievement award from Jim 
+Carrey. The presentation was humorous, 
+having Edwards shoot past Carrey on a 
+" -----, then 
+
+
+
+BESTDIRECTOR 
+
+Peter Jackson 
+
+
+
+
+BESTACTOR 
+
+Sean Penn 
+
+
+
+o 
+
+
+
+tfj| 
+
+
+
+BESTACTRESS 
+
+Charlize Theron 
+
+
+
+
+
+
+
+BESTSUPPORTINGACTOR 
+
+Tim Robbins 
+
+
+
+
+BESTSUPPORTINGACTRESS 
+
+Rene Zellweger 
+
+
+
+
+Gibson's 'Passion' difficult to judge 
+
+
+
+e this n 
+
+
+
+/ill be ri 
+
+
+
+f.Thisv 
+
+
+
+tbe 
+
+
+
+Passion ot the t 
+than that. For C 
+and disturbing 
+
+I think the one thing that 
+
+
+
+Mainly for the fact that this is 
+my past article 1 said thai this 
+till true. Movies are just cellu- 
+sound and color, rolled into a 
+algorithm. That is all The 
+novie. But inherently it is more 
+ho are religious, it is a graphic 
+
+
+
+Whei 
+
+and a booming voice surely did not say,'"That's my boy!* 
+Towards the middle of this movie we find out why 
+this movie has an R rating: the scourging scene. There is a 
+fine line between dramatizing a subject and "telling it 
+how it was." Everything that history tells us, the whips 
+they used had metal shards tied to the end of it. Now, if 
+modem physics principles serve me right, after numerous 
+calculations, taking into account 1 the length of ropes, 
+strength of the soldiers and what have you, I came to the 
+conclusion Ih.it for Christ to be whipped by those stone- 
+age tools of torture, would definitely takeoff skin and the 
+skin below them and the bone possibly. This is how 
+Gibson represented it, bloody, brutal and sadistic The 
+
+
+
+Roman soldiei- took 
+
+
+
+ffering is He was human. He 
+
+capable ot bipedal locomotion 
+thr.iptilogu.il folks] and had the 
+js Icsns Christ WAS human, and 
+
+
+
+i thise 
+
+
+
+, laughing and what 
+
+
+
+connecting Chris! to Hi; 
+was bom of w 
+(walking for yoi 
+same red blood i 
+they depict that : 
+
+From the get-go, when Christ is being tempted by 
+Satan in the garden of Celhsemane, thev showed him 
+sick, sweaty and crouching on all fours asking Cod to 
+give Him strength. There was no pristine mist or heaven- 
+ly light. It was dart., hot and lonely Gibson gives this sort 
+ofa 'film-noir" feel in the cinematography. Then when the 
+Roman soldiers come upon him. arrest Him and Peter 
+e is no light showing a miracle when 
+is what I like I don't like my religion 
+
+
+
+slices oil o 
+
+
+
+
+'he 9assion of t be Christ 
+
+
+
+UUvc Motion 'Pictures; 12:30, 2:15, 
+3:30, 6:30, 9:30, 10:30 
+
+
+
+The scourging scene, of all of them, affected me the 
+most. I think the combination of seeing the act and hear- 
+ing how bad it was really got into my head Anytime the 
+whip cracked and the blood flew, Tflinched, I twitched 
+and 1 am proud to say it, it brought me to tears. Can you 
+imagine having your skin ripped off your torso, then 
+being dragged into the dirt? 
+
+1 am not going to talk about the crucifixion. I honest- 
+ly feel that it is something that can't be explained. It needs 
+to speak for itself. 
+
+In all, this movie only can speak for itself. There are 
+NO words anyone can say that I think can express the 
+sheer magnitude of this movie. After all, I have said 
+numerous times it is just a movie, but for some it's not. 
+For mvselt.it is the grounding of my religion. The story of 
+Christ dying on the cross, the e - *— 
+
+
+
+. It shows us thai Christ was human, and His i 
+were entirely His own. He laid down his life for us, and it 
+was the most human action anyone could have ever done. 
+I am not trying to persuade anyone. "Passion" can 
+only be reasoned u ith and explained through the eyes of 
+the watcher. It is different lor everyone, therefore every- 
+one must find their own meaning within it. 
+
+
+
+
+March 3, 2004 
+
+
+
+A d &amp;.E 
+
+■ arts and entertainment- 
+
+
+
+The Communicator Page 7 
+
+
+
+BLUE 
+
+
+
+
+up front (s 
+
+
+
+In the movie industry, i 
+
+place to see so-called "coming of age" 
+films. Every other movie with some sort 
+of a message is considered coming of 
+age. 
+
+But in the music industry, it is rare 
+to find an album described as coming of 
+age. And it is even harder to find one 
+that truly fits the description. 
+"Paperbacks &amp; Photographs," the debut 
+release of Blue Background is all of that 
+
+Simply put, Blue Background are 
+the local kids who made good, just not 
+locally. A few years back, three of the 
+four were students at North Side High 
+School. And even then, they were doing 
+their own music their own way. 
+
+After high school, Sarah Mick 
+(vocals and guitar), Maggie Tielker (key- 
+board and vocals) and Chris Christen 
+(bass guitar) moved off to Wisconsin, 
+where they were joined by Carlyle 
+Nowak (drums). 
+
+Yet, that was then and "Paperbacks 
+&amp; Photographs" is now. To say that this 
+disc shows the group's maturity would 
+be a supreme understatement. A person 
+can find true emotion in every lyric that 
+comes out of the mouths of Mick and 
+Tielker. The lyrics are a true reflection of 
+that growing up that we all do in our 
+conversion from youth to adult. 
+
+Yet, the lyrics are not dull. They are 
+not recycled sentiments that most emo- 
+tionally charged modern rock bands 
+regurgitate. "Paperbacks &amp; 
+
+Photographs" is real, one-hundred per- 
+cent genuine. 
+
+The lead track "Enough" is the per- 
+fect way to lead into the disc. While 
+most would think that the lead line of 
+the song, "this is an ending," would fit 
+
+
+
+better to lead the closing track, it per- 
+fectly details the breaking away from 
+the youthful lifestyle. Within the first 
+few seconds of the album, the tone is 
+fully set, and it is impactful. 
+
+Another track that works as a per- 
+fect transition is the title track 
+"Paperbacks &amp; Photographs." The song 
+addresses anger in so many ways. As 
+any young person who is transitioning 
+to adulthood knows, anger is part of life. 
+Anger fuels that transition. It makes it 
+easier in some aspects and can teach. 
+Blue Background teaches anger well 
+through their words and powerful gui- 
+
+
+
+found music that they write and per- 
+form on their own, they should be 
+equally proud of the cover of "Ain't No 
+
+
+
+lyrics and vie for a unique instrumental 
+sound. And the instrumental impression 
+that Blue Background makes on this 
+track showcases just how talented they 
+
+The wrap up song also has a strong 
+impact. "The Downfall" impresses me by 
+covering the overall approach. Granted, 
+the overall work is good on the album, 
+but this is easily the best track to show 
+that ability. 
+
+The impacting lyrics (i.e. "I spent 
+my life waiting for the downfall,") and 
+the powerful percussion and guitar 
+work are superb on "The Downfall." 
+
+I fear for the competition when 
+Blue Background hits the national main- 
+stream world. Because, if "Paperbacks &amp; 
+Photographs" is any indication at all, 
+
+
+
+Cast performances shine in George 
+Bernard Shaw's 'Arms and the Man' 
+
+
+
+have received in many weeks. 
+
+The classic play, written by George Bernard 
+Shaw, is set in a very different setting - a man- 
+in Bulgaria in the midst of the Serb 
+
+
+
+in pcrlorm 
+oi the play 
+Petkott") t 
+
+
+
+e this point in a poignant and 
+upporting cast per- 
+ability to giow and 
+&gt;, they still turned 
+
+
+
+i for her performance 
+
+
+
+the mother of Raina who e 
+
+nukaii.^rv^Ii'oi'UsL'KnZ^VMu'l'.ni's^.i'nVe '"'^^th her silent taual evasions than 
+consent is „urpr.s,nn sh,,s - comments on the P u y n « lu '' l,, ' ,ll * , 1 u ' Ul " '' l "^ , l!, ' vl " s ' M *V ot 
+ven ™ etl " t,|,) committed several verbal gatles during 
+
+
+
+the performance, his performance 
+
+
+
+dupliciious nature of love and valor apply c 
+
+today, though the play was written in the nine- 
+
+leenlh &gt;,,!„„ II,;. pl.H.v,,,;!,! put hi- poink-J ^'^ ";"&lt;&gt;'&gt; &gt;"'" ' «' &gt; *;•""•"&gt; - &gt;'h..r.H lor ..I 
+
+..h-.-rva ,. in Iho oui-o ,!i hi'nu.r. ami Inn- ' ""Ci P l.,v.Ht &gt;l»' l'» I ..I Ihe del, .&lt;„ , -oll-orm!,. 
+
+made Ihe ellerK,. I ihetmth^v.a, ,,„.,,■ marked d.a.l .e.va.,1 m Ihe el ...1 h,.m,a„,|d w,lh d, B - 
+
+Yetevon Ihouoh Arm, ami Iho Man" ,s ., "'" ' ["&lt;■ "'"*' " »» A ,,»,l ™| wasrim 
+
+comedy, it is a d.ll. ,enl k.nd „l .omedv Ih.in -^ . hv " V , '"''. '" N'ook, P l.„vd by |„hn 
+
+what is normally soon in Iho mod,., lod.rv Work V". P V " i 
+
+all of the humor is a philosophical type that ^° l! %-. 4 , .. c .1 &lt;■ 
+
+ro.|„iros ., gro.ri deal ,.l ihouehl lo pn.ro ,d „ T u ' *'■' '" ''" '" "',"' pr-rlorm.mrvs w.,s 
+
+vmder.lami. I his, hnilolv . pl.ir oho, ,o "''" ^.'&gt;'"']&lt; '""' •'"'■■"""■•I """K" "'"•" 
+
+„,oslp,v.,llonl ,oporl,,„„.,nrr- losl Ihor »"»''"" nol he devoir,! ,o |,.,rl,r .liars „&lt; Iho, 
+
+ho,,, no l„sl .„ Iho sumoul,,,! a.d.au d,.,l, w ,o **''«'' """•'" ',"' "' ls ""'"'; " ''lo..rlv .v.is; 
+
+rhor,,slr,,nn,,l,ol,„ns,ohl,;.,..sl„.snnl.„,ohs, P"'l^--'""-&lt;l j\&lt;^&gt;-"- Verm los,„„or Mark; 
+
+,nslo.,d Iho p,or,s,„„ and limine, , ion- k "^." .'" ■"''' ""I,"'*' Cre " S *° M be "&gt;™". 
+
+n - „„. „ r i u . .1 .i i mended lor their etloris ■ 
+
+flippant remarks « what earns the great laughs whj]i . sinmJ , iu( ^^ did _ 
+
+
+
+from the audience. 
+
+
+
+t play f 
+
+
+
+j the 
+
+
+
+driving tune behind the production, it i 
+
+tial for the actors to have good liming not only ■ , 
+
+l„rll„,r„unl,nos.br,l while inloraotmg ,,,.!,. ho "»'» " n,„s, bo ,,ddo,l h.,1 1, „,,,,. hehlm,; . 
+
+.. sequence deseroos monhun heeanse I„ bo qu, o. 
+
+
+
+dm lion progressed smoothly (.111 achievement ii 
+
+
+
+both 
+of these instances. In a few places the lines were 
+lost in laughter or merely went over the heads of 
+the audience members, though this can 
+expected in any performance. 
+
+Overall cast performance was admirable 
+
+
+
+honest, i 
+
+there were few props, there was an attention to'' 
+
+detail; the crew even went to the lengths to pro-!' 
+l"' vide a hookah tor Major IVtkolf, as it was written,! 
+
+
+
+opening n.ghl, osponall, goon the eslrrn.eh / 
+
+wordy nature ,,. bh.iw s di.ilnguo Mower ei. , , J , , , „„.„ ;, ,,,.,, &gt;,„„„„„, „, ; 
+
+here were sovo,., los in ,, f ,.,,1 ... lor*. Ion H ; 
+
+lines, and while tho&gt; were briel. Ihol did add up ,., rl.mily lo see' 
+
+M.mewhat hv tin- .-nd ol the pertormaiue I his, h ,,», ''i , ,- , la 
+
+u I o .I., „.i.„ h n,„, i.-.,.a.-i ;., this pla\ dnnng this week (Man h 4,S,6at 8 p.m.; 
+
+March 7 at 2 p.m.: High Shoo] Matinee - March &gt; 
+4 at 10:30 p.m.). The script could not be better, the 
+dedication in the actors and crew is evident in , 
+the excellent performance, and at only five dol- [ 
+lars for a student ticket, "Arms and the Man" is 
+one of the very best entertainment deals so far j 
+
+
+
+Several of the actors stood out in tl 
+
+aghi.po-s,„ V as;,i,o,cki..-.„he,;,.sBi.,„,sj,i.: :l ;; ^a,;;. ,;,;.., ,'■;.'; 
+
+
+
+?tently strong perfo 
+world-weary Swiss, and Lori Leigh Piatt (as 
+Raina) and Jacob Stackhouse (as Sergius) showed 
+a great breadth of acting ability as they moved 
+
+
+
+IPFW 
+
+
+
+DDN'T MISS PUT! 
+3PACE IS STILL AVAILABLE BUT GOING FAST! 
+
+
+
+
+the YICW standard 
+in student living 
+
+
+
+amenities 
+
+
+
+' Individual Housing Agreements 
+1 Furnished Bedroom 
+1 Furnished Living Room 
+1 Fully Equipped Kitchen 
+
+• Dining Area with Chairs 
+
+1 High-speed Internet and Cable Television Service 
+
+' Community Center 
+
+' Social Lounge with Big Screen Television 
+
+• 24-Hour Laundry Facilities 
+1 Fitness Center 
+
+' Basketball Sport Court 
+
+■ Computer Learning Center/Cyber Lounge 
+
+• On-site Community Assistant Staff 
+
+• On-site Management and Maintenance 
+
+1 Housing for IPFW Students including Allen 
+County Residents 
+
+OPENING FALL 2004! 
+
+
+
+IPFW 
+Student 
+Housing 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY FORT WAYNE 
+
+260-481-4180 
+
+Kettler Hall G98F • 2101 E. Coliseum Blvd. • Fort Wayne, Indiana 46805 
+www.IPFWstudenthousing.com • email: info@IPFWstudenthousing.com 
+
+PROFESSIONALLY MANAGED BY AMERICAN CAMPUS COMMUNITIES 
+
+
+
+HDUSING FDR IPFW 
+
+
+
+Page 8 The Communicator 
+
+
+
+Features 
+
+
+
+March 3, 2004 
+
+
+
+Revving up for Spring Break 
+
+
+
+By Amie Sorka 
+
+
+
+The Co: 
+
+
+
+Every year, students al IPI-W 
+eagerly await a certain week in 
+March where they are tree of their 
+scholarly duties. Thai week, known 
+as Spring Break, is a time when hun- 
+dreds choose to travel to various 
+destinations, while many more con- 
+tinue on living their daily lives in 
+Port Wayne. 
+
+Sara Shepherd, a second year 
+theater major, and Laura Vought, a 
+third year nursing major, are two ol 
+many students from IPFW who are 
+going out of town (or spring break, 
+They are heading down to Dayton.. 
+Beach, Florida, where Vought has 
+been, bul Shepherd has not, 
+
+Vought said that the thing; 
+
+
+
+
+rn.my tips Bl thi 
+'W.Colle^.'tr 
+
+One of the mo 
+ispopen outside Have tin- post 
+
+picket! up regularly. 
+
+
+
+shee 
+
+
+
+Day tor 
+things 
+
+
+
+!,:■.„■ , 
+
+
+
+pea , 1PFW sludenls Sara Sheperd and Laura Vought display a map of 
+h and the Florida. The two are amongh dozens of area students migrating south 
+
+
+
+next week, as the 
+
+
+
+sity enjoys Spring Break '04. 
+
+
+
+Fhe othei things the two ■ire t.iking with them 
+
+.in' bathing SUltS, s.md.ils, sunglasses and shorts. 
+
+Shepherd is pretty excited .ihout going down to 
+I &gt;.i yh in.i sime slu- e. jnsl going to h.ing out ,\\u\ ■ hill 
+While Vought wants In go down lo get .mother tattoo, 
+maybe a four-leaf clover. sen 
+
+When asked about whal is the best part of Wa; 
+spring break. Voughl deil.ires il is bring away from spri 
+school, hanging out with the people von want to hang miv 
+
+
+
+nighl. who describes Shephrnl ,idds the weather, gelling away and 
+
+on place " being burnl out are also a reason for going fo spring 
+
+lace aboul a couple of break. 
+
+&gt;n&lt;' thing she remem- Another Ihing; no parents Shepherd admits that it 
+
+a did i\as ml)' on .i was going lo be the fir^t spring break without her par- 
+
+in the Ocean Ih.it was Vought intervened thai being safe about notset- 
+
+oi going in hung any- hog your beverages down, listening to what your par- 
+/ilh her in case il gets enls have to say and not going anywhere alone are 
+important rules to remember while on vacation. 
+
+The one thing ih.it Shepherd is not going to look 
+forward to is coming back home. 
+
+"It's going to be the worst," she declares. 
+And, while those two, among others, are enjoy- 
+in,.', Florida and other locations, Qhyrstal Ackers, a 
+senior psvi hologv major, is staying here in Fort 
+nd that she could not go anywhere for 
+-nue she works full time and she just 
+
+
+
+.uh.i 
+
+
+
+and 
+
+
+
+ting, Acker says she is going 
+
+
+
+Practice Safe Rest 
+
+ORLANEX &gt; i la (COLLEGIATE PRESSWIREjIf you want to avoid tc 
+ing all the bathrooms during Spring Break, then eat yogurt every day for 
+
+
+
+The culhi 
+
+
+
+ii- will strengthen ihe digestive system and 
+: ■ mi i - Revenge This is |ust one of the 
+■ to Student Travel by the safety experts at 
+
+■ r ■■ tii.. more tips fur Spring Breakers: 
+
+. ..■:, ,,.r,-,i, i- ihe hnilil up ut ' iiuiil nihl 
+and newspaper stop delivery, or get it 
+
+
+
+If you are taking a road trip, check out all belts, hoses fluid levels, spare (; 
+
+
+
+Remembei lo bring \jow health 
+
+
+
+c lumping in lo hijack the c 
+
+
+
+card and allergy bracelet*. 
+
+
+
+Let your family and trusted friends know when you arc leaving, 
+i/ei/ II get bin k ami U/nr you arc traveling. 
+
+If you arc trawling b\i bus. mil or nil, don't bring magazine* until your 
+
+• and address. Tear off you) address label. You do not want people lo know 
+
+that you arc away from borne and where you live. 
+
+Don't have your name ami ad.hr?.:-, Iiigldy visible an your luggage. 
+
+Be aware of pickpockets who prey on people in crowds. They get close and 
+bump into you without you notu ing. Pickpockets also work in groups. One Will 
+distract while the other slips away with your goodies. 
+
+In public bathrooms, do not hang your purs,- on the hook on the back of the 
+partition door A thief can reach over the door to take your purse. Tltey watch 
+you i foot position mid wait until they -rr mm turn away By the time you notice, 
+
+ire literally c, night wht. youi pants down. 
+
+If you stop at a restaurant. ba\ oi cafe ami set \nmi bag down , put your foot 
+through the strap That way it won t be taken without i/t&gt;u knowing. Also, you'll 
+remember to take it with you when you trip over it as you leave. 
+or more tips, check out www.CollegeSafe.com. 
+
+
+
+With housing comes potential roommate nightmares 
+
+
+
+ORLANDO, I l-i ~(C01 I EGIATE PRESS- 
+
+W!RE)--Ynu are probably tilling out Ihe 
+forms for student housing soon 
+
+What can you expeel from v/oul nexl 
+college roommate' Will you wake up with 
+blue hair or freshly baked i oi ikies? Will your 
+roommate be your best friend or your worst 
+
+That depends on how you fill out the 
+college roommate quiz and how von get 
+along with your new roomie. 
+CollegeSale.om introdmesa tree guide on 
+surviving college roommates available at 
+www.CnllegeSafecom/roomiehtm 
+
+You can I ChOOse /Our parents and yon 
+can't choose your brothers or sisters, but you 
+can take steps to get good roommates. When 
+you re filling out the roommate quiz, be hxwv 
+est and maybe even exaggerate a bit on the 
+things lli.il are important lo you. Be voursell 
+Forget aboul trying to act cool, the people 
+reading it couldn't care less. For example il 
+you are a person that likes order and gels 
+stressed when things are messy, thensav lh.it 
+you are a neat freak and don't they dare 
+match you with a slob or you'll go postal. 
+
+
+
+i in the other hand, it you use your floor 
+i you. l.-niiidry basket and wash Ihe dishes 
+one at a lime from the big pile in the sink 
+only when you need one, then don't put 
+down tli.it cleanliness is important to you. 
+
+You might be hoping to get paired up 
+with someone who is ,i real neat freak so that 
+they will do all the cleaning and you can 
+slide by without doing much, but this will 
+onlj cause problems in the long run. You are 
+likely to find the underwear that you left in 
+
+our bed. Or you'll 
+
+
+
+i toilet brush and then put it back 
+
+
+
+* Spit in their food or emptied used 
+condoms in their food. 
+
+* Gone to the bathroom 
+or their body spray (it gives 
+
+Fau de toilette"). 
+
+' Cut their hair while they 
+ing. 
+
+
+
+* Set up web cams and hidden camera 
+to spy on their roommate's intimate 
+moments. 
+
+their cologne * Used their email accounts to send 
+
+v meaning to harassing emails to teachers. 
+
+
+
+
+
+
+,Hh a 
+
+
+
+
+
+
+s kind enough lo give you while you v 
+
+
+
+sleeping It is i 
+
+
+&gt;t a good idea to upset some- 
+
+
+one that has a 
+
+
+cess to the food you eat and 
+
+
+that can come 
+
+
+n and do what they yvant to 
+
+
+you while you 
+
+
+ire sleeping. 
+
+
+Roommal 
+
+
+*s in the past have done some 
+
+
+cruel and vicio 
+
+
+is things. If you want to sleep 
+
+
+well at night, 
+
+
+try to get along with your 
+
+
+Some o| 
+
+
+the things roommates have 
+
+
+done include: 
+
+
+
+
+* Used th 
+
+
+ir roommate s toothbrush as 
+
+
+
+
+• currently hiring photographers. no p 
+• Stop by Waib 21!&gt; ior more information 
+
+
+
+Enjoy a double order of 
+fajiias (enough for two) 
+for jus* (111 And 10 oz 
+original Top Shelf and 
+Caribbean Margariias are 
+only (2* 
+
+
+
+Two Great Deals! 
+
+
+
+Baby Back 
+
+'N Brew 
+
+Wednesdays 
+
+
+
+nnnsEEm 
+
+
+
+
+mmmm 
+
+Call for group discounts 
+
+
+
+
+A full rack of Chilis® 
+famous, double-basied 
+Baby Back Ribs is jus* 
+
+♦9991 And 10 oz. 
+
+Domestic Drafts are 
+
+jus* tl** 
+
+
+
+
+Fori Wayne ■ 317 E Coliseum Blvd. ■ 260-471-2979 
+
+tUufi be ai leaof 21 yeara of afte +o consume alcohol "Offer valid everv Hondav 
+
+
+
+Chiropractic... 
+
+
+
+The Choice For Me 
+
+
+
+.r student from Medford, NJ. 
+from Ithaca College with a Bachelor's Degree in Exercise Physiology 
+itrating in Cardiac Rehabilitation 
+inly thing that has ever captured my attention was studying the 
+
+
+
+I could truly help people' 
+
+
+
+a Doctor of Chiropractic 
+
+
+
+ie chiropractic coltegi 
+3 perfect Ic 
+
+
+
+id Logan, Jason visited 
+jsmthe United States. 
+safe, residential area. 
+
+ry friendly and helpful and the 
+faculty are excellent." 
+Logan College offers students an incredib 
+mvironment blending a rigorous chiropractic progre 
+iiverse and active student population If you are looking 
+personal 
+
+
+
+
+
+
+
+professional success and income 
+commensurate with your position as a 
+Doctor of Chiropractic, contact Logan College 
+Chiropractic today and explore 
+
+
+
+A 
+
+
+
+
+March 3, 2004 
+
+
+
+Features 
+
+
+
+The Communicator Page 9 
+
+
+
+UGA spends Fridays in fantasy worlds 
+
+
+
+Master for a campaign for 
+
+"It's like going to the movies 
+but you're a part of the movie; 
+you're a character in the movie. You 
+sit down and figure it all out and 
+create the script as you go," Sharp 
+
+The UGA doesn't only offer 
+role playing games as a format 
+though. They also have a video 
+game night when anyone can bring 
+their own systems, controllers, and 
+games. Along with independent 
+play, they also offer tournaments 
+featuring games like Madden 2003 
+and 2004 football, and Bomberman. 
+
+With games like these, UGA 
+hopes to provide participants with a 
+chance to build teamwork skills, 
+social skills, improve concentration, 
+as well as listening and problem- 
+solving skills all while having a 
+good time and meeting new people. 
+The tournaments also have cash prizes 
+a nominal $5 entry fee. 
+
+Along with these video game 
+UGA also sponsors tournaments. On the lasl Friday of 
+every month, gamers are welcome to register and play 
+n theChasem Tournament. Although they sometimes 
+
+
+
+
+Photo by Scott M. Urn-son 
+UGA Chris Ash, left, 1PFW freshman Rich Straub and Nate Ward play 
+a card-based game Friday at Walb Student Union. 
+
+
+
+ailable with 
+
+
+
+.i gu.irdi.in to allow participation. This protects the 
+UGA since some games may contain suggestive situa- 
+tions ,ind violence, as well as videogames with ratings 
+of Mature. 
+
+Taking part in a gaming session is a good way to 
+
+meet people and find out what Dungeons and 
+
+charge a $5 entry fee for play, they offer cash prizes i ' ' ^ i 
+
+
+
+thought to be a cult game, as well as 
+some sort of satanic ritual, but gamers are attempting 
+to get away from that image. 
+
+'It's just a game. We're trying to promote the n 
+
+
+
+depending on the turnout. 
+
+Gamers who want to create their own campaign 
+are also welcome to attend any meeting. To create a 
+campaign as a DM however, a description of the cam- 
+
+,, , ., , , ■ , . .,,, , , violent sidr ol g.iinin!;, and tin' pos, ri\ V side, the posi 
+
+paign nuisl It described and lollow I..H....A and I I'M... A .. ___, „, . 6 , . a ,_ . " , ,,__._,___ 
+
+rules. Since they are not pay-for-play, donations 
+not mandatory, but are welo 
+UGA as a group. 
+
+Currently the UGA consists of approximately 30 
+members, but they are hoping to grow larger in the 
+future. Being an IPFW student is not a requirement to 
+join. The UGA has c[uite a few students from local high 
+
+schools who are not only inieiv-led in tin gaining, but , , ' "'^ t " B " feca Ulc llllllu °' lu 
+,, —' , lc: , . think about the ebon."- to make 
+
+
+
+gods. We're trying to get away from that stereo- 
+and'on'lyb'me'liUhe type,' Brandt said. 
+
+J In reality the game is a way to get together with 
+
+friends, meet new people, and get a new viewpoint on 
+life. The situations and arrangements provided by the 
+Dungeon Master can rival or go well beyond the 
+everyday experiences. 
+
+This engages the mind and causes players to 
+
+mple, "If I 
+
+open this door will a monster jump out, or will I be 
+
+fine?" The Dungeon Masters must also be prepared if 
+
+player pulls something that is totally unexpected. 
+
+
+
+the campus as well. To become an official member, 
+attend at least six meetings, or six months of gaming 
+with excused absences. This entitles members to vot- 
+ing rights during me.liri:',-. and oilier privileges. 
+
+i jj.. . o . ,n.o,o i 1 bis entails nkuet- lobe on tin.' ball with Ibmking and 
+
+In addition to the meetings at ll'FVV, there are also *\. } , . . , ., 6 
+
+.. . , . r . .,, , , ,-,- reasoning skills and helps de\ elop them i! m\ ■ -- w \ 
+
+/ other traminii -.p.'i- hi i'n \\.i\:ii .-. I n. h . ■ :,-: ' r . 
+
+
+
+many other gaming spots in Fort Wayne which oiler 
+open gaming. Gamers can head to the Phoenix Rising 
+store or More Than Games on Wednesday: 
+Thursdays, and Fridays for some competition. 
+are also some Saturday campaigns at those locations 
+as well: 
+
+The current members of the UGA enjoy gaming 
+and being able to get together. 
+
+"We're just a big group of friends. It's just a real 
+creative way to spend a Friday night playing games. 
+Brandt said. 
+
+She said they are always looking for new 
+Dungeon Masters and Came Masters to run new cam- 
+paigns and bring in more people. Having only a few 
+DMs makes running sessions hard. When more people 
+come, they need people to take the initiative and try 
+their hand at becoming a DM. 
+
+Coming up in the summer, the UGA is sponsor- 
+ing UGA-Con Aug. 21-22. This will be a convention 
+featuring gaming sessions and vendor booths for 
+gamers to explore stores and their products. It was ini- 
+tially scheduled for May, but was moved back due to 
+conflicts with finals and the end of the school year. 
+
+The UGA has very few restrictions 
+
+
+
+Mike Keelner believes that along with these 
+skills, players are also actively involved with each 
+Th J "' otner socially. Interacting in person, as well as in char- 
+acter, helps to develop interpersonal skills needed 
+through life. 
+
+Another good skill players build upon is their 
+math ability To play, players use dice to roll for vari- 
+ous attributes like hit points, charisma, and skills 
+needed for game play. They also have to use dice for 
+battling or attempting certain feats their character 
+might not be ready or able to do. Playing these games 
+iI-m h.ljv, hiuld imagination and concentration, UGA 
+members say. Being such a fast-paced game, it 
+requires players to be on their ready for any event and 
+be able to understand their situations. 
+
+If interested in joining or checking out the UGA, 
+they have game sessions every Friday night on the 
+IPFW campus in the Science Building or Walb Student 
+Union. Video Game sessions are held every other 
+Fridaj night, and other gaming sessions are held off- 
+campus at Phoenix Rising and More Than Games in 
+Fori Wayne. The current Dungeon Masters for the 
+
+
+
+UGA include Sharp, Orb3; Keefner, Vetri 
+bers, though members must follow the Constitution . ' ° , , "' 
+
+
+
+February 25. 2004 
+
+
+
+I 
+
+
+
+III 
+
+
+
+m3 
+
+
+
+
+
+
+m 
+
+
+
+information check out the web page at 
+groups.msn.com/ugagames or contact Brandt 
+
+
+
+
+nmmiia 
+
+
+* L* SEARCH 
+
+
+Surf and Turf 
+
+
+NQRRPSGJ P K O Z Y X X IMU 1 S 
+
+
+1 JVU lUOZCPPWYJKPRJQO 
+
+
+FZP8TKKHB2LBYJBOAAH 1 
+
+
+MUUMMNOA 1 AJKPYURPBAL 
+
+
+IQLZ IWPOHF ISOAWTTNRJ 
+
+
+GCFMDROJVLUAHTSEBUBJ 
+
+
+GCNENVHLLWZNBLPRLKBO 
+
+
+FMRSHGBSEDOMETFHGRLO 
+
+
+EGKJXEYNKNYSYJYOQANT 
+
+
+ECHRHMKTGJSSRPMUTGES 
+
+
+BBLREYFISULATTGSINXC 
+
+
+XBAAATMBM 1 TCWEGEDAFA 
+
+
+QFDBMTSMAWRORWAESCSl 
+
+
+R 1 NGESQBSCJLMIRKSRUL 
+
+
+PSHLTCOWOSUUOLWDFAOO 
+
+
+EH 1 FXWQATLCMO IQGCBMP 
+
+
+X F S G UWW JGIQISANYZADS 
+
+
+TRRTDWPPJRNLSPWGFVCZ 
+
+
+OZLYTLF 1 IONUVUMWSSOO 
+
+
+MHLLGDOOFAESMYDTNLEV 
+
+
+Beef Fbh Seafood 
+
+
+Chowder Lobster Shrimp 
+
+
+Clams Mussels Sirloin 
+
+
+Crab Porterhouse Steak 
+
+
+Fitet Mignou Scallops Tenderloin 
+
+
+
+
+You're Never 
+Lived or Worked Like This! 
+
+
+
+IPFW Student Housing, the new premier housing choice for IPFW 
+students, is looking for Resident Assistants. As a Resident Assistant, you will help 
+make IPFW Student Housing a great place to live through outreach with 
+students, resident programming, leadership and customer service support. 
+Qualifications Include: 
+
+• Must be a full-time IPFW student in good standing 
+
+• Must have and maintain a 2.S GPA or higher 
+
+• Must have strong leadership and communication skills 
+
+• Must attend one RA Informational Session to apply 
+
+For more information and to apply, please stop by the 
+housing office located in Kettler Hall. 
+
+2101 East Coliseum Blvd. * Fort Wayne, IN 46805 
+
+(260)481-4180 
+
+www.IPFWstudenthousing.com 
+
+
+
+OPENING AUGUST 2004! 
+
+
+
+
+Page 10 The Communicator 
+
+
+
+Sports 
+
+
+
+March 3, 2004 
+
+
+
+Lost fight on Senior Night 
+
+
+
+Seniors combine 
+for 27 points in 
+Mastodon loss 
+
+By Staff and News Services 
+
+
+
+When they are at the Memi 
+
+m, the IPFW Mastodons 1 
+
+played even with just about every 
+
+
+
+has stepped on the floor. Unfortunately th: 
+squad has found it lough to win many of 
+tlmsL' tlosc games. 
+
+The season finale against IUPUI on 
+Monday, March 1 proved to be another nail 
+biter, but in the end, the Jaguars had just 
+enough to hold of/ the Mastodons, 68-65. 
+
+
+
+eight po 
+
+rsMl in 
+
+
+
+the net. It gave IUPUI a 34-31 
+
+The second half saw 
+the Jaguars (19-10) opened up 
+lead with jusl under four mir 
+jumper by Matt Crenshaw. 
+
+The Mastodons clawed back to one, 
+on a triple from freshman guard Beau 
+li.Hier, bill .1 pair of Iree throws Irom Oilrll 
+Hradley with seven sec onds lell gave IUPUI 
+the victory. 
+
+Trie Mastodons had a chance to 
+-end llie game into overtime, but a three- 
+pointer bv Keion Henderson bit the right 
+side ill the rim ami It*!! lo Ihe ground at (he 
+buzzer. 
+
+On senior night, it was Henderon 
+sharing team-high honors with 15 points. 
+
+Junior center David Simon also 
+tossed in |5 poinls while hauling down Id 
+rebounds. Simon finished a stellar 2(1111-111 
+season with 14 double-doubles. 
+
+Senior forward Jim Kessenich and 
+Bauer each added 12. 
+
+Bradley was game-high for the Jags 
+u ilh 2H points, ten coming from the charity 
+stripe I h.il was Ihe biggest deficiency lor 
+IPFW on Ihe night. They shot only 50-per- 
+cent at file line, while IUPUI shot 'Hl-perccnt 
+
+Bolh teams shot just 37 percent from 
+The M " * 
+
+rs and 
+
+Jaguars bit six of 20. 
+
+At the conclusion of Ihe j. 
+Mastodon coach Doug Noll took the r 
+phone and thanked the fans, students 
+
+
+
+
+IPFW seniors Jim Kessenich (front) and Keion Henderson (back) look or 
+as an IUPUI three-poinler sinks through the basket. The Mastodons lost i 
+very competetive game, f " ' 
+will run .ffull men's sea 
+
+
+
+Wayne community and his players and 
+
+coaches lor their efforts and dedication lo 
+the program and what he called a "tough" 
+
+Seniors Jim Kessenich and Keion 
+
+I lenderson echoed Noll's words and tearful- 
+ly reflected on their college basketball 
+
+Kessenich made it through most of 
+
+his speech before bis emotions gut the best 
+of him. As he began to speak about his 
+
+
+
+teammates, his voice buckled. 
+
+Henderson was just a few seconds 
+
+into Ins speech before lie paused to collect 
+himself. 
+
+Both players already have full-time 
+jobs hned up lor Ihem in the community. 
+Kessenich will use his engineering degree to 
+design looking equipment and machinery, 
+
+
+
+IPFW takes 
+5th place at 
+tournament 
+
+By IPFW News Si 
+
+
+
+Ryan Steinbach scored the game- 
+winning run in the ninth inning Sunday as 
+the IPFW Mastodons defeated the Valparaiso 
+Crusaders 4-3 in the til lb-place game of the 
+2004 Governor's Cup at Charles H. Braun 
+Stadium. 
+
+With the score knotted 3-3 in the bot- 
+tom of the ninlh, IPFW loaded the bases. 
+With one out, Maslodon center fielder Ryan 
+Keena slapped ihe ball to second base. Valpo 
+second baseman Eddie Hannan threw to 
+shortstop Kevin Kutansky, who was unable 
+to complete the double play in time. 
+
+Steinbach 
+
+~~ scored from 
+
+Baseball third. 
+
+Roundup Valparaiso 
+
+took the early 
+
+lead, scoring 
+two runs in the fourth inning on a single by 
+first baseman Colin Reynolds. IPFW scored 
+one run in the bottom of the fourth and took 
+a 3-2 lead in the sixth inning before VU tied 
+the game in the seventh inning. 
+
+Doug McDonald got the win for 
+IPFW, which improved to 1-5 on the year, 
+while Mall Oillkin took the loss for Valpo, 
+
+
+
+The Mastodons dropped a 5-3 deci- 
+
+
+
+The Bulldogs gave a run back in the 
+
+second. Designated hitter Eric Lambert 
+walked, reached third on an error, and then 
+scored on a double-play, making it 2-1 Butler. 
+
+The Mastodons would take a 3-2 
+lead in the third inning as Brandon 
+Armstrong singled lo center field scoring 
+Matt I lagedorn and Ryan Keena. 
+
+Butler regained the lead for good in 
+the fourth inning with two runs. They also 
+sn insurance run in the seventh. 
+
+Starter David Zachary (0-2) took the 
+for IPFW. Zachary went 4 1/3 innings 
+giving up four runs (2 earned) on five hits, 
+while striking out three. 
+
+Indiana State dropped the Dons 5-0 
+the opening game of the tournament. 
+
+The Sycamores spoiled a great out- 
+ing b) IPFW senior right-hander Jason 
+Horvath. Horvath went six innings, giving 
+up only one run. on six hits. He had nice, . 
+command of his stuff, gelling 11 ground ball 
+to go along with two strikeouts. 
+
+He gave up his only run in the 
+fourth. 
+
+
+
+'Dons pick up 
+two MIVA wins 
+
+
+
+turned back the attack of the 
+Ramblers in five tough sets, 3-2. 
+
+The Mastodons won by the 
+scores of 30-26, 23-30. 26-30, 30-25, 
+and 15-12. 
+
+After the Ramblers took a 
+2-1 lead, senior outside hitter Matt 
+Zbyszewski put IPFW on his back 
+and led l hem to wins in the fouth 
+and fifth. Zbyszewski finished the 
+night 
+
+
+
+digs for 34.5 points. 
+
+As usual, the MIVA's lead- 
+ing block wall of Serdar Sikca, Mike 
+Daiga, and Dennis Santiago did the 
+
+t'ob. Sikca had one solo and ten 
+)lock assists. He also had nine kills 
+Daiga and Santiago each 
+registered four block assists, as did 
+outside hitter Mitch Dreisbach, who 
+put down nine balls for the second 
+night in a row. Santiago recorded 58 
+
+Senior libera Isaac White 
+got double-figure dig numbers for 
+the second night with 11, and fresh- 
+man Cristiano Moriera also 
+chipped in 11 kills. 
+
+Loyola-Chicago got a great 
+game from Mike Alesch who regis- 
+tered a double-double with 31 kills 
+and ten digs. 
+
+LUC falls to 9-6, 5-3 MIVA. 
+
+Behind an 18 point per- 
+formance from outside nitter Matt 
+Zbyszewski, the IPFW Volleydons 
+swept through Quincy University, 
+Friday night at the Gates Center, 
+
+
+
+The Mastodons won by the 
+scores of 30-21, 30-24, and 30-23, to 
+improve lo 8-2 on the season, and 6- 
+1 in MIVA play. 
+
+Zbyszewski had 15 kills, six 
+digs, ,\nd four block assists. 
+
+Mitch Dreisbach was one 
+kill shy of double-figures with nine, 
+and he hit .412 
+
+The MIVA's ffl blocking 
+team roofed 15 total on the night, 
+with Serdar Sikca equaling 
+Zbyszewski's total of four. 
+
+
+
+e finished with 21.5 points. 
+
+With the win, IPFW 
+improves to 9-2 overall, and 7-1 in 
+the conference. 
+
+The Mastodons will now 
+hit the road for their next six match- 
+es, before returning to the Gates 
+Center to host Mercyhursl College 
+on March 27. 
+Zbyszewski named PoW 
+
+IPFW right side hitter Matt 
+Zbyszewski has been selected as 
+the Midwest Intercollegiate 
+Volleyball Association Player of Ihe 
+Week. 
+
+In IPFW's 3-0 win over 
+Quincy, Zbyszewski had 15 kills 
+and hit .423 (15-4-26). He added six 
+digs, four assisl blocks, an ace serve 
+and three assists. In the 3-2, come- 
+from-behind victor over LUC, 
+Zbyszewski equaled his career-high 
+of 34 kills while hitting .351 (34-8- 
+
+
+
+L 
+
+
+■&gt;~ 
+
+
+/ - 
+
+
+
+
+| 
+
+
+p MM 
+
+
+
+
+%{ 
+
+
+, «^&gt; * 
+
+
+. 
+
+
+__f ;■ Jki 
+
+
+
+
+^^^VrD L&amp;6{ 
+
+
+" n 9 
+
+
+1 __ ~ &gt;ar 
+
+
+
+ebrating for the IPFW i 
+
+
+
+Photo provided 
+&gt; volleyball team. They won two 
+
+
+
+The weekend was wort 
+
+conference games and are now 9-2 overall and 7-1 in MIVA play. The team will now hit 
+
+the road for six straight games away from the Gates Center. 
+
+IPFW ends season with loss at Valparaiso 
+
+
+
+By IPFW News Se 
+
+
+
+The Valpar, 
+iaders used a 37 " 
+
+
+
+Lady 
+
+
+
+Zbyszewski, for thi 
+
+matches (eight games), averaged 
+6.56 points per game He averaged 
+6.46 poinls per game while hitting 
+.387. He averaged .62 blocks and 
+2.32 digs per game. 
+
+In the NCAA national sta- 
+tistics from last week, Zbyszewski 
+was leading the nation in points 
+(7.60) and kills (6.55) per game. 
+
+
+
+stretch, to easily out-dis- 
+tance the Mastodons, in Ihe 2003-04 
+season finale, 80-65. 
+
+Valpo's run began with 
+eight minutes left in the first half 
+m\&lt;\ stretched to the 13-minute 
+mark of the second half. 
+
+The Lady Crusaders (16- 
+11) owned a 19 point half-time 
+lead, 38-19, mostly due to only 25- 
+
+
+
+enl shooting by IPFW. 
+
+The Mastodons were 
+n by 43 points around the 12- 
+jte mark of the second half, 
+pulled it to within 13. 
+
+
+
+nplj i 
+
+
+
+
+
+
+so did IPFW's victory hopes. 
+
+One 'Don that had it work- 
+ing, was junior guard Courtney 
+Nicley. Nicley drilled six triples 
+and finished the day with a gai 
+
+
+
+Senior forward Amy 
+
+
+
+Gearlds finished her Mastodons 
+career as the school's third All- 
+Time scorer. She was the only other 
+'Don in double figures with 12. 
+
+Shooting guard Kathryn 
+Knoester was tops for Valpo with 
+21 points. 
+
+With the loss, IPFW finish- 
+es the season with a record of 8-20. 
+
+In the post-Spring Break 
+
+
+
+</pre>        </div>
+      </div>
+    

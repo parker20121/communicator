@@ -1,0 +1,2482 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1404indi/communicator1404indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1404indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1404indi">The Communicator</a>"
+          </h1>
+          <pre>The Communiciitor 
+
+
+
+Volume XIV Issue 4 
+
+
+
+Indiana University-Purdue Univcriily a\ Fori Wayne 
+
+
+
+September 9, 1982 
+
+
+
+IPFW plots 
+traffic option 
+
+
+
+DyMAmiEWllKNRV 
+SiiirWrilcr 
+IPFW Ddmlnlilrslori rccfnlly 
+odopled a plan which altered tome 
+\itWc paltenu on campus In hopci o[ 
+improving the trafllc now Itut hai 
+ticcomen major problem in thelMllew 
+
+It is IDD early lo lell U rnrenl changa 
+have Improved the iralMc problem, 
+auid John Camaghi, vice-chDnccllor (or 
+Klnanclal MMn, but In case the 
+
+
+
+ehangei. tltcoplioni will concentrate on 
+the SoulhwosL corner of cnmpua, which 
+Includes the Intenccllon of South 
+Compiu Drive and West Campus Drive, 
+
+
+
+al the InlcnecUon oT Ihc Kclllir Circle 
+and Weil Campus Drive Ttits will be 
+done by placing two slop signs on Weal 
+Campus Drive at the KelUer Circle. 
+
+
+
+1 pesk hours. 
+The problem with this plan, however. 
+Is the north bound tralllc on Wnl 
+Campus Drive could possibly gel 
+backed up as lar as Coliseum Blvd 
+
+
+
+hepUni; 
+
+
+
+le Kettle 
+
+
+
+id WestCampui 
+sson the Iridic 
+
+
+
+on campus. 
+
+Comaghi iBid thai Isn't necessanl; 
+true attd a lot at iratnc problems on 
+campus could be ellmlnaled if students 
+
+"Just because the tlislance Is shorter 
+doesn't mean that the amount of time II 
+lakes you to gel there Is quicker," 
+
+CamoBhl suggests slwtenls exit from 
+Broylcs Boulcvord If they want lo save 
+time In gelling on lo Coliseum Blvd. 
+
+"1 personally have liied II (using the 
+aroyleseiliiDndlllsqulclicr,"hcsaid 
+
+The options the administration '- 
+cunsldcring vary I 
+
+
+
+plan, Curnaghl said, 
+[ore most obstacle. 
+
+In an earlier sUitemi 
+said, "given the Itnoncial conslrauiu 
+on IPFW, we are limited In the number 
+
+mull, Ihc most inexpensive option, if 
+one Is needed, will probably be the one 
+adopted. 
+
+
+
+by adding a 
+lane would stretch the enUre length of 
+Ihc circle and would Involve taking out 
+parking melen, the (lag pole and 
+curbs. The trarfic on the far right would 
+
+passengers while the two left lanes 
+could conllnue lo move freely resulting 
+In less congestion 
+
+The problem with this plan is three- 
+lold, Camaghi said, because the coat is 
+more than the parking fund can bear, 
+the loss o( thirlysii parking meters 
+would choke off incoming revenues (or 
+the parking (und, and the parking Is 
+needed for visitors who call on od- 
+ministrallve offices located in Kcltler 
+
+
+
+. time and 
+b the flnl 
+
+
+
+, Camaghi 
+
+
+
+
+
+
+option 
+
+
+
+I Una 
+
+
+
+laity I 
+
+
+
+The third option is simplest to ex- 
+plain, bul the most difficult to achieve 
+II involves widening Wesl Campus 
+Drive a I Coliseum Blvd. by adding a 
+
+directed lo exit right onto Coliseum 
+Blvd., thus allowing Irafic to flow more 
+smoothly along Wesl Campus Drive 
+The problem with this plan, Camaghi 
+
+way permission, easement restrictions, 
+etc The amount of lime involved in the 
+construction process and the resulting 
+Irafdc snags ore other problems with 
+this plan, he said 
+
+The administration is hoping Ihsl Die 
+original plan will work and adopting 
+another approach tg Ihe campus traffic 
+problems won't be necessary, Camaghi 
+
+
+
+IPFW unhurt 
+by bank closing 
+
+
+
+ByJEFFltANDV 
+
+"It was a terrible loss," William 
+chum, general manager ol the Indiana 
+'nlverslly Employees' Federal Credit 
+Inion ilUEPCUl uid "Bul not so 
+
+
+
+The lUEFCU, which many tacully 
+and slalf members, administrators and 
+Ihclr families al tPFW and other iU 
+campus are members, had t2 million 
+invested In Penn Square Bank cer- 
+tincBtes of deposit. On July 12, Penn 
+Squore, an Oklahoma City Bank, 
+
+Although U million was invested in 
+Penn Square, only (360,000 was written 
+u(( OS a loss, Schum said. The loss was 
+paid out ol earnings, and did not require 
+uliliiing any ol the tl 6 million dollar 
+reserve of the lUEFCU, or calling the 
+National Credit Union Ad minis tioUor 
+
+
+
+The Investment cvmmlltee of the 
+lUEFCU purchased certificates of 
+deposit after Penn Square Bank had 
+been anatyicd by Professional Asset 
+Maiugement. broker? who recommend 
+
+i-eslmcnl committee examli&gt;ed the 
+financial ilalements of Penn S&lt;iuare, 
+which indicated it hid adequate 
+reserves and good profitability. Schum 
+
+
+
+were misleading, he said. 
+
+Statements did not hlnl 
+
+In the bank's lending." Schum uid. 
+
+Pcnn Square's lending lo energy 
+drilling and eiptoring was the major 
+reosDn (or lis failute. Schum said. 
+
+When the price ol oU dropped (rom 
+OS per barrel to HI. many liwrowers 
+were unable to repay tbcli loans and 
+defaulted, and Penn Square's coo- 
+cenlration on loans in energy projects 
+forced Ihe bank lalo insolvency. Sebum 
+
+
+
+Although Penn Square was the 22nd 
+bank to close this year, Loviscek sold 
+Penn Square was an exception because 
+of its heavy lending lo energy projects. 
+
+
+
+
+
+
+" Schun 
+
+
+
+tally 
+
+
+
+acked 
+
+
+
+
+Administration trying 
+mend NCATE wounds 
+
+
+
+to 
+
+
+
+strike IPFW last spring was Ihe 
+education department's loss o( DC- 
+crcdltalion by the National Council for 
+Acccedilatlon of Teacher Education 
+1 NCATE 1 
+
+
+
+conTidence against 
+
+Bcforefinallymaneuvering 
+be measure, Ihere was spirited 
+ind an unsuccessful atlempl Ic 
+
+
+
+still feel that the major impact is U 
+' &gt;s of jobH," Nicholson said. 
+Nicholson pointed out that IPFW st 
+is major accredilaLons in educatii 
+
+
+
+uubser said that the purpose o( 
+NCATt: Is lo Improve teacher 
+education through evaluation, 
+assessing the quality of programs lo 
+
+
+
+&gt;n that It 
+
+
+
+rsity hj 
+
+
+
+as Penn Square. Lovlicek said, were 
+indicative ol a "growth mania." This 
+obsession lo become larger led Penn 
+
+"Time" magaiine recently reported 
+Ihe lUEFCU was one of over 12M credit 
+unions which, as a group, could lose up 
+to t!0 mllllDn. The big losers, however. 
+
+
+
+"Time" also said Chicago's Con- 
+bninlal Illinois National Bank and 
+Trust Co.. Ihe seventh largest 
+American commercial bank, made 
+nearly II billion worth of loans in 
+cooperation wilh Penn Square, and 
+Chase Manhattan, the third largest 
+bank, engaged in almost USO mUlioo 
+worth of cooperative loans. 
+
+As tbe assets ol the bank are 
+dislrtbuted. Sdium is hopeful more 
+money will be recovered, he said. 
+
+"Suits have been filed against the 
+FDIC (Federal Deposil Insurance 
+Corporation!, the bank maiugcmenl 
+and Ihe iCPAi rum that audited Ihe 
+Tinancial slalemcnls." Schum said. 
+
+Tlie lUEFCU will not be caught m 
+any other bank collapses, Sctiim said. 
+
+
+
+both faculty and students had to 
+NCATE '5 
+
+fact 
+
+The a dm In is tra lion's reason for Ihe 
+delay is that it was following policy 
+
+■When NACTE makes a decision. Ihe 
+institution has 30 da)": lo decide 
+whether or not lo appeal. We were 
+working with Bloominglon lo make the 
+decision," said Judilh CiinlDn. direelor 
+of University Relations 
+
+"NCATE's policy is lo release 
+cierything lo Ihe press themselves. We 
+could have gone ahead, but we thought 
+it better lo wail until the deeblon 
+iwhetherornol toappeali wasmade." 
+she said. 
+
+
+
+took place in the Walb Memorial Union, 
+where officials from lU Bloominglon 
+presented their version. Just how 
+tenuous the administration's position 
+
+
+
+city campus' li 
+■rthe find out I 
+
+
+
+"The purpose of accreditation Is the 
+examination of standards. Nol how 
+good you arc but how well you meet the 
+
+
+
+
+
+
+NCATE does exert influence, Gubser 
+aid 
+
+"Accredilation has become much 
+lore rigid. In 1971, 7 percent of the 
+nslitutlons reviewed were denied 
+
+
+
+outside 
+
+
+
+"Several committees ore working on 
+Ihe problem. We hope lo have our 
+porUon completed by the first of next 
+semcsler." he said. 
+
+Nicholson said he does nol want to be 
+tied too closely to a schedule, "give us 
+one semeslcr for. Murphy's Law lo 
+
+
+
+"Some people are still asking if ihe 
+'Dllegehaslosl accreditation," he said 
+Pari of the fault, Nicholson said, lies 
+
+"We sent both newspapers a copy ol a 
+
+
+
+Many departments, 
+
+have been accredited far years,' 
+
+Nicholson said that many school! 
+becoming dissatisfied wilh the 
+credilation system in all program: 
+don't think II was intended this way 
+whal slorted as on academic revue 
+turned Into a budgcl revue. 11 Is ah 
+easy lo say that an institution 
+Sfending enough in an area (Iha 
+accrediting body thinks it should t 
+
+
+
+I very small pari of accreditation," he 
+laid. "Recently IM people were cer- 
+ified in Calllomta wilh no educalion at 
+III, just a diploma from a phony 
+
+
+
+careful, and 
+
+
+
+1 » percenL We fc 
+eipecl Ihal rale 
+
+
+
+cepllons exist about NCATE. 
+"NCATE ii nol just Lynn 
+Each evaluation team has ; 
+who are professionals in 
+
+
+
+"We ai 
+
+
+
+'t Just splnn 
+
+
+
+HesE 
+
+bottle 1: 
+
+NCATE was formed in l»M by the 
+National School Board and the Nalional 
+Educalion Associalion, among others 
+
+"We are the federally recogniEMl 
+office lor teacher ai 
+
+
+
+i We ai 
+
+
+
+unded ihrough fees Ic 
+
+
+
+Kennel works to achieve 
+personal goals at IPFW 
+
+
+
+
+
+
+xr. Phillip 
+II sludenUi, 
+
+
+
+orked to acbic 
+goals in teaching and coaching 
+
+Kennell started as a history teacher 
+and football coach for Ihe second 
+largest cenlral high school in New 1 
+
+
+
+alhleti 
+
+
+
+
+
+
+n I960 as 
+and in- 
+
+
+
+of Technology llT's goal was 
+organiic a football team under Ki 
+nell's diieclion. Lack of funding foul 
+
+
+
+West Liberty State College. Kennell. in 
+1969, setlled at IPFW. 
+
+Why. with all his teaching and 
+coaching experiences, would Kennell 
+
+
+
+to Ihe source, " Kennell said that 7(1 
+percent of the students arc admilled 
+after April t. 
+
+The job of presenting IPFW to the 
+community Is exclung for Kennell. 
+"We're representing two of the best 
+
+
+
+e Uml 
+
+
+
+i States, bul Ihe ' 
+
+
+
+jI the lUEFCU are 
+now enUrely in government securitis, 
+banks and savings and loans only lo the 
+extent that Ihey are backed by the 
+FDIC and the Federal Savings and 
+Loan Insurance Corporation, Schum 
+
+
+
+t as an important part of the 
+
+■sity lunctuin. "The registrar degree fr 
+
+register and the teachers can't was goln) 
+
+
+
+KennelUs enure family has attended 
+IPFW at some time during their college 
+careers. His oldest daughter Debbie 
+started her undergraduate loumalism 
+degree here before finishing her 
+bachelor's degree at Bloominglon. 
+While working as an English and 
+journalism teacher at Bishop Dwenger 
+
+
+
+n IPFW ■ 
+■.college. " 
+
+
+
+His lightest work load Is at the 
+beginning of the semester when Ihe 
+admissions office is dealing wllb 
+transfer students' credits from other 
+
+
+
+ebble Her 
+get her 
+
+master's degree right away Instead of 
+wailing. Even now Kennell passes 
+along class schedules to his daughter 
+"He's always saying 'Here's what's 
+
+
+
+received both her associate's degree In 
+marketing and her associate's degree 
+in supervision from the Fort Wayne 
+campus Susan is currently employed 
+ot North American Van Lines. 
+
+Kennell'sson Mark spent one year at 
+Lafayette bul the desire to continue 
+working brought him to IPFW where he 
+finished his associate's degree in 
+supervision. He woriu as an assislani 
+manager for Malolcy's and is now 
+working on a bachelor of science 
+
+Mike, too, received his associate 
+degree in supervision from IPFW 
+
+The youngesl. Paul, didn'l want to go 
+away 10 school his first year. He came 
+to IPFW 10 play hasetiall and to 
+establish his p-ades first Playing 
+baseball is whal Paul does best Last 
+year's winner of Snider High School's 
+menial attitude award and highest 
+baiting average i-ISfii said Ihal baseball 
+has given him an advantage in 
+
+
+
+
+Daughter 
+
+
+
+worked s 
+
+
+
+allowed to register early. Paul hopes 
+to complele a bachelor's degree in 
+accounting and remain in Fort Wayne 
+alter graduating. 
+
+Solly, Kennelt's wife, is whal Kennell 
+calls "a lypical example of a reluming 
+
+
+
+d After 
+
+she decided lo return to college to 
+complete her bachelor's and muler'i 
+degrees in education. Both o( btr 
+degrees werecompleledallPFW.Sll^ 
+has also liken courses put her 
+
+
+
+
+Accreditation loss 
+still plagues IPFW 
+
+As Ihe debris kicked up by the NCATE The a dm in is Ira [ion cUims thai it was 
+
+explosion Jsegins to selUe, a fe*' following NCATE"s policy by not 
+
+skeletons lie exposed. releasing any information to the press. 
+
+The meaning and importance of ac- This may be (rue, but we should not 
+
+credilalion can be debated forever, always have to read about information 
+
+there may seem no reason for rum- about our campus in the press, we should 
+
+maging through old bones. be informed by the administration 
+
+But one major question remains directly, 
+
+unanswered — why did both students That students were not immediately 
+
+and faculty have to read ot the NCATE informed of the withdrawal of NCATE's 
+
+decision in the newspapers some four accreditation is insulting but not 
+
+weeks after the administration received unexpected. That the faculty was not 
+
+the announcement? informed is shocking. 
+
+Does the administration not trust the Community image is oi the utmost 
+
+restof us or do they think we don't care? importance to this administration. But 
+
+If the administration had nol felt the best image is not manufactured out 
+
+compelled to stonewall it, a lerm used of University Relations, but is an 
+
+here with all its post -Watergate con- outgrowth of the cooperation between all 
+
+notations had not taken it upon itself to areas ol the university community 
+
+decide what students need to know. What kind of public image does IPFW 
+
+much mistrust and hard feeling might present It we are seen as atlempling to 
+
+have been avoided. Time could have hide from our problems or belittle their 
+
+been taken, in some spirit of trust rather importance, and what does this lack of 
+
+Lhan (ear, to clean up some of these communication between administration, 
+
+"continuing misunderstandings" before faculty and students say about the state 
+
+Ihey occurred. Instead, a bandage squad of affairs tielow the surface of this 
+
+was brought up at the last minute from university 
+I.U Bloominglon in an ill-starred at- 
+tempt to soothe the feelings of already 
+disgruntled students and faculty with a 
+quickly thrown together sales pitch. 
+
+
+
+
+Kennel co. 
+
+
+
+KcniKll 
+
+
+
+hclprd to orBinue thr Big 
+t.Faguelor IS-ISytar atdi A 
+lormcr tilgti ictiool ind 
+college aiNcIc, KenncU lus 
+always been intcraltd In 
+sports, IusfIuIJ opcciilly. 
+]n 1S77 Krnnell coichtd ■ 
+winning seiinn lor IPFW* 
+tasftaU (Mm 
+
+Kennel] and hli tamily, 
+DTiKinally (ram Ncu " 
+
+
+
+inily 1 
+
+
+
+lithe pi 
+
+
+
+njm 
+
+
+
+campus. For Ihf pan u 
+years tic tus been active in 
+IKtIe league in (he Port 
+Wayne area He helped (o 
+orgamie the Senior League 
+
+
+
+in Fori Wayne The Ir 
+Uticu of the cily 19 what he 
+sail) appeal! lo him moil. 
+"I've always fell I'd alwayi 
+
+
+
+Study on grading of essay questions 
+poses new problems in grading techniques 
+
+
+
+TAKE THE v&lt;i, 
+
+CANTERBURY CHALLENGE "-&gt;&amp;■ 
+
+
+
+warn 
+
+
+
+
+
+"™"™ I3i1 Cantertiury 
+
+
+
+This calculator thinks business. 
+TheTl Student Business Analyst 
+
+
+
+
+at these 
+
+A/NA/S/W 
+
+Discounts! 
+
+Records 
+&amp; 
+
+TAPES 
+
+From $2.98 
+Top artists! 
+Major labels! 
+
+Classics included! 
+Many, many selections in this special purchase, 
+
+Follett's Fort Wayne Bookstore 
+
+Ground Floor Kettlei Hall 
+483-6100 
+
+
+
+DON'T MISS THIS SALE!! 
+Come early for best selection! 
+
+
+
+-THECOMMfMCATOR - PAGE 3 
+
+
+
+Program to assist students 
+in developing new techniques 
+
+
+
+By CINDV Wt.VANS 
+
+SUir Writer 
+
+I dncnbex [he 
+itudcDU pa r- 
+
+
+
+:lun&amp;ing-' 
+■TeaJiile' 
+penenca ah; 
+
+
+
+I ling 
+
+
+
+
+
+
+enable U)e 
+ig begin Ihe 
+
+
+
+Healtb Technolosy 'MHTi 
+
+
+
+progra 
+
+
+
+Thl&gt; 
+
+
+
+degree program ofrered by 
+IPKW require* itudenlJ In 
+ipend JOOtiDuri working al ■ 
+communily ictvicb agency 
+in addiUon la rulliJlIng Ihrrr 
+general education 
+
+
+
+menially ret 
+phy.iMlly h. 
+Slsrled 
+
+
+
+camp 01 VMCA 
+PolawalamI In 
+Millord. Indiana, nhci 
+work on gclUng lo 
+
+
+
+had lill' 
+
+
+
+LdlotdmeUiall 
+« empty spol Ir 
+
+
+
+r* 
+
+
+
+1 the SI 
+
+
+
+gives ihem a grade t 
+
+
+
+disclosure, and feedback 
+Ihraughoul Ihe T group 
+Haslons. One MHT student 
+
+
+
+CAD unit 
+makes debut 
+
+
+
+ByCFIETClt£NII 
+
+sun Writer 
+
+An emerging rield m 
+inanufBC luring technology ii 
+CAD. computer aided 
+design. With CAD, draignera 
+can create, view, and lest 
+mwlcls on a TV screen 
+belore undertaking ex- 
+(jciaiie manulacluring, said 
+Warren Worlhley. cbalr- 
+pcrson of thi; manulacluring 
+Icchnolog)' deparlmcnl. 
+
+The s&gt;-slcm was added al 
+IPFW lasl 
+
+
+
+Worlhley saic 
+Worth ley di 
+
+
+
+"This 
+
+
+
+program will include bi 
+
+
+
+pule raided manufacturing 
+unit iCAM) lo Ihe CAD 
+system," Worlhley said. 
+
+He added Ihat with Ihe 
+CAD-CAM system, suidents 
+can sit down al Ihe CAD 
+terminal, design a part, lei 
+the compulcr decrminc how 
+it should be machined, punch 
+
+
+
+finished machine tool part 
+
+
+
+le CAD CAD u] 
+
+
+
+WORLD FAMOUS 
+
+
+
+"(^af*te^'&lt;i Ped" 
+
+
+
+^zzn-iomz 
+
+
+
+936 eatiMom SW. tlMti 
+
+
+
+K -mart Ptea East 
+
+
+
+spent her summei 
+Ileum al Workih 
+
+
+
+tsited UK Mental Health 
+Ooter m Fori Wayne i 
+talked Jmlh people ab 
+(Bychiainc settinp " 
+main thing I was told vaj 
+be open-minded." she s 
+
+
+
+iltb the students 
+performances, Hawley said. 
+
+benefit o( (be MHT program. 
+Hawley Mid. t 
+
+
+
+mpleli 
+
+
+
+the 
+
+
+
+program, they have five Job 
+
+
+
+discussed ij 
+Hawley sa 
+descnlwa b 
+
+
+
+. to earn Ihclr chocse what they want 
+u long as it nil in wit: 
+
+1 the program [cogram The five 
+
+us techniques Ucums each involve a 
+
+elhem looulil lerent aspect of mi 
+
+h profe«lonat» health lechnology, the 
+
+\ with Ihe purpose of which, Hawley 
+
+I dlilurbed, said. Is lo "introduce a 
+
+irded, aged, or variety of concepts In 
+
+.ndicapped. produce a generaltst who has 
+
+
+
+retarded people at . 
+Applesced School 
+Training Center as i 
+assistant said, "I 
+enjoy it. lis so neat 
+how they enjoy i 
+
+Another MHT si 
+Shelly Burke. 1», 
+worked with adolescei 
+at Timberlawn Psyc 
+Hospital in Dallas, 
+
+
+
+prehension of dealing with "' 
+
+Wamplcr said of her first ^'^ 
+day at Workshop [nierpnse, f" 
+
+
+
+d ttwir problems, 
+icr said The 
+nabledber 
+
+
+
+Idcnti/y the 
+needs to work on lo avoid 
+becoming bumed-out. 
+
+Not only have ttie students 
+responded favorably to this 
+
+
+
+
+
+
+ut decided to 
+
+
+
+;o finish h 
+
+
+
+
+
+
+agendt 
+
+
+
+prograi 
+
+
+
+, the 
+
+
+
+degree. Zinsi 
+
+Jameson nei 
+
+plans Id finish her degree 
+
+next summer al IPFW. 
+
+
+
+^^^_^^^ 
+
+
+
+Be wise. 
+Bank on 
+campus with 
+the OWL. 
+
+
+
+II you dashed lo class withoul your cash, doni woffy. 
+There s a Fort Wayne National Bank OWL Machine 
+downstairs in the Walb Memorial Union Building. 
+The OWL automatic teller lets you make wilhdowals, 
+deposits or Iransler funds wilhout leaving campus. 
+How's thai tot a class acP 
+
+Gpt wise today Gel an OWL Card Irom Fort Wayne 
+Nalional Bank. Indiana Bank or Peoples Trusi Bank. 
+And slarl banking on campus with the OWL, 
+
+FOm WAYNE 
+
+NATIONAL BANK 
+
+
+
+she's always wanted 
+
+the student to norrow down 
+the area ol mental health 
+lechnology he would like In 
+gel into. Sheryl Zinsmelster. 
+, IS, who spent to weeks ai 
+crall counselor with 
+adolescents with various 
+health and behavorlsl 
+problems al Julln Jameson 
+Health Camp In Indianapolis 
+said she found the 
+
+
+
+idol working with 
+
+
+
+V'/elcome Back to IPFW 
+
+Ayres vanis Id help you gel ine scnool year 
+
+oil to a good slarl ivilh Ihis S5 00 rneichandise coupon 
+
+You may use Ihe coupon lor any pu'cnase (see coupon lot 
+
+details! ol S20.00 or more al any Ayres Store 
+
+September 9 through Seplembei 30 
+
+We looh lofward to seeing you al Ayies' 
+
+
+
+.^ 
+
+
+
+
+
+
+-==;:irair," 
+
+
+
+orfyto'""""" „ 
+
+
+
+chase 
+balance 
+
+
+
+1 Musi 
+
+
+
+E, »afc* 
+e lime o 
+
+
+
+jicnasa 
+
+
+
+loMCCO 5WP , hba Sony. 
+
+
+
+'\M 
+
+
+
+rcampws— 
+ealendar 
+
+
+
+T. Adessa, 
+
+
+
+THURSDAY 9 
+
+Men's tennis at Earlham College, 3 p.m. 
+Mid-day Diversions, Dr. B. Becker &amp; his Jugc 
+Troups, Aquarius Park, 1 1 a.m.-2 p.m. 
+
+FRIDAY 10 
+
+Faculty recital, M. Robertson, piano, 
+
+violin, Neff Recital Hall, 8 p.m. 
+"SUBOG movie. The Wicker Man. CM auditorium. 8 
+
+p.m. [call R. Dorrill, 482-561 6. for child car^ info] 
+
+SATURDAY 1 1 
+
+Men's tennis invitational, Tri^tate/Sienna Heights, 
+
+TEA 
+Coed cross country at Defiance College, TBA 
+
+SUNDAY 1 2 
+
+Panhellanic rush, Walb Rreside Lounge, 3 p.m. 
+
+
+
+'denotes charge 
+
+
+
+■ Bpan«or*d by IndlAna-Pu 
+
+iraiiy natation*, Kettlgr 1 
+
+
+
+MONDAY 1 3 
+
+Women's Studies, G. Ste mem— replay of her Ft. 
+
+Wayne speech, Walfa 224 noon 
+Faculty Senate, Kettler G46, noon 
+Mid-day Diversions, Aquarius Park. 1 1 a.m. -2 p.m 
+Forensic League, Neff 300, noon [all interested 
+
+persons invited] 
+Women's tennis at Valparaiso. 2 30 p.m 
+Men's soccer, Bowl/ng Green State .Univef^ity at 
+
+IPFW, 4 p.m. 
+
+TUESDAY 14 
+
+Women's volleyball at Marian College, 6 p.m. 
+
+WEDNESDAY 1 5 
+
+Inter-Varsity Christian Fellowship, KG46, noon 
+
+Men's soccer at Indiana Tech, 4 p.m. 
+
+THURSDAY 16 
+
+Mid-day Diversions, Aquanus Park, 1 1 a.m. -2 p.m. 
+Women's volleyball, City Tournament, 6 p.m. 
+Men's tennis at Goshen College, 2 p.m. 
+
+ART EXHIBIT— September 1 D-October 1 
+
+The Fabric of bfe' Traditional Weaving of Nigeria 
+by Lisa Aronson, Rne Arls AixJitoriun-i , 
+1 026 West Berry St 
+
+
+
+PAGE * -THE COMMUNICATOR - SEPTEMBERS, 15«2 
+
+
+
+arts 
+
+
+
+PIT summer theatre 
+
+
+
+Partial agreement reached 
+
+BjCIIEKVLMEVEHS iiiiiilanl prsfMior o( prtpanng lof PlT'i tall and I care Jboul Ihe »oi 
+
+
+
+BjCIIEKVLMEVEIU 
+aiMll WrtUr 
+In Miy or lul yet 
+
+
+
+principle 
+retponiilb 
+
+
+
+Slua 
+
+theatre, and Pal Sveel atiDUl 
+iheir lulure wllh an in- 
+lUlulion Ihey (ell wl very 
+low prtorlllei lor Uie 
+■tudenl's IhrslTr At one 
+poinl, Lite slated he would 
+ipend Ihe iummcr Mpluring 
+Dther Jdb opporluniliH i( an 
+
+
+
+
+what iruupir 
+
+lies. "Well. «( all sur- 
+tdwilhotilwortlnBlnPIT 
+
+
+
+unhappy with our work 
+[turing I he regular leaton 
+Our problem! were tonTincd 
+
+
+
+r (heatre. and they 
+
+
+
+IPFW student 
+sketches campus 
+
+
+
+The Communicalor 
+needi your help. We 
+ha\Q a fine, respon- 
+sible, hard working 
+slaff, bul we need 
+more of Ihe same. 
+Writers and 
+
+photographers who 
+arc E&lt;""' 3l whal 
+lhe&gt; do and lake 
+their svork seriously 
+are hurd lo find. 
+Come to room 215 in 
+Ihe Walb Memorial 
+t'nion and learn Ihe 
+ihrill of working on 
+an award winning 
+newspaper. 
+
+
+
+Stall Writer 
+
+
+
+r nood- 
+
+
+
+14clLher 
+
+wnlera, nor sl«f and roln the river Thi 
+
+could prevcnl local Fori bearing cvider 
+
+Wayne arliti Diana SUinlcy wralh upon thi 
+
+Ifom compleltng the sketch lo bo elabornle 
+ol Indiana -Purdue al Ff ' " 
+
+
+
+chosen by the chancellor's 
+oKicc Id compose the sketch 
+using pboiographs laken ol 
+the univenily Irom across 
+
+
+
+hundred copies w 
+Irom the o'igi 
+
+I by Ihe art 
+
+
+
+Slanle&gt;'. n ISS2 graduate ol 
+Indiana Univenily wilh a 
+major in line nrU. wai 
+
+
+
+Stanley I 
+
+
+
+art* 
+at a 
+^ ^ i^laiicc 
+
+On the silver screen 
+
+SUBOG uilJ be shDsiing the niDVie "The Wicker Mnn" 
+l'&gt;i.,Sepl lOalBp.m. in the CM building in room lo» 
+
+Treading the boards 
+
+"The Subject wis Hoses' will open at the First 
+Prribylerlan Theatre on Sept 10 al G p m [or two con- 
+Art on display 
+
+■The Fabric ol Lile TrodiUonal Weavrng ol Nigeria- 
+works by Lisa Aronson will be presented by (he deparl- 
+menl ol Une arts, IPFW The cihibit opens on FrI., Scpl, 
+10 wilh a lecture-opening scheduled (or 4 pm. 
+
+A receplioa lot the "David Shapiro. Antst In 
+Hmdence ' eihibit Is scheduled for Fn , Sept 10, al the 
+Fort Wayne Museum o( Art from T-9 p.m 
+
+■Chromatic Inscapes,' a show ol pjinling and 
+sculpture will continue al Artlink 
+
+
+
+sponsored by Fori 
+
+
+
+Stanley, w 
+in the south 
+United Slali 
+
+
+
+'S^ 
+
+
+
+1724 Lake Ave. 
+
+
+
+BUY 1 of the following dinners and 
+get a second one for Vl PrJCe 
+
+• •••Enchilada, Tostada, Chico Burrito, 
+
+Burrito, Mexitaco, Taco, Chimichanga, 
+
+Combination. 
+
+OFFER EXPIRES SEPT. 22, 1982 
+
+
+
+COUPON 
+
+TRY OUR CARRY-OUT PIZZA. WE SERVE BEER AND WINE 
+LAST CALL FOR CARRY-OUT IS 20 WINS. BEFORE CLOSING. 
+
+Hours Mon.-Thur 11:00 a.m.-lOiOO p.m., Fri. &amp; Sal. 11.00 a.m.! 1:00 p.m 
+Closed SuntJay One Mile South o( IPFW at Lake and Anihony. 
+
+
+
+dosnth 
+
+
+Ibeihideoti I'm no* 
+
+
+
+
+throw a«ay what 
+
+
+hailak 
+
+
+
+
+build I 
+
+
+till disagree with tbe 
+
+
+ad mini; 
+
+
+
+
+
+
+theatre wage 
+
+
+policies 
+
+
+bul t hope this Is 
+
+
+something we can reiol%-c 
+
+
+
+
+«&gt;it summer. One 
+
+
+thing r 
+
+
+eleamed. though, is 
+
+
+thai If! 
+
+
+lagreemenlis going 
+
+
+
+
+
+
+Id have 
+
+
+to Stan working on it 
+
+
+
+considerable time, ar 
+is lime we Just don't 
+wewait until April toe 
+
+
+
+rebegin Right Wl*n 
+
+
+
+aren't really bearing any 
+gnidges t have invasltd a 
+lol ol time and ellorl in my 
+yean here with Ihe Ihealie, 
+
+
+
+d talking 
+e a great 
+
+
+
+'Spectrum' music sampler 
+
+
+
+S) SANDRA I BABEL 
+
+
+
+
+
+
+o( the Fort Wayne 
+Philharmonic 
+
+The new sam( 
+"Speclnim," begun 
+
+Sponsored by The 
+
+
+
+lunng orchestral and 'Spectn 
+
+
+
+thai includes Bach's 
+"AUelma" Irom "Cantata 
+\o 141 " and Dale Wood's 
+■'American F(rik Hymn " 
+
+The ruul concert AprJ 
+24. isai, features pianist 
+Leonard Eisner playing 
+various pieces by Bach. 
+
+"Tlie Imprtsano" and 
+Menotti's "The Old Maid 
+lef." two fully- 
+itaged, one-act operas, are 
+
+Ocl. n. 
+
+
+
+wdered from Fort Wayne 
+Philharmonic. 1107 S. 
+Harrison. Fori Wayne, Ind. 
+
+
+
+
+Gere and Winger make love scenes sizzle 
+
+
+
+Outstanding new summer film 
+
+
+
+By CHERYL MEVERS 
+
+Slairwrlter 
+■An OKicer and a Gen- 
+tleman" Is one of the most 
+emotionally sallilying lilms 
+
+greatly enhanced by social 
+comment - moslol lis sjTtip 
+
+
+
+Ihe a 
+
+
+
+Inclngly enacting an 
+rousing encounter with 
+ere, and this elicits a kind 
+I proleclive response from 
+ol lor 
+
+
+
+factory girls Irom the poor 
+side a( the bay llock lo the 
+base on weekends, many 
+with hopes of marrying an 
+
+
+
+
+
+
+by 
+
+
+
+psychological sketches 
+
+
+
+Olfit 
+
+
+
+1 Nav 
+
+
+
+ling. This movie finally 
+realises Cere's potential as a 
+mature, powerful actor 
+
+Deb.ra Winger equals and 
+balances his performance 
+wilh her portrayal of a local 
+■ 1 with aspiralioni 
+
+
+
+Her vulnerability c 
+quid desperation are 
+poignant. 
+
+The third star of this dim 
+is Louis Gossett. Jr , whom 1 
+remembered as "Fiddler" in 
+the mini-series 'Roots. " 
+
+seen him. as I did, as an 
+■ying man - bent 
+
+
+
+hjm. Cere 
+that there i 
+
+
+
+want shorl'tetm cn- 
+nl and no one gels 
+LS the weeks pass, and 
+
+
+
+training and ol(-duly lime 
+
+soilings By showing what Is 
+going on in both worlds, this 
+Hlm succeeds in prcsenllng 
+us with a complete picture ol 
+
+Ihe drill sergeant, effectively 
+destroys each of Gere's 
+delenscs until we are faced 
+
+
+
+
+
+thai the on 
+
+
+c negative thing 
+
+
+should be 
+
+
+
+
+cepUon: th 
+
+
+movle-s ending. 
+
+
+While un 
+
+
+oubiedly moil 
+
+
+audiences 
+
+
+'III sigh and be 
+
+
+pleased wi' 
+
+
+1 the final scene. 
+
+
+il is still 
+
+
+bll of an un- 
+
+
+
+
+conlrast lo the 
+
+
+realism of 
+
+
+the rest ol the 
+
+
+
+
+
+
+ascribe lol 
+
+
+E! opinion Ihal all 
+
+
+happy 
+
+
+endings are 
+
+
+
+
+)ul this ending is 
+
+
+a lilllc (00 knlghl-ln-shinJng- 
+
+
+armorlsh i 
+
+
+be completely 
+
+
+
+
+Bul other than 
+
+
+Ihls nnsl s: 
+
+
+p inlo unbridled. 
+
+
+school-girl- 
+
+
+ream roman- 
+
+
+
+lor 
+
+
+
+lile. 
+
+
+
+d raunchy. 
+
+
+
+The Alumni 
+ran an ad 
+their newspaper slating that 
+
+IHM frame, were available 
+lor U M&gt; each, plus (1 M for 
+postage and handhng. 
+
+Lorane Hamblin. assistant 
+to Ihe Director of University 
+Relations, commented that 
+Ihli Is Ihe firal lime that Ihe 
+Alumni Asioclation has 
+
+
+
+
+
+these tv 
+
+
+
+
+
+
+visually mesmer 
+
+
+Ling a 
+
+
+
+
+
+
+
+
+Moquen 
+
+
+wilh his facial 
+
+
+iipressi 
+
+
+ond body than he 
+
+
+does w 
+
+
+dialogue, and he Is 
+
+
+at his be 
+
+
+
+coupled unexpectedly with a 
+caring, almost nurluring, 
+
+unforge table, complei 
+
+personality quickly stamp 
+out any memory of the frail 
+old man ol "Rools," and his 
+last marlml arts scene will 
+nalely grit 
+
+
+
+
+
+
+
+
+
+Poetty 1 wants writers 
+
+
+
+of Fort 
+ontenledly 
+•ing doing 
+
+
+
+Your Art Supply Headquarters I 
+
+
+
+•Larfli InvBiilsiv 
+•Sludtnl Discounts 
+• Sptclal Drdeiing 
+
+
+
+
+
+Make IPFW an experience 
+to remember. . . 
+
+Go Greek! 
+
+Find out about IPFW's 
+National Sororities, 
+
+Delta Gamma and 
+Pi Beta Phi Orientation: 
+
+
+
+Sunday, Sept. '12th at 3 or 6 p.m. 
+Walb Memorial Student Union Lounge. 
+
+Questions? Contact Mary Brandt in Student Services. 
+
+
+
+FIESTA GRANDE 
+
+Build Any 3 Combinations 
+
+to your Taste 
+
+from our selections 
+
+on display 
+
+Friday Only 
+$2.60 
+
+
+
+MASTODON'S HIDEAWAY ^.^^ 
+In the Athletic Center ffp^ 
+
+
+
+
+
+SEPTEMBERS, IS«— THE COMMUMCATOR — PAGES 
+
+
+
+David Young researches children 
+of divorce in Fort Wayne area 
+
+
+
+
+GREAT MUSIC AT GREAT PRICES! 
+
+
+
+
+Tuskers top Grace, lose to Manchester 
+
+
+
+Bj LALTU THOMAS 
+
+
+Brmker in IJth ii a « ind 
+
+
+
+
+
+
+
+
+
+
+li was a doK double^iiiel 
+
+
+»i'JiaUnieol29,B In ISth 
+
+
+
+
+
+
+place 
+
+
+
+
+eouncry team Sjlurday. 
+
+
+AUhea Walson, vho 
+
+
+
+
+
+
+Cratned by heiuU. also did 
+
+
+
+
+and Grace colJegcs at 
+
+
+
+
+
+
+Manchester 
+
+
+
+
+TbeTOin 
+
+
+IPFWloitby 11 point* 10 
+
+
+Despite the 11 p( leu to 
+
+
+the best ror 
+
+
+Manchester with ■ score o( 
+
+
+
+
+
+
+
+Saturday,' he j*Jd."li»ai» 
+
+
+
+
+
+
+
+
+paths vhert you ain*t pus 
+
+
+
+
+
+
+
+
+woody areas which alio 
+
+
+TTiey ran their o«ii meet." 
+
+
+he said "We boUcally wed 
+
+
+
+^ Manchester's Z2. cesslul ti 
+
+
+
+a real weO," En- 
+
+
+
+illsey said. "1 was prelly 
+tmpreued with their per- 
+tonnance. Thai's the kind tl 
+
+
+
+Ken Babbcock ran with a 
+
+
+
+Tuskers roll over Falcons, 7-2 
+
+
+
+x: 
+
+
+
+6500 St. Joe Road 
+485-7529 
+
+
+
+
+THE GAMEROOM 
+fSd IS OPEN! 
+
+Play Pack Man, Centipede 
+
+And Tempest In the Basement 
+
+of the Student Union 
+
+
+
+ATTENTION 
+IPFW STUDENTS 
+
+
+
+■ CABLE TV 
+
+■LAUNDRY IN EACH BUILDING 
+■CLUBHOUSE AND SWIMMING POOL 
+'CENTRAL HEAT AND AIR CONDITIONING 
+'SPECIAL LEASING TERMS AVAILABLE 
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+Apple Tree Apartments 
+
+
+
+'^^^ 
+
+
+
+AMERICA'S 
+ENERIWIS 
+MINDPOItfER 
+
+
+
+INDIANA UNIVERSITY 
+
+PURDUE UNIVERSITY 
+
+AT FORT WAYNE 
+
+
+
+)tsma 
+
+
+
+THE LARGEST COED PROFESSIONAL 
+
+BUSINESS FRATERNITY 
+
+InvilBs All Businass. Supervision 
+
+anil Computer Tech (with 
+
+Business Option) Sludenls to "Mee/ the 
+
+Chopler" Night. 
+
+SUNDAY, SEPT. 12 
+
+3:00 p.m. to 7:00 p.m. 
+
+Rooms 110 S 112 
+
+Student Union 
+
+Best el both mrins-Prelesslenat i Social 
+
+
+
+</pre>        </div>
+      </div>
+    

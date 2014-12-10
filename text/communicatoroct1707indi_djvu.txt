@@ -1,0 +1,4801 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatoroct1707indi/communicatoroct1707indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatoroct1707indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatoroct1707indi">The Communicator</a>"
+          </h1>
+          <pre>
+ype 
+
+
+
+VS 
+
+
+
+ews 
+
+
+
+Have news organizations 
+crossed the line trom 
+information to gossip? 
+
+
+
+According to FAIR.org, profit-driven news organi- 
+tions are under great pressure lo boost ratings by 
+sensationalizing the news: focusing attention on lu- 
+rid, highly emotional stories, oJten featuring a bizarre 
+cast of characters and a gripping plot but devoid of sig- 
+nificance to most people's lives. Many news agencies have 
+become more and more dependent on tabloid soap operas 
+to keep profits high. 
+
+In the United Slates, the media is ovetrun by sensationalism. 
+Paris Hilton takes precedence over soldiers in Iraq; 'Brangelina' 
+is splattered all over print news as well as the Internet. Young 
+people preferYoutube.com to CNN or standard newspapers. 
+At the recent Omnibus lecture by Carl Bernstein at IPFW, he said 
+that even news broadcasts are becoming filled with more fluff and 
+less substance because consumers demand that it be so. 
+But where does the media draw the line between First Amendment 
+; rights and decency? 
+
+The battle lines are not so clearly drawn. Look at any Cosmopolitan 
+magazine and the front cover is littered with sex, sexual tips and how 
+lo be sexier in bed. In some publications, the word sex is rarely per- 
+milled. Why? Different publications cater to different readerships. 
+While newspaper sales are declining in every state and Internet hits 
+;ire grooving exponentially, regulation of content is becoming more and 
+[Hore difficult. And iviih that challenge to stay profitable, do newspa- 
+pers bend to the will of the readership or continue on the straight and 
+narrow? 
+
+Recently, The Communciator was riddled with scandal as the publica- 
+tion attempted to find the balance between dealing with world issues and 
+the will of die people. 
+
+There is no easy answer to the question of decency vs. First Amendment, 
+but publications must take stock of their consumers in order to provide ef- 
+fective reporting. 
+
+The basic notion of every type of media is to provide information in an un- 
+biased manner, and as Joe Friday said, to provide "just the facts, ma'am". 
+There are those rare times when fact is more controversial than fiction. Take 
+ihe case of Colorado State University editor-in-chief David McSwane, who 
+published a four-word editorial saying, "Taser this: F"k Bush". 
+After a fairly lengthy hearing regarding the column. The Collegian board de- 
+cided that McSwane was covered under the First Amendment, which states, 
+
+^ Amendment: Page 12 
+
+municator.org 
+
+
+
+Oct. 17, 2007 
+
+
+
+news 
+
+
+
+pg,2 
+
+
+
+NEWS 
+
+&amp; 
+
+EVENTS 
+
+10/17- 
+
+10/23 
+
+Oct. 17 
+
+Student Success 
+Panel, speakers 
+TBA.WUG21, 
+noon-l:15p.m. 
+Anthropology 
+Club Luncheon 
+Lecture, KT G46, 
+noon. Speak- 
+er, Lawrence 
+Kuznar. 
+
+Oct. 18 
+
+University Re- 
+ligious Forum, 
+"the healing 
+Power of Music," 
+WU 222-226, 
+noon. Micro- 
+soft PowerPoint 
+2007,1-2:30 
+p.m. 
+
+Oct. 19 
+
+Microsoft Excel 
+2003 Advanced 
+
+Topics, Lists 
+
+Part 2, 1:30-3:30 
+
+p.m. 
+
+Oct. 21 
+
+Women's Soc- 
+cer vs. Southern 
+
+Utah, noon, 
+
+Heifner Soccer 
+
+Fields. 
+
+Oct. 22 
+
+IPFW Commu- 
+nity Orchestra, 
+APH, 7:30 p.m. 
+For more info, 
+call 481-6551. 
+For tickets, call 
+481-6555. 
+
+Graduate 
+
+School Seminar, 
+
+KT146,nQon. 
+
+
+
+h . _ _ . J 
+
+
+
+IPFW senior helps bring 
+MoPix Captioning to 
+Fort Wayne's Rave 
+
+
+
+By SUSAN ALDERMAN 
+
+
+
+raising money since 
+April and so far, lias just 
+over three thousand dol- 
+lars. She is investigating 
+a number of grant pro- 
+IPFW senior Kate grams to assist in her 
+Heidenreich has dreamed ftind-raising attempts, 
+for years of being able to Rear Window Caption- 
+go to a movie any time ing consists of a portable 
+she wants to and being reader that a patron must 
+able to completely follow request. The patron takes 
+the action. the reader lo their seat 
+Heidenreich has a mod- and puts the base of the 
+erate hearing loss and device in the cup holder. 
+finds it's sometimes diffi- They then adjust the 
+cult to know what's going flexible arm so the clear 
+on in a film unless there acrylic panel reflects the 
+is some kind of caption- captions from an LED 
+ing. 
+
+She took it upon her- 
+self CO learn about new 
+technologies available to 
+theatres that v%ill allow 
+hearing and visually im- 
+paired patrons to enjoy 
+the show. 
+
+Thanks to her efforts, 
+Rave Motion Pictures 
+
+
+
+data wall in the back of 
+the theatre. No one else 
+can see the captions un- 
+less they look at the pan- 
+el. 
+
+DVS Theatrical is a set 
+of headphones that can 
+be used in any seat. The 
+patron listens to de- 
+scriptions of characters, 
+
+
+
+in Jefferson Pointe has action, and settings in 
+
+
+
+install 
+
+MoPix Rear Window Cap- 
+tioning system as well as 
+
+the DVS Theatrical sys- 
+tem for the blind or visu- 
+ally impaired. 
+
+Heidenreich's pitch to 
+
+
+
+between the dialogue 
+Those descriptions are 
+narrated and recorded so 
+they can be synchronized 
+with the film as it is run- 
+ning. Because the patron 
+wears 
+
+
+
+"With MoPix in the auditorium, phones 
+
+the theatre management can no one 
+
+show any movie and this system else can 
+
+won't get in the way of anyone hear the 
+
+else enjoying the movie." descnp- 
+
+^ tions. 
+
+~ ' Accord- 
+ing 
+
+
+
+Rave included the incen- the latest figures av 
+tive of raising half of the - ■ - 
+$16,000 price tag for the 
+systems herself, ivith the 
+theatre raising tlie other 
+half. Joshua Miller, gen- 
+eral manager for the the- 
+atre chains Fort Wayne 
+operations, says this is a 
+ivonderfijl opportunity 
+forlhe community. 
+
+very excited 
+
+
+
+able from the Naiiouiil 
+Institute of Deafness 
+and Other Communica- 
+tion Disorders (NIDCDI, 
+more than 27,000 people' 
+in Allen County suffer 
+from a hearing impair- 
+ment or deafness. 
+
+Heidenreich says an- 
+other theatre in Fori 
+Wayne has offered closed 
+
+
+
+over this project and are captioned movies on an 
+working on securing the infrequent basis; howev- 
+details so that we can er, she is looking fonvard 
+launch this during the to the installation of the 
+MoPix system. 
+
+"With MoPix in the 
+auditorium, the theatre 
+management can show 
+any moiie and this sys- 
+tem won't get in the way 
+of anyone else enjoyiny 
+die movie. Older systems 
+used on-screen closed- 
+captioning. which was 
+disruptive to some in the 
+audience. I'm very apprc- 
+
+
+
+Campus 
+Calendaj 
+
+
+
+Camp Dnrfur: Science Mall, 
+1 1 a,m.-3 p.m.; also Oct. 19 and 
+20. Torch relay 5-7 p.m. Oct. 19 
+and 10 a.m.-noon Oct. 20. For 
+information, contact 
+rac he 1 . ulesch@ gm a i 1 . com . 
+
+ACCS Express Lane Rfsum^ 
+Critiques: KT 109. noon-2 p.m. 
+
+University Religious Forum: 
+"The Healing Power of Music," 
+Randy Romero, music therapist; 
+WU 222, noon-l:15p.m. Simple 
+lunch at noon, reservations 
+unnecessary. Call 16992. 
+
+Ambassadon Training: SB 1 76, 
+2^ p.m. Call 16283. 
+
+Students with Families Pizza 
+Dinner: WU Ballroom, 6-8 p.m 
+Financial aid workshop for adults, 
+an activity for children. For 
+reservations or information, call 
+14140. 
+
+Athletics Event: Women's 
+Volleyball vs. UMKC, GC. 7 p.m. 
+Call 16643. 
+
+Alhlcticx Events; Women's 
+Soccer v. Southern Utah, Hefner 
+
+Soccer Fields, noon. Call 16643, 
+
+National Co-op Month Event: 
+
+"The Co-op Connection,"' a 
+program featuring current co-op 
+students and employers; WU 
+
+
+
+IPFW 
+
+
+
+for Oct. 18-24,2007 
+
+Ballroom, noon. Call 16939 lo 
+register. 
+
+
+
+Psychology Graduate School 
+Scmiar: KT 146, noon. Call 
+16403. 
+
+
+
+Spanish Table: jVenaci 
+y comer con nosolros! WU 
+Cafeteria; bring a sack lunch. For 
+information, contact 16689 or 
+
+confortm@ipfW.edu. 
+
+Concert: IPFW Community 
+Orchesira, The John and Ruth 
+Rhinehart Music Center. 7:30 p.m. 
+Call 16714- 
+
+Conccrt: Fort Wayne Area 
+Community Band, The John and 
+Ruth Rhinehart Music Center, 
+7:30 p.m. 
+
+ACCS Express Lane R£sum6 
+Critiques: KT 109, II a,m.-l p.m. 
+
+Legislative Issues Lunch: WU 
+
+Ballroom. 1 1:30 a.m. Call 16807. 
+
+Anthropology Club Luncheon 
+Lecture Scries: "African Origins 
+of the Banjo," Chnd Thompson. 
+speaker; KT 046, noon. Call 
+16272. 
+
+Upward Bound Event: "College 
+Prep 101," WU 021, 7-8:30 p.m. 
+Call 14188. 
+
+
+
+7bh ad courtesy of the Office of the Chancellor 
+
+
+
+rw vaccine released fo 
+cancer preventio 
+
+
+
+ii 
+
+
+
+holiday season. Rave Mo- 
+tion Pictures strives to 
+be involved in the com- 
+munity and willing to try 
+new ideas to bridge the 
+chasm between business 
+and the /\merican pub- 
+lic," said Miller. 
+
+He added if the MoPix 
+program takes off and 
+appears to be a "ivin-win" 
+situation for all involved, 
+
+
+
+the company will look ciative that the people ai 
+
+into doing il throughout Rave Motion Pictures 
+
+the company's theatres, have joined me in this 
+
+Heidenreich has been project." 
+
+
+
+By AMBEft ARNOLD 
+Amoad01@ipfw.ed u 
+
+
+
+At least 50 percent of 
+sexually active people 
+in the United States will 
+contract the human pap- 
+illomavirus tHPV) during 
+their lifetime. Currently 
+in America, there -are 
+roughly 40 million peo- 
+ple who have one of the 
+40 types of HPV, which is 
+the most common STD 
+among Americans. 
+
+A new vaccine called 
+Gardasil was released 
+by the Food and Drug 
+Administration last year 
+and is now on the market 
+to prevent againsi kiur 
+main type;, ofHPV. 
+
+Women ages nine- 
+26 take this three-dose 
+vaccine which prevents 
+agamsl Uie types of HPV 
+that cause 70 percent of 
+cervical cancer in wom- 
+en and the types that 
+cause almnsi 90 percent 
+
+
+
+of genital warts in botli 
+men and women. This 
+vaccine does not treat 
+existing HPV, hut is a 
+preventative. It is most 
+effective if women fin- 
+ish the series before they 
+becomes sexually active. 
+There are few side effects 
+of ilie vaccine such as 
+pain, redness, or swell- 
+ing where the shot was 
+injected. Serious side 
+effects arc rare, but 
+mare research on the 
+vaccine will be done. 
+Women who are 
+pregnant should wait 
+until after pregnancy 
+to lake (he vaccine. 
+As long as a woman 
+is in [he age range of 
+iiuiu-:;(., most insur- 
+ance companies are 
+willing lo pay for the 
+vaccine. So if women 
+are in the age range 
+and are sexually ac- 
+tive, why not take a 
+vaccine that might 
+save your health in the 
+
+
+
+long run? 
+
+NOTE: All of the sta- 
+tistics in this article were 
+found on the Vaccine 
+Information Statement 
+for HPV by the Depart- 
+ment of Health and Hu- 
+man Services, tlie Center 
+for Disease Control and 
+Prevention, and the Na- 
+tional Center for Immu- 
+nization and Respiratory 
+
+
+
+
+Oct. 17,2007 
+
+
+
+politics &amp; money 
+
+
+
+pg.3 
+
+
+
+Letter to the Editor 
+
+
+
+Dear Editor: 
+
+We are WTiiing lo ex- 
+press our ver&gt;' strong ob- 
+jection to the front page 
+headline and siorj' of the 
+October 3 issue of tlie 
+Communicator. Not only 
+is this an example ofpoor 
+journalism, it is inflam- 
+matory and obscene. 
+
+Not all people, espe- 
+cially the younger stu- 
+dents on our campus, 
+recognize or understand 
+satire. Moreover, to put 
+it on the front page of a 
+newspaper lends false 
+credibility and gives the 
+stor&gt;' the appearance 
+Ehalil is factual. 
+
+Further, the tremen- 
+dous insensitivity of tlie 
+piece reveals a profound 
+lack of understanding of 
+the nature and uses of 
+satire; some topics are 
+simply not appropriate 
+for satire. Substitute the 
+
+
+
+words "Blacks" or "Jews" 
+or "Disabled" or even 
+"Christians" for "Gays" 
+in your headline and this 
+provides a perspective 
+on how inappropriate 
+and damaging the nature 
+of the satirical article is. 
+That wouldn't happen, 
+would it? 
+
+Yet, se.xuai minorities are 
+still acceptable as targets 
+for degrading humor by 
+some segments of soci- 
+ety and your article plays 
+right into these tenden- 
+cies. The use of deroga- 
+tory' slang words for gays 
+and lesbians in the article 
+serves no real purpose in 
+making your point, ap- 
+parently included for the 
+sake of being sensational 
+and provocative. 
+
+We strongly encour- 
+age you to recognize and 
+confront the homopho- 
+bic nature of the article. 
+
+
+
+In fact, we would suggest 
+that the author of the 
+article and the entire 
+Communicator staff go 
+through training related 
+to ethics and sensiti\nt\' 
+regarding sexual minor- 
+ity issues. As a matter of 
+fact, we would be happy 
+10 provide this training. 
+We would also recom- 
+mend that the Commu- 
+nicator staiT reread their 
+texts on ethics in jour- 
+nalism. Beyond this, we 
+strongly encourage all 
+students, staff, and facul- 
+ty al IPFW to go through 
+Safe Zone training, as 
+well, a program that",., is 
+designed to raise aware- 
+ness and broaden under- 
+standing of colleagues 
+and students who iden- 
+tify as lesbian, gay, bi- 
+sex'ual, or Iransgendcred 
+(LGBT). Workshop par- 
+ticipants are encouraged 
+
+
+
+to identity their o\vn per- 
+sonal characteristics and 
+scripts' that help them 
+authentically empathize 
+with LGBT individuals." 
+
+We certainly are not 
+advocating censorship 
+of newspapers. Yet. a 
+substantial obligation of 
+responsibility and sensi- 
+tivity necessarily accom- 
+panies freedom of the 
+press. 
+
+Finally, we request that 
+an apology be placed on 
+[he front page of the next 
+issue of the Communica- 
+
+
+
+Jeannie DiClementi 
+
+Craig Hill 
+
+Psychology Department 
+
+
+
+An apology from the editor-in&lt;hief 
+
+
+
+We at the Communica- 
+tor have entered a stage 
+of rapid development 
+and change, giving the 
+students and communi- 
+ty members of the IPFW 
+family a more appropri- 
+ate forum for the expres- 
+sion of ideas. Part of 
+that change has been to 
+push tlie limits of growth 
+and boundaries, while 
+maintaining responsible 
+journalism and a strong 
+sense of ethics. 
+With the Oct. 3 issue, we 
+failed to do those things. 
+The culmination of the 
+front page satire, Vote 
+Condom, and the choice 
+
+
+
+of vulgarities were used 
+in poor taste and offend- 
+ed many of our readers. 
+
+While the content was 
+never meant to offend or 
+hurt readers, their fami- 
+lies or their friends, that 
+was regretfully the result. 
+Due to certain negli- 
+gence and an attempt 
+to create more thought- 
+provoking material. I did 
+not pay close enough at- 
+tention to all of the mate- 
+rial that was included in 
+the Oct. 3 issue. This was 
+wrong, and as editor-in- 
+chief, I was WTong to al- 
+lowquestionable content 
+to pass. 
+
+
+
+In response to the nega- 
+tive feedback. The Com- 
+municator would like 
+to apologize for any un- 
+professionaJ or hurtful 
+content contained in the 
+previous issue. 
+
+We would also like to 
+thank all of the con- 
+cerned students and fac- 
+ulty members who wTOte 
+lo The Communicator 
+in order lo point out the 
+problems, and 1 would 
+like lo encourage more 
+interaction between 
+readers and the newspa- 
+per in the future. After 
+all. The Communicator 
+is the IPFW newspaper. 
+
+
+
+here for students and 
+faculty. 
+
+I would also like to 
+add that within 8 hours 
+
+of the first complaint. 
+The Communicator staff 
+implemented corrective 
+measures, in order for 
+us to learn from our mis- 
+takes. As students, wc 
+request that it be under- 
+stood that we are all still 
+learning. 
+
+Sincerely. 
+Jessie Ruckman 
+Editor-in-Chief, 
+
+The Communicator 
+
+
+
+An apology and propsal from 
+"the mariciging edi'tor 
+
+
+
+To IPFW student body 
+and faculty; 
+
+1 find myself looking 
+through the last issue, 
+dubbed " the hate issue". 
+and I am embarrassed 
+and disappointed. 
+
+1 lake responsibility as 
+a designer and slorytell- 
+er for the insensitivity of 
+The Communicator and 
+the negative connota- 
+tions with which people 
+have associated ii. 
+I sincerely apologize for 
+those offended, both- 
+ered, and or hurt by any 
+content considered un- 
+necessar&gt;' or distasteful. 
+Whether my intentions 
+were good or well thought 
+out. rational, or justifi- 
+able, it is important to 
+recognize the emotional 
+
+
+
+severity and potential 
+consequences of such a 
+defining issue, proven 
+to be both controversial 
+and immature. 
+
+With that said, it may 
+be safe to say that al face 
+value. The Communica- 
+tor was inappropriate. 
+
+Upon looking more 
+deeply at the last issue, 
+I have decided to delve 
+more deeply into why 
+certain images or words 
+are so offensive. 
+
+If you choose to join 
+me in the following is- 
+sue, 1 will be exploring 
+ihe chemical and bio- 
+logical reaction known 
+as a synapse, and its 
+neurological capability 
+to effect perception and 
+
+
+
+thought. I believe if we 
+understand our body's 
+chemistry and psychol- 
+ogy, we can further ap- 
+preciate human conflict, 
+controversy, and current 
+issues through reason 
+and respect. Our last is- 
+sue, I believe, proves how 
+sensitive our minds are to 
+visual elements and in- 
+explicable information, 
+with which are concepts 
+proven to be volatile in 
+combination. 
+
+Here at the Commu- 
+nicator, WG find it nec- 
+essary to reach towards 
+and understand our di- 
+verse readership, which 
+through the Oct. 3 issue 
+had explored the idea of a 
+campus amidst change. 
+IPFW is stereotyped as 
+
+
+
+community college, 
+where the priority for 
+education is hindered by 
+"other" responsibilities. 
+
+Our university and its 
+staff strives to comple- 
+ment the lifestyles and 
+culture here in Fort 
+Wayne while exploring 
+the potential for a vibrant 
+community through 
+demanded education 
+and extra-curriculars. 
+With new buildings, de- 
+partments, and student 
+housing, IPFW is moving 
+fonvard and ultimately, 
+changing. 
+
+Spending the major- 
+ity of my life adjusting to 
+difTerent enviornmenis, 
+
+&gt; Managing Editor: Page 4 
+
+
+
+Women's rights 
+movement a 
+fickle pendulum 
+
+The fight for equality in society is still 
+raging-from the history books to today 
+
+
+
+By ELAINE BAKLE 
+
+BaVlEmDIi^ipKvfdu 
+
+
+
+Just looking back on the 
+last hundred years in the 
+United States, there have 
+been significant chang- 
+es made in the fight for 
+equal rights for women. 
+But, as the pendulum 
+swings and social evolu- 
+tion grinds slowly away, 
+today's women still find 
+themselves oppressed. 
+The kicker is that they 
+oppress 
+t h e m - 
+selves. 
+Eliza- 
+
+
+
+patriarchal norms and 
+mores. These women 
+like Abigail Adams, 
+Mercy Otis Warren and 
+the Livingston sisters, 
+all made their feminist 
+marks politically during 
+the American Revolu- 
+tion. 
+
+Feminist sisters just 
+kept showinguplh rough- 
+out United States history. 
+In 1913, 8,000 women 
+marched on Washington 
+to demand the right to 
+
+
+
+"The suffragettes knew that 
+
+in order to make important 
+
+social change, gaining the 
+
+right to vote was 
+
+imperative." 
+
+
+
+Stanton, 
+Susan B. ^=^ 
+Anthony 
+
+and Alice Paul would roll 
+over in their graves at 
+the sight of young wom- 
+en sexually exploiting 
+themselves not only to 
+be noticed by men, but 
+to demean thetnselves in 
+female on female sexual 
+
+
+
+These women endured 
+jeering from the crowds, 
+criticism from other 
+women and the anti- 
+suffragists that claimed 
+women were too pure to 
+take part in politics. 
+
+They said that women 
+were too emotional and 
+contact in order to give they were incapable of 
+some bozo a mega boost rational decisions. Oth- 
+
+
+
+of sexual gratification. 
+
+There are those who be- 
+lieve that this is what the 
+fight for women's rights 
+is about; the ability for a 
+woman to do whatever 
+she wants, just like a 
+man. Yet, the idea hangs 
+out there like a sopping 
+wet shirt on a stick. 
+
+The respect that a wom- 
+an has for herself reflects 
+the self confidence she 
+shares with the sister- 
+hood. Betray that and 
+the strong links of femi- 
+nism are loosened from 
+within. 
+
+The first feminists 
+didn't care about sexu- 
+ality and beauty. They 
+just wanted the right to 
+vote and to be allowed to 
+become the person that 
+they knew they could he. 
+Really, who is to say who 
+the first feminist was; 
+perhaps Joan of Arc or 
+Queen Elizabeth I? 
+
+Could these women 
+care about some guy's 
+libido? They had a call 
+and a purpose and noth- 
+ing was going to stand in 
+their way. 
+
+The dehnition of a femi- 
+nist is a woman who flies 
+in the face of established 
+
+
+
+ers believed women 
+lo have a lack of intel- 
+lect and it was better if 
+their husbands voted for 
+them. 
+
+The suffragettes knew 
+that in order to make im- 
+portant social change, 
+gaining the right to vote 
+was imperative. They 
+also fought for the right 
+for blacks to vote. 
+
+So, they marched, they 
+protesletj, they went on 
+hunger strikes while im- 
+prisoned and were force 
+fed, they staged parades 
+until finally they won the 
+right to vole in 1920. 
+
+And it still wasn't over. 
+Not everyone in the 1960s 
+burned their bras, but the 
+significance of the femi- 
+nist struggle surfaced 
+as Americans watched 
+"Leave It to Beaver " and 
+"Ozzie and Harriet." 
+
+Many women realized 
+that they did not want to 
+vacuum in heels while 
+wearing an apron and a 
+string of pearls. 
+
+They wanted what men 
+had. They wanted the 
+right lo be what their 
+souls whispered; strong, 
+intelligent, loving, and 
+nurturing. And they did. 
+
+
+
+Oct. 17,2007 
+
+
+
+perspective 
+
+
+
+pg.4 
+
+
+
+Death for sexual orientation? 
+
+Iran's president proves that some cultures 
+still deny the rights of homosexuals 
+
+
+
+By ZACHARY HORNBACK 
+
+harnihDISiphv.edu 
+
+
+
+NEW YORK, Sep. 24 
+-President Ahmadinejad 
+made a comment dur- 
+ing a forum for debate in 
+which he stated, "In Iran, 
+we don't have homosex- 
+uals like in your country. 
+We don't have that in our 
+country. In Iran, we do 
+not have this phenom- 
+enon. ! don't know who's 
+told you that we have it." 
+
+This comment brought 
+the subject of homo- 
+sexuality in Iran to light 
+among Americans. 
+
+Many questioned the 
+integrity of the Presi- 
+dent's claim, with further 
+research pointing out 
+that homosexuality is 
+severely discouraged in 
+Iran, but not altogether 
+nonexistent. 
+
+Homosexuality itself is 
+not illegal in Iran. Homo- 
+sexual acts, however, are 
+illegal and aie punished 
+severely by the judicial 
+systems. 
+
+Sexual intercourse be- 
+tween two or more men 
+is punishable by death. 
+
+^ Manging Editor 
+
+From Page 3 
+
+
+
+Sexual acts between tivo 
+or more men is punished 
+with a number of lashes; 
+the number of lashes giv- 
+en is determined by the 
+act itself. 
+
+Homosexual acts may 
+be proven by either four 
+male witnesses or by 
+the accused confessing 
+four times. If the man or 
+woman confesses and 
+
+
+
+1979 over four tliousand 
+homosexual men and 
+women have been ex- 
+ecuted. 
+
+Iran justifies these ex- 
+ecutions with religious 
+conviction, for in the Is- 
+lamic religion homosex- 
+ual acts have been said 
+to be among the worst 
+sin one may commit. It is 
+acceptable and perhaps 
+
+
+
+then repents before the even necessary to them 
+court, the judge may be for homosexuals to be 
+more lenient with pun- severely punished. 
+
+There 
+
+
+
+"Homosexuality itself is not 
+illegal in Iran. Homosexual acts, 
+
+however, are illegal and are 
+
+punished severely by the judicial 
+
+systems. " 
+
+
+
+are many 
+
+
+
+zations 
+that have 
+
+
+
+ken out 
+
+against 
+
+
+
+ishment or even abdicate 
+punishment altogether. 
+There has been some 
+speculation as to wheth- 
+er or not the law enforce- 
+ment in Iran has actually 
+been beating and tortur- 
+ing such confessions out 
+of its citizens. However it 
+hasn't been definitively 
+proven. 
+
+Since the overthrow of punishable by death 
+the government during Iran, 
+the Islamic revolution in 
+
+
+
+appalling violations of 
+human rights in Iran. 
+Amnesty International, 
+Human Rights Watch, 
+many GLBT publications 
+and even political lead- 
+ers have been among 
+those to speak up for the 
+oppressed. For the mo- 
+ment however, practic- 
+ing homosexuality is still 
+
+
+
+cultures, and subcul- 
+tures, it has become my 
+goal to understand and 
+exploit the nature of 
+change and the realities 
+of globalization, 
+
+"Thus, Candidate Con- 
+dom was created- to tap 
+into the realm of reality, 
+which I failed to accom- 
+plish in last issues car- 
+toon. 
+
+So, who is Candidate 
+Condom? 
+
+I remember coming up 
+with the concept of our 
+beloved candidate. It was 
+luly, and 2007 had al- 
+ready proven to be quite 
+an exemplary year of de- 
+fining figures in what is 
+going to eventually be, 
+VOre CONOO/A sy 
+
+
+
+American history. The 
+first black coach to win 
+a Super Bowl, the po- 
+tentially first black and 
+or female president, and 
+the first Mormon to run 
+for office- America was 
+and continues to be, on 
+fire. 
+
+Ultimately, I was look- 
+ing through my mind for 
+a candidate who finally 
+represented the people, 
+who at its core was some- 
+body everybody in Amer- 
+ica could relate to. 1 was 
+looking for someone sin- 
+cere and blunt, who got 
+to the point, while man- 
+aged to be immature, 
+insensitive, yet rational 
+on topics and issues that 
+
+
+
+deserve attention. The 
+versatility of the English 
+language is beautiful. In 
+combination with the 
+perversion of our sub- 
+conscious allows for me 
+and my collaborator to 
+push boundaries, ensur- 
+ing and sharing unwant- 
+ed truths of both political 
+issues and American mo- 
+rality. 
+
+In closing, I apologize 
+for hurt feelings or mis- 
+construed messages and 
+hope we can look past 
+the last issue in a positive 
+light. 
+
+Sincerely, 
+Said El-Dajani 
+Managing Editor 
+
+
+
+SAID EL-PaJANI a egiK shephepp 
+
+
+
+
+Reap the benefits 
+of hard-won 
+battle: 
+
+
+
+VOTE! 
+
+
+
+By KATHRYN ANDERSON percent for Asians and 47 cans have some intlu- 
+
+
+
+ArdeknOieipfw.edu 
+
+
+
+percent for Hispanics ac- 
+cording to the U.S. Cen- 
+sus Bureau. Although 
+seven percent may not 
+seem like a huge gap. his- 
+tory has shown that in 
+politics the smallest of 
+percentages can make 
+all the difference in the 
+
+
+
+What do 1870, 1920. 
+and 1971 have in com- 
+mon? These were all 
+years in which minor- 
+ity races, women, and 18 ________ 
+
+year-olds were given the outcome of an election, 
+right to vote. especially in more recent 
+
+Suffrage is an element presidential races. 
+
+The 19th Amendment 
+
+
+
+i in 1920, and 
+provided that a person 
+
+ould 
+
+not be 
+denied 
+
+
+
+ence in political matters, 
+they apparently have the 
+weakest voice. Accord- 
+ing to the U.S. Census 
+Bureau, individuals older 
+than 45 have a votermrn- 
+out rate in national elec- 
+tions of approximately 
+70 percent, which is the 
+highest rate out of any 
+age group. On the other 
+side of the spectrum, the 
+U.S. Census Bureau also 
+concluded that only 47 
+percent, the lowest per- 
+
+
+
+crucial to democracy; 
+it gives a voice to all, 
+whether an individual is 
+rich or poor, male or fe- 
+male, part of a majority 
+ot minority race, or old 
+and young. 
+
+If all demographics 
+have such an equal say 
+as to how their country 
+is managed, then why 
+
+is it that a vast majority gender. Women in the centage, of U.S. citizens 
+of U.S. politicians, the U.S. have come far since, between the ages of 18 
+figureheads intended Among the many pro- and 24 voted in political 
+to represent the entire gressions of women in elections. Many would 
+
+
+
+to vote 
+based 
+on tlieir 
+
+
+
+"Are we too busy casting our votes 
+for the next American Idol to vote on 
+things that will actually have a monu- 
+mental impact on our lives?" 
+
+
+
+United States, are older, 
+upper-class, Caucasian 
+males? 
+
+The answer could per- 
+haps be found when an- 
+alyzing voter turnouts to 
+determine who actually 
+uses their'Voice". 
+The I5lh Amendment to 
+.the Constitution states 
+in section one, "The right 
+of citizens of the United 
+States to vole shall not be 
+
+
+
+political and leadership 
+roles, seventy women 
+currently serve in the 
+House of Representa- 
+tives, 16 are serving in the 
+Senate, a woman is pres- 
+ently serving as Speaker 
+
+
+
+of the House, and Hillary Terror, 
+
+
+
+be quick to label this 
+generation as apathetic, 
+but young people actu- 
+ally do have concerns 
+about various conflicts 
+afflicting the world, es- 
+pecially about the War on 
+
+
+
+Clinton is a fiontrunner 
+for the 2008 presidential 
+election. 
+
+Despite such advance- 
+ments, it is still unclear 
+
+
+
+I warming, 
+
+
+
+denied or abridged by the as to why women 
+United States or by any stjn underrepresented in 
+State on account of race. Congress, as females out- 
+mber 
+
+
+
+"Despite such advancements, males 
+
+it is still unclear as to why by about 
+
+women are still underrepre- f^""" '"i'' 
+
+^ ,. - ,, lion in 
+
+sented m Congress. [he us., 
+
+vote 
+-■ - more fre- 
+quently, 
+color, or previous condi- and make up 57 percent 
+tion of servitude.'" Today, of ^ college students 
+minorities account for according to the U.S. 
+muchoftheU.S.popula- Census Bureau. The 
+tion, though they do not 
+seem to be represented 
+as such. 
+
+According to ThisNa- 
+tion.com, 364 out of 435 
+members of the House 
+of Representatives are 
+white. In the Senate, 94 
+percent of the incum- 
+bents are also white. It is 
+true that Caucasian in- 
+dividuals are a majority, 
+comprising of about 66 
+percent of the U.S. popu- 
+ation. However, the ra- 
+
+
+
+and health care accord- 
+ing to youngvoterstrale- 
+gies.org. 
+
+If young people re- 
+ally are concerned about 
+political matters, then 
+why is this interest not 
+reflected in voter turn- 
+out? Shouldn't the youth 
+be concerned that these 
+figureheads on Capital 
+Hill wilt be determining 
+many of the major out- 
+comes of the near future? 
+Or are we too busy cast- 
+ing our votes for the next 
+American Idol to vote on 
+things that ivil! actually 
+have a monumental im- 
+pact on our lives? 
+By voting, one can voice 
+
+
+
+social status of women their opinions on issues 
+has improved signiti- such as taxes, education. 
+
+
+
+cantly, though it is up to 
+the voices of tomorrow's 
+leaders to assure that this 
+progression ivill perpetu- 
+ate. 
+
+The 26th Amendment, 
+which was actually au- 
+thored by former Indiana 
+senator Birch Bayh, was 
+ratified in 1971 to lower 
+the voting age fi-om 21 
+to 18. The ratification 
+for this amendment was 
+
+
+
+cial makeup of Congress largely due to the Viet 
+appears to greatly exag- ^^^ war, and that many 
+gerate this fact. ... 
+
+In the 2004 election, 
+voter turnout rates for 
+citizens were C7 percent 
+for non-Hispanic whites, 
+60 percent for blacks, A'\ 
+
+
+
+the efficiency of the gov- 
+ernment, the smoking 
+ban, Harrison Square, 
+and public safety to 
+name a few. 
+
+Local elections typically 
+see a much lower voter 
+turnout than the nation- 
+al elections. 
+
+As college students, it 
+may be difficult to find 
+the time and resources to 
+significantly change the 
+world. 
+
+However, voting is a 
+could not justify the fact simple yet powerful way 
+that men as young as 18 to take the first steps in 
+could be drafted to fight being "the change we 
+and die for their country, ivish to see in the world," 
+yet they could not vote. as Mahatma Gandhi 
+Aliliough young Ameri- once said. 
+
+
+
+introspective 
+
+
+
+pg. 5 Oct, 17, 2007 
+
+
+
+Sudoku 
+
+
+
+Fill In the grid so that every row, columrj and 
+3x3 box contains the numbers 1 through 9. 
+
+
+7 
+
+
+2 
+
+
+
+
+
+
+
+
+
+
+6 
+
+
+
+
+8 
+
+
+
+
+
+
+1 
+
+
+7 
+
+
+
+
+
+
+9 
+
+
+
+
+5 
+
+
+4 
+
+
+9 
+
+
+5 
+
+
+
+
+
+
+
+
+2 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+5 
+
+
+
+
+2 
+
+
+
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+
+
+5 
+
+
+
+
+1 
+
+
+
+
+6 
+
+
+
+
+
+
+
+
+
+
+7 
+
+
+8 
+
+
+
+
+
+
+
+
+5 
+
+
+6 
+
+
+4 
+
+
+6 
+
+
+
+
+2 
+
+
+
+
+
+
+1 
+
+
+7 
+
+
+
+
+
+
+5 
+
+
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+3 
+
+
+
+
+
+the 
+
+
+
+
+poetic 
+
+
+Reaching 
+
+by Robert Gruber 
+
+
+corner 
+
+
+Senior, Political Science 
+
+
+
+
+U's lime to reach for first principles 
+
+
+My neighbor, we have a common interest 
+
+
+and engage in the question 
+
+
+in reaching unto our roots natural and cul- 
+
+
+of what's the best way to live- 
+
+
+tural - we have questions accompanjnng 
+
+
+
+
+humanity consistently for thousands of 
+
+
+How do we choose to make our way 
+
+
+years, creating the foundation for commu- 
+
+
+through each day? How do we 
+
+
+nity based upon common good, ever expe- 
+
+
+choose to engage our neighbor? 
+
+
+rienced anew when humans come together 
+
+
+How do we treat strangers, and why? 
+
+
+to exercise reason's pursuit of human nature 
+
+
+
+
+and howit should be understood in the con- 
+
+
+What is it you see when you look at others? 
+
+
+text of society. 
+
+
+Do you perceive a hean beating out the 
+
+
+
+
+pulse of life, same in all people - 
+
+
+We have common interests 
+
+
+life possibly Created; 
+
+
+discussing eternal questions. 
+
+
+What do vou make of now? 
+
+
+
+
+Who do you choose to believe you are? 
+
+
+
+
+What limits will you accept 
+
+
+
+
+and where will you transgress 
+
+
+
+
+the image you create 
+
+
+
+
+in your mind's eye? 
+
+
+
+
+
+Horoscopes 
+
+
+
+by Erik Shepherd 
+
+
+
+Aries Marll- Apr 19 
+
+The vwek ^xivmD make a 
+puxtiase that youA/91 regret 
+Save all youreceipts. 
+
+
+
+^^ 
+
+
+
+Libr3Scp2]-0d22 
+
+\bu w3l nieet someone vi^ 
+[BTvicIs ytxi of a Ebrary this 
+vwekYxiwiD want to spend 
+alatof tine with them. 
+
+
+
+« 
+
+
+
+Taurus Apr 2D- May 20 
+
+This week you desene a break 
+Relax and take the break you 
+desen/e. 
+
+
+
+Gemini May 21- lune 20 
+
+Don't trade paper money for 
+(hang&amp;\bu wiD just spend It ii 
+gtmbaOmadiiies. 
+
+
+
+Cancer iune2i-iuiy 22 
+
+The stress you'iefee&amp;ig E justi- 
+fied but do not frct It's only ifi 
+hdlfromhei&amp; 
+
+
+
+\ 
+
+
+
+Scorpio Ott 23- Nov 21 
+
+Afrttte mouse 
+
+Mlbeinyotrhouse 
+
+Don't seta tr^p 
+
+But give Ita map 
+
+lb nfcatethe safe visy out 
+
+Sagittarius HOV22- Dec 21 
+
+^jtxnfe w3l seem slow and 
+diJI this week. But you are on 
+the trade to true happness. 
+
+
+
+Capricorn Dec22tan1!) 
+\bu may led inder the weath- 
+er thEweekThe best tlvig you 
+on do is take H'uny naps. 
+
+
+
+Answers 
+to last 
+week's 
+puzzle 
+
+
+
+11 3. 2 AAIA 9 
+5 9. 7. 1 J. 6. 4 8. 2 
+4 6 2 9 I. 8.1 5. 3 
+
+2J_54£3 87 6 
+§.ZA8.2_A9.3^:i 
+
+8 3. 9.1 B.±l 4^ 5 
+3 2 A 6 4^ 9^ 5 JL _Z 
+
+9 5 6.1 8 2. 3 2^ 4 
+741532698 
+
+
+
+NOW HIRING 
+
+Sales Jobs 
+&amp;1,000-$5,000 weekly 
+
+Water Tester 
+$500-$800 weekly 
+
+Home Security 
+$500-$1 000 weekly 
+
+Call 888-252-6284 
+
+
+
+LeOjutr2&gt;Ay922 A^ AquariuSian2a^Febi8 
+
+Consider aD the tine you &lt;pend ^£^J Consider the vastness of the 
+withyDirfriendsanddienshit ^0w oGeaaYbirpotentialisjiEtas 
+
+
+
+iM| Virg0Ayg21-hp2Z \ f 
+
+I III This week wi oner ^ seme- JU^^ 
+
+rfmh ftv^V^i^'^viaitedforqute ^W\ 
+
+r^ sometria ^ * 
+
+
+
+Pisces Feb 1»- Mir 20 
+F^ople confuse you wftfi what 
+comes out of a doc^s buttlhis 
+week you shoiU conster why 
+
+
+
+
+the arts 
+
+
+
+pg.6 Oct. 17,2007 
+
+
+
+luHi 
+
+
+
+A Memoir 
+
+
+
+Guilty. Ninety days 
+suspended license. 
+One year informal pro- 
+bation. TVventy hours 
+of alcohol classes, 
+get the very minimum 
+sentence. I'm happy. 
+
+
+
+a long time. I'm natu- "Celebrate us being 
+
+rally invincible. Super- us. What else?" 
+
+man. I spend my birth- "Um... okay, but I'm 
+
+day sober. My mother only having a few." 
+
+
+
+and I go to a Chicago 
+Bulls game, fulfilling 
+a childhood dream of 
+mine to watch them in 
+action. 
+
+Ice begins to crystal- 
+lize everything, from 
+
+This is my second ^__ — — _ , ^ — ^ 
+
+chance lo right "i do know I want to be alive. Be hap' 
+
+
+
+That's fine... meet us 
+at the bar at 11." 
+
+"Alright, bye." 
+
+"Bye." 
+
+The past hangs up. 1 
+leave the library, think- 
+
+
+
+ing this 
+
+
+
+my xvrongs. I'm 
+done drinking. 
+I tell myself as I 
+walk out of the 
+courtroom. I'm 
+done. No more — — 
+parties. No more 
+chasing false happi- 
+ness. 
+
+I set goals. A map. 
+A realistic one with 
+roads that possess the 
+potential for success. 
+
+
+
+py. Have a career. The whole works. 
+
+And I know if I don't change my ways, 
+
+I'll be near death, dead, or in jail." 
+
+
+
+the streets to the sky. 
+Winter is born. 
+
+
+
+my time to 
+show them 
+I've changed. 
+I'll just have a 
+few and watch 
+them act fool- 
+ish. Maybe, for 
+once, I can be 
+the designated 
+driver. 
+1 drive home, get 
+dressed, meet them at 
+the bar at 1 1, Everyone 
+is already there, drink- 
+ing, washing away 
+their stress from the 
+
+
+
+It's Friday night. I'm 
+alone in the library-, 
+finishing up an editing 
+I develop strategies to assignment. My phone week. I sit down, order 
+refrain from tlie temp- vibratesinmyleft, front a beer, and nurse it for 
+pant-pocket. I slide the about an hour. Every- 
+phone out, see who's 
+calling, it's the past. I 
+think once, TWice, And 
+on the third thought, I 
+say "I'm invincible. I'll 
+control myself-" 
+"Hello," I say. 
+"What up?" the past 
+says. 
+
+Not much, just fin- 
+home- 
+
+
+
+tations. I can't drive, 
+so I won't go out. I sur- 
+round myself with new 
+friends. If I drink, get 
+caught, I can get up to 
+one year in jail. 
+
+It's Fall, Summer 
+lived. Summer died. 
+I hope the old Jason 
+did as well. I concen- 
+trate on academics. I 
+get As and Bs for the ishing up 
+first time since I was in work," 
+high school. I'm proud "Good, let's go out. 
+
+and so is my family. We can round up the 
+
+I'm riding a natural crew and celebrate." 
+high for the first time in "Celebrate, what?" 
+
+
+
+one but me, is drunk. 
+One of them orders a 
+shot for everyone. I say 
+just one. 
+
+The shot comes. I 
+shoot it as it sits, soaks, 
+and seduces my taste 
+buds. I punch temp- 
+tation in the mouth, 
+but it swallows my fist. 
+Another shot. Another. 
+It's coming. I love it. I 
+hate it. It's back. 
+
+
+
+where 1 am. 
+
+S o m e - 
+
+thing is i 
+
+lodged 
+
+in my 
+
+urethra. 
+
+It burns. 
+
+I look to 
+
+my right. 
+
+Mymoth- 
+
+er and 
+
+aunt are 
+
+standing 
+
+ne.xt to 
+
+the bed, 
+
+staring at 
+
+me. My 
+
+mother's 
+
+face screams 
+
+disappointment. She 
+
+speaks. 
+
+"What were you 
+thinking?" 
+
+"1 have no clue. I was 
+fine, then it just hit 
+
+"Yeah, well something 
+hit you. It was the con- 
+crete sidewalk." 
+
+"Is that why my head 
+is pounding?" 
+
+"Sure is. You fell, 
+cracked it open and - 
+were, literally, bleed- 
+ing everywhere." 
+
+
+
+
+"Oh." 
+
+
+
+I avvak to beeping. 
+Immediately, I know 
+
+
+
+The doctor comes 
+in and tells me I'm 
+good to go and that I ~ 
+suffered a mild con- 
+cussion. We tell him 
+thanks. I keep my gown 
+on as we walk out the 
+hospital. A little mem- 
+
+
+
+orabil- 
+ia to show 
+
+my grandchildren. 
+Maybe, I can show 
+them the dangers of 
+partying. Maybe, I can 
+show them what not to 
+be. Maybe. 
+
+When I get home, I 
+jump into bed. I lie 
+and stare at the ceil- 
+
+"Inside my head, 
+there's a war between 
+
+right and wrong. 
+Wrong is victorious. " 
+
+
+
+ing. Inside my head, 
+there's a war between 
+right and wrong. 
+Wrong is victorious. 
+I ask myself ques- 
+
+
+
+ions. 
+They are the 
+ones my elemen- 
+tary teachers asked 
+me. What do 1 want to 
+be when I grow big? 
+Who I want to be? 
+Where I want to be? 
+
+I can't answer them 
+specifically. But I do 
+know 1 want to be 
+alive. Be happy. Have 
+a career. The whole 
+. works. And I know 
+if I don't change my 
+ways, I'll be near 
+death, dead, or in 
+jail. It's not that I'm 
+addicted to the liq- 
+uid. It's that I'm ad- 
+dicted to feeling 
+invincible, even if 
+it's only for several 
+hours. 
+
+I think of Superman. 
+My map. A detour. 
+
+
+
+James Blunt displays the beauty of simplicity 
+
+
+
+Album Review 
+
+By MIKE WEBB 
+Mwebb01@jpfw.edu 
+
+Who exactly is James 
+Blunt? Well, odds are 
+you've had the song 
+"You're Beautiful" an- 
+noyingly stuck in your 
+head for a couple of years 
+noiv. 
+
+James Blunt more 
+
+
+
+than likely doesn't mind 
+if that song annoys you, 
+because ii helped earn 
+him 5 Grammy nomina- 
+tions in 2006. 
+
+Now the British sing- 
+er-songwriter is back 
+with "All the Lost Souls", 
+and ready to prove he 
+has Slaying power, 
+
+Everjthing that drew 
+people to "Back lo Bed- 
+
+
+
+
+Free Pregnancy Te: 
+
+Options Education 
+
+Campus Hope 
+
+A student Orgcmization on the IPFW Campus 
+
+campushopesludenls'ayahoo.com 
+
+www.campushopesludenfs.org 
+
+
+
+lam" is present here, but 
+much more refined. 
+
+Blunts unique voice 
+and thought provoking 
+lyrics are once again the 
+highlights, and the mu- 
+sic is there to enhance an 
+emotional artistic expe- 
+
+This can be heard on 
+
+the acoustic version of 
+
+the hit "1973" which is 
+
+available (along 
+
+^"~| \vith other extras) 
+
+litiv for download if 
+
+you purchase 
+
+the disc on his 
+
+my space page. 
+
+Like his 
+previous effort, 
+there are songs 
+that have very 
+little going on in 
+terms of inslni- 
+mentation. "I Re- 
+ally Want You" is 
+one of the true 
+highlights, and is a 
+lesson in the true 
+beauty of simplic- 
+ity. 
+
+He takes 
+
+
+
+complicated concepts 
+such as love and death 
+and poetically represents 
+them alongside music 
+which sounds as if it is 
+the only choice for the 
+subject matter. 
+
+If you could not 
+make out any of the 
+words, you 
+might still 
+have an idea 
+of what the 
+song is sup- 
+posed to be 
+about. 
+
+He knows 
+how to cap- 
+ture the es- 
+sence, and 
+he does it in 
+a way that 
+is unique to 
+him - a mark 
+of a true art- 
+ist. 
+
+At times, 
+the music 
+can become 
+intense, but 
+it builds to 
+that point at 
+
+
+
+the appropriate time. 
+Much effort was ob- 
+viously put into giv- 
+ing each song exactly 
+what it needed to ac- 
+complish the goal - 
+nothing more, nothing 
+less. 
+
+Fans of Coldplay 
+
+
+
+and U2 may feel right 
+at home here, and his 
+over-played radio-sin- 
+gle doesn't overshad- 
+ow the fact that he's a 
+true artist. 
+
+Listen to it in full at 
+http://www.myspace. 
+com/jamesbluni. 
+
+
+
+
+&amp; entertainment 
+
+
+
+pg. 7 Oct. 17, 2007 
+
+
+
+An interview with David Gilmour 
+
+A musical legend speaks candidly about Pink Floyd and his newest live DVD release 
+
+
+
+By MIKE WEBB 
+Mwebb01@ipfw.edu 
+
+Where does one begin 
+with a musician like Da- 
+vid Gilmour? ;\longside 
+his former band mates in 
+Pink Floyd, he is one of the 
+pioneers of psychedelic 
+rock, and helped to define 
+a musical age, and inllu- 
+ence nearly all who would 
+follow. More than 
+40 years later, he 
+is stilt carving out 
+his legacy, and 
+what a brilliant 
+one it is. 
+
+
+
+along for tlie ride too and bums as well as the firsi 
+
+enjoy it, but 1 don't really pink Floyd album, which 
+
+have any notion of what he was on, and basically 
+
+I want to give lo fans or crossed off anything that I 
+
+
+
+anything like thai. Its an, 
+and I think music is an art. 
+It's something that you're 
+compelled to do, and it 
+comes out how it comes 
+out." 
+
+This DVD is the perfect 
+opportunity to go along 
+for tlie ride and see Da- 
+
+
+
+"...this DVD will be something 
+that people who have a good 
+home system, a good surround- 
+sound speaker system will invite 
+newest DVD and a few friends over and enjoy with 
+?L"e'Le:'S agl.ssotwineo,s.n..tf.mg." 
+Night: Live at the 
+Royal Albert Hall' 
+
+
+
+didn't feel like, and crossed 
+off anything that was writ- 
+ten entirely by Roger or 
+was predominated by 
+Roger originally, because I 
+just didn't want lo go there 
+really. And jusi ivhat I was 
+left with. ' 
+
+What that means to 
+the viewer is that 
+this DVD gives 
+the chance lo see 
+songs performed 
+thai wouldn't be 
+possible at a Pink 
+Floyd concert. 
+
+"The thing about 
+megoingoutonmy 
+own and not going 
+out with Pink Floyd 
+is that 1 do feel thai 
+
+
+
+Liv^Al The Royal Albert Jlall 
+
+
+
+&lt;x 
+
+
+
+is everything a fan could 
+ask for. The 2-disc set ci 
+tains a full-lengdi concert 
+
+with special guests Da- 
+vid Bowie. Graham Nash, 
+David Crosby, and Robert 
+
+
+
+show my children and so 
+on and so forth more than 
+anyone else. I hope a lot 
+of other people will come 
+
+
+
+vid express his art - that there's a rela.xation of the 
+is, if your media system is rules and I can do what- 
+beefy enough to really do ever I really feel like do- 
+it justice, ing, and 1 would feel un- 
+"I'm just hoping that easy inviting David Bowie 
+this DVD will be some- to come on and do some- 
+W^att, 13 bonus tracks, thing that people who thing with Pink Floyd for 
+a tour documenlaiy and have a good home system, example, but I with me I 
+more. a good surround-soimd figure that my audiences 
+Said Gilmour, "It's for speaker system will invite are really there to listen to 
+me more than for anyone a few friends over and en- me and what 1 do and ac- 
+so I've got something to joy with a glass of wine or 
+look at and enjoy, and something." 
+
+The DVD features 
+Giimour's "On An Island" 
+solo release performed in 
+its entirety, with several 
+Pink Floyd clas- 
+sics to round out 
+the package. 
+
+
+
+
+"I just 
+tried to make 
+a list of all the 
+songs that were 
+relevant to me 
+from solo al- 
+bums, from pink 
+Floyd albums, 
+and from Syd 
+Barrett solo al- 
+
+
+
+cept my tastes and judg- 
+ments on these things." 
+
+And irust me, when 
+Bowie comes onto the 
+stage, you will be glad for 
+the relaxation of those 
+rules. This is a psychedelic 
+rock fan's dream come 
+true. And it's easy to see 
+that everyone involved is 
+having a great time. 
+
+"I definitely enjoyed 
+this tour as much as any 
+I've ever done. It's not 
+Pink Floyd, and I don't 
+have to do things the way 
+I would feel thai 1 ought 
+to with Pink Floyd and we 
+can just get out there and 
+
+
+
+play and enjoy ourselves, and extravagant stage 
+
+and pick different songs - set-ups of previous tours, 
+
+not do the songs that are but Gilmour explains 
+
+expected of us necessarily that it was an intentional 
+
+- do things a little bit dif- change, 
+
+ferendy, do Syd Barrett, "For me ifs about ihe 
+
+get guest slars and stuff." music, and some of these 
+
+"I don't think that things are devices that are 
+
+at a Pink Floyd tour I'd very useful if you're play- 
+
+
+
+"...music is an art 
+Ifs something that 
+you're compelled to 
+do, and it comes out 
+how it comes out." 
+
+
+
+have 
+
+len Crosby 
+
+and Nash 
+
+up there 
+
+and Bo»vie 
+
+to do stuff 
+
+with us. 
+
+And there's 
+
+a certain ^^^_^^__ 
+
+liberation 
+
+involved in doing it under 
+
+my own name, in this way, 
+
+and with a great team of 
+
+people." 
+
+Veteran Pink Floyd 
+fans may notice that this 
+concert lacks some of the 
+over-Uie-top theatrics 
+
+
+
+ing in a huge 
+stadium or 
+huge arena 
+where the 
+people who 
+are listening 
+and watch- 
+ing can be 
+
+so far away 
+
+that diey 
+can't really see you very 
+well. I've never been keen 
+on those big screens. Ba- 
+sically you're watching a 
+giant television instead of 
+watching the band per- 
+forming, so I don't ihink 
+on this particular tour we 
+
+
+
+needed lo use those sorts 
+of devices. So we loned it 
+down a little bit and made 
+it really all about the mu- 
+
+The music (lows well. 
+Any doubts about Giim- 
+our's ability to retain the 
+same musical spirit while 
+flowing between solo and 
+Pink Floyd songs vvill be 
+put to rest. It becomes 
+obvious thai the spirit 
+heard is representative of 
+Gilmour himself and not 
+Ihe name of the band he 
+was in at the time it was 
+made. 
+
+"It's just the way it nat- 
+urally comes oui. I don't 
+think that you can artifi- 
+cially seek for ihe spirit 
+in something and try to 
+emulate it. 1 don't think 
+diat really is likely to work 
+or lo go anywhere." 
+
+So with this being his 
+definitive solo release, 
+does this mean we will 
+be seeing a revisitating of 
+the band Pink Floyd any- 
+where down the road? 
+
+"I don't think that I 
+want to go back to work- 
+ing and writing in that 
+Pink Floyd framework, 
+with or without Roger 
+really. It just feels lo me 
+like I've been there and 
+I've done thai, and that's 
+a wonderful pari of my 
+Ufe." 
+
+Said Gilmour, "At some 
+point in life you have to 
+move on and do some- 
+thing different, and try 
+and satisfy your own self 
+in other ways." 
+
+Let's hope that he con- 
+tinues to do just that. Any 
+David Gilmour fan will 
+want to get their hands on 
+this release right away. It is 
+an intense experience and 
+will be money well spent. 
+
+
+
+Radiohead fights the 
+system once more 
+
+
+
+Popular English rock band 
+Radiohead, known for their 
+commercial success through- 
+out Ihe 90s, offers their latest 
+album on their web site at a 
+fan-chosen price as a digital 
+download. 
+
+This unconventional move 
+allows even zero payment, 
+showing respect and faith in 
+their fans. 
+
+The new album title, "In 
+Rainbows", released Oct. 10, 
+marks a return lo familiar early 
+
+
+
+sounds of Radiohead. espe- 
+cially their midterm commer- 
+cial success, "OK Computer". 
+Many of their new songs can 
+be found on YouTube as played 
+in concert. 
+Anyone who follows alter- 
+native and electronic music 
+would do well lo explore their 
+latest offering, especially when 
+offered at any price including 
+?,ero, Ahernatively, Ihey of- 
+fer a box set at the more static 
+price of 40 euro (or SSS.-IO) 
+which includes the curious 
+digital download. The web site 
+is found at htip://ww\v.inrain- 
+bows.com/. 
+
+
+
+
+student life 
+
+
+
+pg.8 Oct. 17, 2007 
+
+
+
+Surviving Cancer one moment at a time 
+
+
+
+By OLIVIA JOHNSTON it off as beingpart of the saw Stephanie, she 
+
+johnoc01@jpfw.edu "college-life." Suddenly, gave her three options 
+
+Stephanie started get- of what the lump could 
+
+ting very tired; sleeping be. Cancer was one of 
+
+14 hours and napping the options. Her doctor 
+
+between classes. She be- sent her for a CAT scan 
+
+
+
+of her freshman 
+year. Since she had been 
+losing weight in the first 
+
+
+
+semester, this threw her mined that the groivth 
+
+off, but once again, she was thyroid cancer, 
+
+figured it was just part Stephanie was in shock 
+
+of being in college. She and denial. "I refused to 
+
+
+
+Walking up in black 
+shoes and in-style 
+jeans with a black tank gan to gain a lot ofweight 
+top under a gray over- during the second se- 
+shirt, her long, blonde 
+hair falling past her 
+shoulders. Stephanie 
+Waitc looks like an av- 
+erage college student. 
+At first glance, 
+there are no signs that 
+Stephanie, a 21 year- 
+old pre-nursing major 
+at IPFW, has fought 
+the battle against can- 
+cer and won. 
+
+As a freshman 
+at Indiana Uni- 
+versity at Bloom- 
+inglon. Stepha- 
+nie was living 
+the college life. 
+Going to class- — .. .;.■■—,, _ . ...... — . 
+
+es, studying and 
+
+attending the ever- toms to the "college life," 
+popular "frat-party," Stephanie continued 
+Stephanie was just a her life as normal, 
+"normal college girl." Four months after feel- 
+As a pre-dental major ing the lump, Stepha- 
+at lU, Stephanie did nie's parents came to 
+a lot of SI tidying and visitlier.HermoiJicrno- 
+only held a job during ticed that her face was 
+the summer. Her pos- looking a little swollen. 
+itivity and outgoing When Stephanie came 
+namre drew people home for the summer. 
+
+
+
+which showed that the 
+lump was, in fact, a 
+solid mass tumor. Af- 
+ter taking a biopsy of 
+the mass, it was deter- 
+
+
+
+had ear infections, 
+infections, and other ill- 
+nesses that wore away 
+at her immune system. 
+Passing off these symp- 
+
+"I refused to believe I had 
+
+[cancer] and I think that is 
+
+what pushed me through the 
+
+most" 
+
+
+
+to her. Surrounded 
+by friends, Stephanie 
+was loving being on 
+her own. 
+
+One night, studying 
+for a chemistry test, 
+Stephanie was fidget- 
+ing arcAjnd her neck 
+and felt an odd lump 
+on the left side. When 
+she noticed that it 
+was only on the left 
+side, Stephanie asked 
+her roommate if she 
+had one too. After her 
+roommate said 
+Stephanie just passed 
+
+
+
+her mother noticed the 
+lump on her neck and 
+took her to the family 
+doctor. The family doc- 
+tor did several tests that 
+all came back abnor- 
+mal, but he concluded 
+that it was just a thyroid 
+problem and prescribed 
+Stephanie medicine. 
+Her mother was not sat- 
+isfied with this result, 
+however, and decided 
+to take her to a friend of 
+hers; an Ear Nose and 
+Throat specialist. 
+
+As soon as the ENT 
+
+
+
+believe 1 had [canccrl 
+and I think thai is what 
+pushed me through the 
+most." 
+
+Within five days of 
+the diagnosis, 
+the doctor per- 
+formed the sur- 
+gery to remove 
+tlie tumor. Five 
+weeks after 
+
+-r.-.-r= the surgery at 
+Parkview Hos- 
+pital, when the thyroid 
+hormone was at zero. 
+Stephanie began radia- 
+tion. Doctors injected a 
+radiation dye into her 
+to make the cancer cells 
+
+In the scan, cancer 
+cells lit up all through- 
+out her throat and low- 
+er jaw, underneath her 
+arms and in her lower 
+stomach. The next day, 
+Stephanie got her first 
+radiation treatment. 
+
+For the first week, 
+Stephanie was kept 
+in isolation, because 
+the radiation could be 
+transmitted to others. 
+The treatment lasted 
+for six months and 
+three months later, she 
+went back for another 
+scan. The scan was 
+clear and Stephanie 
+was cancer-free. 
+After finding out she 
+
+
+
+
+had beaten the cancer, 
+Stephanie felt a weight 
+lift off her shoulders. 
+She was shocked and 
+relieved at the same 
+time, but the news 
+could not have come at 
+a better time. "It was a 
+week before my 
+21st birthday. 
+It was the best 
+birthday present 
+1 could ever ask 
+for." 
+
+Her biggest 
+motivation to 
+beat the cancer 
+was her family. 
+
+
+
+Pholo by riit Pyle 
+
+
+
+life. Cancer changed what someone is go- 
+Stephanie's outlook on ing through." Cancer 
+life. Instead of worry- impacted Stephanie's 
+ing about how much life in several ways, but 
+money she will make overall, it taught her a 
+in her career, Stepha- lot about life. 
+nie is pursuing a career 'As long as I'm 
+where she has more in- healthy that's all that 
+matters and 
+
+
+
+"As long as I'm healthy that* s 
+
+all that matters and even if 
+
+one person learns something 
+
+about life through my story, it 
+
+was worth it." 
+
+
+
+even if one 
+person learns 
+something 
+about life 
+
+through my sto- 
+ry, it was worth 
+it." 
+After shoiving 
+symptoms 
+
+
+
+"You don't fight for teraction with padents. or signs for five years, 
+
+
+
+yourself. You fight for 
+everyone around you." 
+Now, cancer-free, 
+Stephanie takes a thy- 
+roid pill every day, 
+goes to the ENT once 
+a month, and the on- 
+cologist every three 
+months, but that's 
+
+
+
+"What more could Stephanie will official- 
+you want in a job than ly be able to call her- 
+to relate to your pa- self cancer-free. Work- 
+tients?" She says "I'm ing toward her nursing 
+way more laid back degree and spending 
+now and I just try to time with her family 
+stay as positive as pos- and boyfriend, Stepha- 
+sibie. 1 try not to be nie is doing great and 
+living her life one mo- 
+at a time. 
+
+
+
+roommate said no. Throat specialist. was cancer-free. months, but that's a rude, either, because living her life one mo- 
+
+Stephanie just passed As soon as the ENT After finding out she small price to pay for you just never loiow mentatatime. 
+
+Hi! Do you mind if I steal your pen? 
+
+By NICHOLE ROOT question focuses on my len. These things hap- tionof borro^ving. Now, sible thai everyone be- ofa much deeper prob- 
+
+point. pen. ..so, we have trusty that seems self-explan- lieves borrowing is like lem. 
+
+
+
+Borrow: (verb) to 
+receive with the im- 
+plied or expressed in- 
+tention of returning 
+the same or an equiv- 
+alent {w\viv.merriam- 
+webster.com). 
+
+PSSST! Can I bor- 
+row a pen, pencil, pa- 
+per, binder, notes, etc? 
+
+Have there been 
+times that you have 
+lent your favorite pen 
+and it was never re- 
+turned? The latter 
+
+
+
+question focuses on my 
+point. 
+
+That is not borrow 
+ing. And don't get me 
+wrong-I'm not out for 
+the blood of the borrow- 
+ers. I am one myself It is 
+only human to forget to 
+pack a pen in the morn- 
+ing, when the typical 
+college student isn't fully 
+awake anyway. 
+
+And of course there 
+is always the morn- 
+ing from hell in which 
+your pen spontaneously 
+combusted after your 
+dog ate your homework 
+and your car was sto- 
+
+
+
+len. These things hap- tionof borro^ving. Now, 
+
+pen. ..so, we have trusty that seems self-explan- 
+
+friends or acquainted atory. So the problem 
+
+classmates that we must be a discrepancy 
+
+ask for an extra pen to in how people interpret 
+
+"We, as a society, were never taught 
+the true meaning behind the word 
+borrow. Is it possible that everyone 
+
+believes borrowing is like a loan from 
+the bank?" 
+
+
+
+borrow. But too many 
+times these requests 
+turn into missing pens. 
+Maybe the problem 
+lies within the defini- 
+
+
+
+thi sword. 
+
+We, as a society, were 
+never taught the true 
+meaning behind the 
+word borrow. Is it pos- 
+
+
+
+ible thai everyone be- 
+lieves borrowing is like 
+a loan from the bank? 
+
+Student loans are 
+granted vrith the ex- 
+plicit understanding 
+that you will pay the 
+bank back with inter- 
+est, or they have the 
+right to take your other 
+possessions. After all, 
+can an education be 
+repossessed? 
+
+It starts off as a fa- 
+vorite pen being "bor- 
+rowed" by a classmate, 
+but the act of borrow- 
+ing without intentions 
+of payback is indicative 
+
+
+
+ofa much deeper prob- 
+lem. 
+
+Student loans don't 
+magically disappear 
+and missing pens don't 
+suddenly find their way 
+backinto your bag. But 
+hey, who knows? 
+
+Maybe all of those 
+pens will be returned, 
+with interest pens, in 
+ourstockingsthisyear.. 
+probably not, but let's 
+clear up (his possible 
+confusion of borrow- 
+ing nonetheless. The 
+definition rests before 
+your eyes now. Please 
+utilize It. 
+
+
+
+Oct. 17, 2007 
+
+
+
+Student life 
+
+
+
+pg.9 
+
+
+
+
+Music Building Opens 
+
+
+
+Photo by Han Nguyen 
+
+
+
+COURTESY OF LOUISE TEAGUE 
+
+
+
+I ndiana Universily— Pur- 
+duL" University Fort Wayne 
+liPRV) officially dedicated 
+The John and Rudi Rhine- 
+harl Music Center on Oct. 4. 
+
+IPFW ChanceUor Mi- 
+chael Wartell welcomed 
+France Cordova, Purdue 
+University's llih president, 
+members of the John and 
+Rulh Rhinehan family, state 
+and local elected officials, 
+representatives from the 
+companies who designed 
+and built [he structure, and 
+Department of Music ad- 
+ministrator, faculty, and 
+students. Wartell tlianked 
+the Rhinehart family for 
+their generosit)', noting that 
+
+
+
+mthout their support as^vell 
+as that from other families 
+and individuals, projects 
+such as the music building 
+could never come to frui- 
+tion. 
+
+The acoustically superb 
+Rhinehart Music Center 
+features the 1,600-seat Auer 
+Performance Hall and die 
+250-seat Rhinehart Recital 
+Hall, which vvill be used by 
+die IPFW Department of 
+Music, the IPFW Omnibus 
+Lecture Series, and commu- 
+nity arts partners. It also fea- 
+tures a number of rehearsal 
+halls, studios, and practice 
+rooms. Planning for the S25 
+million dollar facility began 
+in Nov. 2005, widi funding 
+coming from the state and 
+through generous donations 
+from the community. 
+
+
+
+Like it or not, IPFW offers childcare 
+
+
+
+BY MELISSA AKASON 
+AkasmeOI @ipfw.edu 
+
+Upon arrival at the 
+IPFW Cliild Care Center, 
+the children were taking 
+a break from their fun 
+filied day of actiwties. 
+Lynda Place spoke about 
+the cliildcare center and 
+she works very hard with 
+her limited resources to 
+get everytfiing that the 
+facility has. 
+
+Lynda also said 
+that she tries very 
+hard to keep the 
+prices as low as she 
+can (with a current 
+rate from 52.30- 
+S3.40 per hour). 
+She calls a lot of 
+
+
+
+fer, just yet. development and the 
+
+Lynda explained that childcare staff are also 
+
+they follow very strict teaching the children the 
+
+
+
+policies when hiring the 
+childcare staff to ensure 
+safety. They do back- 
+ground checks and drug- 
+testing. They have the 
+building inspected every 
+two months lo guarantee 
+the safety of the children 
+and staff. 
+
+The children are 
+
+
+
+fundamentals like how 
+to ivrite their name, how 
+to say the ABCs, how to 
+count from zero to 100, 
+which will prepare them 
+for school in the years to 
+
+Lynda commented that 
+there is a waiting list of 
+five children due to the 
+
+
+
+taught about fire safety limited space availabil- 
+ity. 
+
+
+
+"...providing a bigger 
+
+building seems to be just 
+
+what IPFW needs to increase 
+
+the overall quality for 
+students who are parents." 
+
+
+
+It is hard for 
+me to have to 
+turn people 
+down who I 
+know want lo 
+continue their 
+education, and 
+faculty is affect- 
+ed by this as well," Lynda 
+
+
+
+
+the surrounding area from local fire depart- 
+
+childcare centers so that ments along with the said in regards to a larger 
+childcare staff and they facility. 
+also have routine lire "We would be able to 
+drills once a month to offer so many more op- 
+help the children apply tions to the parenls, and 
+that there is a reference what the have learned it is a possible that there 
+Chan for those who are about fire safety. would be an increase in 
+in need of the full-time The children are enrollment. There would 
+care, which IPFW child- given daily activities to be more jobs available as 
+care does not have to of- help them vrith their well." 
+
+
+
+when someone comes to 
+her to ask she can give 
+them that information. 
+Another reason is so 
+
+
+
+and having a 
+baby makes 
+a very diffi- 
+cult decision. Whereas, 
+if there was a childcare 
+center that offered in- 
+fant care right on cam- 
+pus would make for less 
+stress for all involved. 
+
+Also, with an increase 
+in the size of the build- 
+ing the childcare cen- 
+ter would have a higher 
+enrollment rate, which 
+would increase the en- 
+rollment for classes at 
+IPFW. especially if fuU- 
+time care is offered. 
+
+
+
+"Thecurrent programs 
+are great and I love work- 
+ing with our kids, but to 
+have more programs 
+available along with the 
+space would be great," 
+Jennifer said. 
+
+"We used to have less 
+space then we do now, 
+and so to have a bigger 
+building would be ttie 
+best for the childcare 
+center." 
+
+"We have been want- 
+ing to offer full-time 
+care and programs for 
+
+
+
+
+INj) PUNG 
+
+9 Pins counts 
+as a STRIKE! 
+
+Friday Nights starting at 10^45 pm 
+
+Georgeiown B^kuf 
+
+6m E. State Bls^d 
+
+749-9610 
+
+
+
+WIN MONEV! 
+
+And have fun doing it 
+
+A/so check oat 
+
+And 
+
+2 t*^ ^[Ws Jays 
+
+
+
+Photo By Christa Dillman 
+infants for awhile and 
+are hoping that will be 
+available soon so every- 
+one can benefit from 
+those changes," Paula 
+said. 
+
+Lynda, Jennifer, and 
+Paula were unsure if 
+there was anything that 
+IPFW could do for finan- 
+cial support, but agreed 
+it is something that they 
+think is worth consid- 
+ering. Being a not- for- 
+profit childcare center 
+there is little relief that 
+they can offer other 
+than keeping low hourly 
+costs, and affordable 
+preschool for students 
+and faculty members. 
+
+There is a possibility 
+for more jobs, but are 
+not sure if they will be 
+able to allow non-stu- 
+dents and non-faculty 
+members to enroU there 
+children. 
+
+It seems that ev- 
+eryone working at die 
+center agrees ivith the 
+findings that bringing 
+a new program into ef- 
+fect, and providing a 
+bigger building seems to 
+be just what IPFW needs 
+to increase the overall 
+quality for students who 
+are parents. 
+
+
+
+October 17, 2007 
+
+
+
+sports 
+
+
+
+pg. 10 
+
+
+
+^J^ifVi^ 
+
+
+
+Jo'mAmer'ua's#l 
+Student Tour Operator 
+
+
+
+
+ONCi/N, ACAPUUO, JAMIU, 
+
+BAHAMAS, PUmO VAUAKTA, 
+
+SOUTH PADRE, flORIBA, CKUISCS 
+
+Sell Trips, Earn Cosh ^^WiI^ht 
+&amp; Trovel Free eXW SSffi. 
+
+
+
+1-800-648-4849 
+www.slstravel.com 
+
+
+
+Universfly of Florida RxDtball Player Killed in Accident 
+
+EarV reports sixw thart: playe- \aqs traveling at high rate of speed in fatal acddent 
+
+
+
+Coudesyof 
+U-VWiE 
+
+
+
+Colisea|i^ 't^^lO^ 
+
+
+
+■ 24 hr Fitness Center 
+
+■ 2 playgraunds &amp; 2 pools 
+•Wi-Fi clubhouse 
+
+• Student Discount 
+
+npark.com 
+
+w-ConiHiiDneMsnagEdPfopentesxcuT 
+
+
+
+Town homes Available 
+
+
+
+260-483-3196 
+
+
+
+A Universitj' of Florida 
+football player anc^ one 
+otfier UF student were 
+killed in an accident at 
+Old Archer Road and SW 
+23rd Terrace early Friday 
+morning, Gainesville Po- 
+lice Department spokes- 
+man Keitfi Kameg said. 
+
+Nineteen-year-old Mi- 
+ctiael Guilford, better 
+known as "Sunshine" to 
+his teammates, and Ash- 
+ley E. Slonina, 20, died 
+instantly after Guilford's 
+motorcycle hit a median 
+al about 12:40 a.m. 
+
+Early reports show 
+that the motorcycle was 
+traveling at high rates of 
+speed, Kameg said. 
+
+Guilford was a walk-on 
+redshirt freshman defen- 
+sive back who also spent 
+time on the scout team 
+as a quarterback. He was 
+a social and behavorial 
+science major. Slonina 
+was a political science 
+major. 
+
+KsToeg said any au- 
+topsy reports could take 
+
+
+
+several more weeks to 
+determine if alcohol was 
+involved. 
+
+"We are deeply sad- 
+dened to learn of the 
+tragic passing of Mi- 
+chael Guilford," UF 
+coach Urban Meyer said 
+
+
+
+College R&gt;otball Update 
+
+
+
+1st BCS Rankings 
+
+' I.Ohio state 
+
+2. South Florida 
+
+3 .Boston College 
+
+4. LSU 
+
+5. Oklahoma 
+
+6. South Carolina 
+
+7. Kentucky 
+
+8. Arizona State 
+
+9. West Virginia 
+10. Oregon 
+
+11. Virginia Tech 
+
+12. California 
+
+13. Kansas 
+
+14. use 
+15. Florida 
+
+16. Missouri 
+
+17. Auburn 
+
+18. Hawaii 
+
+19. Virginia 
+
+20. Georgia 
+21.Tennessee 
+
+22.Texas 
+' 23. Cincinnati 
+24 Texas Tech 
+25. Michigan 
+
+
+
+friends and teammates 
+during this sad and dif- 
+ficult time." 
+
+Guilford received the 
+nickname of "Sunshine" 
+when he first walked 
+onto the team because 
+his long, blond hair re- 
+
+
+
+"He was an outstanding, quality young 
+man that was loved, respected, and 
+admired by all of us. His unselfish 
+efforts on helping his teammates 
+getting ready to play every week 
+were only a glimpse of the person 
+he was. We pray that God's blessing 
+be with Michael's family, friends and 
+teammates during this sad and difficult 
+
+time." 
+- Urban Meyer, UF Coach 
+
+
+
+in a statement. "He was 
+an outstanding, qual- 
+ity young man that was 
+loved, respected, and 
+admired by all of us. His 
+unselfish efforts on help- 
+ing his teammates get- 
+ting ready to play every 
+week were only a glimpse 
+of the person he was. We 
+pray ihal God's blessing 
+
+
+
+minded his teammate's 
+of Kip Pardue's character 
+Ronnie Bass in the movie 
+"Remember the Titans." 
+
+"Hewas verj' competi- 
+tive," said graduate as- 
+sistant Sean Cronin, who 
+runs the scout team of- 
+fense and was close with 
+Guilford. 
+
+"He had a fire and was 
+
+
+
+core of that group. He 
+was the heart and soul of 
+our scout team." 
+
+Cronin got a call from 
+safety Curtis Carr at 4:30 
+in the morning while 
+sleeping, but he didn't 
+call back until 6:30 to 
+find out what happened. 
+"1 went through a whole 
+stream of emotions," 
+Cronin said. "First il was 
+disbelief. Then mad. 
+Then 1 just broke down 
+in tears. I love that kid." 
+
+After holding a ban- 
+quet Thursday night for 
+the scout team. Cronin 
+said he had one last time 
+to speak to Guilford, 
+
+"He thanked me for 
+the highlight video, said 
+thanks for the dinner." 
+Cronin said. "I said, ' No, 
+thank you. 1 really appre- 
+ciate everything you do 
+for us.' It just means a lot 
+that 1 was able to thank 
+him." 
+
+UF spokesman Steve 
+Orlando said crisis coun- 
+selors are available for 
+those who need them. 
+
+
+
+be with Michael's family, the leader. 
+
+
+He was the 
+
+
+^f^miNomjmBiema 
+
+
+A pubJic.illo 
+
+
+IPSN Inc. 
+
+
+Jessie Ruckman 
+
+
+Editor-in-Chief 
+
+
+Walb Union Suite 215 
+2101 Coliseum Blvd. East 
+
+
+
+
+Fort Wayne, IN 46805 
+
+
+
+
+Newsroom / Editor 
+
+
+Said El-Dajani 
+
+
+(2601 4S1-65S4. 
+
+
+Managing 
+
+
+cor.li.ciaiipfwcommunica[or,org 
+
+
+Editor 
+
+
+
+
+
+
+Advertising 
+
+
+
+
+(260)481-6583 
+
+
+Mike \A/ebb 
+
+
+jttoajr pt'.vcom m u n iirator.org 
+
+
+A&amp;E Editor 
+
+
+
+
+
+
+Publisher 
+
+
+
+
+&lt;260) 481-6585 
+
+
+Nic Pyle 
+
+
+
+
+Photo Editor 
+
+
+
+
+
+
+Official Web site 
+
+
+
+
+
+
+Jil Price 
+
+
+
+
+Copy Editor 
+Alex Wade 
+
+
+
+
+E.d±eor±nlD oca iho opdnlona at Tli» 
+
+
+Advertising 
+
+
+ila not nBcoasaclIy tofloct ihn i/lvun 
+
+
+Manager 
+
+
+body. A colioBl la aaXaly Chn QploJ.OO 
+
+
+
+
+ot iiB ouchor. 
+
+
+Drew McMillan 
+
+
+»i"^}r";"J°3°3"°" PI"^ 
+
+
+Web Design 
+
+
+and el/IBB ctonJinE/nLiiJijr or Tltl- 
+
+
+
+
+
+
+Erik Shepherd 
+
+
+t2L±^Z fr.%!,^i":"i^" ""' ^ 
+
+
+Graphic Design 
+
+
+
+
+
+
+potBon. Adclcunuoo und r«I»phom&gt; una 
+
+
+
+
+bocB will not t» publlohod. 
+
+
+Matt McClure 
+
+
+
+
+Publisher 
+
+
+Th- odiftinl boord or Th. COCB- 
+munlcaEOE c«n=rv«ii tlin rtght to *dK 
+
+
+
+
+ail oubod-HQio™. rcT IjsogU.. BfoWMC- 
+
+
+
+
+
+
+
+
+pottintinlly JlbalDiur by th" -dliorl.- 
+
+
+
+
+Dl boon] will not b» publlah-d undar 
+
+
+
+
+
+
+
+October 17, 2007 
+
+
+
+sports 
+
+
+
+mU 
+
+
+
+Ball State Coach told to get down' 
+
+BSU Athletic Director spoils coach's plans 
+
+
+
+GOURIESyOF 
+U-WIRE 
+
+
+
+I State Univereit&gt;' 
+'s basketball coach 
+Ttacy Roller said she 
+would sit on a billboard 
+until 1,000 season tickets 
+were sold for her team. 
+Tivo days after she began 
+her campaign, Roller left 
+the billboard but her goal 
+was not met. 
+
+Director of Intercolle- 
+giate Athletics Tom Collins 
+said he made the decision 
+Friday to remove Roller 
+from the scissor lift she 
+was on by the billboard. 
+
+"I wanted her to con- 
+centrate on practice," Col- 
+lins said. "I worried about 
+her long term health with 
+the basketball season go- 
+ing on and I didn't want il 
+to be a distraction for the 
+Homecoming parade or 
+the Homecoming football 
+game." 
+
+
+
+Roller spent Thursday 
+
+and Friday on the lift from 
+7 a.m. to 7 p.m. each day. 
+She could not be reached 
+for comment Sunday. 
+
+When she left the lift Fri- 
+day, Ball State Jiad sold 
+more than 750 season 
+tickets compared to -lO? 
+last year. 
+
+"We had a lot of very 
+positive people buying 
+season tickets," Collins 
+said. 
+
+"We handed out a lot of 
+brochures out there. We 
+exceeded the number of 
+season tickets we sold last 
+year, and westill got orders 
+comingin. So it's been very 
+positive." 
+
+Though Collins told 
+Roller to stop going on die 
+lift, he said he supported 
+her campaign. However, 
+he did not visit her during 
+her two da^-s on the lift. 
+
+"Just tlie schedule Uiat 
+I had this week with the 
+events that I had to be at 
+[prevented me from visit- 
+
+
+
+ing]," he said. "I drove by 
+a couple times but did not 
+stop up there." 
+
+When it was time to tell 
+Roller about the decision 
+to end her campaign, Col- 
+lins said he could not tell 
+her in person because he 
+bad an appointment he 
+could not break, 
+
+"Ken Brown and Matt 
+Wolfert, a couple of the 
+associate ADs, went out 
+to visit with her on it and 
+then she and I spoke on 
+the phone late in the after- 
+noon," Collins said. 
+
+Collins said Roller 
+seemed disappointed 
+when she heard about his 
+decision. 
+
+If she had planned the 
+campaign earlier, the adi- 
+letics department could 
+have chosen a date ivhen 
+it would not have con- 
+flicted with Homecoming, 
+Collins said. 
+
+In an interview last week, 
+Roller said she came up 
+\vidi the promotional idea 
+
+
+
+six months ago, though 
+not in its complete form. 
+
+"I look at it as if Home- 
+coming has been planned 
+for a long dme, the parade 
+has been planned for a 
+long dme," Collins said. 
+"Again I didn't want 'IVacy 
+being out there being a 
+distraction for things diat 
+havebeen on the books for 
+seven or eight months." 
+
+Collins said he does not 
+think die decision to re- 
+move Roller from the lift 
+shows fevoritism to the 
+football team, 
+
+"Basketball practice had 
+just started on Friday and 
+I want IVacy to be healthy 
+to be able to coach her 
+team up," Collins said. 
+"She's got all these young 
+ladiescomiiigback.tliey're 
+probably going to be cho- 
+sen to win the West divi- 
+sion in the MAC and that's 
+what I want her to concen- 
+trate her efforts on." 
+
+
+
+Athletic Events 
+
+For 10/17-10/23 
+
+Friday. October 19 
+
+Uonen's Soccer ac lUPUI ' p,ni, 
+
+Saturday, October 20 
+
+Hen's Soccer at Oakland 1 p.m. 
+
+Vfotnen's Volleyball vs tIKKC 7 p.m. 
+
+GATES SPORTS CQffER 
+
+Sunday, October 21 
+
+WtHnen's Soccer at Southern Utah, noon 
+Wcmen's Volleyball at Oakland ] p.m. 
+
+Monday, October 22 
+
+htooen's/Hen's Golf at AFSU INVITE 
+
+Tuesday. October 23 
+
+Women's/Hen's Golf at APSU THVITE 
+Updien's Volleyball at Xavler 7 p.m. 
+
+Rjr Rtote Infdmialion 
+about IPFWMiellics 
+
+checkputthe 
+Mastodons Online: 
+
+www. eomastodons . com 
+
+
+
+8^^ JAnnuaC LegisCative Issues Luncfieon 
+
+J-TQ.Q. Cuncfi for students (amfjprofessm-s attending w/stwOnts) 
+
+Otfierwise $10 j)er yerson 
+
+l/Vedhesday, October 24, 2007 
+
+11:30 a.7ru - 1:00 jy.m. 
+ITJ^^a(6 Union ^aCCroom 
+
+Join our iA/T Indiana Cegistdtors ancClTfW students to cCiscuss 
+
+tfie economic impact oflTfW on our community 
+
+and flow tfie state can heCp our 
+
+aCma mater stay strong! 
+
+R.5.V.y. 
+
+CaW 260-481-6807 
+
+T-rruMCaBim.ni@ipfw.edu 
+
+Stop (r)j 'Wow 125 
+
+
+
+fonsored0\^^^^^)g^gl/^fgjgl^gnent and IVfW ACumni JKssociation 
+
+
+
+~r' 
+
+
+
+
+
+
+
+I 
+
+
+
+
+
+
+
+^E!gP 
+
+
+
+Aid to KNolXr^ffikn^^vi^ KaiA 
+
+
+
+&gt;UT 
+MY DORM WINDOW WITH MY HEAPTiLTED 
+45 DEGREES TO GET RECEPTIOnT^"^ *"^ 
+
+
+
+f/ 
+
+
+
+U.S. Cellular* offers you a 
+30-Day Network Trial that gives 
+you the space and the freedom to 
+make sure your phone works where 
+you want to use it and not just 
+where you're forced to use it. 
+
+U.S. Cellular is wireless 
+where you matter most?" 
+
+
+
+^USCeUular 
+
+
+
+getusccom 1 -888-BUY-USCC ^"^ — B^ Kyocera Strobe 
+
+SIMJay euorantae: Cu&amp;tomsr le reSponeibte for any charQes irxnirred prior to return. O 2007 U.S. Cellular Corpoialiori. 
+
+
+
+
+From Page 1 
+
+"Congress shall make 
+no law respecting an 
+eslablishmeni of reli- 
+gion, or prohibiting the 
+free exercise thereof; or 
+abridging the freedom 
+of speech, or of the 
+press; or the right of 
+the people peaceably 
+10 assemble, and to pe- 
+tition the Government 
+for a redress of griev- 
+ances." 
+
+Although McSwane 
+got to keep his job as 
+Editor, there have been 
+other repercussions to 
+his actions. 
+
+According to Brett 
+Okamoto (CNN), the 
+campus group called 
+The College Republi- 
+cans circulated a peti- 
+tion that called for Mc- 
+Swane to resign, and 
+advertisers to pull their 
+
+
+
+Young 
+
+people 
+
+prefer 
+
+You tube. 
+
+com to cnini 
+
+or standard 
+newspapers. 
+
+
+
+money out of the pub- 
+lication. 
+
+Because of the four- 
+letter debacle, the 
+newspaper lost up to 
+$50,000 in lost revenue 
+for the paper, and 16 
+advertisers pulled their 
+ads. 
+
+Since there has been 
+a major debate sur- 
+rounding both Colo- 
+rado State University's 
+newspaper as well as 
+the IPFW Communi- 
+cator, the heightened 
+publicity has thrown 
+into sharp relief the 
+need to revisit The 
+First Amendment and 
+all that it offers publi- 
+cations. 
+
+With the priveledge of 
+publishing news also 
+comes responsibility 
+to deliver it ethically. 
+There is a fine line be- 
+tween making print 
+media entertaining 
+and eye-catching, and 
+working on the wrong 
+side of the ethical line. 
+University newspa- 
+pers struggle daily to 
+walk that line, and do it 
+ethically as well. 
+
+
+
+</pre>        </div>
+      </div>
+    

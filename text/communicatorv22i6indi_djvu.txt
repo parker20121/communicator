@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i6indi/communicatorv22i6indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i6indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i6indi">The Communicator</a>"
+          </h1>
+          <pre>
+—Quote of 
+
+the Week- 
+
+M,,i,l 
+
+
+
+Lady Volleydons beat St. Joseph and 
+
+Kentucky at Great Lakes Valley 
+
+Conference Page 6 
+
+Free speech threatened on campuses? Page 5 
+
+
+
+Smoking, voting, IBM, Students' Government, etc Page 2 &amp; 3 
+
+
+
+The Communicator 
+
+
+
+vol. xxn, ISSUE 6 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Writers wanted 
+
+
+
+Infographs "XS 
+
+
+
+UFO SIGHTING 
+
+The Universal Fantasy Organi- 
+
+
+
+McCarthy Vs. 
+Hollywood 
+
+"The Hollywood Ten," a doc- 
+
+
+
+•Speed-The-Plow," and "Baby 
+are open to everyone. For more 
+
+
+
+Studies will occur at IFFW i 
+
+
+
+Grad School Survival 
+
+
+
+Surviving Graduate School" 
+
+
+
+Campus harassment cases investigated 
+
+
+
+
+Support group 
+
+
+rmp1cMy e and ToMy bStadtta a* of'tnTbutly's M°g, and'l'do^'w^n! 
+
+
+The Returning Adult Support 
+
+
+
+
+Jroup is meeting each Wednes- 
+
+
+
+
+
+
+
+
+Uemorial Union Room G2S. 
+
+
+if we are not completely behind him Street to the Merrill Lynch building, 
+
+
+
+
+
+
+Prayer for peace 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lions of dollars and potentially tens of Lambert said it was a spontaneous 
+
+
+
+
+
+
+
+
+
+
+Walb Memorial Union Room 21- 
+
+
+mulli-nauonal mega-corporations and the gulf conflict. 
+
+
+lri.it&gt; studies 
+
+
+Brazx&amp;tij^?^ 
+
+
+American Conlerence for Irish 
+
+
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Censorship 
+
+Students need a forum 
+to communicate ideas 
+
+Why would anyone not want a student newspaper? Where 
+would you go for information? How would this information be 
+released? By word of mouth? How wouJd students communicate 
+with 11,000 people on a weekly basis? Would students post 
+information and grievances on walls and doors as Martin Lu- 
+ther did 500 years ago? Can students be guaranteed expensive 
+
+
+
+i Students' Government denies the value c 
+press on a campus of 11,000 thinking people of varied oj 
+Opinions that can be expressed in this paper. 
+
+Yet, student senate, through recent actions, 
+The Communicator through Resolution 90/91-3: "Through 
+referendum, (Students' Government will) place the issue c 
+continuing its (The Communicator's) subscriptions before th 
+subscribers which are the studenLs of IPFW." 
+
+, the resolution will ask the student body to becom 
+' endum will as 
+
+
+
+a political a: 
+the students 
+
+
+
+nev Bpaj 
+
+
+
+iper. The reierei 
+ght they might ! 
+
+
+
+i to decide I 
+
+
+
+
+
+
+Resolution 90 
+
+it; io protec 
+
+
+
+1-3 claims it is trying to protect 
+
+r a student referendum when in ac 
+
+trying to protect the student body president. 
+
+Resolution 90/91-3 hangs as a spider 
+
+igly deny rights that were gui 
+
+&lt; the freedoms of speech, press ; 
+
+es and a reft 
+
+The Communicator could lose its subscriptk 
+
+ed before in the e 
+
+
+
+i* to I 
+
+
+
+ticularly I 
+
+
+
+
+
+
+Students should take 
+second look at Snyder 
+
+
+
+
+Resident upset with new Guest Pass Policy 
+
+
+
+: Center's Guest Pass Policy. 
+
+
+
+
+slate of Indiana, 1 feel that I have the State Park. An admission ticket di 
+
+je the f its public facilities, including its advance to go to Helmke Library 
+
+1 P re - state-funded universities. view a magazine. My point being tl 
+
+two- For example, in order to enter for the vast majority of state tunc 
+
+*ed to Brown County State Park I had to give and operated facilities one must foil 
+
+Guest to check out a book at Helmke Library lations. I also understand that in 
+
+ars, I enter the grounds of IPFW all I have order to some extent. But the athlet 
+
+rbing to do is obey the parking and traffic department feels that the Athle 
+
+
+
+IBM rep denounces booted off campus article 
+
+
+
+you don't give B. 
+
+
+
+student wants clarification S7&amp;CE£S3£B£ Z&amp;££.'S£££rj£%l 
+
+
+
+unflattering charges 6. Did he really throw out 47 of his 
+
+
+
+
+
+
+from Stu- story t 
+
+
+
+reconsider? misuse of its responsibility" (front -,-, . . , 
+
+2. Did you quote him accurately Ifge. Sept. 27, 1990). Is it conceivable hflTlinittt ITllCfniAtfC Klhlp 
+
+when he said "What I have done in that such a charge might arise, in -*- ^HIlllXO L 1111S1J UUIC&amp; JJlJJlt? 
+
+my pas, is irrelevant to my pes.tion ^^rva'ntT, t, Snte'uS T » ra « ™-= «*■ ' Y » ur *»™ wul be to rule ove 
+
+TiVEeraUvSmt'havebeen bear the rest of the story Integrity -J^JWJ" f, " &gt;h L " C ! a T ^^fS^aJ^ 5eS ™, 
+
+tnan^tmestTmore'tnanTie ^ " "'""'^ ^ThnH.Tn "?** ""* "^ ™ "" """*?■ ^^ "" "" *° '" ,meS " " 
+
+T 1 - forming at least in part the foundation which mea™ "- ■■ ' 
+
+Judge by own standards i™SES SSr. 
+
+
+
+Letters Policy 
+
+
+
+■ reserves space on this page 
+matters of 
+
+
+
+.Your 
+
+letters addressing n 
+) IPFW. If necessary, letters will be 
+
+the author's name, signature, address 
+. Only the author's name will be pub- 
+Names will be withheld only for extra- 
+
+
+
+The editorial board 
+
+Letters should be sent typewritten to The Communicator 
+office, Walb Memorial Union Suite 215, or mailed to The 
+Communicator, Walb Memorial Union Suite 215, 2101 Coli- 
+seum Blvd. E., Fort Wayne, Ind. 46805. 
+
+
+
+f Right"). From this quote 
+
+
+
+
+
+
+motivation everything." The Greek word for ' 
+attacks or different from "obey" and involve 
+( brutal, of- Ephesians 5:23 states, "For 
+
+
+
+stroys their relationships \ 
+
+
+
+This should clarify the points that 
+in the Sept. 27. 1990 issue of The 
+
+
+
+acceptable and He (God) said, *I will greatly n 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+VP supports referendum resolution 
+
+
+
+Do not take democracy for granted 
+
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Campus censorship felt across the nation 
+
+
+
+By JONATHAN I 
+
+
+
+that, according to Time 
+
+
+
+y," he remarks sarcastically. "Just 
+
+
+
+Eleanor Holmes Norton, President codes themselves art 
+Carter's chair of the federal Equal and condescending i 
+
+
+
+
+
+
+gues. "The primary problem is that 
+
+
+
+, *pxxn cooes nave Deen de- . , j , 
+
+^"HVlBS Forbidden phrases? 
+
+By WARD AND H 
+
+
+
+Disturlia 
+
+
+
+'^w^ 
+
+
+
+
+
+HERE'S WHY 
+
+THESMARTMONEYAT 
+
+INDIANA - PURDUE UNIVERSITY 
+
+IS (MG WITH TIAA-CREF 
+AS IF THE FUTURE DEPENDED ON IT. 
+
+
+
+Because it does. Smart investors 
+know that your future depends on 
+how well your retirement system 
+performs. TIAA-CREF has been the 
+premier retirement system for people 
+in education and research for over 70 
+years. We have enabled over 200,000 
+people like you to enjoy a comfortable 
+
+
+
+growth through dividends. CREF's 
+variable annuity offers opportunities 
+for growth through four different 
+
+
+
+The CREF Stock Account 
+The CREF Money Market Account 
+The CREF Bond Market Account* 
+The CREF Social Choice Account* 
+
+
+
+SMART MONEY LOOKS FOR SECURITY, 
+
+GROWTH AND DIVERSITY FOR 
+
+RETIREMENT SAVINGS. 
+
+
+
+. Growth-so and tell you n 
+
+
+
+you'll have enough 11 
+
+
+
+i TIAA-CREF. 
+
+
+
+THAT'S EXACTLY WHAT YOU GET 
+WITH TIAA-CREF. 
+TIAA offers you the safety of a 
+traditional annuity that guarantees 
+your principal plus a specified rate of 
+interest, and provides for additional 
+
+
+
+Experience. Performance. Strength. 
+Your future is protected by the largest 
+private retirement system in the world. 
+We have done so well, for so many, for 
+so long, that we currendy manage 
+some $85 billion in assets. 
+
+
+
+cotl W*° ast 
+
+
+
+
+Friday, October 5 
+
+noon to 3 p.m. 
+in the Walb Outdoor Amphitheater 
+
+
+
+J 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+You've worshipped him from afar all semester 
+You've heard his last girlfriend was blond. You 
+
+You've enrolled in classes you hate just to be near him. 
+He finally calls. 
+
+Your line is busy. 
+
+
+
+Call Waiting 
+
+
+
+fE¥73 
+
+
+
+have exceptional career opportunities a&gt; 
+right person, with unlimited growth 
+potential. That might well be YOU. 
+
+Why not give us a call TODAY, or stop 
+by any one of our many banking centers 
+andpickupaJOBLINCcard. It could be 
+the beginning of a mutually rewarding 
+relationship. 
+
+
+
+n 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i9indi/communicatorv21i9indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i9indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i9indi">The Communicator</a>"
+          </h1>
+          <pre>Airborne Chorus 
+presents concert 
+
+
+
+
+IPFW radio station 
+
+New media form would benefit campus/Page 2 
+
+
+
+Art show and auction 
+
+ASL to exhibit student, faculty works/Page 3 
+
+
+
+Volleyball 
+
+Lady 'Dons have perfect weekend/Page 4 
+
+
+
+The Communicator 
+
+
+
+VOL. XXI, ISSUE 9 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Quote of the week 
+
+
+
+"We are not powerless as students. We 
+have a right to express opinions and to get 
+help for our problems." 
+
+—Holly Hatqh 
+
+—director of women's studies 
+
+—Page 1 
+
+
+
+New director 
+
+Hatch named as women's studies head 
+
+
+
+By DEBR/l WILHELM 
+
+
+
+nlNFOGRAPHS- 
+
+"Temptation" to be shown 
+
+
+
+Accounting Society to meet 
+
+in Walb Memorial Union Rooms 224, 226 and 228. Guest speakers i 
+be from the offices of Ernst and Young; Brad Smuts from the F 
+
+one interested is welcome to attend. 
+
+Teleconference to conclude 
+
+"Fundamentally Speaking: Catholic Views on Campus," part twe 
+
+
+
+Russian program will air 
+
+
+
+Bowen to answer questions 
+
+
+
+"Sister Mary" to premiere 
+
+i production of Christopher Dur- 
+
+
+
+i !■ r„U 
+
+
+
+Purdue-Indiana 1 
+ing's "Sister Mary Ignatius Explains I 
+at 8 p.m. Directing the performance i: 
+;or of theater. Tickets are $7 for general admission, S6 for s 
+
+vill remain open Mond.r. Humip.h S.ih.nia', •litriiii.'. inTf.inn.tini.- \&gt;. 
+
+
+
+Religious groups offer events 
+
+
+
+i Forum and Campus h 
+
+
+
+gious Forum/Campus Ministry offurt- in W.ilh Memorial Union Roon 
+
+Committee asks for opinions 
+
+The Student Affairs Committee of the IPFW faculty senate wi) 
+review proposed changes in the university's ■■Statement of Studen 
+Rights and Responsibilities" ami i- .iskini; lor comments and sugges 
+tions on the latest draft. Copies of the following documents are oi 
+Library: "IU Statement of Student Rights am 
+
+are asked to send comments or suggestions ii 
+ocuments before Friday, Dec. 1, to Frank Borelli 
+
+
+
+
+ISO Faculty Lecture 
+
+Seiler discusses East and West Germany 
+
+
+
+yBETHMOUISH imalely w students. family and Matt 
+
+iday. Dr. Christiane Seiler, During the past two summers, Seiler 
+
+cture Erfurt, East Germany, for people 
+
+&gt; Organi- from Western &lt; 
+
+
+
+right, this might i 
+
+
+
+I about East Germany. 
+
+
+
+
+
+
+
+Under pressure 
+
+
+
+Student lounge space 
+will be re divided soon 
+
+
+
+
+
+
+Gift committee meets 
+
+
+
+Student Senate grants ES1S;'£TEH 
+funds for Arts Group ^^S&amp;^^«^ 
+
+
+
+"There will be cert 
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Campus air waves 
+
+Radio station would 
+benefit IPFW students 
+
+
+
+The possibility of 
+
+
+
+Tig an IPFW In the la:d dc. ■..-!.- alone, many ncv. 
+
+the last stu- and interesting things have been hap- 
+
+meeting This idea of a pening in music l 'Mnriiinalch !-'nrt 
+
+won.lerinl iiIim for many 'TDs Alt ( hi- local commercial stations 
+
+most important is the offer is Top 40 music of past and pre- 
+
+ic that would be plaved. sent, and heavy metal. 
+
+
+
+college radmnr \ 
+
+
+
+in music with more 
+
+
+
+tional standard for college radic 
+
+plays alternatives to heavy metal and Wayne f 
+
+top 40. those i 
+
+This station could offer a world of depth ; 
+
+opportunity to Radio/TV majors and ol music magazines to una gooa, new 
+
+other-, interested m r..i iiini.i. 1 . practical iiiumc, m In take ;i chance and buy an 
+
+experience in the field of radio, allium Hi :m\ haven't I, card much 
+
+Theoretically, everything from pro- about. These risks are exciting and 
+
+tram dim/tine, to dis, jockeying lo sometimes successful, but they also 
+
+advertising would be under student require an endless money supply. 
+
+. cnln.l .irnl ■.'. .Hilit JIM--I .1 '.'id-- r.uu'e ol A radio ,|.,liun ,it 1 1 'PW could offer 
+
+
+
+nhialk 
+
+
+
+i listen. This could 
+
+
+
+nes an actuality, 
+
+in— good music, 
+station would be 
+
+
+
+Public apathy makes 
+drug problem worse 
+
+
+
+lltr atw 12 Ml SU^fc jtyatb 
+
+
+
+
+
+
+1 
+
+
+
+
+Last week was ■ Natumal LV.I l.'ibhon 
+Week." an anfi-riruu campaign es 
+taltli-.li.fl by the tinted SUiles Con- 
+gress. The most visible symbol of the 
+. ani|Mii'i, was the wearing of a red 
+
+
+
+it.e addn ! and 
+
+
+
+To the Editor 
+
+Writer opposes activities at NOW convention 
+
+
+
+parades drugs to a college student may use the 
+ere held profit from the sale lo buy drugs to sell 
+
+r""'l' in the .indent ■- minor high sibling. 
+
+Crack cocaine is the most addictive 
+he anti-drug push by rungr.^ and ,,,.,„, , lln enll v „ n lhe ma rket. People 
+President George Bush lia-. draun ,,d, tided to versions of cocaine often 
+
+
+
+you Mao Tse Tung's "Little Red 
+
+
+
+Hopefully, the greater 
+increasing plight 
+
+
+
+months. 
+
+slow the ever 
+
+
+
+habit. Crimes associated 
+
+others, drug use is a way tc I relax P° s,t . ve f ? r dru .B use ; ln Indian ?: P? lice . 
+e is the ad- 
+
+leciciliniial 
+
+
+
+
+
+
+Ln, The I 
+
+
+
+
+
+
+show that 
+imes are related to drugs, 
+oth of these groups contribute ,. The c ™ ml ' **&amp; user - the addict and 
+to the drue Drnblem the P^P 1 ? who look away are contrib- 
+
+j-_. „.._._ B *:_■_. .,:.,. nfinP tn Ihp crimp nf rhk nalinn A 
+
+
+
+Student organization hosts forum 
+
+
+
+
+
+
+Uses dtaij'.s K v.a v., nc who sell- dnt.j-. ""' '■■'-"" u ''' 1 ■- stem. 
+
+And everyone uln, looks tile otllel \cooi dinr m IimI 
+
+waN I'.vc ,! \hii .ni.ikc uph- ';'|;' i 7,;' n s U 1 'J' e Ve i ' he JO fu ' | , llr Hi 
+
+-■I 1 " iai .- . .-a.i,' ' mni,!'!' ,'''!■■■ i!! « 'H &lt;to '!■■ I'-""', a- I 'resident Bush has 
+
+the same dealer ihat supplies every proposed hut no amom.t ..t money wall 
+
+other drug user. solve the problem. Only full-scale 
+
+Drue dealers don't select who thev community involvement — in the 
+deal to. This year 200,000 babies will 
+
+
+
+$&amp; 
+
+
+
+■ ili iii'.s dinaic:. 
+ts suffer low 
+
+handicaps, and many show saving 
+drug dependency at birth, follow. 
+
+
+
+the tide against the 
+
+
+
+I .ti'lli: use v 
+
+
+
+Classroom yappers 
+
+List provides methods for silencing student talkers 
+
+
+
+. Cheech 
+
+and oi'ien die Let.iie the\ haw a chance -'*'"' Hume, made millions poking fun at 
+
+at life. the habits of drug users. The times 
+
+If these children survive, we will have changed as have the drugs and 
+
+have a generation oi individuals with 'lien addictive powers. It's time to get 
+
+very low mental capacities. The casual serious about th 
+
+drug user, the addict and the people Even if you 
+
+who look away are all partially to don't even know a drug user, 
+
+blame for this large number of handi- affected by the problem "' 
+
+capped children. prices to help with the 
+
+
+
+drugs and 
+
+
+
+1'u-li.i--. don't mind dealing to chil 
+
+agreed that the biggest problem facing 
+people their age is drugs. Of those 
+
+
+Id'tniL! In nc 1.1-e-is may rob or murder 
+to get what they desire. We are al 
+affected by the drug problem in some 
+way It is tune that we all take a part 
+in doing something about it. 
+
+
+sac 
+
+
+The Comi 
+
+
+SfiS=^ 
+
+
+
+
+
+
+1111 
+
+
+
+
+i prof for hushing the 
+
+
+
+HOD 4- If the a ' nE 10 ° PlUS degre€S ' forcin e n0,ll0U5 students 
+
+e behind you, dangle ntful slumber" '" '" ° * class. There "i? 
+
+from a string over lem: after hushir 
+
+shoulder. After METHOD 7: Use bubble dents, you may 
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+Hurricane drains Red Cross funds 
+
+
+
+danger has passed, Hur- by meeting 
+
+
+
+I fk'hl. s;iid George Hugo 
+
+"■■ K..1 ■ , ■ And i nrol.n 
+
+
+
+the Red Cross hurricane Red Cross Disaste 
+Charleston, Columbia, and Alkui-Wvii. Ch.ipk'i 
+
+
+
+re- California 
+
+
+
+Problem Corner 
+
+
+
+Copies of the problem a 
+
+
+
+Gregg Chrlstensen. and 
+
+
+
+ttBfl 
+
+
+
+n£l to|e^^S,fr| Stewart writes charming poems 
+
+
+
+ASL plans events 
+
+
+
+
+
+
+The -h„v. mil 
+
+
+
+Tin- is ;. snwll l&gt;,:-uliful are childli 
+book of poetry that is si 
+
+plistic and charming, yet certainly 
+
+personal and engaging. found 
+
+
+
+... '-f sfraiuWons 
+&lt;/es«r+ fsW,wh«+ 
+pfl'n re/rever u/ocW 
+
+rtey u/orrf f TVcerxrf 
+
+of -fW »;&lt;/ 
+eVfW.' 
+
+
+
+A 
+
+
+
+
+£Kff f 
+
+
+
+THE FLOWER Sl/ff 
+GMA OF PREMATURE 
+
+
+
+SUFFERS THE SOCIAL 
+
+
+
+Killer tin- Air Inn.' 
+
+
+
+resiills.il your Slate Boards You 
+can earn yreal benclits as an Mr 
+Force nurse officer. And II selected 
+duriny your senior year, you may 
+(]ualily lor a live-month internship 
+
+Iv To apply, you'll need an overall 
+2.50 GPA. Gel a head start In the 
+Air Force. Call 
+
+USAF HEALTH PROFESSIONS 
+
+317-848-5830 
+
+COLLECT 
+
+
+
+AS AN 
+ARMY NURSE, 
+
+YOU CO 
+RICHTTOTHE 
+FRONTLINE 
+OF HEALTH 
+
+
+
+WE DO YOUR 
+
+TERM PAPERS 
+&amp; RESUMES 
+
+FAST &amp; PROFESSIONALLY 
+
+
+
+747-0072 
+TER LETTER 
+
+
+
+&amp;^ EDUCATION 
+
+BRI GHT FUTU RE 
+DON'T RISK YOURS 
+
+
+
+Tor lnmrnMti,,non I'r. ^n.incy AIDS, STDs 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+APPLICATION SPECIALIST: Up 
+to 35 hr./wk., flex, including Saturday. Food 
+service experience. S6.50/hr. 10-3-I/T-2 
+
+SECRETARY: Flexible firs. 7:30 - 11:30 o.m./ 
+4 tirs. morning or afternoon. Possible full time 
+summer. Computer, type, mail. S5.00/hr. 10- 
+4-0-3 
+
+CHRISTMAS TREE WORKER: Week-ends in 
+°o"s Trees CO $™.00/hr°10 e 4-G-2 On 
+
+
+
+MOBILE TRUCK WASH: Flex. Doys 10:00 - 
+5:00, some evenings, 4:00 - 8:00. S5.00/hr. 
+10-4-G-4 
+
+
+
+FOR A JOB AND 
+ARE AN IPFW STUDENT COME IN AND 
+SEE US. WE HAVE A WIDE VARIETY OF 
+JOBS AVAILABLE. 
+
+
+
+s 
+
+
+
+
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+More Features Than 
+Any Car In Its Class! 
+
+
+
+'89 Hyundai Excel 
+
+
+
+'5224 
+
+
+
+
+I FORT WAYNE | 
+
+HYunoni 
+
+
+
+Campus 
+
+Calendar 
+
+
+
+
+
+
+
+
+
+
+£l!r 
+
+
+
+
+
+
+• Smv'rX.™ 'ircl 
+
+
+
+-Paid for by Students' Government— 
+
+
+
+Sports 
+
+
+
+The Communic 
+
+
+
+Volleyball team catches fire 
+
+
+
+
+</pre>        </div>
+      </div>
+    

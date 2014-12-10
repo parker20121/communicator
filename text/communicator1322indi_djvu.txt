@@ -1,0 +1,3352 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1322indi/communicator1322indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1322indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1322indi">The Communicator</a>"
+          </h1>
+          <pre>ii.c Communicator 
+
+
+
+Volume XIII Issue 22 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+Thursday, February 25, 1982 
+
+
+
+Regulation changes 
+cause controversy 
+
+
+
+H, MATT Ill-Vi HENRY 
+Stiff writer 
+
+A proposal made by the JPFW In- 
+-niuiKjn.il Renew Board of the Use or 
+Human Subjects in Research ID lighten 
+present regulations governing Ihe use 
+of human subject* has caused hi me 
+faculty members lo object to Ihe 
+restrictive nature of (he proposal, 
+cjllins I' lu|] inclusive and unnecessary 
+for IFFW 
+
+The IPFW Faculty senate 
+
+
+
+■rifle 
+
+
+
+it be reconsidered. 
+
+e University 
+
+In i 
+
+
+
+wilh 
+
+
+
+Weil 
+
+
+
+
+
+
+Frank Codispotl. 
+of political science and member of the 
+faculty senate, said the review board 
+proposal was loo strict, too inclusive. 
+and mlrmgcd upon the academic 
+
+
+
+Lafayette to I 
+
+meanhme, Ihe 197a document will 
+
+continue lo be in effect. 
+
+The proposal, presented to Ihe senate 
+in the form of a multi-paged "hand 
+
+
+
+
+
+
+When gathering information for 
+
+:w version, everything would have to 
+ive some kind of clearance. It In 
+uded everything. 
+
+leave enough judgement 
+n Ihe person doing Ihe research," 
+ispoli said "Academic freedom is 
+an individual should be 
+
+
+
+the Shreiner report. At this time, 
+neilher condition seems to extol." 
+
+David M Young, associate professor 
+of psychological sciences and current 
+chairman of the review board, defends 
+
+"The new system was designed to be 
+quicker/' be said "Where as before 
+everybody (in the committee) had to 
+review every copy, which took about 
+two weeks. In the new document 
+research techniques which normally 
+involve no risk can be handled with 
+'expedited review' In such cases "one 
+
+review it." he said. 
+
+While regulations set by the review 
+board potentially effect all depart- 
+mcnls, they have major impact on the 
+sociological sciences and other human 
+orientated disciplines 
+
+Nusbaumer. assistant 
+
+logy and anthropology 
+
+i board document. 
+
+everyone Is the 
+the expectations 
+
+
+
+
+Fin, aid hearings 
+
+Comm. seeks opinions 
+
+
+
+icaring "will 
+gnjr.- session The. 
+looking tor suggestions as to 
+is doing right, wrong, and 
+
+
+
+iwaxdcd 923 grants and 
+scholarships to IPFW students. These 
+grunts and scholarships, which were 
+financed by the state commission, 
+J38S.000. Franke said 
+The SSACt also processed 915 
+Guaranteed Student Loans IGSL) 
+received by IPFW students. The GSLs. 
+
+
+
+Battle goes on 
+
+ERA in trouble 
+as deadline looms 
+
+
+
+
+ii totaled over I', million dollars, 
+e financed by hanks and guaranteed 
+by the slate. Franke said 
+
+The SSACI will conduct hearings at 
+
+Hall Slote University March 3. the 
+
+late Teachers Association 
+
+Indiana Universlly North- 
+
+tn II, Indiana University 
+
+&lt;n March 10. the University 
+
+ansvillc March IT. and Purdue 
+
+rsity West Lafayette. March V. 
+
+: uhe financial aids department! 
+
+'nuts lu be present and 
+
+ant lo." Fronke sold 
+
+
+
+a to act in order for Ihe 
+lo be effective. When this 
+il is bonding on Congress 
+us and cannot be changed 
+thereafter" 
+(.'allister's ruling meant that, in cf- 
+
+ci. the Ki|uai HigJiU Amendment had 
+
+ed on the original deadline of March 
+
+:. 1979 Callistcr also ruled that the 
+
+ad a right to rescind their ap- 
+
+[ a constitutional amendment 
+
+becomes part of Ihe Con- 
+
+iling, Ihe National* 
+
+
+
+ruling and 
+its speedy reversal. 
+
+The Justice Department, which in 
+1977 hud ruled lhat Congress had sole 
+aulhorily In extend Ihe ERA deadline, 
+also asked Ihe high court to overturn 
+decision. 
+
+Li the Supreme Court agreed 
+if Congress had the con- 
+authority t 
+
+
+
+I should be proud of Ihe ultra - 
+: backlash that Feminism 
+hascaused. It shows we are being taken 
+seriously." Sleinam said. 
+
+Ihe Equal Rights 
+
+
+
+... Steii 
+
+
+
+i dldn'l 
+
+
+
+s passage before the 
+
+June auacaaiine. out said Lhat the ERA 
+was tar from dead. "I think il will be 
+brought up and passed a 
+
+
+
+opporti 
+
+
+
+will 
+
+
+
+e to the deadline and 
+beyond" 
+
+Speaking ol the Women's Movement 
+as being in Its "second wave" I The lint 
+being the sullrage movement which 
+ended wilh the passage of 
+
+
+
+
+
+
+
+
+
+. Stein 
+
+
+
+
+
+
+ileinam's advice to all is, "Dream 
+
+Later, si a sold-out dinner in Ihe 
+nm of the Holiday Inn. 
+Steinam did describe herself as an 
+outside agitator, saying. "My function 
+is lo bring all of you together when 
+normally you wouldn't." 
+
+But the crowd shesoughl lo agitate, 
+was well-dressed, largely alfluent las 
+suggested by the J2S a head ticket 
+pricei. and more inclined lo applaud 
+rather than raise clenched fists. In the 
+soil lighting of Ihe banquet hall, among 
+Ihe crystal chandeliers. Steinam was 
+less a rabble-rouser and more an after 
+
+"People say we've mellowed, that 
+we're less militant. I think lhat Genera] 
+Motors and General Westmorland arc 
+
+
+
+. . a rive-point pla 
+for the Women's Mo.~. 
+
+R eproduc li v e freedom 
+first point Calling Ihi 
+
+
+
+and women." 
+
+for patriarchy." ' 
+
+
+
+Steinam's second point was a new 
+
+
+
+Tying to disentangle violen 
+lexualily Pornography and r. 
+
+
+
+family which also 
+
+lelined. according L. 
+
+Many like to say that thci- — 
+kind ul family, and ils ours," she said. 
+To Steinam. ihis ignores history which 
+shows there have been many different 
+kinds of families Including extended 
+families with several generation:, living 
+together, and m atria real 'amities, with 
+a woman heading Ihe household. 
+
+She called the stereotype "a Nixonian 
+family with the slightly taller father, 
+two children, and the mother who 
+doesn't work because she is at home " 
+
+Sleinam called the Family Protection 
+Act. "something that the ultra-right 
+would use lo keep the paternal family In 
+
+
+
+these suites rescinding a. the Ul.IiiI.it 
+IMS decision by Congress lo extend the 
+deadline for ralilying Ihe ERA from the 
+original dale of March 22, 1979 lo June 
+
+
+
+The rescinding s 
+Congress has no authority t&lt; 
+deadline lor a Cons 
+menl lo be passed. 
+
+
+
+deadlim 
+
+
+
+- had ii 
+
+
+
+•.■ pr'ip'rscd ji 
+
+
+
+
+
+
+e Court 
+
+
+
+.1 \u\: i. 
+
+
+
+make some Institutional changes." 
+
+As an example of the success o 
+Feminism so far. Steinam points Ii 
+media advertising. "Ads art slit 
+
+
+
+
+
+
+
+
+
+
+
+
+said she the politics 
+
+
+
+have begun to see 
+,'ards. TV. 
+
+
+
+i must translate these 
+
+
+
+we hoped lo marry " 
+
+Steinam facetiously referred to "the 
+greatest discovery of the decade." as 
+being "the tact lhat children have two 
+parents" 
+
+"Being a wife and mother is just as 
+important as being a husband and 
+father." she said. Women should be 
+allowed to contribute In other ways. 
+
+
+
+* art people i 
+
+
+
+slavery. Hon 
+
+don't work," 
+
+If homemakcrs were defined as 
+workers, according to Steinam. then 
+this country's Gross National Product 
+would go up by 25 percent. 
+
+"When a profession gels to be about 
+one-third female, it kind of tilts. It no 
+longer is so important. When more and 
+more women became bookkeepers. 
+
+
+
+poora 
+
+
+
+"Organized religion is pollUcs made 
+sacred." Steinam said. "The Moral 
+Majority represents all those forces 
+that our forefathers came lo this 
+i escape. They lu 
+
+
+
+claim 
+
+
+
+he flag or Ihe A 
+'Continued oo page J 
+
+
+
+n Way." 
+
+
+
+P.-rlups after that decision IS made, 
+then action on whether or not Indiana 
+should rescind will take place " 
+
+The case that led to Ihe Supreme 
+Court becoming involved in the matter 
+of constitutionality, was a suit filed by 
+the stales of Idaho and Arizona against 
+the United Stales government in May 
+1979 The slates question Congress' 
+extension and maintaining that il is Ihe 
+right ul a stale legislature lo rescind its 
+own ratification vote. 
+
+The case came to Idaho federal court 
+on Dec. 23. 1961 Idaho Federal Judge 
+Manon J. Callistcr ruled that Congress 
+had indeed violated the Constitution by 
+extending the deadline for raiilicaiicn 
+
+
+
+request lo expedite 
+
+Because the court's 1981-82 docket Is 
+full, il Is unlikely thai the justices will 
+rule on the case until the slart of Ihe 
+net I term this fall. 
+
+In any case, the question of 
+Congressional authority may be 
+academic if the minimum of 38 slates 
+don't ratify Ihe ERA by June 30 Since 
+most stale legislatures convened in 
+January and end their sessions by 
+March or April, the chances of passage 
+are dwindling everyday 
+
+"It doesn't look good for the ERA," 
+
+
+
+Congress passed the Equal Rights 
+Amendment in March 1971 Within one 
+year after that, SO states had ratified 
+
+
+
+increasingly 
+it giving up 
+
+
+
+ERA supporters a 
+
+slates lhat still have some chance of 
+ratifying, the brightest hopes may have 
+faded mlh Uli nos and Ol' ' 
+
+
+
+rights For example. Mississippi 
+declined to even ceremonioinly ratify 
+the 19th amendment. which 
+
+
+
+- THE COMMUNICATOR - FEBRUARYS, 1W 
+
+opinion 
+
+
+
+Faculty should 
+better advise 
+
+
+
+seven weeks into the semester a' 
+1PFW some disturbing talk is making its 
+way around Ihe campus Some students 
+are upsei because they just realized 
+Ihey're In a class (hat they dnn'l need. 
+
+Others arc finding out lhat maybe Ihcy 
+dldn'l have Ihe prerequisites (or a class 
+and now are struggling to keep their 
+head above water. 
+
+Why Is Ihls a major problem at IPFW? 
+The Communicator feels the faculty in 
+many departments at Ihe University 
+need some brushing up on their pre- 
+registrntion counseling consultations 
+with students 
+
+An alarming amount of "bad advice" 
+is coaling students at IPFW valuable 
+academic time and money. Ai a com- 
+muler campus such as ours a mistake or 
+Iwulnelasses taken can mean additional 
+semesters spent trying to receive a 
+degree, since many classes offered arc 
+on an every-olher'Semester schedule. 
+
+By means of an Informal survey taken 
+by Ihe Communicator, we found lhat Ihe 
+departments contacted wcreall satisfied 
+with the means ol counseling taken by 
+their individual faculty members. 
+
+All said that sludenls are expected to 
+be familiar with (he IPFW Bulletin. 
+which lists class descriptions and 
+academic schedule planning guides to 
+fulfill major and minor sludics. The 
+Communicator agrees with this claim. 
+
+
+
+Sludenls have a responsibility to 
+themselves to keep abreast of what they 
+do and do not need academically. 
+
+Students, especially those nol familiar 
+with college schedule planning, do make 
+mistakes though. This should be where 
+ihe faculty counseling comes into play. 
+Unfortunately, in many cases this is nol 
+happening. 
+
+The Communicator has learned lhal 
+some sludenls have wlaked into coun- 
+seling sessions for an adviser's 
+signature, and without hesitation had 
+(heir registration card signed. 
+sometimes by unauthorised personnel. 
+No attempt was made to check for 
+errors. That type of situation saves time, 
+but how accurate can il be? 
+
+The Communicator feels it's lime for 
+all department heads to send out letters 
+lo faculty members reminding them of 
+Ihe importance of counseling, before 
+each semester a( IPFW. Faculty 
+members should already be aware of 
+this, but apparently Ihey are nol. 
+
+Maybe It's lime for faeully members 
+(o lake a refresher course on Ihe skill 
+and importance of academic advising. 
+
+Good counseling is so important lo a 
+student's quick advancement through 
+school, but the kind of counseling some 
+sludenls have received is a major 
+detriment. 
+
+
+
+Perspectives 
+
+IPFW students 
+should speak 
+out to reps. 
+
+
+
+
+Reagan ad- 
+ministration's 1331 budget 
+has proposed a jo percent cut 
+in student aid, a "disaster" 
+that will put college bi-yiiiKi 
+
+
+
+
+
+
+
+druds ol thousands ac- 
+cording to the Action 
+Com mil let on Education, a 
+coalition of 12 college and 
+
+Specifically, Ihe proposed 
+1383 Kcagan budget changes 
+
+
+
+world's high technology 
+marketplace It seems quite 
+paradoxical mat we are to do 
+(his while reducing our 
+citizenry's opportunity for 
+
+
+
+Syn 
+
+
+
+:alcd 
+
+
+
+Anthony I 
+
+MaiLhuiK Japan in the new 
+high technology is not going 
+lo be done by physical in- 
+vestment atone II requires 
+development ot America's 
+human capital. Il requires 
+education that can cope with 
+
+
+
+S, Lookinj 
+
+
+
+communicaiioi 
+
+the world, Ihtrr 
+
+lo believe lhal ignorance is 
+
+going (o make (he United 
+
+Stales (hrivc " 
+
+Private and public 
+
+large and small, are joining 
+forces in voicing their 
+criticism of the Reagan I9B3 
+
+
+
+ehminaicd lor Supplement] _ 
+Educational Opportunil) 
+Grants which now serve 
+
+Direct Student Loans, 
+helping about 266,000. and 
+
+matched money lo more 
+than 300.OOD students. 
+
+would be reduced by 77 
+
+In all. Reagan's student 
+aid request lor 1WU is II H 
+billion compared wilh W.3 
+billion in this liscol year 
+This drastic reduction, and 
+the foe 
+
+
+
+
+
+
+i will 
+
+
+
+prompted J.W. Pcltason. 
+president ot the American 
+Council on Higher 
+
+
+
+nedia 
+
+
+
+proposed culba 
+a( IPFW, bul 
+
+
+
+at of (he (III 
+
+J system recoil 
+year, nearly two-thirds 
+
+
+
+I'JHI- 
+
+
+
+i,„;r..m 
+
+
+
+ihe 
+
+
+
+Student replies to previous letter 
+
+
+
+iclw 
+
+
+
+derstnnd why professors 
+
+She seemed \n perceive 
+lhal professors asking 
+
+
+
+low students must 
+
+
+
+thoroughly 
+
+However. lor the tallowing 
+reasons I defend the Socratic 
+method of asking questions 
+(o gel ai Ihe "truth."' 
+
+First, perhaps I shouldn't slruclors ask 
+answer lor Ihe instructors, questions could 
+bul probably they ask smdenls lenrr 
+questions lor the sake of skills traits, ai 
+leedback. Through asking 
+questions an Instructor gets 
+leedback on wheUier he or 
+she has been eflecUvc In 
+getting across what was 
+intended. 
+
+By being questioned. Ihe 
+
+
+
+(he subjeel is vague. Then 
+we know we need lo study 
+dial subject in more detail 
+
+Questioning sludenls desirable 
+
+results is more than just lecd preparedni 
+
+
+
+When students art 
+the blackboard to 
+icstions. they &gt; 
+
+
+
+i that graduation when many ol 
+uable will he called upon lo mi 
+ilitics presentations at depa 
+
+
+
+mportanl not just (hat 
+ik up this or that ob- 
+tael tossed oul by an 
+
+
+
+ing que 
+
+
+
+mumcalion skills. Upon 
+graduation many ol us will 
+have bosses who ask us 
+questions al meetings at 
+
+
+
+
+
+
+
+
+
+■ thin 
+
+
+
+ctllon 
+
+
+
+College is on ex- 
+place lo develop the 
+
+such meetings 
+
+
+
+Snow removal tough at Penn State 
+
+
+
+night I 
+
+
+
+Thee; 
+
+
+
+IS then 
+
+
+
+it Ihe si 
+
+
+
+sin the 
+
+
+
+' "Shanks 
+
+
+
+k my c, 
+
+
+
+n Ihe 
+
+
+
+DUN "7 EVER gel shove 
+
+
+
+il middlt 
+is a huge sprawling 
+sonncl campus The students arc 
+
+Dick wis a student on virtually all residents on 
+
+"a graduated with a degree oily on weekends. 
+
+
+
++ + + + + plowedi I concluded lhat Ihe 
+
+Ourwealherherehasbeen snow hit that day. 
+
+as inteiesting as il has in Wrong! Snow removal ai 
+
+Indiana I was out ol (own PcnnSiate doesn't rank high 
+
+last weekend and came back on the priority list 
+
+Sunday night to discover we Doorways were barely 
+
+
+
+till Thursday that 
+
+
+
+Student replies to previous letter 
+
+
+
+running as president, v 
+president. SUBOG ch, 
+
+
+
+helps to spur all responsible 
+people to act and inform Ihe 
+
+RonDiehl 
+
+Former i ludcnl sena lo r 
+
+PS All (hat Is required to 
+
+be eligible tor the students' 
+
+
+
+eamjius (or one 
+
+
+
+(op three 
+
+
+
+KJomeZk.ia 
+
+
+
+&lt;£&gt; « tS) 
+
+C^beautifulX.^ 
+bridesmaid chesses 
+
+TO RENT 
+
+
+
+COUPON COUPON 
+
+FREE GIFT With This Ad 
+
+One Book Free With Purchase Of 
+
+Equal Value At The 
+
+BOOK TRADER 
+
+2313 Madecresi 
+
+tares From KoeMnaer s At Georgetown 
+
+Used PapertMdes end Ocmcs 
+Hoj-S M -Sat ID 30 am 5pm . E«r»xp Ti8Mcn &amp;Fn 
+
+COUPON COUPON 
+
+
+
+This Week The 
+
+
+
+v Presents • 
+
+"Fiddler on the Roof" 
+7:30 &amp; 10 p.m., Sat. Feb. 27 
+
+Walb Ballroom, 
+FreefACH, *1 B0 [NACH] 
+
+
+
+I.U.P.U. STUDENTS &amp; FACULTY 
+
+
+
+CANTERBURY GREEN IS THE APARTMENT COMMUNITY WITH EVERYTHING 
+
+WE OFFER: 
+Free Roommate Program 
+Racquetball 
+Billiard Room 
+
+Exercise rooms with dry saunas 
+4 swimming pools 
+18-hole golf course 
+Basetball, football &amp; soccer field 
+Singles club with "HAPPY HOUR" every Thursday 
+Aerobic lessons available 
+Cross country skiing seminars 
+
+AND MUCH MORE RENTS BEGIN AT '276.00 
+
+Leasing Office al 485-9687 
+
+
+
+
+Located N.E. of [U.P.U. i 
+
+
+
+1 Si JoeRd 
+
+Courtesy Suites Atflll. 
+485-9619 
+
+
+
+
+Be wise. 
+Bank on 
+campus with 
+the OWL. 
+
+
+
+It you dashed to class withoul your cash, don'l worry. 
+There's a Fori Wayne National Bank OWL Machine 
+downstairs in the Walb Memorial Union Building. 
+The OWL automatic teller lets you make withdrawals, 
+deposits or transfer lunds withoul leaving campus. 
+How's that lor a class act? 
+
+Get wise today. Get an OWL Card from Fort Wayne 
+National Bank, Indiana Bank or Peoples Trust Bank. 
+And start banking on campus with the OWL. 
+
+FORT WAYNE 
+
+NATIONAL BANK 
+
+
+
+Financial Aid. 
+
+Team an Apple Personal Computer wild The Con- 
+troller' and The Analyze'' software package from Dakin5 
+Corporation, and you've got a tinancial wizard at you' 
+fingertips 
+
+II can generate cash flow reports, budget analysis 
+reports, prolii/loss comparison reports, " ; — 
+reports and much, much more. 
+
+This means you can read- 
+ily develop Ihe financial infor- 
+mation you need to manage your 
+business more intelligently 
+
+And because The Analyzer 
+helps you spot trouble weeks m 
+advance, you may end up with 
+even one more advantage. 
+
+Time to do some- 
+thing about it 
+
+afenpote computer 
+
+
+
+
+• 
+
+
+U ELECTRONICS 
+
+
+• 
+
+
+
+3433 E. Washington Blvd. 
+
+423-3422 
+Open Mon.-Fri. 8:30-5:00 
+
+
+
+Peak 37 busts budget 
+
+
+
+By JEKF SANDY 
+SUN Writer 
+DayOne.am : I peer out a 
+window in Ihe Walb 
+Ktmotal Onion »ilh an 
+eastern npowre acrou Ihc 
+while, bsrren waatcland 
+which it lo hold my datiny 
+' forlheneil few day*. I Kitu 
+the weight of my backpack, a 
+
+
+
+Ihoulderi di 
+
+(U I look in 
+Ihpobyxlol 
+
+
+
+igmytr 
+
+
+
+■l Ihc Chiller Planl because 
+of impossible cot) thai would 
+
+remove lhi» preripicc. Uiis 
+peak dwarfs all others in Ihe 
+rldgc surrounding the 
+Alhlcllc Center parking lot 
+
+
+
+OPINION 
+
+
+
+silently at Ihc i 
+
+
+
+three uf us hod sat together 
+nl The Fort concluding the 
+terms of Skip's employment 
+
+
+
+
+
+
+guide 
+
+
+
+necessary for safe progress 
+on such a trip Fraternity 
+
+years In the Union and rarely 
+travel far beyond II. are 
+Ideal for this Job a ' 
+
+
+
+life tli 
+
+Ep's, Skip w 
+
+
+
+. lit 
+
+
+
+hc SIB 
+
+
+
+d prepare for uic ; 
+
+
+
+eamp for tonight is flp- 
+proxi mutely Ihree- fourths of 
+Ihe u'ny up Peak 37 and In the 
+very shadow of the summit 
+
+strenglh (or tomorrow's 
+
+
+
+upward through Ihe Ireach 
+
+thinning air was a tiring 
+process. 11 nearly claimed 
+my comrade Simon as he 
+hesitated to lake a picture of 
+Ihc vast, white panorama 
+below lladllnotbccnforthe 
+fasl shuffle of Skip's pen 
+nyloalcrs and a lunge to 
+seiic Simon's camera trap, 
+tragedy would have befallen 
+this expedition as Simon 
+tumbled down Ihe shifting 
+
+
+
+"CAB' 
+
+
+
+■any 
+
+
+
+nlghl 
+
+
+
+uiiik'rt.jkmg meeis wiih 
+was awakL'iivd inu.i) !■&gt; 
+
+
+
+had foolishly 
+expedient Only 
+
+
+
+5\ Fort Waynn's (^^ 
+
+. J Newest and Only V^ 
+
+^TAND-UP singles^ 
+
+
+
+Fort Wayne's 
+Newest and Only 
+
+STAND-UP SINGLES' 
+
+SALOON 
+Noon Lunch Specials s 2.95 
+
+
+
+
+It 
+
+
+
+TOOD-SI'IRITS-QIKJO TIMES 
+
+4111 PARNELL AVENUE 
+ACROSS FROM THE COLISEUM 
+
+DANCING 
+
+HAPPY HOURS 
+% PRICE NO LIMIT 
+
+Monday ihru Friday S-7 p.m Sal. 2-t p m 
+
+Monday thru Thursday Midnight io 1 a m 
+
+Sandwiches ■ Munchies served dally 4-11 p m 
+
+Noon Lunches Mon.-Fri. 11-2 
+
+
+
+!i 
+
+
+
+ir word of a closing. 
+
+
+
+diminished. Skip reluroed 
+hack down the slope before 
+the onset of night, allegedly 
+
+geology exam With my 
+binoculars, however. I could 
+ice him meeling u young girl 
+
+
+
+Perhaps my act of will shall 
+result in my name being 
+submilled Whatever glory 
+
+
+
+SteinCtm, cont.from page 1 
+
+
+
+FEBHLtAKY».lMr&gt;-THECOMMUSICATOR-PAGEl 
+,---_----_ COUPON ---------^ 
+
+WOODCREEK 
+
+NE.OffFteedftJ or Maplecrest RJ OnEvardftl. 
+
+671 1-H Romblewood Dr. 
+Gas Heat Club House 
+
+Central Air Pool 
+
+Cable T.V. Busline Tennis 
+
+485-7536 j 
+
+IPFW Students We Are Offering i 
+
+Yau »20°° Off Your 1st Month's ' 
+
+Rent. Bring This Ad With You To ■ 
+
+Receive This Special Offer. ' 
+
+9-SM-F SAT 9-5 SUN. 11-5 ' 
+
+._---_-_-. COUPON. ■••■■HKBBal 
+
+
+
+perhaps'' 
+
+The an: 
+
+
+
+Instead. Steinam spoke of 
+A New American Dream A 
+uleningand conclusiveness 
+
+
+
+..ng our lenls for Ihe 
+mp last evening, Skip 
+eascreech as the lent 
+ic Has driving struck 
+
+
+
+metal Although only at the 
+
+find was unusual 
+Digging with our hands. 
+
+snow entombed Da [sun. 
+
+owner hod probably parked 
+it too close Io a plowing route 
+Irom which it was sub- 
+sequently shoved into Ihe 
+side of Peak 37, we 
+reeogniied that before us sal 
+
+
+
+asked in his simplistic native 
+amaiemenl 
+
+We carefully re-scaled Ihe' 
+door and covered Ihe ex- 
+posed section with a red 
+tarpaulin so future in 
+
+difficult lime finding it. 
+Before doing so. I chipped 
+
+
+
+)l Ihe events preceding our 
+
+Ihe IPr'W pennant atop Peak 
+37 Such an act Is proof that 
+IPFW cannot be vanquished 
+by the elements The spirit to 
+
+
+
+&lt;ll very well, but can quickly 
+
+
+
+COMMUNICATOR 
+CLASSIFIEDS 
+
+50* 
+
+
+
+For the Weather or Whatever. 
+PUT YOUR FINGER ON THE FUN 
+
+CALL MICHIGAN'S 
+WHAT'S LINES! 
+
+
+
+Toll Free 
+800-248-5708 
+
+
+
+
+MICHIGAN TRAVEL BUREAU 
+
+
+
+H SPRING 
+arbor 
+
+533333,^ APARTMENTS 
+
+^-jiiigasar"- i [; p . 
+
+Across From 
+MEMORIAL COLISEUM 
+
+1 BEDROOM APARTMENTS 
+
+2 BEDROOM APARTMENTS 
+
+2 BEDROOM TOWNHOME 
+
+3 BEDROOM TOWNHOME 
+FURNISHED APTS. AVAILABLE 
+
+OPEN 7 DAYS 
+
+MON.-FRI. 9-6 
+
+SAT. 9-5 
+
+SUN. 11-5 
+
+1025 Ridgewood Dr. 
+
+483-3196 _ 
+
+MID-AMERICA CORP. &lt;* 
+
+
+
+— &lt;*;iiii|»iis 
+calendar 
+
+
+
+THURSDAY 25 
+
+Focus on Health. Walb ballroom. B a.m. -4 p.m.. open 
+to all faculty, staff &amp; students 
+
+'Business &amp; Economics &amp; IU Alumni Association lun- 
+cheon seminar. "Whither Fort Wayne " Walb 
+224. 1 1 :45 a.m.. '5. call 5343 for reservations 
+
+Soc/Anthro Forum, "Global Studies: The Perspective 
+and the Program," Walb 112, noon 
+
+•Euphonic Coffeehouse Series at the Fort. 7:30 p.m., 
+featuring Mike Brewer 
+
+'Women's basketball at Northern District Tourna- 
+ment, TBA 
+
+FRIDAY 2B 
+
+•Square and Round Dance, Walb ballroom 8-11 
+p.m., call 482-5746 for tickets 
+
+SATURDAY 27 
+
+Tae-Kwon-Do Club, Athletic Center 1 1 2 fdance floor 
+9:30 a.m. 
+
+"SUBOG movie, "Rddler on the Roof," Walb 
+ballroom. 7:30 fi. 10 p.m. 
+
+Sitar Recital, guest artist, Neff Recital Hall, B p.m. 
+
+•Women's basketball at Northern District Tourna- 
+ment, TBA 
+
+"denotes charge 
+
+
+
+MONDAY, March 1 
+
+Young People in Broadcasting, Helmke B35, noon 
+Forensic League, Walb 222, noon 
+Women's Studies &amp; Fort Wayne Feminists, 
+"Women's Culture: Visual Art Comes in Many 
+Forms," Walb 224. 7:30 p.m. 
+
+TUESDAY 2 
+
+Democratic Socialists Organization Committee. Walb 
+
+1 1.2, noon 
+"Men's volleyball at Earlham, 7:30 p.m. 
+
+WEDNESDAYS 
+
+Nursing Information Meeting, Kettler 21 7, 9:30 a.m. 
+
+&amp;4 p.m. 
+Inter-Varsity Christian Fellowship, KG46, noon 
+"University Wind Ensemble Pops Concert Neff 
+
+Recital Hall, 8 p.m. 
+
+THURSDAY 4 . 
+
+Soc/Anthro Forum, "Doomsday Boogie: Atom Power 
+
+and the Arms Race," a slide presentation, Walb 
+
+112, noon 
+Inter -Varsity Christian Fellowship, Bldg. "D" 224. 2 
+
+p.m. 
+"Euphonic Coffeehouse Series at the Fort, 7:30 p.m., 
+
+featuring Lee Murdoch 
+'University Wind Ensemble Pops Concert Neff Recital 
+
+Hall, B p.m. 
+'Men's volleyball at Ohio State, 7:30 
+
+EXHIBIT — now thru March 5 
+
+John Bakker, Chicago area artist, "The Conflict between Personal Freedom and fixed Struc- 
+tures," Department of Fine Arts, 1026 West Berry Street. 
+
+SPRING ON-CAMPUS RECRUITING CALENDAR 
+
+
+
+THURSDAY 25 
+
+
+TUESDAY 2 
+
+
+B.F. Goodrich 
+
+
+Dietrich Industries 
+
+
+General Telephone Company 
+
+
+Magnavox 
+
+
+
+FRIDAY 26 
+
+Northwestern Mutual Life 
+Insurance Company 
+
+MONDAY, March 1 
+Equitable Ufe Assurance 
+Society 
+
+
+
+WEDNESDAY 3 
+
+Bell Labs 
+
+Northern Indiana Public Service 
+
+American United Ufe 
+
+THURSDAY 3 
+
+IBM 
+
+United Telephone Company of 
+
+
+
+PACE 4 - THE COMMUNICATOR - FEBRUARY S. [Ml 
+
+the arts 
+
+
+
+"A Night on Broadway" 
+
+Philharmonic 
+
+
+
+thrills full house 
+
+
+
+lunci Irom I he las! 40 yean 
+The Philharmonic Chorus 
+was alsolealured. along wllh 
+scveriil ol Ihc Philhar- 
+
+
+
+either too loud or 
+pitched, and Ihc speaker* 
+v.-rjljk- job, making 
+
+
+
+ally lulled wllh 
+
+
+
+conduction with the chorui 
+and I he soloists, while the 
+second hall was presented 
+
+The chorus and the soloists 
+
+
+
+otherwise nice perform, 
+The second hall ol 
+
+ol "Stardust," by the fate 
+Indiana songwriter Hoagy 
+Carmlchaol. 
+Ronald Undrcjka, 
+
+
+
+highlight ol 
+II was the 
+if Judge Will 
+
+
+
+
+from Porgy and Bess." 
+many limes that were 
+spired by old nt 
+
+
+
+raiser lor Ihc Philh 
+Lee placed the highest bid in 
+order to gel the opportunity 
+to perform wilh f 
+
+
+
+Ion 
+
+
+
+
+
+
+per- 
+
+
+
+and the orchestra played 
+well under his -guidance. As 
+Die audience applauded, one 
+could tell Lee really enjoyed 
+
+
+
+o the show, 
+c orcheslra played 
+good, well known 
+n Broadway shows 
+South Pacific" and 
+llr Lady " The 
+
+
+
+were long, perhap 
+
+
+
+performance w 
+Saturday. April 
+Embassy, and wi! 
+
+
+
+Peter Schickclo, 
+
+
+
+'Tribute" hollow, flawed 
+
+
+
+By MIKE GEFFEN 
+Arts Writer 
+
+When one thinks of the 
+play ■Tribute." one im- 
+mediately thinks of Jack 
+
+originated Ihe lead role ol 
+Scottie Tern pie ton on 
+Broadway and won an 
+
+performance in the film 
+
+Given all that, il isn't 
+easy to divorce him from 
+Ihe role, and It is even 
+tougher playing under Jack 
+Lemmon's shadow A IdI of 
+actors wouldn't even try." 
+
+eludes its' r 
+Bob Behr d 
+Job in the r 
+Tcmplelon 
+
+In fact, he 
+thing a 
+
+
+
+production of 
+
+in this wee* end. 
+
+d an admirable 
+
+of Scottie 
+
+
+
+dcrplaving ol the dramatic 
+portions made you core 
+about Scottie. He made 
+Scottie more than Just a 
+maudlin figure. Con- 
+sidering Ihe script, that's a 
+remarkable lea t. 
+
+
+
+This production suffers 
+from the same problem the 
+film did — namely a soap 
+opera script Even though 
+Bernard Slade's script 
+works beller on stage than 
+
+same dime- novel plol 
+
+The plot deals with a 
+father wanting to reach out 
+to his son before he dies 
+We've seen this old pot- 
+boiler ol a plot many limes 
+before, and II isn't any 
+more palatable here. It's 
+only Ihe acbng ol a lew 
+performers that make this 
+
+Brad Beauchamp, as 
+Jud. Scot tie's son. is good, 
+and brings the right 
+amount of tire to his role. 
+Me works well with Behr, 
+and they manage to have a 
+convincing rapport. 
+
+Less convincing in their 
+roles are Orion Toepfer, as 
+Scoltie's friend and boss 
+Lou nlels, Janet Seiwert 
+Bell, as Gladys Petrcfli, 
+and Majory L. Dehorily as 
+Maggie Stratton. Scoltie's 
+ox-wife. 
+
+All of Ihese actors suffer 
+Irom the same problem, 
+they don't seem io gel Into 
+
+
+
+lackluster direction, the' 
+
+
+
+off hollow 
+
+The others in the east, 
+Nancy Andria. as Sally 
+
+McCombs. as Hilary, bring 
+life to their characters, tn " 
+they aren't onstage enough 
+lo save Ihe pluv from Its 
+stiffness. 
+
+This stillness can 
+attributed to Kevin B« 
+
+done a good Job wilh the 
+two lead characters, bi 
+the rest of the cast doesn 
+come lo life. As a nsul 
+the play Is subtle in som 
+spots, but overblown I 
+
+However, Boh Behr 
+performance saves th 
+play in many ways and ; 
+makes il worth seeing. - 
+Even though flawed, Ihlj 
+production of "Tribute" I 
+good overall, and one could 
+spend a worse evening Ir 
+the theatre. 
+
+
+
+Show reminiscent 
+original burlesque 
+
+
+
+Convict's freedom 
+proves tragic 
+
+
+
+Variety presented 
+
+
+
+fe P. Morgan would 
+rupl intermittently lo 
+ducc a sampling of Ihe 
+lo come Ihruughoul Ihe 
+
+
+
+Sunday. Feb 21. leaving a 
+
+
+
+leiqu 
+
+
+
+audience that 
+light' was coming 
+Ihe week and Ihe 
+
+
+
+entertained 
+
+The production fit well into manager wnnled to remind 
+
+the Embassy Theater style all ladies interested in 
+
+ol architecture The gold- becoming mothers to per- 
+
+fillgrcc-onrcd- velvet stage sonally meel with him in his 
+
+Iricate designs that cover Ihe Phil Ford, Jay Stuart, Som 
+walls of the Embassy were Kressen and Eddie Bracken 
+the pcrlcel accompaniment made up Ihe 'Outdoor Shed 
+lo the costuming of red, Quurlel" Ihol hod a 
+purple, and green velvets. 'disllnclive odor lo il.' The 
+Ihe old lace, many-leathered group quickly dwindled lo 
+costumes and the black net one us each was solicited by 
+stockings a thankful lady who en- 
+Eddie Bracken opened the couraged him lo "meet me 
+Memory ol round the corner, ip a half 
+
+
+
+the one about the classic 
+heroine winning Ihe money 
+to pay olf Ihe morlgage. thus 
+saving the day In the skit 
+Morgan had earned U000 by 
+working in Waynedalo When 
+Hraiken solemnly asked if 
+she had been goad. Morgan 
+winked and said "To earn 
+Waynedale I had lo 
+
+
+
+The ' 
+
+
+
+i burlesque 
+i some aspect of sex. 
+
+
+
+By CORDON L. BODIE 
+
+
+would have us believe thai 
+
+
+Staff Wriler 
+
+
+
+
+Jack Henry Ahbott, 38. has 
+
+
+Abbott is an intelligent. 
+
+
+spent Ihe majority of his lile 
+
+
+gilled writer seething with 
+
+
+incarcerated. As a child he 
+
+
+anger In Ihe book he writes: 
+
+
+
+
+
+
+reform schools By age IB he 
+
+
+
+
+was in prison, where he soon 
+
+
+
+
+slabbed an inmate lo death 
+
+
+society lakes for granted . 1 
+
+
+Abboll's book. "In The 
+
+
+have not Anger, angor I'n 
+
+
+Belly of the Beast," is 
+
+
+nut even aware of. always 
+
+
+gripping and awesome A 
+
+
+burnswithin me." This is the 
+
+
+compilation ol letters 
+
+
+grim adumbration ol Ab- 
+
+
+
+
+
+
+Mailer, Ihe book graphically 
+
+
+freedom. 
+
+
+
+
+
+
+Abbott has endured in 
+
+
+prison, largely due lo 
+
+
+prison: the bruial beatings, 
+
+
+Mailers efforts, in June. 
+
+
+
+
+IWl. lie lived in a halfway 
+
+
+
+
+hollic working as Mailer's 
+
+
+the starvation die Is that 
+
+
+research assistant. His 
+
+
+reduced him lo a living 
+
+
+Ireedom was sharply short- 
+
+
+skelclon scrounging for 
+
+
+
+
+
+
+
+
+Freely quoting men like 
+
+
+
+
+Kirkeganrd. Kant. Marx. 
+
+
+KichnrdAdan s chest, killing 
+
+
+and Niclische, amang 
+
+
+him In his book Abbott had 
+
+
+
+ByJACKGRAMLING 
+Staff Writer 
+
+II is a typical Thursday 
+nighl al The Fort. To the 
+north end of IPFW's 
+cafelena. a young man or 
+woman can be seen playing 
+
+igmg for his or her 
+
+
+
+nipper 
+
+Well 
+
+
+
+Ihe Euphonic 
+. IPFW's first 
+attempt at establishing both 
+
+center for students and a 
+place for struggling nighl- 
+
+Irade. 
+
+Instituted Just 
+semester, the Coffeehouse Is 
+sponsored by SUBOG, with 
+Kim Sylvesler In charge of 
+booking and promo lion. 
+
+Most of Ihc acls scheduled 
+this semester are o! the tolk- 
+blues- country ilk. although 
+
+listed as a "pianist, vocalist 
+and comedian." Probably 
+
+Mike Brewer, formerly of 
+the duo Brewer &amp; Shipley, 
+who scored a fluke hit in Ihe 
+
+
+
+
+rrtaln tonight at the "Euphonic Cofleehouie" In the 
+Fort ol die Wolb Memorial Union. I Photo courtesy of Coulter 
+
+
+
+
+
+
+
+
+
+and grind I 
+her flexible h 
+
+
+
+
+
+
+light Irom 
+
+
+
+playing cards o 
+
+
+
+wily. 
+
+
+
+arts 
+at a 
+£ £ glance 
+
+On the silver screen 
+
+The Cinema Center will be showing "To Have and Havi 
+Vol" starring Humphrey Bogort and Lauren Bacall. on Feb 
+!7al7ond9p.m .at the Fort Wayne Public Library. 
+
+...SUBOG will be showing the movie "Fiddler on the Roof" 
+it 7 p.m. and 9 p.m.. Sat. in the Walb Memorial Unior 
+
+
+
+Treading the boards 
+
+The Arena Dinner Theotrc will continue their producbon of 
+Tribute" with performances on Friday and Salurda ' " 
+jm a I UV Chamber of Commerce. 
+
+. .The Civic Thea Ire will open the production "Watch on Ihc 
+Rhine" on Feb 26 at 8 p.m. Pcrfar ma ncra arc scheduled for 
+Friday and Saturday at B p.m. and Wednesday and Thursday 
+
+
+
+atT:Mpm 
+
+
+
+if Performing Arts Center 
+
+
+
+Concerts of note 
+
+
+
+Perform a nee begins 
+
+..Alan Severs will perform with ihe Chamber Orchestra on 
+Sunday. Feb 2S loeclebrate the lOOUi birlhday of Stravinsky 
+and Ihc Hulb of Haydn's. Performance begi 
+the Performing Arts Center. 
+
+...The Embassy Theatre will present an 
+music, and sophisticated comedy when il hosts Sancuerand 
+t Friday. March 5. al t p.m. at the Embassy 
+
+
+
+Dances scheduled 
+
+
+
+The Wind Ensemble of Indiana University-Purdue 
+nlversily will host a square dance on Friday. Feb. 2S, " 
+
+1 Union T " 
+
+
+
+the rhyme. 
+
+Bracken dressed as Hor 
+tense, a one-lime bcauly whi 
+was reminiscing about he 
+more attractive days "whei 
+she walked through an arm? 
+tvirracksand all the private 
+
+ved al I 
+
+
+
+goodc 
+
+
+
+ling the 
+
+
+
+
+
+
+.efirsuv 
+
+
+
+ideologies help 
+expose Ihe depth of his 
+burning haired 
+. It Is Abbott's un- 
+controllable rage that has 
+crealed much of the hellish 
+conditions he has endured 
+
+trot, he will end up a bloody 
+
+
+
+Abbolt admits lhal he 
+
+
+
+
+lied the £i-vear old waiter. 
+
+
+
+
+! calls it a tragic mistake 
+
+
+
+
+e was recently found guiltv 
+
+
+
+
+
+
+
+
+Abbolt has great latent. 
+
+
+
+
+
+
+
+
+
+
+strapped around his neck 
+
+
+t,t,..i( . raging '"* "' 
+
+
+and wears a hi-hal cymbal 
+
+
+
+Euphonic Coffeehouse, said 
+Sylvesler. is lo present a 
+variety of musicians in a 
+coffeehouse atmosphere far 
+
+
+
+Corruption and redemption 
+
+
+
+Sylvester said, "colleehouse 
+atmosphere'' means that the 
+performers will sing and 
+play without a platform or 
+stage, thus placing them on 
+an equal level lo Ihe 
+
+
+
+Bloomington campus' Kiva 
+us examples "Maybe (be 
+coffeehouse can work on this 
+campus if people arc willing 
+
+
+
+
+
+
+lo demonstration , 
+i talking to the. 
+i themselves al . 
+
+
+
+twelve flulfy doves [lew out 
+
+her body Another en- 
+tertaining skit was "Mickey 
+and Dolly" played by 
+Michael Rollov He wore an 
+unorthodox coslume that 
+consisted of two people His 
+reel were Ihe feet of one 
+short dancer and his hands 
+were ihe feel of the second 
+short dancer The dancers" 
+heads met at Rollov' s waist 
+form Ihe 
+
+
+
+vL. BODIE 
+Stall writer 
+
+Jack Nicholson ha! 
+demonstrated many time: 
+
+
+
+his integrity. When Marie's 
+baby is stolen. Charlie feels 
+an inner need loget the baby 
+
+
+
+to make her choices, most of 
+
+the nightclub scene, ■ 
+
+'People aren't coming for 
+Ihe names," she admllted 
+"Mosl people have never 
+heard ol them We hope, 
+though, to get a variety of 
+musicians so that il's not all 
+Ihe same thing each week ' 
+Single performance lick els 
+can be bought at the Sweet " 
+Shoppc in the Wolb ; 
+Memorial Union, the day of | 
+Ihe show or at the door for | 
+two dollars. The price for 
+activity card holders U one 
+dollar 
+
+
+
+this 
+
+
+
+Lwa figures 
+
+
+
+cal 
+
+
+
+-crsatihty and depth. 
+
+
+
+, fighlmg , 
+
+:il milk,-? I 
+
+
+
+iValam 
+
+
+
+ii wife, 
+
+
+
+' Hen 
+
+
+
+Howcv 
+ould 
+
+
+
+lined spendthrift 
+"1 can't afford a dream 
+house." he tells Marcie. who 
+goes right on sinking Oiem 
+further mio debt with her 
+extravagant expenditure*. 
+lally. Charlie reluc- 
+
+
+
+Tcxas border patrol His job 
+is lo keep Mexicans from 
+illegally crossing the 
+
+
+
+tantly 
+partner's nelari 
+join in the "b 
+.muggling illegal 
+
+
+
+I offer t. 
+
+
+
+worth the Aciorsof lesser stature try 
+!t price, this - occasionally; Burl 
+it came to Reynolds usually ends up 
+n or for looking like an aclor'lrying 
+is money's lo da something la give his 
+character depth, and Clint 
+
+
+
+i Keitel is 
+
+Charlie's border patrol 
+partner. Cal. who gently 
+guides him into, corruption 
+However, when the dirty 
+deeds became mare than 
+Charlie has bargained for. il 
+is too late. Cat makes sure 
+that Charlie Is hooked in for 
+good. 
+A bcautilul. wait-like 
+
+
+
+improved the film by giving 
+more depth lo the Keitel 
+charade r, and more though! 
+to Ihe film's ending. 
+
+Harvey Keitel is probably 
+one of Ihe mosl underrated 
+
+probably best remembered 
+
+Martin Scorsese's "Mean 
+
+
+
+Nicholson's character, 
+ending is definitely the r 
+
+
+
+
+Join the people with 
+classic and enduring 
+style. Drive on 'over to 
+Walb 215 and talk to 
+Kathy Kelly and try your 
+hand at writing artistic 
+reviews. 
+
+
+
+e to be effective. 
+
+
+
+Youngsters learn self-assurance, 
+have fun at Indiana-Purdue 
+preschool program 
+
+
+
+FEBRUARY =5 19K - THE COMMI'MCATVIR - PAGES 
+
+Take the r« 
+
+Pepsi M* 
+Challenge 1 . 
+
+
+
+
+Have you had your 
+Typewriter serviced 
+recently? 
+
+You can't make a good impression if 1 
+your Typewriter doesn't. 5 
+
+This month you can take advantage 
+
+of our SERVICE SPECIAL and have £ 
+
+your Typewriter Cleaned. Oiled &amp; Ad- S 
+
+justed to Factory Specifications for f 
+
+only '99.95! We are located about 3 
+
+10 minutes away from campus on 5 
+North Wells. Or, if you like we will 
+
+pick up your Typewriter from your ^ 
+
+home or office and deliver it back to &gt; 
+
+you at no additional charge when our 5 
+
+work is completed. ? 
+
+Give us a call or stop in, we ap- £ 
+predate the opportunity to serve S 
+
+
+
+| Gale Mead and Co. 
+
+
+
+• Feb. 26 S.27 
+Kathleen Hill &amp; 
+Larry Williams 
+Blues &amp; Jazz 
+
+"Amateur Night Every Monday' 
+
+Hours: M-Th. 11 a.m.-l 2 midnight 
+Fn.-Sat. 1 1 a.m.-1 a.m. 
+
+
+
+PAGES -THE COMMUNICATOR- FEBRUARY ». IM2 
+
+sports 
+
+Men's v-ball team 
+ready for action 
+
+
+
+Arnie Ball's men's volleyball 
+■quad is ready to kick this 
+
+
+
+matches 31 the Ohio Suit 
+tourney earlier this month 
+Friday nighl Is the home 
+debul (or thu year's edition 
+ol men's volleyball ol IWW. 
+"Wove been Inactive since 
+Ohio Slate and these guys 
+are ready," Ball said "lis 
+
+
+
+Is squad played his lamilia 
+
+rgc Williams College plan-r, *ill 
+
+talon. Illinois last aspect in kr 
+
+nd uere not expected get out d( his 
+
+ro to Fort Wayne until th&amp;. guy-.. 
+
+is morning The trip r m uti cm 
+
+a tiring one. but Ball ability." 
+
+
+
+said, "and 
+
+
+
+By JEFF MILLER 
+Stall orltcr 
+
+Workman. IPFW 
+coach, (eels that 
+
+
+
+his u-oops have Q f the mosl impressive 
+
+ie past few weeks aspects o( the upcoming 
+
+nunce back lor season IPFW will be playing 
+
+ighls big home such powers as Ohio Stale, 
+
+against Toledo Toledo. Ball Stale, Notre 
+Dame, Purdue. Michigan. 
+
+will come m with and the University of On- 
+
+
+
+
+Men's b-ball 
+season concludes 
+
+
+
+Intramural program 
+
+
+flourishing at IPFW 
+
+
+By SANDY LOZANO 
+
+
+wcrcon additional three 
+
+
+program is designed (or 
+
+
+
+
+
+
+participation; those who 
+
+
+Many students are 
+
+
+
+
+want to watch the games 
+
+
+taking udvontagc ot 
+
+
+All lagelhcr there are 25 
+
+
+
+
+IPFW* iniramurol 
+
+
+
+
+
+
+prog/oin which oilers a 
+
+
+
+
+
+
+social atmosphere Ac- 
+
+
+(acuity members and 
+
+
+Endlsey said Ihey (ell the 
+
+
+
+
+
+
+
+
+Intramural director, 
+
+
+really enjoy the activity, 
+
+
+
+
+participation Is In- 
+
+
+according In John Knd 
+
+
+
+
+creasing, noticeably in 
+
+
+
+
+
+
+racquet ball. 
+
+
+
+
+
+
+The increase has been 
+
+
+
+
+
+
+attributed to the new 
+
+
+
+
+
+
+courls in the Alhleltc 
+
+
+has been pushed back by 
+
+
+
+
+Center. 
+
+
+
+
+
+
+
+
+
+
+
+
+wanting to play 
+
+
+seems to be popular. 
+
+
+live without the practice 
+
+
+rauquclball had lo travel 
+
+
+
+
+
+
+to various area health 
+
+
+
+
+team competition. 
+
+
+centers. This season there 
+
+
+Endsley said he (eels 
+
+
+With such a diversity ol 
+
+
+
+
+
+
+sports being offered, it 
+
+
+males participating in the 
+
+
+
+
+
+
+sport at the Athletic 
+
+
+coordinators have done a 
+
+
+
+
+Center The schedule o( 
+
+
+very good job The only 
+
+
+
+
+games has been posted 
+
+
+complaint has been Ihfll 
+
+
+
+
+
+
+there isn't room for 
+
+
+
+
+
+
+spectators, he said. 
+
+
+
+
+
+
+But Endsley said he 
+
+
+
+
+llcipation was also on the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Above IPFW'* C 
+College. (Below J 
+season this past : 
+
+
+
+mda). I Photo by Jim Hay I 
+
+
+
+seline drive In a recent game agalns 
+impcr from thelopof the key. IPFlVcn 
+
+
+
+frustration, 'The many 
+
+injuries. Ihe players 
+
+. Ineligible because ol low 
+
+
+
+Ulilmng. lor the first lime, S 
+lo 6 partial scholarships. 
+Workman has begun 
+scouring the high school and 
+junior college ranks to Im- 
+pros-e on his learns past 
+
+
+
+are looking (or sue. muscle, 
+speed, and quickness," The 
+
+characterised by Rinard, 
+who. at 6'1", Is the team's 
+leading rcbounder. 
+
+These needs must be filled, 
+as IPFW will be elevated lo 
+Division Two new season. 
+This will introduce a more 
+
+
+
+Tusk 
+
+
+
+Bill 
+
+
+
+
+1 1 ling, along with the 
+young and talented players 
+enpecled lo return. Work- 
+man said he feels Ihe 
+Irons ition will go smoolhly 
+and result In a more sue- 
+ccsslul basketball program 
+
+
+
+NBA gets new blood 
+
+
+
+Hi MRHAfcXFRANKE 
+
+Sports Editor 
+When the National 
+
+
+
+
+baikelbainn Ihe Motor City. 
+For once. Detroit can be 
+proud o( lis sporls franchise 
+
+
+
+Indoor soccer 
+debuts here 
+
+
+
+it-cver indoor Sunday's &gt; 
+
+
+
+in begins ol 5 
+
+
+
+College. Grace Colli 
+Indiana Tech. No 
+Dame, North wes 
+
+the Michigan "Kickei 
+
+
+
+Indiana University 
+
+Vcjgley will bethegucsl 
+ui honor al a reception on 
+Friday, Feb. m p igjj, 
+
+
+
+The cash bar reccpllun 
+is hosted by Ihe 111 
+Alumni Association und 
+Ihe ID Alumni Club ol 
+
+
+
+GLENWAY 
+BARGAIN 
+CENTER 
+
+3820 COLDWATER ROAD 
+
+ACROSS FROM GLENBR00K PEMNEVS 
+
+
+
+THE FORT 
+
+
+
+ARA Food Services • Ground Floor Walb Union 
+
+
+
+Spud Day 
+
+70 c 
+
+Wed., March 3 
+
+Choice of Toppings 
+
+
+
+Submarine 
+Special 
+10 
+
+
+
+99' 
+
+
+
+Tues., March 9 
+
+
+
+The 
+
+
+
+V® 
+
+
+
+^o Coffeeho u , e 
+
+
+
+Presents 
+
+
+
+'*.$• 
+
+
+
+MIKE BREWER 
+
+Songscript &amp; Composer 
+TODAY 
+
+
+
+In 'The Fort' 7:30 p.m. 
+s 1 00 [ACH, s 2 [NACH] 
+
+
+
+WORLD FAMOUS 
+
+
+
+"tfafaep't Pa#' 
+
+
+
+
+
+
+936 GUuvok iftW. TUnrfl 
+
+K-mart Plaza East 
+
+MILE NORTH OF INTERNATIONAL HARVESTER— NEXT TO MOTEL 6 
+422-7124 11:OOavemthm3:OOayem 
+
+
+
+</pre>        </div>
+      </div>
+    

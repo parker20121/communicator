@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Webharvest script used to generate configuration file containing all the 
+   generated article metadata, which will be used to create the index file.
+-->
+<config>
+	
+	<file action="write" path="c:/Projects/communicator/corpus.xml">
+		<template>
+		&lt;?xml version='1.0'?&gt;
+		&lt;ipfw-communicator&gt; ${sys.cr}${sys.lf}
+		</template>
+	</file>
+	
+	<loop item="link">
+        <list>
+            <tokenize>
+            	<file path="c:/Projects/communicator/communicator-links.txt" action="read"/>
+            </tokenize>
+        </list>
+        <body>
+        	
+        	<var-def name="item" overwrite="true">
+				<script language="beanshell" return="name.toString()"><![CDATA[
+					index = link.toString().lastIndexOf('/');
+					name = link.toString().substring( Integer.valueOf( index )+1 );
+				]]></script>
+			</var-def>
+			
+        	<var-def name="metadata" overwrite="true">
+	            <html-to-xml>
+				    <file action="read" path="c:/Projects/communicator/metadata/${item}"/>
+				</html-to-xml>
+			</var-def>
+
+				<!-- Get publication_date -->
+			<script return="pub_date"><![CDATA[
+				start_index = metadata.toString().indexOf("The Communicator</span>");
+				end_index = metadata.toString().indexOf(")", Integer.valueOf( start_index ) + 1 );
+				mid_index = metadata.toString().indexOf("(", Integer.valueOf( start_index ) + 1 );
+				pub_date = metadata.toString().substring( Integer.valueOf( mid_index )+1, Integer.valueOf( end_index ) );
+			]]></script>
+			
+			<regexp>
+			    <regexp-pattern>(\d\d\d\d)</regexp-pattern>
+			    <regexp-source>
+			        <template>${pub_date}</template>
+			    </regexp-source>
+			    <regexp-result>
+			        <var-def name="year">
+			        	<template>${_1}</template>
+			        </var-def>
+			    </regexp-result>
+			</regexp>
+		
+			<var-def name="text_page" overwrite="true">
+				<file action="read" path="C:/Projects/communicator/text/${item}_djvu.txt"/>
+			</var-def>
+ 			
+				<!-- Get text file of communicator content -->
+			<var-def name="communicator_text" overwrite="true">
+				<script return="raw_text"><![CDATA[
+					start_index = text_page.toString().indexOf("<pre>");
+					end_index = text_page.toString().indexOf("</pre>", Integer.valueOf( start_index ) + 1);
+					raw_text = text_page.toString().substring( Integer.valueOf( start_index )+5, Integer.valueOf( end_index ) );
+				]]></script>
+			</var-def>
+	
+				<!-- Save article text to disk -->
+			<file action="write" path="c:/Projects/communicator/corpus/${item}.txt">
+				<template>${communicator_text}</template>
+			</file>
+						
+			<var-def name="has_soccer" overwrite="true">
+				<script return="found"><![CDATA[
+					if ( text_page.toString().indexOf("occer") > 0 ) {
+						found = "1";
+					} else {
+						found = "0";
+					}
+				]]></script>
+			</var-def>
+			
+			<!--
+			<script><![CDATA[
+				initial_index = metadata.toString().indexOf("Volume:</span>");
+				end_index = metadata.toString().indexOf("</span>", Integer.valueOf( initial_index ) + 20 );
+				start_index = metadata.toString().indexOf("value\">", Integer.valueOf( initial_index ) );
+				volume_text = metadata.toString().substring( Integer.valueOf( start_index ) + 8, Integer.valueOf( end_index ) ).trim();
+				separator = volume_text.toString().indexOf(";");
+				volume = volume_text.substring(0, Integer.valueOf( separator ) );
+				issue_text = volume_text.substring( separator + 2 );
+				number_separator = issue_text.toString().indexOf(" ");
+				issue = issue_text.toString().substring( number_separator ).trim();
+			]]></script>
+			-->
+			
+				<!-- Build corpus output -->
+			<file action="append" path="c:/Projects/communicator/corpus.xml">
+				<template>
+					${sys.tab}&lt;communicator year='${year}' volume='${volume}' issue='${issue}' soccer='${has_soccer}' date='${pub_date}' 
+					${sys.tab}${sys.tab}online='http://archive.org/stream/${item}' 
+					${sys.tab}${sys.tab}metadata='${link}'
+				    ${sys.tab}${sys.tab}text='http://archive.org/stream/${item}/${item}_djvu.txt'/&gt; ${sys.cr}${sys.lf}
+				</template>
+			</file>
+        </body>
+    </loop>
+    
+	<file action="append" path="c:/Projects/communicator/corpus.xml">
+		<template>&lt;/ipfw-communicator&gt;${sys.cr}${sys.lf}</template>
+	</file>
+	    
+</config>

@@ -1,0 +1,1525 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i5indi/communicatorv8i5indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i5indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i5indi">The Communicator</a>"
+          </h1>
+          <pre>^ISSJV^r^ 
+
+
+
+® TH^COMMUNICATOl 
+
+
+
+VOL. VIII, ISSUE 3 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY at FORT WAYNE 
+
+
+
+itfns, 
+week 
+
+
+
+Page 2 
+
+
+
+Pages 
+
+
+
+
+
+
+y4 
+
+
+
+Page? 
+
+
+
+Page 7 
+
+
+
+Mondale, Rosalynn Carter 
+whistlestop through city 
+
+
+
+By LARRY MCFADDEN 
+
+
+
+n. Senator Vance Hartke. running for blundersof the campaign in saying "you're }W^^^ ^ 
+
+w? Tto '* y^ar. roamed through the telling me. you- telling America, that you k^ * -* - 
+
+;ertainment was provided by a country- by a peoples' president and this lime named *' flHf 
+
+k group D.J. &amp; the D.J. s. ■ Tabernacle Jimmy Ford." Mondale quickly recovered lL, ^^\ 
+
+
+
+'^rf^^-^% 'T*"^ "^^"TJi^^i ™-'l^^2P'; ^"'"'^'^ 9"!^*^' ^'''^' ^"^ '"Sana's number mid corrected his mistake He 
+
+paign as a campaign for the 
+■ spoke briefly detailing the people, 
+
+;eds of the people and voter At one point in his speect 
+
+ampaigning and said she was picture in a newspaper showing 
+noved in talking with the Ford standing beside a cow. sayi 
+
+group disrupte 
+
+
+
+wife, Rosalynn. Also among the dignitaries days of 
+The Democratic Party; Edward Roush, people 
+
+
+
+
+
+
+
+^&lt;^&gt;^&gt;'' 
+
+
+
+. God is a As Robert SLauss, acting as trainmaster. -r 7- « -■ -■ « 
+
+lis lime." shouted 'all aboard,' the twelve Amtracki wL Cft l-Y1 1^1 It O V* ^^loi'TWC 
+
+prophetic coaches filled with politicians and news IVctllllllKclF UcllIllS 
+
+soon be people got underway bound for Chicago. 
+
+.„.»„ s,,pp,...o.„.™..,«.ps...,„... tenure denied twice 
+
+
+
+New English department at IPFW 
+
+
+
+' campus this Fall as a 
+
+
+
+
+
+
+i Chancellor satisfactory." 
+
+
+
+the Faculty Review Committee. 
+
+
+
+as Composition. Faculty 
+
+Graduate Sti " 
+
+ess, Counsellin 
+
+
+
+eher Though a Ph.D. can be &lt; 
+
+
+
+m^T^&lt;^r wd!, drnveu dt uirougn cixssroom Effectiveness, Counselling English program may continue to pursue a '""^'' ' 
+
+^stated S"" Henry To^zickT^liewry ^'■^'^"&lt;=^S' Student Affairs. Library Affairs, degree from Purdue but have the option to ''^^^^ 
+
+
+
+
+. judge whether the appropriate 
+
+
+
+TFI focuses 
+'cSaS» on enviroment 
+
+
+
+judgement was that important criteri. 
+nol adequately met," stated Borl 
+specifying the areas of "scholarly a 
+
+
+
+"Nature; Human And Otherwise." is 11 
+by Theatre For Ideas. Terry Doran, direct 
+
+
+
+HENRY KOWALSKI 
+
+
+
+Panel to meet, discuss Prexy debates =^==2,:;,;::",^. == 
+
+^ V Kamnikar declared classroom perfor- WolfLake.Ind. 
+
+
+
+Environmental Center, 
+
+
+
+ByTlM DUCEY 
+
+
+
+B Presidential debates. The date 
+
+
+
+F these university humanities professor j 
+
+
+
+, Wilkes, in discussina IPFW involve- 
+the political balance of the local panel 
+nust be of voting age, 
+
+
+
+Communication Department 
+opportunities expanding 
+
+
+
+d location-and watch Any IPFW b 
+
+
+
+1 Department for the Resource C 
+
+
+
+ng installed in the Learning 
+nter: these will provide excel- 
+
+
+
+am. We are organizi 
+let Latz. ICH alandV 
+
+pr^^hlol m restroom s pies 
+
+
+
+s Community Service Corps - Similar expansion is taking 
+
+
+
+faciUUes. Dr. David 
+
+
+
+urged IPFW students to participate. 
+
+
+
+Soap and water recommended 
+
+
+
+hour, to perform a graduated o 
+
+
+
+Benjamin Becker and his 39 microbiology 
+
+
+
+I the televised washing with soap and v 
+
+Professors who have agreed to act as bacteria and viruses spi 
+
+group leaders include: Dr. aiffordScott of fecal-oral root," Becke 
+
+the History Dept., Dr. Steve Harroff of the bacterial are causes of thi 
+
+Dept. of Foreign Languages, Dr. PhiL or intestinal tract disease 
+
+Headings of the English Dept., Dr. Michael of diarrhea.headacheand 
+
+
+
+e IPFW buildings, Beckers 
+
+
+
+
+EDITORIALS 
+
+Panels to evaluate debates 
+
+
+
+cQpimQii 
+
+
+
+THE COMMUNICATOR ^ni/lb 
+
+
+
+W) 
+
+
+
+in an activity concerning the presidential campaign 
+
+Dr. Ray Wilkes, assistant lo the chancellor, has 
+agreed to form panel discussions evaluating televis- 
+ed debates between Jimmy Carter and President 
+Gerald Ford. The first debate is scheduled for this 
+evening. The first panel discussions will immedia- 
+tely follow the broadcast, and should prove to be 
+
+
+
+■ involved in 
+activities at IPFVV, here is your 
+chance. There are no requirements for participa- 
+
+person should be of voting age. 
+
+Portions of the panel discussions will be used in 
+Chancellor Donald Schwartz's weekly radio pro- 
+gram, broadcast each Sunday, from 8:30 to 9:00 
+p.m. on WPTH-FM. Channel 95. 
+
+If you are concerned with tne political campaign 
+of 1976 in any way, then participation in one of the 
+panel groups should be a must. A number of 
+distinguished professors from the IPFW campus 
+will act as moderators of these discussions. The 
+panels will be made up of a mixture of Democrats, 
+;. Here is a chance to 
+
+
+
+
+Sears 
+
+
+
+3 things that every 
+college student should know: 
+
+
+
+
+-• You can SAVE *5 on this 
+slide-rule calculator 
+
+
+
+SALE 14^Z„,„ 
+
+
+
+^« You can SAVE *40 on our 
+Electric 1 typewriter 
+
+SALE 99?J.,.. 
+
+
+
+O • \ou can SAVE *4 on Sears 
+carry-pack shelving 
+
+SALElO^l,., 
+
+
+
+SKAItS, )i()KrH&lt; 
+
+
+
+:h &lt;).l„li.i- 2. 1976 Ask olionl Srais Ciwlil Plans 
+
+&lt;:0. Avdilalil.' in lni,;.i- Seals K.-lail Sloirs anil Calalos 
+
+
+
+How does IPFW stand - 
+
+for 'old' children or new jail 
+
+
+
+e understanding of our social Everyone w 
+
+
+
+average person. 
+
+
+
+j closing wi'h the absurd proposal of 
+When I placing all the children we ^eal 
+
+
+
+o place our problem chldren inj 
+Is and glass windows. 
+
+
+
+appropriated our money else- 
+The County Council has refused 
+
+
+
+y children our County 
+
+
+
+Children become good people b 
+
+
+
+: they medical, dental, c 
+
+
+
+We are blessed with the 
+gup shortly. IPFW should 
+g us, the people, get contfi^j 
+
+
+
+Debates to deal with issues 
+
+
+
+a 
+
+^^^ 
+
+
+
+running for president, could alter ABORTION : Ford b 
+
+
+
+
+
+
+upward. Each election 
+
+
+
+y budget and spending c 
+
+
+
+Kiss does nothing new 
+
+
+
+English pubs, Very differ 
+
+
+
+ed first-hand wlOi; 
+ig Ford and Cartei* 
+
+
+
+
+
+
+kidding! To call Kiss 
+
+
+
+I love for everyone and turn- brandofslageshow; 
+
+the spotlights on the crowd And I will argue ths 
+
+y'Uimg Kiss iionally original. The two things even call it m 
+
+been done could probably only be said about The Comm 
+
+
+
+""COMMUNICATOR 
+
+John Logan, Publisher 
+
+Editor Tim Ducey 
+
+Managing Editor Gii Bierman 
+
+Campus News Editor Katie Braunlin 
+
+Assoc. Entertainment Editor Phil Kessen 
+
+Assoc. Entertainment Editor Therese Perjak 
+
+Photo Editor Mark Van Tilburg 
+
+Sports Editor Rollie Clements 
+
+
+
+c^ 
+
+
+
+THE COMMUNICATOR 9/2Znb 
+
+
+
+InsMe^NewsD 
+
+
+
+Bookstore finds new home 
+
+
+
+Services central to campus life 
+
+
+
+
+THE COMMUNICATOR 9/23/76 PAGE . 
+
+
+
+SEE THE INCREDIBLE 
+
+FULL LINE OF 
+HARMON/KARDON EQUIPMENT 
+
+SEPT. 27, 28, &amp; 29 in the 
+STUDENT UNION LOUNGE 
+
+
+
+The Harman Kardon ST-7 
+plays your discs the way 
+
+masters are cut. 
+
+In a straight line. 
+
+
+
+Master discs are cut in a straigtit line from edge to center. With 
+no tracking error. 
+
+Ttiat's exactly how the Rabco ST-7 plays your record. In a 
+straight line from edge to center. With no tracking error. 
+But that's only the beginning. The arm, carried by the remarka- 
+ble "rolamite" bearing, moves across the disc in a straight line. 
+The result is a cascade of zeroes. Tracking error? Zero. Skating 
+force? Zero, Stylus overhang? Zero. Vertical force? Zero. 
+Horizontal force? Zero. 
+
+Simply stated, the nevi( ST-7 provides a way of playing music in 
+the home that makes conventional pivoted arm turntables 
+obsolete. 
+We invite you to a demonstration. 
+
+
+
+
+The harman/kardon Rabco ST-7 
+
+
+
+The receiver 
+
+that matches the 
+
+square waves of the 
+
+finest amplifiers. 
+
+
+
+The new Harman Kardon 430 displays square wave 
+H response that is indistinguishable from the finest power 
+amplifiers A listening test will reveal that the 430, in all but 
+absolute power levels, is the sonic equivalent of fine individual 
+component systems. 
+
+And the 430 AM/FM tuner and preamplifier are consistent with 
+the outstanding performance quality of its amplifier. 
+We invite you to listen to this remarkable receiver. It will demon- 
+strate that quality need not be sacrificed to achieve the 
+economy of size, convenience and price. 
+
+
+
+
+The harman/kardon 430. 
+
+
+
+The 
+
+Harman Kardon A401. 
+
+A serious instrument 
+
+that will make you smile. 
+
+
+
+less than 5 microseconds and a square wave HH tilt of less 
+than 5 degrees at 2OH2. 
+
+II that sounds reminiscent of Citation components, you're right. 
+The A401 is a direct descendent of the research and develop- 
+ment of those renowned instruments. It can handle a demand-" 
+ing speaker system with power to spare. 
+And It'll make you smile because it leaves money to spare for 
+components good enough to match it. You'll find them f" 
+
+
+
+
+The harman/kardon A401. 
+
+
+
+CREDIT? 
+
+
+
+THE GLENBROOK MALL 
+
+
+
+1-219-423-3433 
+
+
+
+• 
+
+
+ETORT WAYNE 
+
+1 ELECTRONICS 
+
+
+• 
+
+
+
+THE COMMUNICATOR 9/23/76 PAGE 5 
+
+
+
+I ELECTRONICS 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+
+
+
+
+H 
+
+
+
+FACTORY REPRESENTATIVE 
+
+ON HAND FOR YOUR 
+
+TECHNICAL QUESTIONS 
+
+
+
+SPECIAL TAPE SEMINAR 
+
+COMPARE YOUR "FAVORITE" 
+
+BRAND RECORDING TAPE WITH 
+
+THE BEST. TDK SUPERAVILYN. 
+
+
+
+Reviewers called the 
+
+HK1000"thebestsofar." 
+
+Go one better 
+
+with the HK2000. 
+
+
+
+The remarkable sound reproduction system of the Harman Kar- 
+don HK2000 cassette. deck (with the Dolby* noise reduction 
+system) gives you crisp, clean tapes that are virtually indist- 
+inguishable from those of the finest reel to reel tape systems. 
+Wow and flutter are reduced to 0.07% with a remarkable new 
+tape transport system. The signal that is fed into the HK2000 is 
+reproduced with almost startling fidelity. 
+We're proud to offer this excellent unit to our discriminating cus- 
+tomers. We want you to hear it. When you do, you just may feel 
+like you've been transported to the concert hall. 
+
+
+
+
+The harman/kardon HK2000. 
+
+
+
+First Presbyterian ( tk /^ I J 
+
+Theatre opens season II he i^^al e nCl Q Il 
+
+.njy loves ^p«iryu&gt;d Thursday, 9/23 
+
+
+
+THE COMMUNirATOR 9/23/76 
+
+
+
+3 ^5'^-=== 
+
+
+
+ByLARRV PLATTER 
+
+
+
+Soturda/, 9/25 
+
+
+
+s of sod- Friday, 9/24 
+
+
+
+Monday, 9/27 
+Tuesday, 9/28 
+
+
+
+Friday, 9/29 
+
+
+
+stereotyping: Tom walks li 
+
+
+
+well handled in "Tea and Sym- 
+
+
+
+CAMPUS BULLEFIN BOARD 
+
+
+
+Kuhne here October 1 
+
+
+
+1 Sept. 2 anti Oct 1 from 
+He will be giving information aboi 
+andschediSesinFortWaynr — 
+in tile mall between the til 
+
+
+
+ibrary and the Student 
+
+
+
+Deaf workshop this week 
+
+An Interpreter Training Workshop open to all 
+terested deaf or hearing persons will be held 
+
+
+
+mgton, 
+:onege 
+
+
+
+Student Union ballroom a 
+
+The Workshop, funded by the National Interpre- 
+ter Training Consortium, is sponsored by 'IPFW. 
+Two workshop leaders, both deaf, will be featured 
+on the two-day program. They are Willard Madsen 
+and Larry Burftol^T " ' " 
+D.C.theo. 
+for the deaf 
+
+Dr. Ma ' 
+Program 
+
+
+
+3 only degree granting 1 
+
+n is director of tf 
+i professor 
+
+
+
+the Sign Language 
+nglish A GallaudeL 
+. author of "Conversational Sign 
+Languagell" and a widely distributed poem, "You 
+Have To Be Deaf To Understand." 
+
+Coordinator of the workshop is Mrs. Grace 
+Nunery, who currently instructs a credit course 
+entitled "American Sign Language" at I.U.-Pur- 
+due. The workshop, available to persons whether 
+
+
+
+language class, wi 
+
+Friday, and 9 a .. . , 
+
+registration fee of $2 is payable 
+
+
+
+p.m. Saturday. 
+
+
+
+O'Hear directs studies session 
+
+
+
+Trans itional S tudies will offer two s 
+lions on improving study skills 
+ind Septemlier 2? at ' ' 
+
+
+
+September 27 
+
+tier 150. On 
+
+27, Dr. Mike O'Hear will demonstrate 
+ing more out of reading a 
+mber 29, the sugiecty will be 
+Mtes. feach s^ion will run 
+lUtes. There wiD be additional 
+, , dents' specific textbook and 
+akmg problems. These sessions are free for 
+na Purdue students. 
+
+
+
+textbook. On Sept&lt; 
+about thirt_y-five mi 
+
+
+
+Communications sposors debates 
+
+The Seventh Annual IPFW Mastodon High School 
+Debate workshop and student congress wffl be held 
+on Saturday, September 25, 1976, The Department 
+01 Communication expects between 150 and 200 
+high school students to participate in the activities 
+
+The workshop will be highlishled by an expert 
+panel discussion of penal reform in the Umted 
+States. The panel will include: Jerome Henry, 
+former warden at Pendelton- David Eis, Northei'n 
+
+
+
+Indiana Director of PAC^ (Public 'Action ,„ 
+
+Correctional Effort); and_ Dr. Scott Decker 
+
+■ Public 
+
+
+
+Assistant Professor in t 
+
+
+
+and Environmental Affairs. fpFW. ...c ua„„ 
+discussion will take place from 9:30 to 11 :00 am in 
+Room 101 Neff Hall. Any interested IPFW student 
+
+A second feature of the workshop will be a 
+dimonstration debate between experienced high 
+schopl.debate teams from ChMterton High School 
+and Lakeland High School. The debate will take 
+place at 1 :30 p.m. in Room 101 Neff Hall. 
+
+The debate workshop is sponsored by the 
+Department of Communication and the Purdue 
+Indiana Student Speaker's Association. The 
+workshop director is Dr. Richard Hess. Students 
+
+
+
+Campus social notes 
+
+Bud McComb, Physical Plant employee senice 
+(A wil be leaving IPFW September 24. The 
+cComb's will be moving to Ohio. 
+The University Club Membership Picnic will be 
+
+
+
+McComb' 
+
+TheUn_ , ..._ , 
+
+held Fridav. September 24, 
+the Ri\cr Lodge ' "' * 
+served from 5:30- 
+sinKle, $2:00 family 
+
+Please pay fees fi 
+
+
+
+Park. Food will be 
+
+
+
+VAT applicant testing soon 
+
+Veterinary Aptitude Test ( VAT) 
+
+hose student desiring to apply 
+School in the Fall of 19ft need to fal 
+November 6. Be 
+; IPFW campus. 
+
+
+
+^^^^^S^ 
+
+
+
+
+
+
+--^™„PueM£T 
+
+
+
+
+B^.-SOB 
+
+
+
+
+
+
+SrUDEm AfFIUATe«S OF -THE 
+AlAEEICAM Ge^NMCAcSoClSTV 
+
+\-.30- 2.:io 
+
+
+
+CMCtSllAMS IKOOtUep 
+
+
+
+(t). 7 the communicator imnb 
+
+
+
+EntertaiTrment 
+
+
+
+J 
+
+
+
+Rocks' best Aerosmith album 
+
+
+
+Political trickster Tuck 
+plays to small crowd 
+
+
+
+
+cSparts: 
+
+
+
+THE COMMUNICATOR 9/23/76 
+
+
+
+W) 
+
+
+
+
+Played on new courts here Golf team cloSCS 
+
+Women \ men 's tennis ^^'^ four matches 
+
+squads both win matches piST^rrrir.;:: 
+
+A gram. Dr. Ed Leonard's team 
+
+
+
+Rudrow and Rick imel. 
+
+squad are Greg Ward, Dale 
+
+Trainer. Karen Van Corder, 
+
+
+
+Greiner (Ml over Camie Swan- singles m 
+
+son; Connie Wharton &lt;IP) over win. Fini 
+
+Donna Shigley; Diane Mondlni '^^t two 
+
+(IP) over Deb Alexander; Patty provide! 
+
+Reed (M) over Debbie Cantwell; results fo 
+
+Katie Klein (IP) over Marlene Singles 
+
+Rapp; Lori Fitzwilliam (IP) "^^f -^"^ 
+
+Greiner-Shigley (M) over Swan- 
+son-Wharton; Mondini-Cantwell 
+
+
+
+neasy local squad competed 
+
+
+
+Regional Campus Golf Cham- Geutile and Larry 
+oionship. Results wer '""" """ 
+
+Saturday will see tl 
+
+
+
+Geoff 
+The Fall Golf program is only 
+
+
+
+iz (IP) over Larry Bonifield; Tuesday I 
+
+
+
+Freaks rap Fuzz 46-6 in Bull Bowl 
+
+
+
+Atwood- (IP)overD.ckS 
+Wagner Mm™ (IP) ov 
+
+Coach Ben Becker was pleased Doubles; Steislta-Sullivan (IP) College-Marion College I 
+wilh the way his learn shook oH over Stein-Bonifieliii Gregg- tlonal Tournament. Ken Ladd • ^ .■ . pj 
+
+their firsl game Jitters to produce |'„"^'^S ^?,'; ^°f '^f "^ was tournament medalist wilh a by Continuing td 
+scores were Jim Eshcoff 80, . 
+
+
+
+Ladd 83, John Wilson 8 
+Two-year lettermar 
+
+
+
+i third annual Bull terback Craig ( 
+
+
+
+e Fuzz. Numer- caught by a Fuzz ri 
+
+
+
+e and finaUy Bible College. Becker is also College and Tuesday at Hunting- 
+
+
+
+Education will offer I 
+
+
+
+d Tanner and Mark 
+
+
+
+ne bVg!M3amteicap°t^?n"'tti'e Stand 0-3 On year 
+
+hi^ Soccer squad drops third 
+
+
+
+.ruising of ^at started out 
+*f playing, squad is rapidly t 
+
+
+
+GALS &amp; GUYS 
+
+
+
+
+BIG DISCOUNT PRICES 
+
+FAMOUS BRANDS 
+
+JEANS JEANS SKIRTS 
+
+BIBS JACKETS 
+
+JUMPSUITS 
+SWEATERS GAUCHOS 
+
+DRESS SLACKS PAINTER PANTS 
+
+TOPS OF ALL KINDS BOTH 
+GUYS &amp; GALS. 
+
+
+
+Glenway 
+
+Bargain 
+
+Center 
+
+
+
+3820 CoWwater Road 
+
+Across from the Glenbrook Penny's 
+
+9 SUNDAY 12 - 
+
+
+
+The Book 
+Rack 
+
+
+
+IV'-^msjM 
+
+
+
+MON-FRI 
+
+lOam-7-pm 
+
+SAT 
+9am-5pm .. 
+
+II 1 
+
+
+
+. The game figured to the game for Tech at the 1 
+
+
+
+CLEARANCE SALE 
+10-50% OFF 
+
+FAMOUS BRAND TENNIS EQUIPMENT 
+
+
+
+famous name racquets 
+
+
+
+-10 percent OFF &lt; 
+
+
+
+Famous name tennis stioes 
+
+
+
+tSO percent OFF on these name brand racquets: Penn, 
+Spalding, McGregor and Bancroft. These are i ' ' " 
+ends; some pre-strung. 
+
+
+
+
+OPEN 10-3PM MONDAY— FRIDAY 10-4PM SATURDAY 
+
+
+
+CLEHSMTSe,....™, 
+
+
+NFL Bears off 
+
+
+to fast start 
+
+
+leareirLTatfaSiirwIS^rr™ 
+questions. For example: Oould the 
+Washington Rerkkins finally be loo old?. 
+
+^-^■^■s'^Ltrwifs 
+?;£„«; r'the°Br,r^"? '° " 
+
+
+East: Central: West: 
+
+JLfs"' ^nTot. ^SclLo 
+3 New York Detroit New Orleans 
+
+
+are meaningless, the Bears opened their 
+
+
+American Football Conference 
+East: Cenlral: West: 
+
+3Mtami° alvS" ^Dii^o 
+
+4 New England Honston Kansas Qty 
+
+5 New York Tampa Bay 
+
+
+£H£5""~« 
+
+
+-""-""-"--'"" 
+
+
+
+
+INTRAMURAL RECAP 
+
+Tennis Golf Flag FootbaU 
+
+snt has ended. There intramural goH tournament. The opened last Sunday with 4 gai 
+Mens teams. 8 Mixed deadline is Sept. 24. The touma- Defending champion Stone 
+
+
+
+JUNIORS AND SENIORS: 
+
+Looking for a part-time job 
+with good Income, flexible hours 
+and experience 
+in the business world? 
+
+The William E. Richards Agency 
+Northwestern Mutual 
+Call Bill Richards 743-4711 
+The Quiet Comjjany 
+
+
+
+CLASSIFIEDS 
+
+
+
+"HOBBIES AHEF 
+
+
+
+PHILS H OBB Y SHOP | 
+
+Radio Control Equipment and Service 
+
+Engines, Ports and Accessories 
+
+Model Planes, Helicopters, Boats and Cars 
+
+Magic and Novelities 
+
+
+
+LAKE at ANTHONY by TACO INN 
+Phone— 743-5056 
+
+
+
+DAILY LUNCH SPECLVLS 
+
+
+
+Mon - Any Sandwich 
+
+Tues - 2 pes. SicUian &amp; Salad 
+
+Wed - ItaUan Beef Sandwich 
+
+Thure - Spaghetti &amp; Meatballs 
+
+Fri - Vt Sausage Sicilian 
+
+coupon •: ■ 
+
+DAILY I 
+
+LUNCH SPECLiLS ! 
+
+
+
+99&lt; 
+
+
+
+^^^blelloniail^i ™o locations 
+
+"Lilip &gt;n llaiiiin V.uiion for your moulh!" '( 
+
+1 FREE SOFT DRENKi * mo^Mapilre,. 
+WITH LUNCH I 
+
+-INSIDE OINLY I * CU„.on a. Coli.e„m 
+
+Exp. 10/6/76 ! 
+
+
+
+</pre>        </div>
+      </div>
+    

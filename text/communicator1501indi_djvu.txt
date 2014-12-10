@@ -1,0 +1,5837 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1501indi/communicator1501indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1501indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1501indi">The Communicator</a>"
+          </h1>
+          <pre>The Communicator 
+
+
+
+VOLUME XV ISSUE 1 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+AUGUST 11, 1983 
+
+
+
+Contains 1 983-84 student handbook 
+
+It's that time again 
+
+
+
+
+PHOTO BY Sarah Mensch 
+
+
+
+PAGE 2 — THE COMMUNICATOR — THURSDAY, AUG. 11, 1983 
+
+Aid available 
+if eligible 
+
+
+
+By JIM CHAPMAN 
+Editor-in-Chief 
+
+If eligible, students can still 
+receive financial aid — Pell 
+Grants or Guaranteed Student 
+Loans — for the 198344 school 
+year, said Mark Franke, director 
+of financial aid at IPFW. 
+
+Pell Grants, which are 
+awarded to students on the basis 
+of need by the federal govern- 
+ment, are the most restrictive 
+forms of aid, Franke said. The 
+government decides if students 
+are eligible, and IPFW verifies 
+their records. If eligible, students 
+receive money from IPFW, 
+which is reimbursed by the 
+government, Franke said 
+
+When asking for a Guaranteed 
+Student Loan, students should 
+make sure their banks approve it 
+before IPFW certifies eligibility 
+based on need. Some banks 
+"have their own criteria" and 
+may not loan the money even 
+though IPFW approves 
+eligibility, Franke said 
+
+After IPFW and the student's 
+bank approves the loan, the state 
+must approve it, Franke said 
+
+"We expect to have over $5 
+million in total aid committed 
+this year," Franke said. "Last 
+year, we had about $4.8 million. 
+We're up in the number of 
+students applying and the 
+number of students who are 
+
+
+
+eligible. It's hard, however, to 
+determine the exact number 
+because of registration." 
+
+To receive financial aid for the 
+1984-85 school year, students 
+should turn their applications 
+into the financial aid office by 
+March 1, 1984, Franke said. 
+
+This deadline gives the 
+financial aid office time to 
+determine which students are 
+eligible for aid It is also the 
+state's deadline, Franke said. 
+
+"It still comes down to that 
+someone has to be told no, but we 
+feel we've done the best Job in 
+targeting the money to the most 
+needy students," he said. 
+
+Besides Guaranteed Student 
+Loans, students can receive 
+National Direct Student Loans, 
+which are given by the university 
+and more restrictive. The higher 
+education award, which is also 
+based on need, is a grant 
+awarded by the state, he said. 
+
+About seven percent of 
+financial aid given at IPFW 
+comes from scholarships based 
+on grade point averages, Franke 
+said. 
+
+"There are a number of 
+scholarships from outside 
+organizations," be said. 
+
+Students whose fathers are 
+dead or disabled for a war- 
+related reason are eligible for a 
+reduced tuition, Franke said. 
+
+
+
+Harris sees big 
+things for students' 
+government 
+
+
+
+By MIKE ROEGER 
+Managing Editor 
+
+Tom Harris, student body 
+president, used the words "fired 
+up," to describe the student 
+government. 
+
+"We have a new slate of 
+people," Harris said, "and 
+they're all fired up about 
+working " 
+
+Harris said there are several 
+areas the two arms of student 
+government, the senate and 
+Student Union Board of Gover- 
+nors (SUBOG) will get involved. 
+
+Among the areas the Senate 
+will be involved in are: a con- 
+tinued look at parking; looking 
+into pluses and minuses on 
+grades (B+. CO; the honors 
+program; teacher evaluations; 
+and the student life survey 
+conducted last spring. 
+
+"We're trying to find out if 
+there is some way to evaluate a 
+teacher," Harris said, "then put 
+it in some type of pamphlet so 
+students can see what other 
+students think about a par- 
+ticular teacher. We have to make 
+sure it's credible and pretty 
+reliable for the student." 
+
+A problem students complain 
+about at the beginning of every 
+semester is parking. He said the 
+senate will look into the 
+possibility of adding B spaces. 
+
+
+
+
+A student sits against a rock In the Geogarden, while another reads a plaque with a description of 
+
+
+
+Geogarden at IPFW 
+
+
+
+"One of the senators believe 
+there isn't a problem," Harris 
+said. "Wehave added parking." 
+
+Harris said SUBOG's plans 
+include: continuing the film 
+series it began last spring; a ski 
+trip to Steamboat Springs, Colo.; 
+during Christmas break; a 
+welcome back party; and an 
+Oktoberfest during the first part 
+of October. 
+
+"We're shooting for more 
+recent movies," he said 
+
+One of the things Harris 
+campaigned for was better 
+communication between the 
+government and the student 
+body. 
+
+"I can feel it changing, "Harris 
+said. "More people are interested 
+in the organizations. We're going 
+to do things for the older student 
+who doesn't attend our ac- 
+tivities." 
+
+Harris said he will make 
+himself available to anyone in- 
+terested in how the $20 student 
+activity fee is spent. The student 
+government office is located in 
+suite 225 of the Walb Memorial 
+Union. 
+
+Harris also said there are 
+openings in both the senate and 
+SUBOG. Any student interested 
+must be enrolled in six credit 
+hours and have a C average. 
+
+
+
+ByKIMMETZGER 
+Copy Editor 
+
+A new feature at IPFW this 
+year is the geogarden, located 
+between Neff and Kettler halls. 
+The brainchild of Dr. Dipak K 
+Chowdhury, the geogarden is 
+composed of several large 
+boulders representing various 
+rock types. 
+
+Chowdhury, associate 
+professor of geology and chair of 
+the IPFW department of earth 
+and space sciences, said he first 
+had the idea for the geogarden a 
+little over a year ago. At that 
+time, special trailers known as 
+trams (temporary removable 
+office modules) held the space 
+now occupied by the garden. 
+According to physical plant 
+director Don Katter, the troms 
+were eliminated when their 
+functions were moved to other 
+buildings on campus. Original 
+plans had called for a garden to 
+replace the troms. Chowdhury 
+wondered if it could be made into 
+a special kind of garden to benefit 
+his department and the campus. 
+
+
+
+"We had been taking students 
+various places to show them 
+different rock types," said 
+Chowdhury. "But there really 
+isn't much variety in the rocks in 
+this area." 
+
+So, Chowdhury wrote a letter to 
+IPFW Chancellor Joseph Giusti, 
+and his cabinet. To his surprise, 
+the proposal for the garden was 
+accepted. 
+
+"Because of money, I did not 
+think the idea would be caught 
+up," he said. "But the cabinet 
+endorsed it and the earth and 
+space sciences department was 
+receptive." 
+
+As it turned out, the cost of the 
+geogarden was considerably 
+lessened by free help from both 
+quarries and geology students. 
+Quarry managers helped collect 
+the rocks and ship them to IPFW 
+free of charge. Students then 
+washed the rocks to get rid of any 
+excess dirt. 
+
+
+
+these rocks were originally in 
+northern Canada. Then the 
+glaciers came and bulldozed 
+them here for us to gather." 
+
+Katter said the physical plant 
+worked with Karen Byrri, a 
+landscape architect from Purdue 
+University, West Lafayette, to 
+make the garden "pleasing and 
+attractive, instead of looking like 
+a cemetery." The only condition 
+Chowdhury made was that the 
+rocks be spaced together ac- 
+cording to their group. Each rock 
+has a metal plate on it identifying 
+its type. Besides the stones, the 
+geogarden also has trees and 
+shrubbery, benches for weary 
+students to rest upon and a 
+sundial made of Indiana Oolitic 
+limestone. 
+
+Chowdhury said, "I'm very 
+thankful to all the people who 
+helped It shows a tremendous 
+spirit of cooperation between 
+everyone." He hopes the 
+geogarden will be an asset to 
+Students not only at IPFW, but 
+from area schools as well. 
+
+
+
+
+-spue*.- ■-■ -\ • 
+
+■ML-. 
+
+
+
+A student passes through the geogarden on his way to Kettler Hall. The geogarden Is situated 
+between Kettler and Neff halls. (Photos by Sarah Men sen ). 
+
+
+
+1983-84 
+fflPP ¥\ S S T UDENT HANDBOOK 
+
+
+
+
+Support IPFW athletics 
+
+
+
+PAGE 2- THE STUDENTS' HANDBOOK — AUGUST 11, 1983 
+
+
+
+r— Chancellor Giusti welcomes IPFW's new students 
+
+
+
+
+Chancellor Joseph Giusti discusses the up- 
+coming academic year with two IPFW 
+students. 
+
+
+
+Welcome to Indiana University— Purdue University at 
+Fort Wayne for academic year 1983-84. Some of you may be 
+here for the first time. Others may he returning after an 
+absence of a summer, or a year, or more. For still others, 
+this may be the special year in which you will receive your 
+diplomas. To all of you I extend warm greetings and my 
+best wishes during your time at IPFW. 
+
+The fall registration and orientation period is always a 
+busy and exciting timeat the University. The relative lull of 
+the summer months has given way to a rush of preparation 
+for your arrival. It is a good time for it focuses our energies 
+on the primary objective of the University: to provide men 
+and women the opportunity to obtain an education of the 
+highest quality. 
+
+No doubt, you have come here because you are com- 
+mitted to taking advantage of that opportunity in order to 
+fulfill your own personal educational goals. Let me assure 
+you that the faculty and staff at IPFW are equally com- 
+mitted to helping you achieve those goals. 
+
+I would urge you to seek out the services provided by your 
+counselors, advisors, and librarians. Above all, get to know 
+your faculty. They are very dedicated, highly 
+distinguished, and eager to serve as your most important 
+resource. 
+
+It is my desire that you enjoy full participation in therich 
+environment of university life. More importantly, it is my 
+hope that you will come to know at IPFW the deep personal 
+satisfaction that lies at the heart of academic endeavor and 
+scholastic achievement. 
+
+
+
+Classes And Grades 
+
+
+
+ATTENDING CLASSES 
+
+1 Is regular class attendance required? 
+
+Ves. Although the method of recording attendance may 
+vary from class to class, students are expected to attend 
+every class meeting for which they are enrolled. 
+
+2 What should I do if I am unable to attend a class? 
+Contact the professor as soon as possible to make 
+
+arrangements for make-up work, if such work is permitted 
+The only acceptable excuses for absence are generally 
+related to illness and family emergency situations Missing 
+classes may seriously reduce the quality of your work and 
+result in a poor grade. 
+
+SCHEDULE ADJUSTMENT 
+
+3. Can I drop classes any time 1 want to? 
+
+No. A class cannot be dropped during the last four weeks 
+of the semester or thelast two weeks of a summer session. 
+
+4. How do I drop a class? 
+
+First you must get a drop-add form from your advisor. 
+During the first 10 weeks of classes, that is all you must 
+submit to the registrar's office to officially drop the class. 
+During the lllh and 12th weeks, the instructor and your 
+academic dean must also approve each class to be dropped, 
+and they will do so only in unusual circumstances 
+
+5. Can I add a class to my schedule after I have 
+registered? 
+
+Yes. Classes may be added with approval from your ad- 
+visor during the first week of classes. The instructor of each 
+class must approve additions after that time. 
+
+6 If I want to quit school before classes are over, what do 
+I have to do? 
+
+Follow the procedure described for dropping a class. Not 
+attending class is not the same as withdrawal. Students who 
+do not withdraw properly from a course will receive a 
+Failing grade. 
+
+CHANGING MAJORS 
+
+7 Can 1 change my major if I change my mind about what 
+I want to study? 
+
+Yes. However you should contact the department that 
+offers your new major. A change form will be sent to your 
+department and to the registrar's office. 
+GRADES 
+8. What kind of grades are given credit courses? 
+A full list of grades appears in the IPFW Bulletin 
+CLASSES AND GRADES: 
+QUESTIONS AND ANSWERS 
+9 What is the "Pass-Fail Option" fora grade in class? 
+This is an opportunity for you to take some courses 
+without affecting your GPA. However, unsatisfactory work 
+may count as an F in your GPA. You must have an ad- 
+visor's permission to take a course under this option. 
+
+10. What does it mean if I get a grade of "I", incomplete? 
+The grade of "I" means that you could not complete all 
+
+requirements for the course by the end of the semester and 
+that you and the instructor have agreed on a method to 
+finish those requirements. You must remember that il the 
+requirements are not met by the appropriate deadline, that 
+incomplete "I" grade will become an "F" (ailing grade 
+
+11. II my grades are bad, will I be able to continue in 
+
+First, all grades that you have earned at this campus will 
+be averaged together. Generally, the first semester that 
+
+
+
+this average is below the university's or school's 
+requirement you will only be placed on probation, which 
+means that you will be given an opportunity to raise your 
+GPA through additional classes (he next time you enroll. If 
+you then continue with poor grades, you will be subject to 
+dismissal from the university. 
+
+12, If I am dismissed from the university, will 1 ever be 
+permitted to return? 
+
+Generally a student may request to be readmitted to the 
+university after being out of school for one semester. Once 
+[he readmission is approved, the student will be able to 
+enroll but will again be placed on probation until the 
+minimum GPA has been achieved. The request for read- 
+mission must generally be submitted one mon(h before the 
+start of that semester. 
+
+OTHER ACADEMIC 
+MATTERS 
+
+13. Under what conditions am I considered to be a student 
+in good standing? 
+
+You are considered to be in good standing if not 
+dismissed, suspended, dropped from the university without 
+being readmitted, or on probation. 
+
+(4. What conditions will deny me the opportunity to 
+register for classes? 
+
+The most common reason is that you owe money to the 
+university. If you are a student in good standing, other 
+reasons would include misconduct and violation of any 
+rules adopted and made public by the trustees. 
+
+15 HI feel that I have not been treated fairly with regard 
+to a grade I received or an assignment I completed, what 
+can I do about it? 
+
+You have the right to request that (he situalion be 
+reviewed in a process called a grade appeal. For in- 
+formation regarding such procedures, contact the chair of 
+the department responsible for teaching the course. 
+
+16. Can I transfer from the Fort Wayne campus to another 
+
+Yes. However, any student who intends to transfer should 
+consult with her or his advisor to make proper 
+arrangements well in advance of the intended time of 
+transfer. 
+
+CLASSES AND GRADES 
+
+17. What is plagiarism? 
+
+Plagiarism is claiming the work of someone else as if it 
+were your own original work. Plagiarism usually occurs 
+when a student writes a paper, submits a project, or 
+prepares a collection and includes quotes or ideas from 
+another source without acknowledgement. It is serious 
+violation and can lead to disciplinary action. 
+
+NONDISCRIMINATION 
+IPFW is an equal access-equal opportunity university. No 
+qualified person will be denied admission or employment, 
+nor will any student or employee be subjected to 
+discriminatory treatment or be excluded from par- 
+ticipation in any educational program or activity, on the 
+basis of race, religion, color, sex, age, national origin, 
+handicap, or status as a disabled or Vietnam Era veteran. 
+Further information is available from the affirmative 
+action officer(482-5434). 
+
+
+
+NON-HARASSMENT 
+IPFW strives to maintain the campus as a place where 
+students may study and work free of sexual harassment 
+and harassment on the basis of race, color, religion, 
+national origin or other protected status. Students should be 
+aware that harassment in the educational environment is 
+unacceptable conduct and will not be condoned. If you have 
+a question or a complaint, or want advice, you may talk 
+with an official designee or the affirmative action officer 
+Their names and phone numbers are available at the in- 
+formation desk in Kettler Hall and at the Sweet Shoppe in 
+Walb Memorial Union. 
+
+
+
+Information in the Student Handbook does not 
+supersede olflcial university policies as published in the 
+Bulletin and other university publications. 
+
+
+
+DIRECTORY OF STUDENT SUPPORT 
+
+
+Office 
+
+
+Phone 
+
+
+Room 
+
+
+Admissions 
+
+
+482-5626 
+
+
+Kettler 103 
+
+
+Athletic/Recreation 
+
+
+
+
+Multi- 
+
+
+Sports 
+
+
+482-5351 
+
+
+purpose Bldg. 
+
+
+Bookstore 
+
+
+483-6100 
+
+
+Kettler 
+
+
+Bursar 
+
+
+402-5466 
+
+
+Kettler G57 
+
+
+Career Development 
+
+
+
+
+
+
+and Placement 
+
+
+482-5646 
+
+
+Union 113 
+
+
+Child Care Ctr. 
+
+
+482-5650 
+
+
+Corner of 
+Stellhorn &amp; 
+Hobson Rds. 
+
+
+Counseling &amp; Testing 
+
+
+
+
+
+
+Services 
+
+
+482-5656 
+
+
+Union 113 
+
+
+Dean ot Student 
+
+
+
+
+
+
+Services 
+
+
+482-5651 
+
+
+Union 118 
+
+
+Disabled Student 
+
+
+
+
+
+
+Services 
+
+
+482-5580 
+
+
+Union 235 
+
+
+Dormitories/ 
+
+
+
+
+
+
+Off-Campus Housing 
+
+
+482-5616 
+
+
+Union 118 
+
+
+Financial Aids 
+
+
+482-5641 
+
+
+Kettler 109 
+
+
+First Aid and 
+
+
+
+
+Multi- 
+
+
+Information 
+
+
+482-5484 
+
+
+purpose Bldg 
+
+
+Job Location Service 
+
+
+4B2-5G47 
+
+
+Union 113 
+
+
+Minority Student/CETA 
+
+
+482-5616 
+
+
+Union 118 
+
+
+National Student 
+
+
+
+
+
+
+Exchange Program 
+
+
+482-5353 
+
+
+Kettler 110E 
+
+
+Records/Registration 
+
+
+4B2-5551 
+
+
+KettlBr 107 
+
+
+Student Academic 
+
+
+
+
+
+
+Counseling Service 
+
+
+482-5393 
+
+
+Kettler 110E 
+
+
+Student Activities 
+
+
+482-5616 
+
+
+Union 118 
+
+
+Student Carpool 
+
+
+482-5353 
+
+
+Union 225 
+
+
+Students' Government 
+
+
+482-5353 
+
+
+Union 225 
+
+
+Student Legal Services 
+
+
+482-5353 
+
+
+Union 225 
+
+
+Transitional Studies 
+
+
+482-55B6 
+
+
+Kettler 118 
+
+
+Tutoring Center 
+
+
+482-5586 
+
+
+KettlBr 118 
+
+
+Veterans' Affairs 
+
+
+482-5411 
+
+
+Kettler 107 
+
+
+
+eJjS )) JOB lOCATION SERVICE 
+
+CAR WASH ATTENDANT. 3 days per week, 8 
+a.m. to 4 p.m. Job Number 8-1-G-6 
+ASSISTANT MANAGER. Full-time, $3.85/hr. 
+Retail, marketing, merchandising student 
+preferred. Job Number 8-1-A-2 
+AMATEUR PHOTOGRAPHER. Flexible hours, 
+pay by the job, portfolio needed. Job Number 
+7-4-I/T-1 
+
+RECEPTIONIST/SECRETARY. Weekend hours, 
+extra time possible as special events are 
+scheduled. Job Number 8-1-0-2 
+SALESPERSON. Evenings and weekends, 20 
+hours per week, salary negotiable. Job Number 
+8-1-R-3 
+
+TELLER. Monday thru Friday, 3 p.m. to 8 p.m. 
+$3.90/hr. Good math skills and some ex- 
+perience necessary. Job Number 8-1-0-3 
+MAIL PERSON. Part-time weekdays. $4.00/hr. 
+Heavy lifting involved. Job Number 8-1-G-3. 
+RESEARCH ASSISTANT. Flexible, approximate- 
+ly 10 hrs./wk. Stipend paid for semester work. 
+Prefer MHT, sociology, psychology, or counsel- 
+ing majors. Job Number 8-1-A-1 . 
+
+
+
+Your Art Supply Headquarters! 
+
+•Large Inventory 
+•Student Discounts 
+•Special Ordering 
+
+
+
+
+HUNT 
+
+
+
+LMIj«M 
+
+
+
+PAASCHE AIRBRUSH 
+
+HUMTSlMl2)llMJDl 
+
+Gte#typet| 
+
+
+
+
+Come in and look us over... 
+you'll see one of the most complete art supplies displays ever in this area, and 
+at reasonable prices.. .oil paints, water colors, acrylics, pens, knives, easels, 
+matboard, brushes, painting sets, and many more. 
+
+
+
+SUPERIOR at WELLS 
+
+Fort Wayne, Indiana 46802 
+
+424-5229 or 424-5225 
+
+OPEN WEEKDAYS 8 to 5; SAT. 8 to NOON 
+
+
+
+
+AUGUST 11. 1983 — THE STUDENTS' HANDBOOK — PAGE 3 
+
+
+
+Canterbury Green 
+
+Apartment Homes With 
+Everything 
+
+
+
+
+PAGE 4 - THE STUDENTS' HANDBOOK - AUGUST 11, 1983 
+
+
+
+Student organizations 
+
+
+
+There are over 40 recognized student organizations at 
+IPFW If a group is interested in an activity that is not 
+organized, it is possible to start a new club. The necessary 
+steps are as follows: 
+
+1 Obtain From the Office of Student Services a tetiuon 
+which is to be signed by the faculty advisor and officers of 
+the organization. 
+
+2. Present the petition and two copies of the constitution to 
+the director of activities. 
+
+3. The constitution committee of the Student Senate will 
+review the constitution and forward it to the Senate with a 
+
+
+
+4 The Senate will voteon recognition. 
+
+5. Upon approval, the officers of the recognized 
+organization must establish a checking account in the 
+bursar's office. All funds must be deposited in this account. 
+
+
+
+Accounting 
+Society 
+
+Chemical Society 
+American Society 
+
+of Mechanical 
+
+Engineers 
+American Society 
+
+of Personnel 
+
+Administrators 
+Biology Club 
+Black Collegian 
+
+Chamber Singers 
+Communicator 
+
+newspaper) 
+Council for the 
+
+Recognition of 
+
+Disabled 
+
+Students 
+Data processing 
+
+Management 
+
+Association 
+i Gamma 
+
+
+
+(so 
+
+
+
+a Sigma Phi 
+
+
+
+Geology Club 
+Graduating Class 
+
+Instrumental 
+ensembles 
+Interpreters 
+
+Intramural- 
+
+intercollegiate 
+
+athletics 
+jau Ensemble 
+Junior American 
+
+Dental 
+
+Music Educators' 
+National 
+Conlerence 
+
+Music Therapy 
+Club 
+
+Opera workshop 
+
+Panhellenic 
+
+Phi Kappa Theta 
+
+
+
+Purdue- India. 
+Sigma Phi £ 
+
+
+
+(social) 
+Society ot 
+
+Automotive 
+
+Engineers 
+Speech and 
+
+Hearing Club 
+Student Senate 
+Student Union 
+
+Board of 
+
+Governors 
+
+(SUBOG) 
+Students of Fine 
+
+Arts (SOFA! 
+Symphonic Band 
+Tae Kwan Do 
+Tau Alpha Pi 
+University 
+
+Community 
+
+
+
+University Friends 
+
+
+
+Religious Forum 
+University Singers 
+Wind Ensemble 
+Young People in 
+
+Broadcasting 
+Zeta Psi Sigma 
+
+Alpha (Sigma 
+
+Alpha lota 
+
+
+
+Grade appeals procedure 
+
+
+
+The Faculty Senate has passed a uniform grade appeal 
+policy for the IPFW campus. Until this document has been 
+approved by the Boards of Trustees, the following 
+procedure should be followed by a student who has evidence 
+or believes that evidence exists to show that an inap- 
+propriate grade has been assigned as a result of prejudice, 
+caprice, or other improper conditions such as mechanical 
+error or assignment of a grade inconsistent with those 
+assigned other students. Additionally, a student may 
+challenge the reduction of a grade for alleged scholastic 
+dishonesty. Further details on grade appeals appear in this 
+"Handbook's" discussion of the Indiana University and 
+Purdue University Student Conduct Codes. Those 
+statements take precedence over statements below. 
+
+In appealing a grade the burden of proof is on (he 
+student, except in the case of the alleged academic 
+dishonesty, where the instructor must support the 
+allegation. 
+
+Informal attempts must be made to resolve grade 
+grievances and appeals at the lowest level. If the grievance 
+in question cannot be resolved during a conference with 
+your instructor, you should speak to the department chair. 
+Further appeals will be heard by departmental com- 
+mittees or by department chairs. 
+
+Cases not resolved at this level should be referred to the 
+school-divisional dean or coordinator. Informal school- 
+divisional boards or committees may be established to 
+assist deans and coordinators in mediating student 
+grievances Unresolved appeals from this level should be 
+directed to the vice chancellor and dean of the faculty, who 
+may make a final written decision on academic grade 
+appeals after ascertaining that all previous means of ap- 
+peal have been duly pursued by all parties involved. 
+
+
+
+Housing information 
+
+No housing facilities are on the IPFW campus. However, 
+the student activities office (482-5616) dispenses housing 
+information upon request. There are dormitory facilities 
+available for men and women at nearby Concordia 
+Theological Seminary, and dormitory-type faculties 
+available for women only at the YWCA. The student ac- 
+tivities office does not approve or disapprove housing; it 
+merely serves as a clearinghouse for housing information. 
+
+
+
+Veterans' services 
+
+Your GI Bill education benefits can be used at IPFW. The 
+veterans' services office in Ketller 107 will help you apply 
+for aid. Usually, the only form you should bring is your 
+discharge paper (DD214) . 
+
+Normal processing time for a new application is 45-60 
+days. 
+
+The Vet-Rep-On-Campus has information dealing with all 
+phases of veterans' benefits, or can refer you to the proper 
+community agencies. 
+
+
+
+Student 
+identification cards 
+
+
+
+Each student is issued a picture identification card 
+containing his-her name and Social Security Number. The 
+student must provide accurate data for inclusion on the 
+card, and must show the card to an employee of the 
+university upon request. Prior to showing the card, the 
+student, if he or she asks, is entitled to be told the reason for 
+the request and the employee's name and position, and be 
+shown the employee's university identification card. 
+
+The student identification card or card validation is given 
+to each student at registration. The replacement fee for lost 
+fD cards must be paid at the bursar's office Replacement 
+cards are issued from the dean of student services' office, 
+SU 1 18, upon showing a paid receipt. 
+
+
+
+Assistance 
+
+
+
+Trasitional studies 
+
+On the way to a degree, you may need some help. 
+Transitional studies can make the critical difference. 
+
+The Developmental Skills Center IKettler 118) offers you 
+free help in developing reading, writing, math, and study 
+skills (note-taking, textbook-reading, test-taking) on a 
+drop-in basis, day and evening, during the school year. 
+
+You can find in the Developmental Skills Center free 
+tutorial help in some introductory courses. We also attempt 
+to match people needing tutorial help in advanced courses 
+with available tutors; financial arrangements for this 
+tutoring must be made by students and tutors involved 
+
+Credit course work is offered in individualized sections of 
+English W130 (Principles of Composition); Education X150 
+(Reading-Learning Techniques I, a reading-study skills 
+course; Education XlSl (Reading - Learning Techniques 
+II), a study-skills course which emphasizes the application 
+of study skills to real college courses; and selected sections 
+of Math 111, which maintain a smaller than average 
+student -teacher ratio. 
+
+The RAP (Returning Adult Place) program is for 
+students coming to the university after being out of school 
+for one or more years. RAP features a free monthly 
+newsletter on university services and procedures, and 
+meetings dedicated to improving students' study or per- 
+sonal skills. To gel the newsletter and meeting information, 
+stop in Keltler 11B, or call us at 482-5655 
+
+
+
+Financial aid 
+
+
+
+Financial aid helps students finance their college 
+education. The financial aid office (482-5641) uses grants 
+and scholarships, loans, and part-time employment, either 
+singly or in combination, as the means to provide this 
+assistance 
+
+
+
+Even though most aid is restricted to full-time un- 
+dergraduate students, some programs are available for 
+part-time and graduate students. You must file an IPFW 
+financial aid application and a Financial Aid Form (FAFi 
+to be considered. The applications are reviewed con- 
+fidentially by a financial aid counselor, and your aid award 
+is based on the calculated need and the availability of funds. 
+
+You are urged to apply by March 1 for the following 
+academic year. Applications are accepted after that date, 
+but late filers run the risk of encountering fund shortages. 
+Also, early application assures that your forms will be 
+processed in time for fall registration. 
+
+The financial aid office, located in Kettler 109, has a staff 
+of trained counselors to assist with the application process. 
+The regular office hours are 8 a.m. to 6 p.m. Monday 
+through Thursday, and 8 am. to 5 p.m Friday If 
+necessary , appointments may be made for other times. 
+
+
+
+SUBOG Cinema 
+
+
+
+
+SEPTEMBER 
+8 — The Man Who Fell to Earth 
+9— The Tall Blond Man with One Black Shoe 
+10 — The Golden Voyage of Sinbad 
+
+15 — Sacco and Vanzetti 
+
+16 — The Ruling Class 
+
+17 — SonoftheShiek 
+
+
+
+
+11 — Eraserhead 
+12— The Baker's Wife 
+17 — Psycho ( the original) 
+IB— ByeBye Brazil 
+19 — Wages ofFear 
+
+DECEMBER 
+1 — Leo the Last 
+
+
+
+
+22— Silent Running 
+
+23 — Cheddo 
+
+24 — Mr. Hulot's Holiday and Jour de Fete - Tati Double 
+
+
+3 — Open City 
+B— Bedazzled 
+
+
+
+
+29 — The Cabinet of Dr. Caligari 
+
+30 — Heart of Glass 
+
+OCTOBER 
+1 — The Blue Angel 
+6 — Siddlartha 
+
+
+
+
+10 — Wild Strawberries 
+
+All films will be shown in the Classroom-Medical Building 
+auditorium. + 
+
+Thursday and Friday night films will begin at 8 p.m.: 
+Saturday afternoon films will be shown at 2 p.m. 
+
+
+7 —The Long Good Friday 
+8 — The Twelve Chairs 
+
+13 — And Then There Were None 
+
+14 — The Shameless Old Lady 
+
+15 — Journey to the Center of the Earth 
+
+
+
+
+ADMISSION 
+IPFW Activity Card 
+Other Adults 
+Children w-adult 
+
+FALL SEMESTER EVENTS+ 
+Welcome Back Dance -September 10 
+
+
+FREE 
+
+{2.00 
+FREE 
+
+
+21 — Planet 9 from Outer Space and The Little 
+Horrors-The Sehlocky Horror Show 
+
+22 — The Spirit ol the Heehive 
+
+NOVEMBER 
+
+3 — Elvira Madigan 
+
+4 — Oblomov 
+
+5 — Lancelot of the Lake 
+10— Ugetsu 
+
+
+Shop of 
+
+
+Jugular Concert - Mid-September 
+NtozakeShange- September 29 
+
+Oktoberfest 
+
+SECOND CITY - November2 
+
+Holiday Dinner-Dance 
+
+Ski Colorado during Winter Break 
+
+at Steamboat Springs 
+
++ Tentative schedule- Subject to change 
+
+
+
+
+
+Here's everything you need to 
+get started in home computing. 
+
+
+
+
+■g fe'-gA ? ■ 
+
+
+
+. and well jjrvoyou .m eyv-openinB head start 
+' With .1 hands-on dem. .nstraikin »f the 
+April' Hi' Home System. The system for 
+word pivKCSsinK. home bud^etinc eduea- 
+SIOO IN KEI1ATE CERTIFICATES, turn programs name playing. and rmwc 
+
+We'll ..Is.. B ive vou.pecial rmo durum our Home Is Where the 
+Apple b"pmmMkn Come in and saw i.n an Apple Ik Home System: an 
+Apple lie Personal Computer and disk drive. A joystick And the Home 
+Solutions Package - whieh contains rebate certificates mirth up to SIOO on 
+nRFnwdulaciirlfiirhiiokinBywurftimpuier up maTVscreenlnnd special 
+software packages ^^^ ■ 
+
+&amp;vusn.«-AnJ B .-i.r„n.J »nl. ,.„.,, «C1PPKZ 
+
+The Data Base 
+
+FT. WAYNE. IN. MUNCIE, IN. 
+
+North Anthony Shopping Center Across From The Munde Mall 
+
+3426 N. Anthony Blvd. 3030 Granville {In Granville Square) 
+
+219-4M-31M 317-2M-BW0 
+
+
+
+AUGUST 11, 1983 - THE STUDENTS' HANDBOOK — PAGE 5 
+
+
+
+w. 
+
+
+
+SMALL CAR OWNERS. 
+
+
+
+Remember the 
+last time your 
+car ran perfectly? 
+
+
+
+Now, Isn't It About Time To See Us? 
+FORT WAYNE FOREIGN CAR 
+
+2604 E Washington Blud 
+
+Fort Wayne. In 
+
+(219) 426-8744 
+
+
+
+— ^s sLJ Ual 
+
+
+
+And the 
+
+Writ 
+goesLpn 
+
+
+
+
+Over 200 Children Are Waiting For Your Call 
+
+
+
+They range in age from 7 to 17. They come from primari- 
+ly one parent homes They're in need of a friend . . . but 
+not enough adults have volunteered. 
+Could you be a special friend to one of those 
+waiting? 
+
+Orientation Sessions take place each Monday evening at 
+7 pm, and the first Saturday each month at 11 am at the Big 
+Brothers/Big Sisters office. 
+
+
+
+® 
+
+
+
+Call us at 424-1600 
+
+
+
+big brothers/big sisters 
+
+of greater fort wayne 
+
+
+
+919 Midd Ave, fort Wryne, IN 46802 
+
+
+
+,© 
+
+
+
+
+Be wise. 
+Bank on 
+campus with 
+
+the OWL. 
+
+
+
+If you dashed to class without your cash, don't worry. 
+There's a Fort Wayne National Bank OWL Machine 
+downstairs in the Walb Memorial Union Building. 
+The OWL automatic teller lets you make withdrawals, 
+deposits or transfer funds without leaving campus. 
+How's that for a class act? 
+
+GPt wise today. Get an OWL Card from Fort Wayne 
+National Bank. Indiana Bank or Peoples Trust Bank. 
+And start banking on campus with the OWL. 
+
+
+
+FORT WAYNE 
+
+NATIONAL BANK 
+
+
+
+PAGE 6 — THE STUDENTS' HANDBOOK — AUGUST 1 1, 1983 
+
+
+
+Last of the Hit Wave.. 
+
+
+
+v&amp;'FL 
+
+
+
+Jackson Brown 
+
+
+
+
+
+
+s 5.99 
+
+
+
+Fixx 
+
+
+
+Reach the Beach ilicHXX 
+
+/A 
+
+
+
+/Ia^% 
+
+
+
+
+s 5.99 
+
+
+
+Don't forget to pickup the new Asia Ip "Alpha" for $5.99 at The Wooden Nickel 
+
+We Feature The Top 50 For s 5.99 
+
+Wooden 
+
+Nickel 
+
+Records 
+
+1 Block South of Glenbrook, 3627 N. Clinton 
+For latest new release information call 484-2451 
+Don't miss our back to school sale Aug. 26 to Sept. 4. 
+
+
+
+AUGUST 11 , 1983 — THE STUDENTS' HANDBOOK-PAGE? 
+
+
+
+Services 
+
+
+
+Disabled student services 
+
+
+
+Any student who has a physical disability or other im- 
+pairments which may make academic achievement dif- 
+ficult should call -182-5580 or come to Walb Memorial Union 
+235. 
+
+The disabled sludenl services office provides readers for 
+the visually impaired, textbooks on cassette tape, 
+noletakers and interpreters for the hearing impaired, 
+outdoor escort service in inclement weather for people in 
+wheelchairs, orientation to the campus, exam proctoring, 
+academic counseling, and use of special materials and 
+equipment. 
+
+All buildings on campus are accessible, and the 
+wheelchair logo marks accessible interior facilities. 
+
+
+
+Counseling, testing and 
+placement services 
+
+
+
+Counseling, testing and placement services provide 
+counseling, career assessment, testing, part-time and full- 
+time job placement, and career education. These services 
+are available to all students, prospective students, alumni, 
+faculty and staff. We are located in Walb Memorial Union 
+113 
+
+Counseling. Professional counselors can assist you with 
+crisis situations, anxiety issues, career decision-making, 
+interpersonal relationship problems, or any other issues 
+that may be stressful or challenging. When appropriate, 
+referrals are made to other campus services or to com- 
+munity agencies Call -182-5656. 
+
+Testing. Career -assessment groups meet regularly to 
+administer and interpret career interest inventories 
+designed to assist you with your career and educational 
+development. Also, we can provide information on all 
+national testing programs, such as SAT, CLEP. and GMAT, 
+and institutional testing programs, such as the IPFW 
+English and math placement tests. Call 482-5656. 
+
+Placement. The placement office provide^ services to 
+IPFW students as well as to all Indiana University and 
+Purdue University alumni, regardless of the campus they 
+attended These services include free registration with the 
+placement office, help in writing resumes, information 
+about the job outlook, salary information, career coun- 
+seling, and career and interest testing at a modest fee. In 
+addition, the career library contains numerous books and 
+occupation briefs describing hundreds of occupations as 
+well as an extensive employer literature file. 
+
+Registration with the placement office provides the op- 
+portunity to interview with over 150 companies and public 
+agencies that recruit on campus and to receive a bi-weekly 
+summary of available jobs. Call 482-5646. 
+
+
+
+National student exchange 
+
+
+
+An exciting opportunity awaits students through the 
+National Student Exchange program. Have you ever 
+dreamed of going to school in Montana, New Mexico, South 
+Carolina, Wisconsin, or perhaps even Hawaii, and not be 
+charged out-of-state fees? Your dream could come true by 
+participating in the National Student Exchange. 
+
+The NSE provides the opportunity for IPFW students to 
+spend a year of study in residence at a member institution 
+during their sophomore or junior years. Participating 
+students remain enrolled at IPFW while on exchange, and 
+credit earned on exchange is recorded as regular degree 
+credit. It is an ideal way for students to broaden cultural 
+and educational horizons while progressing toward their 
+local degree objectives. 
+
+If the National Student Exchange sounds exciting and 
+interesting to you, stop by Kettler HOE and ask for more 
+details. 
+
+
+
+Job location services 
+
+
+
+The job location service is an employment service for 
+students seeking part-time employment off campus. We are 
+located in Walb Memorial Union 113 (482-5647). 
+
+Our listing of employment opportunities includes jobs of 
+almost every type, skilled and unskilled. Jobs that have 
+been listed in the past range from housecleaning and 
+waiter- waitress jobs to market researcher and lab 
+technician. Participation in a handyperson pool, babysit- 
+ting pool, and typing pool is also open. Pay rates vary ac- 
+cording to the job and the employer. Referrals are based 
+upon individual employment skills and preferences. 
+
+
+
+Student academic 
+counseling services 
+
+
+
+Assisting students with academic schedules as well as 
+with other academic problems is the role of the student 
+academic counseling office. Staffed with professional 
+counselors and student paraprofessionals, (he office is open 
+from 8 a.m. -5 p.m. weekdays, and after 5 p.m. by ap- 
+pointment. You may stop by the office in Kettler HOE or 
+call 482-5393 for assistance. Information shared with a 
+counselor is strictly confidential. 
+
+
+
+Thecounselors are trained to meet the particular needs of 
+undecided and pre-business students attending Indiana- 
+Purdue. So if you are still uncertain about your major or 
+have questions regarding the university, the student 
+academic counseling staff can help. 
+
+First aid and health 
+information office 
+
+
+
+The first aid and health information office is located on 
+the second floor of the Multipurpose Building, and is nor- 
+mally staffed with a registered nurse from 8 a.m. to noon 
+and 1 to 5 p.m., Monday through Friday. In case of an 
+emergency, contact the campus police at 482-5474. The 
+nurse on duty will be notified by the police when needed. 
+
+The services offered include health counseling, first aid 
+and emergency care, physician referral, community 
+agency referral, health screening, and immunizations and 
+allergy injections per physician's order. Diet, conditioning, 
+jogging, and weight-training counseling is also available. 
+
+Services provided are free of charge, except for a 
+minimal charge to defray the cost of immunizations. 
+Students, faculty, and staff are eligible for care; visitors 
+are eligibleonly for emergency first aid 
+
+Appointments may be made by calling 482-5484. People 
+will also be seen on a walk-in basis, although this may 
+necessitate wa i tine on oi 
+
+
+
+Welcome from Student Body President 
+
+
+
+
+TOM HARRIS 
+
+On behalf of Students' Government, a sincere welcome to 
+all the freshmen on campus and a welcome back to all 
+upperclassmen. This year looks like it will be better than 
+everallPFW. 
+
+Education can happen as much outside of the classroom 
+as inside. Learning leadership roles and communicating 
+with groups is very important in developing character. It is 
+very important for those of you who have some extra lime 
+while at IPFW, regardless of your age or other obligations, 
+to be a part of some organization that can benefit you and 
+possibly your future career. 1 sincerely hope you will play 
+an active role on campus. If you do, you will value your 
+IPFW experience even more! 
+
+One of the places that an IPFW student can spend time is 
+the Walb Memorial Union. The union has activities, clubs, 
+and organizations. On the second floor of the union are the 
+offices of the Greek organizations. If you are interested in 
+journalism you can be part of the Communicator's staff. If 
+you are creative, the arts and crafts room has facilities for 
+ceramics, photography, and lapidary. The Campus 
+Ministry offices are also on the second floor, offering 
+counseling and worship experiences for all. The sweet shop 
+and music room are located on the first floor. Relaxing can 
+be done at either the pool room, game room, ping pong 
+room, or the TV lounge, which are located on the ground 
+
+If you would like to play a part in changing the policies 
+that affect you on campus or help to organize concerts and 
+other activities, you should join the Students' Government. 
+Students' Government is comprised of two branches: 
+Student Senate and Student Union Board of Governors. The 
+Student Senate is the legislative branch of Students' 
+Government. It handles students' complaints, lobbying for 
+students and changing university rules and regulations 
+concerning students. It meets weekly throughout the year, 
+and positions are available for new members. 
+
+The Student Union Board of Governors (SUBOG) is the 
+cultural and activity branch of Students' Government. It 
+plans the weekly movies held on campus (free for activity 
+card holders), parties, dances, trips (including Florida 
+Spring break trip and ski trips), lectures, and the Harbor 
+
+
+
+Arbor Days held in the spring. Positions are available for 
+SUBOG members or executive assistants. SUBOG also 
+meets once a week throughout the year. 
+
+Appointments are made by Students' Government to 
+various campus committees ranging from bookstore and 
+newspaper to traffic and athletic advisory. If you are in- 
+terested, please contact Students' Government. Your 
+Students' Government communicates to you throughout the 
+year through the school newspaper and posters on campus. 
+
+Many of you taking nine credit hours or more might 
+question the extra $20.00 Student Services fee which is in 
+addition to your other fees. This $20.00 allows you to receive 
+an activity card at IPFW. The activity card is used as 
+identification to attend athletics and SUBOG-sponsored 
+events free or at a reduced rate. PIT (Purdue-Indiana 
+Theatre) performances and many other events on campus 
+are free! 
+
+Following is a breakdown to explain the allocation of 
+funds from the Student Services Fee: 
+
+
+
+$9.00 Athletics office tincollegiate sports, m- 
+
+tramurals, office operations, etc. ) 
+5149 Child Care Center (salaries, office supplies 
+
+and material, food, etc. ) 
+S.09 Department of Fine Arts I visiting artists) 
+
+$.30 Division of Music {supplies for singers, or- 
+chestras, quartets, ensembles, etc. ) 
+$.09 Forensic League (state and peace oratory 
+
+contests, literature for lunch, etc.) 
+$.93 Purdue-Indiana Theatre (advertising, 
+costumes, lighting, music -musicians, paint, 
+scenery, etc.) 
+$77 student Activity Office Account (ID cards, 
+freshman orientation, Student Handbook, 
+etc.) 
+$4.11 Students' Government Office Account 
+(tutoring center, job location service, 
+academic development, Communicator, 
+tennis courts, office supplies, etc.) 
+* 322 SUBOG (films, lectures, dances, concerts, 
+_ entertainment, Harbor Arbor Days, mid-day 
+-sponsored events). 
+
+
+
+$20.00 diversions, 
+
+The 4 11 appropriated to Students' Government partially 
+funds the Communicator ( allowing it to be free of charge) , 
+payment for the tennis courts, tutoring center, job location 
+service, and academic development center. 
+
+Please take advantage of your membership and see what 
+ilcandoforyou! 
+
+If you have any questions concerning Students' Govern- 
+ment or its activities, or any questions about the univer- 
+sity and its policies, please contact the Students' Govern- 
+ment office in Walb 225, phone 482-5353. 
+
+
+
+PAGE 8 — THE STUDENTS' HANDBOOK — AUGUST 11. 1983 
+
+
+
+Greeks 
+
+
+
+College is a whirlwind or activity. In its 
+boundaries lie opportunities leading lo (he 
+new and unknown, opportunities to help you 
+grow and discover yourself and your 
+potential. 
+
+A college education is not just a four-year 
+classroom experience, but also a time of 
+personal growth and development You'll 
+meet all types of people and become exposed 
+to all types of lifestyles. You may find much 
+you once believed in to be challenged, and 
+those things you once took for granted may no 
+longer be so easily ignored 
+
+In the middle of this new-found activity, you 
+may find yourself lost, with no place lo turn 
+for help. 
+
+As a result, you may find it desirable lo 
+seek within Ihe university a smaller com- 
+munity with which to share. A sorority or 
+fraternity provides just this — a base from 
+which you can become involved and grow. 
+
+Within Ihe Greek system, a special kind of 
+growth lakes place, one that is rarely found in 
+any other campus activity. You learn about 
+yourself through interactions and close 
+friendships in your sorority or fraternity and 
+among other Greeks, and can use these ex- 
+periences as a foundation for participation in 
+the many other facets of university life. 
+
+In no other campus group does a com- 
+munity exist for the sole purpose of enhancing 
+individuality. 
+
+Through the Greek system, you are given a 
+better chance to become involved, to grow, 
+and lo develop lasting friendships. 
+
+SCHOLARSHIP is what college is all about. 
+
+
+
+Greek organizations encourage members to 
+grow intellectually and to achieve academic 
+excellence, with the aid of scholarship 
+committees and study buddies. 
+
+LEADERSHIP experiences offered by the 
+Greek system at IPFW range from chapter 
+and Panhellenic Council offices to com- 
+mittees and student government. En- 
+couragement to gel involved with activities is 
+supplied by many of the Greek organizations 
+to their members. 
+
+ACTIVITIES for Greeks at IPFW include a 
+variety of social events which give many fun- 
+filled memories as well as the experience of 
+being part of your school's activities. The 
+events range from formal to informal dances, I 
+fraternity socials, Greek week, and the an- I 
+nual Harbor Arbor Day Festival and Three 
+Rivers Festival. 
+
+The list of social events and the op- 
+portunities to meet new friends and develop 
+social awareness and skills are substantial 
+
+PH1LANTHROPICS are an important part 
+of Greek life. Each organization has a 
+national philanthropy which it supports. 
+Members are asked to donate their time for 
+service and to help raise money for their 
+charily. A successful philanthropic endeavor 
+takes dedication, patience and time, but 
+rewards every member of the chapter. 
+
+There are two sororities — Pi Beta Phi and 
+Delta Gamma — and three fraternities — 
+Sigma Phi EpsLlon, Phi Kappa Theta, and 
+Delta Sigma Pi. 
+
+Rush information will be available at the 
+student services office in Walb Memorial 
+Union after August 23 
+
+GO GREEK! 
+
+
+
+THE BEST TRUCK MONEY CAN RENT 
+
+15% 
+
+COLLEGE DISCOUNT 
+COUPON 
+
+
+
+
+fffl 
+
+
+
+Call: (219) 482-8481 or (219) 749-9587 
+
+_ FOR YOUR SPECIAL STUDENT RATE 
+ON ALL ONE WAY MOVES 
+
+Driver of vehicle must be 1 a years of age 
+
+
+
+
+Specializing in Chicago Italian Beef, Philadelphia 
+Steaks, Gyros, Pita Sandwiches, Veggie Sand- 
+wiches and Imported Beers. 
+
+Breakfast 6-10:30 M-Sat. and 8-12 Sunday. 
+Omelets and Clepes. Jam Night every Thursday j \ 
+
+Shrimp Feat 2nd Saturday of each month. 
+Taylor at Broadway 
+
+
+
+FOLLETT'S 
+BOOKSTORE 
+
+SEE US FOR ALL YOUR 
+CALCULATOR NEEDS... 
+
+Texas Instrument, Sharp, 
+Hewlett-Packard, Casio 
+FROM BASIC TO BUSINESS, 
+FROM SCIENTIFIC 
+TO PROGRAMMABLE. 
+
+KETTLER HALL IPFW CAMPUS 483-6100 
+
+
+
+Any Plans 
+for Lunch? 
+Domino's 
+Pizza r 
+Delivers? 
+
+Free 30 minute delivery 
+ant) 10 minute pick-up 
+
+Call us. 
+
+484-0366 
+
+
+
+
+Four free 
+
+bottles of 
+
+Coke! 
+
+
+
+Hours: 
+4:00- 12:00 Sun. 
+11:00 - 12:00 Mon. - Thurs. 
+11:00- 2:00 Fri. - Sat. 
+Drivers carry under S20.00. 
+Limited delivery area. 
+
+
+
+L 
+
+
+
+4 tree boltles °f Coke 
+wilh any 16" pizza. 
+One coupon per pizza- 
+
+
+
+Fast, Freo Delivery 
+3414 N. Anthony Blvd. 
+Phone: 484-0360 
+
+
+
+J 
+
+
+
+
+ATTENTION 
+IPFW STUDENTS 
+
+•CABLE TV 
+
+•LAUNDRY IN EACH BUILDING 
+•CLUBHOUSE AND SWIMMING POOL 
+•CENTRAL HEAT AND AIR CONDITIONING 
+•SPECIAL LEASING TERMS AVAILABLE 
+
+TO STUDENTS 
+•ACROSS FROM SHOAFF PARK 
+
+Appletree Apartments 
+
+6500 St. Joe Road 
+485-7529 
+
+
+
+.1 REAL ESTATE GROUP 
+
+
+
+Sister to Sister 
+
+
+
+Be a special friend to a Teen Girl! 
+
+Orientations Mondays @ 7 pm &amp; the 1st 
+Saturday of each month @ 11 am. 
+
+HEY SISTER.. .CAN YOU SPARE THE TIME? 
+
+
+
+e 
+
+
+
+big brothers/big sisters 
+
+of greater fart wayne 
+
+
+
+919 Fairfield tpn, fbrtVrayne, IN 46802 
+
+
+
+424-1600 
+
+
+
+Alumni activities 
+
+
+
+The alumni body of IPFW now numbers 
+over 13.000. Alumni reside in nearly every 
+slale of the union as well as several foreign 
+countries. This year's commencement will be 
+the school's seventeenth, and over 1,000 
+degrees will be awarded. 
+
+IPFW alumni are affiliated with the In- 
+diana University Alumni Association and the 
+Purdue Alumni Association. Governed by 
+volunteer boards of directors, the alumni 
+associations each year sponsor numerous 
+programs and activities that provide the 
+alumni an opportunity to remain active on 
+the . . - = 1 1 .. j -- The associations also publish 
+
+
+
+several alumni newsletters and undertake 
+projects and programs which benefit the 
+campus. 
+
+Each year the alumni sponsor the following 
+student-related programs: Oldtimers' Soccer 
+Game (varsity vs alumni); the Graduating 
+Class Council; a reception for student 
+leaders; publication or the IPFW pocket 
+calendar; Red and Gold Carpet Day, a 
+meeting for area high school students in- 
+terested in attending IPFW; and a placement 
+seminar for the graduating class. 
+
+The alumni office is located in Kettler 111. 
+Telephone 482-5343. 
+
+
+
+FREE 
+LEGAL AID 
+
+For IPFW Students 
+
+Contact Students' Government 
+
+Walb Memorial Union 
+
+Room 225 
+
+482-5353 
+
+
+
+
+THE PRICE 
+IS OVER. 
+
+
+
+It's a simple protess of deductive reasoning Bytrex has the hardware you need 
+at amazingly low prices. Instant credit. On-the-spot financing. 
+
+Bytrex carries firsl-rate equipment . . Elephant Memory Systems . . printers 
+.m Prowrlter. Starwnter. Okidala. NEC. and Sony . Intec boards Amdek 
+unitors . . . Alart compilers . Zenith Data Systems . plus the new Sony 
+
+hed lo your system . compalablewithyour 
+steadfastly by until the job Is done You can 
+nevideogame otdatamonagementlora 
+
+■n you consider the special prices and pack* 
+sembled just for the Computer Show, the 
+
+
+
+Maplcwood Plaza 
+
+5958 Slellhorn Road 
+
+Phone 485-751 1 
+
+
+
+Bytrex has the software that's 
+application . - . and Ihev rer 
+
+.urt Bytrex 
+
+ufti- mill ion dollar b 
+
+Beat of oil - - 
+
+ages Bytrex ha: 
+
+
+
+
+AUGUST 11. 1983 — THE STUDENTS' HANDBOOK — PAGE9 
+
+
+
+
+COME AUVE 
+
+IN FORT WAYNE'S EXCITING NORTHEAST! COME 
+LIVE AT WOOD CREEK. 6711 RAMBLEWOOD 
+DRIVE, OFF REED OR MAPLECREST ROADS ON 
+EVARD. YOU GET ONE OR TWO BEDROOMS, 
+GAS HEAT AND HOT WATER, POOL, LIGHTED 
+TENNIS COURTS, CLUBHOUSE, CENTRAL AIR, 
+NEW LAUNDRY CENTER. CALL US! 485-7536 
+
+KiaCDEEK 
+
+
+
+Announcing a 
+
+religious experience without 
+
+hallucinations, dizziness 
+
+or slurred speech. 
+
+Rev. Margaret 
+McCray-Worrall *■ 
+
+Fr. Bob Zahrt I 
+
+S 
+
+We need you, and it'sj 
+
+possible you need us. R 
+
+Stop by and get " 
+acquainted. 
+
+We're here lor you! 
+
+Offices: IPFW Walb Union Bldg. 
+Rooms 221 A &amp; B 
+
+4B3-8291 
+
+Sponsored jointly by 
+
+Greater Fort Wayne 
+
+Campus Ministry. Inc. 
+
+and The Diocese ot 
+
+Fort Wayne-South Bend. Inc. 
+
+
+
+
+PAGE 10 - THE STUDENTS' HANDBOOK - AUGUST 11. 1983 
+
+
+
+IPFW Admi 
+
+
+
+
+Joseph P. Giusti - • Giusti 
+became chancellor of Indiana 
+University-Purdue University at 
+Fort Wayne in 1979. A native of 
+Pennsylvania, Giusti received his 
+B.A. from Villanova and his M.S. 
+and Ph.D. degrees from The 
+Pennsylvania State University- He 
+holds an academic appointment as 
+professor of education. Before 
+coming to IPFW, he had been 
+director of Penn State's Beaver 
+Campus since its establishment in 
+1965. 
+
+The chancellor is responsible to 
+the presidents and boards of 
+trustees of Indiana University and 
+Purdue University for carrying out 
+the missions and policies of both 
+universities on this campus. As the 
+chief administrative officer at 
+IPFW, he also works closely with 
+the IPFW board of advisors and 
+other community leaders to direct 
+IPFW's response to regional needs. 
+
+
+
+Edward A. Nicholson - vice 
+chancellor and dean of faculty, 
+Nicholson was appointed in 19S0. 
+Former dean of Wright State 
+University School of Business, he 
+holds the academic appointment of 
+professor of business ad- 
+ministration. A native of Ohio, 
+Nicholson has B.S, MA., and 
+Ph.D. degrees from The Ohio State 
+University. 
+
+The vice chancellor acts for the 
+chancellor in his absence, and as 
+chief academic, officer is 
+responsible for the administration 
+of all academic units and academic 
+support services, as well as 
+university ceremonies, the library, 
+Weekend College, the Learning 
+Resource Center, and sponsored 
+research. 
+
+
+
+
+
+John R. Carnaghi - Carnaghi 
+was appointed vice chancellor for 
+financial affairs in November 1980. 
+Before coming to IPFW, Carnaghi 
+held several positions during his 13 
+years at Purdue's West Lafayette 
+Campus, including director of the 
+budget office andassistant director 
+of wage and salary administration. 
+A native of Herrin. Illinois, Car- 
+naghi holds a B.S. degree in 
+marketing from Southern Illinois 
+University-Carbondale and an M.S. 
+in educational administration from 
+Purdue University at West 
+Lafayette. 
+
+The vice chancellor for financial 
+affairs is responsible for the 
+management of all financial and 
+business affairs of the campus, 
+including physical plant 
+operations, controller functions, 
+purchasing, payroll, personnel, 
+budget, police and safety, and 
+auxiliary services. 
+
+
+
+John P. Ulmer - Ulmer, dean of 
+student services, earned his B.S., 
+M.S., and Ed.D. degrees at Indiana 
+University. A native of Topeka, 
+Indiana, Ulmer came to IPFW in 
+1964 after serving as a counselor in 
+the reading and study skills clinic 
+at Indiana University. Previously 
+he had been a social studies 
+teacher, an Army education 
+supervisor, and a vice principal 
+and director of guidance. 
+
+The dean of student services is 
+responsible for organizing, plan- 
+ning, staffing, and administering 
+programs affecting student ser- 
+vices on campus and off, including: 
+career development and 
+placement, child care, disabled 
+students services, minority and 
+foreign student services, student 
+activities, and veterans' affairs. 
+
+
+
+
+
+PAGE 10- THE STUDENTS' HANDBOOK - AUGUST 11. 1983 
+
+
+
+IPFW Administrators 
+
+
+
+AUGUST 11, 1983 —THE STUDENTS' HANDBOOK — PAGE 11 
+
+
+
+
+Joseph P Giusti - - Giusti 
+became chancellor of Indiana 
+University-Purdue University at 
+Fort Wayne in 1979. A native of 
+Pennsylvania, Giusti received his 
+B.A. from Villanova and his M.S. 
+and Ph D degrees from The 
+Pennsylvania State University. He 
+holds an academic appointment as 
+professor of education. Before 
+coming to IPFW, he had been 
+director of Penn State's Beaver 
+Campus since its establishment in 
+1965. 
+
+The chancellor is responsible to 
+the presidents and boards of 
+trustees of Indiana University and 
+Purdue University for carrying out 
+the missions and policies of both 
+universities on this campus. As the 
+chief administrative officer at 
+IPFW, he also works closely with 
+the IPFW board of advisors and 
+other community leaders to direct 
+lPFW's response to regional needs. 
+
+
+
+Edward A. Nicholson - vice 
+chancellor and dean of faculty, 
+Nicholson was appointed in 1980. 
+Former dean of Wright State 
+University School of Business, he 
+holds the academic appointment of 
+professor of business ad- 
+ministration. A native of Ohio, 
+Nicholson has B.S.. M.A.. and 
+Ph.D. degrees from The Ohio State 
+University. 
+
+The vice chancellor acts for the 
+chancellor in his absence, and as 
+chief academic, officer is 
+responsible for the administration 
+of all academic units and academic 
+support services, as welt as 
+university ceremonies, the library, 
+Weekend College, the Learning 
+Resource Center, and sponsored 
+research. 
+
+
+
+
+
+John R. Camaghi -- Carnaghi 
+was appointed vice chancellor for 
+financial affairs in November 1980. 
+Before coming to IPFW, Carnaghi 
+held several positions during his 13 
+years at Purdue's West Lafayette 
+Campus, including director of the 
+budget office and assistant director 
+of wage and salary administration. 
+A native of Herrin, Illinois, Car- 
+naghi holds a B.S. degree in 
+marketing from Southern Illinois 
+University-Carbon dale and an M.S. 
+in educational administration from 
+Purdue University at West 
+Lafayette. 
+
+The vice chancellor for financial 
+affairs is responsible for the 
+management of al) financial and 
+business affairs of the campus, 
+including physical plant 
+operations, controller functions, 
+purchasing, payroll, personnel, 
+budget, police and safety, and 
+auxiliary services. 
+
+
+
+John P. Ulmer - Ulmer, dean of 
+student services, earned his B.S., 
+M.S., and Ed.D. degrees at Indiana 
+University. A native of Topeka. 
+Indiana, Ulmer came to IPFW in 
+19G4 after serving as a counselor in 
+the reading and study skills clinic 
+at Indiana University. Previously 
+he had been a social studies 
+teacher, an Army education 
+supervisor, and a vice principal 
+and director of guidance. 
+
+The dean of student services is 
+responsible for organizing, plan- 
+ning, staffing, and administering 
+programs affecting student ser- 
+vices on campus and off. including: 
+career development and 
+placement, child care, disabled 
+students services, minority and 
+foreign student services, student 
+activities, and veterans' affairs. 
+
+
+
+
+
+Judith M. Clinton - Clinton was 
+appointed director of university 
+relations in 1981. Formerly a 
+lecturer and associate faculty 
+member in Spanish at iPFW, she 
+has also been assistant to the 
+chancellor since 1979. She earned 
+her B.A. and M.A. from the 
+University of Kansas, and is a 
+native Californian. 
+
+The director of university 
+relations oversees the news 
+bureau, publications, and special- 
+events operations of the campus. 
+The assistant to the chancellor is 
+responsible for preparing a variety 
+of written materials for the 
+chancellor, serving as liaison with 
+faculty and students, and carrying 
+out projects designated by the 
+chancellor. 
+
+
+
+Carl E. Bickley-assistant to the 
+chancellor for athletics, director of 
+development, and executive 
+director of community outreach, 
+Bickley joined our campus in 1966. 
+A native Hoosier, he earned his 
+B.S. from Indiana State University ■ 
+and his M.S. and Ed. D. from 
+IndianaUniversity. 
+
+Bickley is responsible for the 
+administration of a wide range of 
+functions, including fund-raising, 
+promotion, athletics, recreation, 
+intramurals. and the Community 
+Outreach programs. He also 
+assumes special assignments and 
+representative functions at the 
+direction of the chancellor. 
+
+
+
+
+
+Norman H. Newell, Jr. - 
+executive assistant to the chan- 
+cellor, Newell has been with IPFW 
+since 1979. Before then, Newell 
+served as chief financial officer 
+and assistant to the director at the 
+Beaver Campus of The Penn- 
+sylvania State University. A native 
+of Wise, North Carolina, Newell 
+obtained a B.S. from Geneva 
+College in 19aB and an M.S. from 
+the University of Akron in 1973. 
+
+The executive assistant assumes 
+special assignments al the 
+direction of the chancellor, 
+discharges a number of ad- 
+ministrative functions required of 
+the chancellor's office, and works 
+specifically with the affirmative 
+action officer, computing and data 
+processing services, and the office 
+of institutional research. 
+
+
+
+John D. Hobson - Hobson was 
+appointed director of alumni 
+relations in 1973. A Fort Wayne 
+native, Hobson earned his B.S. and 
+M.S. degrees from Indiana 
+University and has done additional 
+graduate study at Purdue 
+University and St. Francis College. 
+
+The alumni director is respon- 
+sible for the operation of the 
+alumni relations program, which 
+includes maintaining the alumni 
+records, coordinating a wide range 
+of alumni-sponsored events and 
+programs, assisting with the an- 
+nual Commencement ceremony, 
+and publishing various alumni 
+newsletters. 
+
+
+
+
+PAGE 12 — THE STUDENTS' HANDBOOK — AUGUST 11 , 1983 
+
+
+
+■■■■■■HHHHHHMHHHI 
+
+
+
+Athletics 
+
+
+
+1983 CROSS COUNTRY SCHEDULE 
+
+GRACE COLLEGE &amp; MANCHESTER COLLEGE 
+at Defiance Invitational 
+at Grace Invitational 
+
+
+
+14 at Little Stale (Purdue) 
+
+21 GOSHEN COLLEGE 10 
+39 NCAA REGIONALS 
+
+1893 SOCCER SCHEDULE 
+
+Am gun 
+
+2B ALUMNI GAME 5 
+September 
+
+6 UNIVERSITY OF NOTRE DAME * 
+
+10 al Oakland University ! 
+
+14 INDIANA INSTITUTE OF TECHNOLOGY * 
+
+17 al Indiana Central University 1! 
+2\ BETHEL COLLEGE 4 
+
+24 GRANO RAPIDS BAPTIST COLLEGE ' 
+
+28 LEWIS UNIVERSITY ' 
+October 
+
+1 at Bcllarmine College ; 
+
+i at St Francis College 
+
+8 at Grace College ; 
+
+12 al Manchester College 
+
+15 at Wright State University 
+
+18 at Ohio Northern University 
+
+22 OEPAUL UNIVERSITY 
+
+25 MARION COLLEGE 
+
+29 WABASH COLLEGE 
+
+13B3 WOMEN'S VOLLEYBALL SCHEDULE 
+
+September 
+
+1 OHIO STATE UNIVERSITY 
+
+10 at Michigan University 1 
+
+14 CITY TOURNAMENT at Saint Francis 
+
+16 IPFW TOURNAMENT 
+
+17 IPFW TOURNAMENT 
+21 MARIAN COLLEGE 
+
+2B VALPARAISO UNIVERSITY 
+
+30 at Ohio Northern University 
+October 
+
+1 al Ohio Northern University 
+
+4 at Indiana Central w/Bellarmme 
+
+5 at Ohio Northern University 
+
+7 at Wright Stale University 
+
+8 at Wright State University 
+
+11 at Manchester w/Anderson 
+
+15 at Goshen College (4-way) 
+
+
+
+FRANKLIN COLLtGt 
+at Indiana Central University 
+at Indiana Central University 
+SIENA HEIGHTS W/ALBION 
+at Grand Valley State College 
+al Grand Valley Slate College 
+
+2 at Wright Slate University 
+
+4 at Valparaiso University 
+
+5 at Valparaiso University 
+
+19 INDIANA CENTRAL UNIVERSITY 
+
+1883-84 WOMEN'S TENNIS SCHEDULE 
+
+September 
+
+3 al Valparaiso w/lndiana Stale Ev. 
+11 at Si. Joseph's College 
+
+15 VALPARAISO UNIVERSITY 
+17 GOSHEN COLLEGE 
+ZO MANCHESTER COLLEGE 
+25 al St Mary's 
+, 27 HUNTINGTON COLLEGE 
+October 
+
+
+
+1883-84 MEN'S TENNIS SCHEDULE 
+
+MARION 
+
+at Findlay College 
+al Goshen College 
+al Grace College 
+ST FRANCIS COLLEGE 
+at St Francis Coiieqe 
+EARLHAM COLLEGE 
+at Bethel College 
+at Taylor 
+
+FINDLAY COLLEGE 
+
+
+
+1883-44 MEN'S BASKETBALL SCHEDULE 
+
+at Grand Valley Slate College ? 30 p m. 
+
+GOSHEN COLLEGE 7:30 pm 
+
+OAKLAND UNIVERISTY (Michigan) 730 p.m 
+
+at Indiana-Puidue at Indianapolis 7:30 p.m 
+at Millikin Tournament TBfl 
+
+|NE Missouri State. Olivet College) 
+
+HILLSDALE COLLEGE 7 30pm 
+IPFW Classic leA 
+
+(Huntington. Grand Valley Slate, Ohio Northern) 
+
+
+
+WRIGHT STATE UNIVERSITY 
+
+
+7:30 om 
+
+
+UNIVERSITY OF WlSCONSIN-PARKSIDE 
+
+
+7:30 p.m 
+
+
+INDIANA STATE UNIVERSITY-EVANSVILLE 
+
+
+7:30 p.m 
+
+
+al Central Stale University (Ohio) 
+
+
+7:30 p m 
+
+
+at Marian College (Indianapolis) 
+
+
+7:30 pm 
+
+
+INDIANA UNIVERSITY-SOUTHEAST 
+
+
+7:30 p m 
+
+
+INDIANA-PURDUE AT INDIANAPOLIS 
+
+
+7:30 p m 
+
+
+PURDUE UNIVERSITY-CALUMET 
+
+
+7:30 p m 
+
+
+at University oi Wis con sin- Path side 
+
+
+7 30pm 
+
+
+ST JOSEPHS COLLEGE 
+
+
+7 30pm 
+
+
+
+ILLINOIS INSTITUTE OF TECHNOLOGY 
+at Indiana Stale University- Evans v il le 
+at Indiana University- South east 
+al Illinois Instiluie ol Technology 
+ST FRANCIS COLLEGE 
+MARIAN COLLEGE 
+
+
+
+18B3-84 WOMEN'S BASKETBALL SCHEDULE 
+
+bur 
+
+ST. JOSEPH'S COLLEGE M 
+
+INDIANA STATE UNIVERSITY 3C 
+
+BUTLER UNIVERSITY 7 [ 
+
+ber 
+
+al Lewis University 7: &lt; 
+
+ST FRANDIS COLLEGE IX 
+
+WRIGHT STATE UNIVERSITY 
+
+at Grand Valley Slate College 1:( 
+
+al Wayne Slate University 
+
+MARION COLLEGE 
+
+at Northern Michigan University 5:00 p. 
+
+vs. University ol Wisconsin-LaCrosse 
+at Northern Michigan University 4:00 p 
+
+vs University ot Wisconsin-Green Bay 
+at Northern Michigan University 2:00 p 
+
+at St Joseph's College 7:1 
+
+UNIVERISTY OF WISCONSIN -MILWAUKEE 7:: 
+
+al Huntington College 4' 1 
+
+VALPARAISO UNIVERSITY 
+
+OHIO NORTHERN UNIVERSITY 2-' 
+
+at Ceniral State University 7: 
+
+UNIVERSITY OF MICHIGAN-DEARBORN 
+IfY 
+
+at Taylor University 
+
+FERRIS STATE COLLEGE 
+
+at University ol Michigan Dearborn 7: 
+
+I GOSHEN COLLEGE 1: 
+
+. al Northern Kentucky University 5: 
+
+■ at Bellarmine College 3: 
+
+
+
+al Indiana Central University 
+
+
+
+IPFW Athletic Program 
+
+
+
+Want to be where the action is? 
+Catch 'Mastodon Madness' now!!! 
+
+
+
+The Multipurpose Building has five racquet ball -handball 
+courts, three full-size basketball courts, and an indoor 
+jogging track. The area around the main basketball court 
+will provide seating for 3,200 spectators. There are also 
+facilities for indoor tennis, volleyball, gymnastics, 
+wrestling, weight lifting, conditioning, and dancing, Offices 
+for athletics and student health care are located on the 
+upper level, two classrooms and a lecture hall on the main 
+floor, and locker rooms on the lower level of the building. 
+Useof the facility issubject to the following fees: 
+A. Athletic Center Semester -Session User Fee Schedule 
+
+1. Students enrolled in nine or more credit hours: 
+Academic semester - no fee; Summer Session+ - $10. 
+
+2. Faculty and Staff: Academic semester - $12; Summer 
+Session -$10. 
+
+3. Spouse of Faculty or Staff: Academic Semester - $12; 
+Summer Session - S10. 
+
+4. Students enrolled in fewer than nine credit hours tmay 
+opt to pay $20 Student Service Fee for same privileges as a 
+full-time student): Academic Semester - $12; Summer 
+Session -$10. 
+
+5. '£ length dressing locker and lock: Academic semester 
+-$6; Summer.Session-$6. 
+
+6. Towel Service: Academic Semester - $6; Summer 
+Session- $6. 
+
++ For purposes of fee assessment summer session is 
+defined as that period from the end of spring semester to 
+the beginning of fall semester. 
+
+B. Annual fees 
+
+1. Annual Fee (single) $30.00. 
+
+2. Annual Fee (single, including locker and towel ser- 
+vice) $50.00. 
+
+
+
+3 Annual Fee (family) $60.00. 
+
+4. Annual Fee (family, including locker and towel ser- 
+vice) $100.00. 
+
+C. Athletic Center Daily User Fee Schedule. 
+
+1. Daily fee for use of general recreation area for those 
+who have not paid the semester or session fee: student; 
+faculty and staff; spouse of faculty, staff or student; or 
+guest of a fee payer, $2.00-day. 
+
+2 Daily fee for use of general recreation area for 
+dependents of faculty, staff or student - hours will be 
+designated: $1. 00-day. 
+
+3. Hourly fee per handball court in addition to daily or 
+semester fee: $3.0O-hour. 
+
+4. Daily locker and lock fee : $.SO-day. 
+
+5. Daily towel service: $ 50-day. 
+
+6. Locker opening: $.25. 
+
+7. Lock key replacement: $1.00. 
+
+8. Lock replacement: cost of lock. 
+
+9. Towel replacement: cost of towel. 
+
+10. Equipment damaged, not returned, or lost: cost of 
+equipment replacement. 
+
+INTERCOLLEGIATE PROGRAMS 
+The purposes of the intercollegiate athletics programs at 
+IPFW are to (a) provide opportunities for healthful 
+physical exercise and recreation, (b) develop athletic skills 
+through practice and coaching, (cl build school spirit and 
+identity, and Id) enrich the collegiate experience for both 
+participants and spectators. To be eligible to participate in 
+the intercollegiate athletic programs you are required to 
+take a minimum of 12 credits, and must be making 
+satisfactory progress toward a degree. IPFW in- 
+tercollegiate sports are oascball, ■■■- ' ""' " r 
+
+
+
+n's and men's 
+
+
+
+basketball, coed cross-country, coed golf, soccer, women's 
+and men's volleyball, and women's and men's tennis. 
+RECREATION PROGRAMS 
+The IPFW recreation program is open to students, 
+faculty and staff of IPFW. The "Intramural Sports Hand- 
+book" contains- more detailed eligibility information and is 
+available in the athletics office, You can participate in 
+activities such as tennis, flag football, racquetball, 
+billiards, volleyball, basketball, table tennis, running and 
+softball. 
+
+Sign-up dates will be announced in the Communicator and 
+posted on the recreation bulletin board in the lobby of the 
+Multipurpose Building. Any individual or group can form a 
+team for any of the team activities. Please submit your 
+ideas, requests, or suggestions for team or individual sports 
+and physical fitness- activity needs. 
+
+Equipment is available for individual or group use on 
+campus. Bring an ID to check out equipment for volleyball, 
+basketball, football, softball, and other activities. 
+
+Another popular facility on campus is the parcourse, a 
+walking, jogging, exercise course located east of the 
+Multipurpose Building. 
+
+Other activities oulside of the intercollegiate programs 
+include a club sport program The primary goal is to 
+provide our students, faculty, and staff the opportunity to 
+participate in some form of activity according to varied 
+abilitiesandinterests. , . 
+
+Diet, conditioning, jogging, and weight-training 
+programs are available for those who desire a formal 
+program for physical fitness. These programs can be ob- 
+tained through the first aid and health information office in 
+the Multipurpose Building. . 
+
+
+
+AUGUST 11 , 19B3 - THE STUDENTS' HANDBOOK - PAGE 1? 
+
+
+
+Hassle-Free Living is Here* 
+
+
+
+When there's so many hassles in your world, it's nice to come home to an easy- 
+to-live-in, conveniently located apartment or townhome. 
+
+Hassle-Free Living includes: 
+
+•Well-designed living space— apartments and townhomes built for people. 
+
+• Many of the features you pay much more for elsewhere. 
+
+• Excellent maintenance, with 24-Hour emergency service. 
+
+• Conveniently located to shopping (only 3 minutes from Glenbrook Square), 
+entertainment (restaurants, theatres and the Coliseum within walking 
+distance) and we're only minutes from downtown. 
+
+• Professionally managed by very nice people — we're also your neighbors! 
+
+1 ck 2 Bedroom Apartments, 2 6k 3 Bedroom 
+Townhomes. 
+
+6 mo. &lt;Sc 1 year leases available 
+
+Children and Small pets welcome. 
+
+Ask about our Senior Citizen Discount 
+
+
+
+SPRING 
+
+arbor 
+
+
+
+
+Call Today 483-3196 1025RidgewoodDrive»AcrossfromtheColiseum 
+
+
+
+r— ™ ----- --—---— -—-—-—-. 
+
+
+
+I Get a great deal on 
+I 
+
+j Hassle-Free Living 
+
+Two months FREE electricity, plus 
+
+Only $100 Security Deposit (per roommate) 
+
+with this coupon and your IU-PU 
+registration or ID card. 
+
+
+
+
+SPRING 
+
+arbor 
+
+
+
+PARTMENT8 
+
+
+
+Hours: 
+
+
+
+10 to 5 Saturday 
+
+
+
+■9' to 6 Weekdays 12 to 4 Sunday 
+
+
+
+Specials expire March 31, 1984. One year leases only 
+
+
+
+PAGE 14 — THE STUDENTS' HANDBOOK — AUGUST 11 , 1983 
+
+
+
+A Statement of Student Rights and Responsibilities 
+(Indiana University) 
+
+
+
+SECTION I. STUDENT RIGHTS 
+AND RESPONSIBILITIES 
+
+1 l Students should have accurate and plainly stated 
+information relating to the maintenance of acceptable 
+academic standing, graduation requirements, and in- 
+dividual course objectives and requirements iseethelPFW 
+Bulletin) 
+
+1.2 Student records will be maintained in keeping with the 
+Family Educational Rights and Privacy Act of 1974, further 
+amendments and the HEW guidelines for implementation. 
+
+1 3 In all academic evaluations, and in instances of 
+academic discipline, the student has the right to fair and 
+impartial treatment. 
+
+1.4 
+
+(a) Students may establish, issue, and distribute — 
+consistent with appropriate regulations concerning the 
+time, place, and manner of distribution — student-directed 
+publications which are in no way published under the 
+auspices of the university and are published without any 
+financial support from the university. Such regulations 
+shall not be designed to restrict student access to these 
+publications on university property. 
+
+lb) Student-directed pubhcations which are published 
+under university auspices shall be free of censorship. The 
+university shall honor this freedom by publicly recognizing 
+and protecting the student editors' and managers' right to 
+establish editorial policies — within the bounds of 
+prevailing legal standards and standards of journalism. 
+Specifically, student editors or managers may not be 
+suspended or removed in response to pressure by external 
+groups disagreeing with their editorial policies. 
+
+1.5 Students have the right to freedom from unlawful 
+discrimination on the basis of race, color, religion, sex, or 
+national origin. 
+
+1.6 Students shall have the opportunity to participate in 
+the formulation of policy directly affecting students 
+through membership on appropriate committees as 
+determined by the chancellor and the president of the 
+university. 
+
+1.7 Students should be free from illegal searches and 
+seizures. 
+
+
+
+1.8 
+
+
+
+(a) The university will not interfere with the rights of 
+students to join associations which promote their common 
+interests as students. 
+
+(b) Student organizations holding a fiscal-legal 
+relationship with the university are subject to university 
+policies, procedures, and regulations pertaining to such 
+organizations. 
+
+1.9 
+
+la) Indiana University considers freedom of inquiry and 
+discussion essential to a student's educational develop- 
+ment. Thus, the university recognizes the right of all 
+students to engage in discussion, to exchange thought and 
+opinion, and to speak, write, or print freely on any subject, 
+in accordance with the guarantees of federal and state 
+constitutions. This broad principle is a cornerstone of 
+education In a democracy. 
+
+(b) For their programs student groups on the campus 
+may freely select persons they wish to invite as guest 
+speakers or performers. There are no restrictions on the 
+point of view expressed by speakers other than those im- 
+posed by national or state law. The jnvitabon to an outside 
+speaker does not imply approval or sponsorship of the 
+speaker's views by the university nor by the group inviting 
+the speaker. 
+
+(c) University facilities are designed to accommodate the 
+scheduled activities of the university, to accommodate the 
+extracurricular activities of student groups, and to ac- 
+commodate visitors and guests of the university. From 
+lime to time, as extraordinary requests may justify, 
+facilities may be made available for programs of various 
+kinds sponsored by non-university groups, especially for 
+charitable or civic purposes. 
+
+Id) The university does not make its facilities available 
+for fund-raising purposes if the funds are designated to 
+enrich an individual or commercial sponsor. 
+
+(e) The university's facilities ordinarily will be 
+unavailable for the purpose of providing entertainment of a 
+kind that is available in the outside community and is 
+competitive with it. 
+
+(f) The university reserves the right to control its 
+facilities to assure that events held are compatible with its 
+prime purpose of serving the university community by 
+making available to it programs that appear to enhance its 
+cultural and educational opportunities. 
+
+tg) The university will at all times seek to assure student 
+and faculty groups the opportunity to meet and to hear and 
+exchange ideas and views, however controversial, but it 
+does not license and will not tolerate what is illegal. 
+
+1.10 Students are free to engage in peaceful and orderly 
+protest, demonstration, and picketing which does not 
+disrupt functions of the university. 
+
+1.11 Students have the right to freely exercise their full 
+
+
+
+rights as citizens In this light, the university affirms the 
+right to students to exercise their freedoms without 
+university interference or fear of university sanction for 
+such activity. 
+
+1,12 As members of the academic community, students 
+have an obligation to that community and to the preser- 
+vation of the academic process. As citizens, students have 
+the responsibility to know and obey the laws of the United 
+States, the State of Indiana, and of local governments. 
+Student status in no way exempts them from the 
+requirements of obeying such laws. 
+
+1.13 
+
+la) The following actions constitute misconduct for which 
+students may be penalized, by such sanctions as described 
+in 1.13 &lt;c), when committed on university property: 
+
+(1) Actions which endanger the student, the university 
+community, or the academic process. 
+
+(2) Conduct that is made a crime by the criminal law of 
+the State of Indiana or the United States of America, that 
+lakes place on university property or in the course of a 
+university activity. 
+
+(3) Academic dishonesty, such as cheating and 
+plagiarism; knowingly furnishing false information; and 
+forgery, alteration, or unauthorized use of university 
+documents, records, identification, or property. 
+
+14) Intentional actions which obstruct, disrupt, or 
+physically interfere with the use of university premises, 
+buildings, rooms, or passages, or refusal to vacate a 
+building, street, sidewalk, driveway, or other facibty of the 
+university when directed to do so by an authorized officer of 
+.ie university having just cause to order the vacation. 
+
+(5) Use of, or threatened use of physical force or 
+violence to restrict the freedom of any person, or acting 
+with violence, or aiding, abetting, encouraging, or par- 
+ticipating in a riot or rioting, or inciting a riot, when the 
+conduct occurs on university property or in the course of a 
+university activity. 
+
+16) Initiation or circulation of a report or warning of an 
+impending bombing, false alarm of fire, or other crime, 
+emergency, or catastrophe, knowing that the report is 
+false, or knowingly transmitting such a report to an official 
+or to an official agency, or intentionally false reporting of a 
+fire, or that a bomb or other explosive has been placed in 
+any university building or elsewhere on university 
+property. 
+
+17) Failure to comply with the directions of university 
+officials and their authorized agents acting in the per- 
+formance of their duties. 
+
+(8&gt; Possession or use of alcoholic beverages on any 
+university property contrary to law; the possession or use 
+of alcoholic beverages in any undergraduate residence 
+supervised by the university, or the use or conspicuous 
+possession of alcoholic beverages in or on any property of 
+the university frequented by the public. 
+
+(9) Possession of firearms or other dangerous weapons on 
+university property contrary to law; possession or display 
+of any firearm on university property frequented by the 
+public, except in the course of an authorized activity; or 
+possession of weapons in residence halls on university 
+properly in violation of residence halls rules. 
+
+UO) Intentional possession on university property of a 
+dangerous article or substance as a potential weapon, or of 
+any article or substance calculated to injure or discomfort 
+any person without consent. 
+
+(11) Possession or use of illegal fireworks, incendiary 
+devices, or other dangerous explosives. 
+
+(12) Possession or use of illegal drugs. 
+
+(13) Intentional damage to or destruction of university 
+property or of property on university premises belonging to 
+others. 
+
+(b) Actions not committed on university property may 
+also be subject to penalties, provided that the offense 
+relates to the security of the university community or the 
+integrity of the educational process (e.g., rape, arson, fraud 
+
+(c) The scope of disciplinary sanctions which may be 
+imposed on students is as follows: reprimand; disciplinary 
+probation; expulsion from university housing; suspension 
+or expulsion from the university In addition, academic 
+misconduct may be punished by an academic sanction in 
+the course in which the misconduct occurred. 
+
+(d) * The process for imposing academic and-or 
+disciplinary sanctions shall be designed to accord students 
+the guarantees of due process and procedural fairness. 
+
+(c) The university undertakes to ensure equal treatment 
+of students subject to disciplinary or academic sanctions, 
+and to impose similar sanctions for similar misconduct; 
+provided, that the student's prior conduct record, if any, 
+will be taken into consideration, 
+
+SECTION II. DISCIPLINARY PROCEDURES 
+
+2.1 Applicability of Procedures 
+
+A student charged with violating university rules of 
+student conduct shall be punished only in accordance with 
+the following procedures. However, house and hall rules, 
+
+
+
+motor vehicle regulations, and procedures under which 
+those regulations are enforced, as well as procedure under 
+which the university applies its checklist to collect monies, 
+continue in force, and adjudication of questions rising under 
+ihcm need not comply with the following procedures and do 
+not apply to controversies that are amenable to those 
+procedures. 
+
+2.2 Notice 
+
+l a &gt; Disciplinary action against a student shall be initiated 
+by the dean of student services by the sending of a notice to 
+the student. 
+
+lb) The notice shall be sent by certified mail to the 
+student's address as it appears in the official records of the 
+university or shall be delivered personally to the student 
+The notice shall quote the rule claimed to have been 
+violated and shall fairly inform the student of the reported 
+circumstances of the allegedly wrongful conduct. The 
+notice shall require the student to appear in the office of the 
+dean at a time and on a date specified (which ordinarily will 
+not be earlier than seven days after the mailing of the 
+notice) to discuss the alleged violation. 
+
+Id The notice shall inform the student of the following: 
+
+1 1 ) The offense the student is alleged to have committed 
+by citing the relevant section of this code; 
+
+(2) The date, time, and place of alleged commission, and 
+other relevant circumstances; 
+
+1 3) The dale, time, and place of the conference to discuss 
+the alleged violation; 
+
+(4 ) That the student may have an advisor or other counsel 
+at the conference, 
+
+15) That the student need not answer questions and that a 
+choice to remain silent will not be taken as an admission of 
+guilt; 
+
+16) That, if the student fails to appear for the conference, 
+the dean may: (a) reschedule the conference; (b) dismiss 
+the charges; or (c) if the dean reasonably believes the 
+failure to be inexcusable, impose any of the disciplinary 
+penalties described under Section 1, paragraph 1.13 (c) 
+
+17) That many disciplinary penalties imposed under the 
+circumstances noted in paragraph 16) above shall be 
+subject to further hearing or appeal, but the fact of the 
+student's failure to appear at the conference, if unjustified. 
+may be weighed as a factor in future hearings. 
+
+2.3 Student's Response to Charge: Disposition Without 
+Hearing 
+
+(a) When the student appears as required, the dean shall 
+inform the student as fully as possible of the facts alleged. 
+The student may. but need not, make responses and ex- 
+planations. 
+
+lb) If, after discussion and such further investigation as 
+may be necessary, the dean determines that the violation 
+alleged is not supported by the evidence, the dean shall 
+dismiss the accusation and notify the student. 
+
+ic) If, after discussion, or if the student fails to appear, 
+and if the dean is satisfied that the violation occurred as 
+alleged, the dean shall so notify the student and shall 
+propose a penalty by means of a written notice. The 
+student, by such notice, shall be offered the choice either of 
+consenting to the determination and proposed penalty or of 
+requesting a hearing before a hearing commission. Should 
+a student desire a hearing before a hearing commission, the 
+request shall be made in writing and delivered to the dean 
+on or before a date specified in the notice that proposes the 
+penalty, which shall be a date no earlier than seven days 
+after its mailing. 
+
+(d) If no written choice is received by the dean within the 
+lime specified, no hearing shall be held, the punishment 
+proposed by the dean shall be imposed, and the action shall 
+be considered final. 
+2.4 Hearing 
+
+la) If a student requests a hearing, the dean shall make 
+arrangements for the hearing; but thereafter, with notice to 
+ihe student, the dean may request the hearing commission 
+(see 2 4 (b)) to dismiss the case. If a hearing is to take 
+place, notice from the dean shall be sent by certified mail to 
+the student's address as it then appears in the official 
+records of the university or shall be delivered personally 
+to Ihe student. The notice shall inform the student of the 
+following: 
+
+(1) the offense alleged to have been committed, by citing 
+the relevant section of this code; 
+
+- 12) the date, time, and place of alleged commission, and 
+other relevant circumstances, including a summary of the 
+evidence upon which the charges are based, the names of 
+those who may be presented as witnesses and-or whose 
+statements would be offered as evidence at the hearing; 
+
+(3) the date, time, and place of the hearing, which shall 
+not be earlier than ten days after the date of the notice; 
+
+14) that the student is entitled to be present with counsel 
+or an advisor of his-her choice and to present witnesses and 
+to cross-examine witnesses who appear; 
+
+(5) that the university may also be represented by legal 
+counsel if it so elects; 
+
+(6) that the student need not answer questions, and that a 
+
+(Continued on page 16) 
+
+
+
+AUGUST 11, 1983 - THE STUDENTS' HANDBOOK — PAGE 15 
+
+
+
+DISCOUNT RECORDS &amp; TAPES 
+
+
+
+Elvis Costello 
+
+
+
+
+DISCOUNT RECORDS S. TAPES 
+
+
+
+Billy Joel 
+
+
+
+
+$5.88 
+
+
+
+Led Zeppelin 
+
+
+
+
+$4.88 
+
+
+
+Neil Young 
+
+
+
+
+
+
+$5.88 
+Human League 
+
+
+
+LEAGUE 
+
+FASCINATION! 
+
+
+
+$3.88 
+
+
+
+
+$4.88 
+
+
+
+
+r -.v 
+
+
+
+
+$3.88 
+I.ynyrd Skynyrd 
+
+
+
+
+$4.88 
+
+
+
+GREAT MUSIC AT GREAT PRICES! 
+
+
+
+PAGE 16 — THE STUDENTS* HANDBOOK — AUGUST 11 , 1983 
+
+Continued irom 14) 
+choice lo remain silent will not be taken as an admission of 
+guilt; 
+(7) the penalties that may be imposed by the hearing 
+
+
+
+48) that the hearing will be closed to the public, unless the 
+student indicates in writing to the dean, at least five days in 
+advance tf the hearing, a desire to open the hearing to the 
+futHic. The dean and the presiding officer of the hearing 
+commission shall make arrangements satisfactory lo the 
+hearing commission to accommodate observers if a 
+hearing is to be public, and the hearing commission's 
+choice of place and determination of the number of ob- 
+servers that can be conveniently accommodated is final; 
+
+1 9 ) that the failure to appear at the hearing will be action 
+for which the hearing commission could impose any 
+disciplinary sanction without right of further appeal if the 
+hearing commission, upon diligent inquiry, finds such 
+failure lo be inexcusable. 
+
+&lt;b&gt; A hearing shall be conducted before a hearing 
+commission, appointed by the chancellor, which shall 
+consist of three members: one student and two faculty 
+mernrrs, one or the faculty to serve also as the presiding 
+officer of the commission. Each hearing commission shall 
+be constituted from a list of: 
+
+1 1 ) ten or more students appointed by the student body 
+president upon recommendation of the student assembly or 
+other appropriate representative body. 
+
+12) ten or more (acuity members (to be representative of 
+the various academic disciplines) to be appointed by the 
+chancellor. 
+
+(c) If any vacancy on the hearing list occurs because of 
+the failure or refusal of the appropriate authorities to make 
+recommendations to fill vacancies, the chancellor may 
+make appointments, fill vacancies, or take such other 
+action as is necessary to constitute the hearing list or any 
+hearing commission. The members of the hearing com- 
+mission shall hold office from the first day of the fall 
+semester Tor a term of one year, but they shall complete the 
+hearing of any case they have begun to consider Members 
+may be reappointed. 
+
+(d) No hearing shall be held unless all members of the 
+hearing commission are present tf any member of a 
+hearing commission is unable to serve or should be excused 
+from serving, another commission member shall be 
+selected from the hearing list. 
+
+(O The presiding officer, in consultation with other 
+members, shall maintain necessary order and shall make 
+all rulings necessary for the fair, orderly, and expeditious 
+conduct of the hearing. The hearing commission may 
+examine all witnesses. When it appears necessary to avoid 
+undue hardship or to avoid injustice, the hearing com- 
+mission may, in its discretion, grant a reasonable con- 
+tinuance of the hearing. The hearing commission shall 
+provide a taped transcript of all proceedings, which 
+transcript shall be maintained for a period of one year. 
+
+( f ) Copies of all communications pertaining to the alleged 
+offense from the dean of student services to a student whose 
+case is pending shall be sent to the presiding officer. The 
+dean of student services bringing charges and the student, 
+or the student's advisor or other counsel, may present and 
+examine witnesses, present other evidence, and may cross- 
+examine witnesses. The student charged with an offense 
+may testify, but shall not be ordered to testify by the 
+hearing commission, nor shall failure to testify be con- 
+sidered an admission of guilt. The burden of proving that 
+the student has committed the offense or offenses as 
+charged shall be upon the university. 
+
+( g) The decision of the hearing commission shall be solely 
+based upon matters introduced at the hearing and must be 
+based upon substantial and convincing evidence. A decision 
+shall be made by majority vote only, with all members of 
+the commission voting. 
+
+(h) The hearing commission shall make a finding 
+whether the student has committed the offense &lt;s&gt;. it shall, 
+after a review of any disciplinary record the student may 
+have, impose one of the disciplinary penalties enumerated 
+under Section I, 1.13 (c&gt;. of this code 
+
+(i) Within ten days after the conclusion of the hearing, the 
+hearing commission shall render a written decision and 
+include a brief explanation of the decision and set forth the 
+findings of fact upon which the decision is made. The 
+hearing commission shall promptly furnish copies of its 
+decision to the student and the dean. 
+
+2.5 Appeal 
+
+(a) The student or the dean may appeal the decision of the 
+hearing commission to the review board established by 
+paragraph 2.5 (c) below. An appeal may be initiated by 
+filing a notice of appeal with the dean, including a 
+memorandum stating the reason(s) for believing (he 
+decision improper, not later than seven days after the date 
+of the written decision of the hearing commission, and the 
+dean shall immediately forward the notice to the presiding 
+officer of the review board and the student involved (if 
+necessary), 
+
+(biThestudent shall be notified by the dean: 
+
+(I) of the dale, tune, and place of the appeal hearing; 
+
+&lt;:■:&gt; that either may submit written statements to the 
+review board and to one another, before the appeal 
+hearing; 
+
+(3) that, at the hearing, either may make oral arguments 
+
+
+
+based on the record to the review board, or that the 
+respective advisor or other counsel may do so; 
+
+&lt;4) that the appeal hearing will be closed to the public. 
+unless otherwise requested by the student at least five days 
+before the hearing; 
+
+15) that the review board will not accept additional 
+evidence, but will consider only the record of the previous 
+hearing. 
+
+to The review board shall be composed of a student 
+appointed by the appropriate presidenl of the student body, 
+a faculty member appointed by the Fort Wayne (Faculty) 
+Senate, and an administrative officer appointed by the chief 
+administrative officer of a campus. The administrative 
+member shall serve as chair. 
+
+(d) The members of the review board shall hold office 
+from the first day of the fail semester for a term of one 
+year, but they shall complete the review of any case which 
+they have begun to consider. No member may serve more 
+than two consecutive terms. If any vacancy on the review 
+board occurs because of the failure or refusal of ap- 
+propriate authorities to make recommendations to fill 
+vacancies, the chancellor may make appointments to fill 
+vacancies, or take such other action necessary to constitute 
+the review board. 
+
+(e) No hearing shall be held unless all members of the 
+review board are present. If any member of the review 
+board is unable to serve or should excuse himself- herself 
+from serving, another review board member shall be ap- 
+pointed in accordance with the provisions of sections (c&gt; 
+and id) above. 
+
+(f&gt; The presiding officer of Ihe review board, in con- 
+sultation with other members, shall maintain necessary 
+order and shall make all rulings necessary for the fair, 
+orderly, and expeditious conduct of the appeal hearing. 
+Decisions by the review board shall be by majority vote 
+only. 
+
+&lt;g) The review board will listen to the recorded tape or 
+the hearing commission, and then on the basis of (hat and 
+oral arguments, written statements, and a review of the 
+evidence presented at the appeal hearing, the review board 
+must render a decision within twenty days of the hearing 
+and may: 
+
+( 1 ) Affirm the original decision which shall be effective 
+as of the date specified by the hearing commission. 
+
+(2) Affirm the original decision (and reduce penalty) 
+which shall be effective as of Ihe date specified by the 
+hearing commission. 
+
+(3) Reverse the decision. 
+
+(4&gt; Disallow the decision and order a new hearing. 
+
+(h) The decision of the review board shall be sent to the 
+dean, who shall notify the student and proceed ap- 
+propriately. 
+
+2.6 Failure to Appear 
+
+If a student notified to appear before the dean or before a 
+hearing commission fails to comply and if the dean or the 
+hearing commission reasonably believes that the violation 
+occurred as alleged, the dean or the hearing commission 
+shall so notify the student and shall propose an appropriate 
+sanction by means of written notice. When an extension of 
+time appears necessary to avoid undue hardship or in- 
+justice, the dean may extend the time to enable a student to 
+respond lo an accusation or prepare a defense. 
+
+2.7 Summary Action 
+
+Summary suspension of a student and exclusion from 
+university property may be imposed without the hearing 
+procedure provided for in this Section, but only by the 
+presidenl of the university upon the recommendation of the 
+chancellor. The president shall first be satisfied that the 
+continued status as a student upon the campus seriously 
+threatens harm lo the student or to any olher person or the 
+property of the university or of others. A student so 
+suspended may be required lo leave the property of the 
+university and may be notified that he-she will thereafter be 
+treated as a trespasser if he-she returns. A student notified 
+of such a suspension may, within ten days after receipt of 
+such notice, request a hearing before a hearing com- 
+mission, as provided in this Section, to determine whether 
+the summary suspension is justified or whether the person 
+should be reinstated. 
+
+2.B Whenever disciplinary action is initiated by the dean 
+against a student under the age of eighteen, the dean shall 
+make reasonable efforts to assure that the parentis) or. 
+where applicable, other legal guardian of the student is 
+notified that the action is pending. 
+
+SECTION III. ACADEM1CDUE PROCESS 
+
+Preamble 
+
+Faculty and students alike have rights and respon- 
+sibilities for learning, teaching, and scholarship within Ihe 
+entire university community. Academic functions are 
+characterized by reasoned discourse, intellectual honesty, 
+mutual respect, and openness lo constructive change. In- 
+dividuals must remain active in avoiding violations of 
+academic ethics. 
+
+3.1 Definitions of Academic Misconduct. Student 
+Misconduct 
+
+(a) Cheating — Dishonesty of any kind with respect to 
+examinations, course assignments, alteration of records, or 
+illegal possession of examinations shall be considered 
+cheating. 
+
+It is the responsibility of the student not only to abstain 
+
+
+
+from cheating but, in addition, to guard against making it 
+possible for others to cheat. Any student who helps another 
+student to cheat is as guilty of cheating as the student he or 
+she assists The student should also do everything possible 
+to induce respect for the examining process and for honesty 
+in the performanceof assigned tasks in or out of class. 
+
+(b) Plagiarism — Honesty requires that any ideas or 
+materials taken from another source for either written or 
+oral use must be fully acknowledged. Offering the work of 
+someone else as one's own is plagiarism. The language or 
+ideas thus taken from another may range from isolated 
+formulas, sentences, or paragraphs to entire articles copied 
+from books, periodicals, speeches, or the writings of other 
+students. The offering of materials assembled or collected 
+by others in the form of projects or collections without 
+acknowledgment also is considered plagiarism. Any 
+student who fails to give credit for ideas or materials that 
+he-she takes from another source is guilty of plagiarism. 
+
+3.2 Faculty Responsibilities 
+
+The faculty and the trustees of Indiana University have 
+affirmed specific responsibilities of academic appointees. 
+These responsibilities are contained in (he Code of 
+Academic Ethics which is included in the Indiana 
+University Academic Handbook. The Code of Academic 
+Ethics also provides procedures for enforcement of these 
+responsibilities. These responsibilities include, among 
+others: 
+
+(1) A teacher will maintain a clear connection between 
+the advance description and the conduct and content of 
+each course presented to ensure efficient subject selection 
+by students. 
+
+(2) A teacher will clearly stale the course goals and will 
+inform students of testing and grading systems; moreover, 
+these systems should be intellectually justifiable and 
+consistent with the rules and regulations of the academic 
+division 
+
+(3) A teacher will plan and regulate class time with an 
+awareness of its value for every student and will meet 
+classes regularly. 
+
+(4) A teacher will remain available to students and will 
+announce and keep liberal office hours at hours convenient 
+to students. 
+
+151 A teacher will strive to develop among students 
+respect for others and their opinions by demonstrating his 
+or her own respect for each student as an individual 
+
+(6) A teacher will strive to generate a proper respect for 
+an understanding of academic freedom by students. At the 
+same time a teacher will emphasize high standards and 
+strive to protect students from irrelevant and trivial in- 
+terruptions or diversions. 
+
+(7) Since letters of evaluation written by a teacher may 
+be uniquely important documents in both the academic and 
+post-university life of a student, each teacher will strive to 
+make such letters both candid and fair. 
+
+3.3 Due Process for Academic Misconduct 
+ta) Student Misconduct 
+
+IDA faculty member who has evidence that a student is 
+guilty of cheating or plagiarism shall initiate the process of 
+determining the students guilt or innocence. 
+
+(2) No penalty shall be imposed until the student has been 
+informed of the charge and of the evidence upon which it is 
+based and has been given an opportunity to present his 
+defense. 
+
+(3) If the faculty member finds Ihe student guilty, he-she 
+will assess a penalty within the class and shall promptly 
+report the case in writing to the department chair and the 
+academic head of Ihe school or division. The penalty shall 
+be in accordance with 3.4. Ihe Actions section of Academic 
+Due Process 
+
+1 4 1 If the faculty member and the student cannot agree on 
+Ihe facts pertaining lo the charge, or if a student wishes to 
+appeal a penalty, the issue may be taken to the department 
+chair. Each party will present his-her case lo the chair who 
+shall then call a meeting of all involved parlies. If the issue 
+is not resolved in the meeting with Ihe chair, Ihen either 
+parly may appeal the decision lo the academic head of the 
+school or division and the decision of the academic head lo 
+ihe dean of the faculty who shall convene an ad-hoc all- 
+campus joint faculty and student academic review board 
+from the appropriate academic disciplines, consisting of 
+three faculty members appointed by the faculty Senate and 
+two students appointed by the student body president. 
+
+lb) If a student believes that a faculty member has 
+violated the Code of Academic Ethics, the student may 
+initiate a complaint in accordance with the "Enforcement 
+Procedures" specified in the Code of Academic Ethics. 
+Such complaints should be brought to the attention of an 
+appropriate chair or dean, or to the dean of the faculty or a 
+deputy; Ihe dean of the faculty shall provide for con- 
+fidential representations regarding such violations. 
+
+3.4 Actions 
+
+(a) A penalty affecting a student's grade in a course may 
+be imposed by the faculty member in whos^ course ihe 
+offense occurred. The faculty member is responsible for 
+making proper notification to the department chair con- 
+cerned and to Ihe academic head of the school or division, 
+who shall report the action laken to the dean of student 
+services for inclusion in a confidential file designed to 
+(Continued on page 17) 
+
+
+
+AUGUST 11,1983— THESTUDENTS' HANDBOOK — PAGE17 
+
+
+
+(Continued from page 16) 
+provide a record lhat will develop information concerning 
+students who have repeated offenses. For cases of repeated 
+violation, the dean, after appropriate review with the dean 
+of the faculty, may initiate disciplinary action. 
+
+(b) In cases of student academic misconduct, the 
+following actions are recommended: 
+
+1 1 ) A student's grade in a course will be lowered when the 
+student is found guilty of dishonesty on any assignment, 
+examination, or paper. 
+
+(21 An incomplete may be given in the course in the event 
+
+
+
+any case cannot be resolved before final grades are due in 
+the registrar's office. 
+
+(3) Upon approval by the academic head of the school or 
+division, thestudentmay be transferred from the section in 
+which the student is enrolled to another section of the same 
+course. 
+
+(4) Cases involving violations of academic ethics outside 
+of a class, such as the selling of term papers, must be 
+referred to the dean of student services. 
+
+(5) In cases where disciplinary violations under Section i, 
+
+
+
+paragraph 13 (a), have occurred simultaneously with 
+violations of academic conduct, the Section I offense will be 
+heard according to the procedures in Section II, 
+Disciplinary Procedures. 
+
+(6) By a two-thirds vote, the all-campus review board 
+(see 3.3 (a) (4)) may recommend to the chancellor that the 
+student be disenrolled from the academic or professional 
+school in which the student is enrolled 
+
+
+
+A Statement Of Student Rights and Responsibilities 
+
+
+
+PURDUE UNIVERSITY 
+
+REGULATIONS GOVERNING STUDENT 
+
+CONDUCT, DISCIPLINARY PROCEEDINGS, 
+
+AND APPEALS 
+
+A. Authority, Application, Amendment 
+
+1. Authority. These regulations are enacted pursuant to 
+ihe authority conferred by the laws of the State of Indiana 
+upon the Board of Trustees of Purdue University to do all 
+acts necessary and expedient to put and keep Purdue 
+University in operation and to make all rules and 
+regulations required or proper to conduct and manage 
+Purdue University, and pursuant to the mandate and 
+authority of Chapter 273, and Chapter 4444 of the Acts of the 
+Indiana General Assembly for the year 1969. 
+
+2. Application. These regulations, as from time to time 
+amended, shall apply to all undergraduate and graduate 
+students of Purdue University and shall be deemed a part of 
+Lhe terms and conditions of the admission and enrollment of 
+all students In case of any conflict or inconsistencies with 
+any other rules, regulations, directives, or policies now 
+existing, these regulations shall govern. They shall be 
+enforced by the president of the university. 
+
+3. Amendments. These regulations, and any amendments 
+hereto, shall lake effect on a date prescribed by the Board 
+at Trustees and shall remain in effect until rescinded or 
+modified by the Board of Trustees. Amendments may be 
+proposed at any lime by the Purdue Student Association, 
+University Senate, administrative staff, or by the Board of 
+Trustees. 
+
+j. Adaptation Tor Regional Campuses.The administrative 
+dean (or regional campuses is hereby authorized and 
+directed to make and promulgate revisions of these 
+regulations, as applied to the regional campuses, which are 
+necessary because of the different student or faculty 
+organizations or governments existing at the regional 
+campuses. Such revisions shall be effective when approved 
+by lhe president of the university. 
+
+S. Definitions: 
+
+'University activity" means any teaching research, 
+administrative, disciplinary function, proceedings, 
+ceremony or activity conducted by or under the authority of 
+
+
+
+Ihe 
+
+
+
+ty- 
+
+
+
+wned, 
+
+
+
+University property" means properly 
+trolled, used, or occupied by the university. 
+
+'Dean's office" means the dean of student services and 
+any associate, assistant, or other person authorized to act 
+for them. 
+
+■Administrative action" means the issuance of an oral or 
+written warning, admonition, reprimand, and-or use of 
+counseling procedures. 
+
+■Disciplinary penalty" means expulsion, suspension, 
+disciplinary probation, and other educationally sound 
+sanctions. 
+
+■Educationally sound sanctions" means sanctions other 
+than disciplinary probation, suspension, probated 
+suspension, or expulsion and are limited to the following: 
+
+Restitution — monetary payment for damages and-or 
+theft committed in violation of Section B-2-&lt;e). 
+
+Work assignment — assignment of duties to correct 
+destructive acts or behavior. 
+
+"Obstruction or disruption of a university activity" 
+means any unlawful or objectionable acts or conduct (1) 
+which seriously threaten the ability of the university to 
+maintain its facibties available for performance of its 
+educational activities, or 12) which are in violation o( the 
+reasonable rules and standards of the university designed 
+to protect the academic community from unlawful conduct, 
+or (3) which present a serious threat to person or property 
+of the academic community. Such phrase shall include, 
+without limitation of the foregoing general definition, the 
+unlawful use of force or violence on or within any buildings 
+or grounds owned, used, occupied or controlled by the 
+university; using or occupying any such buildings or 
+grounds in violation of lawful rules or regulations of lhe 
+ufLpv.-r-.ity , or for the purpose or with the effect of denying 
+or interfering with the lawful use thereof by others; and 
+injuring or harming any person or damaging or destroying 
+the property or the university or the property of others, 
+within such buildings and grounds. 
+
+Educationally sound sanctions may be proposed in 
+combination with other disciplinary actions. 
+
+
+
+(Purdue Univ.) 
+
+"Disciplinary probation" means a probationary student 
+status imposed for a limited time as a result of an official 
+determination of misconduct. In the event the student is 
+found guilty (under the procedures set forth in these 
+regulations) of subsequent charges of misconduct com- 
+mitted during the period of disciplinary probation, records 
+of such disciplinary probations shall be taken into con- 
+sideration in determining the disciplinary penalty, if any, to 
+be imposed or the administrative action, if any, to be taken 
+because of such subsequent misconduct. 
+
+"Probated suspension" means conditional continuation 
+of student status for a limited and defined period of time. 
+The student is permitted to retain student status upon the 
+condition that the student does not further violate any 
+subsection or Section B-2 that would normally result in a 
+disciplinary penalty during the time probated suspension is 
+in effect. If, during the period of probated suspension, the 
+student is found guilty of an additional violation of Section 
+B-2 after a hearing, suspension may become immediately 
+effective and may be extended for a longer period of time 
+than the period of probated suspension originally assigned. 
+
+"Suspension" means termination of student status for a 
+limited lime, generally without grades; however, in cases 
+such as academic dishonesty, a directed grade for a par- 
+ticular course may be appropriate. 
+
+"Expulsion" means permanent termination of student 
+status, generally without grades, however, in cases such as 
+academic dishonesty, a directed grade for a particular 
+course may be appropriate. 
+
+B. Student Conduct 
+
+1. General. Students are expected and required to abide 
+by the laws of the State of Indiana and of the United Slates 
+and the rules and regulations of Purdue University, to 
+conduct themselves in accordance with accepted standards 
+of social behavior, to respect the rights of others, and to 
+refrain from any conduct which tends to obstruct the work 
+of the university or to be injurious to the welfare of the 
+university. A student who violates these general standards 
+of conduct may be subject to administrative actions (as 
+defined in Section AS). If the violation falls within one of 
+the categories of misconduct listed in Section B-2, the 
+student may also be subject to disciplinary penaliies las 
+defined in Section A-S&gt;. No disciplinary penalty may be 
+imposed except for misconduct covered by one of the 
+categories listed in Section B-2. 
+
+2. Misconduct Subject to Disciplinary Penalties. The 
+following actions constitute misconduct for which students 
+may be subject to administrative action or disciplinary 
+penalties, a. Dishonesty in connection with any University 
+activity. Cheating, plagiarism, or knowingly furnishing 
+false information to the university are examples of 
+dishonesty. 
+
+The commitment of the acts of cheating, lying, stealing, 
+and deceit in any of their diverse forms ( such as the use of 
+ghost-written papers, the use of substitutes for taking 
+examinations, the use or illegal cribs, plagiarism, and 
+copying during examinations) is dishonest and must not be 
+tolerated. Moreover, knowingly to aid and abet, directly or 
+indirectly, other parties in committing dishonest acls is in 
+itself dishonesL 
+
+b. Forgery, alteration, or the unauthorized use of 
+university documents, records or identification. 
+
+c. Obstruction ot disruption of any university activity (as 
+denned in Seclion A-S) or inciting, aiding, or encouraging 
+other persons to engage in such conduct. II substantial 
+obstruction or disruption is threatened or occurs, the 
+president, or a designee, may issue a disciplinary 
+suspension warning. The minimum disciplinary penalty tor 
+violation of this subsection during the period of such war- 
+ning shall be suspension for the remainder of Ihe semester 
+(or summer session) during which the offense occurred and 
+for the next full academic semester and any intervening 
+summer session thereafter. However, a more severe 
+disciplinary penally may be imposed. 
+
+d. Physical abuse of any person or conduct which 
+threatens or endangers the health or safety of any olher 
+person, whether or not such conduct occurs on university 
+property. 
+
+e. Theft, attempted theft, or damage of or lo property of 
+the university or of a member of the university community 
+or campus visitor. 
+
+
+
+f. Unaulhroized entry, or use. or occupancy of university 
+facilities. 
+
+g. Violation of any university rule governing student 
+organizations, or the use of university property (including 
+the time, place, and manner of meetings or demonstrations 
+on university property), or of any other university rule 
+which is reasonably related to the orderly operation of the 
+university; provided, however, that no disciplinary penalty 
+shall be imposed in any such case unless it is shown that the 
+accused student knew, or, in the exercise of reasonable 
+care, should have known, of the rule in question. 
+
+h. Use, possession, or distribution of narcotics or 
+dangerous drugs, except as expressly permitted by law. 
+i. Lewd, indecent, or obscene conduct or expression on 
+university property. 
+
+j. Failure to comply with directions of university officials 
+acting in the performance of their duties. 
+
+k. Any conduct which substantially threatens or in- 
+terferes with lhe maintenance of appropriate order and 
+discipline in the operation of the university, or any conduct 
+on university property or in connection with a university 
+activity which invades the rights of others. 
+
+3. Demonstrations. Any individual or group activity or 
+conduct, apparently intended to call attention to the par- 
+ticipants' point of view on some issues, is not of itself 
+misconduct. Demonstrations which do not involve conduct 
+beyond the scope of constitutionally -protected rights of free 
+speech and assembly are. of course, permissible. However, 
+conduct which is otherwise improper can not be justified 
+merely because it occurs in the context of a demonstration. 
+Demonslra lions which involve violations of any subsection 
+of Section B-2, will not be permitted. A student will be 
+charged with misconduct for any individual misconduct 
+committed by the student in the course of a demonstration. 
+
+5. Status During Disciplinary Proceedings. Except where 
+summary action is taken as provided in Section C-7, the 
+status of a student charged with misconduct shall not be 
+affected pending the final disposition of charges, provided, 
+however, lhat no diploma shall be given and no grades, 
+academic credit, or degree shall be awarded to a student 
+against whom charges are pending for which a disciplinary 
+penalty may be imposed. The effective date of any 
+disciplinary penalty shall be a date established by the final 
+adjudicating body (the dean's office of the campus appeals 
+board! In case of suspension or expulsion, the student shall 
+not be withdrawn any earlier than the date the notice of 
+charges originated or later than the effective date 
+established by lhe final adjudicating body. 
+
+6. Misconduct Subject to Other Penalties. As provided in 
+Chapter 273 of the 1969 Acts of the Indiana General 
+Assembly, misconduct which constitutes a violation of 
+these rules and regulations may be punished after deter- 
+mination of guilt by the procedures herein provided without 
+regard to whether such misconduct also constitutes an 
+offense under the criminal laws of any state or of the United 
+Stales of whether such conduct might result in civil liability 
+of the violator to other persons. 
+
+C Procedures in Student Misconduct Cases 
+
+I. Disciplinary and Administrative Action Proceedings. 
+General. 
+
+a. The procedures hereby established shall be followed in 
+all cases in which the university institutes disciplinary 
+proceedings or administrative action proceedings against 
+students for violations of the rules of student conduct set 
+forth in Section B. These procedures shall not apply to or 
+affect the jurisdiction or procedures eslabbshed by student 
+organizations or similar organizations. 
+
+b. Disciplinary proceedings are those proceedings 
+initiated by the issuance of a notice of charges and are 
+governed by the provisions of Seclion C-l lo 7 inclusive. The 
+term "disciplinary proceedings" does not include ad- 
+ministrative action proceedings. 
+
+c Administrative action proceedings are informal in- 
+vestigations conducted by the dean's office with a view to 
+possible administrative action. Administrative action may 
+be taken by the dean's office without instituting disciplinary 
+proceedings and such action shall be final and not subject 
+lo further hearing or appeal. A disciplinary penalty may not 
+be imposed without first instituting disciplinary 
+proceedings pursuant to Section C-2. If the dean's office 
+confers with the student in the course of administrative 
+
+
+
+PAGE 18 - THE STUDENTS' HANDBOOK — AUGUST 11. 1983 
+
+(Continued from page 17) 
+action proceedings, no statement made by the student 
+during such conference shall be used against the student in 
+any disciplinary proceedings which may thereafter be 
+instituted. 
+
+2. Institution of Disciplinary Proceedings. 
+
+a. Disciplinary proceedings shall be instituted by the 
+dean's office by the issuance of notice of charges. 
+
+b. The notice of charges (and all other written notices 
+given to students against whom disciplinary proceedings 
+are initiated) shall be delivered by the most effective 
+method lo the student's address as it then appears on the 
+official records of the university. The notice shall inform 
+the student of the rule or regulation allegedly violated, also 
+fairly inform the student of the reported circumstances of 
+the alleged violation, and request the student to appear in 
+the dean's office for a hearing on the incident. A copy of 
+these regulations shall accompany each notice of charges. 
+A copy of the notice of charges may be sent to the parent or 
+guardian of the student if the student is dependent as 
+defined in Section 152 of the Internal Revenue Code of 1954 
+
+3. Failure lo Respond to Charges. If the notice of charges 
+requests the student to appear in the dean's office and the 
+student fails or refuses to appear, the dean's office may, 
+after such investigation as it may deem necessary, 
+dismiss the charges, take administrative action, or im- 
+pose a disciplinary penalty. If the dean's office lakes ad- 
+ministrative action, it shall notify the student in writing of 
+such action, and such action shall not be subject to further 
+hearing or appeal. If the dean's office imposes a 
+disciplinary penalty, it shall notify the student in writing of 
+such action, and the student may appeal such action to the 
+campus appeals board as provided in Section C-6 When it 
+appears necessary to avoid undue hardship or lo avoid 
+injustice, the dean's office may extend the time to enable a 
+student to respond lo Ihe charges. 
+
+A. Response lo Charges. 
+
+a. If the student appears in response to the notice of 
+charges for the purpose of a hearing of the alleged violation 
+as provided in Section C-5, the dean's office shall advise the 
+student as fully as possible of the facts concerning the 
+alleged charges and Ihe names and addresses of witnesses 
+then known to the dean's office. The student shall also be 
+advised that no response is required, thai any statement 
+made by the student may be used against the student, that if 
+the student remains silent, thai silence will nol be taken as 
+an admission against the student, and that the student may 
+advise the dean's office of any witnesses or evidence sup- 
+
+
+
+porting the student's position. The dean's office shall also 
+advise the student thai if any new information is discovered 
+during an investigation subsequent to the hearing, the 
+student will have an opportunity lo respond to such in- 
+formation. 
+
+b. Afler the hearing with Ihe student and such further 
+investigation as the dean's office deems necessary, the 
+dean's office shall proceed as follows: 
+
+1. If the dean's office determines that the violation 
+alleged is not supported by the evidence, the charges shall 
+be dismissed and the student notified. 
+
+2. If the dean's office is satisfied that the violation oc- 
+curred as alleged, but lhat no disciplinary penally shall be 
+imposed, the dean's office may take administrative action 
+and nolify the student. Such action by the dean's office shall 
+be final and not subject to further hearing or appeal. 
+
+3. If the dean's office is satisfied that the violation oc- 
+curred as alleged and that a disciplinary penally should be 
+imposed, the dean's office shall so notify the student. 
+
+5. Conduct of Hearing. Each hearing shall be conducted 
+before one or more members of the dean of students office 
+staff and, although the hearing is informal in nature, it shall 
+provide the student certain procedural safeguards. 
+
+The student shall be given the opportunity to hear the 
+evidence against him-her, rebut statements made by 
+witnesses, present witnesses, evidence, or any relevant 
+information in the student's own behalf. The student shall 
+also be given the opportunity to respond to any new in- 
+formation gathered during an investigation subsequent to 
+Ihe hearing. The dean of student's office has the burden of 
+proving Ihe student guilty of Ihe alleged violation, and the 
+decision of the dean's office shall be based solely on in- 
+formation introduced at the hearing and obtained during 
+subsequent investigations. 
+
+No person other than the sludent shall be present during 
+the discussion between the dean's office and Ihe student 
+except by mutual agreement of Ihe dean's office and the 
+student. 
+
+Within five days following the conclusion of the hearing 
+and subsequent investigation, the dean's office shall notify 
+the student, in writing, of what action it will take. The 
+decision letter shall contain a finding as to the guilt or in- 
+nocence of the student and a brief statement of the reasons 
+for ihe decision. Any disciplinary penalty imposed or ad- 
+ministrative action taken is subject to the provisions of 
+Section B-i of this regulation and any other university rule, 
+regulation, or directive then existing. 
+
+6. Appeal of the Dean's Office Decision. The sludent may 
+appeal the decision of the dean's office lo the campus ap- 
+
+
+
+peals board. An appeal may be initiated by filing a notice of 
+appeal with the campus appeals board through the dean's 
+office or with the chair of the campus appeals board. Such 
+an appeal must be filed within seven days of the date on 
+the letter from the dean's office containing the decision, and 
+the appeal must be personally signed by the student. The 
+dean's office will provide the campus appeals board with a 
+copy of Ihe notice of charges and the decision letter sent to 
+the student. The university will be represented at the ap- 
+peal hearing by the dean's office or other appointed 
+representative. 
+
+7. Summary Action. Summary disciplinary action by way 
+of temporary suspension and exclusion from university 
+property may be taken against a student charged with 
+misconduct without the issuance of a notice of charges and 
+without the procedures prescribed in Section C on the 
+following conditions; Summary action shall be taken only 
+by the president of Ihe university or by an authorized vice 
+president of (he university, and only after the student shall 
+have been given an opportunity to be heard if such 
+procedure is practical and feasible under the cir- 
+cumstances. Summary action shall be laken only if the 
+president or vice president is satisfied that the continued 
+presence of the student on university property threatens 
+harm to the student or to any others. Whenever summary 
+action is taken under this Section C-7, Ihe procedures 
+provided for in Section C for hearing and appeal shall be 
+expedited so far as possible in order to shorten the period of 
+summary action. 
+
+D. The Campus Appeals Board 
+
+1. Organization and Jurisdiction. 
+
+A campus Appeals board shall be established for each 
+campus of Ihe university. 
+
+2. Conduct of Appeal 
+
+a. The campus appeals board may prescribe regulations 
+governing the conduct of the appeals not inconsistent with 
+these regulations. The appeal hearing shall be open to (he 
+public or closed as the campus appeals board shall deter- 
+mine. If a hearing is to be open to the public, the campus 
+appeals board may change the place of hearing, and its 
+determination of the place and of the number of advisors 
+and observers that can be conveniently accommodated 
+shall be final. Notice of a change of place shall be given 
+promptly to ihe student. An official (ape recording shall be 
+made of the appeal which shall be kept by the campus 
+appeals board Tor at least one year. 
+
+The student is entitled lo be present at the appeal and lo 
+be accompanied by advisors of the student's choice. The 
+student may also be represented by legal counsel, provided 
+he-she files a statement of such intention, giving the name 
+
+
+
+Man's Best Friend- 
+
+
+
+No it's not your dog, 
+It's the man behind 
+the counter at 
+
+
+
+FORT WAYNE FOREIGN CAR 
+HE CAN HELP YOU WITH 
+
+
+
+
+Import car parts 
+Complete service 
+Used import vehicles 
+
+FORT WAYNE FOREIGN CAR 
+
+2604 E Washington Blvd. 
+Fort Wayne. In. 
+1219) 426-8744 
+
+
+
+
+Itgra 
+
+
+
+THECOMMAND 
+PERFORMANCE 
+LOOK 
+
+
+
+
+SAVE ON A 
+
+HAIRCUT, 
+SHAMPOO &amp; 
+BLOW DRV 
+
+
+
+CUTS, 
+
+PERMS 
+
+&amp;C010R 
+
+FOR THE 
+
+GHTHELOOKS. 
+
+Rag. SI 6.00 
+
+now $ 9.99 
+
+
+
+Command Performance 
+
+HAIRSTYUNGFORMENMD WOMEN 
+
+GLENBROOK SQUARE 4BB-4BB6 
+
+Open 9 a.m. -9 p.m. Mon.-Fri. 
+
+9 a.m. -6 p.m. Sat.. 1 2 p.m. -5 p.m. Sun. 
+
+Lower Level by Hudson's 
+
+
+
+(Continued from page 18) 
+and address of such counsel to the chair or secretary of the 
+campus appeals board at least 48 hours before the time of 
+ihe hearing If the university intends lo be represented at 
+such hearing by legal counsel, the accused student shall be 
+notified of that in writing at least 72 hours before the time of 
+ihe hearing. If Ihe student has given such notice and is 
+entitled to be represented by legal counsel, the university 
+may also be represented by legal counsel regardless of any 
+previously expressed intention to the contrary. The student 
+shall have the right to confront and cross-examine wit- 
+nesses and to present witnesses and evidence in the 
+student's behalf. At the hearing, the burden of proving the 
+student guilty of the alleged violation shall be on the 
+university. The campus appeals board shall consider any 
+evidence relevant to the incident, 
+b. The campus appeals board shall decide the appeal and 
+
+
+
+, ._ _ e lonowriq petty " 
+t students and snoi Oevcfcn 
+
+DCFINITIONST 
+
+For pupoMS of Ub pc*cy. a student i 
+m Fort Worne a a 
+
+
+
+has mode otlool ODOKflExm 
+
+
+
+to the LLrrrtrsiv. 
+
+
+
+
+issue its written decision within ten days after the date of 
+the appeal hearing, except where the president of the 
+university authorizes additional time. Copies of its decision 
+shall be furnished to the student, the president's office, and 
+the dean's office. 
+
+If the decision being appealed found the student guilty 
+and imposed a disciplinary penalty, the campus appeals 
+board shall have the power either: 
+
+— To reverse the finding and acquit the student 
+
+— To affirm the finding and the disciplinary penalty 
+proposed by the dean's office. 
+
+— To affirm the finding and in cases where a proposed 
+disciplinary penalty is believed inappropriate to the 
+misconduct, to reduce or increase the severity of the 
+disciplinary penalty or to direct that appropriate ad- 
+ministrative action be taken by the dean's office in lieu of 
+any disciplinary penalty. 
+
+Confidentiality Statement 
+
+
+
+AUGUST 11 , 1983 - THE STUDENTS' HANDBOOK - PAGE 19 
+
+
+
+s stolid utihA? Sooti Security 
+le k* ed uc bt students n locultv 
+
+
+
+4'i." ' 
+
+E D 
+
+
+
+OsOosure tospoifias 
+Dsosuro to persons ana « 
+
+
+
+(4 1 ReauSSlsTSn UnrHTMl -dHMttl! f 
+
+
+
+of Scudcni OHbts 
+
+
+
+ir, person or mere, t rcicorse to any retr, rutJoM 
+
+
+
+Q Student moor 
+nmuji aowo.a of 
+
+
+
+■•ttret/e for cantroira e&gt; 
+
+
+
+• i Si.yVffl-. ir Sr.joem fitfars on tfi 
+iy do lum.*jied to ocodemc df*1 qcv 
+
+
+
+ft Resulted Oota-Cnfoimaofin 
+
+
+
+a I Dnnhi coniacwc; the o™i off«o .Were Ui 
+bf Contact™ Die Offer ol Uw BcKtc* v.tKh , 
+
+
+
+;| The student should be 
+
+
+
+
+
+
+3. Appeals from the Dean's office. The campus appeals 
+board shall hear each case appealed from the dean's office 
+and the procedures to initiate such appeals shall be as 
+provided in Section C-6. 
+
+4. Appeals Concerning Recognition of Student 
+Organizations. The campus appeals board shall have 
+jurisdiction to hear and shall be required to hear any appeal 
+taken by a student organization which the dean's office has 
+refused to recognize or from which recognition has been 
+withdrawn. In such cases, the campus appeals board shall 
+either affirm or reverse the decision, and its action shall be 
+final. 
+
+5. Appeals from Student Supreme Court. The campus 
+appeals board shall have discretionary jurisdiction to hear 
+appeals from the student supreme court. In such cases, it 
+may affirm or reverse a decision, and its action shall be 
+final 
+
+
+
+Arts and crafts room 
+
+The arts and crafts room is a unique feature of the IPFW 
+campus. Located in Walb Memorial Union 214 and 21B it 
+offers a variety of resources: a darkroom for black-and- 
+white photography, weaving looms, lapidary and 
+silkscreening equipment, a large ceramics area that in- 
+cludes potter's wheels and an electric kiln, a drawing and 
+painting area, and a woodworking shop which houses 
+motorized saws, a drill press, and other basic equipment for 
+carpentry. All students, faculty, staff, and alumni of IPFW 
+are invited to use the room and its facilities, free of charge. 
+
+The room is designed as a comfortable setting for those 
+wishing to take a break from the everyday stress of classes, 
+studies, and-or work. It also provides an accessible place 
+for students to work on their school-related projects such as 
+graphs, posters, illustrations, etc. A creative atmosphere is 
+offered for those wanting to learn about art, yet who never 
+before had such a wide range of facilities at their disposal. 
+
+Although the arts and crafts room provides much of the 
+necessary equipment, those wishing to use the facilities 
+must furnish the consumable materials For example, 
+those interested in ceramics must purchase clay and 
+glazes. Those who want to print photographs must buy 
+photographic paper and chemicals Lockers, in the hallway 
+adjacent to the craft room, are recommended for personal 
+art-supply storage. A list of local art-supply stores is on 
+display in the crafts room. 
+
+During an average week, approximately 50-75 people use 
+the roam. The time between Thanksgiving and Christmas is 
+the busiest, since many students and staff make use of the 
+facilities for gifts. Here's just a sampling of what has come 
+out of the crafts room: stereo speakers, silk-screened 
+Christmas cards, a silver ring and bracelet set, matching 
+end tables, a ceramic dinnerware set, silk-screened T- 
+shirls, loom-woven wool scarves, and life-sized Indian-chief 
+sculpture. 
+
+The crafts room is physically accessible to the disabled, 
+and the staff believes art to be an important and vital outlet 
+for them. Since each student receives individual attention, 
+each is encouraged to work at her or his own level of 
+achievement. Blind students have made beautiful ceramic 
+and sculpture pieces; paraplegics have been involved in 
+woodworking and photography. 
+
+
+
+INTERN WANTED 
+
+A paid internship in news writing and publications is 
+available this semester in the IPFW Office of University 
+Relations. You can earn 3 credits for working 9 hours 
+weekly, scheduled flexibly. Under professional super- 
+vision, you will gain experience in writing news releases 
+and feature articles, producing brochures, taking and 
+editing photographs, and working with printers. 
+
+Prerequisites include: a grade of B or better in one or 
+more of these classes (or their equivalents): W 131, 
+J 200, J 111, COM 144; staff experience of at least one 
+academic year on The Communicator, high school 
+publications, or professional/business publications. 
+
+Information and applications are available in Kettler 
+111. Deadline for applying is Tuesday, September 6. 
+
+
+
+
+Allen County Games 
+
+presents 
+
+
+
+Your Favorite Video 
+Games And More 
+
+Located In The Basement Walb Memorial Union 
+
+Visit the Campus Gameroom 
+
+during class breaks 
+
+[Watch for Game Coupons in The Communicator) 
+
+
+
+PAGE 20 - THE STUDENTS 1 HANDBOOK - AUGUST 11 , 1983 
+
+
+
+
+THURSDAY, AUG. 11,1993 — THE COMMUNICATOR — PAGE3 
+
+
+
+'4-Color Comments' 
+
+
+
+Comic books: No longer province^pf children 
+
+
+
+ByKIMMETZGER 
+Copy Editor 
+Before some people read very 
+far into this column, they're 
+going to mutter, "What is this 
+doing in The Communicator? It's 
+about comic books! They're kids' 
+stuff!" 
+
+A lot of people feel that way 
+about comic books. Popular 
+opinion has decreed comics are 
+reading matter with crudely 
+drawn pictures, fit for, roughly, 
+ages eight to 12. The general 
+public is aware some adults also 
+read them, but feel it's no doubt a 
+small percentage of the audience- 
+While this may have been the 
+case at one time, however, that 
+time is long past. A recent survey 
+conducted by The Comics 
+Buyer's Guide, a weekly 
+newspaper for comic collectors 
+with a circulation of over 9,000 
+subscribers, found the average 
+age of comic book readers to be 
+not in the early teens, as most 
+people think, but between 25 and 
+30. 
+
+Why is the age for comic book 
+fans now so heavily in the adult 
+years? Simply, comic books 
+themselves have become much 
+more sophisticated and appeal to 
+mature tastes, in spite of their 
+
+
+
+
+While Richie Rich Is no more 
+
+... (Copyright Harvey Pubs. 
+
+1981.) 
+tendency to almost solely 
+chronicle the adventures of 
+crime fighting super-heroes. 
+
+This trend began in the mid- 
+1960's when Stan Lee, then the 
+editor and main writer for 
+Marvel Comics (he's now the 
+publisher), decided to try putting 
+out a line of comics both kids and 
+adults could enjoy. So he began 
+writing stories of heroes who, 
+
+
+
+despite their powers, had 
+decidedly human problems. 
+
+Lee created The Fantastic 
+Four, a group of heroes who 
+fought among themselves almost 
+as frequently as they battled the 
+villains; The Incredible Hulk, the 
+saga of a man living in constant 
+fear of his violent, inhumanly 
+powerful alter-ego; and, above 
+all, Spider-Man, a character who 
+could just barely handle a normal 
+life, let alone one complicated by 
+the addition of super-powers. 
+
+Though some may quarrel over 
+how mature Lee's stories ac- 
+tually were, they worked 
+nonetheless. Marvel began to 
+get letters of praise from 
+businessmen, college professors 
+and even much notables as Tgm. 
+("The Right Stuff") Wolfe and 
+Ken ("One Flew Over the 
+Cuckoo's Nest") Kesey. Marvel's 
+success was also helped by the 
+popularity of the "Batman" TV 
+show, which helped to make 
+comic book reading an "in 
+thing," for both teenagers and 
+adults. 
+
+Many young readers continue 
+to follow these and other comics, 
+(particularly those of Marvel's 
+
+
+
+Committee formed 
+
+
+
+rPFW Chancellor Joseph Giusti 
+has appointed John Hobson to 
+form a committee to coordinate 
+activities celebrating DPFW'S 
+20 th anniversary. 
+
+Activities will be planned 
+during the entire calendar year of 
+1984, but Hobson. director of 
+Alumni Activities, said the 
+celebration won't be as big as the 
+25 th anniversary celebration. 
+"We don't want this one to pass 
+by. however, "he said. 
+
+The committee plans to have a 
+logo developed to be printed on 
+university brochures and 
+publications, and is considering 
+entering a parade in next year's 
+Three Rivers Festival. 
+
+"1 think the anniversary helps 
+us learn more about our history," 
+
+
+
+said Hobson, who, as a freshman, 
+walked into Kettler Hall on the 
+first day of classes in 1964. 
+
+Committee members are 
+Pauline Hunsberger, assistant 
+and reference librarian; Tom 
+Harris, student body president; 
+Jim Chapman, editor-in-chief of 
+the Communicator; John P. 
+Ulmer, dean of Student Services; 
+Rosemary Steiner, assistant 
+director of University Relations; 
+Judy Clinton, assistant to the 
+chancellor and director of 
+university relations; Lorane 
+Hamblin, coordinator of special 
+events and assistant to the 
+director of University Relations; 
+and Carl Bickley executive 
+director of Community Outreach 
+and Development and assistant 
+to the chancellor for athletics. 
+
+
+
+Award given 
+
+
+
+Allen County Games was 
+awarded the contract for the 
+game room in the basement of 
+Walb Memorial Union. 
+
+Mark English, IPFW director 
+of purchasing said the company 
+will bring in new and better 
+
+
+
+games, a dollar-bill change 
+machine and a juke box. It will 
+have promotions, contests and 
+giveaways. 
+
+"We feel Allen County will give 
+us the better business," English 
+said. 
+
+
+
+arts 
+at a 
+f f glance 
+
+Treading the boards 
+
+"Jesus Christ Superstar" will continue at the Purdue-Indiana 
+Theatre through Aug. 13. Performances are scheduled for 8 p.m. 
+
+.. The Foellinger Theatre will present the Fort Wayne Ballet Aug. 12 
+at 8 p.m. 
+
+The family musical, "You're a Good Man Charlie Brown" will 
+continue through Aug. 13 at the Arena Theatre. 
+
+Exhibit of interest 
+
+The exhibit "Dock St. Artists: works from the third and fourth 
+floors" will continue at Art link through August 27. 
+
+
+
+
+mgers continue to 
+flourish. (Copyright Marvel 
+Comics 1981.1 
+main competitor, DC) well into 
+(heir adult years. It is this 
+generation, in fact, which is now 
+comic books most powerful (and 
+demanding) audience today. 
+Some of those readers are now 
+even drawing and writing the 
+current comic books. 
+
+This is another factor in the 
+maturation of the comic book. 
+These readers-turned- writers 
+know what their audience wants 
+in terms of subject matter and 
+can give it to them. Hence, topics 
+in comics today have become 
+more adult in nature. The super- 
+heroes have lives that seem more 
+realistic than they ever have 
+before. The struggle of these 
+
+
+
+
+nnHHBH 
+
+
+
+
+characters to be accepted in spite 
+of the powers that make them 
+different has struck a chord in a 
+society where acceptance has 
+become so important. If the 
+comics can move away from the 
+super-heroes someday, they may 
+finally find themselves taken 
+more seriously. 
+
+However, as the comics have 
+geared themselves towards a 
+more adult readership, a 
+problem has arisen. The young 
+audience of today is abandoning 
+comics, to the alarm of the 
+companies. Both DC and Marvel 
+consider this young audience 
+essential to the survival of the 
+industry in the future. The feeling 
+is a reader not attracted to 
+comics as a child never will read 
+them. 
+
+With this in mind, efforts are 
+being made to publish new lines 
+of comics targeted for kids. 
+Marvel has two new titles 
+planned and is also trying to 
+acquire rights to the characters 
+of the recently demised Harvey 
+Comics (publisher of "Richie 
+Rich" and "Casper the Friendly 
+Ghost"). DC is also making 
+overtures in the same area. 
+Whether these efforts will be 
+successful remains to be seen. 
+But it doens't bode well that 
+recent attempts at children's 
+comics have been failures. 
+
+No, comic books are no longer 
+kids' stuff, no matter how much 
+the companies may wish they 
+still were. They are now the 
+fantasies of adults, including a 
+good many college students. For 
+this reason, "4-Color Comments" 
+
+
+
+Arts info. 
+
+The new 1983-84 
+production schedules 
+for the theatre and 
+music departments will 
+appear in the Aug. 25 
+issue of The Com- 
+municator. 
+
+
+
+Crafts 
+
+The arts and crafts room is 
+open free of charge to students, 
+staff and faculty of IPFW. 
+
+The room is equipped with 
+tools for work in numerous areas, 
+such as: woodworking, ceramics, 
+black and white photography, 
+lapidary, silk screening and 
+weaving. 
+
+It is located in Walb Memorial 
+Union and is open 9 a.m. to 5 p.m. 
+weekdays. 
+
+For more information — please 
+stop in Walb Union, room 214. 
+
+
+
+Welcome 
+Student? 
+
+
+
+PAGE 4 — THE COMMUNICATOR — THURSDAY, AUG. 11, 1983 
+
+
+
+New coaches hope to continue success 
+
+
+
+By REGGIE HAYES 
+Sports Editor 
+
+The IPFW athletic department 
+is riding the momentum of its 
+best year ever, and the athletic 
+staff is facing the welcome 
+problem of continuing its success 
+while competing against more 
+NCAA schools than ever before. 
+
+To help in this drive for suc- 
+cess, two new coaches, a trainer 
+and a sports information director 
+will each begin their first full 
+year in 1983. 
+
+Mike Kast has been hired to 
+coach cross-country and Lee De 
+Turk to coach baseball. The 
+trainer will be Brad Mishler and 
+the new sports information 
+director is Kurt Palberg. 
+
+
+
+Kast, a lawyer, will be taking 
+his first coaching job. He is an 
+avid runner who has said most of 
+his coaching experience has been 
+in individual instruction. Kast 
+participates in many long 
+distance runs, including the 
+Boston Marathon. 
+
+Kast is a member of the College 
+of Sports Medicine Association. 
+He already has his team getting 
+in shape for the upcoming season. 
+IPFW cross-country runners 
+begin their season on Sept. 3 with 
+a home meet against Grace and 
+Manchester. Nine meets are 
+scheduled through the end of 
+October, capped by the NCAA 
+RegionalsonOct.29. 
+
+In contrast to Kast's relative 
+
+
+
+inexperience in coaching, De 
+Turk has an impressive record 
+during 12 years at Wayne High 
+School. De Turk started the 
+baseball program at Wayne in 
+1972 and has compiled a 175-132-3 
+record, which includes four 
+sectional championships. 
+
+The team De Turk inherits at 
+IPFW had a school record 12-10 
+season last year. The new 
+baseball diamond on the north- 
+east side of campus has helped 
+the program to grow. The athletic 
+department hopes the arrival oi 
+De Turk will solidify the 
+program. A fall schedule is still 
+being worked on to complement 
+the regular season, which begins 
+in March. 
+
+
+
+Mishler will have a dual role 
+in the athletic department. Along 
+with his position as trainer, he 
+will be the head equipment 
+manager for all sports. Mishler 
+recently received his masters 
+degree as a certified trainer from 
+the University of North Carolina. 
+
+A native of Huntington, 
+Indiana, Mishler graduated in 
+1981 from Indiana University. He 
+will begin his job here at IPFW on 
+Aug. 16. 
+
+Although this is the first full 
+year at IPFW for Patberg, he 
+arrived at IPFW this past spring 
+and actually began his duties on 
+April 15. As coordinator of sports 
+information and promotion, 
+Patberg is responsible for media 
+
+
+
+contacts, interschool relations 
+and special events in athletics 
+during the course of the year. 
+
+Patberg graduated from the 
+University of Evansville, and 
+was previously the director of 
+sports promotion at Stetson 
+University in DeLand Florida. 
+
+The returning coaches at IPFW 
+this year are Arnie Ball in men's 
+and women's volleyball; Tim 
+Sullivan in men's and women's 
+tennis; Terry Stefankiewicz in 
+soccer; Karl Zimmerman in golf; 
+Tim Russell in men's basketball; 
+and Kirk Kavanaugh in women's 
+basketball. 
+
+Patberg probably spoke for the 
+entire athletic staff when he said, 
+"I'm real excited. I think we'll 
+haveagrealyear." 
+
+
+
+Winning seasons highlight transition year 
+
+
+
+By REGGIE HAYES 
+
+Sports Editor 
+
+1982-83 looked to be a year of 
+transition for IPFW athletics. It 
+marked the school's first year in 
+NCAA Division n, so the 
+Mastodons could have been 
+expected to lake a few lumps 
+against the improved com- 
+petition. As it turned out, IPFW 
+opponents were the ones who 
+ended up with bruised egos. 
+
+In the eight sports which can be 
+measured in wins and losses, 
+seven Mastodon squads emerged 
+with winning records. One, the 
+women's tennis team, went 
+undefeated. 
+
+In cross country and golf, 
+which often involve several 
+competing teams at one time, 
+fPFW's representatives more 
+than held their own, taking first 
+or second in 10 out of 13 matches. 
+
+Soccer coach Terry 
+Stefankiewicz' men finished the 
+season last year with an li-fl-i 
+record IPFW's fifth straight 
+winning season. The Mastodons 
+will be playing their first full 
+season in Division II, and their 
+schedule reflects the tougher " 
+competition. Among the teams 
+they will be facing this year are 
+Notre Dame, DePaul and 
+Oakland College, a member of 
+the NCAA Division II final four 
+last year. 
+
+Stefankiewicz has several top 
+performers returning from last 
+year's team, including tri- 
+captains Tony Davis, Chris 
+Bender and Mark Blessing. Ten 
+newcomers have been recruited 
+to add depth as the Mastodons 
+shoot for their sixth straight 
+winning season. 
+
+Based on last year's results, 
+the men's and women's tennis 
+teams also nave much to look 
+forward to in the coming season. 
+Playing both a fall and spring 
+season, the men were 18-7 and the 
+women 11-0. The MVPs for the 
+two teams were Dan Brogan and 
+Babs Spidel. With a stronger 
+schedule expected this year, the 
+challenge for both teams will be 
+to keep up their dominating 
+reputations. 
+
+In volleyball, the Mastodons 
+should capitalize on experience 
+this year, since no players from 
+either the men's or women's 
+teams were lost to graduation. 
+The women finished last season 
+at 30-17-1 and were led by co- 
+MVPs Conette Saylor and Clara 
+Schortgen. 
+
+The prospects for this season 
+look promising as coach Arnie 
+
+
+
+Ball has recruited seven new 
+players. Ball said several of these 
+recruits should challenge for 
+starting spots. 
+
+The men put together a 9-13 
+season with a team composed 
+mainly of freshmen and 
+sophomores Loren Gebert was 
+the MVP and also played in a 
+Russian intersquad exhibition 
+when the Soviet national team 
+appeared at IPFW. Seven 
+recruits have also been signed up 
+for IPFW men's squad this year. 
+
+Youth was also the key to the 
+IPFW golf ieam as freshman 
+Kevin Schif fli emerged as the top 
+golfer. Schiffli was the medalist 
+in almost all of the Mastodons' 
+matches and led the team to four 
+first place finishes and three 
+seconds in nine total contests. 
+
+Cross-country runners enjoyed 
+similar success as the team took 
+one first and two seconds in an 
+abbreviated four-meet schedule. 
+With the addition of new head 
+coach Mike Kast, another win- 
+ning season is expected. 
+
+A new field apparently put new 
+life into the IPFW baseball team, 
+which doubled its previous 
+season's wins with a 12-10 record. 
+The team was led by the hard- 
+hitting Mike Dull, wholed the 
+nation in RBI average for NCAA 
+Division II. Dull also had a 
+slugging percentage over 1.000. 
+This year's hardballers will be 
+guided by new coach Lee 
+DeTurk, former head coach at 
+Wayne High School 
+
+Despite the tine seasons en- 
+joyed by all IPFW teams, 
+perhaps the biggest surprises 
+came in men's and women's 
+basketball. 
+
+The men rebounded from a 2-24 
+season to a 16-12 record under 
+first year coach Tim Russell. The 
+16 wins were the most ever by the 
+men's teams. The highlight of the 
+season was a 54-53 upset of 
+Wright State University, which 
+later won the Division II National 
+championship. 
+
+The Mastodons were led by co- 
+MVPs Jeff Hansen and Irv 
+Lukens, both of whom return this 
+year. In fact, the team has no 
+seniors, and, with the addition of 
+eight new players, should be even 
+stronger than last year. 
+
+The women's team completely 
+dominated their opponen's in 
+compiling a 17-4 record, its best 
+ever At the end of the season, the 
+women voted not to have an MVP 
+and rightfully so. If one word 
+could describe the women's 
+team, it was teamwork. The best 
+
+
+
+proof of this is that the Mastodons 
+were number one in team scoring 
+defense in NCAA Division II 
+with a 54.0 average. 
+
+
+
+Clara Trowbridge was voted 
+the most improved player of the 
+season and Joan Wenning led the 
+team in scoring with a 15.4 
+
+
+
+average. In following what 
+seemed to be the standard for 
+IPFW teams, there were no 
+graduating seniors on the 
+women's squad 
+
+
+
+■^ storewiae • ^* ■ 
+
+Tennis Sale 
+SAVE 25% 
+
+On All Tenniswear and Equipment 
+In The Store! 
+
+
+
+• Racquets • Shirts 
+
+• Shorts • Dresses 
+
+• Separates • Shoes 
+
+• Men &amp; Wornens Warrnu|)s and 
+Jackets 
+
+Including Ellesse and Fila 
+Designer Tenniswear 
+
+DlihIop 'A' Player Sails 
+$0 50 
+
+bAvE Mom thru Sat, 10amto6pi 
+6844 North Clinton 
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1486 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i13indi/communicatorv20i13indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i13indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i13indi">The Communicator</a>"
+          </h1>
+          <pre>IPFW volleydons 
+receive NCAA bid 
+
+
+
+
+'Ulmer Hall' 
+
+What happened to senate committee?/Page 
+
+
+
+Dickens Dinner 
+
+Music professor portrays author/Page 6 
+
+
+
+Men's basketball 
+
+'Dons win IPFW Tip-Off Tourney/Page 9 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 1 
+
+
+
+Indiana University-Purdue Unr 
+
+
+
+December 1, 1988 
+
+
+
+Quote of the week 
+
+
+
+■"Jupiter's there but I never thought of 
+writing a resolution stating that Jupiter is 
+
+—Dave Hollis 
+
+
+
+World University Games 
+
+Ball to coach men's volleyball 
+
+
+
+r-INFOGRAPHS 
+
+Out-of-state study discussed 
+
+The National Student Lv kms-r |&gt;rovi&lt;i&lt; - ,mdy opportunities at otb 
+colleges and university- inthi DnitedStates Students can enjoy a n£ 
+
+
+
+i volleyball coach 
+men's volleyball 
+
+
+
+Christmas bazaar planned 
+
+Campus Ministry is encouraging students, faculty and staff to do 
+on campus. Baked goods, handmade crafts, 
+
+n. to 2 p.m., Walb Memorial Union, ground 
+
+Thursday and Friday, 4 p.m. to 5:30 p.m., Indiana 
+nology, Student Center. Everyone is invited to stop by 
+
+
+
+gift items and Christ) 
+floor; Tuesday 
+
+
+
+ISO hosts slide presentation 
+
+i -■ i i - 'rnian will «!ve a slide 
+
+■ermany: East and West" on Monday at noon in 
+
+
+
+History lecture held Tuesday 
+
+
+
+and Nazi Germany" 
+
+
+
+e is sponsored by the department of history and will 
+
+
+
+Spring break trip organized 
+
+Richard Donaldson, visiting lecturer in Spanish at IPPW, is organ 
+ing a trip to Spain &lt; Hi.-nugli March :J. ■:: 
+
+'Hit' t i i ntnds Thecost is $200 a 
+
+includes airfare from Chicago O'Hare Airport to Madrid and retu 
+inn. meals, mienial transportation in Spain, admission to select 
+
+
+
+Friday, Dec. 16. For n 
+
+
+
+Video teleconference set 
+
+
+
+i Tuesday, Dec. 6, from i 
+
+
+
+ainsl leading journalists as each &lt; 
+
+
+
+I Burson M iratellai who has advi 
+
+
+
+Mid Phillip vn.ni rtii.ru,. 1 
+
+year's stock market crash, 
+leira, Pepsi-Cola, director of 
+
+ide publicity for the Mike 
+uss the challenges of using 
+' D ivid bis, president of 
+
+
+
+e will be available for call-in 
+, director of the IPFW Learning 
+
+
+
+College students from across the 
+^ersity Games' squad II i^mes 
+
+
+
+staff and the National Vollevball 
+Association staff. 
+World University Games Uv-ouls 
+
+will be held at Dire ...„ d ■■ 
+
+week after the NCAA Volleyball 
+
+
+
+■ of coaching posi- j 
+
+
+
+
+National Sports Festival in Colorado 
+
+
+duXTa HL'Z^mllZZ me "' 5 '"' '"""'' v °"° ybM "" ° tt " Mc "'""'"'• d ' ,c ° ,,e '' "" te,y w " h "" '"'"" 
+
+
+Springs, In the 1985 World University 
+
+
+
+
+Ball coached the men's north squad to 
+
+
+Sovietologist relates stereotypes 
+
+
+
+
+
+
+
+
+
+
+
+
+eluded the rigged elections, they are "the world's biggest and 
+
+
+University with B.S. and M.A, degrees 
+
+
+spoke on life m 11k.- S&gt;uH I. men on i.'ovn -m V.-i. I'mnn -.Laltd pfeifer then turned to the very 
+
+Wedne-aJav, Nov. 16 from 7 to 9 that tor "the million stupid rcaula- ^,. n , (l , s problems of the people. 
+p m in Neff IIil lions you find, (lien- an- In, million , l , ln( ,, ir ,.,i W nh ltll . Uril |,.,| stales. 
+
+
+
+
+
+
+baseball coach. 
+
+as men's volleyball coach and in his 
+eighth season as women's volleyball 
+
+
+and has written several books on demon. i,ji&lt; .... ■&gt;■;.,- ■ i-m ■■ mi(i . M |ii ., [|i . | |jvii|jJi . (1 .,. ,,.,,. 
+He opened his lecture by relating compared it to a "wall-lo-waU j^m of feast and famine, The 
+
+
+Great Lakes Valley Conference Coach 
+Intercollegiate Volleyball Coach of the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+found them to be very giving and biggest partiers," and Pfeifer also they are not." 
+
+
+
+
+
+Mayor speaks to forum 
+
+City, IPFW can work together, says Helmke 
+
+
+
+
+
+
+Signals, as Hie Allen i.ouril;. . 
+
+
+
+Iiriiw':- importance Helmke vald. ' 
+
+
+
+River Greenway project in deciding 
+
+
+
+!h. I, ,,!■.,- ,,,„i|,! hi;,', i',, ■-.■..■'d l '.,.i.i-.i..n io,eph River. River Greenway Is a 
+f general problems m.n ...re uiai "■ \""r - ■■ ■■■&gt;&lt;-■•-■■■ -etna paths al j^, d |" 
+jid/Teople of the university need to jogging, and biking. 
+
+
+
+''" ■■'■ ',■■■■ li" J ' .n.i 'i'l.plii- I LOmmunlt y' , JC ility may ha 
+
+lobby the legislature separately. , think as a com 
+
+Helmke hopes that tln-iMi.j!, ,i, tnnn:.' i n a ii.imi,' .nd, "Maybe well less protection 
+
+cornninmf. aca.Tid.-i the Mien ( ouni'. tinalls i.-.i-r -"(T..- M.iu.,iny »m lief 1 Helmke. Helm 
+
+area can obtain its goals. Helmke According to Helmke the original decisions that I 
+
+said, "II disturbs me at how little v. c dr.n.cm,;, ir.-.m the i".'i, m, hided on the inform 
+
+
+
+in provided by the 
+Service, including 
+,d flights of the Air 
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+City and campus 
+
+Helmke's IPFW speech 
+build cooperation 
+
+its who i 
+&gt;g as th 
+the people 
+
+
+
+Paul Helmke, mayor of F 
+Wayne, is making it a habit 
+come to speak at IPFW at ' 
+
+
+
+Helmke 1 
+is a good 
+
+example. 
+
+
+
+build dorms. 
+
+
+
+nportant than 1 
+
+Helmke stated in his speech. 
+
+Helmke urged closer cooperation 
+between the city and the university 
+In so doing, he grasped one fun- 
+damental truth that has 
+many observers. Even 
+IPFW has 11.0(H) students, 
+
+
+
+s city of Fort reluctant 
+Wayne. Those in the city who do dent on 
+
+about IPFW often believe it is Wayne mayor need ha\ 
+a poor relation to the main cam- inhibitions. In this light, Helmke' 
+puses of Bloomington and West support of " " " 
+Lafayette and not a full-fledged come sign. 
+
+i right. The main campuses' 
+
+uiidiiii Iiiji would ben- to build dorms may be a sign of a 
+
+J — sr problem. While both In- 
+
+i and Purdue Universities may 
+
+
+
+efit both city and 
+
+The cit 
+pertise o 
+could use a strong, 
+
+
+
+ways have the interests of Fort 
+
+ng in Fort Wayne. Wayne at 
+
+-elationship between Helmke seems to have under- 
+
+university and city would benefit stood this problem. In his speech he 
+
+the university in many ways as said that organizations within Allen 
+
+well. County should unite behind a 
+
+A case in point is the dormitory common community agenda 
+
+
+
+
+Ulmer's memory 
+
+Renaming a building 
+would be fitting tribute 
+
+
+
+September, at 
+meeting 
+month, Kris Maly, vice president 
+student legislation, proposed 
+
+ing of the Classroom 
+Building after former dean of 
+
+"Jack" Ulmer. 
+It was a wor 
+praised by The Communicator. 
+
+■ cnrnmitti'L'" M appears 
+
+Maly' 
+' 'but 
+
+awaiting a single-lung transpl. 
+Ulmer's contributions to this 
+versity were symbolic of 
+Anyone who 
+
+
+
+the Classroom Medical Building. 
+
+Classroom Medical is an awk- 
+ward appellation, and partly re- 
+dundant as well, as most campus 
+buildings are classroom bull '" 
+1 Uding i 
+r who 
+cated 23 years of his life I 
+institution, who fought fc 
+rights of 
+
+
+
+News 
+
+
+
+The Communicator 
+
+
+
+Non-discrimination policy adopted 
+
+
+
+
+Antique Toy/Train Trade Show to 
+be held Dec. 10, 1988 at Ft. Wayne 
+
+National Guard Armory, 330 S. 
+Clinton, Ft. Wayne, IN. Sponsored 
+by Silicon Express Productions, 
+
+
+
+1-800-999-6868. 
+
+
+
+The Communicator 
+
+
+
+&amp;/&amp; no- accu/ent ^Pav been/^£t£in&amp; into- a/ 
+ckfferent; Ain^ (^s/m?^ AintJ 
+
+
+
+
+TfNiTH I data 
+
+systems 
+
+THE QUALITY GOES IN BEFORE THE NAME GOES ON 
+
+For more information about jfbjmgf 's full range of computers from the 8088 desktops, 286 desktops &amp; portables, 386 
+
+Linda Patten Sue Carleton 
+
+Kettler G64 
+
+
+
+desktops &amp; portables, contact: 
+
+
+
+The Communicator 
+
+
+
+
+
+Enter the Zenith Data Systems 
+
+MASTERS of 
+INNOmTTON 
+
+
+
+Win a $5,000* Zenith Computer System. 
+
+
+
+We're searching for tomorrow's innovators. 
+If you've developed or used software or hardware— that is compatible with 
+Zenith Data Systems products— to creatively address a problem or task in your 
+field of study, we want to hear from you. 
+
+You could win a $5,000* Zenith Data Systems computer system for yourself, 
+$5,000* worth of computer equipment for your college campus given in 
+your name, and national recognition from your peers. 
+
+For More Information And Official Rules, Call 1-800-553-0301. 
+Competition Ends March 1, 1989. Void Where Prohibited. 
+
+'Mint | data 
+systems 
+
+THE QUALITY GOES IN BEFORE THE NAME GOES ON ' 
+
+
+
+
+I by The Roger Richman Agency. : 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+"The Master Piece 
+
+
+
+Dickens dinner 
+
+Music department presents annual dinner 
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+■riOoCT 
+
+
+
+
+Candlelite Reception Hall 
+
+
+
+Wedding Receptions, 
+
+Special Occasions 
+
+• Seats 350 
+• Air Conditioned 
+2415 Shoaff Road 
+Mary Beeler, Manager 
+489-5441 or 637-3388 
+
+
+
+process of being formed. Leesburg Road. The i 
+The group would display, recreates the astronon 
+
+sibilities for "The group 
+I include readings, 
+, visits by off-&lt; 
+
+
+
+i iickels available 
+
+
+
+
+
+MUFFLERS • EXHAUST • CUSTOM BENDING 
+BRAKES • SHOCKS • STRUTS • COIL SPRINGS 
+
+FAIR'S NOT JUST A NAME ITS OUR WAY OF DOING BUSINESS 
+3 LOCATIONS TO SERVE Y00 1515 Coliseum 
+
+
+
+
+??1T,f MUFFLER 
+ilUlJ SH0PS 
+
+
+482-3618 
+NOW OPEN 
+
+4832 S. Calhoun 
+
+— Z. 4 i2. 3 I 3 — , 
+
+ANY PURCHASE OF 
+
+•80 TO '120 
+
+
+
+
+ANY PURCHASE 
+
+OVER '125 
+
+
+'6m on 
+
+ANY PURCHASE OF 
+
+•20 TO '80 
+
+
+FREE 
+
+BRAKE &amp; EXHAUST 
+
+INSPECTION - NO 
+
+OBLIGATION! 
+
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+We're looking for talent... 
+Four divisions to serve you 
+
+
+
+CLERICAL INDUSTRIAL 
+
+TECHNICAL SOCIAL SERVICES 
+
+
+
+a calTtodayi 
+
+TlffiE 
+
+
+
+
+
+
+| SPORTS DEN | 
+
+D Indiana and Purdue Sportsweai 
+] Team Uniforms and Equipment 
+3 Jeckets • Specialty Printing 
+
+r^/7 East State Blvd. C^~^ 
+
+
+
+H 
+
+
+
+SPORTS -'• 
+COLLECTIBLES 
+
+
+
+Volleydons receive NCAA bid 
+
+
+
+w 
+
+
+
+
+That Reflect You. 
+
+Prints 
+
+Original Art 
+
+Custom Framing 
+
+Sculpture 
+
+
+
+— — 
+
+
+
+POP 
+
+
+
+HOLIDAY POPS 
+CONCERT 
+
+December 10 8:00 p.m 
+Embassy Theatre 
+
+
+
+
+Sponsored by 
+
+
+
+(■l. 1 ll,.|, ( |. 1 h(-ll l „ lJ . 
+
+
+
+424-5665 
+
+FORT J ** ©ssfei 
+
+WAYNE ^^JS^SS: 
+
+PHILHARMONIC 1ML 
+
+
+
+
+matcha'tVwis'isV 
+
+Brown changes for the better 
+
+
+
+IBM's got thepackage 
+
+that'll help wrap up 
+
+your studies. 
+
+IBM 1 PERSONAL SYSTEM/2 MODEL 25 PACKAGE SAVINGS 
+
+
+
+■Sa 
+
+
+
+£ 
+
+
+
+■ ■-. 
+
+
+
+~^-:"" 
+
+
+
+PACKAGH 1 
+MO KB Memory Mint, on 
+
+
+
+$2460 
+
+
+
+$2969 
+
+
+
+$3591 
+
+
+
+YOUR 
+PRICED 
+
+
+
+$1362 
+
+
+
+$1595 
+
+
+
+$1943 
+
+
+
+YOU 
+
+SAVE 
+
+
+
+$1098 
+
+
+
+$1374 
+
+
+
+$1648 
+
+
+
+
+
+
+
+Cards even score 
+
+
+
+
+MVILLE 
+
+
+
+the visiting Ball change hands twice. D?FW 
+
+Cardinal's five game pulled out the game 15-13. 
+er the Volleydons on Ball State led in game 
+
+1. The Volleydons had live before the 'Dons tied it 
+
+
+
+
+
+
+IB 
+
+
+
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+Hglg GALLERY 
+
+
+
+^lyles For Men. Women &amp; Children 
+^ OPEN EVERY EVENING 
+&amp; SUNDAYS 
+
+
+
+
+TANNING Cut Sale 
+
+$29.95 $1.00 Off 
+
+10 VISITS Any Cut 
+
+
+
+Coyinr£on^ Clinton Corners 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+IPFW Mastodon cagers win Tip-Off Tournament 
+
+
+
+Tip-Off Tournamer 
+
+
+
+Sergent's shot downs Valley 
+
+
+
+By MIKE L1NV1LLE 15 times b 
+
+
+
+hosted the game 
+
+
+
+ows- The rebound 
+
+
+
+; :;;.::" 
+
+
+
+second Piazza. 
+
+
+
+trtL 
+
+
+
+dig, State si irting lineup 10 point 
+averaged almost 6'5", plus eight p. 
+
+
+
+■ ■(.■cnn.1 :C ill] 
+
+
+
+ket ***&amp;&gt;* betwei 
+
+
+
+'Dons' constant pressure *^ the top five in tbe cotmto 
+and trapping defense as The Lakers beat the in scoring for Division II, 
+most effective in wearing 'Dons everywhere but on according to Piazza. The 
+down the Lakers and fore- the scoreboard. Grand coach did express some 
+ing them into 28 turnovers, Valley shot 54 percent worry over the team's re- 
+plus the 'Dons stole the from the field and 91 per- bounding. Roland, the 
+
+Kent Wiersma and Todd cent of their fielders and bounder with an average 
+
+Jenks turned the ball over 79 percent of their free of 9.3 a game. 
+
+
+
+• St. Francis 92-76, 
+
+
+
+Tech players scored, led by night 
+
+Rob- Bard's 18. The senior guard Indiana Tech used their 
+
+the put iii i-iulu oi l- fiHH ,'imI:- ,,,,. .,,,,1 quickness to go out 
+
+hrow and two of four tree thrown ,„ „,„„ -,„.,., Ihl . ,■„,„,„,, 
+
+of 26 Jon Bow, 6 4 ' forward, rallied in the final eight 
+
+
+
+:'■: ; ■'... I 
+
+
+
+
+
+
+
+idy sive pressure on Madonna, Francis cut the lead to five! 
+
+J? 33 percent shooting in the mark '. Tec h kepi"* up the 
+
+c-'v 3 the game. " ' ^ K'bJ 8 to To "points for 
+
+the IPFW hit 49 out of 84 the rest of the game. 
+
+todons went to the free with 19 points and Clair 
+
+w line 11 times and Knapp led the Cougars with 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+TOOL DESIGN CLERK: 
+flexible. Typing 40 wpm 
+student in MET, IET, or 
+
+
+
+CRT helpful. Prefer. 
+
+
+
+IF YOU ARE AN IPFW STUDENT AND INTER- 
+ESTED IN ANY OF THESE POSITIONS COME 
+IN TO OUR OFFICE ■ WALB 113. WE HAVE 
+MANY OTHER POSITIONS AVAILABLE. 
+
+
+
+a 
+
+
+
+Central Missouri wins title 
+
+By MIKE LINVILLE Lady 'Dons advanced to the win. 
+
+Sports Editor championship game via a Three Lady 'Dons were in 
+
+come-from-behind victory double figures led by Mer- 
+
+A tall and experienced over Southern Illinois at rell's 21. Turner totalled 21 
+
+Central Missouri 51 ite team Edv. irdsville, 91 to 75, Fri- points and Scott 17. Jenny 
+
+ended the hopes of the Lady day, Nov. 25. Albert topped the Cougars 
+
+'Dons winning the IPFW The Lady Cougars scored with 23. 
+
+to 87, Saturday. Nov 26 ' utes had elapsed in the halt, jj^The^jennL used thei? 
+
+and™"" and BT' and con- Southern Illinois'used their °P '} ft J.!™? *J5l.' fcmin 
+
+sisted of one senior, three quickness to forge a 20 to 9 .Zw Zr leari in 9s 
+
+juniors, two sophomores lead in the fir.l lull rurnei !? '" ™" J" ™ „h h.i? 
+
+and two freshmen ol Melt Itarted hi Dona rally by points in uie second nan. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to drop in four three-point 
+
+
+
+
+extended that lead to 19 to 
+
+
+tttempU including one at 
+i ei IPFW led at 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+over three minut. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+built up a 10 point margin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tan Ellen Jaskuta led the 
+
+
+! '!in .1 i. ■'■ ■■ 
+
+
+pulled away for the 34 point 
+
+
+Eagles with 17. 
+
+
+
+Jennies kept the 'Dons at 
+late rally pulled IPFW to 
+
+
+
+reaching double flail 
+
+
+
+
+
+
+GIVE 
+BLOOD, 
+PLEASE. 
+
+
+
+
+
+
+The Communicator 
+
+IS NOW ACCEPTING APPLICATIONS FOR 
+
+FOR THE SPRING SEMESTER 
+
+THE SPORTS EDITOR ASSIGNS AND WRITES 
+SPORTS STORIES COVERING ATHLETIC 
+EVENTS AT IPFW. AN EXCELLENT WAY TO 
+GAIN PRACTICAL JOURNALISM EXPERIENCE. 
+PRIOR EXPERIENCE USEFUL BUT NOT 
+NECESSARY. 
+
+APPLY IN PERSON AT WALB 215 
+
+OR call 481-6584 OR 481-6583. 
+
+
+
+
+There 
+
+May Be 
+
+Prizes 
+
+in Your 
+
+Textbooks, 
+
+Too! 
+
+When You Sell Your Books only at our Bookstore! 
+
+
+
+
+Bring your course books to our 
+Bookstore at the end of the term 
+and sell them for quick holiday 
+
+
+
+For each book you sell, you'll receive 
+a Sweepstakes game piece.' You'll 
+know immediately if you're a winner. 
+
+
+
+No purchase necessary /&lt; 
+
+
+
+Here's What You Could Win . . . 
+
+(over 200,000 prizes in this national bookstore game) 
+
+
+
+
+!iinnVnrt*im e,S • Seiko WristWatches • LED. Watches 
+
+■ Tan* 1000 TX PC ? s * Portable Radio/Cassettes . Sport Wallets 
+
+■ Windjammer "Barefoof ' Cruises • AM/FM Stereo Clock Radios • Soap Opera Challenge 
+
+■ 19 inch Color TVs • AM/FM Portable Stereos Card Games 
+
+■ 4/ 2 inch TVs with AM/FM • Personal Stereo Cassette 
+
+Stereo &amp; Cassette Players 
+
+Cash for Books Sweepstakes 
+
+
+
+Follctt's 
+
+UNIVERSITY BOOKSTORE 
+
+
+
+Sports 
+
+
+
+Take A Trip Down Memory Lane... ~* 
+
+
+YesIHJCM Fashions 
+Coats - Dresses ■' Soils 'rials 
+
+
+wQSflr 
+
+
+&amp;n\(jfc Fashions of Yesteryear 
+
+
+
+
+WIESE NISSAN 1 484-9507 
+
+
+
+</pre>        </div>
+      </div>
+    

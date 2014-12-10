@@ -1,0 +1,3296 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv5i9indi/communicatorv5i9indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv5i9indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv5i9indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA - PURDUE COMMUNICATOR 
+
+
+
+
+AAUP head speaks 
+of independence 
+from IU, Purdue 
+
+
+
+Vicki Doster, Michael Yann, Dave James, and Larry Bradtmueller i 
+the pig roast banner in the stairway of the Student Union. 
+
+
+
+Come, eat some pig' theme 
+of October 22 free roast 
+
+
+
+Activity card holders are urged 
+"To come and eat some pig" October 
+22, 1973, by the Student Union Board, 
+the Xi Gamma Iota fraternity, and 
+Delta Gamma Sorority. 
+
+The pig roast will be served in the 
+Student Union cafeteria from 10:30 
+a.m. until 3:30 p.m. The roast, 
+sponsored by the Union board and 
+served by the DG's and X GI's, will be 
+in conjunction with the Union Board 
+Halloween party October 26, 1973. 
+
+The menu for the pig roast will be 
+shaved roast sandwiches sole slaw, 
+and drinks. Activity card holders 
+
+
+
+Those students participating will 
+not go through the regular cafeteria 
+lines. The serving lines for the roast 
+will either be in the north section of 
+the cafeteria or on the patio adjacent 
+to the cafeteria, depending on 
+weather conditions. 
+
+Anyone without an activity card 
+who would like to eat at the pig roast 
+will be asked to make a donation 
+
+According to Dave James, Presi- 
+
+
+
+Soccer team uses ineligible 
+players; athletic board 
+votes to forfeit all games 
+
+
+
+By KATHY CONRAD 
+
+; In a meeting held Tuesday, 
+October 16, the Joint Athletic Com- 
+mittee revealed that six of the fifteen 
+members now playing on the Indiana- 
+Purdue University soccer team are 
+ineligible players. Consequently, 
+previous wins and tied games are 
+being forfeited by the team 
+
+It was voted by the committee to 
+contact the three teams with which 
+the IU-PU team won or tied games. 
+The schools will be notified that these 
+games will be forfeited as a result of 
+the ineligibility of the ~ ! ~" 
+members. 
+
+
+
+
+
+
+Another decision was made to 
+contact the three remaining teams 
+scheduled to play the team this 
+season. The situation will be 
+explained and the schools will be 
+offered the option to play or not with 
+the IU-PU team. Regardless of the 
+decision made by the schools, all 
+games will be automatic forfeits. 
+
+
+
+According to James Bolinger, 
+director of student activities, the 
+common practice to determine eligi- 
+bility of players serving on inter- 
+collegiate sports at IU-PU involves 
+
+
+
+thre basic steps. First, the names of 
+players on the team must be sent by 
+the coach of each sport to Bolinger. 
+Concerning the soccer team, Andy 
+Johns is IU-PU's part-time soccer 
+coach. He also teaches at Saint 
+Charles elementary school in Fort 
+Wayne and is an assistant football 
+coach at Swenger High School. 
+
+
+
+Then forms are sent to Dr. Dave 
+Skelton, director of records and 
+admissions, where he fills out needed 
+information on each student. In the 
+final step the information is simply 
+sent back to Bolinger for the determi- 
+nation of eligibility of the players. 
+
+Eligibility rules for IU-PU inter- 
+collegiate athletic participatio 
+
+
+
+For freshman students, the predi- 
+ctability table, a Big Ten Conference 
+Eligibility Table combining high 
+school and SAT scores, is used to find 
+the academic standing of the student. 
+During the second semester the 
+fresliman student should have al- 
+ready taken 12 credit hours and have 
+a semester grade point (index) of 1.60 
+or more (Indiana University scale!. 
+
+As a sophomore, the player must 
+have a cumulative grade point index 
+of 2,00 with a semester grade point 
+
+
+
+By KATHY CONRAD 
+
+Should the Fort Wayne Indiana- 
+Purdue University campus become a 
+unified and independent state-sup- 
+ported college? In recent months a 
+great deal of controversy has arisen 
+over a report concerned with the 
+governance of multi-campus univer- 
+sities in Indiana. 
+
+Prepared by Boyd R. Keenan, the 
+report has become known as the 
+Keenan Report and has caused i 
+
+
+
+throughout the s 
+
+In a recent interview with Dr. 
+David Onwood, president of the 
+Purdue chapter of the American 
+Association of University Professors, 
+(AAUP) the possibility of becoming 
+an independent college was discus- 
+sed. According to Onwood there are a 
+large number of advantages to IU-PU 
+breaking away from the mother 
+
+
+
+index of 1.60 or better. 
+
+Junior and senior eligibility 
+requirements involve a 2.00 cumula- 
+
+: grade point index and a 1.70 
+r grade point index. 
+
+
+
+All students ir 
+full-time program of studies. This 
+includes completing at least 12 credit 
+hours per term for each term enrolled 
+
+
+
+According to Bolinger, the major 
+problem with the ineligibility of the 
+six team members centered on the 
+completion of enough credit hours. 
+
+Further discussion at the meeting 
+concerned the possibility of soccer 
+being omitted as an inter-collegiate 
+sportat IU-PU. Soccer would become 
+an organizational, intramural sport. 
+This would mean the loss of any 
+funding for the team through the 
+student fees. 
+
+The possibility that the six 
+ineligible players might receive 
+varsity awards was also discussed. 
+~~ e general feeling of the c 
+
+
+
+As an IU-PU faculty member, Dr. 
+Onwood was asked how he felt 
+
+unification of the IU-PU campus ii 
+
+
+
+i unification, one the one hand, 
+which must make the faculty more 
+efficient, happier with the fact that 
+they are able to do their job better. 
+"Right now you see, I have 
+formal communication with only hall 
+the faculty, and this is absolutely 
+crazy. I can discuss some of my 
+
+
+
+dent of the XGI fraternity, this pig 
+roast is another project planned in 
+order to get students and organizat- 
+ions to use the Student Union 
+facilities. 
+
+He also commented, "Student 
+response was so good to our first pig 
+roast held during the Harbor Arbor 
+days last spring that we felt we should 
+sponsor it every semester. This is 
+another opportunity free to students 
+who have activity cards." 
+
+He also noted that a spring pig 
+roast and concert is in the planning 
+forr 
+
+
+
+"There are some people who feel 
+they like the name, yes, but I'm not 
+sure how wide-spread" this attitude is. 
+Most of us have a professional 
+standing which depends on what we 
+do. 
+
+"it's our faculty, I think as much 
+as anything else, who realize that to 
+do their job better, they want 
+unification. I do believe that the 
+faculty are feeling that the job is here 
+to be done and they're here to do it. 
+
+Dr. Onwood expressed some 
+thoughts concerning the problems he 
+encounters when trying to get 
+changes in the way things are done. 
+"I go to my section chairman who 
+goes to his academic dean who goes to 
+the dean and director on this campus. 
+That's only three layers, that's not too 
+bad, But the dean and director on this 
+campus then report to a man in 
+Lafayette who finally might report to 
+the president at Lafayette, who then 
+inturnwiU make iccomnwiida lions to 
+the board of trustees or not. That man 
+is in a very unfortunate position, 
+because he is president of Purdue 
+University, and he has to make 
+decisions about the Fort Wayne 
+campus, even though his prime 
+concern is the Lafayette campus." 
+
+The changeover to a unified, 
+independent university would not 
+-' IU- 
+
+
+
+are no academic programs that need 
+to be changed, no duplicated sections 
+except English, I believe, and 
+perhaps education. 
+
+"I don't see that there's a great 
+danger that the programs would be 
+weakened; I think, if anything, we 
+could get to strengthen our offer- 
+ings." 
+
+Dr. Onwood was asked his opinion 
+of whether the community would 
+accept the campus if it were to 
+become independent of the mother 
+universities. "Well, I think the 
+community as a whole has been 
+astounded that we've kept this 
+ramshackle arrangement going so 
+long. The question I hear out there 
+from people who understand the 
+set-up is, 'When are you going to do 
+something about that place?' " 
+
+According to Dr. Onwood, there 
+
+
+
+
+
+
+it 1)1 s. 
+
+
+
+"It makes . 
+efora 
+
+
+
+v &lt;-;uii[W-. \&lt; 
+
+
+
+be tied in to an old campus - it's better 
+for the students, it's better for the 
+faculty. But you can't do this 
+forever." 
+
+When asked if the time is now, he 
+replied, "I think it's the best of all 
+possible times, because if we don't do 
+it now we're going to get in another 
+band aid situation, and this place has 
+been band aided for long enough." 
+
+
+
+2 ineligible, they could not receive 
+the awards. However, the possibility 
+of some sort of recognition is being 
+considered. 
+
+
+
+"Also, too, I think we could do a 
+better job of serving our students if 
+we were one campus." According to 
+Onwood, study programs need to be 
+under one system. He feels it is 
+difficult for students to get into areas 
+which only one school, IU or PU, 
+offers. "To generate a student who 
+had an engineering background and a 
+language background on this campus 
+isn't very easy right now. Engin- 
+eering, what there is of it, is offered 
+by Purdue, languages are offered by 
+IU and it's very rare for that sort of 
+across the Berlin Wall type combina- 
+tion to be offered. . . .Surely it should be 
+something that the university should 
+be forseeing as desirable. 
+
+"It would help to have one set of 
+procedures for dealing with students 
+and with grades. Right now the 
+students in one course are being 
+subjected to two different grading 
+systems." Purdue students can 
+receive a grade E, which means the 
+student has failed, but that they can 
+take a test which, if the student does 
+well enough on, they can receive a 
+final grade of D. In the Iu half of 
+IU-PU, the student would simply fail. 
+"I believe most of us really agree that 
+this campus must be unified." 
+
+
+
+Some comment has been made 
+concerning whether or not the 
+professional standing of the educators 
+at IU-PU would be affected by the 
+unification of both halves of the 
+University. Dr. Onwood expressed 
+his personal feelings on the subject. 
+"I believe that if I need to wave a flag 
+that says Purdue on it to show people 
+that I'm a good guy, then I'm not a 
+very good guy. If I need that name 
+behind me to do my job well, then I'm 
+not very good, am I? I believe that 
+my professional standing depends on 
+what I do, not on the label I'm sold 
+
+
+
+SUB to sponsor 
+masquerade dance 
+
+The Student Union Board will 
+sponsor a Halloween masquerade 
+dance October 26, 1973 at 9:00 p.m. 
+featuring the band Gas, Food &amp; 
+Lod Sing- , .. , , ka 
+
+Everyone is asked to come to me 
+dance costumed. The dance will be in 
+ballroom of the Student Union. 
+
+Gas, Food &amp; Lodging consists of a 
+four man line-up. with guitar, drums, 
+irgan and bass guitar. The band also 
+includes a synthesizer. The band will 
+be playing their original 
+
+
+
+
+Hudson Henry displays the plaque presented him by Fred 
+Merritt, president of the Student Chapter of Data Processing, 
+for his contributions to Indiana-Purdue. Henry is leaving the 
+campus because of an illness in his family. 
+
+Henry gets plaque 
+for contributions 
+
+
+
+Friday, October 12, Professor 
+Hudson H. Henry was presented a 
+plaque in appreciation for all his 
+contributions to Indiana-Purdue Uni- 
+
+
+
+n several top bands. 
+
+
+
+plaque was made in Henry's last class 
+at IU-PU. 
+
+Henry was impelled to leave his 
+position at IU-PU due to an illness 
+within his family. During his last 
+class, before leaving the IU-PU 
+faculty, John T. Gorgone, the 
+Computer Technical department 
+head; Fred Merrit, president of the 
+student chapter of the Data Process- 
+ing Managers Association (DPMA); 
+and Jane Bechtold, vice-president of 
+the DPMA student chapter, presented 
+Henry with the plaque. 
+
+Fred Merritt made the actual 
+presentation, and as spokesman in the 
+ceremony stated, "We are sorry you 
+have to leave, and we hope that 
+everything will turn out all right and 
+
+
+
+that you will be able to return in 
+happier times. I thank you for the 
+students. I thank you for your 
+friendship ; you are a friend outside of 
+class and a teacher in the classroom. 
+Thank you for helping to form the 
+student organization, student chapter 
+of the Data Processing Managers 
+
+
+
+As part of the faculty in Camputer 
+
+
+
+1974 Fall _ . 
+
+He also served as the 'middle 
+man' between the National Organiza- 
+tion of Business and the Student 
+chapter of the DPMA. 
+
+Upon receiving the plaque. Henry 
+
+
+
+1 plaque I will ever have, this 
+
+
+
+Edftonallif 
+Speaking 
+
+
+
+ST. JOHN'S JOURNAL 
+
+
+
+Student control of athletics 
+
+
+
+The Student Senate recently passed a resolution demanding equal 
+representation on the Joint Athletic Advisory Committee. While equal 
+representation will be a step in the right direction, it does not go far 
+enough in righting the injustice of the present committee make-up. 
+
+At present there are six faculty members and four students on the 
+committee, each appointed through their respective senates. Also on the 
+committee in an ex-officio position is the campus athletic director. 
+
+Taking the committee at face falue. students seem to be well 
+represented, especially when one considers the norm for such 
+committees across the nation. Most universities give students little or no 
+voice in athletic affairs. 
+
+But this is not most universities, as athletics are financed almost 100 
+percenl by student fees and not by ticket sales and alumni grants. When 
+examined in this light, having four student members on the committee is 
+nothing more than tokenism. 
+
+Since the monies that fund athletics are received through a student 
+tax, the athletic budget must be examined by and meet the approval of 
+the students' elected representatives in the Student Senate. 
+
+To meet this condition, we recommend that the following procedure 
+be adopted; (1) the committee be composed of equal faculty and student 
+representation; (2) the committee act much in the same manner as it 
+does now, formulating policy and budget proposals; and (3) the 
+committee submit to the Student Senate the annual athletic budget for its 
+approval. 
+
+We realize that requiring Senate approval of athletic budgets is a 
+significant change in the present policy. But we feel strongly that this 
+change is necessary and justifiable. Those who must pay the bills should 
+be entitled to determine which bills will be paid. 
+
+We urge the Student Senate to reconsider its resolution for equal 
+representation, and to strengthen it with our suggestions. It is imperative 
+that the power over the purse strings be placed where it rightfully 
+belongs. 
+
+Change in habits vital 
+
+
+
+"Waste not, want not" was an adage that served earlier generations 
+of Americans well. Food and firewood were the direct product of toil. 
+Security was gained only by being prudent today with an eye on 
+tomorrow. When the frontier faded and industry and mechanization 
+began to transform American life, basic foodstuffs became plentiful and 
+cheap enough to allow a certain profligacy in deciding what goes into the 
+pot and what is thrown away. As for fuel and power, we began turning up 
+thermostats, driving cars and switching on appliances with little mind for 
+the cost, especially in terms of natural resources. 
+
+We ascribe all this to what we call "progress" and, while we can still 
+look forward to more of it in creating a good life for ourselves and our 
+neighbors, we have clearly reached a turning point in the way we 
+consume food and energy. Our farmers now are going to be feeding 
+people in many countries besides our own. We are going to pay dearly for 
+the oil we must import. Concern for the environment is limiting the 
+electric power at our disposal. Circumstances are demanding that we 
+come to grips with the fact that our living standard is not only the highest 
+in the world but undeniably the most wasteful. 
+
+An agronomist at the University of Washington estimates the 
+American people will throw enough food out with their garbage next year 
+to prevednt a significant proportion of the deaths by famine that are 
+likely to occur because of drought and crop failure in Africa and Asia. 
+
+The irony is that the worldwide capacity for food production is great 
+enough that no one on this planet needs to starve. However, the 
+mechanism for producing, marketing and distributing foodstuffs is not 
+based on hunger but on buying power. People in industrialized countries 
+are affluent enough to pay whatever it takes to sustain their eating habits 
+- including their habits of waste. We have not bid up grain prices so high 
+that poorer countries which must import food, and relief agencies which 
+can help them, are being squeezed out of the market. 
+
+Meanwhile our country is facing both diplomatic and economic 
+problems because of the amount of petroleum we must import. We are 
+now burning up 12 million barrels of oil a day in one form or another and 
+the figure rises steadily. Developing new sources of fuel and energy is 
+only part of the solution. The fact is that our petroleum "needs" are 
+higher than they should be because of our lackadaisical attitude toward 
+energy conservation in our daily lives. 
+
+
+
+Foreign policy in moral quagmire 
+
+
+
+By JEFFREY ST. JOHN 
+
+"I cannot see the United States 
+expanding commercial markets with 
+the Soviet Union," observed Rep. 
+Wilbur Mills, D-Ark., "if the price is 
+to paid in the martyrdom of men of 
+genius like Solzhenitsyn and Andrei 
+Sakrahov." 
+
+
+
+Mills' statement represents a 
+formidable roadblock to the Nixon 
+administration plans for detente with 
+the Soviets. As chairman of the 
+powerful House Ways and Means 
+
+
+
+repression against its dissident intel- 
+lectuals like novelist Solzhenitsyn and 
+physicist Sakrahov, both of whom 
+have warned that expanded trade and 
+technological help from the Unitd 
+States will only strengthen the Soviet 
+dictatorship. 
+
+However, while Mills' initial 
+opposition is welcome, the Soviets are 
+likely to give the surface appearance 
+of relenting in their campaign of 
+repression to gain from the United 
+Stales badly needed technological 
+help. As a consequence, congression- 
+al opposition to expanded Soviet trade 
+must be based on something more 
+than moral outrage at the current 
+excesses of the Kremlin dictatorship. 
+
+
+
+British-born author Anthony Sut- 
+ton research fellow at the Hoover 
+Institute, provides in his just-publish- 
+ed work, "National Suicide • Military 
+aid to the Soviet Union" (Arlington 
+House, New Rochelle, N.Y.) a 
+detailed and documented account of 
+policy of trade with the 
+
+
+
+Sutton's stunning and brilliant 
+study is the first scholarly attempt to 
+lay out the facts of how, since 1918 
+under Woodrow Wilson, the United 
+States has systematically aided and 
+abetted the building of a massive 
+military machine by its policy of 
+
+"peaceful trade." Sutton charges, 
+
+
+
+policy been carried out under the 
+banner of "a bi-partisan foreign 
+policy," but it has been executed in 
+
+
+
+"The evidence suggests," Sutton 
+states, "that successive administra- 
+tions have made misleading and 
+untruthful statements when chal- 
+lenged on the export of equipment 
+with military potential to the USSR. 
+
+Moreover, in 1972, President 
+Nixon's administration was suffici- 
+ently self-confident to admit that 
+current imports to thesoviets did 
+indeed have military potential, al- 
+
+
+
+though the precise technical i 
+these exports was still kept sec 
+from Congress and the public 
+
+
+
+
+
+
+Spirit lifter 
+of the week 
+
+
+
+Bv RUTH STAFFORD 
+PEALE 
+
+Temptation is the urge to do or 
+" "ng wrong, something 
+
+
+
+contrary to the word of God. And 
+often comes in pleasant form, with the 
+mind trying to rationalize or make it 
+seem right If you do not give in to 
+temptation, you will have control of 
+your life. 
+
+
+
+love him" James 1 
+
+
+
+In this respect, it is significant 
+that when Henry Kissinger went 
+before the Senate Foreign Relations 
+e for approval as secretary 
+
+
+
+liberal 
+
+members of the committee raised the 
+issue of deception and lying by the 
+administration in its conduct of policy 
+in Asia. And Kissinger never gave a 
+definitive reply to these pointed 
+questions. As Sutton charges, the 
+
+A CHANGING WORLD 
+
+
+
+Nixon administration is still keeping 
+secret from Congress and the public 
+the extent of its aid to the Soviets. 
+
+Furthermore, the author puts his 
+finger on the central philosophical 
+pulse of this suicidal policy. It is 
+founded not on fact, but on mystical 
+
+
+
+never learned," Sutton states, "that 
+national policy cannot be based on 
+altruism and mysticism. Henry 
+Kissinger has never been on the 
+receiving end of a bullet. Indeed, in 
+most cases policy-makers have never 
+undertaken any occupation where 
+that cost of a wrong decision fell upon 
+
+
+
+"Our Washington planners have 
+
+
+
+More 'corners' in heroin war 
+
+
+
+
+
+By JOHN PINKERMAN 
+
+President Nixon said recently, 
+"We have turned the corner on drug 
+addiction in the United States." 
+
+The President doubtless has more 
+information available to him than any 
+other person in the country, so his 
+words would seem to be good news in 
+the extreme. Also, his credentials 
+have been applauded by Dr. Robert 
+W. Baird, a New York expert on 
+heroin, who told a Senate Judiciary 
+subcommittee hearing, "I think we 
+have to thank President Nixon. I 
+think he was the best drug expert of 
+all by pulling out of Vietnam." 
+
+Other evidence, however, is not so 
+encouraging - it is in fact downright 
+frightening. 
+
+At the same time Mr. Nixon was 
+telling us that we had "turned the 
+corner" and were spending 10 times 
+as much on antidrug campaigns as 
+
+
+
+1, The Justice Department's 
+Office of National Narcotics Intelli- 
+gence reported that the number of 
+
+
+
+Dan McAuliffe, a Justice 
+
+official, said there are 600,000 heroin 
+addicts in the country compared to 
+50,000 ten years ago. And, he said, the- 
+increase continues. 
+
+2. Capt. Ward Cates, preventive 
+medicine officer of the Army's 130th 
+General Hospital in Germany, said 
+drug abuse had sparked a hepatitis 
+epidemic among U. S. troops in 
+Bavaria. "We are seeing a hepatitis 
+epidemic despite pronouncements by 
+officials that the drug problem has 
+; of 
+edominantly he] 
+i ther 
+
+"This form is related to drug 
+abuse and the number of hepatitis 
+cases is the best (medical) index of 
+the amount of drug abuse within the 
+local military c 
+
+
+
+Cates had even worse news: 
+"An average of one out of every four 
+patients admitted to the 130th General 
+Hospital has hepatitis. . ..The vast 
+majority are between 18 and 24 years 
+of age and they have contracted the 
+disease from mainlining drugs or 
+from living in close contact with drug 
+abusers." 
+
+
+
+3. New York police have assigned 
+24 extra patrolmen to what once was 
+beautiful and tranquil Morningside 
+Park near Columbia University. 
+Why? Because of the latest in 
+hundreds of stabbings perpetrated by 
+heroin users who needed money for a 
+fix. It is a sad commentary on what 
+this park once was, and for a number 
+of years those attending newspaper- 
+men's seminars at Columbia have 
+been warned to stay out of the park 
+
+
+
+
+
+
+niUli! 
+
+
+
+Quotes to 
+remember 
+
+
+
+It was very pleasant to me to get a 
+letter from you the other day. 
+Perhaps I should have found it 
+pleasanter if I had been able to 
+decipher it. I don't think that I 
+mastered anything beyond the date 
+(which I knew) and the signature 
+(which I guessed at). There's a 
+singular and a perpetual charm in a 
+letter of yours; it never grows old, it 
+never loses its novelty. . . . Other 
+
+
+
+There a 
+
+n the news every day that should tell 
+-lr. Nixon there are many more 
+l the fight against 
+
+
+
+Dr. Baird, for i 
+raised the cry against heroin use in 
+the armed services in 1966 and the 
+Pentagon scoffed at his words of 
+alarm. However, he is experiences - 
+has been working on the streets of 
+Harlem to cure heroin addicts for 
+nearly 20 years - and his 1956 warning 
+that there were 10,000 heroin users in 
+the military services then should have 
+been heeded, 
+
+"It is not that I blame the Army 
+and the Navy," he said, "because the 
+generals and the admirals are just 
+like presidents of colleges. They are 
+the last ones to know the problem of 
+drug addiction on their campuses. It 
+is the same in the military." 
+
+
+
+Baird told the Senate c 
+of a case in which inexperienced 
+military doctors failed to "catch" an 
+obvious heroin addict draftee during 
+an induction physical. 
+
+
+
+the corpsman couldn't get the blood 
+out of his arm, and believe it or not the 
+addict took the tourniquet, tied it up 
+and said, 'Here is the blood,' and the 
+corpsman didn't even suspect that 
+this kid was a drug addict. Why would 
+a drug addict with needle marks, 
+tracks, get into the service and the 
+officers not pick this up? For the 
+simple reason that the young doctor 
+has no concept of what drug addiction 
+is like." 
+
+Baird has a warning or perhaps it 
+is a plea: "Someone in the Senate 
+must act as the Paul Rever and alert 
+America to the problem of drug 
+addiction." 
+
+
+
+Here is a recent front page headline 
+from the New York Times: "6 
+Frustrating Hours in Harlem on Trail 
+of 11 Heroin Dealers." 
+
+
+
+Chilean Marxists 
+ruined themselves 
+
+
+
+By WILLIAM GIANDONI 
+
+
+
+licide, the 
+Marxist cause suffered a serious 
+reverse, at least in the Western 
+Hemisphere. 
+
+What Moscow, Havana and the 
+Marxist world term "the correlation 
+of forces" was destroyed when the 
+democratic people of Chile rose up 
+against their oppressors. 
+
+No longer could the Reds point to 
+Chile as the wave of the future, as 
+proof that socialism could be imposed 
+on a freedom-loving nation without 
+the military intervention of the Soviet 
+
+In Chile, the worst fears of the 
+Moscow-line Communists, those who 
+prefess to believe in the "peaceful 
+road to socialism," were confirmed. 
+
+The fast-paced events Tuesday, 
+Sept. 11, showed not all Marxists are 
+disciplined enough to play the 
+democratic, or pseudo-democratic, 
+game that would be required of them. 
+
+It was not Salvador Allende's 
+mistake. It was impatience of many 
+of the men around him, in his govern- 
+ment, in the political parties that 
+made up the Marxist "Popular 
+Unity" coalition. 
+
+Allende was a lifelong Marxist, 
+one of the founders of Chile's Socialist 
+Party, an organization that 1 
+
+
+
+Communist Party. 
+
+Communists as well as Socialists, 
+and the other Marxist organizations 
+in Chile, all proclaim "socialism" as 
+their immediate goal. 
+
+But there are serious differences 
+within the individual parties and 
+between the parties as to the means to 
+attain that end. 
+
+
+
+violently in the building of socialism 
+in Chile. But the firebrands, notably 
+Sen. Carlos Altamirano, youthful- 
+looking secretary-general of the 
+Socialist Party, and the leaders ■ of 
+terroristic Movement of the Revolu- 
+tionary 'Left (MIR), who include 
+Allende's own nephew, sought to force 
+the Popular Unit government .to 
+eradicate capitalism, to eliminate the 
+bourgeoisie, once and for all, and to 
+get on with the revolution, right now. 
+
+Chilean Communists, who were 
+preaching a form of peaceful coexist- 
+tence long before the late Soviet 
+Premier Nikita Khrushchev made the 
+phrase popular, counseled Allende to 
+take a cautious approach to the 
+building of socialism. 
+
+
+
+But, just as Allende allowed the 
+opposition - the Christian Democrats 
+and the conservative National Party 
+- to voice their dissent, in Congress 
+where the opposition was the major- 
+ity, in their newspapers and over the 
+radio, so he allowed the Marxist 
+extremists to speak out. And, 
+inevitably, he was pushed, or allowed 
+himself to be pushed, into even more 
+radical positions. 
+
+What seems to have really 
+aroused the Chilean military was the 
+
+evidence that not only were the ultra- 
+leftist groups, like MIR, trying to stir 
+
+
+
+That is to say, at one and the 
+same time, President Allende, a 
+veteran Socialist leader, was curry- 
+ing the favor of armed forces chiefs in 
+his cabinet, and Sen. Altamirano, the 
+current Socialist Party boss, was 
+trying to subvert the armed forces. 
+
+
+
+. . _.' the mistakes the Marxist 
+coalition made, fruits of which are to 
+be seen in Chile's world-record 
+inflation, in the shortages of foods and 
+other necessary goods, in the spread- 
+
+
+
+ing 
+
+
+
+
+
+
+AW-P#&gt;flfeT CC&amp;ticL 
+
+
+
+
+THE Bodv, 
+'■IBY, IS Lite 
+
+fl noose-, it dom't 60 ftwVujHeiee^ 
+Sot THe ^Piien-, l^dv^ is like a 
+
+ftOTO Mobil! : ALWAYS OW TH£ MOV£, 
+
+ftLUJfWS ... 
+
+
+
+Siddartha'poor translation f 1 !*^^ 
+of classic Hesse story 
+
+
+
+Undoubtedly, 
+
+
+
+
+
+
+
+
+
+playing al Gateway II should 
+
+
+
+regard tor exposilinn or clari- 
+fication. Thus the plot Is 
+lolally without integration or 
+continuity. Although ftoofcl 
+frequently interjects authen- 
+tic Hesse dialogue arid narra- 
+tive, the wonderful essence of 
+
+
+
+Thousands of Topics 
+
+
+
+RESEARCH ASSISTANCE, I 
+
+
+
+Coleman new 
+DGTS director 
+
+
+
+CLUB NOTES 
+
+
+
+r~ — 
+
+^ Anchor 
+
+
+
+GEOLOGY 
+
+
+
+Bookshop \ 
+
+
+
+field ti 
+
+'■educational objeel 
+concerned. The wt 
+.least on Saturday, 
+
+desired for field wo: 
+
+.duck. Although it i 
+day Saturday, Sund 
+great day for using 
+
+Upcoming ever 
+
+
+
+CHESS 
+
+
+
+ology Club exhibit 
+
+1 received by 
+lie. Many 
+asked by 
+
+Paleontology 
+DUthern Indiana 
+
+
+
+the general public. Many 
+
+
+
+i, President. Profes- 
+
+
+
+i Tuesday, October 
+
+
+
+ivited to participate 
+
+
+
+normally and , 
+
+
+
+and urged to bring t 
+
+
+
+ir.uri.Kine. and challeogi 
+
+
+
+1 think- 
+by playing 
+
+1 challei 
+
+
+
+Maple wood Plaza 
+
+2 miles east of Campus 
+on Hwy. 37 
+
+
+
+LIVING BIBLE 
+
+Now in paperback 
+
+llustrated 
+
+Also in imitation 
+
+leather 
+
+
+
+Classifieds bring results 
+
+
+
+DELTA GAMMA 
+
+
+
+THINK SNOW!!! 
+
+
+
+j brand new 
+SKIING' S GREAT 
+♦Live Fashion Show 
+
+
+
+"I Plan now to attend Root's Gala 
+\\ Ski Party, Wednesday, October 24. 
+
+\ *Warren Mille 
+
+-J *Super refreshments 
+
+*\ *Live ski reps to talk with 
+
+\ A great ski evening for only $1.50.... 
+j get your tickets now at: 
+
+
+
+UfAlfT TO DO 
+SORIETHINC 
+ABOUT IT? 
+
+
+
+Donald G, Coleman, a Fort 
+Wayne native, as director of 
+the lifelong education pro- 
+General and Technical Stud- 
+Carl Bickley, division dean. 
+Dr. Coleman will serve as 
+
+and business and industry in 
+an ongoing effort to design and 
+develop new programs needed 
+within the community in both 
+degree and non-degree areas 
+Coleman, who has served 
+the division since 1968 in a 
+
+| Golf&amp; 
+I Tennis 
+I Shop 
+
+
+
+"For everything in 
+tennis &amp; golf" 
+
+
+
+3517 N. Anthony 
+483-5271 
+
+
+
+,a^##**#*#i» 
+
+
+
+returned from a year's leavi 
+completed doctoral require 
+
+
+
+;. Dr Coleman will 
+
+
+
+i daughters reside t 
+
+
+
+Fall recruiting 
+schedule 
+
+
+
+EVERYTHING AUTOMOTIVE 
+
+PARTS &amp; MACHINE SHOP SERVICE! 
+
+
+
+AMERICAN CARS &amp; TRUCKS 
+
+
+
+FOREIGN CARS 
+
+
+
+Sun-Ua.i 
+Daily-8a.i 
+Sat-Sa.m 
+
+
+
+l. to 4p.i 
+I. to Sp i 
+to Sp.m 
+
+
+
+ft 
+
+
+
+COMING SOON ... | 
+
+Complete stock of 
+
+l f -°.??I9 n _9 a . r ..?A r .!§j 
+
+"Show I.D. cards for special discount" 
+
+
+
+The GIBSON COMPANY 
+
+West of Collins Olds at 114 Collins Or. 748-1181 
+
+
+
+
+IU-PU Students 
+
+are at 
+
+Howard's 
+
+to help you with 
+
+your needs in... 
+
+I Photo Equipment 
+
+&amp; Photo Developing 
+
+Greeting Cards 
+
+Fine Gifts &amp; Candles 
+
+Office Supplies 
+
+Russell Stover Candies 
+
+
+
+VOLVO: 
+
+IDEALLY SITUATED 
+
+BETWEEN THE ABSURD 
+
+AND THE RIDICULOUS. 
+
+By not going to 
+extremes, Volvo 
+accomplishes more 
+than cars that do. 
+
+Up front, a Volvo has 
+as much legroom as a 
+Cadillac DeVille. In back, 
+as much as a Buick Electra^ 
+
+Which gives Volvo the 
+space and comfort of big cars li 
+the one on the right. Instead of 
+squeezing you into the ridiculously 1 
+small space of little cars like the 
+one on the left. 
+
+Yet a Volvo's turning radius is 
+actually smaller than a VW Beetle. 
+
+Which means Volvo can maneuver ' 
+in and out of parking spaces and traffic 
+like little cars. 
+
+To call maneuverability a big-car 
+specialty would be absurd. 
+
+And while a Volvo may not leave.j 
+big cars behind in the dust, its fuel- 
+injected 2 liter engine lets you move 
+right out in the fast lane. Something t 
+can't be said as quickly about little qfl 
+
+So instead of compromising by 
+going to extremes, go halfway and j 
+everything. Get a Volvo. 
+
+To get anything else would be 
+either absurd or ridiculous. 
+
+Maumee Moron 
+
+Visit our Salesroom Mon-Tues-Thurs 9-b p 
+
+
+
+■ 
+
+
+
+Keepsake 
+
+
+
+GRAVES 
+
+Jewelry 
+
+
+
+VOLVO 
+
+
+
+
+
+WHETHER 
+YOU'RE.. 
+
+HANGIN' IN. . . 
+
+z3) 
+
+
+
+42 
+
+
+
+'■:■' 
+/I 
+
+
+
+WIN' LOOSE. 
+1 
+
+
+
+LEFT HANGIN'. 
+i 
+
+
+
+Jo-Ann Fabrics 
+
+
+
+I Wed-Fri 9-6. Sat 9-2 p.r, 
+
+■Just west of the cloverleaf , across from Holiday Inn I 
+
+¥3625 E. Washington Blvd., Fort Wayne 743-01931 
+
+
+
+Senate considers professional program 
+
+
+
+noon. September 2S, 
+
+
+
+changes in wordage. 
+
+
+
+
+
+
+e polii-v, thi'v tan 
+]|l buildings com- 
+erlain specificat- 
+
+
+
+a competitive agency 
+
+
+
+I, ilc Insurance Company hail 
+
+oiifiilthchuililinns. The tnans 
+arc beine paid o(l with the 
+students' fees. 
+
+reported by (he presiding 
+
+
+
+e presiding officer HEW for 
+
+
+
+by 
+
+
+
+University 
+
+is campus fr 
+
+legislature. 
+
+t would be for e 
+
+iiddilinind (acuity, library re- 
+sources, clerical support, and 
+
+
+
+ii ri'cjiit'sf .1 
+Ins campus 
+Legislature 
+
+
+
+(■Affairs. HlfMinnngtoii, was a 
+
+
+
+present to discuss 
+
+
+
+You'll be seeing this nightmare 
+every night for the rest ol your life, 
+
+
+
+
+Bang the 
+drum slowly 
+
+
+
+
+
+
+York City ,in&lt;l liidiiMiiiiM'IK. 
+
+
+
+depending upon 
+
+
+
+pors 
+
+
+n would probably 
+
+
+
+
+
+
+
+
+us would be respon 
+
+
+
+
+
+
+Ural 
+
+
+and a great dea 
+
+
+
+members and one visiloi 
+on the second and 
+
+
+
+Ogre's the music 
+doming from, 
+RALPH ? 
+
+
+
+
+3MV f; 
+
+M PIONEER' SE-505 2-way Stereo Headset 
+
+provide listening comfort lor hours on yv ■ sh^m — _ 
+end Handsome leaher-lite vinyl s.o,a 9 e Ollly $59.95 
+
+Classic Stereo-Pak 
+
+2312 North Clinton Street (At State) 
+Fort Wayne, Indiana 46805 
+
+484-4212 
+
+
+
+
+Braun gets 
+Involved 
+thru speech 
+
+
+
+
+
+
+
+risl95S-onMay 
+
+United States of 
+America -my birthright -- 
+
+born free, with the inalienable 
+
+are the words of an Indiana 
+University freshman. Byron 
+R. Braun. Hopefully the 
+concepts expressed in Braun's 
+
+speech. "Citizenship." will 
+enable him to capture I 
+
+
+
+
+
+
+Speech Contest on Sa 
+
+studied 
+
+by declaring, "I think speech 
+Tod-given ability 
+God for giving n 
+
+
+
+October 
+
+peechand explains In-, rak-m 
+... ( 
+
+.iIhIiiv . 
+quality." To illustrate 
+
+that sponsored by 
+i of Foreign Wars, 
+■ conquered first 
+
+
+
+
+
+
+Oratorical Contest. 
+
+
+
+William Randolph 
+Foundation, during 
+
+Washington, D. C. ob 
+
+
+
+Purdue's Debaters and Legis- 
+Fort Wayne City Council , 
+
+
+
+the Dental Exploring Post at 
+
+years at Bishop Dwcnger, 
+government and served as 
+
+
+
+WE SUGGEST SOME GOOD BOOKS 
+FOR HALLOWEEN READING: 
+
+
+
+
+1. Bloch: Night World $.95 
+New from the author of Psycho 
+
+2. Cody: The Witching Night $1.25 
+When does a man die? 
+
+3. Levin: The Stepford Wives $1.25 
+By the author of Rosemary's Baby 
+
+4. O'Meara: Castle Danger $.95 
+Gothic novel of evil &amp; terror 
+
+5. Seton: Green Darkness $8.95 
+Magnificent novel of reincarnation. 
+
+
+
+Fo/tett's Fort Wayne Bookstore 
+
+
+
+n spite of his fi 
+
+.■rUIIT.KjIum 
+
+18-year-old i 
+
+
+
+FT. WAYNES 
+BIGGEST 
+CONTEST 
+
+PAYS UP 
+TO $1500.00 
+
+The Phrase 
+that Pays - 
+
+WLYV 
+
+
+
+
+
+
+$5 Off On Any Sweet Baby Jane Top 
+Over 300 To Choose From 
+
+in RBJ's 
+
+
+
+MALE Jackets Regular $30 to $32 
+
+NOW ONLY $19.99 
+
+in RBJ's Men's Shop 
+
+Over 100 pair ofMALEpants Now $4 off 
+GEORGETOWN SQUARE 749-4784 
+
+
+
+Doctor's Bag 
+
+By ARNOLD WERNER, M.D. 
+
+QUESTION: I am studying to be a dancer and also enjoy 
+jogging. It is undesirable for dancers to develop bulky 
+muscles. My dance teacher said that heavy jogging would 
+develop big athletic muscles, is this true? (Written by a 
+
+
+
+ANSWER: There are many factors that go into muscle size 
+and shape other than just exercise. The shape of muscles 
+appears to be largely dependent upon the presence or absence 
+of androgens (male hormones). Hormones with androgenic 
+activity are found in both men and women as are hormones 
+with estrogenic (feminizing) qualities. In the presence of 
+large amounts of androgen, muscles tend to assume more 
+mass and appear more bulky. The tendency can be 
+accentuated by certain types of exercises such as weight 
+lifting. However, women who engage in the same type of 
+activities as men will not develop as bulky appearing muscles 
+because of a lack of sufficient amount of androgens in their 
+systems. 
+
+Another important fact in the shape of muscles appears to 
+be genetic. Body size and shape is often hereditary and two 
+people from different families on the same diet engaged in the 
+same activities are apt to have vastly different appearing 
+muscular configurations. An interesting sidelight to this is 
+that there are also differences between individuals in terms of 
+muscle metabolism, so that some people are capable of energy 
+expenditure over a very long period of time, whereas others 
+are better equipped to utilize large amounts of energy over a 
+short period of time. This is most apparent if one studies the 
+difference between sprinters and long distance runners, where 
+they often have markedly different body configurations and 
+also have different patterns of energy consumption during 
+activity. Jogging and swimming tend not to develop bulky 
+muscles, but rather to develop thinner muscles with longer 
+
+QUESTION : I heard that if a man were to wear boxer shorts 
+instead of tight fitting underwear, he would remain sexually 
+potent longer. The idea was that one's testes would be freer, 
+get more exercise, and hence have better circulation. 
+
+ANSWER: The theory behind wearing loose fitting underwear 
+that you allude to, is not related to freedom or exercise. Testes 
+are designed to be indolent. They hang loose in the scrotal sac 
+so that they are maintained at a slightly lower temperature 
+than the rest of the body, this being more conducive to the 
+production of live sperm. However, it would only be in the 
+most unusual of circumstances that tight fitting underwear 
+would hold the testes close enough to the body to heat them up 
+sufficiently to inactivate them. In any case, producing active 
+sperm is not the same thing as impotence, which is a failure to 
+be able to perform sexually. Excessive worry can produce 
+impotence, however. 
+
+
+
+marriage and children. If he were to die before we were ready 
+for this, I would like to be able to get pregnant by artificial 
+insemination with his sperm that had been frozen. I am 
+wondering how long sperm can be frozen and still be capable 
+of fertilizing an ovum. 
+
+ANSWER: Unfortunately, your very touching idea does not 
+have much of a chance of working. Although there has been a 
+great deal of publicity to the contrary, the facts are that sperm 
+frozen under the best of circumstances do not have a high 
+liidihood of fertilizing an "egg for more than a few months. 
+Beyond 6-9 months the possibility of fertilization occuring 
+successfully diminishes greatly. 
+
+A few simple measures can decrease significantly the 
+chance of your boyfriend dying before you could get married. 
+A very large number of deaths in young people occur due to 
+accidents, many of which involve automobiles and 
+motorcycles. Survival can be increased dramatically by not 
+driving a motorcycle at all, and by fastening your seat and 
+shoulder belt when driving a car. In addition, never driving 
+while intoxicated also enhances survival greatly. 
+
+
+
+Firefighters Auxiliary to raise 
+money for ambulances 
+
+
+
+
+Mac Davis poses playfully with Communicator reporter, Mary 
+
+
+
+Mac Davis has it together 
+
+
+
+By GARY SHAFFER 
+
+MARY ELLEN BROWN 
+
+To think that Mac Davis 
+ever shared second billing to 
+anyone—especially the Carp- 
+
+
+
+i n' roll gigs and t 
+' t and regional m, 
+now-defunct Vec-Jay 
+
+
+
+district nnrl reummil m.in.i|.'.tT 
+
+
+
+The Firefighters Auxili- 
+ary of Fort Wayne is conduct- 
+ing "Operation Heart Line," a 
+fund drive to raise $10,000 to 
+
+
+The auxiliary is support- 
+ing its own project by donating 
+the first $1,000 toward the goal 
+
+
+buy four heart monitoring 
+devices and defibrillators 
+
+"-for each of the four new 
+-■Emergency Medical Services 
+ambulances. 
+
+The fund drive was kicked 
+
+
+of $10,000. 
+
+Members of the auxiliary 
+will exchange "Operation 
+Heart Line" decals for contri- 
+b utions at Southtown Mall, 
+October 24-26, and at Glen- 
+brook Mall, October 24-28. 
+
+
+off at the mayor's weekly 
+
+
+Contributions can also be 
+
+
+
+CENTRAL ELECTRONICS 
+
+2312 GOSHEN RD. 483-5611 
+
+
+
+
+MEANS 
+
+QUALITY 
+
+
+
+SONY. Ask anyone. 
+
+
+
+. Perhaps he was 
+
+idies, and perform- 
+£ band throughout 
+
+
+
+C !■»..«. ™. 
+R *BsJ -&amp;■ 
+
+i? "':=?*" 
+S -Ms-aS"; 
+S £■£._ "«» 
+
+r »2BBy .aw 
+D »;F»"L , 'S: 
+S ssr- «r- 
+
+
+■ issrk 
+
+
+1 ' 
+
+
+' w 
+
+
+
+
+
+
+
+
+■ " ' 
+
+
+«3fc* 
+
+
+
+
+1" 
+
+
+
+
+
+
+
+
+fc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+i) u 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+" 
+
+
+
+
+IS 1 
+
+
+
+
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+JO 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+■" 
+
+
+
+
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+I- 
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+Copley Now. Servic 
+
+
+smsa 
+
+
+
+Hollywood where ii 
+songwriting break a 
+
+
+
+/ days of golf. When t 
+
+
+
+When questioned 
+
+
+
+believe flnwer power is the 
+
+
+
+
+
+
+answer. If I thought for one 
+minute I could get my 
+
+platform tlirniiyh the iirlminis- 
+tration, I'd accept the vice- 
+presidency." Does thai mean 
+
+"If I thought I c-oiili) gL-t him to 
+change sonic of his views, I 
+could. But I'm doiim the Ihing 
+I love and what I do best... 
+They're paying me and I love 
+
+
+
+'Tunc'thei-' 
+together. 
+
+
+
+VENICE RESTAURANT 
+
+AMERICAN-ITALIAN FOOD 
+
+•Pizza 
+
+'Sandwiches 
+•Carry out 
+
+'Full bar service 
+
+
+
+Open Dally: 
+
+11:00 a.m. t 
+
+1:00 a.m. 
+
+
+
+748-0221 
+
+
+
+
+THE PIZZA HUT 
+
+ATMOSPHERE 
+
+MIGHT JUST START 
+
+AFEW LOVE AFFAIRS 
+
+
+
+IT'S MORE LIKE A 
+
+
+
+PIZZA 
+
+^fp^IfUT 
+
+3820 E. State Blvd. 
+(State &amp; Coliseum Blvds.) 
+
+
+
+"A Pioneer hi-fi system 
+for less than s 350. 
+
+That's the kind of value any 
+Scrooge can appreciate." 
+
+
+
+
+SX-424 AM-FM STEREO SYSTEM 
+
+
+
+$349 
+
+
+
+
+&amp;T. WAYNE 
+
+
+
+CLASSIFIED ADS 
+
+
+
+So y&lt;Du vJaut 
+to sell, yout- 
+
+RBCOtO C0CL£CT/&amp;jj( 
+
+
+
+
+use rue cuisitFiebi x* 
+6£T IZ.esul.ts. Btitib yooe. 
+
+AD To ieooM 21? STOflWT UA//a*l. 
+
+
+
+Ai(JMS£/e. OF 
+
+LlHih IU 
+
+
+
+fvjUtr 
+
+
+
+.75 
+
+
+
+l.ffO 
+
+
+
+I.D6 a.co 
+
+
+
+Oct. 19th 
+
+Starts Friday 
+
+SIDDrJARTHA 
+
+ANOVELBYHERMANN HESSE/ 
+A Kl UV1 BY CONKAD ROOKS 
+Mon. thru Fri. 
+
+
+
+
+r 
+
+■ MARLON BRANDO in 
+I 'LAST TANGO IN PARIS 
+
+H Shows Mon-Fri. 7:15, 9: 
+
+
+
+IHEMARKBRO 
+ir»"R«ofT» Wruiw" 
+WCFieloli 
+The 
+
+
+
+Shows 7:30 
+Mon-Fri 9:35 
+
+IE MARK BROS. ^Sun 
+
+in"Re«m (nwc" '■"■ J .' s ' 8 
+
+Charlie 
+The Chaplin 
+
+fatal fckni aj Boot' "Thf«»i« Mib»ncr, 
+
+
+
+ALL SEATS $1.00 TILL 5 P.M. ON 
+SATURDAY and SUNDAY ONLY AT 
+GATEWAY 2. 3. and CINEMA SOUTH 
+
+
+
+SPORTS 
+SHOTS 
+
+
+
+ByPHILHARTMANN 
+CHARLIE HUSTLE-THE HOT DOG WHO MADE IT 
+
+Charlie Hustle adopted his father's philosophy on life: give it all 
+you've got, and when vou have to, give it more than you've got. And 
+Charlie, one of the top professional baseball players today, has done just 
+that for 11 years. 
+
+
+
+In the spring of 1963, the players of the Cincinnati Heels look a poll on 
+the green, rookie second baseman, Charlie Hustle. Theciiirslinn- will this 
+upstart win a spot on the Reds' squad? Everyone said no except regular 
+second sacker Don Blasingame. 
+
+Hustle did not have a great arm. bl.i/ing speed un-u-eptinnal power 
+All he did was plav his guts out, day in and day out. Surely after a slum 
+while his unextinguishable enthusiasm would wane. That's what they 
+thought. . , . . . 
+
+But Charlie Hustle made that una team and is new en Ins way to 
+Cooperstown He has won the National League batting title three 
+times-in 1968, 1969, and last year, 1973. He has now hit over .300 for ten 
+
+Inevitably though, once in a while he has overhustled and looked 
+bad \nd at 'those times to many fans, he was just a funny little kid in a 
+man's game. He gained the reputation in many circles el being a hot dog. 
+
+mil lle-ile ke| In vine apposing pitchers wild with his base hits and 
+
+heads up play. He kept the hoi dog trademark through the years, but 
+everyone knew thai he was also in elite company: he was a superstar. 
+
+Justrecenllv Charlie Hustle and bis Ciiieinnali n s laeeil the New 
+
+York Mets in the 1973 Notional League championship playel Is. In the first 
+game Hustle, who hil only five home runs in the regular season, cracked a 
+game-tying circuit clout off Tom Terrific. 
+
+Then he won the fourth game with a dramatic twelfth-inning blast at 
+Shea Stadium to tie the playoffs at two games apiece. 
+
+Hustle also batted nearly .400 in the playoffs. But his antics in game 
+three will forever overshadow his roundtrippers and oilier balling feals 
+
+In the fifth inning with the Reds out of the game 9-2, Hustle slid into 
+second trying to break up a double play. Aller Hie play Mots' shortstop 
+Bud Harrelson hurled a few greetings at Hustle who in turn started 
+pummeling and touched off a brawl. 
+
+Most defmilelv Harrelson should have kept his trap buttoned. But as 
+well, Charlie Hustle should not have started a brawl in a stadium filled 
+with rabid Met fans. 
+
+When he returned to his left field post after the inning, Hustle was 
+bombarded with assorted objects. He was forced to leav e the field and 
+could oot return until Yogi and three Met players begged the fans to stop 
+the onslaught. 
+
+The contest ended without further incident as did the playoffs. 
+
+But fabulous Charlie Hustle and Met fans are still al war. After game 
+four he stated. "I was trying to break up a double play. Thai doesn't mean 
+I'm dirty. Look, I'm a "professional ballplayer, not a chorus girl. What 
+was I supposed to do, stand there and look at him?" 
+
+And after the playoffs: "They got the fans in the zoo and took them 
+out to the ballpark." 
+
+These comments may well have had considerable substance. But 
+some things are better left alone. Has Charlie forgotten that he must go 
+to Shea Stadium nexl year to play in the regular season? 
+
+Many of the signs which greeted Mr. Huslleui I he final playoff game 
+were obscene. Many of those sign writers will be back nexl year just to 
+see Charlie Hustle. They might figure that the hot dog needs some 
+dressing: home-made dressing. 
+
+Take care, Charlie Hustle, 
+
+TAKE CARE, SPORTS FREAKS! 
+
+IU-PU runners split 
+at Anderson 
+
+Bv PHIL HARTM ANN 
+
+
+
+The injury and sickne^-riddli'.i 
+
+
+
+splil , 
+
+
+
+triangular meet at Anderson Tuesday 
+to bring its season mark to 4-5. The 
+runners took a 26-30 decision from 
+host Anderson but were dropped by 
+Earlham 18-J3. 
+
+Dave Heim again turned in the 
+best time for Indiana-Purdue, stop- 
+ping the clock at 29:27 Mike Slit-glitz 
+ran the course in 30:27 for the second 
+best IU-PU finish- Overall, Heim 
+finished fourth while Stieglit;-. cracked 
+
+
+
+IU-PU 
+tennis 
+
+
+
+Indiana-Purdue tennis t 
+
+in what would have been one of the 
+
+biggest upsets in the history of 
+
+na-Purdue £ 
+
+illege, whicl. 
+
+„ s schools in the Tri-a.— 
+
+managed to defeat the Mastodons 5-4 
+on a cold, windy Tuesday afternoon a 
+Mi-iiK'liester. The 5-4 victory was 
+quite a difference from the 9-t 
+mulikilion the Mastodons suffered a 
+tin- hands oi Marichestt-r last year. 
+
+■ 1 his '"" 
+
+Spoltman, who has only lost once in 
+
+doubles action, teamed up with Tom 
+White In easily win number 3 doubles. 
+Dave Goldsmith, who like Spoltman 
+impressiv "" 
+
+
+
+drops soccer tilt, 7-3 ' 
+squad in near upset 
+
+
+
+competition this 
+single 
+
+
+
+lateh 
+
+
+
+took his 
+eight 
+
+
+
+attempts in defeating his Manchester 
+opponent Goldsmith also teamed up 
+with Mike Corner to win number 2 
+doubles. 
+
+Coach Bolyard indicated that 
+several of the players were disturbed 
+by the weather conditions, and 
+therefore weren't playing to their 
+Fullest ability. He praised Spoltman 
+and Goldsmith for their coolness as 
+they failed to let the poor playing 
+conditions bother them. 
+
+Indiana-Purdue still has two 
+matches remaining, and it's a 
+
+
+
+IU-PU slates 
+tv hookup 
+
+
+
+Through the efforts of the IU-PU 
+Students' Government, three Indiana 
+University football tilts will be shown 
+live via television this year at five 
+locations on the Fort Wayne campus. 
+The games and dates scheduled are 
+as follows: October 20, Indiana vs 
+Ohio State; November 10 vs North- 
+western; and November 24 vs 
+Purdue. 
+
+The locations that will be used 
+arerooms G-46 and C-50 in Kettler 
+Hall, and rooms 266, 366, and B-74 in 
+Neff Hall. Activity card holders will 
+be admitted free, with the general 
+public being admitted for $1.00. Doors 
+will open at 1:00 p.m. 
+
+President Brock Able and those in 
+the Students' Government who work- 
+ed hard to bring this opportunity to 
+Indiana-Purdue are most certainly in 
+line to be commended for their 
+efforts. Obviously, the success of this 
+venture will depend on the turnouts to 
+these games. Thus, every pigskin fan 
+
+
+
+
+
+
+vl-ll'h-l.l... 
+
+
+
+The meet winner was Yount of 
+Anderson, who traveled his home 
+course in 28:19. Earlham produced 
+six of the top ten finishers, though, to 
+easily outdistance Indiana -Purdue 
+
+
+
+already met Franklin once this 
+season (at Marion) and came away 
+with an easy 15-45 triumph. 
+
+AL pitchers hit 20 
+
+In 1973 twelve pitchers from the 
+American League reached the charm- 
+ed 20-game win circle. 
+
+The defending world champions 
+from Oakland produced three: Ken 
+Holtzman, Vida Blue, and Catfish 
+Hunter. California ended the 1973 
+campaign with two: Nolan Ryan and 
+Bill Singer. 
+
+On the other hand, the National 
+League came up with just one pitcher 
+who collected a score of triumphs. He 
+was Ron Bryant of the San Francisco 
+
+So you conclude that baseball's 
+top throwers in 1973 came from the 
+junior circuit, right? 
+
+Wrong. The American League's 
+designated hitter rule allowed its 
+managers to stick with their starting 
+pitchers longer: the designated hitter 
+always swung the bat for his team's 
+
+
+
+Smith, Stoneface 
+collect triumphs 
+
+
+
+By VINCE LOCHBIHLER 
+
+Both Smith and Stoneface seem to 
+be looking toward their November 4 
+clash to decide which team will finish 
+the regular season undefeated. Smith 
+and Stoneface raised their records to 
+4-0 last Sunday as Smith beat the 
+Frosh 32-6 and Stoneface edged Circle 
+
+
+
+In an opening game, the Geology 
+Club failed to appear against the '73 
+Calls and dropped their third straight 
+game. The Geology Club is the only 
+team which has failed to score this 
+season. The '73 Calts tallied their first 
+victory in three outings. 
+
+The other 1:30 contest saw the 
+inspired Circle K club play almost 
+even to Stoneface in an 8-0 loss. Mike 
+Stratton scored from 15 yards out for 
+the winning touchdown. The loss 
+evened Circle K's record at 2-2 but 
+they remained in fourth place. 
+
+The 2:30 game saw Smith have 
+their hands full in their 32-6 win over 
+the Frosh. The all-freshman squad 
+
+
+
+played well against undefeated Smith 
+and was down only 13-6 at the half. 
+Shib Neddeff scored twice for Smith 
+while Mike Usina and Bill Sommers 
+each tallied once. Mark Pantello 
+added the final touchdown. 
+
+Don Klein scored the first 
+touchdown or the year for the Frosh 
+on a one-yard plunge. It was the first 
+score off the Smith defense this year. 
+
+Next Sunday, the Frosh will play 
+the Super Jocks in a 2 :30 contest while 
+the opening games feature Circle K 
+against the Geology Club and 
+Stoneface versus the '73 Calts. 
+
+
+
+
+;: ' r '"- , ■"""]', ti&amp;sm*&gt; 
+
+
+
+SLANT ON 
+SPORTS 1 
+
+By VINCE LOCHBIHLER 
+
+This week's column is dedicatd to what I call my "Baseball Trivia 
+
+
+
+By VINCE LOCHBIHLER 
+
+The Indiana-Purdue soccer team 
+fell to the Lakeland Lakers 7-3 last . 
+Saturday at the Mastodons' field. It . 
+
+
+
+Tony Host started the Laker 
+scoring in the opening minutes with a 
+shot from the penalty line. Juro Peric 
+scored minutes later to put Lakeland 
+ahead 2-0. Andy Lochstampfor 
+assisted on the play. 
+
+Peric again scored at the 21:56 
+mark of the opening period with a shot 
+into the right corner of the net. But 
+Greg Roberts brought the Mastodons 
+to within two on a direct kick which 
+floated over the Laker goalie into the 
+
+
+
+JerryDitgoworth and Terry Seg- 
+
+
+
+from the game— including three from 
+IU-PU. Terry Younghans and the 
+Laker goalie exchanged words and 
+were promptly ejected b y the 
+referee. 
+
+Ed Schmieman and Greg Roberts 
+were also given the "thumb" in the 
+second stanza. Schmieman was 
+tossed out for interfering with the 
+goalie, and Roberts for returning a 
+punch from a Lakeland halfback. 
+
+
+
+Sadler took a pass from Phil Roberts 
+to make it 5-2. Roberts scored five 
+minutes later on a pass from 
+Schmieman. 
+
+
+
+Next Saturday morning, IU-PU 
+will travel to Manchester in a game 
+beginning at ten. 
+
+
+
+Quiz." Each question is followed by the £ 
+
+
+
+5-6 right 
+3-4 right 
+below 3 right 
+
+
+
+, and the rating systerr, 
+
+baseball jock 
+superfan 
+
+average baseball fan 
+try football 
+
+
+
+QUESTION: Did Ty Cobb « 
+
+
+
+l't as wide as you 
+
+QUESTION: What pitcher gave up Babe Ruth's famous "cal shot" 
+
+homer on October 1, 1932? 
+
+ANSWER: It was Charlie Root, Cub pitcher, but if you missed this one, 
+
+don't worry— Root never made the Hall of Fame. 
+
+QUESTION: Who li 
+
+A.L. AND N.L.? 
+
+ANSWER: It wasn't Wilbur Wood, Vida Blue, or Tom Seaver, but 
+
+Gaylord Perry in the A.L. and Steve Carlton in the N.L. It can get pretty 
+
+
+
+s last year's ( '72) Cy Young Award 
+
+
+
+; lifetime stolen bases— Maury Wills or Lou 
+
+
+
+QUESTION: Who has r 
+
+ANSWER: If you guessed Wills, chalk up another mistake, because 
+Maury swiped 586 while Brock has 635 thefts. 
+
+QUESTION: Which one of these men failed to hit four home runs in one 
+
+a. Willie Mays 
+
+b. JoeAdcock 
+
+c. Gil Hodges 
+
+d. Kermit Wahl 
+
+ANSWER: Mays, Adcock, and Hodges have all accomplished this feat 
+while Wahl didn't. Wahl holds a joint-record for most errors in one 
+inning, though. 
+
+QUESTION: Does Terry Wanton actually hold the record for most 
+
+sacrifice flies in one rookie season (13)? 
+
+ANSWER: Who is Terry Wanton? (Actually, I just made up the name). 
+
+QUESTION: The A. L. record for most total bases in a rookie reason is 
+374 held by Tony Oliva while the N. L. record is 352 held by which current 
+Chicago White Sox? 
+
+ANSWER: If you miss this one, might as well switch to football. The 
+answer is Dick Allen. 
+
+QUESTION: Did Harry Heilmann ever bat over .400? 
+
+ANSWER: Yes, he did it in 1923 for Detroit. If you got this one right you 
+
+either guessed or knew his mother. 
+
+If you did poorly on this test, don't be discouraged— maybe you'll be 
+lucky and never be asked who holds the record for lifetime strikeouts by a 
+batter. Then again, maybe you will. 
+
+
+
+Piccolo lives 
+
+
+
+The book, A Short Season, depicts 
+the life and ultimate death of Brian 
+Piccolo. What Piccolo said in May, 
+1970, just one month before his death, 
+shows the personality and dedication 
+of a great man. It has been an 
+inspiration to everyone to keep 
+fighting even though the "chips may 
+be down." 
+
+Pro football is not easy-it's a 
+damn tough profession. I think 
+anyone who says it's easy is kidding 
+himself. Sure we're doing something 
+we love. But there's so damn much'' 
+practice. Hockey, baseball, and 
+basketball players-when they hit 
+their season, they're playing games. 
+We live from week to week-getting 
+ready, always ready. It's hard work 
+involving great physical and mental 
+strain.. .but to me,- it's a glorious way 
+to make a buck." 
+
+"you know, it's the fans who really 
+make it worthwhile. You should see 
+the mail I've been getting. I love the 
+notes from kids, things like, 'I'm 
+sorry to hear you have a sore chest. 
+Hope it'll get better soon'-things like 
+that. Or the letters from people who 
+have had surgery similar to mine. 
+Those I really appreciate-especially 
+the ones who've been around a while 
+after their operations." 
+
+"I feel I can do a heck of a lot of 
+good, once this thing is licked, but I 
+know it's going to take time. It's not 
+an easy fight, and it's not a short 
+fight. It'll take time-but hell, I've got 
+lots of time." 
+
+Piccolo died at the age of 26, yet 
+he lived his life to the fullest. Pro 
+football indeed lost one of its finest 
+
+
+
+Komets to rebuild 
+
+
+
+The Huber Cup champion For! Wayne 
+Komets are affiliated with ihe Pittsburgh 
+Penguins of the National Hcokcy League. 
+Many of (he K's of 1972 have moved up 
+
+
+
+1 1 have Dredictpd around 70 percent so I'm still hanging 
+
+
+
+</pre>        </div>
+      </div>
+    

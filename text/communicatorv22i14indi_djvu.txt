@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i14indi/communicatorv22i14indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i14indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i14indi">The Communicator</a>"
+          </h1>
+          <pre>
+—Quote of 
+the Week— 
+
+
+
+...T..I1 .■.nimumin mil c-).hvi 
+
+
+
+Support for Women's Studies Page 3 
+
+Professor honored Page 7 
+
+
+
+Christmas photo essay Pages 4 and 5 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 14 
+
+
+
+Indiana Universitv-Purduo University at Fort Wayn 
+
+
+
+December 13, 1990 
+
+
+
+NFOGRAPHS 
+
+
+
+Performance at PIT 
+
+Purdue-Indiana Theater a 
+Fort Wayne Youththeater te; 
+
+
+
+Women" on Saturday, 
+Dec. 15 and Sunday, Dec, 16. 
+Performance times on Saturdaj 
+
+
+
+New Years for kids 
+
+
+
+! i I" ■!■':. ' 
+
+
+
+YWCA celebrating t 
+
+
+
+S30/twochi!drc-n, same family 
+
+Math and science 
+scholarships 
+
+Barry M. Goldwater Scholar- 
+
+
+
+IPFW weekend warriors 
+
+'Citizen' soldiers 
+waiting for the call 
+
+
+
+• are con- frustrating t 
+
+
+
+
+
+the troops don't know until Ihe last 
+minute, because they have their daily 
+
+
+
+
+
+
+"Most likely, if I was to be 
+
+
+Neither w™" 1 ™^ warrior wa n^° 
+
+
+to Germany to replace troops pulled 
+
+
+ing their obligations. "The way I see 
+it," said Fromholt. 
+
+
+
+
+"I knew when I signed that there 
+
+
+
+
+
+
+
+
+
+
+Fn&gt;mh"li li i-. learned to put those 
+
+
+think something like this would 
+happen so quickly. But, I understand 
+
+
+
+
+The hardest aspect of the crisis for 
+
+
+Fromholt And then 1 kinda got tired 
+
+
+Rapp to deal with is figuring out how 
+
+
+
+
+to say goodbye if he has to leave. "I 
+
+
+
+
+think the biggest nightmare is having 
+
+
+g """ h " 1 "* d ' ; ' 
+
+
+to say goodbye," he said. 
+
+
+Snyder 
+
+
+arrested 
+
+
+
+
+that he called the county and notified 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Murphy's Law this semester. 
+
+
+were waiting. 
+
+
+
+
+
+
+Police officers picked him up at the 
+
+
+a f mis S take" ? Snyde'r i satd gh1, """ W " S 
+
+
+Helmke Library on IPFW's campus 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPFW's controversial student 
+
+
+he just dismissed it. So 1 m done. 
+
+
+his first semester in office. Some 
+
+
+
+
+
+
+
+
+
+
+
+
+about his military record, the loss of 
+
+
+Snyder said that he will have tag 
+
+
+impeachment at recent Students 
+
+
+in the future because he will be 
+
+
+Snyder spent Sunday night in the 
+
+
+H^saW a he*may r abo* ^'"working 
+
+
+
+
+some hours for the IPFW theater 
+
+
+Sunday and released Monday at 2:30 
+p.m. after clearing up the situation 
+
+
+"1 hate to be behind three or four 
+
+
+
+
+
+
+"After I lost my job at the library 
+
+
+
+
+
+
+this." Snyder said. 
+
+
+
+
+Snyder said that he wanted the 
+
+
+tempt of court situation," Snyder 
+
+
+truth about the situation to be told. 
+
+
+
+
+
+
+
+
+
+
+been issued for his arrest. He sa&gt;d 
+
+
+happened on campus. 
+
+
+
+
+Santa is coming 
+
+
+
+Homeless miss holiday traditions 
+
+
+
+Frey said. During 
+orked continually fur 
+
+■ serving prison t 
+
+
+
+i. These not have many Chn-irna-. ti 
+
+
+
+ployed by Hi? Fori Wayrie 
+
+
+
+I rr,n,!m.i„ :...i.i hH.i.-r ,.i&lt;h:1; i 
+
+
+
+When a.l:ed "his opinion on 
+
+sporadic donations, Frey said, '" 
+
+
+
+the Lord Jesus Christ 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+Communicator 
+
+
+
+i Seyboldt Jerry Karpe 
+
+
+
+OICES 
+
+
+
+What is your favorite part of 
+the holiday season? 
+
+
+
+jC^OuejHT, SOLD, MOCKED 
+AMD \G,NOREt&gt;, V/HEU HE 
+
+'could take \-r uo wcre.E 
+
+[HE THREW H\W\SELF VNTO 
+
+[THE QAUW, COMMEKCmH-Z.Et&gt; 
+
+INFERNO TVWT WAS XMAS 
+
+SLovABLH. OLD KR.\S. WA?. -. 
+
+PEAD. 
+'But FRoKTHE ASHES 
+
+[0 6 
+
+
+
+BbWEg. SEXIER I J LA^^M 
+
+wo nao^e of -n\Prr \^ V&gt;^k4 i rgy^', 
+
+SEtOTUAEWTM. CRObl] 
+
+BOV ! SPE/VD/ 
+
+
+
+Staff editorial 
+
+Paper gives obscure views of Christmas 
+
+
+
+
+News 
+
+
+
+THE COMMUNICATOR 
+
+
+
+I 
+
+
+
+YWCA Children's 
+Camp 
+
+
+
+NFOGRAPHS 
+
+
+
+Program offers leadership 
+
+
+
+| The mission: a program called bers ol MTP lr\ t,. ,1kii M u«-..h,. 
+
+M.^lrnns The Po-mIhI, lie- which i&gt; lo trom the students 
+
+
+
+students to African- message doesn't always get : 
+
+y Relive P&lt;iign;ird and i.s Iiil'Ii m1h«.| students feel in. 
+
+
+
+liile l.-.n-riini. 1 the im[iuilaii.e .it 
+
+fetime fitness. 
+
+Come to camp Willi your- I'nends 
+
+
+
+before camp from 6:30 t 
+
+
+
+caiion. cark phuiune. .md good study the i 
+
+The iikiiii |)iii-jh.m- ..!" MTP, acc6rd- earlj 
+nig in 1 li.ii h-, Wellington, who is the and : 
+
+
+
+iership ;ind turning 1 
+
+
+
+activities available a! IPFW ol the evaluations came bat 
+
+■ "We try to be very general on our favorable. 
+
+first visit to the schools." said "We place a lot of emphasis ar 
+
+Washington "If .1 school a&gt;ks us lo \alne on ihr .01 ■■ 1 1 jiorlii.n ol tl 
+
+speak on." improve." 
+
+Senate supports new major 
+
+
+
+
+Winter approaches 
+
+
+
+Hi:' llPM/V''"." 
+
+
+
+
+
+
+
+
+
+
+PAPERS 
+THESES 
+CONTAINS 
+
+
+^\resumes\ 
+
+
+III. 1 1 
+
+
+SPELL CHECKED!! 
+
+
+GRAPHICS 
+
+
+
+THE COMMUNICATOR QlUSSifiedS 
+
+
+
+
+
+
+f.nonlC''oMh. alnlse 
+
+
+z 'iE°Cr:r^«™ 
+
+
+Classified ads may be mailed lo 
+
+East, Fort' Wayne. IN 46805. Ads 
+may also be dropped otf at Ihe 
+
+given above. 
+
+
+CLASSIFIED RATES 
+
+1 week $ .50/line 
+
+2 ws.ki 5 4S.'ine 
+
+3 weeks $. 40/line 
+
+
+
+
+(i column inch). $2.70 
+-Wanted to Buy 
+•RoommatBS Wanted 
+
+
+
+
+u 
+
+
+
+
+
+
+
+
+-Personal 
+
+-Textbooks (or Sale 
+-Miscellaneous 
+
+The Communicator under the 
+category judged applicable. 
+
+
+Oily 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inlormaSon call (219) 481-6583 
+
+
+
+
+
+
+
+
+t 
+
+
+3?cha%°l«T«wo=». a pm*S 
+
+
+•Prepayment In check or money 
+
+
+
+Are you missing this $22 
+
+The Communicator. 
+THE way to reach students 
+or teachers or young people 
+or married people or 
+
+
+
+:-goers or secretaries 
+
+
+
+§ 
+
+
+
+IPFW ... a university, a 
+community, and a market 
+you don't want to miss. 
+
+For information, call the 
+advertising office of 
+
+481-6583. 
+
+Nobody teaches IPFW like 
+weean. We're big enough 
+rodo the job but small 
+
+gh to be interesting. 
+Your ad doesn't get lost in a 
+mazcofsuppk 
+
+grocery ads. 
+Our modern offset 
+printing, professional 
+layout, and award-winning 
+graphics combine to 
+produce [he best ads for 
+
+
+
+
+With over 30 years technical experience we can service all makes of 
+import vehicles from Audi to Yugo and those in between. (We also 
+have over 50 years experience on American cars.) We guarantee it! 
+We'll even provide relerences. From electrical to heavy mechanical 
+work - WE DO IT ALL! Let's get acquainted today! 
+
+
+
+INTRODUCTORY COUPON ( 
+ELECTRONIC TUnY-UP~~1 r'cOMPLETE CMLLUBe" 
+
+$QQ90 reg'49" $1/190 SERVICE 
+
+OI74cyi. 6&amp;8cyl. i I only I *T 
+
+
+
+.4990 
+IBcyl. 
+
+itlymore | I 
+
+
+
+.«2f 
+
+
+
+I I 
+
+
+
+
+upon thru 12-31-90 : ^?J2. u P?.I!£!2;! 2 -2i"2?_ 
+
+Call 436-6400 for appointment 
+
+
+
+TIME CORNERS 
+
+5825 Covington Road at W. Jefferson Blvd. 
+HOURS: M-F 8 to 6, Sat. 8 to 2 
+
+
+
+
+
+
+Computerized Car Care 
+
+•DISCOUNT MAY NOT BE USED WITH COUPONS OR OTHER SPECIALS. 
+• AUDI • BMW • HONDA • HYUNDAI ■ ISUZU • MAZDA • MERCEDES BENZ • 
+
+
+
+Holiday Feature 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+
+S^T**** 
+
+
+
+
+&amp;W$fff 
+
+
+
+ISM 
+
+
+
+
+FREE CAMECARD FOR EACH BOOR YOU SELL 
+
+
+
+The Ultimate Roadtrip: a 1991 Ford Probe LX, plus 10 nights at 
+Fairfield Irvn by Marriott, and $200 cash for gas. (^jp pjjfe l^jftl 
+FIRST PRIZES. 
+
+Pepsi" Mini-Vending Machine, plus a free "year's supply" (52 cases) of Pepsi products. RSSl 
+
+SECOND PRIZES. 
+
+Aquaterra "Spectrum" kayak, complete with helmet, life vest, and paddle. "^--^^"^ 
+
+
+
+GET CASH AND A CHANCE TO WIN FOR EVERY BOOK YOU SELL! 
+
+
+
+Follett's 
+
+
+
+FOR 
+
+QUICK 
+
+HOLIDAY 
+
+CASH! 
+
+
+
+
+American Red ( 
+
+
+
+Holiday Feature 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+
+
+
+
+The 4th Annual 
+
+Students' Government 
+
+Book Sale 
+
+
+
+Collection of 
+Textbooks 
+
+December 17-21, 1990 
+CM Building Room 159 
+9-11 a.m.; 1-3 p.m.; 5-6 p.r 
+
+
+
+Sale of Textbooks 
+
+January 14-18, 1991 
+CM Building Room 159 
+9-11 a.m.; 1-3 p.m.; 
+5-6 p.m. 
+
+
+
+Set your own price for the books you sell. Why let 
+someone else decide how much your books are worth? 
+And why pay more for used books than what they're 
+worth? At the Students' Government Book Sale, 
+STUDENTS set the prices! There's no middle man to 
+take a cut of the profits; this is a free service of your 
+Students' Government. What a bargain!! 
+
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+DARE officer discusses education of young 
+
+
+
+e Drug Abuse stroy. so s 
+
+
+
+incc program Davis. 
+
+
+
+SDC. I was getting I 
+
+
+
+Davis and the DARE [ 
+
+
+
+UPS ficers in the iForl Wayne. U.\Kh 
+
+
+
+
+
+
+
+He continued, "When I got married 
+
+
+Davis went on to say, "The DARE 
+
+
+
+
+
+
+In 1988, I needed a job with stability, 
+
+
+program gives me the opportunity to 
+
+
+
+
+
+
+plus I wanted to positively impact the 
+
+
+
+
+DARE was born 
+
+
+
+
+
+
+as a reformed drug abuser or a re- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wayne and one in Atlanta, Georgia. 
+
+
+who truly believes that positive breeds 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mv decision. " stated Davis. 
+
+
+
+
+
+
+
+
+Once on the police force, Davis 
+
+
+the Fort Wayne elementary commu- 
+
+
+
+
+
+
+
+
+nity and parochial schools and one 
+
+
+
+
+ilioochi .iknii |«iiice work. 
+
+
+day to day basic police work, along 
+with his training In the police acad- 
+
+
+Kw Allen County school. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+program and senl two police offiicrs 
+
+
+
+
+fhe Fort Wayne Police Department to 
+
+
+
+
+
+
+
+
+
+
+say no, and feelings. 
+
+
+
+
+just knew in mv heart," stated Davis, 
+
+
+al-le upon graduation. 
+
+
+sons are taught including safeh and 
+feelings. Davis said, "We all have 
+feelings — mad, sad, glad and scared 
+
+
+
+
+"that I would be a professional hall 
+
+
+
+
+of training Current Iv l-'orl Wayne has 
+
+
+
+
+DARE program, Davis says those 
+
+
+
+
+A&amp;M, I realized that (pro ball) basi- 
+
+
+
+
+Dale Antonio (Tony) Davis is one 
+
+
+
+
+
+
+such DA UK officer. As a patrolman 
+
+
+
+
+faced, and he asked to be considered 
+
+
+get angry. We teach deep breathing 
+
+
+with the Fort Wayne Police Deport 
+
+
+growth experiences by being away 
+
+
+for the program. "I saw the op- 
+
+
+
+
+
+
+
+
+
+
+
+
+back to my overall community and 
+
+
+The major emphasis of the DARE 
+
+
+look the DARK InmuriK here in Fori 
+
+
+
+
+
+
+
+
+
+
+
+
+mslRi.t.,, 10 July 1989. 
+
+
+l&gt;t.&gt;h -Mi.ii.il Inollull player 
+
+
+
+
+
+
+
+
+American males in single family 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cinnnl lie h&gt; kids They know when 
+
+
+enee of my mother, went to Franklin 
+
+
+of being productive uh/ens and an 
+
+
+self-esteem, and the eight ways to say 
+
+
+
+Davis moved from Alabama to I- m t as another transitional In 
+lave much," he said, "hut we always pursuit of a college degre 
+
+
+
+y regardless of no. Those eight ways follow: 1) Say 
+
+•xiness within cuse; 3) Strength in numbers; 40 Davis said they 
+
+
+
+DON'T SIGN UP FOR A STUDENT LOAN 
+UNTIL YOU SIGN UP HERE. 
+
+
+
+jig 
+
+
+
+n who don't reqisler with Selective Service oren't eligible 
+■ ' derol student oid 
+rning 18, take 
+
+
+
+for some federal 
+
+{hMMIlblUln and fill out a simple cord at the post office. 
+
+Selective Service Registration. 
+
+It's Quick. It's Easy, audit's The low. 
+
+
+
+TYPING 
+
+papers, etc. 
+RESUME SPECIAL: $7.00 
+
+TERM PAPER SPECIAL: 
+
+S1.50 1 page, double-spaced. 
+
+Call Brenda at 424-8554. 
+
+
+
+
+You Get 
+
+QUICK CASH 
+If YOU 
+
+Sell Your 
+Textbooks 
+
+NOW! 
+
+
+
+
+&lt;m*M*****Mj33Si 
+
+
+
+
+very popular tool," stated Davis. "The 
+
+Box.'" ' the DARE'p 
+
+In addition to the 17 regular DARE All of the ki 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW all of the 
+above rewards can be acheived. Multiple scholarships will be 
+awarded by the parent Fort Wayne local Americi 
+and Inventory Control Society Chapter, at the regional 1 
+$500.00 grant, and at the national level a $15' 
+gift will be given. A brief theme paper on one APICS topic 
+which consists of inventory control, production activity. JIT, 
+M.R.P., systems resource management, or planning and 
+cash reward. Your faculty advisor can 
+
+
+
+
+
+
+jy March 15, 1991. So co 
+rd Thursday at 6 P.M. in 1 
+cticing professional face to face. Lean 
+
+tification can open employment doors for 
+&gt; see your faculty advisor or call John at 4! 
+
+
+
+scholarship 
+
+thly r 
+
+
+
+Room 222 and meet a 
+
+
+
+APICS 
+
+
+
+
+AT SERA TEC WE 
+
+DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+THAT'S WHY WE... 
+
+
+
+- Use Sterile, Disposable Equipment 
+
+- Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise • Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+
+- Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED PLASMA 
+
+EARN % 2S" A WEEK DONATING PLASMA 
+
+
+
+NEW 
+
+DONORS 
+
+RECEIVE 
+
+
+
+10 
+
+
+
+CALL OH STOP BY 
+
+
+
+SERA TEC BIOLOGICALS 
+
+921 Clay Street 
+Fort Wayne, IN 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Acid wash 
+
+St. Snyder visits the night before Christmas 
+
+
+
+He was dressed all in tie-dye from his 
+
+head to his foot. 
+And his image was all tarnished from 
+
+mud-slinging and soot: 
+
+
+
+Continuing Studies professor honored 
+for teaching excellence in 1990 
+
+
+
+MEMO 
+
+unite/u. to* t&amp;c 4pU*$ t99t 
+
+
+
+UMuottn. TV* teed ttudexti- 1* 
+
+
+unite leatwtei-. hum and Apmti - 
+
+
+itudentA wA* arte motivated. w&amp;» 
+
+
+twmt Ca jntUA tieii wxitiM? 
+
+
+aJii/U &lt;fcd **te cxftenitHce. 
+
+
+Intonated itwUta i&amp;auU amu. 
+
+
+6if SuOc ZtS &lt;d TVali IOuok or 
+
+
+e*U4?t-6St4io**tMe 
+
+
+tofvumOto* &lt;m t* apfiif- 1t» 
+
+
+expedience cj Hece&amp;tovufl 
+
+
+
+Dennis E Hensley ' 
+
+
+
+e top of the porch, I 
+
+
+
+
+
+... 4i«4tUs rfArs 
+
+
+W&lt; woul Wr A.„ 
+
+
+
+
+
+
+flrllr \A»illi /fp^yiic 
+
+
+fe«We of A +» recBM; 
+our -fa'MyJ reqdei-s 
+fer alt words aM/or 
+
+
+•k, BrnjCdrdd../ 
+
+
+r... 
+
+
+*,yUM... 
+
+
+okWtftk 
+
+
+&lt;k~^ 
+
+
+3f 
+
+
+. &gt; 
+
+
+||j||g 
+
+
+m* 
+
+
+% 
+
+
+i 
+
+
+%4 
+
+
+
+The Underground 
+
+Under the Landing In 
+
+
+
+Revolution" from Lafayette 
+
+
+
+r Job Alert v; 
+
+for 
+IPFW Student 
+
+
+
+Gain a lot of ground 
+
+on your future. Join the 
+
+Army National Guard 
+
+Infantry today. 
+
+
+
+Ifyou're tough and determined, take 
+a big step for your fulure. Call your local 
+Army Nalional Guard recruiter loday. 
+
+
+
+Sales and Marketing: 2p 
+
+
+
+provided. 
+
+Ideal candidale(s) will be al I 
+computer experience- IBM F 
+provided tor your use for the 
+
+
+
+: load) d -villi software will b 
+
+
+
+■ Temporary Services 
+Suit 120 
+3400 Coliseum Blvd. East. 
+
+
+
+
+It took Galileo 16 years to master the universe. 
+You have one night. 
+
+
+
+It seems unfair. The genius had all that time. While you have a few 
+short hours to learn your sun spots from your satellites before the 
+dreaded astronomy exam. 
+
+On the other hand, Vivarin gives you the definite advantage. It helps 
+keep you awake and mentally alert for hours. Safely and conveniendy. So 
+even when the subject matter's dull, your mind will stay razor sharp. 
+
+If Galileo had used Vivarin, maybe he could have mastered the solar 
+
+^temfi" Reviw with VIVARIN: 
+
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+Rale is Negotiable. 
+
+
+
+DIRECT CARE • Wc 
+menially retarded In* 
+
+
+
+i niMM.i ui ,i |iih? Comelnands 
+
+
+
+jj; 
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+M.-.-i Hi. "U! liisiih'-kiiuJ. 
+
+
+
+IThe 
+
+
+
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like ,1 pjnod deal to you, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And gel your free OWL 
+card at any olfice of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+Business as Usual, 
+lhats myk 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Lady 'Dons 
+
+Women beat Missouri 
+
+
+
+th» athletic deportrmsrslal 481-6643. 
+
+
+Th 13 
+
+Women's boiilboll vs. 
+
+
+F 14 
+
+
+S 15 
+
+Purdue-Columat 
+
+
+S 16 
+
+
+M 17 
+
+
+T 18 
+
+
+W 19 
+
+
+
+
+American Red Cross 
+
+
+
+from.... 
+fjjL THE COMMUNICATOR 
+
+
+
+§g^**** 
+
+
+
+w 
+
+
+
+The 1990 staff of THE COMMUNICATOR ^ 
+extends their warmest wishes for a happy 
+holiday season and a prosperous new year to 
+our advertisers and the IPFW students, faculty 
+and staff. Best wishes, everyone! 
+
+
+
+</pre>        </div>
+      </div>
+    

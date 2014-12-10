@@ -1,0 +1,4312 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i13indi/communicatorv12i13indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i13indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i13indi">The Communicator</a>"
+          </h1>
+          <pre>^■^ 
+
+
+
+llic 
+
+
+
+Volume XII Issue 13 
+
+
+
+Com itt 1111 icatoy 
+
+
+
+Indiana University-Purdue University at Ft. Woyne 
+
+
+
+DECEMBER 4, 1980 
+
+
+
+Rescue fights rock 
+
+
+
+Music stirs controversy 
+
+
+
+Group anti-rock 
+
+
+
+ByCHERYLGIBSON 
+
+"Rock music encourages nudity, free love, promiscuity, sex crimes, sodomy, 
+incesl, and other sins of the flesh," said an article distributed by Pastor James 
+Bachman. 
+
+Sinners beware. 
+
+Someone is out to save you. 
+
+His name is Pastor James Bachman. 
+
+He is a 38-year-old Roanoke minister who heads a newly formed group called 
+RESCUE — Rock Exposure Solutions Control and Ultimate Escape. 
+
+He means lo rescue young rock fans from the dangers of this society and 
+voluntarily save their souls. 
+
+"The purpose of RESCUE is ... to help bring under control some of the evil 
+elements of the rock culture, such as immorality, drug promotion and the occult." 
+They want to expose the rock culture lo the parents so (hey in turn will encourage 
+their children to do other activities so they will be too busy lo go to the concerts. 
+Proposed alternatives to concerts are youth groups, and sports and Christian 
+music though Bachman does not sanction Christian rock. 
+
+Bachman believes a person can't be a "Irue" Christian and be a rock listener 
+because "rock music lakes you down the wrong road and you can easily be led 
+astray." 
+
+Greg Patten, the director of RESCUE and program director of WRCV, a 
+Christian stalion, is also a main force behind RESCUE. 
+
+• RESCUE wants to band together the public who wants to put an end to obscenity, 
+indecency, prostitution, and controlled substances. They want these brought under 
+control — a stop put to the immoral atmosphere. 
+
+RESCUE is hoping to "muster up" several thousand families. In two weeks, 
+over 100 people have joined the group, and there have been many phone calls and 
+letters from private citizens and other churches. 
+
+"When most people gel the true picture of the evil that most rock music is 
+pushing theirkidsinio, they will help bring it under control. This music is forced on 
+kids by peer pressure, many schools and business people without regard lo its 
+immoral preoccupation with sex and drugs. Many rock performers, promoters and 
+record people make off with the- big bucks and leave the youth who have been 
+hooked on the music with empty wallets and a ruined characlor to go with it," said 
+Bachman in a recent newsletter. 
+
+RESCUE became concerned when the rock group AC-DC mooned the concert 
+goers at a recent performance at the Coliseum. But now, with RESCUE, 
+promoters and performers will be warned before their performances and arrests 
+will be made by the RESCUE task force if any violations occur. 
+
+At the Molly Hatchet concert Monday, Nov. 24, members of RESCUE attended 
+the concert lo report on any 'blatant violation of the law.' according to Patten and 
+Bachman. 
+
+The members did not make any reports to the police. They were not allowed 
+backstage, but they observed no obscenity violations on the front of the stage. 
+
+The police and the Coliseum made a commitment to RESCUE the day of the 
+performance, according lo Bachman. The police agreed to cooperate with them 
+while at the concert. 
+
+Bachman observed much pot smoking, but he noted that the handful of officers 
+could not control all of the pot smoking, 
+
+"Sickness-Sad-Deafening" was (he title of the news release following the con- 
+cert. "For three-and-a-half hours, the performers pushed, egged and tried to drive 
+the young people into a rock and roll frenzy using their gestures, screaming voices 
+and ear piercing music," said Bachman in the letter. "I tried to stick itoutlosee 
+what (he teens go through As of Tuesday, my hearing was still greatly impaired." 
+
+Bachman believes "we wake up the lax Christian parents and put much energy 
+into leading the teen lo the challenge of righteousness, decency and soul winning as 
+the rock performers give to their degenerate purposes." 
+
+Reverend Gene Schwenk of the Aboite Baptist Church and the former pastor of 
+Roanoke Baptist Church is a member of RESCUE- He believes "as a Christian I 
+don't have lo go to or listen to it (rock)," and he wonders how far we should go on 
+letting society erode ilself. 
+
+"Music is not the devil's tool. It depends on how you pick it up and use it," said 
+Schwenk. The objection isn't jus! to the &gt;vords bul also to the beat of it. He agrees 
+with Bachman that parents need to be informed in order to control their children. 
+
+Schwenk's own children are not allowed lo own rock records or attend rock 
+concerts. He said it was their own personal preference to listen to Christian music. 
+
+RESCUE is run through funding from the Roanoke Baptist Church and tax free 
+donations. Bachman pointed out thai RESCUE is a nondenominational 
+organization, and he hopes for cooperation from all churches. 
+
+By using the massmedia of radio, television, and newspapers, RESCUE is 
+hoping (0 reach people to let them know what is really going on. They are in the 
+process of publishing a manual to be sent to area churches and other groups 
+around the nation. 
+
+"After several thousand supporters are acquired, the RESCUE group will go 
+after the establishment for some improved public standards which will be able to 
+be enforced." Bachman said. 
+
+
+
+
+Templar supports it 
+
+By TIMOTHY J. ROSS 
+
+Art Templar looks like many young professionals: He has short hair, a neatly 
+trimmed beard and wears a conservative three-piece suit. 
+
+The walls of his spacious office are covered with plaques and awards thanking 
+him for the good things he's done. 
+
+He even has a trophy that was accepted for him by Debby Boone. It sits on a shelf 
+with several other trophies He received it in recognition for the Sunday morning 
+Christian program broadcasted by his radio station. 
+
+Templar, a born-again Christian and general manager of WXKE. is reaching out 
+to area youth through his local radio stalion that has a rock formal. He believes he 
+is helping young people, and he has letters thai prove It. 
+
+Some, however, do not agree that Templar is helping anyone. 
+
+For example, Greg Fallen, another born-agnin Christian, said Templar "feels 
+his work is a ministry lo young people. To me il is sort of like, I am helping you 
+out. Here, have something loeat ' and having il laced with strychnine." 
+
+Patlen, a once prominent rock disc jockey, is now a leader in a group crusading 
+for the elimination of rock concerts and rock music- 
+
+RESCUE (Rock Exposure Solutions Control and Ultimate Escape) is headed by 
+the Reverend James Bachman and Greg Patlen. 
+
+Bachman, according lo an earlier Fori Wayne News-Senlinel article said he 
+wants to free young people from the influence of the rock culture, which he said is 
+preoccupied with sex and drugs. 
+
+"The majority of rock music is inherently bad," agrees Fallen. 
+
+The group will warn all concert promoters and rock groups that they are 
+watching and will file complaints if laws are broken. RESCUE also plans to 
+monitor future concerts. 
+
+Patten claims the promoters are "generally shaken." 
+
+Sunshine, one of the. biggest promoters in the area, was unavailable for com- 
+ment. 
+
+While Templar agrees something should be done lo improve the conditions al 
+rock concerts, he does not agree&gt;wilh what he called the "vigilante tactics" that 
+RESCUE is using. 
+
+"Rock and rollers love lo be persecuted," said Templar, who feels Ihat RESCUE 
+will only band rock fans together. 
+
+Both sides seem lo agree that change is necessary, but Bachman and Fallen 
+refuse lo even meel with Templar, even though Templar feels it could help. 
+
+Police Chief Leon Wolfe has explained procedures to RESCUE and has told Ihem 
+lo file their complaints through the proper channels and action will be taken. 
+
+Wolfe believes that the question is one of morality, and he explained that police 
+officers are in such a position that they can't be offended. 
+
+"I thinkthereisonlysofar wecango with this," Wolfe said. "I wish we weren't 
+even in il " 
+
+The position of the Fort Wayne Coliseum has also been a matter of question, but 
+Don Meyers, head of the coliseum was unavailable for comment. 
+
+Arnold finds niche, 
+years of pleasure 
+
+
+
+Ruth Arnold, a sludcnl In the IPFW Department of Fine Arts since 19Z9, enjoys 
+working with her hands and urlistlc lalenls. (Photo by Tim Ross) 
+
+
+
+The First Baptist Church of Fort 
+Wayne will soon display the work of 
+Mrs. Ruth Loudemilij Arnold. She has 
+combined her woodworking and 
+melalsmithing expertise lo produce 
+candelabra specially requested for the 
+church pews. 
+
+Arnold is no newcomer lo the Fori 
+Wayne art community. She has Ijeen a 
+student of art al the School of Fine Arts 
+inlermiltently since 1929, when she 
+came lo what was then the Fort Wayne 
+School of Art. 
+
+She received a scholarship to attend 
+the school after she graduated from 
+high school in Ohio Her original intent 
+was to study dress design, bul when she 
+arrived at school, she found there was 
+no such course offered. Instead, she 
+took advantage of the courses that were 
+available, giving her the start for a 
+long, productive career. 
+
+Arnold displayed artistic talent as a 
+small child, recalling an incident when 
+she drew a piclure of an angel and 
+Christ, which she presented to a 
+minister and his wife, boarders in her 
+parent's home. Arnold told the minister 
+she had drawn the figures from 
+memory and he replied, "II looks like 
+it." in what she described as an un- 
+complimenlary tone. 
+
+She remembers that comment cut- 
+ting through her, bul instead ollel ting it 
+discourage her, she used it to push 
+herself into developing her talent. 
+
+Many years later, Arnold ran into 
+that minister and reminded him of Ihe 
+incident. He laughed, not realizing how 
+much his comment had affected the 
+seven-year-old Arnold so long ago. 
+
+Arnold also developed a habit of 
+making her own dolls from the clay 
+found in the soil around her home. Her 
+family was too poor to buy dolls and, "I 
+didn't like those store dolls much 
+anyway." Arnold commented. Quite 
+often Arnold's mother was apt to find 
+arms, legs and heads, meant for future 
+assembly into dolls, baking in her oven. 
+She also had to put to a stop Arnold's 
+habit of culling her own hair lo adorn 
+her clay doll's heads. 
+
+Since that time, Arnold has in- 
+vestigated most of the arl mediums 
+available through inslrucliun at school 
+and other channels She has drawn 
+pastel portraits of people, similar lo 
+those one sees al shopping center 
+shows, worked in teller shops, held 
+several positions al General Electric, 
+particularly during WW 11, and became 
+an engineering assistant after having 
+taken courses al ITT. 
+
+During her years as a student. Arnold 
+encountered Ihe problems students of 
+any era do, that of making ends meel. 
+She starled school al the time of the 
+slock market crash and the ensuing 
+depression. 
+
+While a student al Ihe school, Arnold 
+received a scholarship Ihrough the first 
+three years and finished her senior year 
+supporting herself Her second year, n 
+
+
+
+monthly S45 was given her by a donor 
+and Ihe third year, she look up 
+residence in Ihe arl building on Ihe 
+third floor. 
+
+At Ihat lime, she held down the job of 
+firing the coal furnace, a task thai could 
+keep her running up and down the stairs 
+to the basement all night during the 
+colder months. In return, she received 
+S16 a month, room and board. 
+
+The last year at school, Ihe 
+depression worsened conditions 
+everywhere, and though she still fired 
+the furnace, the school could only 
+provide the room in return for her 
+work. She was on her own lo find her 
+meals, something at which she was not 
+very successful. 
+
+She was close to starving when her 
+condition was brouglit to the attention 
+of a Mrs. Charles Bussing, who then 
+supplied Arnold with monthly 
+groceries. 
+
+Arnold recalled another incident 
+reflective of the time when a young girl, 
+modeling to earn money to support her 
+parents, was so hungry she fainted 
+while posing. Arnold caught her, then 
+stood alone in the middle of the room 
+with Ihe girl in her arms and no 
+assistance forthcoming. The girl was 
+modeling nude, and the boys in Ihe 
+class weren't going to come forward lo 
+help. 
+
+Since those days. Arnold has used her 
+art talent in many ways. Now at an age 
+when many people retire lo rocking 
+chairs, she is in the midst of numerous 
+art projects for herself and others. 
+Currently, she is making jewelry with 
+her melalsmithing knowledge, and she 
+has drawn her husband, a lapidarist. 
+into Ihe art. 
+
+She displayed a set of miniature 
+silverware made for her grand- 
+daughter, a unique necklace creatively 
+engineered to appear solid, bul in fact. 
+It was quite flexible, a squash blossom 
+necklace made for her daughter-in-law, 
+and a set of eight brass goblets made 
+for her son, two of which were for 
+exhibit at a student art show. 
+
+Arnold has also buill part of one of 
+her homes, kitchen cabinets and many 
+pieces of furniture. She is currently 
+working on a set of walnut, carved 
+back, cane chairs for herself. 
+
+Special talents seem lo run in the 
+family as evidenced in Arnold's proud 
+mention of her son, a frequent recipient 
+of her work He recently was named, 
+"Outstanding Young Man of the Year," 
+and is employed as an analyst for the 
+Congressional Environmental 
+Research Service. 
+
+Ruth Arnold is an exceplional woman 
+with talents reaching into more facels 
+of arl Ihan many reali?e exist. Her 
+original delcrminal ion as a child pulled 
+her Ihrough many mslances that could 
+have halted even' the strongest person. 
+She never gave up though , and today we 
+can all see the benefits of her dedication 
+to art in her works. 
+
+
+
+
+Olympic hopeful IMlndy Martin, 11, practices at McMlllen 
+Ice Arena. ( Photo by Moldcn Macckcr) 
+
+
+
+Hamill pleases fans 
+
+
+
+Mindy meets idol 
+
+
+
+By STEPIIANY HOLMES 
+
+Nineteen-seventy-six Olympic 
+gold medalist Dorothy Hamill 
+doesn't seem to think she's a star, 
+bul Mindy Martin, 11, budding figure 
+skater, is sure of it. 
+
+Hamill, in town with the Ice 
+Capadcs show, was also a gucsl on 
+Channel 2i's "Morning Break," 
+Surprisingly soflspoken, she 
+responded to questions and com- 
+ments from an audience of young Ft, 
+Wayne Ice Skating Club members 
+and their mothers. 
+
+The former World Champion 
+skater was plainly uncomfortable 
+with the many compliments she 
+received, especially when she was 
+repeatedly referred to as a "star." 
+She squirmed, shook her head and 
+frowned each lime, rejecting such 
+lavish labels I'rom the audience. 
+
+Just to Ihe right of tlie "Morning 
+Break" set is a room where guests 
+wait prior to making their ap- 
+pearances. It was here Ihat Mindy 
+watched, wailed for, and finally 
+met, Hamill. 
+
+Mindy hopes lo skate in Olympic 
+competition someday, bul figure 
+skating is an expensive sport, and 
+she must pay $60 a month in rink 
+fees plus equipment , This is a 
+hardship for Mindy and her family, 
+but she frequently babysits and has 
+earned as much as (40 a month 
+toward her fees. 
+
+She skates at McMlllen Ice Arena 
+under the direction of skaling-pro 
+Hans Lupke, who believes she 
+shows the ability and desire it lakes 
+lo succeed in competition. Her 
+meeting with Hamill has enhanced 
+that desire. 
+
+"I skated with such energy after 
+meeting her," said Mindy. "Gelling 
+lo meet someone like her really 
+makes you feel like working harder 
+to achieve your goal. The Olympics 
+seem closer now, more possible." 
+
+Mindy also attended that 
+evening's performance of the Ice 
+Capades and noticed a difference 
+between Hamill on ice and Hamill in 
+person. 
+"She's so confident on the Ice — 
+
+
+
+the way she smiles, the way she 
+moves, her speed, her energy. You 
+just know she knows how really 
+good she is. Bul in person, she's 
+almost shy and seems embarrassed 
+about her fame. It's like she feels 
+she doesn't deserve it or 
+something," Mindy said. "You'd 
+think she'd know how important she 
+is to people like me who skale." 
+
+Hamill's importance to Mindy 
+made their meeting unforgettable 
+forlhe young skater. 
+
+After "Morning Break" had 
+ended, Hamill. a petite woman in 
+spite of an athletic appearance on 
+ice, got up and walked toward the 
+room whore Mindy wailed. They 
+were introduced and Hamill was 
+told of Mindy's aspirations. An 
+autograph was given, a whimsical 
+"happy face" drawn under the 
+message and signature, Tliere was 
+more conversation and a suggestion 
+thai Mindy and Hamill pose for a 
+piclure. The two moved closer 
+together and smiled al one another, 
+Hamill put her arm around Mindy 
+with a hug, and Ihey turned to smile 
+for Ihe camera. 
+
+Then It was time for Hamill lo 
+leave, and as her group gathered 
+momentum going out the door, 
+someone said, "Thank you. 
+Dorothy, for Ihe years of pleasure." 
+Hamill stopped instantly, obviously 
+pleased, and turned to earnestly 
+thank the person who said il. This 
+was what she wanted lo hear. Not 
+the lavish compliments or the word 
+"star," but the knowledge that she 
+had entertained and brought 
+pleasure to her fans. 
+
+Then she was gone and Mindy was 
+left with a wonderful memory and 
+the rare thrill of meeting an idol. 
+
+"Meeting her, talking lo her, and 
+gelling her autograph was so much 
+more than I had ever hoped for, bul 
+when she put her arm around me, I 
+thought I would explode with 
+happiness. 1 will never forget it or 
+her,"Mindy said. 
+
+For this young skater. Dorothy 
+Hamill is clearly a slar — but not 
+the kind thai gets in your eyes. For 
+Mindy, she's a slar lo steer by. 
+
+
+
+Geology majors 'rock' 
+
+
+
+By JIM CHAPMAN 
+
+Who said thai geology majors really 
+know how to rock? Well, it's true. They 
+do. bul they know how lo do more Ihan 
+that. 
+
+Besides being the study of earth 
+materials such as rocks, minerals and 
+fossils, geology involves Ihe exploration 
+for petroleum and economically im- 
+portant minerals. Geology includes 
+study of the internal structure of the 
+earth, of earthquakes and volcanoes, 
+and of other equally fascinating sub- 
+jects. 
+
+IPFW offers four-year geology B.S 
+or A.B. degree programs and there are 
+currently 28geology majors here. 
+
+"It's not a popular degree program. 
+although Ihe subject mailer is 
+fascinating and the job opportunities 
+enormous," said Dipak Chowdhury. 
+chairman of the Department of Earth 
+and Space Sciences. 
+
+Chowdhury elaborated that job op- 
+portunities in the geology field are so 
+numerous because of Ihe search for 
+petroleum and minerals that are in 
+short supply 
+
+"In geophysics, we use principles of 
+physics lo determine the location of 
+minerals Iwcnuse they are so far down 
+in the ground," Chowdhury said. 
+
+Between BO and 90 percent of the 
+courses in geology involve field trips. 
+During the spring break, for instance, a 
+
+
+
+group of geology majors will travel lo 
+Baraboo, Wis to study rock formations. 
+Al Iheend of Ihe spring semester, one 
+class will travel lo the Grand Canyon 
+and other areas in the Rocky Moun- 
+tains. Another class will travel to the 
+Florida Keys lo study sediments for- 
+ming under shallow marine water and 
+see aspects of the marine environment 
+that provide clues for Ihe interpretation 
+of past environments. 
+
+"'I think geology is a good field — a 
+high-paying field, because il is a 
+science of the future." said Keith 
+Emrick. a senior gology major. "IP- 
+FW's geology department offers things 
+that other universities don't offer," 
+
+One should have al least a master's 
+degree to be a professional geologist. 
+and a Ph.D. is required for leaching at 
+a university. Chowdhury said. 
+
+The geology deparlmeni contains two 
+laboratory preparation rooms where 
+students prepare and analyze 
+geological samples ; and a paleontology 
+lab, where fossils are studied is 
+available. The laboratories are com- 
+plemented by a rock preparation room 
+where most of ihe "dirty work" is done. 
+Beginning geology students learn the 
+idonlificalion of rocks, minerals and 
+fo.ssils. as well as Ihe elementary in- 
+lerprelalion of topographic maps in the 
+laboratory in introductory geology 
+courses. 
+
+
+
+PAGE 2 — THE COMMUNICATOR — DECEMBER 4, ] 
+
+
+
+OPIiVIOJV 
+
+
+
+The Coniniunicator 
+
+
+
+Staff thanks editor 
+
+
+
+What is a great leader? It's a person 
+who has the ability to motivate those 
+around him or her to strive toward goals 
+while personally maintaining a high 
+level of accomplishment. 
+
+We at The Communicator know such a 
+person. She is Debbie Cantwell, our 
+editor-in-chief. 
+
+Debbie, a senior English major here, 
+has served as our leader throughout the 
+spring and fall semesters of 1980. Not 
+only has she been a leader to her staff, 
+she has also been a vital part of the 
+campus leadership as a whole. 
+
+In her position as editor-in-chief. 
+Debbie is the master-planner and the 
+final authority of The Communicator 
+editorial operation. It is her respon- 
+sibility to supervise and direct the 
+creation of The Communicator from the 
+conception of story ideas, through the 
+iiewsgathering, storywriting and story 
+editing procedures to the final lay-out 
+and design. 
+
+Debbie is also responsible for long- 
+range planning and development, in- 
+cluding the recruitmeni and training of 
+the subordinate editors and staff 
+writers. 
+
+As editor-in-chief, she familiarized 
+lierself thoroughly with all aspects of 
+IPFW, Indiana and Purdue universities 
+systems, and of all areas of Indiana 
+government concerned with higher 
+education. 
+
+As the representative of The Com- 
+municator within the IPFW campus 
+commimity, Debbie became personally 
+acquainted with and established 
+
+
+
+.working relationships with all universitv 
+decision makers, as well as with those 
+who influence the decision makers. 
+
+All these things Debbie Cantwell has 
+done well. 
+
+As Debbie leaves The Communicator 
+staff at the end of this semester to 
+complete her degree work, we want to 
+say "Thanks, Debbie." 
+
+
+
+
+
+Debbie CDtitwell. editor a! The Coiti- 
+munlcnlor readies copy Tor Ihc printer. 
+tPholobj Sandra Wiley) 
+
+
+
+
+
+The Communicator 
+
+
+
+
+... ,w 
+
+
+.x:z::=t.vz:ii-:. 
+
+
+
+
+
+
+rh» Ediis' All Utito .hould b* ihon 
+
+
+io^.Dwi., """g;^!^;;^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B- Ih* .tu&lt;l«.i bod. 
+
+
+'"'I'l'tr^ T '^ t"" *^' 'li'V^i ™ 
+
+
+
+
+
+
+
+
+■ p»t&gt;l&gt;th«l on Ih«™j.n nwnin,. v.h.n 
+
+
+oKkH ol irvlKina Pun)u&gt; Siudwrn Ncm 
+
+
+mu,t b&lt; .Kwddoubl. tp««). ond w 
+
+
+
+
+
+
+ih» FildOT bcfo'* &lt;K. -»k dI pubN. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moral 
+
+Majority 
+
+oppressive 
+
+By STEPHANY HOLMES 
+
+The voting machines had 
+tiarely cooled after Ihc Nov 
+4 election when members of 
+Moral Majority were served 
+notice: Moral Majorily is 
+NOT going 10 run the show 
+and theocracy will not rule 
+Ihc nation 
+
+Dan Quayle, senator -elect, 
+has already said several 
+limes that recent Republican 
+victories were not a result of 
+Moral Majority efforts. On 
+the "Today" show, he said, 
+"I believe two grotips are 
+going to be disappointed with 
+the new governmenl, the Old 
+l^fland the New Right." 
+
+President-elect Ronald 
+Reagan, after being urged 
+by Fundamentalist religious 
+groups to ignore pro-ERA, 
+pro-choice vice-president- 
+elect George Bush for the 
+next four years, said, "we'll 
+be working very closely 
+together " 
+
+Then Moral Majorily 
+issued an ultimatum con- 
+cerning the upcoming Senate 
+Majorily Leader position, 
+saying thai Howard Baker, 
+R, Tenn.. absolutely would 
+not do. Reagan, when 
+questioned about the 
+potential conflict, said Uiere 
+was NO conflict and Howard 
+Baker would do very well, 
+thank you. 
+
+Hmmmmmmm, We may 
+be spared Ihe reappearance 
+of the pillory after all. Right 
+wing religious groups will 
+not be ignored and we do 
+have a very conservative 
+governmenl coming to 
+power, but it seems it will not 
+bloom into the near 
+theocracy Moral Majority 
+types had hoped for. 
+
+Thank God. 
+
+Religious-oriented politics 
+often lead to religious- 
+oriented government— the 
+shortest route to oppression 
+known to mankind. Woe be 
+unto those whose l^liefs 
+don't coincide with those in 
+power. 
+
+That is why Ihe foundersof 
+this country wisely sought to 
+separate church and stale, 
+keeping government out of 
+
+
+
+
+Sfop by fhis week 
+
+for greof prices on oil 
+
+fhe demo equipment 
+
+left from our onnual 
+
+show ond sole. 
+
+All equipment carries 
+
+complete factory 
+
+warranty. 
+
+Some examples: 
+
+AM/FM Stereo Radio $19.00 
+
+Bearcat Scanner III $79.00 
+
+Telarc Digital Records $13.27 
+
+And Many AAore 
+
+Great Specials I ! I 
+
+3413 North Anthony 
+in back of Karma Records 
+
+
+
+
+religion AND religion out of 
+government. 
+
+The new religious right 
+defends what I believe are 
+unconstitutional activities 
+by pointing to past politioal 
+involvement of more liberal 
+Christian leadership. Why 
+are we now protesting when 
+the conservatives get in the 
+act, they ask. 
+
+For me. the difference is 
+this: 1 am accustomed to a 
+Christian ministry 
+
+promoting world peace, 
+charily for the poor, 
+tolerance of human failings, 
+and love of fellow man. I feel 
+this is not political, but ex- 
+pected, and a part of 
+Christian advocacy and 
+duty. These leaders did not 
+try to use their positions to 
+personally sway their flocks, 
+and I don't think you would 
+find even one hawking their 
+philosophical wares on T.V., 
+trying to amass a fortune in 
+the process. 
+
+Then there is Moral 
+Majorily and company. 
+Their slogan seems lo be a 
+vicious "Let's get 'em!" 
+Their prey included liberal 
+senators, homosexuals, 
+believers in pro-choice, 
+feminists, minorities, the 
+poor and anyone else who 
+doesn't agree with them. 
+And of course, any old 
+means can be used to justify 
+Christian ends, right? 
+
+The New Right actually 
+preaches the politics of hale, 
+bigotry and repression, and 
+attempts to wrap it up in a 
+so-called Christian wrapper 
+to make it appear more 
+palatable. 
+
+They worked tirelessly to 
+tie in a position lo control and 
+manipulate the outcome of 
+an election, and create an 
+atmosphere where their 
+beliefs could be imposed on 
+the nation. 
+
+
+
+Yet they claim they do not 
+want an official stale 
+religion. After all, it is un- 
+constitutional What dif- 
+ference does it make if we 
+have a stale religion or 
+simply legislate the beliefs 
+of a particular faith into 
+law? 
+
+I believe the function of 
+law is to protect and keep 
+order in a society and not to 
+set its moral standards. 
+Despite the claims of Moral 
+Majority, we are not a 
+Christian nation. We are a 
+democratic nation, and 
+because of our democracy, 
+we have the individual option 
+of being Christian— or 
+whatever. 
+
+Religion freely chosen can 
+enhance life. Repressive 
+religion rammed down the 
+throats of the people can 
+start a revolution. 
+
+
+
+SCUBA 
+
+The New Adventure 
+
+Soles— Service 
+
+All major brands of diving equip, 
+
+CLASSES BEING OFFERED 
+
+Botic lo Advanced Leveli 
+Jon the naw piorwart — 
+
+L«arn to explore rfio lait frontier 
+Begin Your Adventure Now 
+
+AQUANETIC 
+CENTER 
+
+206 Lincoln Hwy, 
+New Haven, IN 
+
+493-2904 
+
+
+
+
+4 
+
+
+
+Extra Income 
+Opportunity 
+
+
+
+Looking lor in auy way to eim loms tjtn mantyT Turn your ipira timt into Mih by 
+lubmining nimet lor miiiing riit ol panoni polintKliy quillHed to (111 iioilliDn 
+openlngt with our memlisr carpontloni. Rtcelvi ganerout ipprditlon bonuiii. 
+For dililli, nil out and rtturn coupon. 
+
+
+
+1 1 im InlBraitad In Iciming mon ibout your 
+' iitri Intom* opportunity, PIiiib lumlih ma 
+Iwlth til ttio dBlilli. 
+' Pleiie Type or Prim Letlblf 
+
+
+
+Ttit Bonui Rdflml Plin. inc 
+P.O. eoi 19727, Ospl. P2 
+Dlllll, Tun 75219 
+
+
+
+I College ot Unlvenity 
+
+INameotPubllcslloninWhlch 
+I Ttili Ad Apptirad 
+
+
+
+
+WEEKDAYS 10 a.m.-12 noon 
+
+
+
+service of WfJ^'^ 
+
+
+
+WIPU 
+
+8Qi FMl 
+
+
+
+
+Forensicators visit Nowhere 
+
+Five women from the 
+, IPFW Forensic League took 
+a mind-expanding trip on 
+Nov. 21 lo Sieve Martin's 
+favorite spot, Nowhere, 
+USA. (Terre Haute). 
+
+The success of Dr. Jan 
+Roncelli's coercive tactics 
+resulted in five students 
+parading 15 pieces of 
+literature before hard-core 
+interpretive critics at 
+Indiana State University. 
+The stalwart team soon 
+warmed the hearts and 
+minds of millions, well, 
+maybe 100 kindred souls with 
+interpretations of poetry, 
+proseanddrama. 
+
+Exhausted after such a 
+cognitive experience, the 
+team sought solace at the 
+ISU lodge. After a short. 
+
+
+
+unplanned side trip lo the 
+local monastery. Fort 
+Wayne students mingled 
+with others from eight 
+states. 
+
+Surviving accom- 
+
+modations fondly referred 
+to as the "roach motel, "the 
+intrepid interpreters at- 
+tended workshops 
+and more readines 
+on Saturday. These re- 
+sulted in the nomination of 
+Becky Niccum and Nancy 
+Korn for Che final reading 
+session. Four hundred and 
+forly-three miles later, the 
+forensicators wearily 
+returned home with visions 
+of future tournament 
+trophies dancing in their 
+heads. 
+
+
+
+Cards requested for hostages 
+
+
+
+Again this year, as we 
+prepare to gather with 
+friends and loved ones 
+during the Holiday Season, 
+we are reminded thai 52 of 
+our fellow Americans are 
+still being held as prisoners 
+in Iran. 
+
+Seasonal greeting cards 
+
+
+
+can be sent to the hostages at 
+the following address: 
+Hostages. U.S. Embassy. 260 
+Taleghani Avenue, Tehran, 
+Iran. 
+
+The cards should be sent 
+via air mail and should be 
+mailed by Dec. 5. 
+
+
+
+Geology students sell rocks 
+
+
+
+The Geology Club's annual 
+rock sale will be held in the 
+basement of Keltler Hall on 
+Monday, Dec. 8 thru 
+Thursday. Dec. II. The sale 
+begins at 10 a.m. each 
+
+
+
+mornmg. 
+
+Bookends, wind-chimes, 
+pen and pencil sets, 
+paperweights, and geodes 
+will be among the items 
+available. 
+
+
+
+LONDON SCHOOL OF ECONOMICS 
+
+A chance to study and live in London 
+
+e 'anQc ol sublacis and courses Is avallabto In Central Londc 
+
+
+
+
+
+
+IncluOo Accoundne and Finance. Actuanal Science, Anlhropaloay, 
+Business Sludlot, EconomBlrlcs, Economics, Economic HIslory. Geogfapfiy. 
+Govemmeni.lniluslrlalHe'Bllons. Inlarnallonal HIslory. Inlamatlonal Relations, 
+Law, Manegomeni Science. Operational Resaaich. Philosophy. Pollilcs, Social 
+Admlnlalrallon. Soda) Work. Socloloey. Social PsycfiolODy and SlallBlical and 
+MathemallcBl Sciences. 
+
+A plication blanks from i 
+
+Admissions Socrol a ry. L S E.. HoueMor. Stiaot. London WC2A SAG, England. 
+
+Plaaso slate whether |onlor year or postgraduate. 
+
+
+
+SUBOG FILM SERIES 
+
+
+
+PRESENTS 
+
+
+
+
+
+
+
+
+FRIDAY and SATURDAY 
+DECEMBER 5 &amp; 6 
+
+7 &amp; 10 p.m. 
+
+Walb Union Ballroom 
+
+Activity Card Holders: FREE 
+
+Others M .50 Admission 
+
+
+
+Subog &amp; DGTS 
+
+INVITES YOU TO 
+SEMI-FORMAL 
+
+X-MAS 
+DANCE 
+
+When: Saturday, 
+Dec. 6, 1980 
+
+Where: Downtown 
+Holiday Inn 
+
+Time: 6 p.m. cash bar 
+6:30 Dinner 
+8-12 Dancing 
+
+Tickets Available at 
+
+Walb Union Sweet Shop 
+
+Activity Card Holders '6.00 
+
+OthersMO.OO 
+
+No Tickets at the Door 
+
+
+
+RING-A-LING " 
+
+WAKE-UP 
+SERVICE 
+
+485-9162 
+
+
+
+DECEMBER4,I9B0— THECbMMUNICAT0K-PAGE3 
+
+
+
+
+
+y,mbito/Uii8BB 
+
+
+
+
+Late For Work? 
+
+Because you can't wake-up in the morning 
+
+Read On 
+No more Lost Wages; Speeding Tickets; 
+
+Explanations or Hassle with the Boss.... 
+Good News 
+
+We will call you each mornmg- You Say-When. 
+Just give us your phone number and 
+the time you wish to be called, we do the rest.... 
+
+Regiitered. Certified &amp; Insured by Ihf Slat f of Indiana 
+
+
+
+W^MiMMM* 
+
+
+
+W«M««M0«M» 
+
+
+
+CLASSICAL 
+
+
+
+Sundays 8 a.m.-8 p.m. 
+
+
+
+WIPU 
+
+
+
+service of 
+
+
+
+7TT" 
+
+
+
+SQiFMI 
+
+
+
+YOUR BEST INVESTMENT MIGHT 
+NOT BE STOCKS, BONDS, 
+PRECIOUS METALS OR 
+REAL ESTATE 
+
+
+
+
+IT MIGHT BE YOUR 
+PERSONAL COMPUTER 
+
+
+
+
+Maplewood Plaza 
+6024 Stellhorn Road 
+
+. J. ...n..- PROGRAM RECOKOtR 
+
+Fort Wayne, Indiana 46Bi5 i'lus EDUCATroNAL 
+
+MASTER CARTRIDGE. 
+YOUR CHOICE OF ANY ATARI TALK 
+&amp; TEACH EDUCATIONAL PROGRAM 
+IN STOCK. (WlK-n you luiy llu- Al.iri 40l)" persona, lompiik-r) 
+
+
+
+campus 
+calendar 
+
+
+
+Thursday 4 
+
+PIT, "Runaways," 8 p.nn. 
+
+University Women's Club Christmas Bureau Project 
+{canned goods, paper products, and other non- 
+perishable items) collection box located near 
+vending machine area in Kettler 
+
+Inter- Varsity Christian Fellow/ship, Noon, Walb 112 
+
+Purdue Convocation, Kettler G-46, 3 p.m. 
+
+
+
+FRIDAY 5 
+
+Dickens Dinner, 7 p.m., Ballroom 
+
+PIT, "Runaways," 8 p.m. 
+
+Men and Women's Basketball, Sertoma Tournament, 
+
+TBA 
+University Women's Club Christmas Bureau Project 
+
+
+
+SATURDAY 6 
+
+PIT, "Runaways," 8 p.m. 
+
+Dickens Dinner, 7 p.m., Ballroom 
+
+Men and Women's Basketball, Sertoma Tournoment, 
+
+TBA 
+Breakfast with Santa Clous, 10 a.m., Ballroom. 
+
+contact alumni office, 482-5343 
+
+
+
+SUNDAY 7 
+
+University Concert Bond, Neff 101, 3 p.m. 
+
+Guitar Ensemble, Neff 101 , 8 p.m. 
+
+. MONDAY 8 
+University Community Bgnd, Neff 101 , 8 p.m. 
+French Club meeting, Walb 114 Noon 
+Inter-Vorsity Christian Fellowship, Neff 147, Noon 
+
+
+
+TUESDAY 9 
+
+Soc/Anthro Forum, "Archaeology of Northeosterr 
+Indiana," Walb 114, Noon 
+
+
+
+WEDNESDAY 10 
+
+Basketball, Hope at IPFW. 7:30 p.m. 
+
+
+
+Campui Colendor li ipon»©rod by InJIono Unlver»lly-Purdue Unlv*r»[ly ot Fort Wayn* for Iho u 
+
+o* all unlvormlly rfopcirtm«nt. and organliallon*. Il»m. lo ba Includad In the Campui Calendar mi 
+
+be fobmltled to (he OHI« ol UnlMr.llv Relation*. Bm 102, Kettler Hell by 3 p.m. on the Thur«Ji 
+
+preceding the week of publication. 
+
+
+
+thcarts 
+
+
+
+PAGE 4 —THE COMMUNICATOR —DECEMBER 4. 1980 
+
+
+
+
+Pianist brings joy 
+
+
+
+(|'lirji»b&gt; IloldonMaecker.: 
+
+
+
+Cast is excellent 
+
+
+
+bvMiciiki.f: 
+
+DpVINNEY 
+
+TtiL' runaway dilemma in 
+America has reached 
+epidemic porporlions in 
+reconl years. H is not only a 
+problem in itself, bul also 
+serves as the result of and 
+the cause of many other 
+problems in the country 
+today, including child and 
+drug ahust', prostitution, and 
+)uvi'nile delinquency, 
+
+PIT'S production of 
+"Ilunaways," a musical by 
+F:iizabclh Swados. deals with 
+allot these issues 
+
+Those looking tor 
+lighthcarted fun and 
+whimsical amusement will 
+not enjoy (his play; it's a 
+grim, often brutal account of 
+several runaways, their 
+slories. and their slruggles 
+
+
+
+lo survive, 
+
+Unfortunately, most 
+people arc aware of the 
+situation but have heard so 
+many statistics that they've 
+lost sight of the humanity 
+involved. 
+
+"Runaways" represents 
+that humanity with com- 
+passion and gripping 
+realism, U may not be a 
+brightly entertaining play, 
+bul it's an important one. 
+
+Overall, PIT'S production 
+is highly commendable. The 
+cast is excellent, and they 
+work beautifully as an en- 
+semble. To single out in- 
+dividuals would be unfair; 
+each has his moment lo shine 
+and to contribute greatly to 
+the impact of the show. 
+
+Musically, the second act 
+was strongest, although both 
+
+
+
+acts had some very good 
+numbers. All of the voices 
+were strong, and the blend 
+was superb. 
+
+However, it was not 
+without flaws. The volume 
+throughout the play was 
+excessive, and some of the 
+explicilness wasn 'I 
+necessary to make the point. 
+While both may be totally 
+realistic, they tend to 
+distract from rather than 
+enhance the concept. 
+
+In fact, the most powerful 
+moment was one of the 
+quietest. The segment, "I 
+Went Back Home," from the 
+First act was both touching 
+and horrifying. It brought 
+home the message of the 
+play beautifully, and it's that 
+message that makes this 
+play worth seeing. 
+
+
+
+ByMlKEGp:FFEN 
+II was two-and-a-half 
+
+hours of pure joy when jazz 
+pianist Billy Taylor joined 
+conductor Ronald Ondreijka 
+and the Fori Wayne 
+Philharmonic for a special 
+pops concert Saturday nighi 
+al the Embassy Theatre. 
+
+The standard for the 
+ovening was set in the 
+middle of the Philharmonic's 
+opening set. Its rendition of 
+Mendelssohn's "Hebrides 
+Overture" was excellent and 
+showed off the string section 
+to good advantage. Despite 
+the nondescript nature of the 
+two tunes surrounding this 
+piece. Gold's "Boston Pops 
+March" and Gould's "Three 
+American Ballads." two 
+predictable tunes in- 
+lerweaved by hackneyed 
+themes of Americana, the 
+orchestra made a tough act 
+for Billy Taylor lo follow. 
+
+He succeeded in glowing 
+fashion, Taylor is a master 
+of the jazz piano and a 
+prolific composer He has 
+written over 200 com- 
+positions, including the score 
+for the popular Broadway 
+hit, "Your Arm's Too Short 
+to Box With God." He has 
+played with such jazz 
+giants as Dizzy Gillespie, 
+
+
+
+Duke Ellington and Charhe 
+Parker He can currently be 
+heard on Wl PU as the host of 
+National Public Radio's 
+"Jazz Alive." 
+
+Taylor's diverse talents 
+were apparent during his 
+compositions, "Impromptu" 
+and "Suite for Jazz Piano 
+and Orchestra" Both pieces 
+deftly showed how good 
+classical jazz can be, with 
+neither element over- 
+powering the other. The 
+"Suite." a work com- 
+missioned by the Utah 
+Symphony, provided a 
+superb showcase for Taylor 
+as he whirled into an 
+amazing cadenza, his hands 
+moving over the keyboard 
+with lightning speed. The 
+number also showed off the 
+talents of bassisi Victor 
+Gaskln and drummer Keith 
+Opeland, each of whom had 
+marvelous solos. 
+
+The evening really shifted 
+into high gear after the 
+Philharmonic left the stage 
+and Taylor and his men 
+played some tunes. Their 
+songs proved that jazz 
+needn't be an endless array 
+of one-note variations of the 
+same theme. The trio 
+showed the wide possibilities 
+
+
+
+inherent in jazz. Their set 
+was a study in contrasts, The 
+smooth melodic tones of 
+Richard Rogers' "My 
+Romance" were contrasted 
+with the hard driving edge of 
+"N.C.AG." Spiritual and 
+Gospel styles were con- 
+trasted with "Spiritual" and 
+"I Wish I Knew How It Felt 
+to Be Free," All of Ihese 
+numbers , showed the vir- 
+tuosityof the trio. 
+
+The highlight of the 
+evening came at the very 
+end when the trio performed 
+a Duke Ellington medley. 
+Their combination of 
+"Caravan" and "Satin Doll" 
+was unique and contained 
+some of the best, most for- 
+ceful jazz I've heard in 
+years. Their rendition of 
+"Satin Doll" in particular, 
+would have made Duke 
+proud. 
+
+The combination of Billy 
+Taylor and the Philharmonic 
+provided an evening of great 
+musical entertainment. The 
+audience loved it and gave 
+Taylor three standing 
+ovations during the course of 
+the evening. The concert was 
+enough to make the audience 
+want Billy Taylor to return 
+lo Fort Wayne soon. 
+
+
+
+
+'The Wiz^ has flaws 
+
+
+
+ByMIKEGEFFEN 
+Easing on down Ihe road 
+can he a l»umpy trip as The 
+Modern Dance Company of 
+Manhattan's production of 
+"The Wiz" proved when it 
+played the Embassy on 
+Saturday. Nov. 22. 
+
+Director-choreographer 
+Stephanie L, Terry's version 
+of Ihe Broadway hil had a 
+few fundamental flaws, but 
+Ihe production was saved 
+because of Ihe exhilarailh^'" 
+musical numbers. The 
+dancingwas nicely done, and 
+it kept the show from getting 
+bogged down. 
+
+Charlie Smalls' score was 
+exuberant, Tlie score had a 
+variety of musical styles that 
+set feel moving There was 
+so much joy involved in the 
+music. It was hard nol tofeel 
+it The material was simply 
+so strong that anyone with a 
+
+
+
+good voice could make it 
+
+work. 
+
+Songs like "Ease On Down 
+The Road," "Slide Some Oil 
+To Me," "So You Wanted To 
+Meet Ihe Wizard," "No Bad 
+News,' "Y'AII Got It" and 
+"Home" were all good 
+numbers and could have 
+been equally show stopping, 
+given the right performers. 
+
+The main flaw of the play 
+; was not with the numbers, 
+but the cast. The acting was 
+pedestrian. The cast seemed 
+to be chosen for musical 
+abilities rather than acting, 
+and performances suffered 
+as a result. The cast never 
+seemed to work together and 
+establish a rapport, much 
+less character development. 
+The actors were fine in their 
+musical numbers, bul one- 
+dimensional in their acting. 
+
+Sixteen-year-old Marline 
+Girautl, as Dorothy, was too 
+
+
+
+think american 
+
+
+
+whiney and unconvincing, 
+although she did belt out 
+"Home" with an un- 
+believable force. Peter M, 
+Wherry, Raymond Harris, 
+and Lawrence Clayton, as 
+the Tinman, Scarecrow and 
+Lion, were too conscious of 
+reacting on cue. 
+
+About the only one in the 
+cast who generated some 
+excitement in his singing and 
+acting was Preston Smith as 
+The Wiz. He was magnetic 
+and had a nice stage 
+presence. 
+
+All in all, though, "The 
+Wiz" managed lo overcome 
+its faults, and it was very 
+enjoyable. The actors did 
+very well with the songs, and 
+their exuberance made their 
+acting faults minimal. "Hie 
+near-capacity crowd was 
+enthusiastic, if somewhat 
+reserved at times. The trip 
+down the yellow brick road 
+was full of roadblocks, but it 
+was well worth the trouble. 
+
+
+
+Allen works dynamic 
+
+
+
+By NICKSTANGER 
+
+The Fort Wayne Museutn 
+of Art is hosting a very 
+special group of works, 
+mostly acrylics and 
+watercolors, by San Fran- 
+cisco artist Jesse Allen, 
+
+These dynamic paintings, 
+seemingly psyehadelic upon 
+first glance, are intensely 
+religious, said Allen, and the 
+religion is biology, 
+
+Jesse Allen was born in 
+Kenya 44 years ago. He was 
+there until he was 19 when at 
+about the same time, his 
+interest in art was developed 
+as a means of expressing 
+himself in a way to leave his 
+mark on the world. 
+
+His biggest influence in 
+painting was a biology 
+teacher in Africa The 
+teacher's impression on him - 
+is still consistent today. 
+
+His work examines man's 
+relationship with nature in 
+an extremely detailed style, 
+the same essentially as he 
+started using 16 years ago, 
+portraying imaginary, 
+exotic plans, plants and 
+animals. 
+
+His paintings of these 
+natural impressions, at first 
+priced in the hundreds and 
+now selling in the thousands, 
+appeal a great deal to 
+^iologists. geologists. 
+
+
+
+physicists, and doctors, who 
+make up much of his 
+clientele. 
+
+After Allen's move from 
+Kenya, he visited England 
+and Italy briefly and then 
+decided to "give the United 
+States a whirl," he slated in 
+a very definite British ac- 
+cent. He finally settled in San 
+Francisco, after discovering 
+the atmosphere was ex- 
+tremely appealing and 
+slimulaling both physically 
+(the temperature remains 
+fairly constant year-round,. 
+and he likes lo work when his 
+hands aren't too warm or too 
+cold) and menially, or 
+creatively. 
+
+Producing his art in the 
+I960's in San Francisco, he 
+felt many people plac^ his 
+work, mistakenly, in the 
+psychedelic catagory. 
+Although he has had some 
+psychedelic experiences, he 
+doesn't attribute his style to 
+them. 
+
+Allen admits that he 
+receives a great ' deal of 
+stimulation from the 
+vibrations and emotions that 
+impregnate the air in large 
+populations. 
+
+He can remember* things 
+that happened to him since 
+he was five years old, and 
+has always felt that 
+
+
+
+"everything around me has 
+seemed very, very 
+heightened..." 
+
+The man is very 
+productive, never having 
+fewer tlian four or five 
+projects going at the same 
+time, A beautiful piece, a 
+huge painting entitled "The 
+Eagle and the Hare," took 
+Allen five years to complete; 
+others take a week or more. 
+
+Many of the exotic 
+creatures pictured in his 
+paintings have human-like 
+qualities, which Allen has 
+said to be from himself. On 
+occasion when he needs a 
+break from working, he 
+looks over his "menagerie" 
+of animals and plants and 
+tries to get to know each one 
+personally. Each one, claims 
+Allen, is a separate being 
+requiring intimate contact. 
+
+Very few of his paintings, 
+although about nature, 
+require inspirations. All 
+come from his mind and 
+imagination; for every 
+painting done, many more of 
+these beings wait to be freed 
+onto the canvas. 
+
+The museum is now filled 
+with a great number of these 
+lantastic creatures. Be 
+brave and enter the unique 
+worldof JesseAllen. , 
+
+
+
+Jazz pianist Billy Taylor joined the Fort Wayne 
+Philharmonic for an evening ot great musical en- 
+tertainment Nov. 29. 
+
+art* 
+at a 
+r r glance 
+
+The social whirl 
+
+The annual D.G.T.S, Christmas Dinner -Dance will be 
+Dec. 6. in the grand ballroom of the Holiday Inn Down- 
+town. The bar will open at 6 p.m., and dinner will be 
+served at 6:30 p.m. Entertainment by the band, Choice.' 
+will be al a p.m. Tickets are available al the D.G.T.S. 
+main office and in the Sweet Shoppe for S6 for activity 
+cardholders, faculty and staff, and $10 for others. 
+
+Concerts of note 
+
+The University Concert Band will perform at 3 p.m., 
+Sunday, in Neff lot. 
+
+...The University-Community Orchestra will present a 
+concert at 8 p.m., Monday, in Neff 101, 
+
+...The Indiana University Pro Arte Ensemble, directed 
+by Thomas Binkley, will perform at 8 p,m,, Sunday, at the 
+First Presbyterian Church. 
+
+On the silver screen 
+
+The SUBOG film this week will be "Norma Rae," shown 
+
+in the Ballroom at 7 and 10 p.m, Friday and Saturday. 
+
+...The Cinema Center movie this week is "Despair," 
+directed by Rainer Fassbinder, It will be shown at 7:30 
+and 9:30 p.m., Saturday, at the Fort Wayne Public 
+Library. 
+
+Treading the boards 
+
+The PIT production of "Runaways" concludes this 
+weekend 
+
+...The Arena Theatre production of "The Vinegar Tree" 
+ends this weekend al the Chamber of Commerce. 
+
+
+
+I Gbf. GRINGO'S MEXICAN- 
+\ 
+
+'^ LUNCH SPECIALS 
+
+
+
+
+AMERICAN FOOD 
+
+
+
+UNDER ^S"" 
+
+
+
+•FAST SERVICE "EAT 
+BETWEEN YOUR CLASSES 
+•SERVING LUNCH UNTIL 5 P.M. 
+OPEN 1 1 :00 AM-MIDNIGHT MON-SAT 
+4:00 PM-10 PM SUN. 
+
+5629 ST. JOE RD. 485-5736 
+
+
+
+
+From The Stones t 
+&gt; Springsteen) Kink 
+jtoTheCars.Smd 
+
+I Qpllege audience^ 
+
+l.--L« overwhelmed. 
+I us; soon for 
+
+
+
+american federal 
+savings &amp; loan 
+
+
+
+Miiinortice Soulh Ottice 
+
+1036 CotOwalci Road Clinlon al fluditlll 
+
+Fori Wayno Indiana 46B0S Fen Wayne. Indiana 46007 
+
+
+
+where we're thinking of you 
+
+
+
+ECKANKAR 
+
+Presents 
+
+YOUR RIGHT TO KNOW 
+
+An introductory lecture 
+
+bosed on Sri Darwin Gross' book 
+
+by the sonne title. 
+
+_ Monday, Dec. 8, 12.1 p.m. 
+
+Room 222/Student Union Building 
+
+Free copies of 
+
+YOUR RIGHT TO KNOW 
+
+ot lecture 
+For further informotion coll 446-71 13 
+
+
+
+
+WORLD FAMOUS 
+
+
+
+"^^ef^re^'&lt;^ A^" 
+
+
+
+DANCERS-POOL 
+BEER-WINE 
+
+
+
+9S6 (^olutMH S(Mt. fUtd 
+
+
+
+424-9639 
+
+
+
+K-mart Plaza East 
+
+1 MILE NORTH of INTERNATIONAL 
+HARVESTER— NEXT TO MOTEL 6 
+
+
+
+1I;00 a.m. thru 3:00 o.r 
+
+
+
+
+/kale/ A' Tail/ 
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIRDS 
+
+AND A FULL LINE OF PET SUPPLIES. 
+
+----- COUPON 
+
+
+
+483-4930 
+
+
+
+OFF ANY ONE FISH OR BIRD 
+
+With This Coupon 
+Limit One Coupon Per Customer 
+COUPON _ 
+
+
+
+"OPEN 7 DAYS A WEEK" 
+
+
+
+
+SATURDAYS 9 p.m.-2 a.m. 
+
+WIPU 
+
+
+
+la service o 
+
+
+
+f W:- 
+
+
+
+-vrn 
+
+
+
+89iFiV\l 
+
+
+
+DECEMBER 4, 1980 — THE COMMUNICATOR - PAGE 5 
+
+
+
+Molly Hatchet plays 
+best Southern rock 
+
+
+
+- lAl.i'JI^-ieTllli. i .MM I LJ 
+
+
+
+GLENBROOK CTR. 
+
+
+
+ALL SEATS '3.00 
+
+
+
+lIDthWNltni] liri^r 
+
+"fiOCKT HORROR ^1 
+
+PICIURE SHOVf IRl fllUES BROTHERS IR] | 
+
+
+
+ByGRETCHEN 
+HOLODICK 
+
+On Nov. 24, Molly Hatchel 
+came to lown for the first 
+lime since December. 1978. 
+when they appeared at the 
+National Guard Armory. The 
+changes between the two 
+appearances were almost 
+too big for words. 
+
+The Coliseum did make a 
+difference of course, but the 
+biggest change was in the 
+band itself. The speakers 
+were huge compared to those 
+used in the last concert in 
+1978, Not only that, but the 
+distortion level was much 
+lower and amazingly 
+enough, the acoustics were 
+excellent considering the 
+Coliseum's reputation for 
+poor sound. 
+
+The group has in- 
+corporated quite a visual 
+show also. The lighting was 
+fantastic. With every chord, 
+
+
+
+there was a new stream of 
+light with every color 
+imaginable. The lights 
+correlated exactly with the 
+bands every movement and 
+sound. Three giant murals 
+were displayed around the 
+stage, illustrating the band's 
+Viking-like image. 
+
+The biggest change, 
+though, came in the area of 
+vocals. With Danny Joe 
+Brown gone, the group had to 
+find a replacement fitting to 
+the group's sound. In came 
+Jimmy Farrar, who wasn't 
+quite as gutsy, but seemingly 
+an excellent choice. He did a 
+fairly goodjobon some of the 
+band's old numbers like 
+"Dreams I'll Never See" and 
+"Gator Country." Unfor- 
+tunately, the rise to his usual 
+smooth intonation wasn't 
+quite as easy as one might 
+have thought, and this 
+became evident when he 
+
+
+
+sang "Beatin The Odds," the 
+title track off the new album. 
+
+The order of the songs was 
+tasteful. They kicked off the 
+hour and forty-five minute 
+performance with "Let The 
+Good Times Roll," Directly 
+after that, they went into the 
+new album, and finally a 
+mixture of the two. including 
+"Dreams I'll Never See" and 
+"Dead And Gone," a song 
+about heroin addiction. 
+
+The distance between 
+Jacksonville, Fia, and Fort 
+Wayne, Ind. can't be loo far, 
+or so it seemed that night 
+when Molly Hatchet ram- 
+paged the Memorial 
+Coliseum in high style. This 
+is probably some of the best 
+Southern Style Rock Fort 
+Wayne has or will every see, 
+and if rumors hold true, 
+there'll be standing room 
+only the next time Molly 
+Hatchet comes to town. 
+
+
+
+■ GENERAL CINEMA THEATRES 
+
+
+
+GLENBROOK CTR 
+
+485-8133 
+
+
+
+6DMLMEBEMJME 
+
+
+
+Ffi). S MON. THRU THUR. 1 :30 - 3:30 ■ 5;30 ■ 7i30 - 9i30 r==l 
+SAT. 8 SUN. 5:30 - 7:30 - 9:30 lES 
+
+
+
+My'Botfiigttartf 
+
+2:00 ■ 3:55- 5:50 -7:&lt;5- 9:45 [^ 
+
+
+
+Caddyshack 
+
+1.-15- 3 45 - 5:45 ■ 7:45 - 9:45 EJ 
+
+
+
+MIKE'S VW ... FOREIGN 
+
+CAR SPECIALISTS 
+
+HONEST WORKMANSHIP 
+
+Ft, Wayne's 
+Oldest Independent 
+V-W Repair 
+Shop. 
+
+NOW SERVICING HONDAS AND 
+MANY OTHER FOREIGN CARS 
+
+
+
+
+1720 S. Harrison 
+744-331 t 
+
+
+
+3102 E. Washington Blvd. 
+422-0218 
+
+
+
+
+'AMERICAN GIGOLO" 
+
+1:30-5:30-9:30 
+"WARRIORS" 3 40 7 40 [Rji 
+
+
+
+PLAYBACK 
+
+THE ELECTRONIC PLAYGROUND 
+
+CHRISTMAS SAVINGS 
+
+WITH OUR DECEMBER 
+
+COUPON SPECIALS! 
+
+
+
+COUPON 
+
+OFFERS GOOD ONLY WITH COUPON 
+
+
+
+SONY HFX 90 
+
+3 with case 
+
+$C99 
+
+
+
+TDK ADC 90 
+
+
+
+3 pack 
+
+$g99 
+
+
+
+OFFER GOOD UNTIL DEC. 24, 1980 
+COUPON 
+
+
+
+1010 Coliseum Blvd. E. 
+
+
+
+483-7510 
+
+
+
+Ft. Wayne, IN 46805 
+
+
+
+TIM CONWAY 
+
+"PRIVATE EYES" 
+
+1:40- 3:40 - 5:40 - 7:40- 9:40 
+
+
+
+[to] 
+
+
+
+"BEYOND THE FOG" 
+
+
+
+BARGAIN MATINEE DAILY 
+
+"FLASH GORDON" 
+
+1:00 - 3:15 -5:30- 7:45 - 10:00 
+
+
+
+iPGl 
+
+
+
+GOLD/E HAWN 
+
+"PRIVATE BENJAMIN" 
+
+1:30 - 3:35 ■ 5:40 - 7:45 - 9:50 
+
+
+
+H 
+
+
+
+CLASSICAL 
+
+Weekdays 
+
+1 p.m.-4:30 p.m. 
+
+and 
+
+5 p.m.-7:30 p.m. 
+
+WIPU 
+
+la service oflR^^^oQl FiVl 
+
+
+
+
+
+
+gi-u/t^ii 
+
+
+
+\l 1. O M D I IE 
+
+
+
+
+&amp;,t&lt;tiAUi 
+
+
+
+Atia^tUc 
+
+
+
+S.9g Uatlf, 
+
+
+
+
+BETTEJIDLER 
+
+'pi'Vrru: 'yy)a^ncd4__ 
+
+
+
+■•^♦- 
+
+
+
+Rs^ 
+
+
+
+BOOGIE WOOGIE aUCli BOr 
+CHAPEL OF LOVE MY MOTHERS EYES 
+
+
+
+$6,29 
+
+
+
+g.9Stat(/, 
+
+
+
+?.9? (M(/. 
+
+
+
+$6.29 
+
+
+
+$6.29 
+
+
+
+
+(?a/U(^ 
+
+
+
+
+
+MOON MARTIN 
+Street Fever 
+
+
+
+
+^^f^ 
+
+
+m 
+
+
+f\ 
+
+
+m^^^w^ 
+
+
+
+
+
+
+ssa 
+
+
+
+Star Wars Chriitmai Album 
+CHRISTMAS IN THE STARS 
+
+
+
+
+
+
+
+7.9^ Uitlfi 
+
+
+
+9Sg (M(/, 
+
+
+
+7.9g tiUt/&gt; 
+
+
+
+
+$6.99 
+
+
+
+$5,29 
+
+
+
+
+Give the gift 
+of music. 
+
+
+
+3627 N. Clinton Ft. Wayne 483-9290 
+
+
+
+"•••*•••••••••**•••*••**•••**•**•**•*•••••••••••••*■•••••*••♦•**•■*■*•••*•••*■******•******* 
+
+
+
+* 
+* 
+
+¥ 
+
+* 
+
+* 
+
+* 
+* 
+
+* 
+* 
+
+* 
+■k 
+
+* 
+* 
+
+* 
+
+
+
+PAGE 6 - THE COMMUNICATOR - DECEMBERS 1980 
+
+
+
+Financial chief named 
+
+
+
+Carnaghi joins staff 
+
+
+
+IPFW has s new chiof 
+
+
+
+j financial officer who will 
+; direct the financial and 
+J business affairs of this 
+campus. He is John R. 
+; Carnaghi, former assistant 
+; director of Wage and Salary 
+
+■ Administration at Purdue 
+i University, West Lafayette. 
+
+I Carnaglii's appointment 
+;becameefrccliveNov,24 He 
+: succeeds James A Thal- 
+
+■ cher, who resigned in Sep- 
+Jlember to assume the 
+I position of Vice-President 
+{ for Business Affairs and 
+JTreasurcr at SI. Joseph's 
+■College, Rensselaer 
+
+; fPFW Chancellor Joseph 
+;p, Giusli made the an- 
+;nounccnicn( of Carnaghi 's 
+•flppointmL-nl immediately 
+' (olIOHing his approval by the 
+Purdue University Board of 
+^Trustees at ils Nov. 21 
+meeting in West Lafayette. 
+•JEIis uppoinlmenl will come 
+
+
+
+
+John K. Carnaghi. new 
+Vice Chancellor for 
+FInonclal Affairs begins 
+his duties o( IPFW IhiK 
+week. (Pholo by Debbie 
+Canlwell) 
+
+
+
+before the Indiana 
+University Board of Trustees 
+at its Dec. Smeeting, 
+
+Carnaghi. a native of 
+Hcrrin, III. was graduated 
+from Soulhern Illinois 
+University in l%7 with a 
+bachelor qf science degree 
+and was fhe recipient of the 
+Wall SIreel Journal Award 
+for the highest graduating 
+grade index in the Marketing 
+Department 
+
+He received his master of 
+science degree in Education 
+Administration from Pur- 
+due, West Lafayette, in 1975. 
+
+His other honors include 
+Phi Kappa Phi Honor Sociely 
+membership and selection as 
+an Outstanding Young Man 
+in America. 
+
+Carnaghi is married to the 
+former Judy Walker of 
+Carbondale, 111. They have 
+onCson. Jason, 
+
+
+
+
+
+
+Ground Floor of the Student 
+Union • Walb Memorial Hall 
+Full Service Lunch 11-1:30 
+
+
+
+TRY "THE FORT" FOR BREAKFAST 
+BEFORE YOUR FIRST CLASS 
+
+DAILY BREAKFAST SPECIALS 
+SERVED 7:30 a.m. -10:30 a.m. 
+
+FRESH, HOT COFFEE TO GO! 
+
+
+
+Call us for Party Trays to go 
+
+for your holiday entertaining. 
+
+483-4733 
+
+
+
+;iFull-tiine students benefit 
+
+
+
+Fee buys coupons 
+
+
+
+tj UyJIM CHAPMAN 
+'* Resolution 81 and student 
+.coupons were key Issues 
+'when the Student Senate met 
+^ov. 19. 
+
+'' The passage of Resolution 
+jli called for the recom- 
+picndalinn of a speedy ap- 
+.proval by the admin isl ration 
+:for the Citizen's Cable 
+j(iookup at IPFW, This would 
+tillow IPFW to put student- 
+produced cable television 
+programs on Ihe air through 
+
+
+
+Citizen's Cable. 
+
+Citizen's Cable has offered 
+to provide all the necessary 
+equipment for Ihe hookup. 
+
+The Senate also ctat&gt;oraIed 
+on the distribution of the 
+student coupons. 
+
+"We wanted lo do 
+something for the sludenls 
+thai is concrete with their 
+activity fee," said Ellen 
+Engleman, who along with 
+Bob Gricble, is the project 
+director. 
+
+
+
+The coupons will be 
+distributed during the 
+regular spring registration 
+when the students receive 
+theiractivilycards. 
+
+The students will receive a 
+book of coupons that will 
+have a minimum 25 cent 
+discount toward grocery 
+slore and restaurant pur- 
+chases, 
+
+The coupons will be 
+limited to full-time (nine or 
+more hours! students only. 
+
+
+
+iChange delays aid 
+
+
+
+' A change in the 
+distribution of financial aid 
+tnonies for the spring 
+semester may cause tem- 
+porary problems for some 
+students when they go lo buy 
+books, according lo a memo 
+released by the Financial 
+Aid Office 
+
+Students will be able to use 
+financial aid money for 
+liultion fees, but the "change 
+inoney" — the money in 
+excess of what is needed/or 
+
+
+
+The 
+Communicator 
+
+is now 
+
+occepting 
+
+applications 
+
+for staff 
+
+nnembers for 
+
+the Spring 
+
+semester. 
+
+Call 
+
+482-5585 
+
+today. 
+
+
+
+fees — will not be disbursed 
+unlil Jan, 19. 19B1. This 
+means students will not be 
+able to buy books with 
+"change money" unlil the 
+second week of classes , 
+
+In previous years, students 
+could use all of their aid 
+money during the first week 
+of Ihe semester lo pay tuition 
+and book fees Because of a 
+high number of schedule 
+changes in the past which _ 
+required adjustments in 
+
+
+
+financial aid awards, of- 
+ficials felt the need for the 
+change in policy. 
+
+The financial aid 
+programs affected by this 
+change are: Basic Grant, 
+Supplemental Grant, 
+National Direct Loan and 
+Nursing Grant and Loan. 
+
+Students were advised this 
+fall that the disbursement 
+schedule for spring woulij be 
+revised. 
+
+
+
+MAKE YOUR CHRISTMAS EASY 
+
+
+
+
+EASY PARKING IN AND OUT 
+
+
+
+WE'VE GOT JEANS &amp; TOPS FOR EVERYONE 
+
+ALL DISCOUNTED PRICES 
+THERE'S ONLY ONE, THE ORIGINAL 
+
+GLENWAY 
+
+
+
+BARGAIN CENTER 
+
+
+
+3820 ColdwQter Rd. 
+-^'Across from Glenbrook Penney's 
+
+
+
+Open Evenings 
+Sunday 12-5 
+
+
+
+
+SPRING 1981 CLASS SCHEDULE 
+
+
+
+ly morning: 
+
+
+
+£ jnd S 
+
+
+
+leiy 
+
+
+
+Ine Conputcr 
+
+Buflncjs Admin {strati en' Introduction 
+Computers in Eusinesi with COBOL* . . 
+Bullness Computer SystcmiT RPG . . . 
+Ihe Early ChilOMood Educator .... 
+Introduction to Ei»ptiona1 Children 
+Intro, to Spec. Ed, for Crad. Stud. . 
+Behov. K Uoelop. of £1. Scnooi Child 
+fieadlng-Learrifi^ Tecdniquei 1 . . . , 
+Studied m Enqliih Language 
+
+Styllstici (Linguistics S ItteratureJ 
+
+
+
+ElemenCiry Cacposi 
+Elei^ntary Compoii 
+Introduction to Oi 
+
+
+
+eatlve 
+
+
+
+ino . . 
+
+
+
+r Advanced Placecent F 
+. IFrencfi-Englis 
+
+
+
+Non- 
+Technical, . _ 
+Colloquium in French Stu 
+Scientific 1 Medical Tr 
+American History 5iiict I 
+Plant Propagation . , . 
+Techniques of Hatntainin 
+Algebra , , 
+
+
+
+9 Kenta) Medlth Technology 
+
+(Challenge of Remarriage) 
+
+•Eight weeks beginning on February 
+g fiudlitents of Husic 1 . ...... 
+
+5 Critical thinking 
+
+Introduction to Philosophy 
+
+1 The Physics of Stereo Systems .... 
+7 Indiana State Government E Politics . 
+I Introductory Psychology [...... 
+
+General Social Psychology 
+
+1 Bestaurant, Hotel I Inst. Org. t Hgrat 
+
+6 Sociology of the Family .- . 
+
+i Ele.7snlary Spanish II , 
+
+3 First-Year Advanced Placement Spanish 
+
+i Second-Year Spanish 11 
+
+Contemporary Issues in Pub. Affairs 
+
+(Private Security) 
+
+" Kils for Public Mgmt 
+
+
+
+(Pri 
+
+
+
+nty) . 
+
+
+
+a Essentials of Supervisory Kanageront 
+
+9 Special Topics (Restaurant, Hotel i 
+
+Instiluilonal Org. and Hanagement) 
+
+1 Elements of Accounting Practice I*' ( 
+
+2 Elements of Accounting Practice l[**l 
+
+I Introduction lo Ketrics" I 
+
+1 Payroll Accounting'* I 
+
+"OGTS CAVE. 1120 South Barr Street 
+
+
+
+
+/Cjl Fort Wayne 
+
+V ^ FILM GUIDE 
+
+
+
+w 
+
+
+
+HOLIDAY 
+
+
+
+FINAL WEEK* DOW IdSTEREDPHOKIC SOUND 
+WAIT 
+DISNEVS 
+
+
+
+moBiasi 
+
+
+
+THE 
+
+PRIVATE 
+EYES 
+
+
+
+GEORGETOWN rr,;f°»'. 
+
+
+
+
+U)ST 2 WEEKS 
+
+
+
+
+
+
+ONE WEEK ONLY 
+BROOKE SHIELDS 
+
+&lt;THEBI»UE^ 
+bAGOONm 
+
+1 Colurrtiia PictufM "(lease ^""^ 
+
+
+
+
+QUIMBY VILLAGE ,f.?.T;?.?^'. 
+
+
+
+GOLDIE HAWN 
+as 
+
+
+
+
+FRANCIS FORD COPPOU 
+
+
+
+^^^':, 
+
+
+
+GATEWAY .f.!Lr.J 
+
+
+
+
+im |3»5 
+
+
+
+BtLMURRAY 
+
+HOvmnoHessEMAN 
+
+
+
+CINEMA 27 r 
+
+
+
+•EXCLUSIVE* 
+
+
+
+ONE 
+
+
+
+uirri, Cheech and ^_5, 
+
+mttK Chang's NextTr&gt; 
+DNiyi _ Movie "-^ 
+H 
+
+
+
+
+
+3816 E. STATE BLVD. 
+
+
+
+FREE Vz Pitcher of Pop &lt;. 
+
+
+
+With Medium Pina 
+
+
+
+FREEi Full Pitcher of Pop 
+
+
+
+{ With Urge Pizza. 
+
+I Not volid in coniunclion «ilh ony olhor olltrr 
+
+
+
+■M 
+
+
+
+MOVttKWITH THE TIMES 
+
+
+
+
+
+Fori Wayne 
+PUBLIC 
+
+TRANSPORTATION 
+CORPORATION 
+
+Information 432-4546 
+
+
+
+Budget cuts 
+slight gym 
+
+
+
+By JIM CHAPMAN 
+
+Because of a last minute 
+balancing of budgets in the 
+Indiana General Assembly. 
+the State Budget Agency and 
+the state legislature granted 
+IPFW $500,000 less than the 
+necessary funding needed to 
+build the Health. Physical 
+Education and Recreation 
+Building. 
+
+This shortage of money 
+might mean an empty 
+gymnasium with no lockers, 
+bleachers, physical fitness 
+and gymnastic equipment, 
+tables and chairs, 
+
+"If we don't get the ad- 
+ditional money, we will have 
+a Cadillac with no gas," said 
+John P. Ulmer, dean of 
+student services. 
+
+According to Ulmer, the 
+shortage is not uncommon, 
+and it was not a diabolical 
+scheme to cheat IPFW out of 
+a complete gymnasium . 
+
+Ulmer also mentioned that 
+IPFW and the Facilities 
+Planning Department of 
+Purdue, West Lafayette, 
+
+
+
+Classifieds 
+
+
+
+ENGAGED FOR CHRIST- 
+MAS? Beautiful 
+professional photo- 
+graphy and invi- 
+tations for your most 
+
+ENGAGED FOR 
+
+CHRISTMAS? Beautiful 
+professional 
+photography and in- 
+vitations for your most 
+beautiful wedding day. 
+Call 456-9047 today. 
+
+
+
+JEFF THE SINGING 
+MESSENGER delivers 
+all occasion singing 
+telegrams by phone or 
+in person. 424-1321. 
+
+
+
+RAT-RAT — How about ANC 
+— Three wOrds — 
+Charlie. 
+
+
+
+Communicator 
+Classifieds 
+
+
+
+were "right on target" in 
+estimating the total amount 
+needed to build the gym- 
+nasium. 
+
+Ulmer said the solution to 
+the problem is to go right 
+l)ack where IPFW started — 
+to the local legislators who 
+will represent this area when 
+the state legislature meets in 
+January. 
+
+"We are in debt to the local 
+legislators here in Fort 
+Wayne," said Ulmer. 
+"They're the ones that are 
+
+
+
+responsible for getting the 
+building started. " 
+
+Since the legislators were 
+very instrumental in gelling 
+construction underway, the 
+administrations of IPFW, 
+West Lafayette, and 
+Bioomington will ask them to 
+seek the restoration of the 
+money when they represent 
+fPFW in January. 
+
+"I am reasonably con- 
+fident and optimistic that our 
+request will be granted," 
+said Dean Ulmer. 
+
+
+
+
+
+THE 
+
+MUNCHIE 
+
+EMPORIUM 
+
+DECEMBER SHRIMP FEST 
+
+•k Buckets of Broiled Shrimp Marinated in Beer 
+• 25' Beer 3:00 to 5:00 p.m. 
+
+Sat., Dec. 13, 1980 
+12:00 Noon to Midnight 
+
+1109 Taylor Street 
+(Across from the Scorpion) 
+
+
+
+
+
+
+INSTANT COPY 
+
+JUST A MINUTE AWAY 
+
+
+
+3420 
+
+NORTH ANTHONY 
+
+482-1126 
+
+
+
+IN THE NORTH ANTHONY 
+
+SHOPPING CENTER 
+
+DOWNTOWN INTERSTATE INDUSTRIAL PARK 
+
+232 W. WAYNE 1516 DIRECTORS ROW 
+
+4221585 484-9116 
+
+COMPLETE PRINTING SERVICES 
+
+
+
+WE WANT TO BE YOUR PRINTER 
+
+
+
+DECEMBER 4, 1980- THE COMMUNICATOR - PAGE 7 
+
+MEN- WOMEN 
+
+Look beyond graduation 
+—learn a skill. 
+
+
+
+
+After commencement, success comes osier ~ 
+to those with both o degree and useful skill. 
+The Army offers more thon 200 skill training 
+programs. Look ahead. Serve your country as 
+you serve yourself. 
+
+Call Army Opportunities 
+745-4948 
+
+Join the people wfio've joined the Army. 
+
+
+
+
+WANTED: COPY EDITOR 
+
+Time is running out. The Com- 
+municator still has an opening for 
+copy editor. Any interested student 
+who enjoys working with words, 
+grammar, spelling 
+and punctuation, 
+and who has had 
+some prior writ- 
+ing experience 
+should contact 
+Sandra Wiley in 
+the Walb Memor- 
+ial Union, suite 
+215. 
+
+Apply soon. 
+Time is running 
+out. 
+
+
+
+Dead 
+
+
+
+
+
+The Fox 
+
+
+
+
+5^16 to ===22 
+
+The Fox" shirts. Good 
+looking, greal fitting knits 
+thai won't cost the shirt oil 
+your back. They're Dacron^ 
+polyester for easy care, 
+combed cotton lor-com- 
+fort. In solids and stripes. 
+S,M,L,XL. 
+
+The Fox'" sweaters. Line- 
+for-line, slitch-for-stitch 
+the same as the famous- 
+name sweaters. Choose 
+V-neck or golf cardigan of 
+soft acrylic knit. Light blue. 
+Augusta green, navy, 
+camel, heather blue or 
+grey. Sizes S,M,L,XL. 
+Fox shirt, solids, $16 
+Fox V-neck sweater. $20 
+Fox cardigan sweater, $22 
+
+
+
+Of course you can charge il 
+
+
+
+JCPenney 
+
+
+
+„. The Christmas Place 
+
+
+
+Glenbrook 
+Southtown 
+
+
+
+
+FOLLETT'S 
+FORT WAYNE BOOKSTORE 
+
+
+
+Ground Floor Kettler Hall 
+483-6100 
+
+
+
+IPFW Tae Kwon Do 
+club stresses fitness, 
+supports new interest 
+
+
+
+ByMlKEIlOLLEV 
+
+The ancient arl of Tae 
+
+Kwon Do can besl be 
+
+described as lighlning East 
+movemenis performed with 
+exacting skill and 
+judgement. Ancient forms of 
+material arts are today 
+being practiced not only for 
+self defense, but also for 
+physical filness and sports 
+competition. 
+Tae Kwon Do means "the 
+
+
+
+way of list and foot 
+fighting." and it says the 
+hands, fists and feet are the 
+only weapons used. Physical 
+strength is not an important 
+factor in Tae Kwon Do. 
+although participants 
+practice regularly to keep 
+limber and agile, as these 
+trails are stressed. 
+
+Tae Kwon Do is available 
+to IPFW students through 
+the Tae Kwon Do club, which 
+
+
+
+■neels Saturday and Sunday 
+aflernoons in the Walb 
+Memorial Union. The group, 
+led by Eric Converse, 
+competes in local and 
+regional tournaments, 
+giving individuals a chance 
+to exhibit theirskills. 
+
+Members of the IPFW Tae 
+Kwon Do club tend to shun 
+recognition and maintain a 
+low profile in their sport, as 
+do most practicers of the 
+
+
+
+Public 
+person's 
+
+
+
+
+Eric Converse and Sue Helton demonstrate another 
+maneuver in (he arl of Tae Kwon Do. 
+
+
+
+martial 
+knowledge 
+
+prowess in the martial arts 
+oftentimes leads to un- 
+necessary and unsolicited 
+confrontations. Students of 
+Tae Kwon Do are taught first 
+to avoid fighting, and to use 
+their skill only as a last 
+resort. 
+
+There are two types of 
+competition categories, Free 
+Fighting and Skill 
+Demonstration. Free 
+Fighting is one-on-one 
+competition where com- 
+petitors use punch and kick 
+techniques lo score points. 
+Matches last one round of 
+pre-set length with the 
+winner being determined by 
+the greatest amount of ac- 
+cumulated points. 
+
+Skill Demonstration allows 
+each competitor to show 
+mastery and proficiency of 
+class skill. Each individual is 
+evaluated by five judges who 
+score the participants much 
+like that m Olympic com- 
+petition. 
+
+Participants in Tae Kwon 
+Do are classed according lo 
+the skill they demonstrate in 
+strict testing procedures. 
+These classes are white, 
+yellow, green, blue, red- 
+brown and black. The class 
+breakdowns are used to 
+determining the competition 
+category. 
+
+
+
+
+IPtW Tae Kwon Do club member Sue Helton breaks a 
+hold by coach Eric Converse during a workout. The club 
+participates in local and regional competition in Tae 
+Kwon Do. 
+
+
+
+The physical fitness aspect 
+of Tae Kwon Do is quite 
+impressive. Participants 
+work out daily, and this 
+reporter saw individual 
+demonstrations of kicks well 
+over my six foot frame 
+performed in dance-like 
+fashions by persons shorter 
+than myself. 
+
+As a self defense, Tae 
+
+
+
+PAGE B —THE COMMUNICATOR —DECEMBER 4, 1980 
+
+•••in brief 
+
+Buy Sertoma passes cheap 
+
+Advance tickets for the fourth annual Sertoma Tip-Off 
+Basketball Tourney are still available from the athletic 
+department. 
+
+The advance tickets are good for the entire tournament. 
+The cost is $3.00. 
+
+IPFW, St. Francis, Indiana Tech and Taylor College's 
+women's teams and IPFW, St. Francis, Indiana Tech and 
+Concordia's men's teams will participate. 
+
+The Tuskers will open the action in both divisions on 
+Friday, with the women playing at 3 p.m. and the men at 7 
+p.m. 
+
+Tickets purchased at the door will cost $2.00 per session. 
+Part of the proceeds from tickets purchased early at 
+IPFW will be donated by the Sertoma Club to the Tusker 
+athletic program. 
+
+The discount advance tickets are available at the 
+athletic office. Room 210, Walb Memorial Union, at the 
+popcorn machine in the basement of Kettler Hall, or from 
+the cheerleaders and members of the men's and women's 
+basketball teams. 
+
+
+
+Kwon Do offers, as a last 
+resort, a very effective form 
+of protection. 
+
+■The Tae Kwon Do Club is 
+open' to any IPFW student, 
+faculty or staff member who 
+wishes to participate. There 
+are no pre-requisites to join, 
+Eric Converse invites in- 
+terested persons to stop by 
+and watch a practice 
+session. 
+
+
+
+New faces on women^s 
+b'hall; Voisin confident 
+
+
+
+By CHRIS PVLE 
+
+"I have confidence in my 
+players," remarked Coach 
+Peggy Voisin about the 1980- 
+81 IPFW women's basketball 
+team. 
+
+Unfortunately, the season 
+had a slow start. Only two 
+players, Karen Dircksen 
+Kim Heimann returned from 
+last year. Voisin encouraged 
+some of her volleyball 
+players to join the basketball 
+team Those who joined 
+from the volleyball team 
+were Sue Hendricks, Amy 
+Brunow, Jo Wille. Laura 
+Franke and Peggy Link, To 
+round out the team, there are 
+five new faces: Linda 
+Wilcoxsen, Cathy Kortenber, 
+Clare Davich, Kathleen 
+Smith, and manager Linda 
+Przeniczny Smith will join 
+second semester. But it 
+wasn't until last Tuesday 
+that the Tuskers held a 
+practice with all members 
+present. 
+
+Despite the stow start. 
+
+
+
+Voisin is very optimistic. 
+"We've got people on (he 
+bench thai can replace other 
+players." she said. Six of the 
+girls played previously, 
+Hendricks, Heimann. 
+Brunow, Dircksen. 
+
+Wilcoxsen, and Smith have 
+basketball experience. 
+
+Looking ahead, Voisin 
+commented about her 
+players, "I anticipate Karen 
+Dircksen to be the leader 
+Kim Heimann is a good free 
+shot shooter and she blocks 
+well for her height 15'5"). 
+Sue Hendricks is an all- 
+round good basketball 
+player. Basketball is really 
+her game rather than 
+volleyball. She coaches 5lh- 
+and 6th-grade girls 
+basketball. Clare Davage 
+directs the ball around. 
+Cathy Kortenber is very 
+quick. Amy Brunow is one of 
+our tallest players 15'9"} and 
+was one of Fori Wayne's top 
+senior high school basketball 
+
+
+
+players. Laura Franke is a 
+little unsure. She is presently 
+our tallest player (5'10")and 
+is trying to jump more, 
+Peggy Link will be playing 
+the outside field more. She 
+also coaches 3th-and 6th- 
+grade girl's basketball. Jo 
+Witte is more unex- 
+perienced, but she is doing a 
+remarkable job picking 
+things up, Kathleen Smith 
+will be a help next semester. 
+She excited the team when 
+she walked into practice. 
+Kathleen stands around 6 
+fee!. The girls gel along well. 
+They are very coachable." 
+
+Voisin will receive 
+coaching assistance from 
+Bill Bruening. Bruening has 
+watched women's basketball 
+in previous years, and he 
+now runs practice if Voisin 
+can't be present, "It's nice to 
+have an assistant coach," 
+says Voisin. "He knows 
+basketball and the girls get 
+along with him." 
+
+
+
+Every team has goals to 
+achieve. The Tuskers have a 
+few of their own. They^d like 
+to belter last year's record of 
+4-20, Also, the team hopes to 
+win the Northern District 
+competition, which IPFW 
+will host February 26, 27 and 
+28. The district champ and 
+runner-up will go to the slate 
+tourney in Anderson. 
+
+To accomphsh these goals, 
+the team is being taught the 
+very basics of basketball. 
+This includes terminology, 
+plays, offense and defense. 
+Many of the members 
+haven't played competitive 
+college basketball, but 
+Voisin said they "have a lot 
+of heart and desire," and the 
+players are trying to sort out 
+all the information fed to 
+them. 
+
+Fans are welcome and 
+encouraged to attend games. 
+This year, the Tuskers have 
+an advantage; more home 
+games. Attendance at games 
+
+
+
+can be enhanced by an un- 
+derstanding of some finer 
+points of women's basket- 
+ball. First, there are 20 
+minute halves rather than 
+quarters. Then, the Tuskers 
+must play be a 30 second shot 
+clock where they have 30 
+seconds to get rid of the ball 
+or shoot. The shot clock is 
+used by the women's 
+tjasketball teams only. 
+Finally, there is no over and 
+back. Surprised? Many 
+people are unfamiliar with 
+these rules. It is important to 
+learn these rules to fully 
+understand and enjoy the 
+game. 
+
+Friday, at 3 p.m. the 
+Tuskers 'will open their 
+season and the Sertoma Tip- 
+Off Tourney with a game 
+against Indiana Tech. Voisin 
+anticipates the home game 
+to be a win. "I think we can 
+beat Tech. They (Tech) are 
+big but slow." 
+
+
+
+To open Sertoma Friday 
+
+
+
+Tuskers fall in 3 of 4 starts 
+
+
+
+
+IPFW freshman forward Gary Rlnard goes up tor two 
+more of his 19 points against Concordia Theological 
+.Seminary last week. The Tuskers beat ihe Klngstnen. 102- 
+6i. for their first win in three starts. (Photo by Doug 
+Householder.) 
+
+
+
+By GARY 
+BAUMGARTNER 
+
+The 1980-81 men's 
+basketball season is off to a 
+somewhat dreary start as 
+the Tuskers dropped three of 
+their first four games. 
+
+The cagers lost both 
+games at the season opening 
+Cedarville Invitational 
+Tournament, but then 
+twuneed back lo defeat 
+Concordia before falling to 
+Kalamazoo over the 
+weekend. 
+
+Head coach Ken Workman 
+felt his squad "could well 
+have been 3-1" after the 
+opening stretch, rather than 
+1-3. He felt the Tuskers 
+played well at Cedarville — 
+".,,for one half each 
+evening." 
+
+The Tuskers lost to host 
+Cedarville in the opener. 77- 
+68, and then dropped the 
+consolation game with 
+Kenyon College the following 
+night, 72-57. 
+
+Junior forward Rickie 
+Smith led Ihe IPFW scoring 
+at Cedarville as he dumped 
+in 18 and then 22 points in the 
+two games. Also, in the first 
+game, Brian Grady led the 
+Tuskers with 20 points and 
+freshman Gary Rinard 
+contributed 12. 
+
+
+
+Last Tuesday, the Tuskers 
+returned to their home court 
+at the Concordia Theological 
+Seminary to host Concordia, 
+The Tuskers proved to be 
+ungracious hosts as they 
+defeated the Kingsmen, 102- 
+64. 
+
+Four players hit double 
+figures for IPFW. Smith . 
+again led all scorers with 24 
+points. Rinard added 19, 
+Grady, 14, and Kendall 
+Murphy, 12, in the victory. 
+
+On Saturday, the Tuskers 
+fell short in their bid to 
+defeat visiting Kalamazoo 
+College, IPFW led at the half 
+by one, 4241, but was behind 
+by three at the final buzzer. 
+76-73. 
+
+Smith once again led the 
+Tusker scoring with 17 
+
+points. Rinard added 14 and 
+Ron Bejrab, 10, in the losing 
+cause. 
+
+Despite the poor -start, 
+Workman is encouraged. 
+"Al this point last year, we 
+were giving up 90 points a 
+game, scoring G2," he said. 
+"Now we are averaging 75 
+and giving up 72 per game. 
+We have reduced errors by 
+lOpergame. ' 
+
+Workman also pointed out 
+the Tuskers will have a 
+
+
+
+balanced scoring attack in 
+games to come. 
+
+Smith is currently in the 
+top NCAA division III 
+standings in points per game 
+(20.3), rebounds (11.8) and 
+field goal percentage (51 
+percent). Rinard is 
+averaging 13 points per 
+game and Grady, 12. 
+
+Workman agreed the 
+problem in the first games 
+was mostly mental. "We 
+need better concentration, 
+better boardwork," he said. 
+"They'll come around as 
+they adjust to playing 
+together." 
+
+As pointed out before the 
+season, size is still a 
+problem, but The Tuskers 
+are playing aggressive 
+under the boards and have 
+thus far outrebounded their 
+opponents. 
+
+IPFW opens the Sertoma 
+Tourney this Friday at 7 
+p.m. against Indiana Tech. 
+"Tech has to be favored for 
+Ihe Sertoma," Workman 
+said. "They have a scoring 
+punch that won't quit and 
+excellent rebounding. They 
+should dominate the city." 
+
+Also playing in the Ser- 
+toma will be St. Francis and 
+Concordia. The Tuskers next 
+home game will be Dec. lOat 
+7:30 againsi Hope College. 
+
+
+
+
+
+Gifts 
+Galore! 3 
+
+
+
+Is More Than Just A Ski 
+
+Shop! We Have Lots Of Gifts For 
+
+The Non-Skier On Your List. 
+
+Enjoy the world outdoors with quality camp- 
+ing and backpacking gear including: packs, 
+outdoor footwear, canoes,' tents, sleeping bags. 
+Swiss army knives.^ and an outstanding selec- 
+tion of clothing. Root's has 
+vests, hats, gloves, socks, wool 
+and chamois shirts, underwear 
+and turtleneck sweaters. Check 
+out our fine tennis selection, stadium blankets, 
+mail boxes, bird feeders, sunglasses and snow 
+shoes! 
+
+&gt;|r;||| Root's Gift Rcgistery! Leave 
+IvCUU your name and gift list with us. 
+NOW OPEN SUNDAYS til Christmas Ipm to 5pm 
+Shop Mon.-Wed.-Fri. 1 0-9 Tues.-Thurs.-Sot. 10-6 
+Layaway and Bonk Cards Available 
+
+
+
+
+
+
+featuring.... Dancing 
+Daily 
+
+from 11:00 a.m. to 3:00 a.m. Mon. thru Sot. 
+
+
+
+• SANDWICHES 
+
+• TRY OUR 
+CARRY-OUT 
+
+• PIZZA 
+
+r-club 
+
+You must be 21 to enter. 
+1018 Coliseum Blvd. E. 
+
+
+
+Exotic Shows Nightly 
+Mon. thru Sat. 
+
+
+
+Special Celebration 
+Mon. thru Thurs. 5 pm - 6 pm 
+
+
+
+Open 1 1 -.00 om 
+lo 3:00 am 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1751 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i14indi/communicatorv20i14indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i14indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i14indi">The Communicator</a>"
+          </h1>
+          <pre>
+Readership 
+
+Decline hurts Christian Science Monitor/Page 2 
+
+
+
+Philharmonic 
+
+Orchestra presents annual Pops Concert/Page 7 
+
+
+
+(Year in Review 
+
+I Photo essay looks back at 1988/Pages 9-12 
+
+
+
+The Communicator 
+
+
+
+* 4 
+
+
+♦ 
+
+
+4 
+
+
+&lt;';V 
+
+
+4 
+
+
+* 4 
+
+
+* 4 
+
+
+*-4 
+
+
+* 4 
+
+
+&gt;$: 
+
+
+A 
+
+
+'•".■ 
+
+
+4 
+
+
+'&amp; 
+
+
+A 
+
+
+•;./ 
+
+
+A 
+
+
+v 
+
+
+A 
+
+
+'■&gt; 
+
+
+4 
+
+
+&lt;# 
+
+
+4 
+
+
+* 
+
+
+4 
+
+
+VOL.XX, ISSUE 14 
+
+
+
+
+
+
+
+
+
+
+Indiana University-Purdue 
+
+
+Univ 
+
+
+«*, 
+
+
+at Fort Wayne 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+December £ 
+
+
+, 1988 
+
+
+
+Quote of the week 
+
+
+
+"This is the third title I have held, but I'm 
+ing the same job." 
+
+— Marjorie Souers 
+
+
+
+New dean, director selected 
+
+
+
+Souers, Callen named to posts 
+
+
+
+INFOGRAPHS- 
+
+FAF forms for '89 available 
+
+
+
+Director of division same taenia ,-&gt;r.,m-an^ and siud.-ms 
+
+.l-ildn] l.rlnn- " Sulll.T- -.o.l 
+
+named dean of school ch ^ e e re e fe n A SSffofSelS 
+
+
+
+New director hired 
+for student activities 
+
+By DAVID N. BENSON 
+
+
+
+and college work-study. The priority filing date for the 89-90 FAF 
+scheduled for Feb T, if, m.i :.'». m Walb Memorial Union Suite 224. F( 
+
+ASTD chapter organizes 
+
+The student chapter of the American Society for Training and D 
+velopment will have its organizational meeting on Tuesday, Jan. 1 
+1989, from 7:30 to 9 p.m. in Walb Memorial Union Room 222. Office 
+will be elected and goals for the organization will be presented. Fi 
+more information contact LaVerne Ludden, assistant professor 
+
+ISO hosts Christmas party 
+
+pizza will highlight the festivities. 
+
+Open fencing tournament held 
+
+aUI)''a'm"and will include fencers Irom IPFWand St. Francis Collef 
+
+Holiday concert presented 
+
+
+
+
+Workshop teaches students career-pathing 
+
+
+
+2&gt;h This Christmas concert is free. The 
+Brennan. associate professor of English, on i 
+
+oIIut local musician, including Gregg C 
+pcnnvwhisllc. pcicnssiuii ,md vocals; Bob ! 
+
+
+
+'Breakfast with Santa' set 
+
+Student Activities Board and the Women's Center on Saturday, Dec. 17, 
+from 10 a.m. to noon in Walb Memorial Union Suites 222, 224 and 226. 
+This holiday event is open to all faculty, staff and students and their 
+
+
+
+payable to IPFW Student Act, 
+
+Correction 
+
+
+
+Newspaper finishes semester 
+
+sprinV'semester onThursda) 198! d ." inB d 5 e , , '™| l/ wi J ! a k ' J! 
+
+
+
+4^4^4^4^4 
+
+
+
+
+Used booksale planned 
+
+
+
+Gregg Sohmit 
+
+i..iiii..| •■ .14 
+
+
+
+I the sale should include 
+
+
+
+president of stud-ni k-mslaii.. 
+
+
+
+ISO names new officers 
+
+
+
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Christian Science Monitor 
+
+
+
+Decline in readership 
+hurts good newspapers 
+
+
+
+newspaper readership, 
+year newspaper circ 
+
+slightly and over time newspapers ieei 
+the pinch. For example in 1986, 17 
+newspapers ceased publishing, and 12 
+ih-v.-mm|.xts found it necessary to 
+merge with other newspapers. Even 
+■" ■ J aily newspapers were 
+
+
+
+cover the paj» 
+
+first. The Moni 
+
+;very of church by tx 
+
+falls newspaper, Th 
+
+
+
+I I ,i,|,..1m mi 
+
+
+
+'&lt;£?; 
+
+
+
+Kjlln'nrif Canning, is highly* r 
+She served as the hn.1 won, 
+i Society 
+
+
+
+ago, the Monitor pne.es The .11 In irs \ 
+
+
+
+shorter and 
+depth. 
+
+
+
+News- 
+The paper's specialty 
+
+
+
+ved by the paper's high-ranking edi 
+
+s. Fanning has resigned. So have 
+
+,.,,,, ; , ,, ,„o other top editors, and many prom- 
+
+™?inSeffrPMrthS f^w ■■ " llir '" ' '"'ning says she 
+
+writeS ff. St for "emystif^ng fXfu-rfS version ° f ^ Monit0r 
+
+Monitor &lt;srwialtv An advantage newspapers enjoy over 
+'^ other forms of media is thai news- 
+Even so, the paper was beset with papers are able to go into serious is- 
+numerous problems. Although it was sues with mine ileplh than can nther 
+widelv respeeled it-- nvt.ulntmn was ft mi is el media What might be a 30- 
+only 170,000 and its advertising is second story on a radio news break can 
+sparse. Since the early 1960s the paper be a story several pages long in a 
+lost money. paper. The changes that have been 
+The Christian Siieme church, which forced on the Monitor should be 
+publishes the paper, was willing to mourned. 
+
+'Geraldo' 
+
+New TV sensationalism 
+appeals to many viewers 
+
+
+
+WZ3 
+
+m ■ 
+
+
+
+
+&amp;W IT$ MFACT- *; 
+fo%t OX THIS WJM 
+
+
+
+V 
+
+
+
+\U 
+
+
+
+
+■'Trash TV." The 
+
+
+
+.Minutes.' "Dynasty" and ' 
+
+
+
+Games can help teach the rules of finals week 
+
+By DAVID N.BENSON looked like For example, opoly teaches that the rules First Amendment rights does not exist, 
+
+any successful game should important as the game it- it had been discriminated Seeing things that art 
+
+Uiirine. the Great De- have a definite, fixed goal. self. With finals week ap- against. I did a nice job on there can be fatal v 
+
+}.i. luii an unemployed In this game, players wenl preaching the mosl im- the First Amendment part taking an exam. On a v. 
+
+engineer by the name of around the same board over portant amplication of this but I completely forgot to history test, I had to an." 
+
+( li.-rh ■• h.trraw invented a and over again. Parker idea is to exams. Exams answer the part on dis- a question on the Fn 
+
+game that everyone he Bros, also believed that any are like games. Both have a crimination, I had studied revolution I failed to : 
+
+knew loved. People would successful game should goal. More important, un- for the exam by paying question clearlj 
+
+I'-'Nm'. i-v.-ii iii.iiI. nil,, „u" in p!av. Darrows key to understanding the Amendment, but I ignored ological account. But 
+copies of it to friends. Fi- Finally, Parker Bros, 
+nally he took the advice of lieved that even small 
+
+
+
+i i an- question was not asking 
+ion, I that. All the question 
+
+Parker Bros! of. thinking, completely Lessons can be drawn French society. TSdnmty 
+
+
+
+itself. Some because I insi 
+
+
+
+I a 37 percent share of 
+
+In an effort to rec 
+. Oprah Winfrey 
+
+highly-publicized 
+
+
+
+stead of buying the derstand r i rreath the board. The 
+
+
+
+and Phil Donahue 
+
+
+
+
+Sports 
+
+
+
+The Communii 
+
+
+
+'Dons win with defense N T CAA Tou ™ y 
+
+s^gj Lewis Flyers eliminate IPFW 
+
+The Lady Dons 
+:oach. Teri 1 
+
+The IPFW Volleyd-ons 1 
+
+_ w'u 1 ' Volleyball Toufna 8 
+
+Idogs Ihe game _^ ; t^&gt;7 ^L ^"^ ' ■ mem began 
+
+lii,:&gt;fl.&lt;y .w ^-T^^ B W- A - B Friday Dec 
+
+nter The n P nSU" h ':;'" N Hb^T *.: &amp;i Th &gt; v "'Vvdons fell in reg,. 
+
+'hnSfh^S ft 
+
+1 ' '"""°VZ^'J'n!",llTx recora oi 27 and 12. me Albersmeyers was credited 
+
+,-.. JiE^S ^ G Tvctorn W ey n mSn SVSjZ a "'" 23 digS 
+
+
+
+
+
+IPFW WEEK 
+
+December 12-17 
+
+CREATIVEHAIR CO 
+
+In The Marketplace of Canterbury 
+Student &amp; Staff Specials: lU^ 
+Haircuts - $6 $5 Off All Perms 
+
+
+
+Mastodons' record perfect 
+
+By MIKE LINVI1XE game from the three-point scoring with 21 poir 
+
+Sports Editor arc. The 5-11 guard hit four Roland turned in a co 
+
+three-pointers and scored a plete game with nine 
+
+The IPFW men's total of 16 points. Llovd bounds, three steals e 
+
+":ent their Sereent added 13 Mints to two assists. 
+
+did Davis topped t 
+
+
+
+n's total of 16 pom 
+icis Bruce Roland. 
+
+
+
+
+
+
+ory. IPFW shot 53 per- 
+
+
+
+tSsFfs 19 f Br s! 
+
+
+
+game, shooting 50 percei 
+
+alftime and 41 percent on three poii 
+
+lead hold shots. 
+
+to 65 win Roland tops the team i 
+
+d Institute, scoring, rebounds, steal 
+
+
+
+shot well, senior is averaging 
+
+26 of 64 at- points and eight rebour 
+
+;rcent while game. The Mastodon 
+
+Four Mastodons were in percent of their shots. Free three blocked shots. 
+
+double figures, led by throw shooting was not Upcoming games 
+
+junior college transfen p I I .mthwood 71 Indiana Tech today at 
+
+10, and from the free throw rebound battle 45 to 37. State. Saturday, Dec. 
+
+
+
+RAINBOW PALACE 
+
+
+
+N. Clinton Ft. Wavne, Ind. 46805 
+
+
+
+
+
+MUFFLERS • EXHAUST • CUSTOM BENDING 
+BRAKES • SHOCKS • STRUTS • COIL SPRINGS 
+
+FAIR'S NOT JUST A NAME ITS OUR WA Y OF DOING BUSINESS 
+3 LOCATIONS TO SERVE YOU 1515 Coliseum 
+
+
+
+
+T71Tlf MUFFLER 
+iiulJ SH0PS 
+
+
+4411 LimaRd. 
+482-3618 
+NOW OPEN 
+
+4832 S. Calhoun 
+7440303 
+
+
+
+
+
+
+•15.00 OFF 
+
+ANY PURCHASE 
+
+OVER '125 
+
+
+•10.00 OFF 
+
+ANY PURCHASE OF 
+
+'80 TO '120 
+
+
+•5.00 OFF 
+
+ANY PURCHASE UF 
+
+'20 TO '80 
+
+i.'i.'r,,. 120IIII 
+
+
+FREE 
+
+BRAKE &amp; EXHAUST 
+
+INSPECTION - NO 
+
+OBLIGATION! 
+
+
+
+
+There 
+
+May Be 
+
+Prizes 
+
+in Your 
+
+Textbooks, 
+
+Too! 
+
+When You Sell Your Books only at our Bookstore! 
+
+
+
+Bring your course books to our 
+Bookstore at the end of the term 
+and sell them for quick holiday 
+cash. 
+
+
+
+For each book you sell, you'll receive 
+a Sweepstakes game piece.* You'll 
+know immediately if you're a winner. 
+
+
+
+Here's What You Could Win . . . 
+
+(over 200.000 prizes in this national bookstore game) 
+
+
+
+
+• Volkswagen Cabriolets 
+
+■ Hawaiian Vacations 
+
+'• Wndjammer "Barefoot' Cruises • AM/FM Stereo Clock Radios • Soap Opera Challenge 
+
+■ 19 inch Color TVs 
+
+• A'A inch TV's with AM/FM 
+
+Stereo &amp; Cassette 
+
+
+
+• AM/FM Portable Stereos 
+
+• Personal Stereo Cassette 
+
+Players 
+
+
+
+Cash for Books Sweepstakes 
+
+
+
+. Coliseum Boulevard, Telephone: 483-6100 
+
+
+
+Follctfs 
+
+UNIVERSITY BOOKSTORE 
+
+
+
+The Communicator 
+
+
+
+Mom, &amp;cQ)ad y 
+
+J55&gt;i&gt; no- aceiofeafr &amp;'a&amp; keesb^ettis^ into- a, 
+
+
+
+,,&lt;»w&gt;&gt;&gt;»w&gt;'&gt;&gt;»&gt;&gt;&gt;&gt;&gt;&gt;»&gt;w&gt;»mw»)h\')&gt;w wi &gt; ^^^ 
+
+
+
+
+TemrH | data 
+
+systems 
+
+
+
+For more information about ?»»/, 
+
+
+
+THE QUALITY GOES IN BEFORE THE NAME GOES ON 
+
+; full range of computers from the 8088 desktops, 286 desktops &amp; portables, 386 desktops &amp; portables, contact: 
+
+Linda Patten Sue Carleton 
+
+Kettler G64 
+481-6800 
+
+
+
+
+Enter the Zenith Data Systems 
+
+MASTERS of 
+
+INNOmTION 
+
+COMPETITION 
+
+Win a $5,000* Zenith Computer System. 
+
+
+
+We're searching for tomorrow's innovators. 
+If you've developed or used software or hardware— that is compatible with 
+Zenith Data Systems products— to creatively address a problem or task in your 
+field of study, we want to hear from you. 
+
+You could win a $5,000* Zenith Data Systems computer system for yourself, 
+$5,000* worth of computer equipment for your college campus given in 
+your name, and national recognition from your peers. 
+
+For More Information And Official Rules, Call 1-800-553-0301. 
+Competition Ends March 1, 1989. Void Where Prohibited. 
+
+TgaiZH | data 
+
+systems 
+
+THE QUALITY GOES IN BEFORE THE NAME GOES ON ' 
+
+
+
+
+) Systems' standard educ; 
+
+
+
+nsed by The Roger Richman Agency. Inc.— 8ei 
+
+
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+FThe Communicator^! Bal,et P re8ents ' The Nutcracker' 
+
+
+
+is now looking for students to fill the 
+following positions: 
+
+• Sports Editor • Sports Writer 
+
+• Feature Editor • Feature Writer 
+
+• Cartoonist • News Writer 
+Working for The Communicator is a great 
+way to earn practical journalism experi- 
+ence. Apply in person at The Commu- 
+nicator Office, Suite 215, Walb Memorial 
+Union or call 481-6584 or 481-6583. 
+
+
+
+.S»3g •tSr-'.^r.-iO? •&lt;*•; &lt;&amp;'&amp;■■'&amp; **. 'i».'3 
+
+
+
+
+Theater, appeal gg|*2hi wah'kTa semi- citizens and 
+
+. __.__ngton 3 Dr , and (Ik ';,"', ' ",", ,'''.' "J. '!' Fort" Wayne Ballet ofl&gt;&lt; 
+
+National Ballet of Canada, 
+
+
+
+
+j Friday, Dec. 16, t 
+
+iv. ■;; Kettler Hal). Copies 
+
+
+
+published. Prizes 
+
+
+
+IPFW SWEATSHIRTS!!! 
+
+
+*~ 
+
+
+Offered by the 
+Student Alumni Council 
+
+
+yj 
+
+
+Great Christmas Gift 
+
+All Sizes Available 
+
+Just $18 Each 
+
+
+Wear your IPFW loyalty on your 
+sleeve, buy a sweatshirt. 
+
+
+Contact the Alumni Office, KT 1 12, 
+481-6807 
+
+
+
+rnimmmm 
+
+
+
+219-422-7511 
+
+
+
+-IT Cdl U. JT C S The Communicator 
+
+********************************************** 
+
+Philharmonic to present Pops Concert Fine Arts t0 show art auction 
+
+
+
+
+INDIANA &amp; PURDUE 
+MEMORABILIA 
+
+IU OR PU MONOPOLY GAMES 
+
+18.00 
+IU OR PU STICKUP TEDDY BEARS 
+
+14.99 
+IU OR PU FRAMED ANIMATED PICTURES 
+
+24.99 
+
+ORDERS BEING TAKEN BRING WIS AD 
+
+WEEK OF DEC 5th FOR WITH YOU AND 
+
+CHRISTMAS. RECEIVE 10% OFF 
+
+
+
+The Communicator 
+
+
+
+Our Holiday Promotion Is a Real Catch 
+
+
+
+
+Up to $100 Off and a Free Mouse 
+
+For more information about -gg^yjyy s full range of computers from the 8088, 286, &amp; 386 desktops and portables 
+contact: ^* 
+
+Free Mouse and MS-Windows® included with model 20 and 40. MS-DOS® included with all systems. 
+
+
+
+Linda Patten Sue Carleton 
+
+Kettler G64 
+481-6800 
+
+
+
+*ZgMiTH I data 
+
+^**~~^ I systems 
+
+THE QUALITY GOES IN BEFORE Tl IE GOES ON " 
+
+
+
+Model 1 Model 20 
+
+WI3. 5 " floppy W 120Mb hard drive 
+3.5" floppy 
+
+
+Model 40 
+
+w/40Mb hard drive 
+3.5" floppy 
+
+
+w/ZMM-149 Amber or While Phospher monitor 
+
+
+
+
+Reg. $1599 $1899 
+Now $1499 $1799 
+
+
+$2299 
+$2199 
+
+
+w/ZCM-1390 RGB Analog color monitor- 
+Reg. $1799 $2099 ■ 
+Now $1699 $1999 
+
+
+$2499 
+$2399 
+
+
+w/ZCM- 1490 FTM color monitor 
+Reg. $1899 $2199 
+Now $1849 $2149 
+
+
+$2599 
+$2549 
+
+
+
+
+""•'• "&lt;"«&lt;&gt;«'■-&lt; Li™* 
+
+
+
+Year in Review 
+
+
+
+The Communicator 
+
+
+
+A look back 
+
+
+
+1988: IPFW's year in review 
+
+
+
+' N SPORTS -'• 
+COLLECTIBLES 
+
+
+
+ATTENTION BSNs! 
+MAKE YOUR 
+EDUCATION 
+COUNT... 
+
+. as a fully qualified 
+
+Air Force nurse specialist 
+You'll receive excellent pay 
+and benefits plus enjoy 
+opportunities tor protes- 
+sionol development and 
+service to your country 
+
+
+
+7-S48-5B30 COLLECT 
+
+
+
+
+
+
+
+ME 
+
+
+
+
+row «ml p&gt;$ 
+
+U&gt;itJJtJfl 482 7373 "** 
+
+
+
+We're looking for talent... 
+Four divisions to serve you 
+
+
+
+CLERICAL INDUSTRIAL 
+
+TECHNICAL SOCIAL SERVICES 
+
+
+
+tme 
+
+
+
+JOB OPPORTUNITIES 
+
+SECRETARY: 15-20 hrs./wk. flexible between 8 
+
+
+
+ludying drafting. Pojsi- 
+
+
+
+i.00/hr. Job Number: 
+
+
+
+ansporting 
+5oL. on 
+
+
+
+IF YOU ARE AN IPFW STUDENT LOOKING 
+FOR A PART TIME JOB COME IN AND SEE US 
+• WALfl 113. WE HAVE MANY POSITIONS 
+
+
+
+B 
+
+
+
+GIVE 
+BLOOD, 
+PLEASE. 
+
+
+
+TRAVEL FIELD OPPORTUNITY 
+
+
+
+Gain valuable experience while earning 
+money and free trips. Campus repre- 
+sentative needed immediately for Spring 
+Break trips to Florida and South Padre 
+
+
+
+CALL ECHO TOURS AT 
+1-800-999-4300. 
+
+
+
+
+Roy Linn, Vice President 
+
+Campbell and Fetter Bank 
+
+P.O. Box 231 
+
+Kendallville, IN 46755 
+(219) 347-1500 
+
+
+
+
+^-SINCV 194*-^ 
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+f\vZa&lt;ru^rS\^ 
+
+
+
+MARK 
+MONTIETH 
+
+will be 
+
+Autographing 
+
+His Book 
+
+PASSION 
+PLAY 
+
+A Season with the Boilermakers 
+and Coach Gene Keady 
+
+Friday, December 9, 1988 
+
+12:00 noon to 1:30 pm 
+
+FOLLETT'S I.U.-P.U. BOOKSTORE 
+
+Meet Author Montieth 
+or 
+Call to Reserve Your Signed Copy rj 
+
+
+
+Folletts 
+
+
+
+
+
+Year in Review Thec_ica,o r 
+
+^&gt;?~ ' ? f New administrators hired, 
+
+
+
+NEED HELP FR5T 
+
+We guarantee our 
+processing for 
+
+
+
+
+Career assessment group, 
+WjJt. GL'l. 5:30p.m. 
+
+
+
+WEDNESDAY 14 
+
+" The American Association of 
+University Women, IPFW 
+
+
+
+* Women's basketball vs. 
+Saginaw Valley, 5:15 p.m. 
+
+• Men's basketball vs. Sagi- 
+
+
+
+irdue Indiana Theatre, 
+"he Best Christmas Pag 
+
+
+
+SUNDAY 11 
+
+* Purdue Indiana Theatre, 
+"The Besl Christmas Pag- 
+
+
+
+Fort Wayne Faculty Senate, 
+
+
+
+Nursing information n 
+
+
+
+.'.'■jr-iiny 
+ing. KT 
+
+
+
+,5:30 p.m. 
+FAST program s 
+bassadors meetii 
+
+
+
+FRIDAY 16 
+
+of-semester Christms parly, 
+Chi-Chi's. 4:30 p.m. 
+* Purdue Indiana Theatre, 
+"The Best Christmas Pag- 
+
+
+
+Christmas Party, sponsored 
+
+
+
+WEDNESDAY 28 
+• High School SAC Tourna- 
+ment at IPFtt imi 
+
+
+
+THURSDAY 29 
+
+• High School SAl 
+ment at IPFW, 
+
+
+
+i foreign languages 
+
+
+
+org., Waib Ballroom, 5 p.m. 
+Purdue Indiana Theatre. 
+"The Best Christmas Pag- 
+
+p.m., call Youtheatre, 422- 
+
+
+
+Slate University, 7:30 p.m. 
+
+
+
+i School SAC Tourna- 
+
+
+
+HfilR GALLERY 
+
+
+
+I— aassEa 
+
+
+
+OPEN EVERY EVENING 
+
+
+
+
+TANNING Cut Sale 
+
+$29.95 $1.00 Off 
+
+10 VISITS , Any Cut 
+
+
+
+Covington^ Clinton Corners 
+
+
+
+
+
+HOLIDAY POPS 
+CONCERT ,, 
+
+December 10 8:00 p.m. -HOW* 
+Embassy Theatre 
+
+Carol ollhe Bells 
+The Chnslmas Song 
+
+Christmas Caro 
+
+Mariiwngm The Box Office 
+
+121 W. Jefferson 
+
+424-5665 
+
+FORT'*' ©ifei 
+
+wayne »_._^-;:."^r 
+
+PHILHARMONIC IH, 
+
+
+
+Year in Review n« communicator 
+
+Chancellor resigns R B$M \ A CamHeUto Reception Hall 
+
+sptriaf ccMuluK (in yum 
+Pawls' oKKine-uin-m. 
+
+2415 Shoaff Road 
+r, Manager 
+r 637-3388 
+
+
+
+79 &lt; i/4 ib. 79 &lt; 
+
+Hamburger 
+
+14 lb.' of 100% USDA Fresh Ground Beef. 
+
+
+
+
+Works fitness 
+
+CENTER'.' *Jfy*»&gt; 
+
+J'ZL -Jhfrn.k Uou., 
+
+Why wait? Buy your friend or family member a 
+membership now for just $99 a year and get 3 
+months Free for yourself. The perfect gift for 
+someone you Love! 
+
+Come in or call 482-4257. 
+
+BODY WORKS 
+
+Nautilus &amp; Fitness Center 
+
+
+
+
+
+
+The Communicator staff 
+
+
+
+extends 
+
+warmest 
+
+wishes for 
+
+the holiday 
+
+season and 
+
+a sincere 
+
+thank you 
+
+to our advertisers for their 
+
+support through the past year. 
+
+
+
+4t!fc 
+
+
+
+Year in Review 
+
+
+
+
+Looking ahead 
+
+What will the future hold for IPFW? 
+
+
+
+WIESE NISSAN 
+
+BUILT FOR THE HUMAN RACE 
+
+
+
+FIRST TIME BUYER PROGRAM 
+
+(1) No Down Payment Required 
+
+(2) No Co-Signer Needed 
+
+(3) No Previous Credit Required 
+
+(4) Full-Time Job 
+
+
+
+All Sentras and Pick Up Models 
+Qualify For First Time Buyer Prograi 
+
+
+
+, aMad Your Choice a 
+
+$ 6,999 
+
+PIjs Freight &amp; Option 
+
+
+
+* All Models Qualify for 
+College Graduate Program 
+
+
+
+
+w 
+
+
+
+
+
+
+m my •*! 
+
+
+
+
+
+
+l^^m/ w^ 
+
+
+
+
+
+
+*$• a Kj.'ji\ 
+
+
+
+
+l^j^^ 
+
+
+
+
+
+
+JHftflHi biww— ] 'M ^^ htJ 
+
+
+
+
+^ 
+
+
+
+
+
+
+jfLL. ?&amp;m 
+
+
+^ 
+
+
+^- 
+
+
+"~ ^ 5H1 
+
+
+
+
+„., u , v „, „„ u .,.,., (» i . | . v&gt; ()!■' -nl.nl "! I'uidUf I i.l\.-i^(&gt; . foi 
+
+
+
+■|-sll\. Ii»!limifi» tilt' .-. 
+
+
+
+'L? ( ;v;::: ;;;;::■" 
+
+
+
+%t 
+
+
+
+;l 
+
+
+
+Buy Textbooks 
+and 
+
+Save Money?? 
+
+YES... Announcing the 2nd Annual 
+Student Booksale, January 10-12. 
+
+
+
+You Set the Price... 
+You Take the Profit 
+
+Buy Direct from 
+Your Fellow Students 
+
+
+
+Book Collection is January 5-10 in Suite 225 Walb 
+Union, 10 a.m. -5 p.m. For more information call 
+Students' Government at 481-6586. 
+
+
+
+
+</pre>        </div>
+      </div>
+    

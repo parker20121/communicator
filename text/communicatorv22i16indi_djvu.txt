@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i16indi/communicatorv22i16indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i16indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i16indi">The Communicator</a>"
+          </h1>
+          <pre>GULF 
+
+WAR 
+
+UPDATE 
+
+
+
+—Quote of 
+the Week- 
+
+
+
+Play's Midwest premier to be at PIT ...Page 4 
+
+Student exchange program offered 
+
+atlPFW Page 3 
+
+
+
+Lady 'Dons continue winning streak Page 5 
+
+
+
+J 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 16 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+I 
+
+
+
+Campus celebrates civil rights champion 
+
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+
+
+
+
+
+
+
+Communicator 
+
+
+w 
+
+
+n CMr/ 
+
+
+Dan Hyde 
+
+Nra.5 Hi/or 
+Kelli Beery 
+Copy fil/lor 
+Jerry Karpe 
+
+
+Mark Donaldson 
+Allen Smith 
+John Gruse 
+
+
+d 
+
+
+■as?" 
+
+
+fcteriMq 
+
+
+Manager. Graphics Editor 
+
+
+[■:, ..■' 
+
+
+H:';?c 
+
+
+Ml'-MHl" 
+
+
+
+
+
+Protest questioned 
+
+U.S. should support 
+troops, if not war 
+
+
+
+The nation is divided. Ral- 
+lies have sprung up across the 
+
+United Stales Ihal (out prowai 
+and anti-war themes. The 
+disquieting (lung about this 
+that few 
+
+
+
+heir jobs, They a 
+These men and 
+
+
+
+■Mi 
+
+
+
+United Stales any time, , 
+where in the world. They 
+willing to die to preserve 
+lo raise the spectre or rights and freedom. 
+
+regardless of how 
+
+
+
+possible way 
+
+ha l pretesting against " 
+s going '- — 
+
+
+
+ideali 
+
+much people may 
+
+Conversely, beli&lt; 
+
+
+
+
+peace can" be restored through 
+violence is equally idealistic. 
+Attempting lo stabilize the 
+Middle Kas( through an act of 
+armed aggression will not 
+bring troops home quickly K 
+will only insure that they re- 
+main in place for years to 
+
+past military actions by the 
+V S government. 
+
+If you chose to take a stand, 
+first sit back and look at all 
+the options The only logical 
+
+
+
+they have been deployed ( 
+
+
+
+r/nwhiie 5 .gnSngthe^en Flag waver asks for united America 
+
+and women who did the real C7 
+
+
+
+back, they were greeted 
+sken homes, joblessness 
+1 uncaring nation. 
+
+s lace lads: the United 
+. Wes 
+
+
+
+States i 
+work to bring the wa 
+Iraq to its conclusion i 
+as possible, whether 
+through peaceful me 
+protest or support of 
+fort. But let us not rep 
+painful chapter 
+
+
+
+protesters do everyone 
+War" 1960s-style high I 
+
+
+
+"happy" that we are engaged in a People of the Uni 
+war, but since we are, I am giving my bind together and 
+support to our troops. I give my sup- resolutions. Let's s 
+
+
+
+
+
+
+IPFW prejudice 
+
+Student alleges racism rampant on campus 
+
+
+
+
+Frazier asks for a break 
+
+Friday, Jan. 18, a peace pro- differently. Just 
+
+
+
+
+Snyder pleas for 
+theater patronage 
+
+
+
+JUS simply are d&gt; 
+department's 
+
+
+
+Arts in Washington, 
+department has been 
+
+
+
+;cted. PIT brought us Shakespeare 
+a sort this past summer, and will 
+
+Christopher Marlowe later this 
+
+
+
+:\.l.!i!i..ll 
+
+
+
+I this ti)is department to the attention &lt; 
+
+
+
+IPFW Student Bod&gt; President 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Acid Wash 
+
+
+
+Rufus gets date 
+
+
+
+ey. " • Rufus. 
+
+e pressure was mounting 
+
+
+
+: Don't you mean Yes, Rufus" 1 
+
+
+
+Hiis ,, ,, i.unilv c 
+
+
+
+Grot Are you going to go 1 
+
+
+
+
+
+
+NSE takes students to other campuses 
+
+
+
+returning Indiana University siinleriK jj.iIuik - 
+
+
+
+a GPA of 4.5 or higher. a well-kept secret thai son 
+
+en reluming to IPFW, your wonderful exists!" 
+
+s will transfer back. Your GPA Since the NSE's inceptio 
+
+
+
+■ I. .in:, j.n.m'jm may be for you! 
+
+
+
+gram altractive; geography 
+
+
+
+
+STUDENTS 
+
+
+
+F t N o RAISIN &lt;; 
+PROGRAM 
+
+MIMII) in just one week. 
+
+lianuipioSIIKHHiii \mii 
+
+
+
+organization lluil would iik.- u&lt; 
+rn$500-$l,000foraone 
+■ek on-campus marketing 
+sject, Must be organized 
+d hardworking. Call Marcu 
+Monica at (800) .W.&gt; KM. 
+tension 123. 
+
+
+
+In the past 10 years, Triple 
+"A" Student Painters has 
+
+provided the opportunity for 
+hundreds ol college students 
+
+
+
+70,000 sales presentations, 
+managing six to nine peers t&lt; 
+production of $40,000 in 
+profits that average $6,000 [( 
+$10,000 per manager. 
+Call 1-800-543-3792 for 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Through our student APICS Chapter here at IPFW all of the 
+;ihove rewards can he achieved Multiple scholarships will be 
+awarded by the parent Fort Wayne local American Production 
+and Inventory Control Society Chapter, at the regional level a 
+■noun KTmit, and at the national level a $1500.00 educational 
+Hill will ho given, A brief theme paper on one APICS topic 
+which consists of inventory control, production activity. -I IT.. 
+M.R.P., systems resource management, or planning and 
+forecasting can win a cash reward. Your faculty advisor can 
+help With recommendation and these scholarships will be based 
+on each students need and ability. All papers need to be turned 
+in l.y March 15, 1991. So come to our monthly meeting every 
+third Thursday at 6 P.M. in Walb Union Room 222 and meet a 
+lirailiciin; professional face to face. Learn how an APICS 
+certification can open employment doors for you. For further 
+into see your faculty advisor or call John at -19:1-4311 or Gail at 
+
+
+
+APICS 
+
+
+
+LOSE 20 POUNDS 
+IN TWO WEEKS! 
+
+
+
+
+Campus Calendar 
+
+
+
+
+
+
+i 
+
+
+
+10 IPFW STUDENTS 
+TO SERVE AS STUDENT SENATORS 
+
+in IPFW Students' Government 
+
+interested students must: 
+
+-be enrolled in 3 or more credit hours 
+
+-have an I.U. 2.0 or Purdue 4.0 G.EA. or better 
+
+-be able to attend Thursday evening meetings 
+
+FOR INFORMATION CONTACT 
+KRISTINA FRAZIER AT 481-6586 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Classifieds 
+
+
+
+CLASSIFIED RATES 
+
+
+
+1 column inch) $2.7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+category judged applicable. 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+
+The Underground 
+
+Under the Landing In 
+
+
+
+Columbia Street West 
+
+
+
+Playwright comes to PIT 
+
+
+
+playing three parts; 
+
+
+
+I,..,'.. i, II,, line '.uth .1 yrjutic &lt; 
+
+
+
+llll l.\\\IV,&lt;,AIMK, i 
+
+
+
+
+GRAND OPENING SPECIAL. 
+
+12L «29 95 - 
+
+
+
+Theater. According 
+"H 1985, evolved from IwinU &gt;gr;. 
+
+
+
+the male and the Playwright Beseeker will be on hand 
+(or several of the performances here 
+conflicts be- in Fort Wayne 
+
+
+
+! 50°° discount off regular price 
+
+party or booking 
+
+with IPFW I.D. card 
+
+regular price: ! 200°° for four hours 
+
+Call 749-9485 
+
+
+
+iMm. 
+
+
+
+Child care needs 
+are growing! 
+
+
+
+I is offering mony full- and part-timo c 
+/e experience working with children? i 
+
+
+
+FOR ALL 
+
+IPFW 
+
+STUDENTS. 
+
+
+
+IU CREDIT 
+
+UNION 
+
+MEMBERSHIP. 
+
+
+
+Now you can open a student 
+account and receive all the great 
+benefits fo IU Credit Union 
+membership. 
+
+Just talk to a Credit Union 
+
+representative at our convenient 
+
+location in Kettler Hall on campus. 
+
+They're ready to help you choose 
+
+the services that best fit your 
+
+needs. 
+
+Choose your checking: 
+
+Economy, Regular, or Money 
+
+Market Checking. 
+
+Get the advantage of choice with 
+
+your IU Credit Union. Open a 
+
+checking account that best fits your 
+
+specific banking needs. 
+
+50 free checks with each new 
+
+account. 
+
+Get your first 50 checks free when 
+
+you open your student checking 
+
+
+
+account at the Credit Union. 
+Free Money/Mover® 24 hour teller 
+card! 
+
+Use your IU Credit Union 
+MoneyMover card to make 
+transactions on your student 
+checking account any time, day or 
+night. Use it in any Automatic 
+Teller Machine that displays the 
+Plus 8 symbol. 
+
+Other free services available. 
+Take advantage of free bank by 
+phone service, free travelers checks 
+and more! 
+
+Convenient campus location. 
+Sign up for your IU Credit Union 
+account today at the branch in 
+Kettler Hall Open 9 a.m. to 12:30 
+p.m., 1:30 to 4 p.m. Monday, 
+Tuesday, Wednesday and Friday. 
+Open 9 a.m. to 1 p.m. Thursday. 
+
+
+
+IU Credit Union 
+
+
+
+f NCUA 
+
+
+
+Indiana University 
+Employees Federal 
+Credit Union 
+
+
+
+Reflections- 
+
+
+
+Feeling a bit dumbstruck, 1 quickly 
+
+
+
+Dress that exposed a d 
+The orange stopped j 
+Unflatteringly revealii 
+
+
+
+Swaying their black tears, dancin 
+To a Prince who showered 
+
+While he sings of his 
+Darling Nlki. 
+
+.'..,' 'hulking n[ my darling 
+
+
+
+I answered myself - 
+
+
+
+"Do you want me?' 
+
+
+
+The Communicator is in need of photographers and writers. 
+
+Photographers must have basic knowledge of camera usage, but need not own 
+their own cameras. 
+
+Writers must have excellent grammar and language skills, but no journalism 
+experience is necessary. 
+
+Earn experience and fatten your resume by joining our team today! 
+
+The Communicator is located in Walb Memorial Union, Suite 215. Or call us at 
+481-6584. 
+
+
+
+4? 
+
+
+
+ATTENTION 
+
+s ftJBEN TS 8 FAClfc Ty 
+
+^-BOMESTIC 
+
+
+
+
+© BOSCH 
+
+
+
+With over 30 years technical experience we can service all makes of 
+import vehicles from Audi to Yugo and those in between. (We also have 
+over 50 years experience on American cars.) We guarantee it! We'll 
+even provide references. From electrical to heavy mechanical work -- 
+WE DO IT ALL! Let's get acquainted today! 
+
+
+
+ELECTRONIC TUNE-UP 
+
+reg. ! 49"&gt; 
+$OA?0 6&amp;8cyl. 
+
+w^ 4 cyl. slightly more 
+
+
+
+COMPLETE OIL LUBE 
+SERVICE 
+
+
+
+&gt;13 9 
+
+
+
+COOLING SYSTEM &amp; 
+
+RADIATOR SERVICE 
+
+$3490 
+
+
+
+
+Call 436-6400 for appointment 
+
+
+
+TIME CORNERS 
+
+5825 Covington Road at W. Jefferson Blvd. 
+HOURS: M-F 8 to 6. Sat. 8 to 2 
+
+
+
+Computerized Car Care 
+
+'DISCOUNT MAY NOT BE USED WITH COUPONS OR OTHER SPECIALS. ! 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+Men host Asics Qualifier 
+
+
+
+The Cardinals then 
+
+
+
+Volleyball Association par- pace Although the Volleydons came 
+
+
+
+tieipaled They are Ball 5 
+
+S.itiirdav night's char 
+match found IP1-W i,nn 
+nemesis-Ball State. The ' 
+
+
+
+(.'Lini mill's own five-point 
+
+
+
+I Papaleo's kill sealed tl 
+
+
+
+nine digs. Fred Malcolm c 
+
+
+
+feature Perm State, 
+
+
+
+HeVolteydo-MH.. 
+
+
+State. 
+
+
+
+
+For more information on events scheduled, call 
+Ihe athletic department at 481-6643. 
+
+
+Th 24 
+
+Men's boikelbollvi. 
+Quincy College 7:30 p.m. 
+
+
+F 25 
+
+Min'l vollivboll IPFW 
+Invifationol wilh Penn Stole, 
+USC. Ohio Slals 6 8. 8 p.m. 
+
+
+S 26 
+
+IPFW Invitational [onlinun 
+S 8 p.m. 
+
+
+S 27 
+
+No Evenis 
+
+
+M 28 
+
+No Ewnls 
+
+
+T 29 
+
+No Evenis 
+
+
+W 30 
+
+
+
+
+f./^ I 
+
+
+
+HP 
+
+
+
+Men drop 2, fall to 8-6 
+
+LDSON Gibson picked up 18 points to go w 
+
+'ver°"it 8e last "^ fl ° f 7 k™ lh ^ ^Wwill 
+\ P .™ mens J ° n[ &gt; Hohnstrelter had 10 poll 
+d t0B-6. ar]|) |)j (|llan [K | Sse( i ou t five ;issisl&gt; 
+
+
+
+An.K l,i&lt; l..-i-i .ln|i],:-.l ; |.&lt;&gt;i 
+
+ind six rebounds Mil.. i'lini.m .. 
+
+
+
+iouble figures, 12.4 ppg, I 
+- players average more th 
+
+
+
+Women continue streak 
+
+
+
+Shelly Sands contribu 
+and Pam Edwards 
+
+The Lady 'Dons n 
+
+
+
+i College, 73-72 The I 
+
+
+
+Si |S P0RTS S p 
+
+
+
+
+Largest Library of information In U.S. - 
+
+
+
+
+^j£ 
+
+
+
+PROFESSIONAL CARE IN 1 
+227 E. Washington Blvd. 
+Fort Wayne, IN 46802 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+SECRETARY - type 45 wpm witl 
+
+excellent grammar and editing skills and ability I 
+
+meet deadlines. $6.02/hour. 1-3-0-3. 
+
+
+
+SECURITY OFFICER - insure building, grounds and employee 
+
+safety and security - night and weekend hours - effective verbal a 
+
+$4.65. 1-3-G-3. 
+
+
+
+FREE LANCER • will supply all patterns and supplies. Free-I; 
+Are you in need of a job? Come in and see us. We have mai 
+
+
+
+HELPING HANDS 
+
+Join our network of 
+
+
+
+East. Good salary, 
+
+
+
+m 
+
+
+
+For Information Call 
+Jean Kincaid 
+486-0062 
+
+
+
+
+AT SERA TEC WE 
+
+DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+THAT'S WHY WE... 
+
+
+
+- Use Sterile, Disposable Equipment 
+
+- Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise - Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+
+- Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED PLASMA 
+
+EARN I 25°° A WEEK DONATING PLASMA 
+
+
+
+NEW 
+
+DONORS 
+
+RECEIVE 
+
+
+
+10 
+
+
+
+SERA TEC BIOLOGICALS 
+
+921 Clay Street 
+Fort Wayne, IN 
+
+
+
+TUES.-FRI. 7A.M.-4 :30 P.M. 
+
+CLOSED MON. 
+NEW DONORS 7 A.M.-2 P.M. 
+
+(219) 422-7435 
+
+
+
+8 Great NEW 
+HOT Dinner Bar Items 
+
+at RAX! 
+
+FEATURING: 
+
+Beef Stew, Cobbler, Chicken &amp; Noodles, Macaroni 
+&amp; Cheese, Spaghettios for Kids, Beef &amp; Noodles, 
+
+Mashed Potatoes &amp; Gravy and Green Beans. 
+
+Plus Rax Great Salad Fixin's, Mexican Specialties, 
+
+Soup and Pasta. 
+
+KIDS $1 99 "%&amp;&amp; 
+
+£&lt; SAVE EVEN MORE WITH THIS INCREDIBLE COUPON 
+I 1 
+
+INTRODUCTORY OFFER | 
+
+$1 OFF DINNER BAR! 
+
+After4 PM Weekdays, All Day Saturday and Sunday I 
+
+Tl 
+
+i 
+i 
+
+
+
+OFFER GOOD THRU- I 
+
+
+
+Please present coupon t 
+
+
+
+ordering. One coupon per 
+person per visit. Not valid in combination with any other 
+offer Offer good at participating Rax Restaurants only. 
+
+
+
+#&amp;x 
+
+
+
+Gulf War 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Mediterranean 
+Sea 
+
+
+
+
+The WAR UNFOLDS 
+
+
+
+First strike, Jan. 17, air Allied forces maintain 
+attacks by allied forces constant air bombard- 
+on Baghdad. ment on Baghdad and 
+
+other strategic locations 
+
+in Iraq. 
+
+Tel Aviv and Haifa at- 
+tacked by Iraqi SCUD 
+missiles; United States 
+sends Patriot Anti-missile 
+missiles to help defend 
+Israel. 
+
+
+
+Allied air strike em- 
+phasis shifted from stra- 
+tegic military instal- 
+lations in Iraq to Saddam 
+
+
+
+Allied forces begin United states , ists 12 A „. d forces ho , d 
+
+deployment of air bomb- planes , os , and u vg Iraqi pQWs 
+
+NATO's air'bVse located Sf™" miSSing '" 
+inside Turkey. 
+
+
+
+action. 
+
+
+
+Cloudy weather inhibits 
+ome allied air missions 
+damage 
+
+
+
+U.S. 
+
+
+
+■r. ■..■■■/.. noil. 
+
+
+
+Military activity 
+in Iraqi theater 
+
+The following is a list of U.S. gov- 
+ernment-released facts from the gulf 
+as of Tuesday. 
+■r-Air missions flown: 8,100 
+•-Planes Iraq says it has 
+
+downed: 160 
+■rPlanes the Allies say they have 
+
+lost: 17 
+«-U.S. planes lost: 12 
+i»-U.S. helicopters lost: 1 
+■r-Iraqi planes shot down: 17 
+•-SCUDS fired at Israel, Saudi 
+
+Arabia: at least 23 
+•-U.S. cruise missiles fired: 216 
+•-Allied airmen killed in action: 
+
+1U.S. 
+•-Allied airmen missing in 
+
+action: 25 
+•-Iraqi soldiers killed inside 
+
+Kuwait: 45 
+•-IPFW students currently in the 
+
+gulf: 4 
+
+
+
+Ground troops, prepar- Iraq violates Geneva Two Patriot missiles 
+
+w«i»ehine n,» in g t0 back U P air at " Conventions by parading accidently launched in 
+
+cruise mSSi™ tacks ^ ste P U P maneuvers Allied POWs on Iraqi Saudi Arabia resulting in 
+
+cruise missiles into Iraq. and hg J ^ toward television millions of do „ ars lost . 
+
+the Iraqi border. 
+
+Gulf facts 
+
+Allies employ high-tech aircraft in combat 
+
+
+
+unfold 
+
+often used without further explanation. Here is a brief guide to 
+
+the most frequently mentioned weapons. 
+
+F-H7A Stealth Fighter This is a night attack jet manned by a 
+single pilot. The stealth is nearly invisible to radar because of 
+its layer of radar-absorbing material and the angle of its body 
+panels. The stealth uses a highly accurate laser-guided system 
+for bombing. There are more than 40 of these fighters in the 
+gulf. 
+
+F-in Fighter-Bomber This is a tactical strike aircraft that 
+flies at supersonic speeds. The F-lll can fly low to the ground 
+as well as up to 60,000 feet. The agile F-lll was used in the 
+bombing of Libya in 1986. It is manned by a crew of two. There 
+are approximately 70 of these crafts in the gulf. 
+
+
+
+F-4G Advanced Wild Weasel This is a two-person modmed 
+version of the Phantom II fighter. The Wild Weasel is set up 
+with special missiles foi neutralizing enemy radar defenses. 
+There are 24 of these jets in the gulf. 
+
+Several smaller fighter aircraft are also used by the allied 
+forces in the gulf. The United States uses the F-16 Falcon, a 
+fighter and bomber; the A-6E Intruder, an attack jet; the 
+Grumman E-2C Hawkeye, a carrier; and the F/A Hornet, a 
+Navy fighter/bomber and a Marine fighter/escort. 
+
+Allied forces offer an Italian Tornado, a long-range inter- 
+ceptor, and the United Kingdom's Jaguar, an attack jet. 
+
+Another U.S. jet playing an important role in the gulf war is 
+the aged B-52 Bomber. The B-52 has been around since 1952. The 
+bomber has been dropping conventional bombs on the targets in 
+Iraq but it is capable of carrying nuclear bombs as well as 
+cruise missiles. There are 50 B-52s currently in the gulf. 
+
+According to Allied reports as of Tuesday night, 17 of the 
+planes previously described have been lost in combat. Iraq 
+claims to have downed 160 allied aircraft. 
+
+
+
+Students clash at peace rally on campus 
+
+
+
+; our troops. That's the 
+
+
+
+"We 
+
+
+have 
+
+
+learned our 
+
+
+
+
+well. 
+
+
+We know the 
+
+
+differe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike Nusbaumer 
+
+
+
+students ex pruii &lt;_■(.! nwr&lt;: 
+
+
+
+</pre>        </div>
+      </div>
+    

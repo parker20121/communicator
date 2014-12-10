@@ -1,0 +1,4274 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator1315indi/communicator1315indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator1315indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator1315indi">The Communicator</a>"
+          </h1>
+          <pre>''■"^ 
+
+
+
+rhc 
+
+
+
+Co]iiiiiu]iica.tor 
+
+
+
+Volume XII! Issue 1 5 
+
+
+
+Indiana University-PurduE Unh/ersity at Fc. Wayne 
+
+
+
+Thursday, December 10. 1981 
+
+
+
+Art Templar^ PIT cast, crew in opposition 
+
+
+
+'Bent' scene prompts controversy 
+
+By CHERYL MYERS A M^ J 
+
+
+
+"II is 
+
+
+a far 
+
+
+more subtle 
+
+
+work of an. 
+
+
+a carefully 
+
+
+crafted 
+
+
+parable 
+
+
+of the 
+
+
+human condition 
+
+
+of our 
+
+
+human cor 
+
+
+dition. " 
+
+
+
+
+
+
+
+
+
+
+-Father Robert Zahrt 
+
+
+O.S.C. 
+
+
+
+Umea. puiiling. II includes an 
+unlikely caal o/ ehflroelirs — Art 
+Templar, slalion mannger of 
+ViXKE: Jcit Hubcrman. chalrmBn 
+of the IPFW Tieatcr Depuimcnt; 
+Arnold DucmllnC. Allen Counly 
+Prowculor; Lorry Life, direclor of 
+Lhc play; Ihe cost of ■'Benl" and AC- 
+DC'fl lead Bullorisl. Angus Young, or 
+
+TlilB conlroversy came to a head 
+
+raced with the possiblUty of crimioal 
+charges when Templar tiled a 
+farm a I complaint with Ducmling, 
+objecting (0 a nudesiene In the ploy. 
+The story began some months ago 
+wtien Templar brought the rock 
+bond AC-DC (o the Memorial 
+concert Part of the 
+
+
+
+vice iquad found in violation of the 
+city'9 anLi-obecenlly laws. 
+When Templar discussed Ibis with 
+
+
+
+rafted parable of the 
+
+
+
+office 
+
+
+
+d them 
+
+
+
+The 
+
+
+
+they felt il was necessary, 
+e squad complied; the show 
+closeo. and AC-DC-s mooning act 
+was barred from Fori Wayne. 
+
+Templar said this action hurl his 
+business, and. though he Ihoughl the 
+
+"defend the right of his age 
+
+
+
+Holocaust, of the persecution of 
+homosexuals m Nszi eoneentration 
+camps, and the resilience of the 
+human will, strengthened by love. 
+
+
+
+crfor 
+
+
+
+persons who change and are 
+changed by 'those who love us and 
+thosewbo refuse to love us,' persons 
+who must, finally, make decisions 
+aboul who we are and what wc 
+choose to become, and accept 
+responsibility for those decisions." 
+
+Others were more negatively 
+impressed by Ihe play's Ihcme. Life 
+said that an anonymous person tried 
+to Slop production of "Bent" with 
+Ihrealening telephone calls before 
+ihe play even opened. Bui, stales 
+Huberman, "None of these callers 
+have seen the play." 
+
+The controversy land publicity! 
+
+
+
+presentation PIT liad ever 
+while others felt 11 was immoral to 
+portray homosexuality In a non- 
+condemning fashion — that the play 
+was subversive and obscene 
+
+A few days after the premier, the 
+death ihrests began, aimed at one of 
+the young actors. The threats were 
+in letters, which contained such 
+messages as "You die, fag." and 
+"Be glad you lived through another 
+
+The stage at PIT was vandalized 
+by an unhnotvn person or persons 
+who drew a large swastika on the 
+loor with a permanent ink laundry 
+
+The stage hod to be re-painted. 
+Despite Lhesc problems, the show 
+went on. Extra performances were 
+
+
+
+Broadcasting Corporatioi 
+
+
+
+called Life to tell him how wonderful 
+she thought "Benl" was, no matter 
+what anyone else said about it. An 
+editorial in the Journal-Gazette rose 
+(0 the play's defense, staling. "It 
+lakes the playwrights and the poets 
+■ " .■ - • remind us. 
+
+
+
+tcdly. 
+
+
+
+Templar hoils Fort Wa 
+
+
+ne'sonly 
+
+
+adiQ talk show, "Point Blank." in 
+
+
+ddition Id his other endeavors. He 
+
+
+nvlled Hubcrmnn and Dov 
+
+
+e Ftaclnc, 
+
+
+ssistant Fort Wayne polic 
+
+
+e chief, to 
+
+
+c on his show Thursd«y 
+
+
+Dec.], 
+
+
+'•Ho said he wanted 1 
+
+
+
+
+omc of the conlroversy sw 
+
+
+rounding 
+
+
+
+
+
+
+And Templar's verslon. 
+
+
+I asked 
+
+
+
+:l that 
+
+
+
+n. talk al 
+
+
+
+it 'Bent.' 
+
+
+
+"If a dancer in a bar has to wear a G-slring and have her 
+nipples covered, the aclor in 'Bent' should wear a jock strap or 
+otherwise cover his external genitalia. " 
+
+—Art Templar, manager of W.\f\E FM 
+
+
+
+m lhc opportunity 
+to respond ki all Ihe controversy 
+about the homosexuality In the play. 
+And I gave him ihal opporlunlty, 
+andlfcclwodldaprelty good job." 
+
+description of the play. Tem[dar 
+wished to convoy the type of wording 
+used while still obscning FCC 
+
+
+
+i Ihe 
+
+
+
+e. There 
+
+
+
+"Benl" 
+
+
+
+nued I 
+
+
+
+:o accommodate the demand 
+failing list of between 20 and 
+
+
+
+and lelters to the edi 
+newspapers began it 
+Then Templar, gei 
+
+
+
+vas aroused, 
+r in the local 
+
+
+
+■ ebici 
+
+
+
+Templar then talked al 
+homosexual relationship de| 
+stage, leading Into a disci 
+the brief nude scene. 
+
+(Conllnutdonpugte 
+
+
+
+used 
+
+
+
+Instructors here may be lost 
+due to low increase in wages 
+
+Du nnhJk'A r.raniiART ,.,n..^i.u,,.rt r..,.„,-;,,.&gt;i,&gt; j„.i,,..i..., 4 ni-.,.,. ^^ 
+
+
+
+Hie average 5 percent raise 
+1 by Ihe Indiana Slate 
+will not keep up with Ihe 
+
+
+
+advanlages of teaching offset the low 
+wages. Personal contact with students, 
+communily respecl, and Ihe freedom to 
+;l working schedules arc three such 
+
+
+
+Kpoy 
+
+
+
+because of low wages, but 
+that some will be leaving In 
+from ctilbacks in certain no 
+
+
+
+"Slate supported u 
+left only with instruct 
+other jobs. Some gov 
+al least t4OO0 more a year than 
+leaching: situallons like Uiis will lure 
+many good teachers away from the 
+academic Tield," he said. 
+
+Though some instructors arc thinking 
+of leaving the college il Ihings do not 
+Improve, others have found alternative at IPFW. said Ihi 
+ways of supplementing Iheir income. aware of this situ 
+
+
+
+lid Ohio has already put a freeze 
+building and they are rest rictbig 
+aumt&gt;cr enrolled in their 
+
+
+
+e chancellor 
+
+
+
+faculty. II money from other tiudgets 
+
+"Tliere are no wage schedules,' 
+Nicholson said. "When we hire new 
+instructors, we offer wages in com- 
+in with other universities for the 
+
+
+
+willing U 
+
+
+
+, there 
+
+
+
+
+
+
+ff\ii IPFM^ 
+
+
+
+Mirsw L 
+
+
+
+1ST 
+
+
+
+
+■&amp;^~ 
+
+
+
+^CiriHtK FRATlEIRWBirT 
+
+01ii&gt;nE PAinD(in£ 
+
+SpMEt 
+
+Of 
+
+NfDTEl 
+/ YtlflJR WiSIKtS _ .. . 
+
+"ItRPY CwfilSTimAS Week 
+
+
+
+
+kind of people we want. Rank, 
+
+
+
+
+and experience arc Ihe 
+
+
+
+
+
+
+Emory W 
+
+
+lipple, a part-time laculty 
+
+
+member a 
+
+
+
+
+didn't rigur 
+
+
+e on getting rich when I 
+
+
+chose this 
+
+
+prolcssion, bul il has iU 
+
+
+advantages 
+
+
+over other occupations," 
+
+
+Whipple i 
+
+
+so leaches at another 
+
+
+
+
+re the wages are almost 
+
+
+double, but 
+
+
+le added the Idlion for the 
+
+
+student is 
+
+
+Imost twice as much as 
+
+
+IPFW. 
+
+
+
+
+Part-lime 
+
+
+instructors are hired on 
+
+
+contract, ^ 
+
+
+cholson said, and this is a 
+
+
+completely 
+
+
+lifferenl ball game. 
+
+
+Allhough 
+
+
+
+
+teaching other Ihan high wages. Lip- 
+
+
+man said hi 
+
+
+wanted the ;«jbllc to know 
+
+
+the low cal 
+
+
+em the stale legislatures 
+
+
+held for college Inslruclors as shown by 
+
+
+the money 
+
+
+ipproprialed for their up- 
+
+
+coming wa 
+
+
+es. College teachers, he 
+
+
+said, are ih 
+
+
+
+
+
+
+Sanla arrived at IPFW on Salurday. Dec, 5. spon- 
+sored by lhc Indiana and Purdue University Alumni 
+Associations, Ihe Music TTierapy Club, ami Ihe 
+Sludcnl Union Board of Governors. Some Uo 
+children of all ages were treated (a hot chocolate and 
+a fruit cup as Santa's elves provided musical en- 
+
+
+
+tertainment, T^ien Ihe jolly gcnllcnian himself en- 
+leretl and spread gifts and holiday cheer with lhc 
+ablehclpofhisfavorilenavigator, Rudolph the Red- 
+nosed Reindeer, The breakfast look place In the 
+ballroom uf the Walb Memnriul L'nion, IPhola by 
+Dean Ru^s) 
+
+
+
+Giusti gives 
+thoughts in 
+Xtnas memo 
+
+The concerts of carols played by the 
+new campus carillon durbig the past 
+
+IPFW tradition. Of course, traditions 
+are what the hohday season is about. It 
+is a Favorite Ume to enjoy ttie company 
+of family and friends, to relive fond 
+memories, and lo think aboul what is 
+csscnUal in our lives. The New Year 
+t&gt;eing only a matter of days 
+
+
+
+
+Hanukkah to begin 
+
+
+
+Christmas, the significance of the cva 
+is hardly similar. 
+"Il is a minor Jewish holiday that tia 
+
+
+
+e for 
+
+
+
+world, as il attempts lo offset the 
+tremendous cultural pressures of the 
+Christian communily," Rabbi Richard 
+B. Safran of the Achduth Vcsholom 
+Congregation said in a recent in- 
+
+Safran, who has also been an in- 
+structor in the IPFW religious studies 
+program, said the Jewish holidays 
+equivalent lo Christmas 
+
+
+
+The Temple in Jerusalem was 
+purified and rededicaEed after the 
+^nclory, since it had been used as a 
+pagan house of worship. 
+
+Judah Maccabbee proclaimed the 
+dedicalian to be a holiday to celebrate 
+the victory, thereby giving Hanukkah. 
+the HcbiCK word lor dedicallon, its 
+
+Salran said Ihal a legend surrounding 
+lhc rededication provided lhc length of 
+celebration lor Hanukkah. According lo 
+the legend, after cleaning out the 
+Temple, the Jews found only a one-day 
+supply of holy oil for Ihe Eternal Ughl. 
+
+Miraculously, the oil burned for eight 
+ights The ■ 
+
+
+
+
+
+
+n, then 
+
+
+
+eight 
+
+
+
+r most of second semester Iron' 
+spires in Ihe dead of winter). 
+
+Still, I hope you will try to lake a few 
+moments during Ihe holidays lo reflect 
+
+
+
+famUies 
+
+
+
+Il Chris 
+
+
+
+11 IPFW is playing in your 
+the rush of events, it is 
+lal we do this periodically. 
+
+
+
+hold in 
+
+
+
+m for what 1 
+
+
+
+e of year, ihough, spare 
+ume IS always a luxury . As sooo as Ilnal 
+examinalions and the brief respite of 
+the mid-year bobday are over, you wlU 
+be [riunging into the challenges of 
+
+euphemism, I have always tbought. 
+
+
+
+Hen, refreshed 
+
+
+
+me in offering season's greel 
+wishing you a healthy, happy 
+iperous New Year. 
+
+Chancellor Joseph P. G 
+
+
+
+Cathryn Adam,sky Fund helps women in need 
+
+
+
+When 
+
+
+
+fim 
+
+
+
+iciai 
+
+
+
+an unexpeclc 
+emergency arises, the slantlard sodal 
+agency resources are often unavailable 
+lo women. The Fori Wayne Feminists 
+are trying 10 provide a fund to assiil In 
+nich crises. 
+Proceeds from the recent per' 
+
+
+
+"Dreams, Myths and 
+Other Lies'* given at the Fort Wayne 
+Performing Arts Center by the Fort 
+Wayne Feminists will benefit the fund. 
+as will some of tlic proceeds from other 
+such programs. Another project of the 
+FWF Is the Coffeehouse at the YWCA 
+VUlB on Wells SL 
+
+The coffeehouse features women 
+performing their own, or other 
+women's poetry, tongs or writings from 
+8 p.m. to 10 p.m. on the third Friday of 
+each month. 
+
+
+
+The coffeehouse is open to all women 
+and, although a few of the special 
+program meetings are dosed to men, 
+generally men are welcome to attend. 
+
+Some ol the proceeds from this 
+project will also go toward the fund. 
+
+The fund has been in eastmce since 
+1977, hit was renamed last May at a 
+party given to honor Adamsky before 
+her departure to teach in New Hamp- 
+shire on a leave of absence Iram IPFW. 
+
+"Adamsky's Women's Studies 
+classes led many people into FWF and 
+
+
+
+the fund was renamed lo recogniie ncr 
+contributions and concern for such 
+women in need." said Jeanne Hickiing, 
+treasurer of the FWF. Hickiing called 
+Adamsky "a guiding mother-force" 
+whose Women's Studies classes led 
+many people Into FWF." 
+
+According to Susan Heine, one of the 
+live coordinators for FWF, Adamsky 
+was one of the founders of FWF, which 
+had Its beginnm^ m a group of SO 
+women from a "Women's Awareness" 
+dflss at IPFW in the early 1970s. 
+(ContltyedaDpigeS) 
+
+
+
+Gift-giving during Hanukkah is 
+largely a result of Chrislian influence. 
+For Jews living in areas where Islamic 
+
+unlikely that more than the tradilional 
+one coin on each night of Hanukkah 
+would t« given as gifts to each child in a 
+
+Unique to Hanukkah is the serving of 
+lalkes and the playing of the dreydel 
+game. Lalkes are a kind of potato 
+pancake, and the dreydel game is 
+played by children by spinning a small, 
+four-sided top inscribed with Ihe letters 
+which begin the words "Nes gadol haya 
+sham." Hebrew for "A great mwacle 
+happened there." Winners in this game 
+are determined by which ieller comes 
+up in an individtial's spin. 
+
+The basis for Hanukkah also does not 
+have Ihe importance ascritied to it that 
+Chrialmas has lor Christians. 
+Hanukkah celebrates the 176 B.C 
+victory of the Jews over Antiochus IV. 
+resulting in the rededi cation of the 
+Temple in Jerusalem. 
+
+Antiochus. a Syrion-Creek emperor 
+
+
+
+of Hanukkah, home worship sei 
+are held in which the father e 
+family lights one new candle 
+
+
+
+"The event probably records the first 
+fight for religious freedom in which the 
+sllempt of a community lo retain Its 
+own religious heritage now comes 
+forth," Safran said of Hanukkah's basic 
+theme. 
+
+Whereas Christmas recogniies the 
+birth of the Messiah. Hanukkah 
+celebrates Ihe first great viclory for 
+religious freedom. 
+
+The Tint night of Hanukkah, Kenit. 
+celebrates the victory of Ibe Mac- 
+cabees. The remaining seven nights. 
+
+
+
+rmpted b 
+
+
+
+
+
+
+by, among other 
+
+icipale in his religion. 
+
+rejection of this edict. Matlathias, 
+
+elder of the town of ^fodl^ in 
+
+
+
+of his five sons, Ju 
+
+organiiid the rebeb who, after three 
+
+years, succeeded in defeating An- 
+
+
+
+prospenly. espeeially bi difncull times, 
+and of faith, hope and commitment, 
+which mvolves our participalion. would 
+
+
+
+CEJ-THE COMMUNICATOR- DECEMBERIO. 1381 
+
+opliiioit 
+
+
+
+Steffen named 
+Editor-in-chief 
+
+
+
+With (inal exams Jusl a week away and 
+the semester break nnl far behind, this 
+luue of The Communicator marks ihe 
+end of another semester of reporting 
+campus events and news. 
+
+While most students will he spending 
+Ihe weeks between semesters relaxing 
+with family and friends and resting up 
+tor another semester of classes. The 
+Communicator staff will be hard at work 
+laying the groundwork for anolher year 
+of campus reporling. 
+
+The biggest challenge facing The 
+Communicator staff In the next few 
+weeks will be Ihe transformation from 
+the )98l editorial staff to the 1982 staff. 
+
+Having completed their lerms as 
+editors. Edit or- in-chief Sandra Wiley. 
+Arts Edilor Steve RIegel, Copy Editor 
+Jack Gramllng and PIidIo Edilor Dean 
+Ross will be leaving their Communicator 
+Jobs, although each may periodically 
+conlribuic arlicles and photos to (he 
+paper. 
+
+By Ihe time the next Issue of The 
+Communlcalor reaches the stands, the 
+holiday season will be ever. Ihe spring 
+semester will be underway, the year will 
+be new and The Communicator's new 
+editors will be In charge. 
+
+Taking over as edilor- in-chief tor 1982 
+Is Woyne Steffen, an IPFW senior, who 
+has served as managing editor and a 
+news and feature writer. 
+
+Filling Ihe managing editor post will 
+be Jim Chapman, former sports edilor 
+
+
+
+. writer, who is a sophomore. 
+
+The new sports editor is Mike Franke, 
+
+a senior, who has written for the sports 
+
+pages of The Communicator for three 
+
+
+
+
+Jackie Wiora, anolher sophomore, has 
+been a news and fealure writer on our 
+staff the past two semesters and will be 
+copy editor 
+
+Joining Ihe editorial staff as arts 
+editor is Kalhy Kelly, a sophomore, who 
+only this past semester began as an arts 
+writer for The Communlcalor. 
+
+Taking on the duties of photo edilor, 
+and joining ihc staff (or the first lime, is 
+Simon Montalvo, anolher freshman. 
+
+One member of our cdilorial staff will 
+remain in his present post. Bob Lang, 
+The Communicator stalf artist, will 
+continue to supply the paper with his 
+special brand of editorial cartoons and 
+ill us Ira lions 
+
+Wayne, Jim, Mike, Kathy, Jackie, 
+Simon and Bob are anxious to begin Iheir 
+new jobs and have been recruiting staff 
+writers and photographers to cover Ihc 
+various aspects of campus life. 
+
+The fruits of Iheir labors can be read 
+weekly, beginning with the Jan, 14 issue 
+of The Communicator. 
+
+Unlil then .. 
+
+The staff of The Communicator wishes 
+you a Merry Christinas or Happy 
+Hanukkah and a very, very Happy New 
+
+
+
+Holiday giving 
+not adequate 
+for this writer 
+
+
+
+pmple appear 
+
+impoveriihed Ir 
+dI dealh 1 find ihli giving 
+hypacrilieal. though, 
+because ot tlie many that do 
+give live in a KKlcty thai 
+supporu taking from Ihe 
+poor and rilling tbe podiels 
+of Qie few wealthy al Ihe top. 
+Each year as I'm walking 
+snowy stieel; 
+
+
+
+
+
+
+, Army ■ 
+
+
+
+Growing old is legacy, 
+wear age with pride 
+
+
+
+
+
+
+11 the 
+Vou tee me dally, bui 
+arc afraid lo recogolic 
+■in UicieKyoucaniialfacc. t 
+am Ihe tomorrow thai Is 
+Htjlhln the now. 1 am Ihe 
+person ihal you patronize, 
+became I have ihe tame 
+
+
+
+Qrat drunk 1 am the same 
+old lady Ihal you were loo 
+nfibarrasscd lo kiss goodbye 
+when you tell her DCS! lam 
+thai spanked 
+
+
+
+h. Will you be able lo face 
+
+
+
+nngmg its bells and WOWO 
+oul doing its Penny Pitch. I 
+see groups such at The Lions 
+Gub doing Lhelr bcsl to help 
+[he poor through anolher 
+hard and cruel winter. 
+
+efforti, indeed I am humble 
+and grate lul thai such kind 
+people go out lo help. 
+
+What 1 am crit Idling li 
+Uial Ihe existing State of 
+social programs In our 
+belavcd America just Isn't 
+working They supply people 
+with tiarely enough money la 
+survive, (in fact wmelimea 
+; enough-lhere are third 
+
+
+
+
+
+
+
+
+
+ches lam Ihc E 
+
+
+
+old man Ihal loaned you 
+
+
+
+ID DI m You 
+child, OS thee 
+baby How o 
+
+
+
+legacy, so accept il with 
+pride today Pride Is Ihe love 
+of living and Ihe Joy of doing 
+Wear your oowage wilh 
+pride, and when your mirror 
+pjsses you today, recogniie 
+
+
+
+press them by not giving Ih 
+necessary programs an 
+lunds 10 became af fluent in 
+compete tor a valid place 1 
+
+
+
+The Communicator 
+
+
+
+
+to promote our annual 
+
+spnng 
+
+Horida. FREE TRIP TO 
+
+FLORIDA pit 
+
+sion Call or v,Tiie Ctostal 
+
+Toun M61 N. Easl Ruct 
+
+Rd., Chicago, III. 60656 
+
+(312] 693-4759 
+
+
+
+Career Placement 
+
+
+
+Seniois. ilon'i lei |ob 
+oppanunllies pass you 
+by. Have you regis- 
+tered wilh CPR? If nol, 
+call loll-lree 
+
+1-800-368-3093 for 
+full delails and data 
+enlry form. 
+
+
+
+Ft. Wayns Blood 
+PlaaniB Donor Cantor 
+
+
+
+Novi OcnofS Process Up 
+Bewcen 1 3 P M 
+
+SCASH PAIDS 
+
+For Blood Plasma 
+Donatlona 
+
+One Freo Bi£ ndoor 1 fir 
+pad porlirg 
+
+EARN UP TO 
+S60 MONTHLY 
+
+
+
+114 W. 
+
+Washington Blvd. 
+
+422-7435 
+
+&amp;irg T&gt;KS Ad lor Bcxc 
+|MEW OOMOflS QNl-'l 
+
+
+
+now servicing 
+foreign and 
+domestic cars 
+I.. also liglit trucl(s! 
+I Services 
+
+irW \y "—'^ Inc. 21 1 1 s. Calhoun 
+
+Fort Wayne 
+We honor your Student Discount Card. 219-745-4444 
+
+
+
+LIVINGSTON STUDIO 
+
+PRESENTS 
+A BEGINNERS PHOTOGRAPHIC SEMINAR ON 
+
+"HOW TO TAKE BETTER 
+PICTURES WITH A 35mm SLR" 
+
+Topics will include: studio lighting and portraiture, close up 
+and macro photography, composition, care and feeding of your 
+camera, how lo choose your first camera, candids. and special 
+effects. 
+
+The seminar will meet over a period of weeks starting in late 
+January and continuing into March. Class size is veiy limited and 
+a $10 registration fee will be required at the time of registration. 
+Film, text, and photographic models will be provided at an additional 
+cost of S50 which is payable at the start of the 1st session. FOR 
+MORE INFORMATION CALL: LIVINGSTON STUDIO, 924 
+DELAWARE FT. WAYNE AT (219) 422-2007 MASTER CARD 
+AND VISA WELCOMED. 
+
+
+
+
+Ap- 
+
+
+
+ihe well off IkI s cerlsln 
+Christmas time, and will try 
+
+
+
+are nol doinj 
+goodbygivin 
+
+
+
+II is good Ihal Ihe alHuenl 
+help Ihc poverlyslrloktn al 
+Christmas wilh their con- 
+Iribuliona. 
+
+This is nol enough, 
+however, the needy deserve 
+help Ihroughoul Ihe year 
+Programs such as Welfare 
+and food stamps are 
+
+
+
+WIN A 
+
+LAW SCHOOL 
+
+SCHOLARSHIP! 
+
+
+
+
+Enter the 1982 
+
+National Collegiate Oratory Competition 
+
+Sponsored by 
+THE THOMAS M. COOLEY LAW SCHOOL 
+
+
+
+Write and deliver (rom memory a 10-mlnule 
+original speech defending your position on one 
+of these topics: 
+
+
+
+• USURY: Anachronism or extortion? 
+
+
+
+Speeches will be judged first in manuscript 
+form, then in en oral audition, and finally belote 
+a live audience and a panel of Michigan court 
+judges. 
+
+One overall winner receives a full luilion schol- 
+arship to the TTiomas M. Cooley Law School. 
+Two mnners-up each receive half tuition schoiai- 
+ships, and Ihreo semi-tinaiisis receive individual 
+S1000 tuition grants. Total value of phzes ex- 
+ceeds S20,000. 
+
+To tie eligible you must lie an undergraduate 
+student currently enrolled In an accredited four- 
+year college or universiiy. Deadline lor manu- 
+scripl entres is March 1, 1932 For information 
+and compelilion mles, fill out the form tieiow and 
+send it in today. 
+
+
+
+Please send me information and njles for Ihe 1982 Thomas M. 
+
+Cooley Law School National Collegiate Oratoiy Competition. 
+
+I understand there are no enlry fees or other financial obliga- ry"&gt;OI FY 
+
+''°"S- L/\W SCHOOL 
+
+
+
+Address _ 
+City- 
+
+
+
+College or University - 
+
+
+
+Send to Oratory Competition, Thomas M, Cooley Law School, 
+P.O. Box 13038, Lansing, Michigan 48901. 
+
+
+
+
+Contest boasts 3200 award 
+
+TTie Pi Chapter of Pil low Xj is ipoosonng a writing 
+conlesi, and Ihe winner will receive a BOO cash award to be 
+presenled at Hit Honors Cotivocatioa April IB. 
+
+Cwilealanla mral be regislered as unde 
+IPFW for \ht 1981-82 academic year and have a cwrrrt 3 
+grade average in college English course wort. Conlesunls 
+wtwhaveearnedanyadvanced degree will be dlsquaimpd. 
+
+Conleslanls are lo wnlcooc or two 7»word papers on the 
+loplc"(onuDe."S(ortescould be about good or tadluck, (ale, 
+weallh, or poverty. 
+
+The manuscript mujl be prose fiction andlyped on «ie side 
+olBVby 11" paper, Essays should not have beeisubmilied 
+in dasi, and the aulhon name cannot appear on Uie paper, 
+bul rather In a scaled envelope stapled (o the Tirsl page of the 
+
+Mcmbcn of Ihe IPFW English faculty and Psi lota Xi will 
+Judge the contest. Entries may t&gt;e picked up after Acril 19 
+and any remaining ttHa May 3 will be discarded. Entries 
+should be turned into the Deparlmml of English and 
+UnguisucsbeforeSpm Saturday. March M 
+
+[nquirjcs should be directed to Sine Hollander of the 
+English ncpt. 
+
+Bundshuh becomes delegate 
+
+James Bundshuh, dean of IPFW's School of Science and 
+Humanities, was recently appoinliMl as a Purdue delegate to 
+the Argonoe llniversiliea Association. 
+
+Together with two delegates from Ihe Purdue, West 
+Lafayette campus. Bundshuh will helpdeclde and formulaic 
+the policies ol the association, which provides research 
+fadliUcs for member campuses. 
+
+Purdue la one of more than 3(1 science-specialized colleges 
+belonging lo the a 
+
+
+
+Organization gets approval 
+
+Students' Gov em r 
+Sisters of IPFW, an 
+students about the need for volunlecrs io become "Big 
+Brothers" or "Big Sisters" lo children in the area. The group 
+will have an information booth in Ihe basemenl of Keller Hall 
+Jan. 4,7, and 11 
+
+
+
+Student wins poetry award 
+
+The American liillegiale Poel5 Anthology has presented 
+Gloria Arthur, !PFW student, an award for her poem entitled 
+"Granny, the College Coed." Tlie Anthology Isa collection of 
+conlomporory poetry written by college men and women 
+from every stale and is issued by internal Publications of Us 
+Angeles, CA 
+
+Bank calendars still available 
+
+Mary McMahon, secretary lor the OWice of the Vice 
+Chancellor, announced thai 100 Lincoln Bank Calendars are 
+still available for all students, faculty and sia(( mernbers to 
+
+
+
+Adamsky fund 
+
+
+
+tConllnucd from Page 1) 
+
+
+monthly coffeehouse per- 
+
+
+The Fort Wayne FcmlnlBlB 
+
+
+formances, copies of their 
+
+
+
+
+newsletter, or furthw in- 
+
+
+women's groups, such as the 
+
+
+formation about their 
+
+
+
+
+organiialion. 
+
+
+Womt^lNOW) and the Fort 
+
+
+Referrals lor assistance 
+
+
+Wayne Women's Bureau. In 
+
+
+from Ihe Calhryn Adamsky 
+
+
+sponsoring programs and 
+
+
+Women In Need fund 
+
+
+
+
+generally come from social 
+
+
+
+
+
+
+FWF publishes a 
+
+
+plications for aid may be 
+
+
+newsletter and welcomes 
+
+
+submitted lo the FWF by 
+
+
+
+rshlp, participation i 
+
+
+
+Port Wayne tsasi. 
+
+
+
+
+Video tape, personal profiles 
+and concerned interviewers 
+make Two's Company an in- 
+telligent option. We have found 
+dates for corporation 
+presidents, business ex- 
+ecutives, doctors, lawyers. 
+
+teachers, secretaries 
+
+A selective match 
+making service. 
+
+"Video Dating Service 
+124 "W. "Washington 
+
+Suite 3&amp;4 426-8859 
+
+
+
+LOHDON SCHOOL OF ECONOMICS 
+
+
+
+CnO'ipl'., Qtn-n^it,^ 
+
+
+
+Women 
+
+collect 
+
+gifts 
+
+
+
+
+
+
+throughout the IPFW 
+campus, hoping that 
+students and faculty will 
+
+
+
+items, canned foods, and 
+green stamps as soon as 
+possible," said Judith 
+ainton, IPFW director of 
+Unlvcnlly Retatlons, who 
+charge of this year's 
+
+
+
+rojecl 
+
+
+
+uversity Women's Hub 
+It outside The Fort, 
+sh may be deposited in 
+I decorated cans on 
+
+
+
+Snails reward prof 
+
+
+
+- THE COMMlralCATOR - PAGE 3 
+
+
+
+By KAYLEEN 
+
+REX'SSER 
+SunWriUr 
+
+
+
+It people, 
+at IPFW 
+studying 
+
+
+
+tnological scimces, has been 
+swarded S4G.55I by the 
+\a1iDnal Science Foundation 
+for his studies on temporary 
+
+BroATi said the money is 
+financing a four-year 
+program designed to iludy 
+the types of bfe history 
+patlems of temporary pond 
+snaib. Temporary ponds are 
+so called because they dry up 
+
+During Ihe first half of the 
+
+
+
+how snails adapt lo a tem- 
+porary envinicimeni and ba« 
+their bmdiDg and length of 
+tile changes die lo the 
+temporary envirocmenl- 
+
+By 19K1. when the program 
+b scheduled lo end. Brown 
+hopes Id be able to generalize 
+ihc results of his Qndmgs to 
+other populations 
+
+But why study snails? 
+
+
+
+belter than other ai 
+
+
+
+
+
+
+at led us 
+
+
+
+
+
+
+conducted at Crooked Lake 
+Biological Station, which is 
+run b)' the IPFW biology 
+department. Brown is being 
+assisted by one graduate and 
+
+
+
+■ESil^^^^^H 
+
+
+
+
+incense " Jewelry • Grff Hems • Smoking 
+and Other Accessories 
+
+(219) 4U.4T11 
+
+Hours- Mon ihcu Frj. 10-9, Sol. 108, Sun, 13-5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AAU elects Ryan 
+
+
+
+elected John W. Ryai 
+president oI Indiana 
+University, lo the position of 
+chairman of the association. 
+Byan,prc3id™iof Indiana 
+Unlverriiy smcs 1971. wiU be 
+Ihe presiding olllcer ol the 
+ei-year-old AAU that was 
+founded by the first 11 
+
+offer Ph D. degrees 
+
+The AAU encourages 
+
+
+
+government through a 
+variety of aclivilies. 
+
+Ryan, a former president 
+and member of Ihe national 
+executive commlllec of Ihe 
+American Society for Public 
+Admlnlslrabon. holds an 
+M A- and a Ph. D. degree 
+from lU and an A.B. degree 
+from the University of Utah. 
+He Is credited with the ad- 
+min! slra live reorganization 
+
+
+
+ol 
+
+
+
+rsily 
+blishcd Ihe present 
+statewide, eight campus 
+system during his rettim to 
+ni in tsea as vice priaidenl 
+and chancellor to direct the 
+regional campus develop- 
+
+
+
+ALLEN COUNTY 
+OPEN AMATEUR 
+
+CHESS TOURNAMENT 
+
+OPEN TO EVERYONE 
+
+ONE DAY SIX ROUND SWISS-IN TWO SECTIONS 
+
+THOPHIES UP TO SIXTH PLACE. 
+
+CHESS SETS AND SUPPLIES FURNISHED 
+
+DEC. 20, 1981 
+
+FREE COFFEE AND SOFT DRINKS. 
+
+SCHEDULE: 8:30 AM TO FINISH. 
+
+REGISTRATION LIMITED TO 64 PLAYERS 
+
+ENTRY FEE. =6™ ADVANCE, ^7^ AT DOOR, 
+
+FOR MORE INFORMATIGni 
+
+CALL SHINABERY HALL 749-4a79 
+
+4630 E. PAULDING RD. 
+
+FORT WAYNE, INDIANA 4B81G 
+
+
+
+Every year at this time 
+what is usually called 
+
+
+
+
+is magically transformed into 
+
+AUDIO 
+NORTH POLE 
+
+and, as usual, Santa's elves have put together 
+some holiday specials lor you: 
+
+^N.A.D. 3020 Integrated 
+Amplifier 
+
+IM0WS199°° 
+
+• SANYO &amp; PIONEER 
+Car Stereos 
+
+at unbelievably low prices. 
+
+•All auto-security alarms at 
+
+10% OFF 
+
+
+
+3413 N. Anthony Blvd. 
+
+Behind 
+
+Karma 
+
+Records 
+
+
+
+Phone 
+484-7769 
+
+
+
+43ampus 
+calendar 
+
+
+
+THURSDAY 10 
+
+Soc/Anthro Forum. "Labor Issues in the Fore Wayne 
+
+Area." Walb 114, noon 
+Nursing Information Meeting, Neff 13B, 4 p.m. 
+•Men's basketball, IPFW at Ashland College. 7:30 
+
+
+
+FRIDAY 1 1 
+
+Forensic League, Neff 380, noon. leam abouC 
+
+Christmas plans, eyeryone invited 
+•Women's basketball, IPFW at Taylor Tournament. 3 
+
+p.m. 
+
+SATURDAY 1 2 
+
+SUBOG movie, "High Anxiety." Walb Ballroom, 7 &amp; 
+
+10 p.m. 
+•Men's basketball, Grace College at IPFW. 2:30 p.m. 
+•Women's basketball, IPFW at Taylor Tournament. 1 
+
+£3 p.m. 
+Rnal exams and last week of classes 
+Tae Kwon Do Club, second floor, Walb. 1 p.m. 
+
+
+
+SUNDAY 13 
+
+Dental Hygiene Capping, Neff Recital Hall, 3 p.m 
+
+MONDAY 14 
+Faculty Senate, K46, noon 
+
+A play, "The Original Christmess." Walb ballroom. 
+1 3-1 p.m.. sponsored by Campus Ministry 
+
+TUESDAY 15 
+
+Suzuki Concert, Neff Recital Hall, 7:30 p.m. 
+
+FRIDAY 1 8 
+
+Last day of classes 
+
+SATURDAY 1 9 
+
+•Men's basketball. IPFW at N. Kentucky University. 
+2:30 p.m, 
+
+SUNDAY 20 
+
+Nurse's Pinning, Walb ballroom. 2:30 p.m, 
+
+•Men's basketball, IPFW at Bellarmine, Ky,. 3 p.m. 
+
+
+
+EXHIBIT 
+
+December 1 thru 1 8 — The Annual Faculty Art Show, Dept. of Rne Arts, 
+
+1 D2B West Berry Street 
+
+PLACEMENT TESTS OFFERED 
+
+Placement tests in French, German, and Spanish, Jan. 4. Dept, of Modern 
+Foreign Languages. Sign up by Dec. 1 S, "5.00. at Bursar's office. For more 
+information contact 4B2-5431 . 
+
+CwTvui Calvncbir a •ponwHvd by IndanB Unlvinily-Punliig UnhwvJtv at Rin Wiyni tor lis uH III an 
+
+._._ . ._ _ itoholnclod^inCwipui&amp;ilondwfnuitbii ■ 
+
+11 bt 5 pjn, on tha Thundey pr9ctding th 
+
+
+
+PAGE A — TIIE COMMUNICATOR - DETEMBER 10 
+
+
+
+the arts 
+
+
+
+
+GREAT MUSIC AT GREAT PRICES! 
+
+
+
+
+'Nutcracker' 
+lacks finesse 
+
+
+
+BjMIKEGEFFEN 
+
+The Fori W»yM BaUd'i 
+prodiiclion of Tchaikovsky's 
+Christinas pennnial "The 
+Nulcr^cker" was good, biu 
+
+The opening nighl per- 
+ronnance gol ofF lo a stalky 
+start with all of the (Ian 
+
+
+
+Artlink hosts second annual show 
+
+
+
+Photographers display talent 
+
+
+
+By SIMON MONTALVO 
+BUri Hrllcr 
+
+Over 100 people allended 
+the opening receplion ol ibc 
+Second Annual Fori Woync 
+Area Photngi^ph era Show on 
+Friday, Dec 1. Photographs 
+will remain on eichlhll to the 
+public at ArUlnh Arlspace, 
+
+
+
+Many of thi 
+Among tb 
+
+
+
+and IIOO. 
+
+: displays Ibal 
+
+
+
+
+
+
+(B photogi 
+ver Id ttie otbei 
+
+
+
+
+
+
+Cammenllng o 
+
+
+
+Che show, 
+photographer Michael 
+Poormaa, vitio put the show 
+logelher with Don Smith, 
+said "The whole Idea of this 
+IhlngayearngowBstolry 10 
+gel B good represents 11 on. 
+Tberelias never been a place 
+for photaginphers In Fori 
+Wayne Id show en niiasseand 
+whatwelhoughlwe would do 
+il iry and put something 
+iDgelher on a larger scale " 
+"We weren't trying lo 
+
+Poormsn said "Anybody 
+over [he rank of hobliyist 
+deserves a place (o put their 
+things. Wliat HO wanted to do 
+
+three of one photographer, 
+but maybe eight or ten or 
+twenty so that people could 
+see the kind of work they 
+
+
+
+was thai ol Ina Knight. 
+Concerning her pictures she 
+said, "1 gol a lot of reactions 
+from people saying they 
+ic. Wha ■ 
+
+
+
+going 
+
+holdlDg 
+
+Tlien. 1 cut the photographs 
+(o fit together." 
+
+Dixie Bradley, a well 
+traveled photographer, 
+
+photography "You're 
+
+
+
+featured "I've been in 
+photography loany. many 
+years." he reflected. "I 
+won't say how many yean, 
+but I think nobody Is old 
+enough her 
+
+
+
+I 
+
+
+
+sried." 
+
+
+
+that I 
+
+
+
+bad 
+
+
+
+that 
+
+
+
+1 likely 1 
+
+
+
+I [1 giVE 
+
+
+
+Rellecting on her own 
+work, photographer Yvonne 
+Alien said, "1 enjoy doing 
+self-portraits because I was 
+a professional tnodel in San 
+
+photographers always gave 
+me this 'Vou've got to look 
+this way. you've got to-' and 
+itwas never really who Iwaa 
+. . So to do my own sell- 
+portrail means 1 can put 
+myself on camera the way I 
+
+Pholographer Don Lull 
+explained how he shot an 
+intriguing panorama. "1 
+used a normal lens. Tliere'i 
+ten different pliotographs 1 
+
+
+
+
+derful 
+
+something with other people, 
+Ijarlicularly il you're taking 
+pictures ol exotic locales. It 
+gives yous chance to share il 
+with other people who maybe 
+can't go." Many of her 
+pictures were taken in 
+places like Hondurus, El 
+Salvador and Mexico. 
+
+photographs on a people 
+
+nalese Poorman. "1 was kind 
+
+
+
+said, "because these are all 
+
+photographers and I've only 
+been doing photography for. 
+like, two years" Only IS 
+years old. Annaiese la the 
+youngest photographer In 
+the shoui'. 
+
+On the more experienced 
+Bide, Gabe DeLobbe was also 
+
+
+
+"There's a lot of good pic- 
+hires down here. There's a 
+lot of bad ones. too. but 
+there's mostly good pictures 
+Excellent photography'" 
+Photographer Monte 
+
+
+
+humorous. I guess that's 
+what 1 like to take pictures 
+of, things that strike me as 
+funny or unusual." 
+
+Expressing his viewpoint 
+on the show, photographer 
+Sieve Perfect said. "I'm 
+impressed by the show — the 
+quality, the variety — and 1 
+Just think it's neat that local 
+photographers have a place 
+to go to exhibit their 
+photographs." 
+
+Other photographers 
+
+display include Connie 
+Bishop, Marc Lansky. John 
+Metgcr, Sue Slick, Don 
+Smith, Michael A!an Snyder, 
+Dennis Stierer. and Karen 
+TTiompson. 
+
+
+
+rS'lES':!'}?^- Dancing Daily 
+
+
+
+* SANDWICHES '^™S^ 
+
+• TBYOURCARRY-OLTT , rliiK 
+
+^^^, 0»«11CO.mil&gt;300.m) - LlUU 
+
+ikPEZA „ ^^ ^, „ 
+
+
+
+uii=r-r« 
+
+
+
+:k~^ 
+
+
+
+H aotip or oovniNORS 
+
+
+
+Presents... 
+
+HIGH 
+ANXIETY 
+
+Dec. 12 
+7&amp;10 p.m. 
+
+Walb Union Ballroom 
+Activity Card 
+
+Holders Free 
+All Others »1=° 
+
+
+
+Gourmet Chinese Restaurant 
+
+
+
+
+KEVIN CHU • YING CHEN 
+
+5^ StJoe Road MaHtetPlaceofCanterbuiv 
+Bart «fejtr», Indiana 46815/(219)486-2456 
+
+
+
+I Cg, 5 MINUTES FROM IPFW 
+
+1.^'% IN THE MARKET PLACE 
+
+'3^ OF CANTERBURY 
+
+, Quick Carry.Oift Service Available 
+*LUNCH SPECIALS UNDER '3.00 
+• COMPLETE MEALS OR A U CARTE 
+*FULL BAR SERVICE - PITCHER BEER. 
+MARGARITAS. COCKTAILS AND ALL 
+YOUR FAVORITE BEVERAGES 
+Try Ghngo's Jele - ll'i MB liiloya 
+siNk sanHwleh. Stned inflJme. Only *2.95 
+Oowl.'OOj.m-ilpm UM.-Tnuu . n wu.m-la.m Fn. tSit 
+
+GRINGO'S MEXICAN-AMERICAN FOOD 
+
+.5629 ST. JOE HP. 485-5736 
+
+
+
+The 
+
+
+
+The 
+
+
+
+
+
+
+exaggerated, had no sub- 
+tlety, and the dancers' 
+timing seemed off. par- 
+ticularly in the tiattle scene 
+between Clara, the pnnce 
+and the mice. Tbia scene was 
+lackluster, and at this point, 
+it seemed the performance 
+would be a total loss. 
+
+How-ever, tiie second act 
+redeemed the evening. It 
+must have talien a while tor 
+
+
+
+reflection of the fact that the 
+
+
+
+like the same company. 
+
+Starrelt was fine as the 
+Cavalier, and hli athletic 
+lea[s and lunis provided the 
+highlight of the evening. 
+Together with Jennifer 
+Habig, as the Sugar Plum 
+Fairy, tie did a wonderful 
+ind each 
+
+
+
+Others in 1 
+
+
+
+I the othi 
+
+
+
+Bwikl, Lara 
+Reynolds and Paul Hansen 
+All performed admirably. 
+All In all. this producUsn of 
+"The Nutcracker" was good, 
+forgiven ila tew flaws ' 
+
+
+
+
+
+
+If y 
+
+
+
+Nareyi 
+Elaryshnlkov, you'll 
+good lime If you ' 
+"The Nutcracker" provid( 
+a fun evening ■ 
+
+
+
+arts 
+at a 
+^ ^ glance 
+
+
+
+On the silver screen 
+
+The SUBOG fdm this week v-ill tie "High Anilely," s 
+1 Ihe Walb Memorial Union Ballroom at 7 and 10 
+
+Saturday. 
+...The Featured film at the Cinema Center this week will be 
+
+"Breaker Moranl," n-hich will be shoWTi at T and 9 p.i 
+
+ihe Downtown Public Liljrary 
+
+Treading the boards 
+
+Arena Theatre continues its production of "Round and 
+Round the Garden" this weekend at the Chamber of Coi 
+
+...ITie Crosier Center will present a one-act play entitl' 
+"First Night," in celebration of Ihe Advent and Christm 
+se^^ins, on Sunday, Dec. 13, in the Chapel of the Crosi 
+
+Concerts of note 
+
+The Windrosc Ensemble will give a chamber music pi 
+formance at 3 p m., Dec 13 in the main auditorium of the 
+Allen County Public Library. 
+
+''..Igor Bukelorf, former music director of Ihe Fort Waynn 
+Philharmonic, will reiurn lo conduct Ihe orchestra c 
+Saturday, Dec 12,alap.m. 
+
+The Fort Wayne Philharmonic will present a specii 
+Christmas program, featuring local children on Saturda; 
+
+
+
+Dec. 1' 
+
+
+
+2-30p.m 
+
+
+
+Photos on display 
+
+
+
+[5' 
+
+
+
+Fort Wayne's 
+Newest and Only 
+
+^STAND-UP SINGLES' 
+SALOON 
+
+Noon Lunch Specials ^2.95 
+
+1:00 am, 10 2 p.m. 
+
+
+
+i 
+
+
+
+
+1^ 
+
+
+
+'T»OD-*jl'IKITS(j&lt;M(0 n.MKS 
+
+■1111 PARNELL AVENUE 
+ACflOSS FROM THE COLISEUM 
+
+DANCING 
+
+HAPPY HOURS 
+Vz PRICE NO LIMIT 
+
+Monday ihru Friday 5-7 p.m. Sal. 2-4 p.m. 
+Monday Ihiu Thursilay Mldrlgni to 1 a.m. 
+Sandwiches - Muncnies served dally 4 
+
+Noon Lunches Mon.- 
+
+
+
+ved daily 4-11 p.m J 
+
+in.-Frl. 11-2 / j 
+
+
+
+PREGIMAIMT? 
+
+Your baby nir fingernails by 1 1 
+weeks after conception, and 
+eyelashes by 1 6 weeks. Need help? 
+Call 
+
+BIRTHLINE 
+422-1818 
+
+
+
+DECEMBERlO.tegl-THECOSL'itUMCATOR-PAGE S 
+
+
+
+
+ir VOU H«WE TflKW WI3I OR n"s 
+EOinWlEMT- ™iK TO WAYNE STEFFfN 
+ROOM 215- UflLD UNION BLDt 
+
+
+
+
+
+fttturingSalulBar, 
+Pizza, Spaghetti, ., 
+Chicken and Sandwiches U 
+
+Also-Beerawini 
+
+Washington Square 
+Shopping Center 
+
+xrAt 
+
+
+
+
+SinlSiUm't l bAVfc W MOS 
+
+•2'"&gt; OFF I 
+
+S Ol"f ^^ Regular Price of An) 
+
+I ►*&gt; , FAHILYSIZE 17" PIZZA S 
+
+S .i,&gt;i* wmmiLs COUPON 
+
+*= " SAFARI PIZZA TREAT 
+
+
+
+itami.l|!»/ WITH THIS COUPOMSinnHIP 
+
+
+
+M 
+
+
+
+Fort Wayne 
+
+FILM GUIDE 
+
+
+
+F 
+
+
+
+
+sSUCn^E 
+
+
+
+WDNDBHIIfttilDll 
+
+
+
+PACEfl-THECO\nHUNICAT0R — DECEMBEBIO. isei 
+
+
+
+
+Historical Society displays 
+children's toys for Christinas 
+
+
+
+By JACKIE WIORA 
+SutI WrJUr 
+
+For people ot all flgej. 
+
+iS noka images ol 
+
+fo playing with [oyi. 
+
+Vulelide uasoo, the Allen 
+currenlly displaying 'Toys 
+
+
+
+an. including children' 
+ilhes from 
+
+d 19lh century 
+
+
+
+
+Benl' whe 
+
+
+
+can be aeen si Ihr Allen County Ilblorlcal Society 
+MusFom. IPhotahy Dun Rosi) 
+
+Bent continued 
+
+ICoBltiiuedfrDnipsgcli lines from the ploy Com- 
+
+At this point. Templar plcltly oul ol eontc«, and 
+
+talked oltoul hla experience given a worpcd view ol what 
+
+wlUi AC-DC and the sub- occurred during a per 
+
+sequent problems following [ormance 
+
+the mooning Incident. "He didn't seem to hear o 
+
+"Why Is full male nudily word 1 was saying. We arc 
+
+allowt ■ ■ - ■ 
+
+
+
+Ihe AC-DC concert?" asked 
+Templar ol fUclne 
+
+"liiere Is a set procedure 
+wllh Ihe vice squad, " 
+Haclnc CKplnlned "They 
+only Investigole per- 
+
+complalnl has been filed by a 
+clUien No one who has seen 
+'Bent' has filed such a 
+complaint.' 
+"I anw 'Bent," replied 
+
+
+
+This toy. ithlch Is a dog llileniog loan old 1 
+Has the piclure that appeared on old RCA record labels. 
+This toy. along with Dtbtrt. Is on display al (he AUcd 
+County l{lilaclcalSDclFlyMuifuoi.lPliotDby Dean Ross) 
+cannon (hat really worked, andragswereputintliellllic 
+The cannon was used to cannon and then shot o[( in 
+t^etebralc the Fourth ol July, place of fireworks, she said, 
+according to Margarel The display also featured 
+Schram, Ihe Historical old dalls. cast-iron toys, I9lh 
+Society curator. Gunpowder cerilury cameras and a 
+
+
+
+ity set that was hand- 
+made in Gennaay during 
+World War U. 
+
+The museum only hu 
+
+about three perctot of its 
+
+toys displayed in the exhibit, 
+
+Schram eiplained. '■We 
+
+ome new ones out this 
+
+she said, "as well as 
+
+
+
+Themuseumdocs not have 
+the money to buy ita own 
+objects. Schram said, so It 
+gets moil oS its exhibits 
+through donations. "We 
+generally don't accept loans, 
+she said. "We would rather 
+have the legal ownerahlp of 
+our cxhlbita." 
+
+The "Toys of Chrlalmaa" 
+exhibit will continue through 
+January. 
+
+
+
+line. 1 have to respond to 
+this Somclhing has to tw 
+done about clarifying what is 
+
+munily. 1 should think Lorry 
+
+Life would agree with me " 
+
+And what if Prosecutor 
+
+
+
+pursued? "I'll lake : 
+office - as far as I 
+
+
+
+man to risk arrest 
+
+
+
+to the community to set those 
+standards, either high or 
+low, but they should apply to 
+jlveryonc equally 
+vp'ifa dancer in a bar has to 
+icarnG-slringandhoveher 
+ilpples covered, the 
+Bclor in "Benl" should wear 
+B Jock strap or otherwise 
+
+genitalia " 
+
+Alter the broadcast. 
+Templar did Indeed flic a 
+formal complainl lo shul 
+
+
+
+"Maybe I'm na 
+
+sophisticated au&lt; 
+Fort Wayne Ihatwi 
+plays ihDt speak to their 
+lives — dillicuU plays aboul 
+complex issues. And despite 
+all this, 1 still believe II," 
+The day alter he an- 
+
+
+
+
+
+
+Mplai, 
+
+
+
+mplBl 
+
+
+
+munity. 
+
+
+
+allow 
+
+
+
+■TTiDre IS different art for 
+spcciol different people. There are 
+consistent rules applied 
+ere. It is for Ihc community 
+
+
+
+Ihcnudily cut from thi 
+lie also asked ~ 
+
+tho ploy would close 
+
+days, todeciae 01 wnai 
+
+Following his interview on their standards-, I 
+
+"Pobil Blank," Huberman to sec some 
+
+TOiccd ills anger at Tcm' derinilely set." 
+ptar'a surprise move, "After When asked if 
+
+Ihe show, he tTcmplar) consistcnl by Tiluig charges 
+
+aikedmc'Didlburnyou-'l against 'Bcnf while ol&gt;- 
+
+lold him ho had exaggerated jecting to the treatment of 
+
+the content cl 'Bent,' taken AC-DC. Templar replied. 
+
+
+
+bother 
+in- legal thing that he ^ 
+
+
+
+
+
+
+; very important is 
+
+
+
+
+Tton 
+
+
+
+bble,® 
+l Oman s 
+
+
+
+HOLIDAY SAVINGS 
+SPECIALS 
+
+
+
+$100 
+
+
+
+OFF 
+
+
+
+I ANY 10" HAND TOSSED § 
+
+I .ROUND OR 10" S 
+
+MONSTER PIZZA. ' 
+
+Ciiinai be ukJ wiilt im other 
+; OFFER EXPIRES JflN 9. 1982 
+
+
+
+$900 
+
+
+
+OFF 
+
+
+
+ANV 14" OR IG" HAND 
+TOSSED ROUND, 14" 
+MONSTER OR lARGE 
+DEEPDISH SICIIIAN 
+PIZZA 
+
+
+
+29ID MipfictHl Rd *Zati. 
+W5.T5SI 48 
+
+
+
+$150 
+
+
+
+OFF 
+
+
+
+I ANY 12" HAND TOSSED S 
+
+I ROUND OR MEDIUM i 
+
+3 DEEP.DISH z 
+
+SICIIIAN PIZZA 
+
+
+
+Offen EXBRES JAN 9, 
+COUPON 
+
+
+
+$2 
+
+
+
+50 
+
+
+
+OFF 
+
+
+
+ANY 20" HAND | 
+
+TOSSED ROUND S 
+
+PIZZA ' 
+
+Ciroiit be ifiJ mill in, uUia 
+OfFER EXPIRES J4W 9,1982 
+
+
+
+
+
+
+different (ypea of art and 
+
+
+
+"TiK &lt; 
+
+
+
+munity i 
+
+
+
+process of investigating tht 
+play." Duemling said. 
+However, he warned that if 
+the investigation indicates 
+that Ihe play violates the 
+anti-obscenity statue, those 
+persons involved with its 
+
+with criminol offenses, even 
+though the play is no longer 
+in production 
+"dl Harp, the young man 
+
+
+
+jump al the chance to have 
+this type of theater available 
+lo them. It's ludicrous to be 
+attacked for learning and 
+
+Another major character 
+r'Bent" isHorsl. played by 
+
+
+
+IhDt go beyond previous 
+knowledge. A part like this 
+might come along once 
+
+North agreed the play has 
+
+confronted early in the play 
+with o homosexual 
+relationship," North said. 
+
+they're rtraling for ' 
+
+
+
+
+
+
+
+
+
+
+
+
+It his 
+
+
+
+ilily is 
+ihatslgniflcont, Ihe love and 
+deflonee in the face of op- 
+pression Is,'' 
+
+The performance Is over, 
+but whether or not there wUI 
+
+
+
+learn about myself to por- 
+tray Horst completely. I had 
+lo understand his feelinxs of 
+
+
+
+himself told 
+Ihat "Bent" 
+some of Ihe 
+'Tinest. superb acting I han 
+
+The Supreme Court has 
+ruled that "nudily In Itself is 
+not patently offensive unless 
+II violates community 
+standards or is presented in 
+a patently offensive sexual 
+Bcl." Bill Harp's nude scene 
+consisted ot a six-second 
+walk across thcstagc. Now 11 
+Is up lo Fori Wayne officials 
+lo decide what. 11 any. fur- 
+ther action is lo be taken 
+with Templar's complaint 
+
+In the meantime. North 
+has his own opinion of Ihe 
+recent acllons taken, "If Art 
+Templar starts Irading 
+freeikims, manipulating and 
+forcing decisions, he risks a 
+regression lo a type of 
+lunity 
+
+
+
+ildn'l hove done IL He 
+1 his friends have been 
+y supportive, and he 
+
+; thought, opens some 
+
+
+
+religious reasons, to the nude 
+scene was complaining 
+about the play [ could say. 
+That's their opinion' and 
+respect Ihcir motives. But 
+Templar himself states it's 
+nol Ihe nudity or even Ihe 
+portrayed that 
+
+
+
+STUDENT COLOR PORTRAIT 
+SPECIAL 
+
+Individual or Family Pictures 
+One 8 X 10 Custom Print Only 
+
+$1950 
+
+Chfjose Your Favorite 
+
+Pose From 6 to 1 Full Color Proofs 
+
+Portraits Must Be Taken Before 12/15 
+
+To As.siire Deliveo' By Christmas 
+
+CALL TO ARRANGE AN APPOINTMENT TODAY 
+
+LIVINGSTON STUDIO 
+
+924 DELAWARE AVE. 
+
+FT. WAYNE. IN 46805 
+
+PHONE: (219) 422-2007 
+
+
+
+STOP! 
+
+LEAVE EVERYTHING! 
+
+for 45 minutes, and reftiel 
+your Christmas Spirit 
+
+The Original Christmess 
+
+by Will Dixon 
+directed by John Tolley &amp; Molley McCray 
+
+
+
+Hilarious, Ironic 
+
+Zany, and a 
+
+little big irreverent 
+
+Only for the 
+
+Burned out 
+
+Worn out 
+
+Scrooged out 
+
+Midnight oiled out 
+
+Dec. 14, 12:00-1:00 
+
+Walb Union Ballroom 
+
+A Gift To You From Campus Minisbl 
+
+
+
+
+INfC0MM4MD 
+
+
+
+
+curs, 
+
+PfRMS 
+
+SCOUM 
+
+FOR IHE 
+
+irCfTTHElOOKSL 
+
+
+
+CommaiKl I'crforniaiicc 
+
+HAKSrYUmfORMlNUID WOHIBI 
+
+GLENBROOK SQUARE 482-4886 
+
+Open 9 a m -9 p m Mon -Fn 
+9 am -6 p m Sat,, 13 p m -5 p,m Sun 
+
+
+
+Found Gold 
+
+
+
+Natural gold nuggel jewelry. 
+
+A lasting gift of 
+delicate gold forms. 
+Small golden shapes 
+
+on a fine chain. 
+
+Certified authentic, . 
+'^'^.- Each piece is unique, 
+
+naturally. 
+
+
+
+
+
+
+
+
+
+
+MAKE YOUR 
+CHRISTMAS EASY 
+
+
+
+
+20% OFF OUR 
+
+ALREADY DISCOUNTED PRICES 
+
+EASY PARKING IN AND OUT 
+
+WE'VE GOT JEANS 
+&amp; TOPS FOR EVERYONE 
+
+ALL DISCOUNTED PBICES 
+THERE'S ONLY ONE, THE ORIGINAL 
+
+GLENWAY 
+
+BARGAIN CENTER 
+
+
+
+DEC^LMBERID.ISBI-THECOIJMUNICATOR-PAGKT 
+
+
+
+sportjs 
+
+
+
+Tuskers win Sertoma consolation game 
+
+
+
+Men's basketball team wins its first 
+
+
+
+ByMIKERDEGER 
+BliirWrllcr 
+The IPFW men-i 
+bHkctblll Icim brought 
+hoRic lU finl vlctoo' wllh a 
+OMuiiKing M-M Ihrflihing of 
+
+
+
+imlngbj 
+
+
+
+
+
+
+ScrtoiTiB Tounumtnl [dayed 
+here over Uie wediend. 
+
+Led by Bnlor guard Ron 
+Bojrab't game-hlBh 23 
+polBU, the tlukers were 
+able lo Fend off (be •lubboro 
+Kingimen v/Uh ■ itlcky msn- 
+to-mnn delense. 
+
+
+
+ard Tim Scali' 20 pointa. 
+an altcmpl lo play 
+X wllh ihe Tuiker 
+HM. the Kings men tried 
+!l into a running game 
+
+
+
+ihal poinl. They came out of 
+the lockerroom in a flurry. 
+
+Steve Driver gelUng hii Tinl 
+&gt; poinls of the anennxm, 
+
+
+
+then 
+
+
+
+lopbon 
+
+
+
+
+
+
+mpo, ibcy foned the 
+
+
+
+Gary Rinard pLckid 
+three point play to give Uk 
+Tusken a conunanding ll 
+paint lead, *6-31 
+The Kingsmen weren't 
+
+ifl on a tear. ouUcoring tbe 
+nmeleam iS-t over the nexl 
+Ivc-and'abalf minutes to 
+rut the lead to 5»-». witb 
+i3:U left in Ibe cotiteit. "Dial 
+
+
+
+determined Tuakets. 
+
+Friday, the Tuikeri 
+opened the Immey wilh St. 
+FVands. The Cougars scored 
+the game's last lii points lo 
+come from behind to upend 
+theTuskcrsU-ST, to spoil tiie 
+IPFW's bid to repeat as 
+Sertoma champions. 
+
+The game with SL Francli 
+was a dog- right Trom star! to 
+nnish. Tbe Tusken came out 
+looking like they were going 
+lo nm Bway whm Driver 
+scored on a backdoor play. 
+
+Bolrab hit on a short flve- 
+
+
+
+switehing from a Iwo-lhre 
+
+defense. Tlie long Tuskei 
+draught finally ended whei 
+Rinard pickaj his only tv.'i 
+points of the Tir^t hall, but b 
+also picked up hia fourth fou 
+dC ihe game, a charging call 
+on his rollow-lhrough after 
+tbe layup. 
+
+fUnard then picknl up a 
+lechnicat foul, as did the 
+Tusker bench, giving SI. 
+
+
+
+picbng up his fourth per- 
+sonal, coach Ken Workman 
+put Ireshmon forward Tom 
+VogJewede into Uw line-up 
+Vogtewede seemed lo put 
+new hie into the Tusker 
+attack, as they clawed their 
+
+
+
+shifting on every turnover 
+and haikfL The Cougars 
+didn't let the Tuiken hold 
+the lead lor very long ai they 
+kept two or three up on the 
+Tuskers, until Voglewede 
+went in lor a layup on ■ back- 
+door play 10 give IPFW a » 
+Ulead with Snslefl to play. 
+
+
+
+The Cougars preued. and 
+scored again going on lop U- 
+Mwiili3:10 left The T\i»lan 
+then gol anoUicr Iree-thn* 
+opportunity, as Elojrab wai 
+fouled with 3:43 left. He hit 
+both ends of (he one and one. 
+giving the Tusken their laM 
+lead of the game S7-S6. 
+
+The INiikera had a tew 
+opportunities lo pull it out, 
+tut Boglewede. who vat 
+
+
+
+1 one up- comeback. 
+
+
+
+mined on a otie- 
+ipporlunlly wllh 
+l.X) iefl. They also were 
+laiable lo break the Cougar 
+preu In the clutch, ai Ibe 
+more experienced Coivan 
+prevailed. 
+
+
+
+Komets vault into first place 
+
+
+
+Fistfights mar game, IHL suspends Komet 
+
+
+
+ByMIKEFRANKE 
+Bull Writer , 
+
+The Fort Wayne Komet 
+and Flint Generals went at 1 
+e Coliseum li 
+
+
+
+Fori Wayne Police Ileparl- 
+menl loseparatc Ihe two, but 
+Phillips sUll wanted more. 
+
+
+
+
+
+
+9 ihan 
+
+
+
+p losing the 
+
+
+
+tlie topic ol conk'e rial ion 
+. aller Die game. 
+
+In the second period, ibe 
+: Komcta' Bob Phillips and 
+' Fllnls' Jell L.i!vermon paired 
+
+olf In a (iatright (hal ended 
+
+
+
+: conslnnl liadgcri 
+receiving from 
+
+
+
+It Ibe 
+
+
+
+Levcrman were scpe rated 
+
+evldcnl that Phillips wanted 
+mure He broke away from 
+the men In stripes, picked up 
+a slick and dashed lo the 
+Flint penalty box, where he 
+
+
+
+&gt;r the t 
+Thescuinein the penalty 
+
+action. A pane of glass 
+separated Ihe penalty box 
+■ ■ the Komet 
+
+
+
+the penally n 
+
+
+
+the 
+
+
+
+s fell c 
+
+
+
+Tilorli 
+
+
+
+Ihe Komel bench stirred 
+again ... it was Phillips 
+trying lo get back out onto 
+the ice. He didn't make 11 this 
+time, as a group ol Komet 
+players held their ground Bl 
+
+
+
+the ic 
+
+
+
+The 
+
+
+
+CLASSIFIEDS 
+
+
+
+6 FT. DECKBOAT. 50 Hp 
+
+Motor Trailer Bull I -in 
+seals , storage, top allows 
+standard clearance, in- 
+cludes life vest and bells. 
+Lots of extras. SlUa DO. 
+iVEForl Wayne. 4^2-2862. 
+
+
+
+BERT AND SUE'S 
+
+Christmas Special Sale. 
+Dec. 12, IM 30*5. Ws, 
+sa's clothing. 
+
+
+
+SOMETHING BORROWED. 
+
+INC, Look great for Ihal 
+holiday parly, dance, 
+banquet. NewYear'sEve. 
+liAs of formal gowns to 
+
+
+
+En-22&amp;3 
+
+
+
+
+
+
+JEFP THE SINGING 
+MESSENGER delivers all 
+
+telegrams by phone or In 
+person Ft W 
+
+ur mc»SBg Ih Itai 
+
+
+
+
+w HJelectpdnics ™ 
+
+
+
+3433e.WashlnglanBhf[l. 
+
+
+
+was a Ubulalion of penalty 
+As far as the 2.100 fans in 
+
+
+
+ol the game was secondary 
+lo what Ihey had Just seen. 
+
+muttering, "I've never seen 
+anything like Ihal before" i 
+
+
+
+volked 
+
+
+
+' Ihe 
+
+
+
+picked up a stick and made a 
+rwi lor the Flint bench. 
+Phillips used Ihe sUck os a 
+
+General bench, hitting a 
+couple of players and 
+glancing off Flint coach Ted 
+
+The liesly Garvin Ihen 
+picked up the slick and fired 
+II back at Philllie. At Ihal 
+point several Komel players 
+personally escorled Phillips 
+ofr the ice. 
+
+
+
+Colist 
+
+The K's will probably be 
+without Phillips for awhile. 
+as Ihe IHL. league olllce 
+
+studies Ihe light lo make a 
+tteclsion on Ihe length ol a 
+Sktspension lor Ihe Komet 
+detenseman. 
+
+
+
+The Kon 
+
+
+
+vcied 1 
+
+
+
+SOMETHING BORROWED. 
+
+INC. Sets ol beaullful 
+bridesmaid's drcKes for i 
+
+
+
+Saginaw's John Llnsemen 
+scored thre« gcals in the fmt 
+seven minutes of IhC game. 
+The Komets stormed back 
+to score five of the next six 
+goals to defeat the Gears. 5- 
+-1. The Komets gol two goals 
+from Barry Scully and one 
+apiece from Terry Mc- 
+Dougall and Handy Irving. 
+Flashy Steve Slockmao 
+
+early in the final period. 
+
+The victory by Ihe Komets 
+placed the team on lop of Ihe 
+
+seven team I.H.L standings. Neil home action lor Ibe 
+That marks the Tirsl time the Komets is Saturday tilght 
+K's have been on lop all against Muskegon. Game 
+
+
+
+Friday Only Sale 
+
+
+
+
+A 
+
+
+
+I PIECE LUDWIG drum set 
+wilh cases. Prolessional 
+quality, taoo or best oiler. 
+For more Inlormatlon. 
+callT4S-l24l. 
+
+TYPING SERVICES: 
+
+College Manuscripts. Coll 
+T4T-6££8. 
+
+WANTED: 4 wheel drive 
+vehicles and driv-ers lo 
+transport bank employees 
+
+
+
+per hour plus 3S cents per 
+mile. Contact Tom Lln- 
+nemeier, Fort Wayne 
+National Bank. A2MiSS 
+
+
+
+25% OFF 
+
+all clock radios and tape recorders 
+Plus 20% off all men's 
+
+sweaters 
+30% off alli.D. Bracelets 
+
+Fri., Oecembei lllh Shop From 9 lo 9;30 
+
+JCPenney 
+
+
+
+
+friend 
+
+*'home 
+to study 
+
+
+
+lrequt"Ii» assianeO novels pljys a/'^« 
+jno poems Use inmi js «! .»£\ 
+
+TNT, rt gceji loi nflwig vou 1||'' iTl'" 
+
+llfy rs rrajy lo Mlp jdu nm. 
+
+Available at: 
+
+Foliett's Fort Wayne Boolistore 
+
+Ground Floor Kettler Hall 
+483-6100 
+
+
+
+
+Save Big During The 
+Holidays With Komet Hocitey 
+
+
+
+College Student 
+DISCOUNT RATES 
+
+
+
+52"' OFF 
+
+Adult Prices 
+in All Locations 
+
+
+
+All RiB Tme f1 3 Hoore Per Semester] 
+
+Students— Age 25 end tJnder— Wrth 
+
+Current— Valid iO's Are Eligible 
+
+
+
+HOLIDAY SCHEDULE: AT MEMORIAL COLISEUM 
+
+Saturday ■ Dec. 12 vs. Muskegon Wednesday - Dec. 16 vs. Flint 
+
+Saturday- Dec. 19 vs. Toledo 'Christmas Night vs. H/lilwaul&lt;ee 
+
+Saturday - Dec. 26 vs. Saginaw *New Year's Eve vs. Kalamazoo 
+
+Saturday - Jan. 2 vs. Flint Saturday - Jan. 9 vs. Toledo 
+
+Tuesday -Jan. 12 vs. Muskegon All These Games Start At 7:30 p.m. 
+
+
+
+Adult Prices: Lower Arena/Rlnkside •6°° Upper Arena: 'S°° 
+
+Offer Good For All Komet Home Games 
+Call 483-1111 — Reserve In Advance 
+
+Exciting - Affordabie Sports Entertainment 
+
+A Blessed Christmas and a Prosperous New Year From 
+
+THE KOMET HOCKEY CLUB 
+
+
+
+;E CONfMlmiCATOR - DECEMBER 10. 1961 
+
+
+
+sports 
+
+
+
+Women lose two 
+
+
+
+Play Taylor Saturday 
+
+
+
+By MIKEFRANKE 
+
+
+
+Baikelball Tournamenl 
+hOBled by IPFW IbjI 
+we^enil saw women's ccuch 
+Barb McDonsld's squad low 
+both 111 gamei. 
+
+The TujkBrs weni down to 
+dereal Hi the hinds of Salnl 
+FronciJ FYJday nlghl, S8-M, 
+■nie lois lo Saint Francis 
+[dacFd IPKW Into a Saturday 
+consolation game ' ' 
+
+
+
+driclt5 chipped 
+
+AmyBrunawECoredT polnis, beginning because 
+
+all of which came from the volleyball commlllmen 
+
+free thro* line Coach McDonald al 
+
+Julie Tetple led the win: thought her team was a lit 
+
+ners with t4 points and nervotE over the weekn 
+
+Nancy Re^ . . . _ 
+
+
+
+physic 
+
+
+
+
+
+
+aspect Ihsl Barb McDonald 
+
+
+
+diana 
+
+
+
+naugh's 
+
+
+
+Inside boards In the li 
+
+
+
+Coach Kirk I 
+Tech squad was 
+going Idlo the 
+but Hunltngton College had 
+other ideas as they beat 
+Tech, 53-52, on Frlday 
+
+On Saturday, IPFW slayed 
+with Indiana Tech through 
+Iho (IrsI hall, bul were 
+unable lo keep close to Tech 
+in the second half and lost 
+
+
+
+toke charge o 
+back up (i 
+
+
+
+aid ti 
+
+
+
+Ihcgi 
+
+
+
+D. CS-iO. 
+
+
+
+30 the 
+
+McDonald is hopeful that 
+veteran KaLhleen Smith will 
+fill the bill on the inside. 
+
+Coach McDonald believes 
+
+the more they play logelhci 
+
+
+
+She's confident that the shots 
+uill lall once the leam has a 
+couple of more games under 
+their belts 
+
+The team played Marian 
+College Tuesday night, and 
+will play in the Taylor 
+
+
+
+eally have i 
+
+
+
+for IPFW to face: 
+
+and Taylor, 
+this weekend, the 
+affuntllJan. 5. when 
+Id. "We they'll host Marion College, 
+practiced a Saint Joseph's visits the 
+Some of the campus on Jan 7. 
+
+
+
+
+
+len-fi Loach BurbMcDonold talks to her IroopsdurlnElh 
+HI Silnl Francis. The guine marked the openlnR ol 
+! squad lost bolholitsijnmes in the Sonoma Tournamet 
+der of the season. (Photo b&gt; Jim Mohon I 
+
+
+
+Athletic Center areas open 
+
+David R, Skclton, IPFW more credit hours can use and guest ol any fee payer 
+
+athletic director, announced the facility free of charge. must pay a S2 dally fee. 
+
+that the Athletic Center has Students taking less than All facility users must pay 
+
+opened on a limited basis nine hours, faculty and staff 13 per hour lo use the 
+
+dependent on the degree ol members, and spouses of racqucthall courts. They 
+
+completion The jogging students and [acuity and must also pay either a M 
+
+Irack and welghl Irainhig staff members must pay semester fee or a t,M dally 
+
+
+
+either a it; 
+S: dully Ic 
+
+
+
+fee to 
+
+
+
+During Christmas break. 
+
+
+
+Nov. 21 and can be 
+
+students, faculty and stall Dependents i 
+
+members Monday through and faculty and stall the Athletic Center i 
+
+Friday from 9 am. lo 5 p.m. members must pay a tl dally open for use from 9 a. 
+
+" dcnis taking nine or fee. IPFW Alumni members pm. 
+
+
+
+
+J5|C«J Everyday Special 
+£*) BEER&amp;WINE 
+
+212 W. JEFFERSON BLVD. 4262778 
+
+
+
+TWO for ONE SUB SANDWICH SPECIAL 
+
+
+
+Buy One Sub Sandwich | 
+at the Regular Price and || 
+
+Get the Second FREE °| 
+
+
+
+With this cnupon 
+COUPON 
+
+
+
+Weekdays 7:DD a m.-Mltfnighl-Salurday 11:00 3. m,-Mldnlghl*Sunday4:0Dp.m.-Mldnlghl 
+
+
+
+•10°° FIRST VISIT 
+
+
+
+W 
+
+
+
+
+WITH THIS AD 
+
+Special Offer 
+
+Reshape Your Body 
+With Cellulite Treatments 
+
+Guaranteed To Lose 2-3 Inches Rrst 
+Visit or No Payment Required. 
+
+
+
+
+
+
+COUPOIU 
+
+
+
+483-2268 
+
+VEN imm. u, UT i^e. m ii-s 
+
+
+
+Athletes take break 
+
+The entire IPFW athletic The women's team will 
+schedule will take a Koliday play its last games this 
+vacation along with the weekend at the Taylor 
+
+
+
+""* CHRISTMAS,"™ 
+
+tiii:si;&lt;;rf.i 
+
+tiRlAJ I 
+
+HAIR. 
+
+
+
+^1=^1^ 
+
+
+
+
+Say Merry Christmas 
+
+With A Gift From 
+
+Harvey Electronics' 
+
+Complete Line of Electronic 
+
+Appliances, Equipment 
+
+and Supplies 
+
+
+
+•Radios 
+
+•Tape Recorders 
+•Video Recorders 
+•Audio Equipment 
+•Televisions 
+•TV Games 
+•CB Radios 
+
+&amp; Antennas 
+•Radar Detectors 
+•Car Tape Players 
+•Small Parts 
+'Technical Books 
+
+
+
+Harvey's Electronic Center 
+
+3101 N. Clinton Ft Wayne 483,0113 
+
+
+
+
+THE FORT 
+SPECIAL! 
+
+S Hot Dogs for the Price 
+Of One 55^ 
+
+Vaiio Oec i-i-iB Limii One Coupori Pet Visit. Pet Cusiomet 
+
+
+
+Indiana Air Guard Does 
+More Than Fly 
+
+WE TRAIN: 
+
+
+
+
+Grow 
+
+
+
+Call Today 
+
+
+
+747-4141 
+
+
+
+THE BOOZE 
+BARREL 
+
+FEATURIIMG... 
+
+•An Excellent Wine 
+
+Selection 
+•Weekly Specials 
+• Free Delivery 
+
+Open Man. thru Sat. 9:00 B.m.-10;30 p.m. 
+
+3307 North Anthony Blvd. 483-41 1 1 
+
+[Former^ North Anthony Liquors] 
+
+
+
+
+
+Rainbows 
+Of Life 
+Bookstore 
+
+HOLIDAY CALENDAR SALE 
+
+15% OFF ALL 1982 CALENDARS 
+
+ALSO TAPES — OVER 100 TITLES 
+
+•Allegro Classical Cassettes '4.98 
+
+•Letting Go of Stress •9.95 
+
+•The Opening of an Inner Eye "8.98 
+
+• Ancient Echoes — Steven Halpern '8.98 
+
+•Turning It Over — May Christian '7.37 
+
+303 W. Jefferson M-K 12-9 
+
+Ft. Wayne In. 46802 Sal. 10-5 
+
+219422-7913 Sun. 12-5 
+
+Parking In Rear 
+
+
+
+Temptation "Organic Stimulant" 
+has come to Fort Wayne 
+
+Be our guest. Use this coupon al the lollowing localions. THANK YOU! 
+
+-COUPON 1 ^ Karma Records 
+
+&lt;jS'''S'fe,^''iT;^"'^'A' I ^Keltsch Pharmacy 
+^^X^' $1,00 OFF I Washington Square 
+Se-reMPTATON- I ^nainbow Health 
+Products 
+t^O'Suiliuan's 
+Italian Pub 
+i^R&amp;B Sound - 
+
+Columbia City 
+(^Gibson Florist 
+
+&amp; Nursery 
+i^Sound Cellar - 
+Angola 
+, &gt;^ Paraphernalia Palace 
+-COUPON- ' *^ 
+
+"I can resist everylhing but Temptation T-Shirts" 
+Also available afsome stiops 
+
+P.B. S CO. P.O. Box 11485 Fore Weyno, fnd. 4GB5B 
+
+
+
+
+</pre>        </div>
+      </div>
+    

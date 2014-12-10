@@ -1,0 +1,1432 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv7i23indi/communicatorv7i23indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv7i23indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv7i23indi">The Communicator</a>"
+          </h1>
+          <pre>THE 
+
+
+
+COMMUNICATOR 
+
+
+
+MAR 5 IS76 
+
+INfalA'NA-i-'i. SUE 
+. L»BftRV-FO.."[ VIAYtlE 
+
+
+
+y-Purdue Univerally at Fori Wayne 
+
+
+
+Heimann, Greig win presidential race 
+
+
+
+rolleages on SUBOG. saying 
+
+
+
+
+
+
+kofc 
+
+
+
+in g and hustling 
+
+
+
+like Heimann 
+
+
+
+
+
+
+government have finally 
+
+and Mary Paige Greig, I 
+and VP, along with all the candidal 
+running on 
+Greig ai 
+
+percent of the total votes cast, with Mark 
+Warsco and John Barn els slipping by Cyndy 
+Harris and Mike Mc Alexander by five votes 
+
+The 14 senatorial candidates rilled the 
+available 14 seats with no contest from 
+anyone. Three SUBOG cndldates, Marty 
+
+
+
+As Student Body President I fee 
+accomplish the goals set forth in t! 
+platform. Mu office will be open 
+
+
+
+Immediately after being notified of 1 
+election. Heimann said that his number o 
+
+
+
+SUBOG, and that there is 
+it will work and that i 
+students tremendously." 
+
+
+
+&gt;wed that Heimann and Greig galhered 
+
+! votes, Warsco and Banicts collected 2?«. 
+d Harries and McAlexander pulled in 371 
+
+
+
+be who would receive Ihc largest portion 0' 
+the total votes cast. Mark Spade receivec 
+the largest block of votes with an impresslvt 
+
+
+
+Drake, Candi Bieberich, Paul Shoaf, Kathy 
+Wyrick, John Walter, Ray Recce, Nacy 
+Wolfe, and Anitra Tescula ate the newly 
+
+elected officers ni the fir.sl ever SUBOG 
+
+
+
+PA program scrapped 
+
+
+
+p legislature failed t. 
+
+if physician a 
+vitl be phased out 
+
+
+
+sity School of Medicine it 
+
+
+
+WHAT/ 
+
+Hflppenin 
+
+Concert Friday 
+
+
+
+holders a 
+
+
+
+Circle K raffle 
+
+Circle K will be sponsoring a raffl- 
+with proceeds going to the Multipl. 
+Sclerosis Foundation, March 8-20. Prizes ti 
+be raffled are: 15 foot aluminum cano&lt; 
+from North Harbor Marine: a Magnavo: 
+portable T.V.; a camera from Howard'* 
+
+
+
+,pIU! 
+
+
+
+dbyC 
+
+
+
+i the student need r 
+
+
+
+Girls' softfoall 
+
+Any girl who is interested in 
+for the Spring softball team shou 
+!10 of the Union Tuesday, I 
+
+
+
+Florynce Kennedy 
+
+orynce Kennedy, spokeswomen I 
+
+
+
+the university's Convoc 
+
+
+
+German film 
+
+
+
+n film will highlight the nex 
+e International Film Festiva 
+Purdue at Fort Wayne 
+
+
+
+iraprofessionals 
+ram help physi 
+
+
+
+ned through 
+
+
+
+histories, provide health 
+Drm physical examinations, 
+r illnesses. 
+n Tuesday's News-Sentinel, 
+
+
+
+cr.i.iu.wo 2a people were in 
+class last August Another 1! 
+graduate this August; 24 sti 
+
+Most of the staff will le- 
+afier this August. By that til 
+of students will begin their 1 
+
+
+
+1976-77 Election Results 
+
+
+
+Presidential Candidates 
+
+
+
+Harris &amp; 
+
+McAlaxander 
+
+Warsco &amp; 
+
+Barnets I 
+
+Heimann &amp; 
+
+Greig (SOS) ! 
+
+
+
+
+Student Senate Candidates 
+
+Niemeyer (SOS) MMBMMMBSl 
+Agonafer (SOS) HI 
+Lopez (SOS) SE 
+Carto (SOS) SJi 
+Spade (SOS) 
+Hatzigeorgiou 
+Zeigler (SOS) 
+Ross 
+Millhouse 
+Johnston (SOS) 
+Wallace 
+Pfundstein (SOS) 
+Ducey 9 
+Able (SOS) 
+
+SUBOG Candidates 
+
+Shelburne MJI 
+Nuxhall (SOS) B 
+Bierman (SOS) W 
+Drake (SOS) Hi 
+Butler BS 
+Bieberich (SOS) 
+Shoaf (SOS) 
+Belcher 
+Wyrick (SOS) 
+Walter (SOS) 
+Reece (SOS) 
+Wolfe (SOS) 
+Tescula 
+
+
+
+
+
+Tuskers tripped 51-48 
+
+
+
+was defeated at the hands of Manchester 
+
+College, 5MB, in a thrilling second round 
+
+contest of the IWISO Tournament at North 
+
+Both the Masties and the 
+
+iost Spartans made it to Friday's 
+
+byes in the first round. 
+
+prowess throughout the contest, 
+
+
+
+e midway mark, 
+being behind 14-10 with eighl 
+o play, the Tuskers scored (wo 
+
+
+
+Shelley La Roc que put the IV 
+
+
+
+Despite large enrollment 
+
+Ryan wants open doors 
+
+
+
+Sn.lrlans 
+
+Mastodons wer 
+technical foul v, 
+
+Manchester ag; 
+
+Undaunted 
+The Spartans 
+
+
+
+held a three 
+re mounting i 
+
+
+
+
+
+
+
+VD clinic may open 
+on campus soon 
+
+
+
+
+
+
+
+VD is so prevalent among the college age 
+
+
+
+
+
+
+group, Pifer slated. 
+
+
+
+
+
+
+"It'sa very simple procedure todoa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commented. "The important thing is to get 
+
+
+
+
+isao 
+
+
+the history of the patient so the disease is not 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+undetected, sterility, blindness, or other 
+
+
+
+
+
+
+physical disabilities may occur. 
+
+
+
+
+
+
+Pifer has been trying lo get approval for 
+
+
+
+
+
+
+
+
+**- ^ KS. 
+
+
+
+
+
+
+- m 
+
+
+
+
+clinic will make (he final decision as to 
+
+
+
+
+
+
+&lt;v 
+
+
+
+
+Piter emphasized Ihat only student support 
+
+
+
+
+will keep it going. "If we get this approved, 
+
+
+
+
+
+
+il would probably be a temporary thing until 
+
+
+
+
+
+
+
+
+
+
+
+
+Health services is open Monday ihrough 
+
+
+
+
+
+
+Friday from B:30 am to 5:00 pm in room G27 
+
+
+i 1 
+
+
+
+
+of the Student Union. A satellite office In 
+Kettler Hall room 179 is open Mondays 10 
+am lo 12 pm and Thursdays 2:00 to 3:30 pm. 
+
+
+Slarley PUer 
+
+
+
+
+
+Editorial/ 
+
+
+
+Opinion 
+
+
+
+Elections flop 
+
+
+
+Black voice cries out for rights 
+
+
+
+if you didn't want to, try and think how the candidates must feel-after 
+all, they had to ask you. 
+
+Inspite of a lively presidential race, with three good candidates, the Student 
+the student bodv chose to ignore the elections, with a miserable 15 percent turning 
+out to vole. No doubt most of the 85 percent who didn't vote were asked to by at 
+least five people. &lt; 
+
+The election process is a simply one, by anyone's standards. All th.il v., is 
+required was to ask for a ballot, verify the fact the one was a student at IPFW, 
+mark one's chimes, and deposit your ti.illul in the ballot box. A real drag! 
+
+If you are a person making up the majority who chose not to participate ' 
+dfCidinn next year's government-you 
+questions-such 
+
+
+
+II appeared with such ii 
+I still gazed, but 
+
+
+
+sk yourself a couple of 
+Should I skip classes next year during elections-as I won't be hasseled by 
+
+
+
+anyone? 
+
+2."Why do those dippy c 
+3"Who the hell caresabo 
+
+
+
+gainfully employed t&lt; 
+
+
+
+•why don't they ever do something about the things 
+finally give up, you might want to ask 
+
+
+
+Later, after the 15 percent who 
+yourself a few more questions: 
+
+1. "Hell, I've got my degree now-huw rmnc iheru .in.nl .-i bunch of emplf-yei s 
+knocking at my door? My ad said 1 would accept Job inte 
+Tuesday from 
+
+
+
+killed as they seek I 
+■om discomfort, Thei 
+
+
+
+n a melancholy 
+in no longer he 
+
+
+
+gtodoithe 
+g frequenc- 
+
+
+
+tady to light 
+
+
+
+
+
+
+hlldren I heor them 
+did I graduate from? Oh, you probably never heard of it." murmur of our men and wi 
+
+3, "How did I like college? It was okay, I guess." pushed out of employment, I 1 
+
+4. "What's a studeril's government'' We never had one," them in dilapidated housing 
+5 "Why should I vole in the presidential elections? What have they done for being decorat. 
+
+
+
+Letter/ 
+
+
+
+Homosexuals in bondage 
+
+
+
+
+MARSHA MELLOV 
+and 
+KANDI KISSES 
+
+
+
+
+exotic shows nightly 
+AAon. thru Sat. 
+
+
+
+Special celebration 
+AAon. thru Thurs. 5 pm - 6 pm 
+
+Open 11:00 am 
+to3:00am 
+
+
+
+Honeywell Photo Seminar 
+
+francis coil 
+
+MARCH 11 
+
+presented by . . 
+
+
+
+ST. FRANCIS COLLEGE BONAVENTURE HALL 
+
+MARCH 11 &amp; 12 STARTS at 7:30 P.M. 
+
+
+
+IS1 
+
+Camera 
+
+
+
+Tickets only 10.00 
+for both niteB 
+
+
+
+Thursday March 11 
+
+A look al the SSmm SLFUShow- 
+
+applications) 
+
+Basic handling techniques 
+
+
+
+stimulating seminar which we arc sure you will ( 
+and benefit from. Regardless of what car 
+equipment you use. you will benefit from t 
+
+
+
+! Regii 
+
+1 D Enclosed 
+
+
+•trot ion' 
+
+5 $10 'or my ticket 
+
+me in the HONEYWELL 
+
+
+E HONEYWELL COURSE 
+
+D check D 
+Course 
+
+in{citv)._. 
+
+ADOTtSS " 
+
+
+money order 
+
+
+
+
+
+
+1 """ 
+
+
+
+
+
+
+J °" 
+
+
+
+
+. Please 
+
+
+ZIP 
+SSTREET/F 
+
+
+:° 
+
+
+f addressed 
+
+
+i „,««, 
+
+
+Camera 
+
+
+
+(GENERAL CIMEIV1ATHEATHES ) 
+
+| ALL CINEMAS EVERY PAYS1.25TII 2:3Q| 
+
+
+
+
+
+
+
+NOW 
+SHOWING! I 
+
+
+SOUTH 1 OWN MALL KH 
+
+U. S . J 7 S OU.H..I»LM«N.D. «7-3S3 S ^7X71777^* 
+
+
+
+
+
+
+unrestrained comedy ! 
+
+mot 
+
+
+1 PAUIMAZURSKV'S 
+
+NEXT STOP, 
+GREENWICH 
+
+i village n 
+
+
+1S 
+
+
+,_,„ 
+
+
+
+
+
+
+Iwadet Kohn Fekfmanl 
+
+
+
+EXCLUSiVEgJf^r^^^WglU 
+
+H ELD OVEgj^vS^tf 8 !^ 81 ^ 
+
+
+
+■^ LUNCH 
+
+M ^loble^inaits 
+
+"LiKp an Italian Vacation for your mouth!"* 
+
+
+
+
+All previous coupons expire March 15, 1976. 
+
+
+
+
+Your Area's Complete 
+
+
+HORSE &amp; RIDER 
+
+
+CENTER 
+
+
+^z:-\°:;::-r^ 
+
+
+i3^$ • 
+
+
+NAME BRANDS »C. 
+
+
+DIAMOND — MILLER 
+
+
+|yrT • 
+
+
+ENGLISH SHOP (loo) 
+
+
+
+
+at UUDER'S FARM ^ 
+
+
+* B - 
+
+
+HOURS: B^O CJR..A. 
+
+"SO AD DIE 
+
+
+BILL Cls=S&gt; : 
+
+&amp; SURREY 
+
+
+
+Films on 
+colonies 
+March 6 
+
+
+
+The Communicator Thurs 
+
+
+
+
+* VI DEO OWES 
+
+*PINBALL #AIRHOCKEr 
+*BXSBHLL 
+
+£ Mad Anthony's 
+
+« Fisnnery 
+
+^CGIenbrook Center-behind Howard's 
+•••*••••••••••••••• 
+
+
+
+I never /aw to many 
+different kind/ of jean/ In all 
+my life, and at di/count price/, 
+tool' 
+
+
+
+Glenway 
+
+Bargain 
+
+Center 
+
+
+
+
+3820 Coldwater 
+
+across from Ayrway north 
+
+next to the new Sambo's 
+
+
+
+OPEN EVENINGS TILL 9 
+
+
+
+Mastodons defeated 
+in hockey finale 
+
+
+
+TH6 
+
+CRLEHDflR 
+
+
+
+
+
+
+
+
+
+season Friday night al the sh 
+
+pari of a hockey double-header 
+
+featured a 5-3 victory by Ihe F 
+Wayne Komets over the Tole 
+Goaldiggers. 
+
+
+
+
+
+
+sties appeared well fighting major ai 
+y lo a victory when high sticking 
+e Morrolf scored Just received only t 
+
+
+
+;t from Morrolf. ' 
+
+the Tuskers 
+ie Hurryin' Hoos 
+
+
+
+TIME Magazin 
+Cover Story 
+
+
+
+Publisher's price $10 
+
+
+
+JllK&amp;d 
+
+
+
+1876 
+
+GORE 
+MDAL 
+
+yluthor of Burr 
+
+
+
+fOlletts 
+
+gsssaas.' BOOKSTORE 
+
+
+
+Pregnant? 
+
+Call Rusty 313-227-6311 
+
+SCOTSDALE 
+
+-People who care 
+
+j you in thed€ 
+f your choice. 
+
+
+
+Friday - 5 
+
+Saturday - 6 
+Sunday - 7 
+Monday - 6 
+Tuesday - 9 
+Wednesday - lb 
+Thursday - 11 
+
+
+
+iting on leading IP goaltender 
+k Wynn. Each player got 
+■e shots and Wynn allowed 
+- 3 goals in 12 shots. Ted 
+tzler got the only IU goal in 
+contest played between 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRIHDERS 
+BROASTED CHICKEN 
+
+SAUSAGE R©LLS 
+
+
+
+MONDAYS S THURSDAYS 
+
+$1.00 OFF 
+
+; ON ANY LARGE PITCHER 
+YOU MUST BE 21- IF YOU'RE NOT, 
+' TRY OUR CARRYOUT SERVICE 
+
+
+
+Focu/ on Fine Art/ 
+
+Operas, 'Hair 
+next project 
+
+
+
+
+n of the sii 
+inducted 
+
+
+
+operas on Sunday, March 14, at 
+B :00p.m. in the ballroom of the 
+Student Union. The operas to be 
+
+"Captain Lovelock," by John 
+Duke, and "The Telephone," by 
+itti. Dr. Joseph 
+
+i director of I 
+
+
+
+&gt;tain Lovelock" deals 
+elderly widow who 
+-om a visit to the capital 
+
+
+
+
+The gold bars 
+
+of an Army officer... 
+
+(Information about Army ROTC at lU-Purdue) 
+
+
+
+
+A second lieutenant in the 
+United States Army wears a gold 
+bar on each shoulder. They're not 
+only the insignia of his rank, but the 
+symbol of his responsibility. 
+
+That responsibility is to lead. 
+And today in an Army of better 
+educated and highly motivated 
+young men and women, the 
+demands on a young officer are 
+tougher than ever. To have soldiers 
+follow orders is not enough. They 
+have to follow you. 
+
+You not only have to manage 
+people, but money and machines as 
+well. To make more important 
+planning decisions than most young 
+executives. 
+
+The need for such people is one 
+reason why Army ROTC is on 
+campus at hundreds of colleges and 
+universities throughout the country. 
+The acquired disciplines of mind 
+and spirit are important to us. The 
+ability to perform under pressure is 
+equally important. The people who 
+demonstrate these qualities are the 
+people we want to become Army 
+officers. 
+
+
+
+Army ROTC will be available to 
+students on campus at lU-Purdue- 
+Fort Wayne beginning next fall. 
+Normally, Army ROTC is a four 
+year series of courses. Taken as 
+part of your academic program- 
+leading to both your chosen degree 
+and a commission. But current 
+freshmen and sophomores, for 
+whom ROTC was unavailable when 
+they entered IPFW, have the 
+opportunity to complete the course 
+in 3 or 2 years. 
+
+As a sophomore, you must 
+complete a special six-week summ- 
+er program at Fort Knox, Ky., to 
+qualify for advanced ROTC courses 
+in your junior year. The camp pays 
+$500 plus free room and board. For 
+six weeks, you'll have a chance to 
+look at the Army. And we'll have a 
+chance to iudge your leadership 
+abilities. Before either of us make a 
+commitment. Apply before April 1. 
+
+As a freshman, you can double 
+up on 1st and 2nd year courses next 
+year. With no obligation until your 
+lunior year. Plan to pre-register this 
+spring. 
+
+For more information, stop by 
+Room 288F, Neff Hall or call 
+482-5416. 
+
+
+
+Army ROTC 
+
+Learn what it takes to lead. 
+
+
+
+NEW! 
+
+MCE MAXI-MINI 
+
+THE LATCST MAXI-MUM TALK POWER WITH 
+MINI-MUM SIZE 
+
+
+
+
+fcpn 
+
+
+
+pickup your "Maxi-M 
+
+Pace Communications, i 
+
+
+
+• F! 
+
+
+
+0RT WAYNE 
+
+ELECTRONICS 
+
+
+
+A SUBSIDIARY OF GRAHAM ELECTRONICS 
+IN THE GLENBROOK MALL 
+
+
+
+them play a trick on 
+
+bring her back to h 
+
+They disguise 
+
+
+
+The widow is outraged but finally 
+admits that "she needed to be 
+taught a lesson." 
+
+Appearing in "Captain Love- 
+
+
+
+.oil b 
+
+
+
+Pernille, the maid; Vickie John : 
+son as Terentia, the widow; Betty 
+Krach as Leonora and Nancy 
+Cobbs-Sheila Murphy as Lauren- 
+tia, the two daughters; and Lana 
+
+
+
+However, each time 
+she has a lengthy c 
+
+
+
+to be told about the argument, 
+
+Lucy up to propose-by telephone. 
+Appearing in "The Telephone" 
+are Carolyn Donohue as Lucy and 
+
+Admission is Si. 50 for adults 
+and fifty cents for students aND 
+children. Activity card holders 
+
+
+
+■■■■■■ colli-yc 
+
+
+
+productions 
+:ght, April 16, and a 
+
+
+
+</pre>        </div>
+      </div>
+    

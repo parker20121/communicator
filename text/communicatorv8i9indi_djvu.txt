@@ -1,0 +1,1416 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i9indi/communicatorv8i9indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i9indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i9indi">The Communicator</a>"
+          </h1>
+          <pre>© ^"KOMMUNICATOfi 
+
+
+
+
+
+
+(volume 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY at FORT WAYNE 
+
+
+
+ithis, 
+■week 
+
+
+
+21, 1976 ) 
+
+
+
+IPFW accepted in NCAA 
+
+
+
+
+L 
+
+
+w 
+
+
+¥ 
+
+
+T 
+
+
+1 
+
+
+n 
+
+
+M 
+
+
+U 
+
+
+T 
+
+
+mm 
+
+
+m 
+
+
+R 
+
+
+T 
+
+
+fir 
+
+
+m 
+
+
+T 
+
+
+L 
+
+
+KM 
+
+
+m 
+
+
+L 
+
+
+E 
+J 
+
+
+s 
+
+
+I 
+
+
+E 
+
+
+
+
+Your Fort Wayne 
+
+
+
+
+
+
+Week celebrated 
+
+
+
+
+B&gt; 
+
+
+\m\ VlCFADtlEN 
+
+
+arranged for wecliend visitors 
+
+
+to the Old 
+
+
+On ncl,.b,.r 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and public 
+
+
+
+
+
+
+buildings such as llieComiimm 
+
+
+
+
+
+
+
+
+
+
+lounlrys 200th blrlhday year draws to a 
+
+
+
+
+
+
+
+
+
+
+spoUight« 
+
+
+
+
+eclared the week of Oetober 
+
+
+
+
+
+
+
+
+
+
+
+
+To begin til 
+
+
+
+
+Banli and Summit Club, City- County Build- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ty's three 
+
+
+ironze stall 
+
+
+: was sculpted by Hector 
+
+
+television stations. Thursday 
+
+
+
+
+
+
+
+
+
+
+o,rt™ 
+
+
+
+
+other areas of interest. 
+
+
+
+
+
+Commission Saturday as fi 
+
+
+
+I EPFW automotive club largest in North America 
+
+
+
+suggesting allergy a 
+
+
+
+
+
+
+. SAE has applied ti 
+
+
+
+had done in Georgia, citi 
+it Georgian governor (Busbyi 
+
+
+
+. Ger- ter's 
+
+The basis o 
+
+
+
+United Way ST^J 
+
+T:ZT^TS,:'Sr., Repre- campaigii Es'ilii 
+J^?°HHriE"Sf^ on campus ^^r^ 
+
+
+
+5 fee is a subscription 
+
+
+
+■ SAE. The SAE has promised batteries, according to 
+
+^ jass. cop . ^^^ ^^^^ .^^ ^ ^_^^^ .^^^ ^^^^ ^^ ^ ^^ 
+
+chapter is building hatchback design, with a folding back seat, 
+
+ased on Citicar, an and the batteries located under the from 
+
+introduced in 1974. seat. The newly designed electric car will be 
+
+
+
+S Congress and Exposition at Cobo Hall 
+
+
+
+fficers this year are Kevin Myers, 
+Pagets. secretary, and Martin 
+
+
+
+EDITORIALS 
+NCAA membership result of much effort 
+
+
+
+cQpbHDTt 
+
+
+
+THE COMMUNICATOR 10/21/76 
+
+
+
+J&amp;) 
+
+
+
+3p^SHfS On tenure, promotion: a sociological view 
+
+
+
+
+ntegrated for movement? 
+
+
+
+Ears now being auditioned at 
+
+
+
+• F 
+
+
+
+ORT WAYNE 
+
+ELECTRONICS 
+
+
+
+
+We want you to hear the new Bose 501 Series II speakers. They 
+produce a sound that we feel is surpassed by no other speaker on 
+the market, except for the famous Bose 901* Series II, which has 
+been called the finest speaker ever made at any price. The 501 
+incorporates many of the 901's features, including the Direct/ 
+Reflecting principle that gives Bose its unique "liveness" and 
+"surrounding" qualities. 
+
+Frankly, these are people for whom no other speaker than 
+the 901 will do — people to whom the extra oomph is worth the extra 
+money. But there are some people who can't quite tell the difference. 
+
+For these people, we 
+heartily recommend the 
+Bose 501 Series II. 
+
+Bring us your ears, and 
+we'll show you what we 
+mean. 
+
+
+
+Itv. THE GLENBROOK MALL 
+
+
+
+
+Former student VP roasted 
+
+
+
+
+Creative Secretarial Services 
+
+489.5107 
+
+Fast, efficient 
+
+service at 
+
+reasonable rates. 
+
+Specializing in ferm papers, reports 
+and thesis. Personalized resumes 
+composed, typed and printed. 
+
+10T6 CHERRY BLOSSOM LANE 
+
+
+
+Plan now for (he treasure island ambience of 
+
+FREEPORT, BAHAMAS 
+
+
+
+ON WEDNESDAY, OCTOBER 27th THERE WILL BE A 
+PRESENTATION AND SLIDE SHOW OF WHAT YOUR 
+SPRING BREAK COULD BE THIS YEAR. 
+
+JOIN US ON THE 27th 
+
+IN ROOM 222 OF THE 
+
+STUDENT UNION 
+
+AT 9PM 
+
+TO BEGIN PLANS 
+
+ON A VACATION! 
+
+OUT OF THE ORDINARY 
+
+YET WITHIN 
+
+EVERYONE'S 
+
+PRICE RANGE 
+
+
+
+
+; "III*' 
+
+
+
+For details contact: 
+
+Michelle Carfo af 485-2472 after 6pm. 
+
+
+
+Qenny Johnston: satisfied weather woman 
+
+
+
+
+Outstanding blacks awarded scholarships HSeHF.r'Hif ''^-"■™»"'|'"'''* 
+
+
+
+Big Deal! 
+
+and music too. 
+
+
+
+
+
+
+
+
+
+
+sponsoring a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+versilies Field Ser- ■ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"olllical elll. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public. 
+
+
+
+
+
+
+ffhi 
+[Calendar va 
+
+
+
+Performing Arts Center: 
+FRIDAY, OCTOBER 
+
+
+
+Memorial Coliseum: Costs! ? 
+
+Fort Wayne Bicentennial Art ExposiUoo, i 
+
+
+
+7:30 p.m. Film Series, ■■The Last DeUU" NH 101: 
+7:30 p.m. ■■Holiday on Ice'^ Memorial Coliseum: C 
+8:00 p.m. Organ Recital by Carlo Curley, Plymouth 
+
+Church: FWO 
+8:00 p.m. Adams Apple Concert, The Fisherman, Calvary 
+
+Auditorium: FWO 8:00 - 11:00 p.m. Lyre Coffee Shop, 
+
+Ragumuffin performing, Hamilton Park. 
+
+
+
+SATURDAY OCTOBER 23 
+
+11:00 a.m. ■■Good Grief, A Griffin^', Fort Wayne C 
+
+
+
+■a-Panna^' (Diamond-Jewel) 
+Jorth by Northwest", Fort Wayne 
+
+Trumpet, Embassy Theatre; Costs! 
+merica", Concordia Senior College 
+
+:emorial Coliseum: Costs! 
+
+y", St. Francis College, Achatz 
+
+
+
+p.m. Cinema Center, '■North by Northwest," Fort Wayne 
+irt of Art Auditorium: Costs! 
+
+i:00 p.m. Fort Wayne Bicentennial Art Exposition, 
+
+; Arts Center: Free! 
+
+. ■■Holiday on Ice", Memorial Coliseum 
+
+. ■■(3ood Grief, A Griffin^^, Fort Wayne Civic Youtheatre, 
+
+' ■■Holiday on Ice^', Memorial Coliseum: Costs! 
+
+:00 p,m. Lyre Coffee Shop, Gary Driscoll performing, 
+
+n. Theatre: ■■Harvey^' St. Francis College, Achatz 
+
+
+
+THE NEXT MOVE'S UP TO YOU! 
+
+Where would you 
+
+rather live after graduatiofi? 
+
+Phoefiix? Dallas? Los Angeles? Boston? 
+
+Minneapolis? Denver? or Miami? NML 
+
+has an internship progrom for juniors and 
+
+seniors that v/ill get you ready 
+
+for a rewarding career job in a place 
+
+you always wanted to be. It's your 
+
+move give your future a place to go! 
+
+The William E. Richards Agency 
+Northwestern Mutual 
+Call Bill Richards 743-4711 
+The Quiet Company 
+
+
+
+SHIRT 
+
+
+
+WESTERN 
+
+SALECa 30O/O 
+OFF 
+
+
+
+
+- Assorted Brand Names 
+FANCY - YOKE - QUILTED 
+Many, many more 
+to choose from 
+Reg. 12.98 - 19.98 
+
+NOW 9.08 - 13.98 
+
+BRATEMAN BROS 
+
+221 W. Main St, 743-5327 
+
+
+
+(K 
+
+
+
+THE COMMUNICATOR 10/21/76 
+
+
+
+I ALL CINEMAS EVERY DAYSI.SO TIL 2l3o| 
+
+
+
+MARATHON 
+MAN 
+
+
+
+SORRY-NO PASSES 
+
+' NOW SHOWEVG ^^^^^ 
+
+
+
+Ensemble holds 
+'Forties Night' 
+
+
+
+NOW SHOWING! 
+EXCLUSIVE! 
+
+
+
+
+
+THERE'S NO BETTER PLACE TO REACH THE 
+STUDENT MARKET THAN THE COMMUNICATOR lilm 
+
+
+
+Serlesjit Ihe including "Much 
+
+drama, and symptionic 
+
+The Stellar Concerts wiU open its Hindu dant 
+December 
+
+
+
+Is th Players In PIT'S "Who Happy Now" featuring 
+
+dance, IVavista". and ■■Othello". ' theme^ofttiefoiirth program on Steve Robinson as Richard, Val Karasak as his 
+
+nsic at The second program in the February 15. The Waverly Con- mother Mary. Ron Bolinger as his father. Horse, and 
+
+tonum series brings the ancient art of sort will present '■Ijia Castigas Margie Howard as Faye Precious, the waitress. 
+
+
+
+■■Gala^ 
+
+
+
+
+"CARWASH':....where, 
+
+between the hours of 9 and 5 
+
+anything can happen... 
+
+and usually does! 
+
+
+
+
+lAR WASHluesi Stars fraoklyo A|aye • Georye Carlio 
+Professor Irwio Corey • Ivan Dixoo • Antonio faryas • lorraine Gary 
+Jack Xehoe • Clarence Muse - The Pointer Sisters - IBicbilPp I 
+
+WfitaiyJIIElSCIiyMlim ■ isicty NOBiN ilMD ■ M±i kf mUUmi 
+Produced by Afil IINSON wi GAIf S li[i ■ illl HBUIIIl PfiOPyCTi 
+
+A imrai Piciyfi[ ■ nciiciiOB® |.p.qjr?!"jfL?'°'S.^,"°5^ ]^ 
+
+lOrjginaTsound track available exclusi vely on MCA Records S. Tapes] 
+
+STARTS FRIDAY 
+
+OCTOBER 22, 1976 
+
+AT BOTH THEATRES 
+
+
+
+arris will play Emily Dickinson eighty year i 
+I "The Belle of Amhurst", This ranked as oni 
+
+ig to standing-room-only audi- than 3,000 co 
+
+
+
+James In the Pocket' 
+
+s once again. His latest "CaptainJIm'aDrunkenDream" 
+n. "In the Pocket", is a with realism and grace. Stevle 
+
+ve music and sensitive ly- payed their dues to sing the blues 
+
+
+
+"Nothing Uke a Hundred 
+
+
+
+p 
+
+
+p 
+
+
+1 
+
+
+MARSHA 
+
+
+
+
+MELLOW 
+
+
+♦ SANDWICHES 
+
+
+
+
+*TRY OUR CARRY-OUT 
+
+
+Mon, thru Sat. 
+
+
+♦ PIZZA ^^^ 
+
+
+Special celebration 
+hruThurs.5pm-6pm' 
+
+
+C:.,c!yb 
+
+
+Openll:00am 
+to3:00am 
+
+
+
+Carly and James sing ' 
+
+
+
+«JTHE POCKET" U an 
+
+
+
+* 
+
+J^^ 
+
+
+■y s^-:- 
+
+
+
+
+I 
+
+2411 BROADWAY 
+
+
+
+
+cSparts 
+
+Soccer team 
+at full strength 
+
+
+
+THE COMMUNICATOR 10/21/76 
+
+
+
+® 
+
+
+
+
+Mastodons drop 2 
+
+By ROLLIE CLEMENTS the half Third siring goalie Mike FRIDAY OCTOBE:i 22 
+
+Heimann finished Ihe game de- Intramural Volleyball S 
+The soccer team dropped i\s spite a painful knee injury. ends 
+
+
+
+SATURDAY, OCTOBER Z 
+
+
+
+1 addition to varsity \ 
+
+
+
+.1 Flag Football 1:00 
+
+
+
+MONDAY OCTOBER i 
+TUESDAY OCTOBER 2 
+
+
+
+whal in the second half before SpOrtS Varsity Volleyball vs 
+
+On Friday, IPFW travelled to c^ i i i WEDNESDAY OCTOBER 27 
+
+Wist Lafayette to meet Purdue Schedule Soccer vs Huntington &lt;:0OH 
+
+
+
+ie Eric Surface for the fourth 
+time this season midway through 
+
+X-country shuts 
+oul Goshen 
+
+
+
+LUNCHEON 
+
+SPECIALS ,^ -*-.^l^-*» 
+
+11 to 3 /r..^roio:i&gt; 
+
+
+
+
+HAPPY 
+
+HOUR 
+
+4:30 to 10:00 
+
+
+
+Columbia at Harrison — On The Landing 
+
+
+
+Volleyballers win 3 
+
+
+
+e IPFW Cross Country | 
+on a winning track Saturd 
+[gainst Ohio Northern, by crushing Goshen, 
+
+Shanklin Memorial Parli 
+
+
+
+Pizza liun 
+
+
+
+Taylor, the IPFW 
+
+
+
+r record to 5-1. Whili 
+
+
+
+Wayne Bible spi"'' 
+
+
+
+B.'Se'SegTbTio^llfTs'^ 
+
+
+Conger. Sott'ed lb. game at 
+
+
+lasUpS^erswrsTmre^"!' 
+
+
+
+
+'°mc second game proved much 
+
+
+Individual results for IPFW 
+
+
+r^^^.'SirSft 
+
+
+
+
+Putterbaugh, 28.-57; Cahill, 
+
+
+
+
+denly toughened Iheir defense. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+returned home for a 3-way match 
+
+
+but showed a great deal of class 
+
+
+
+
+
+
+
+
+
+
+
+
+ready for the first game and the 
+
+
+
+
+
+
+
+
+BILL OF FARE for THE FORT 
+
+
+
+• R ish and Chips 1,05 
+Grilled Liver and Onions .95 
+d Cheese ,55 
+
+
+
+• BBQ Chicken 1,35 
+
+Beef Stew over Biscuits .89 
+
+Open Faced Turkey Sandwiches , 
+
+
+
+• Meatloaf l,20 
+
+Creamed Turkey and Biscuits ,85 
+
+Pork Chop ,90 
+
+TUESDAY 10-26 
+
+• Baked Ham 1,25 
+
+Lasagna ,89 
+
+Hot Beef Sandwiches ,95 
+
+WEDNESDAY 10-27 
+
+•Fried Chicken 1,35 
+Veal with Mus 
+Macaroni a 
+
+
+
+• SPECIAL OF THE DAY 
+
+INCLUDES CHOICE OF TWO 
+VEGETABLES, HOLLAND BUTTER. 
+
+
+
+Free coffee every afternoon after 1 :30 p.r 
+with a purchase of $.50 or more. 
+
+
+
+;thefort 
+
+^ LOCATED EN THE STUDENT UNION ^ 
+
+
+
+MONDAY-THURSDAY 
+7:30 AJH. to 5:30 P.M. 
+
+FRIDAY 
+7:30 A.M. lo 3:00 P.M. 
+
+
+
+EVTRAMURAL RECAP 
+
+
+
+I. Friday 
+« played 
+
+
+
+^ Bill Pallone, Jon Jacqt 
+:eve Ottenweller goes ii 
+nal with a three year 
+
+
+
+Pizza Inn's Old Fashion Thick Crust 
+Pizza ... or our Original Thin Crust. 
+Your Choice . . . Both from the makers 
+o( America's Favorite Pizza 
+
+
+
+Covington P/ozo 432-5534 
+
+Sfofe and Crescent 484-1556 
+
+Georgetown Sq. 749-9581 
+
+toaurpraJntt 
+
+I SERVING LUNCH FROM 11-3 K 
+
+f 6 DA YS EVERY WEEK E 
+
+I I ALASKAN KING CRaTlEGS^^^6.95[ i 
+
+I GIANT COCKTAIL HOUR 
+4:30 to 6:30 P.M. | ' 
+
+Double Drinks-Single Price S 
+
+5629 St. Joe Rond r:,'.:,' ' 485-1685 I 
+
+
+
+FLAG FOOTBALL 
+
+
+
+SPOOK HOUSE 
+
+Oct. 29, 30, 31 
+Hours 7-11 p.m. 
+
+Admission 1.°° 
+
+for adults 
+50' 14 and under 
+
+922 Trick Ave. 
+
+
+
+Tl*&gt;^ 484-4184 
+
+
+
+KIA/G 
+
+
+
+
+
+■■■■■■■■■■■■■■■■■■■■■Couponaa 
+
+■ 
+
+[ We do it all Sor you. 
+
+I/Y\ 
+
+• iMcDonaid's 
+I ■ ■ ■ 
+
+■ 3202 St.Joe Center Road 
+
+
+
+FILET, : 
+
+FRIES i 
+
+&amp; MEDIUM ; 
+
+DRINK i 
+
+$1.00 ; 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,4615 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv5i16indi/communicatorv5i16indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv5i16indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv5i16indi">The Communicator</a>"
+          </h1>
+          <pre>Communicator . 19 
+
+
+
+INDIANA - PURDUE COMMUNICATOR 
+
+
+
+■fCEHTEO 
+
+'flrC la . 
+
+'fifes- 
+
+
+
+INDIANA-PURDUE UNIVERSITY, FORT 
+
+
+
+Committee develops plans 
+for academic autonomy 
+
+
+
+By REX PUTT 
+
+After three years of study and 
+research the Academic Structure 
+Development Committee has develop- 
+ed a plan for an autonomous 
+university to be presented to the 
+Purdue Faculty Senate at Fort 
+Wayne. 
+
+Dr. 0. Franklin Kenworthy, 
+chairman of the ASD committee, 
+described the new plan as "a nice 
+plan that recognizes unique needs of 
+this campus." 
+
+Kenworthy strongly supports the 
+new academic structure. He said 
+"We've (the committee) worked or it 
+
+
+
+for three years and we feel it serves 
+the needs of students very well. There 
+are still many things the community 
+would like to have more autonomy on, 
+but there are limits set by Purdue of 
+Lafayette." 
+
+He went on to evaluate the 
+necessity of a new academic plan. 
+"Everybody should put aside the old 
+unless the old does the job." He 
+continued to point out that the old ( the 
+present system) is definitely not 
+doing the proper job, so it should be 
+
+
+
+The document \ 
+the Purdue Faculty Senate to be 
+forwarded to the board of trustees for 
+
+
+
+Some big news 
+from One A.D. 
+
+
+
+By SAM STEWART 
+
+(History records that St. Luke 
+was a physician, not a newspaper- 
+man, but his work in the Gospel 
+according to St. Luke is still regarded 
+as a good story by a good reporter. 
+Still, one can't help wondering how a 
+20th Century newsman would have 
+reported the event we celebrate 
+today. Maybe something like this...) 
+
+BETHLEHEM, Judea -The rela- 
+tionship of unprecedented wonders in 
+the heavens over Judea to the birth of 
+a child in Bethlehem was being 
+studied today. 
+
+That more than coincidence was 
+involved was established by the 
+stories of eye-witnesses. 
+
+These facts stand out from a 
+piecing-together of background infor- 
+
+Because of a decree from Caesar 
+Augustus that all the world should be 
+taxed, citizens everywhere had con- 
+verged upon their own cities to pay 
+their taxes. The decree had been 
+handed along to the people through 
+Cyrenius, governor of Syria. 
+
+Among those coming to Bethle- 
+hem to pay their tax was Joseph, who 
+had come from Galilee, out of the City 
+of Nazareth, unto Bethlehem, the City 
+of David, inasmuch as he was of the 
+house and lineage of David. 
+
+Joseph, accompanied by his 
+expectant wife, Mary, arrived late in 
+Bethlehem and found housing imposs- 
+ible to obtain. Rooms everywhere 
+were taken by the scores of citizens in 
+town to pay their taxes. 
+
+One Bethlehem innkeeper, recog- 
+nizing the situation and sympathetic 
+with the travelers' plight, granted 
+them the use of his stable for the 
+night. 
+
+-, It was in this stable that Mary 
+brought forth her first-born son. She 
+wrapped him in swaddling clothes, 
+routine procedure for the times, and 
+laid him in a manger. 
+
+This, by itself, might have stirred 
+
+
+
+How they came to leave the 
+country and hasten to Bethlehem is 
+told in this interview with one of the 
+shepherds: 
+
+"There we were, when the Angel 
+of the Lord came upon us, and the 
+glory of the Lord shone all around us. 
+I'll be frank about it - we were 
+frightened almost out of our wits. 
+
+"Then the Angel said, 'Fear not; 
+for behold I bring you tidings of great 
+joy, which shall be to all people. For 
+unto you is born this day a Saviour, 
+which is Christ the Lord.' You can 
+imagine how we felt." 
+
+The Angel gave specific instruct- 
+ions, the shepherd said, continuing: 
+
+"He said to watch for a sign. He 
+assured us that we would find the 
+babe wrapped in swaddling clothes, 
+lying in a manger. I'll admit we were 
+more puzzled than impressed, at this 
+
+"Then," the shepherd went on, 
+"suddenly there was with the Angel a 
+multitude of the heavenly host 
+praising God, and saying, 'Glory to 
+God in the highest, and on earth 
+peace, good will toward men!'" 
+
+All the shepherds, by their own 
+statements, were deeply impressed 
+and talked among themselves about 
+the next step they should take. As 
+each recalled it, they said to one 
+another : 
+
+
+
+"Let 
+
+
+
+go 
+
+
+
+the t 
+
+There were shepherds abiding in 
+their fields, keeping watch over their 
+flocks by night, certainly unprepared 
+for what was to come, and resigned to 
+the boredom of another night guard- 
+ing their sheep. 
+
+
+
+Bethlehem, and see this thing which is 
+come to pass, which the Lord hath 
+made known unto us. We came as fast 
+
+"And sure enough, we found 
+Mary, and Joseph, and the babe lying 
+in a manger." 
+
+The shepherds lost no time in 
+spreading the word about the child 
+and what they had heard about Him; 
+they admit to encountering some 
+raised eyebrows. 
+
+Before they returned, glorifying 
+and praising God for all the things 
+they had heard and seen, the 
+shepherds met with the press and one 
+of them expressed the mood which 
+seemed to prevail through Judea that 
+
+"It was an experience I shall 
+never forget. I am only a poor 
+shepherd, but I am convinced I was 
+privileged to be in on the start of 
+something big." 
+
+
+
+IU-PU to ask for 
+more money 
+
+
+
+Indiana-Purdue will be asking for 
+an additional appropriation from the 
+General Assembly when it meets in 
+January. The IU-PU request is part of 
+an 511.7 million request by the 
+Indiana Commission on Higher Edu- 
+cation for all state-supported univers- 
+ities in Indiana. 
+
+IU-PU's money, if granted, will 
+be used primarily for 5 per cent 
+faculty salary increments for the next 
+fiscal year. 
+
+Although IU-PU will be on a 
+unified budget next year, the two 
+schools placed separate requests with 
+the legislature. Purdue has asked for 
+5170,325. I.U.'s figure was not 
+available. 
+
+
+
+According to Roger J. Manges, 
+dean and director of Purdue here, the 
+additional allocation and increased 
+faculty increments will not result in a 
+
+reported by one of the city newspap- 
+ers earlier this week. 
+
+"We're trying to respond to a real 
+need on the part of faculty that we 
+have not been fiscally able to respond 
+to at an earlier time," said James E. 
+Gilbert, associate dean for academic 
+affairs for Purdue here. 
+
+The additional funding request 
+will go before the upcoming legisla- 
+tive session. If approved, the addition- 
+al money will be used in the fiscal 
+year beginning July 1, 1974. 
+
+
+
+approval. The committee, which has 
+11 members (all of whom are 
+associated with the Purdue faction of 
+Indiana-Purdue, was originally form- 
+ed in 1970 with the approval of the 
+Purdue University administration in 
+Lafayette. 
+
+The new system calls for what Dr. 
+Kenworthy describes as "a university 
+with two major colleges. Under these 
+colleges will be Curriculum Councils 
+which are responsible for making 
+curriculum decisions for allied de- 
+partments. These councils will act as 
+curriculum funnels." 
+
+Besides the two major colleges, 
+
+
+
+programs will be referred t 
+
+
+
+The two colleges, which will be 
+referred to as the College of Applied 
+Studies, and the College of Arts &amp; 
+Sciences will each be divided into 
+Curriculum Councils. 
+
+Arts &amp; Sciences will have 
+Curriculum Councils of Behavioral St 
+Social Sciences, Humanities and 
+Sciences. Applied Studies will have 
+Curriculum Councils of Engineering 
+&amp; Engineering Technologies, Health 
+Professions &amp; Paramedical Technolo- 
+gies, and Education &amp; Service 
+Technologies. 
+
+All Curriculum Councils will 
+consist of two or more departments 
+and several of the departments will 
+have different sections. 
+
+For an example: in the College of 
+Applied Studies there is the Curricu- 
+lum Council of Education &amp; Service 
+Technologies. Under this Curriculum 
+Council is a department of Education. 
+This department is in turn divided 
+into sections of Audiology &amp; Speech 
+Pathology, Home Economics, and 
+Industrial Education. 
+
+
+
+The main proposal of this new 
+academic plan is to have a dean 
+heading each college, and otie faculty 
+
+
+
+senate representing both colleges. 
+The faculty senate shall act as what 
+Kenworth calls "the supreme court of 
+the University." 
+
+The new academic plan hasn't 
+been actively publicized (as of the 
+time this article was written), but 
+many faculty members and adminis- 
+trators on the Purdue side have at 
+least had a chance to glance at the 
+proposed document. 
+
+Dr. Benjamin Becker, a professor 
+of biology, was dissatisfied with 
+several items he had the chance to 
+examine. He feels that "there should 
+be no elected Senate, but rather an 
+organization that involves all faculty 
+members." The plan proposed by the 
+committee to form one Senate would 
+decrease the number of faculty 
+members representing the faculty. 
+
+Becker also questioned which 
+teachers would be the ones to go if the 
+English departments, which are now 
+separate, would be combined. "What 
+will happen to Dean Manges and 
+
+
+
+Roger J. Manges, dean and 
+director of the Purdue faction of 
+Indiana-Purdue, was asked to form a 
+committee for the purpose of creating 
+a structure that could hopefully serve 
+the entire campus. In the early stages 
+the Purdue committee met with 
+Indiana representatives, but the 
+progress of the two representatives in 
+Fort Wayne was thwarted when there 
+
+
+
+The reconstruction plan for a new 
+academic structure had to be revised 
+to suit the standards of the new 
+administration. For awhile under new 
+Purdue president Arthur Hansen, the 
+action of the Fort Wayne committee 
+was stymied. The faculty finally got 
+the go-ahead to continue with the 
+plan, so they quickly prepared the 
+document for the new structure which 
+they presented this week at the 
+Purdue Faculty Senate meeting in 
+Fort Wayne. 
+
+
+
+
+The famous Circle K tub, which collected Jlfioo for a family 
+last Christmas, is on the job again this year, located on the 
+first floor of the Student Union. 
+
+
+
+Circle K to push tub for 
+WOWO Penny Pitch 
+
+
+
+around the streets of Fort Wayn&lt; 
+
+Indiana-Purdue University's nat- 
+ional service fraternity. Circle K, is 
+currently sponsoring a drive to raise 
+donations for radio station WOWO's 
+1973 Penny Pitch family. The organi- 
+zation will take an old-fashioned 
+bathtub on wheels to various locations 
+in Fort Wayne in an effort to raise 
+money for the needy family. 
+
+On two Saturdays, December 15 
+and 22, 1973, the Circle K group will go 
+out into the Fort Wayne community to 
+collect donations. On Saturday, Dec- 
+ember 15, the bathtub will be at North 
+K-Mart, Georgetown Square, Time 
+Corners, and Southtown Mall. 
+
+
+
+A week later Circle K members, 
+alumni, and Kiwanis Club members 
+will push the tub from the south Sears 
+store to the downtown area, at the 
+corner of Wayne and Calhoun Streets. 
+On that same day another tub will be 
+pushed from the Indiana-Purdue 
+campus, also to the downtown area, 
+
+The money collected will be 
+donated to the WOWO Penny Pitch. 
+Annually radio station WOWO spon- 
+sors a needy family, asks for any size 
+donation from anyone, and then buys 
+much-needed items for the family. 
+This year the Penny Pitch family 
+includes a father, mother, and their 
+five children, ranging in age from 
+seven months to 12 years. 
+
+
+
+Final schedule 
+
+
+
+Super-chancellor causes controversy 
+
+^ iu \i \i(i« i. if ii;^i mincer neri" 
+
+committee to 
+close membership 
+
+
+
+ByMARKFRANKE 
+
+The chancellor Search and Screen 
+Committee voted to limit its size to 
+the present 17 members, according to 
+a committee member who asked not 
+to be identified. The committee met in 
+closed session last Friday, December 
+7, 1973. 
+
+The committee voted to close its 
+membership after hearing a request 
+for the addition of a black representa- 
+tive and local administrators. 
+
+Obadiah Booker, a staff member 
+in the Office of Veterans' Affairs, 
+pointed out that the committee did i 
+
+
+
+Student Body President Brock 
+Able, who made the student appoint- 
+ments, said that Booker had not 
+discussed the matter with him before 
+the students were named. 
+
+John W. Ryan, president of 
+Indiana University, acknowledged 
+that there were no blacks on the 
+committee, and added that there was 
+
+One student member of the 
+committee disputed Booker's claim 
+that the student delegation needed a 
+black to be representative. "We are 
+representing all students; we don't 
+need quotas," he said. 
+
+Also upset with the committee 
+compositon is the IU-PU administra 
+tive staff. According to Purdu* 
+Provost Harold F. Robinson, when hi 
+addressed the faculty on November 9 
+1973, the committee would contaii 
+two administrators from the For 
+Wayne Campus. The administrator 
+
+
+
+university presidents last week. 
+
+The administrators wrote a letter 
+to the presidents requesting repre- 
+sentation. The letter was signed by 
+about 130 of the 235 administrative, 
+service, and clerical staff members. 
+
+"What we need to know is why the 
+administrators were taken off after 
+they were put on," said Rudolph W. 
+Geter, assistant to the academic 
+
+Robinson told the Communicator 
+last week that there was some 
+confusion between the two universi- 
+ties on the issue of administrative 
+representation. Reliable sources on 
+campus verified Robinson's state- 
+ment. The sources said that the 
+confusion was caused by poor 
+communication between the two 
+presidents' offices. 
+
+
+
+; too late to add the administrative 
+members. 
+
+William G. Heller, placement 
+director, disputed Robinson's lack of 
+time argument. He said that if the 
+
+
+
+and orient a search and screen 
+committee. Heller said that he had 
+"no sympathy for that argument." 
+
+Heller was pessimistic that the 
+letter would bring about administra- 
+tive representation on the committee, 
+but he thought that it would have an 
+effect on other unification issues. 
+
+"There are other questio 
+
+
+
+ByMARKFRANK' 7 ' 
+
+IU-PU will test a standardized 
+exam schedule during final week, but 
+one university staff member is 
+pessimistic that the new system will 
+work without considerable problems. 
+
+The staff member, who asked not 
+to be identified, expects a large 
+number of scheduling problems to 
+surface during finals, which will run 
+next week, December 17-21. He cited 
+the fact that there is no break time 
+between one final and the next as a 
+
+He also criticized the lack of 
+contingency planning to handle such 
+problems as two classes meeting in 
+the same room at the same time to 
+take different finals. The official said 
+that the schedule did allow this to 
+happen. 
+
+IU-PU Registrar David Skelton 
+disputed these charges when they 
+were brought to his attention by the 
+
+Regarding the two-finals-in-one- 
+room charge, Skelton said, "We have 
+checked that situation to make it a 
+
+Skelton said that the new sched- 
+ule was put through a dry run, and 
+most of these problems were taken 
+care of at that time. 
+
+Dr. Skelton defended a standard- 
+ized schedule because of the adminis- 
+trative time saved. "This eliminates 
+the need to put together a whole new 
+schedule just for exam week," he 
+
+
+
+45 minutes each. The faculty instruct- 
+ed Skelton to increase the exam time 
+to a full two hours, eliminating the 15 
+minute breaks. According to Skelton, 
+by that time it was too late to 
+completely rework the schedule to 
+allow for breaks. 
+
+"It won't go without any prob- 
+lems, but neither did any other exam 
+schedule," said Skelton, adding that 
+final week "should be relatively 
+problem free as far as format is 
+
+
+
+concerned." 
+
+The standardized schedule as- 
+signs most finals to the approximate 
+
+
+
+i. This eliminates the need 
+for students and faculty to remember 
+a time and place that may be 
+completely different from the regular 
+class meetings. 
+
+All instructors have been given 
+the matrix which is used to determine 
+the exact time for each final. They 
+have been asked to inform their 
+students of this time. 
+
+The matrix is posted in the 
+registration area for those who forget 
+or want to double-check the informa- 
+tion. The registration offices are 
+located in the north wing of Kettler 
+Hall on the ground floor. 
+
+Any IU-PU student who has more 
+than two finals on any one day can 
+request that one of the exams be 
+rescheduled. Likewise, if a student 
+has two finals meeting at the same 
+time, one can be taken at another 
+
+Dr. Skelton said that a standard- 
+ized schedule was instituted at the 
+request of a number of faculty 
+members. This schedule saved staff 
+time, and according to Skelton, 
+reduces the chance of a student 
+having two finals at the same time. 
+
+A standardized schedule also 
+reduces the confusion of remember- 
+ing when and where finals are to be 
+given, said Skelton. 
+
+
+
+the i 
+
+
+
+the : 
+
+
+
+would cause considerable hardship 
+for as many as GO people. 
+
+The staff member hoped the new 
+approach would prove acceptable and 
+that any bugs could be worked out of 
+the system. 
+
+Summing up his feeling toward 
+the controversial issue. Skelton said, 
+"I'm quite anxious to see how the 
+final exam week goes." 
+
+
+
+Editonallq 
+Speaking 
+
+
+
+Luxury items 
+consume energy 
+
+
+
+I CUSTOMS 
+
+STOP and REPORT 
+
+
+
+Changes for the spring 
+
+Beginning with the January 14 issue, we will be making many 
+changes in the stvle and format of the Communicator. The most 
+significant change "will be a twice-weekly publishing format. We will 
+come out on Mondays and Thursdays, hopefully around noon. The 
+Thursday issue will be much like it has been this semester. The Monday 
+issue will probably be only four or six pages, depending on the advertising 
+volume for that issue. 
+
+The sports page will add regular coverage of home Komet games. We 
+also hope lo begin some coverage of Indiana and Purdue basketball, but 
+this will probably not be on a steady basis. 
+
+We will institute an entertainment page in the Thursday issue. This 
+will feature leviews and columns of campus programs and off-campus 
+items, such as records, chess, books, and other related matters. The page 
+will also publish an activities calendar. Requirements for having events 
+listed in this calendar are given elsewhere in this paper. 
+
+The editorial page will offer two new sludenl columnists, and Dan 
+Motto's Non-Prophet Corner will be moved to this page. 
+
+We hope to resume coverage of city news items that concern this 
+campus or are of general interest to our readership. Before we can do 
+this, we need to hire a reporter with a good background in city 
+government and community affairs. 
+
+We also will be usmu the Indiana Collegiak' Press Association's news 
+service to inform our readers of the happenings in Indianapolis during the 
+General Assembly session in January and February. 
+
+National issues that are of vital interest to our readers, such as the 
+energy crisis and the Middle East, will be featured on both news and 
+editorial pages in manner that will supplement other news sources. 
+
+And, of course, we will increase our coverage of campus news. We 
+will keep our readers up-to-date on such vital topics as the search for a 
+new super-chancellor and business manager. We will be giving priority to 
+stories concerning the future unification of this campus and the 
+ramifications of that issue. 
+
+Fantasy shows 
+Union orgy 
+
+
+
+This week I want to continue 
+using this space to discuss various 
+ways each of us can do our part to 
+conserve fuel during the nation's 
+energy crisis. 
+
+In the last decade we have seen 
+
+of luxury appliances used in each 
+home. For example, 41 per cent of all 
+American families have air condition- 
+ers now, compared with 15 per cent in 
+1960; 27 per cent of our families have 
+dishwashers, compared with 7 per 
+
+
+
+I 'tCll; 
+
+
+
+
+
+
+BvROBPARGEON 
+
+Walking casually lo the student 
+union. I floated past the library 
+feeling pretty good My cigarette was 
+burning slow and I was strutting 
+along trying to be cool. And even 
+though 1 was 500 pages behind in my 
+reading, things were beginning to get 
+better. Until, that is, my fool hit a 
+crack and threw me on my nose. 
+.Naturally, the fall shook up my mind 
+and scared the hell out of me. 
+
+When I stood up, reality was jusl 
+an invented word designed to hide the 
+interwoven fantasy. It was a confus- 
+ing situation. The sky was still gray, 
+but the blurred images before me 
+were puzzling until I rubbed my eyes 
+clear. Wow! I couldn't believe it. 
+What the hell was a Roman orgy 
+doing on a college campus? 
+
+It surprised me, but could I doubt 
+my eyes. On this long i 
+
+
+
+Dazed and confused, I ran lo the 
+student union. Once inside everything 
+was the boring way I remembered. 
+Everything was the same; I pulled 
+
+
+
+families have clothes dryers now, 
+compared with 20 per cent in 1960. 
+
+The energy demand on these 
+newer appliances is much higher than 
+the appliances of the 1950's as well. A 
+color television has a wattage of 615 
+compared to a 1950's black and white 
+wattage of 237. Air conditioners have 
+wattages of 1,566, dishwashers 1,201 
+and clothes dryers 4,856, much 
+greater than older appliances like 
+small refrigerators (241 watts), 
+radios (71 watts) or food mixers (127 
+
+We can help save energy and 
+money if we keep our appliances in 
+good working order. Consult the 
+owner's manual for detailed informa- 
+tion about operating and maintaining 
+your appliances. Be sure to have your 
+furnace checked once a year and 
+change the filters frequently during 
+use. Defrost your freezer as soon as 
+the ice buildup reaches one-fourth 
+
+If you are going to purchase a new 
+appliance, perhaps for a Christmas 
+present, consider the energy efficien- 
+cy of the various models in addition to 
+their color and utility. The energy and 
+efficiencies of heating systems, 
+air -conditioners, refrigerators and 
+other major appliances vary consid- . 
+erably from one model to another. 
+Shop around, requesting information 
+on energy efficiency and operation 
+costs of the models you are consider- 
+ing. 
+
+This is not as difficult as it 
+sounds. Many manufacturers already 
+voluntarily label appliances accord- 
+ing to their energy efficiency. 
+Although the more efficient may cost 
+
+
+
+more, it is likely to save enough 
+energy to pay for the extra initial 
+expense. 
+
+The House of Representatives' 
+Subcommittee on Energy tells me 
+that side-by-side refrigerator-freez- 
+ers and upright full size freezers are 
+often the least efficient models. In 
+addition, they have found that 
+frost-free refrigerators and freezers 
+consume up to fifty percent more 
+electricity than conventional models. 
+They also note that stoves, clothes 
+cryers and water heaters that use gas 
+consume less total energy than do 
+their electric counterparts. 
+
+
+
+Quotes to 
+remember 
+
+Our knowledge separates us as 
+
+well as it unites; our orders 
+
+disintegrate as well as bind; our art 
+
+brings us together and sets us apart. 
+
+J. ROBERT OPPENHEIMER 
+
+CHARACTER &amp; OPINION 
+
+
+
+
+The Group Inclusive Portable War 
+
+
+
+Reflections on Christmas 
+
+
+
+silly i 
+
+
+
+high ■ 
+
+
+
+were drinking wine and catching 
+grapes on slimey tongues. Adminis- 
+trators, legislators, executives and 
+artificial secretaries unevenly chant- 
+ed individual great deeds. All knelt on 
+the weak while prayers to the money 
+God were offered with human 
+sacrifices. The plunging knife ripped 
+at its target with a smile carved in the 
+
+
+
+Strolling over to a big breasted 
+' barmaid, 1 wanted to taste success 
+i loo. Everj iren'ber of the orgy was 
+j bragging to someone -bout success, 
+i why be different. Me and the barmaid 
+] were just getting down when a shriek 
+j cut my plans short. A noted anti- 
+t pornography lawmaker dressed in 
+i purple panties pulled me off the bed of 
+' grass and ordered six homey guards 
+J to secure my person. I wondered what 
+3 the hassle was because I was only 
+J imitating my elders. "Only respon- 
+J sible citizens belong here." And with 
+J those words, I was escorted on my 
+J way by the guards who protected 
+J themselves with machine guns. Wow. 
+
+! IN BLACK AND WHITE 
+
+
+
+
+By STAN JONES 
+
+As is evidenced by all but the 
+weather, the Christmas season has 
+once again made its presence known. 
+While all around us we perceive 
+shortages of some sort, the acknow- 
+lendged length of the yule season has 
+been steadily increasing. Long before 
+Thanksgiving the commercials begin 
+blaring their glaring sales pitch to an 
+admittedly indignant yet thoroughly 
+receptive public The mad rush to lay- 
+away gifts, with no charge, of course, 
+creates an increasing momentum to 
+incorporate even those who show 
+reluctance to the tide. 
+
+To what has Christmas evolved 
+that we revere this above all days'" 
+From a purely commercial view, the 
+sales during this time are supreme 
+above all events. Even the total sales 
+from the combined birthdays come 
+nowhere close. The show we see 
+during this time, the proliferation of 
+innumerable Santas, snowmen, and 
+silver angels, lends a vaudevillian 
+touch lacking in the other eleven 
+months. Good theatre of sorts, 
+escapism from the doldrums of 
+despair, and a time to recoup and 
+regroup for the advent of yet another 
+
+Christmas seems to have evolved 
+into an artificial panorama of tinsel, 
+wildly blinking colored lights and 
+glaring neon signs proclaiming cheer, 
+peace and good will toward men. All 
+to little avail. Peace, cheer and good 
+will toward men seem as distant 
+today as does the comet Kohoutek. 
+The season of giving to many centers 
+around the dilemma of trying to find 
+the perfect gift for the person who has 
+everything. This problem is in most 
+cases solved by merely purchasing a 
+more elaborate and expensive item of 
+what one already possesses. Nice, but 
+in most instances only superfluous. 
+
+Fortunately, the Spirit of Christ- 
+mas has not been totally lost. Even 
+with the overpowering presence of the 
+artificial, many bright spots emerge. 
+The many organizations and indivi- 
+duals who perform innumerable acts 
+
+" kindness and generosity show that 
+people are still willing to give that 
+most precious of gifts: themselves. 
+Giving of their time and also their 
+financial resources where needed is 
+the outward expression of that inner 
+love toward those who are, to say the 
+least, less fortunate than themselves. 
+The range of activities is almost as 
+diversified as those involved. From 
+jthe grand programs such as WOWO 
+Penny Pilch and those conducted by 
+the Salvation Army, local corpora- 
+ions and labor unions, to the simple 
+)ne person expressing sincere 
+veil wishes to his neighbor. From the 
+
+raternal organizations, civic clubs 
+
+
+
+Mortuary art of living 
+
+
+
+By RICHARD SOKOLOWSKI 
+
+
+
+Envious of other nations' art of 
+life, American architects finally 
+succeeded in endowing the U.S. with 
+the cheapest, newest, and best 
+mortuary art of living. 
+
+It did not happen over one electric 
+day, but slowly has evolved to its 
+present greatness. The transition 
+period is best exemplified by I.U. 
+Purdue's new library. The goal - 
+windowless structure, is here only 
+partly achieved, windows being 
+raised above human heads The next 
+step will be to remove them 
+completely, following the best exam- 
+_• pie of Lake Mortuary House, Medical- 
+Dental Center of Lake Avenue, 
+I.U.-Purdue classrooms 
+
+
+
+Leo Road, and other like buildings 
+spring up all over Fort Wayne. 
+
+This evolution was socially neces- 
+sary, since our library's raised 
+windows caused giraffe-like growth of 
+the necks of the readers, caused by 
+primitive, anti-American, undevelop- 
+
+
+
+; clouds, 
+
+
+
+anxiety about after-life, 
+catacombs resembling offices remind 
+constantly its occupants about death, 
+thus making it easier to relocate, an 
+important fact in our high-death-rate 
+society . 
+
+
+
+It also serves a useful purpose of 
+muffling the shouts of patients being 
+robbed by our leading dental and 
+medical industry. Religious feelings 
+are also born, due to the eternal 
+aspect of the 8 hour working day, 
+which thus seems endlessly long, 
+without the distraction of looking on 
+something natural, except on silent 
+rows of tomb-like buried files. 
+
+The success of the new architec- 
+ture is proved by the wish of the 
+I.U .-Purdue architect and the approv- 
+ing committee to leave their pre- 
+progress large-windowed houses, in 
+order lo spend the rest of their life in 
+walled seclusion of the reading 
+shrine, to contemplate its carpets and 
+ceilings e 
+
+
+
+COMMUNICATOR 
+
+
+
+
+
+
+and benevolent societies to local 
+students who add to their already 
+tight schedules time to help parent- 
+less, handicapped or abandoned 
+children to enjoy Christmas, we see 
+that element of the soul which, in the 
+final analysis, is what makes life all 
+worthwhile. Giving to others as God 
+has given to us is Christmas. 
+
+In this season we emulate Christ 
+
+
+
+most by giving of ourselves in the 
+same spirit of love as He has given to 
+us. Maybe this is too much to ask, but 
+why do we limit ourselves so? Does 
+this great outpouring of love, charity 
+and yes, peace, which we distribute at 
+this time of year drain so much from 
+us that it takes us the remainder of 
+the year lo rest and prepare for yet 
+
+
+
+Singers defend Dickens Dinner 
+
+
+
+To the Editor: 
+
+There is apparently no end to the 
+Communicator's potential for attack- 
+ing any person or organization of this 
+campus connected with any form of 
+art. Only a few weeks back it was the 
+campus literary magazine, of which I 
+am editor; now the victim-elect is 
+University Singers, and the charge is 
+NEGLECTING THE STUDENTS. 
+
+In the first place, Franke is in 
+incredibly poor taste in using his 
+column as propaganda space; he had 
+ought to bully the senate into carrying 
+out his whims more subtly, or at least 
+elsewhere and nti under the inept 
+guise of journalism. 
+
+In the second, procedures regard- 
+ing this year's ticket sales were made 
+clear to everyone, and Dickens 
+Dinner is not a capitalistic adventure; 
+at best we wdl break even. Therefore 
+these rantings of students being 
+ignored or ripped off, as it were, are 
+pure silliness. Discount prices for 
+students would be nice but probably 
+impossible ; one would have to discuss 
+the matter with the head of the Music 
+Department, which Franke apparent- 
+ly has not done; he has in classic 
+Communicator style merely begun 
+shooting venom before even research- 
+ing his target. As for the suggestion 
+that we are neglecting the students 
+and playing up to the community, 
+Franke might do well to attend some 
+of our performances and see for 
+himself that the students on this 
+campus are apparently more interest- 
+ed in acid rock than music; the 
+students are always in a pronounced 
+minority while the community seems 
+more interested. 
+
+Regarding the incidental sum 
+allocated Singers by the senate, 
+Franke need not try to fool anyone 
+into thinking that this money is 
+allocated out of concern for Singers or 
+for music. It is allocated because a 
+group of bright-eyed singers to 
+bounce onstage and chant briefly at 
+university functions is a necessary 
+status symbol to any campus. Beyond 
+that, the senate could care less about 
+Singers; music is a background item 
+to our senate and students, and we 
+have consistently been treated as a 
+background group, at best an 
+eccentric fringe whenever we ab 
+andoned the Johnny Mann image for 
+the Anton Bruckner. Franke had 
+ought to take a closer look at who is 
+neglecting whom. 
+
+The most disgusting thing about 
+this editorial is the assumption 
+inherent in it that a few foreboding 
+words from Franke are going to strike 
+fear into the hearts of University 
+Singers and make them cower 
+frantically into doing whatever 
+Franke in his self-appointed role as 
+God deems should be done. If his 
+Word would be enough to have all of 
+our senate money cut off and he could 
+by some Nixonic alliance with the 
+administration foreclose all of our 
+equipment, sheet music, and cos- 
+tumes, the campus can rest assured 
+that Harper and his eccentrics would 
+
+
+
+still have their voices and would 
+rather calmly borrow a pitch pipe and 
+go about the business of getting ready 
+for the spring Brahms concert— this 
+latest piece of journalistic porno- 
+graphy has only served to further 
+alienate Singers from the student 
+body, a sad situation indeed, when 
+both parties could draw so much from 
+the artistic achievement that is the 
+purpose of University Singers. 
+
+S. M. BRATTAIN 
+
+To the Editor: 
+
+I confess that I was rather taken 
+aback by your editorial, of Thursday 
+
+
+
+of the truth? 
+
+1. The Dickens Dinner will not be 
+held December 10. 
+
+2. The University Singers did not 
+receive the sum you indicated from 
+student activity monies, but rather a 
+figure some one thousand dollars less. 
+
+3. This sum is used to further the 
+work of the Singers, not to subsidize 
+the Dinner. The Dickens Dinner must 
+be self-supporting since it is not 
+budgeted by the Student Senate. 
+
+4. Students did in fact have 
+priority for ticket purchase, since 
+they are in a position to deliver ticket 
+requests personally, whereas outsid- 
+ers have to use the mail. 
+
+5. It is perhaps unreasonable to 
+draw conclusions about the attitudes 
+of the Director of the Singers in the 
+face of the fact that Dr. Harper has 
+been out of the country for some 
+months. You may attribute any 
+deficiencies in the organisation of the 
+dinner this year to the fact that the 
+work is being performed by volun- 
+teers, such as the undersigned, who 
+are working to preserve a campus 
+tradition of which many people have 
+become fond and where generates a 
+very positive impression in the 
+community. 
+
+6. The Student Senate has no 
+investment in the Dickens Dinner per 
+se. The Senate budgets the Singers, 
+but it does not budget catering nor 
+
+
+
+Certainly, it would be good if 
+more people could attend the Dickens 
+Dinner. The problem is that the 
+'break-even point' is at 100 per cent of 
+capacity: every seat must be filled, 
+every meal must be paid for. The 
+expansion of the dinners so that 1050 
+tickets were offered (rather than the 
+current 700) would involve a financial 
+risk. Would the Student Senate be 
+prepared to underwrite this risk? I 
+hope so. After all the flack we get 
+about 'Hippie Heaven' and 'Mari- 
+juana Tech' we certainly need to 
+encourage those organisations which 
+show the public a truer, more 
+attractive, aspect of our campus 
+community. 
+
+D.P.ONWOOD 
+
+
+
+Thnrs . Per I.I 1873 
+
+
+
+Genesis concert 
+seen as "dynamic" 
+
+
+
+
+Game is no longer 
+due to diplomacy 
+
+
+
+H00GOVEN TOURNAMENT 
+
+
+
+Show your friends 
+you've got good taste. 
+Give them 
+
+GIFT CERTIFICATES 
+from 
+
+tBprifljT 
+
+
+
+Brrrrrrr, it's cold! 
+
+Energy crisis at Roots? Barely. 
+
+
+
+Everyones turning their 
+thermostats down and 
+turning on to Roots for 
+warm winter wear. 
+
+
+
+Finest Imported Sweaters 
+
+Men's, Ladies', Kids' 
+
+ski parkas 
+Gloves, mittens, long 
+
+underwear, sock hats 
+
+Loads of ski stuff 
+Down sleeping bags, 
+hiking boots 
+
+
+
+Merry Xmas &amp; think snow!.'/ 
+
+
+
+v who felt optimistic about 
+
+
+
+mpletely 
+
+
+
+S OPENING 
+am Lombardy 
+
+
+
+well-read, well-rounded, i 
+
+
+
+surprised if Larsen v 
+
+
+
+Mikhail Botvinnik report- 
+muscle for hours at a time, 
+
+
+
+i in clouds of cigarette and 
+
+
+
+refusal of the 
+
+
+
+ilightenedof bodies) 
+
+
+
+world championship from Tig- 
+
+
+
+i, For Fischer, 
+to a couple of hi 
+
+
+
+Tutoring center 
+open to all 
+
+
+
+Students intere. 
+cing problems 
+
+
+
+been an adherent of e 
+
+
+
+/ilh their 
+i get free 
+neip uirougn me Tutorial and 
+Study Skills Center located on 
+
+
+
+ing. One British columnist 
+
+
+
+all-night bowl- 
+"l columnist 
+also spends 
+
+
+
+y. T 
+
+s allocated through t 
+ins Affairs ' 
+ird Rupel, i 
+
+
+
+&gt; Affairs Offici 
+Affairs, said 
+
+
+
+for Lawrence Welk. 
+
+So while it's true that i 
+certain amount of intellect i: 
+required, it's probably mon 
+
+
+
+p.m. Monday through Thurs- 
+Friday. In addition, the center 
+student tutors and lists of 
+
+
+
+Entire disk released 
+of Italian baroque 
+
+
+
+the keyboard : 
+gifted compose 
+Italian baroque 
+
+
+
+6844 NORTH CLINTON FORT WAYNE, INDIANA 46825 PHONE 484-2604 
+
+
+
+Close contemporaries to 
+FrescobaJdi - Monteverdi and 
+
+
+
+Study room 
+to be open 
+24 hours 
+
+Hie staff of the Lib, 
+will keep the study room o 
+twenty-four hours a day 
+
+of finals, according to Joa 
+
+
+
+rules for their performance, 
+i by the composer. 
+
+
+
+fine music which 
+
+
+
+^ Wish your friends a Merry 
+{ CHRISTMAS with a gift from 
+
+
+
+the 
+
+
+
+HEALTH FOOD 
+SHOPPE 
+
+
+
+
+\ Free Gift Wrapping 
+and Delivery 
+
+J I you name on card ) 
+
+\ Health Food Shoppe 
+
+J 3S15 N. Anthony 483-5211 
+
+
+
+Gift Certificates Available 
+
+
+
+
+IU-PU student Sandy Warner submitted the name "Budweiser" that was 
+chosen for Stan Jones' dog. There were 217 entries in the contest. According 
+to an anonymous Communicator staffer, Budweiser was chosen because the 
+dog looked like an empty beer can. 
+
+
+
+How can America 
+ship oil abroad? 
+
+
+
+U.S. supplies those 
+is could retaliate by 
+ig their much larger oil 
+
+
+
+from Middle East i 
+
+
+
+t barrels of oil daily t 
+
+
+
+s abroad are that before the embargo began last 
+
+
+
+■barrels is only nin 
+
+
+
+enl onrushing fuel &lt; 
+
+amount is totally insi|_ 
+and Rep. Les Aspin, D-V 
+
+
+
+s totally insignificant 
+
+
+
+the government belie 
+
+
+
+..home heating oil sold to small 
+■isolated communities near the 
+^U.S. border in Canada and 
+
+The United States imports 
+
+;;and oil products daily from 
+■•Canada and 17.600 barrels 
+..from Mexico. 
+
+
+
+a United States 
+has exported the following 
+
+types of petroleum products to 
+
+January through July this 
+
+
+
+11,828; Japan - 
+
+
+
+gasoline, 482,907 barrels of 
+automobile gasoline, 611, 162 
+barrels of kerosene and jet 
+fuel, 649,994 barrels of distill- 
+
+residual oil which is often used 
+
+
+
+barrels daily, in 1969 was 
+62,800 barrels daily, 1970 was 
+
+barrels, 1972 was 36,742 and 
+
+a slight upswing. 
+
+The upturn is believed a 
+
+United States which made 
+
+
+
+tain they will not reopen the oil 
+
+Israel - a close ally and client 
+state of the United States-re- 
+turns all Arab lands captured 
+in the 1967 Arab-Israeli war. 
+The shutdown is expected 
+
+Works of Gitot to 
+be presented by 
+Art Museum 
+
+
+
+work of 
+e Gilot beginning De- 
+
+
+
+the work of 
+
+
+
+i with Picasso and Matisse. 
+
+
+
+rints for lithographic 
+
+
+
+e U.S 
+
+
+
+1 1 the United 
+
+..nportlng a 
+
+lion barrels of oil 
+
+
+
+Musce d'Art Moderne in Paris 
+and Museum of Modern Art In 
+
+
+
+h Miss Gilot's work will be 
+a selection of woven tapestries 
+
+
+
+been importing about s 
+...Jon barrels r* "" 
+
+-oducts daily, 
+
+i Africa and the Middle 
+There has now been a total 
+
+
+
+by noted abstract expression- 
+ist painter Theodore S tamos, 
+special temporary 
+
+s section 
+i tribal arts will be 
+presented with a good number 
+
+
+
+Students can travel 
+in Canada and Spain 
+
+
+
+4 students 
+
+and Puerto Rico departed 
+from Logan Airport in Boston 
+and flew to Madrid. 
+
+
+
+attended classes. The living 
+quarters consisted of one 
+
+tory had its own private pool, 
+tennis and basketball courts. 
+Each class met five days a 
+
+Elementary Spanish to Litera- 
+ture and Culture. 
+
+Students toured La Man- 
+
+
+
+Program in Spain 19 
+
+tana College, Rock' 
+possible. Space is veri 
+
+
+
+Campus organizations 
+taken in by rackets 
+
+
+
+t selling 
+
+campus organizations per- 
+sists, even after repeated 
+warnings about the practice 
+have been publicized. 
+
+Typically, the pitch begin: 
+
+
+
+
+
+
+the implied 
+
+
+
+call 
+
+
+
+college 
+
+
+
+by 
+
+
+
+often represents himself a 
+"doctor" from some ot 
+
+ed down a department h 
+
+ballpoint pens and other of 
+
+
+
+where the pitch is repeated, 
+recommendation of 
+
+called. 
+
+] 
+
+" succeeds ii 
+
+s he is doing a 
+
+educational ci 
+
+the same time get 
+
+bargain for his depart 
+
+
+
+Surprisingly i 
+mating a 
+
+
+
+because I have to 
+assignment," goes 
+
+
+
+liquidate it 
+is teaching 
+
+
+
+But it's really ji 
+Jtine transaction for the 
+looth-talking, fly-by-night 
+lesman on a WATS line. 
+
+The merchandise isn't 
+
+
+
+formal complaint 
+
+
+
+campus bookstore 
+
+
+
+Believe cows talk 
+on Christmas Eve 
+
+
+
+
+
+
+; from Nova Scotia i 
+
+
+
+Light of the 
+perhaps, this 
+Savior explain 
+
+Christmas 
+
+
+
+World" and, perhaps, 
+'iorexplai 
+I towering bo: 
+
+
+
+The 
+
+
+
+other beasts a 
+
+night, the Caju 
+
+long ago ci 
+
+ed the Chr 
+
+late-night chill. 
+~ ; Cajuns 
+
+s kneel at midnight b 
+Is humbly 
+., and early 
+
+Indian lore reveals that on this 
+
+night deer in the forest fall to 
+
+their knees to look up to the 
+
+Great Spirit. 
+
+Christmas legends and beliefs 
+
+
+
+" ag 
+
+e Christ Child against tl 
+night chill 
+The Cajuns also say t 
+tals kneel at mid 
+their heads 
+
+
+
+uild t 
+
+
+
+pyramid-shaped frame with 
+
+
+
+anywhere in the world. 
+
+The grownups of Robert' 
+Cove, for example, a Germa 
+
+light their children with an 01 
+Country custom welcoming S 
+
+December 5. The gentle t 
+
+
+
+long pole: 
+laped frair 
+d horizontally, 1 
+
+lumber, old tires and sticks fill 
+
+boo canes and reeds {which 
+pop like firecrackers when 
+heated) are woven among the 
+logs just before the fires are 
+lighted at dark. 
+
+A modern Christmas cus- 
+tom is the decorating or the 
+34-story capitol building over- 
+looking the Mississippi here. 
+
+
+
+hand, honors about a d 
+gather to greet him. 
+
+
+
+tide candle radiating i 
+
+
+
+
+
+P Utter U. — oar K»lr ^ UndHrtandt 
+" 11 Wtthwrt M- Subitum on dmrly 
+
+11 "- te . n**t If. bdtM S. CooDttrf*!! 
+
+3* 1ft. Dtahut* U p«t" " " '■ Tb " P"*fcl» 
+V tl. T*-h» .. Jf?V . U. Cyllndrie.1 
+
+KSrsu "r^ ».£=5? 
+R n ^£i.*., „.S2^r »SIT 
+
+D " V """_ sx Mm [„ „„•, ■ bratinf 
+£ ». Turf or nth t». flujbart point tt t!£!Zi&amp; of 
+
+
+
+
+
+
+
+
+
+
+' ■ 
+
+
+* 
+
+
+
+
+" ■ 
+
+
+
+
+
+
+
+
+' 
+
+
+
+
+
+
+_■" 
+
+
+
+
+
+
+I" 
+
+
+
+
+
+
+
+
+P 
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_, 
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+_ 
+■ 
+
+
+W 
+
+
+
+
+
+
+
+
+M 
+
+
+
+
+
+
+
+
+
+
+11 
+
+
+
+
+
+
+1 
+
+
+" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" 
+
+
+
+
+
+
+■" 
+
+
+
+
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+■" 
+
+
+
+
+
+
+■ 
+
+
+
+
+
+
+
+
+
+
+Copt*? Nm Sanfcr* 
+
+
+sw 
+
+
+
+Wine luncheon held 
+in San Francisco 
+
+
+
+n-iii-pi'rfi-ction Dutch engraving by Philip 
+
+
+
+
+
+
+
+
+
+d during the paBt Bolzer, Standing 
+
+
+
+v York and 
+
+r gourmet 
+
+n Brothers Winery. 
+
+i given in the elegant, 
+
+phere of Ernie's 
+
+catered 
+
+
+
+circle, I heard him &lt; 
+
+
+
+r'i.isiin/1-urbnlSnHlfleI-Viiill- 
+anline t'liri ilinn Uriilher::, 
+Cochon de Lait Farci, Souffle 
+
+
+
+InSanFrani 
+
+selling I' 
+
+
+
+■-.&lt; Iic.ivc ' 
+
+This ye 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acjaadajj 
+
+
+
+
+
+
+
+
+llll 
+
+nn 
+
+HI 
+
+
+in 
+
+i n 
+
+
+aaasmja 
+aaaa ana 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nn 
+
+
+llll 
+
+
+aaaaa 
+
+
+
+
+
+
+man nnn 
+
+
+nil 
+
+
+i r 
+
+
+nan rificn 
+
+H30 «TO 
+
+
+mi 
+
+
+i i. 
+
+
+
+
+20%, 
+
+
+
+o ,s 
+
+
+
+CO' 
+
+
+
+IU-PU STUDENTS 
+ON DRY CLEANING 
+
+CLINTON 
+CLEANERS 
+
+
+
+:entral electronics 
+
+2312 GOSHEN RD. 483-5611 
+
+
+
+
+SONY. 
+MEANS 
+
+
+
+QUALITY 
+SONY, Ask anyone. 
+
+
+
+The perfect Christmas Gift 
+
+
+
+'JONATHON LIVINGSTON 
+SEAGULL' 
+
+
+
+
+a pair of theatre tickets to the 
+movie starting Christmas Day at 
+
+Georgetown Theatre I 
+
+and a paperback copy of the book for 
+
+4.95 
+
+now on sale at 
+
+Readers World 
+
+'The Complete Family Reading Center' 
+Georgetown Square 
+Market Place of Canterbury 
+
+offer expires 12-24-73 
+
+
+
+WE CAN HELP 
+
+
+
+
+Mass Transit 
+Conserves Fuel 
+Preserves the Environment 
+Relieves Traffic Congestion 
+and SERVES PEOPLE 
+
+TAKE YOUR TRANSPORTATION 
+NEEDS TO THOSE WHOCARE 
+
+
+
+RIDE PTC 
+
+
+
+Parnell Park From 
+
+$775.00 
+
+APARTMENTS £ TOWNHOUSES 
+
+(Furnished or Unfurnished) 
+
+Open 9 a.m. to 7 p.m. Daily 
+
+laturday 9 to 6 p.m. Sunday 1 to 6 p.] 
+
+'025 Rklgewood Dr. Phone 483-3196 
+
+
+
+
+20 per cent off on all shoes 
+from Brazil 
+
+
+
+Exciting jewelry from Willie 
+Woo 
+
+
+
+Lingerie from Jennifer Dale 
+
+
+
+Denims from France with 
+stud rhinestones and sequins 
+- matching Pants and Jackets 
+
+
+
+Visit the guys store also in 
+Georgetown. 
+
+RBJ'S 
+
+
+
+g [aflilMjagrilM Communicator 
+
+
+
+Discussion topics vary 
+in Theater for Ideas 
+
+
+
+FRANKLY SPEAKING. . . .by phil frank 
+
+
+
+Apology for 
+will be the 
+
+
+
+Theater for 
+people 
+
+
+
+through a weekly ( 
+
+for Ideas says "S|&gt;t'akiT 
+
+experience that will o&gt; 
+
+Hopefully, such a vision 
+
+dhics lorcnlil&gt; .mil m -&gt;n 
+pi&gt;hin. :il .iMiUnIi - mill Ihi 
+responsibility." 
+
+The last six progran 
+
+
+
+Ceh-braiio 
+
+December 
+will be a 
+
+meeting will be held s 
+Manito Blvd, In Indiai 
+age. The evening's guesi 
+will include Dr. T. ' 
+
+
+
+Dr. Jon Hals lead, In di- 
+m-Purdue professor of edu- 
+ition and a local disc Jockey 
+
+ie topic for this December 28 
+ceting will be "Music, 
+iDcrstars, and Other Gods " 
+Friday, January A, a 
+
+of technology In our 
+
+
+
+guests. The evening will 
+
+a, "General Telephone 
+
+staff member of the 
+jit Children's School, 
+
+
+
+program concerning 
+Inonce of b 
+
+iiilhiri' "ill 
+
+
+
+On Monday, Decc 
+School will sponsor 
+
+hos questions about 
+
+
+
+
+'I UMBTEP VOOR gIRTHPAV PRESENT 
+10 BB SOMETOMG "WAT WAS CLOZE 
+TO MB /HOM,£) HERE'S MY LAUNDRY! 
+
+
+
+Open universities 
+now big in England 
+
+
+
+a traditional university educa- 
+
+The idea caught fire and a 
+charter was approved for the 
+establishment of the OU in 
+
+■ London. There were 
+
+
+
+mall village 
+5,000 applicants 
+
+
+
+
+
+
+ol, ad 
+
+
+
+ied degrees 
+
+n traditional 
+
+
+
+sporting ©COLLEGE MEDIA SERVICES-BOX 9411-BEflKELEY.CA 94709 degre £ „ 
+
+
+
+e degrees were dispelled by 
+the development of high-wual- 
+ity course material prepared 
+by some 300 respected univer- 
+sity academicians. 
+
+
+
+Neighborhood 
+Meetings begin ( 
+
+~"le, 
+
+Schaeter will 
+
+
+
+Last lecture held 
+
+in Russian series 
+
+The last lecture in the Cinematography 
+
+, iiir.nl Hutsiiffl . ulturc series lli.il 'I hursdiiy » 
+
+,,l In.iiaiiii-Punlui- Univcrsilv K.til. r Hall K 
+
+«,ll be December 18 and will lecture, a full-! 
+
+i iiiiaiialofiraphlsUi ir 
+
+
+
+/.{/. ninth 
+largest in 
+America 
+
+
+
+inginmat 
+including 
+
+land and Houston which 
+
+
+
+parts of the world, 
+Rutgers, Mary- 
+
+
+
+January, turning away 
+me 15,000 applicants it could 
+■t handle administratively. 
+
+"The process of accept- 
+
+
+
+and expand 
+and R 
+
+
+
+Publishers has 
+sell OU course 
+the United Slates. - 
+
+
+
+i, educational studies, ■ 
+
+
+
+&lt;;illiO 
+
+
+
+England and 
+ill ri-prcsent 
+
+
+
+I public Is Invited to 
+iziria -Smith, professor 
+natography Hi I.U.. on 
+
+
+
+
+
+
+
+
+
+
+
+
+
+^ifSlgffloa 
+
+
+
+
+
+
+
+
+ALL &amp;C 
+PANTS *** 
+
+
+1 
+
+ir 
+
+
+
+
+V 
+
+- 
+
+
+Riviera Pl'iza 
+
+Gateway Plaza 
+
+4922 S. Calheu 
+
+/e want YOU in 01 
+pants! 
+
+open 7 days a week 
+10-9 Mon.-Sat. 12-5 Sun. 
+
+
+
+
+
+Professor Kizlrlo-Smilh 
+
+grophy at I.U. Bloomington. 
+
+s.-vih Republic who sludiedol 
+the Institute of Enslern Lang- 
+
+ver.-iiy in Tbilisi, Georgia. 
+
+
+
+of Art Hlslory in Mi 
+
+
+
+total enrollment o 
+
+
+
+Grand total cnrollmen 
+
+l.B per cent over last yeai 
+
+The most si^nificar ' 
+ional change, Parker 
+
+enrollments declined 1.7 
+
+Other trends noted by 
+Cincinnati official: 
+
+-The continuing tide 
+ward state-controlled systems 
+
+
+
+lulti-campus universities, up 
+1 1.3 per cent. . 
+
+:iences enrollment, down by 
+
+\idents. 
+
+acher colleges, down anoth- 
+■ 3.6 per cent. ("There could 
+
+e staffing c 
+
+Independent law, medi 
+
+
+
+si;- 
+
+ring only that 
+r program to v 
+
+
+
+Moloney said the drop-out' '' ■ 
+compared to 80 per cent for .-:. 
+
+■ ■ 
+
+SUB sponsors 
+January ski trip 
+
+The Student Un 
+will sponsor a ski L, r 
+Connonsburg Ski Ai „ .. 
+Michigan on January 26, 1974. 
+
+The transportation costs _ 
+are being paid for by activity * • 
+fee money; all activity card " 
+holders will not have to pay for . ' 
+transportation. 
+
+Any persons who wish to.- ■ 
+participate in the ski trip and,- , 
+
+card must donate $6.00 for the' " 
+
+ikiers will 
+ie transported by the Indiana -"- 
+
+
+
+operalioi 
+
+
+
+
+
+
+transportation. ' 
+be transported t v 
+Motor Bus Company 
+
+
+
+Moloney 
+a 1963 speech by then-Prim 
+
+Wilson spoke of a "Uni 
+"second -Chance University 
+
+
+
+The 
+
+
+
+
+
+
+: the 
+
+
+
+
+
+
+,1-llfl 
+
+
+
+will I 
+
+
+
+and ski 
+
+$9.50. The cost of just a 
+
+lesson and a skt-lifi nukei 
+
+payment and delayed 
+
+
+
+during 
+
+
+
+The staff of 
+University Food Service 
+
+would like to wish the 
+
+Students &amp; Faculty of IU-PU 
+
+a very 
+
+Merry Christmas 
+
+k &amp; 
+
+^ Happy New Year 
+
+
+
+
+"Environmental Policy 
+
+
+
+being offered i 
+Indiana-Purdue University. 
+Classes will meet o 
+Tuesdays and Thursdays frot 
+
+
+
+important 
+
+
+
+lib if called i 
+
+projects not 
+
+Let practicality keynote J 
+
+gift buying. Guard he; 
+
+careful! v by dressing warmly 
+
+and avoid 
+
+exposure. 
+
+
+
+mtirely ready, 
+y key not 
+ing. Guard 
+by dressing v. 
+oiding draughts and 
+
+
+
+projects before tl 
+year. Good timi 
+projects, ideas I 
+
+cism. Forgive ps 
+
+
+
+ivironmental policy 
+
+
+
+ivagant tendencie 
+
+
+
+
+
+
+GOBK'N 
+CLEAVER 
+
+
+
+HELP WANTED — PART TIME 
+CORK N CLEAVER RESTAURANT 
+
+OPENING SOON 
+
+
+
+ir budget 
+
+_ int tende 
+
+ish up projects to make 
+
+ring the holidays. Examini 
+iurance policies and ta; 
+alters for possible savings 
+
+VIRGO: (August 23 t 
+
+
+
+danti-Meditate on problems- 
+
+
+
+and personal arnhi- 
+i. Accept responsibility in 
+
+
+
+seemingly confused associ- 
+ates. Entertaining at home 
+
+
+
+COMPLETELY STAFFED BY COLLEGE STUDENTS 
+
+THESE JOBS AVAILABLE 
+
+WAITERS — WAITRESSES — BARTENDERS — COOKS 
+
+HOSTESSES — BUSBOYS — DISHWASHERS 
+
+BOOKKEEPERS AND CASHIERS 
+
+IF YOU ARE INTERESTED IN A GREAT PART-TIME JOB 
+THAT OFFERS THESE ADVANTAGES 
+
+• ABOVE AVERAGE PAY 
+
+• EMPLOYEE DISCOUNTS 
+
+• FLEXABILITY AROUND YOUR SCHEDULE 
+
+• NICE WORKING ATMOSPHERE 
+
+LOOK US UP! 
+
+DECEMBER 12, 13, 14 
+MIKE LABOE 
+
+CORK N CLEAVER 
+221 Washington Center Road 
+
+(around the corner from the Marriott) 
+PHONE 483-3698 
+
+
+
+
+ARTIST 
+
+SUPPLIES? 
+
+If so/ visit the 8 branches of Ream 
+Steckbeck and choose from 
+acrylics, oils, modular 
+colors,' water colors,' 
+sets, easels, brushes, 
+charcoal, ink, 
+pastels, etc. 
+
+"(Georgetown only) 
+
+fZftjfr Steckbeck 
+Paint 
+
+
+
+
+leadline. Personal gratifica- 
+&gt;n your versatility and display 
+
+
+
+ilidays will bring much joy *. 
+id satisfaction Professional * 
+
+
+
+is possible. Adjustments - 
+which will add to your security " 
+should be in progress. Enlist - 
+
+Now is the time to put your 7 
+philosophy lo the acid test. 
+
+
+
+
+OPEN 
+
+7 A.M. TO MIDNIGHT ; 
+
+FOR YOUR SHOPPING 
+
+CONVENIENCE 
+
+
+
+Doctor's Bag 
+
+By ARNOLD WERNER, M.D. 
+
+QUESTION : This summer a half dozen of us hitch hiked to 
+the Rocky Mountains to spend some time camping. One of 
+our group started a rumor that had the girls freaked out and 
+the fellows reluctant to camp near the women. She 
+maintained that bears are attracted to women during their 
+menstrual period and in more than just an amorous fashion. 
+We knew enough to hang our food up high and away from 
+camp, but with all the stuff about women's liberation, it 
+seemed unrealistic to expect the women to put up with 
+similar treatment. Was there a real need for caution and 
+what could we have done about it? 
+
+ANSWER: The longer I write this column the more I 
+become convinced that the questions are actually much 
+better than the answers. This particular concern sent me 
+scrambling for some data which turned out to be hard to 
+come by. One summer in the late 1960's two women 
+backpacking in Glacier National Park were attacked by a 
+grizzly bear. One of the women was menstruating at the 
+time. The wildlife expert I spoke with confirmed this story 
+and recalled hearing one or two other similar reports. 
+Needless to say, the fact that the women were menstruating 
+and were subsequently attacked by the bear does not 
+necessarily indicate a causal relationship, it easily could 
+have been a coincidence. As well, the bear might have been 
+attracted by bacon or other odoriferous food stuffs, a more 
+likely occurance when the natural food supply for animals 
+
+Grizzly bears are known to attack even though 
+apparently unprovoked but the more usual black bear found 
+in many parts of this country does not usually attack unless 
+bothered. Getting between a bear and its cubs constitutes 
+being bothered. 
+
+Attacks by animals on campers, including back 
+packers, are extraordinarily rare. On this basis alone, it 
+would seem there was little source for concern. Camping in 
+the more populous parts of the country would give little 
+reason for concern, the greater threat to tranquility coming 
+from other campers. I cannot give you absolute 
+reassurance on the behavior of grizzlies in the Rocky 
+Mountains. 
+
+
+
+QUESTION: My husband is a graduate student who has just 
+been awarded a minor but significant honor. He is pleased 
+and proud and I am trying to think of a surprise celebration, 
+but my husband doesn't like to celebrate anything-birth- 
+days, Christmas, weddings, graduations, anything. 
+
+Why is it that some men are simply unable to loosen up 
+and enjoy being fussed over, or enjoy making a fuss over 
+someone else? It is frustrating to be so excited for my 
+husband and yet to know that a gift, part or a dinner out 
+would meet with polite indifference. 
+
+ANSWER: This is a complex problem. Some people, and it 
+seems to be men more often than women, have been 
+brought up to believe that the expression of feelings, happy 
+ones as well as sad ones, is generally unacceptable. Such 
+people are made very uncomfortable by attention or 
+recognition which would call forth from them some 
+expression of appreciation. On the other hand, tremendous 
+uncertainty about one's own abilities can result in 
+significant feelings of discomfort every time a success 
+Occurs. Since such people might not feel they deserve 
+success, any fuss made over them just increases their 
+discomfort. In the statement about your husband being 
+proud of his accomplishment this certainly does not appear 
+to be the case. 
+
+I have seen it happen that such an incredible fuss is 
+made over all events, be they anniversaries or 
+accomplishments, that all but the most vain would be 
+acutely embarrassed. A few such occurances can easily 
+condition a person to prefer a private sense of self 
+fulfillment rather than other people's overexuberance. 
+Rather than take responsibility for making a fuss over your 
+husband, you might try giving him an opportunity to plan 
+with you in doing something special you both enjoy as a 
+private and personal celebration. 
+
+
+
+CLUB NOTES 
+
+
+
+CIRCLE K 
+
+
+
+On Thursday, December 
+
+
+
+people there enjoyed the show 
+thoroughly and club members 
+had a great time trying to act 
+talented for the old folks. 
+
+
+
+STUDENT NURSE 
+
+The Purdue Student Nurse 
+Benjamin Becker as speaker 
+
+
+
+Friday, ] 
+
+Hall. Dr. Becker's topic will 
+
+
+
+HERE IS A STVUA-ATING 
+PUZZLE WHICH WILL 
+f\OST LIKELY APPEAR TO 
+BE VERY SW*LE AT 
+
+
+
+A TEASER. VOUR 
+
+IS MERELY TO TRAVEL 
+
+THRU THE P\OGT FAVOR- 
+
+
+
+CENTER POINTS TO- 
+GETHER WITU THE FEW- 
+
+
+
+SOUND ARY. 
+
+
+
+
+7 Indiana-Purdue Communicator Thurs., 
+
+
+
+Campaign to end 
+all public smoking 
+
+
+
+Ten students to present 
+dancing class performance 
+
+
+
+ming, December 
+
+
+
+Sunday 
+Purdue-Indi- 
+
+s Rosalind 
+
+
+
+modified and 
+
+
+
+The beginning students 
+willattempttocreatea finger- 
+snappin' mood as they dance 
+to a rock selection entitled 
+"Soul Finger." Later, the 
+group will change the pace by 
+
+semi-tap step commonly 
+
+
+
+Denise Moore 
+
+
+
+consistently used by 
+Temple, Frank Sinatra, Sam 
+
+
+
+Shirley 
+Davis, Jr., and Julie 
+
+
+
+Levy. Mary Jo Popp, Claryn 
+
+
+
+"Shaft's Suile." These 
+
+
+
+Holmes and Cheryl Woodson 
+
+
+
+Christmas conglomeration of 
+creative moods sprinkled with 
+extreme modificaUons of ex- 
+cerpts from the fairy-tale, 
+"The Three Pigs," and is 
+choreographed by the entire 
+
+
+
+Advocates now push 
+nuclear power plants 
+
+
+
+Kiu.Tyy. - 
+
+
+
+„, ,-,.„i 
+
+
+
+WASHINGTON . CNS- 
+luclear power will play ; 
+linor role for energy strate 
+
+
+
+ies move ahead on schedule, 
+hose plants produce enough 
+
+
+
+hing about getting the plants 
+
+
+
+would agree to this 
+pplication rather lhan 25 and 
+
+
+
+plant 
+
+
+
+
+
+
+Already tl 
+:sign stand 
+begun. The Duke Power Co. of 
+
+
+
+■ k-Mgn -i.mdjrdJzation I 
+
+
+
+cally offset tht 
+shortage, accorc 
+
+
+
+Currently the nation's 38 
+operating nuclear power 
+plants, with a generating 
+
+
+
+are planned to go on line 
+during the next 12 months. 
+Another 47 plant permits are 
+
+
+
+of the AEC, said she thought 
+
+
+
+effective steps toward sta 
+dardization of plant desig 
+
+
+
+i possible alternative 
+
+
+
+Standardization of plant 
+
+
+
+for the Atomic Energy Com 
+date for operation of ISO 
+capacity of 132 million kilo- 
+
+That also is the deadline 
+for President Nixon's propos- 
+ed Project Independence or 
+
+eney in energy for the United 
+States. The project would be a 
+five-year, $10 billion crash 
+research and development 
+program to begin in fiscal 
+year 1975. Sen. Henry Jack- 
+son, D.-Wash., has proposed a 
+
+
+
+hese Engrum, is each utility in- 
+
+said stead of insisting on its own, 
+custom -tailored nuclear plant 
+design, each a little different 
+from the previous one, would 
+
+
+
+er was a spright- 
+h smiling, bright 
+t anyone lighting 
+
+npalgn. At the 
+to her Scotts- 
+
+
+
+i legislature to pass a 
+
+
+
+t halls and buses. 
+
+
+
+lo have bills passed banning 
+
+
+
+r husband, Herbert E. 
+
+
+
+only occasionally," she said. 
+
+antismoklng campaign was 
+seeing my friend, Peggy, die 
+of lung cancer. I just couldn't 
+believe It. I thought only old 
+
+disease. Peggy had every- 
+
+
+
+posted, together 
+
+
+
+smoking could 
+to cause health 
+problems for nonsmokers. She 
+already has managed to 
+persuade 
+
+
+
+lUed. "I" 
+t ordinarily they i 
+
+
+
+e smiled. "It's just 
+
+
+
+i to set aside nonsmoking 
+sections, and the Scottsdale 
+Memorial Hospital has alio 1 1- 
+
+
+
+usually a 
+
+
+
+e discomfort they 
+ising others by 
+ce people know 
+
+willing to do 
+
+
+
+stating that cigarette smoke 
+not only is unpleasant to the 
+
+
+
+liii) 11, ipsfrom Phoenix tc 
+
+
+
+stop at courtesy, howei 
+
+
+
+State growing 
+in population 
+
+
+
+iicconlmt! t&lt;&gt; jiroviMiiM.il 
+
+
+
+i had a population of 
+
+
+
+and raising their : 
+
+
+
+groups, deeply involved 
+
+vnlmili'er work for Action 
+Smoking and Health, of whii 
+
+
+
+She Is an experienced 
+
+
+
+
+
+
+; city, she i 
+i Airlines, 
+i usually traveled, 
+
+
+
+Airlines, with 
+
+
+
+owns switching to TWA 
+le It advertised ami ' 
+rcas on its flights. 
+■i- appeal to the ot 
+s eventually led t 
+
+
+
+Bring in the New Year 
+
+with 
+
+XI GAMMA IOTA 
+
+Ramada Inn Drake Room 
+
+at the Junction Of 1-80 and 81. Bd. 14 
+
+Price includes 
+
+complete dinner beer 
+
+setups favors 
+
+live band 
+
+$20 per couple 
+
+
+
+i |]|,iiiK In III' sl.ilionr.l 
+
+
+
+i company for use off 
+
+
+
+power plants, even 
+
+;&gt; ;&lt; utility apphs fur its 
+s another AEC plan (or 
+
+
+
+entity "in advance to plan for 
+building a nuclear facility," 
+said Engrum. 
+
+
+
+then would apply for a ; 
+already approved by the AEC. 
+
+
+
+Virginia Long Fashions 
+
+
+
+3219 Riviera Plaza 
+
+
+
+3921 E. State 
+
+
+
+
+per cent off on all 
+
+Lingerie and Robes 
+
+
+
+3 DAYS ONLY 
+
+DEC. 13, 14, 15 
+
+
+
+VIRGINIA LONG FASHIONS 
+offer good with coupon only! I 
+
+
+
+ion permit for a particular 
+
+
+
+s license would be used by 
+; utility which orders that 
+
+Rep. Chet Holifield, D- 
+
+
+
+INSURANCE 
+
+WE NEED PEOPLE 
+
+
+
+ADJUSTERS OR ADJUSTOR TRAINEES 
+
+
+
+FIELD MEN OR FIELD MEN TRAINEES 
+
+
+
+
+SWEATSHIRTS 
+
+TEESHIRTS 
+
+JERSEYS 
+
+FOLLETT'S FT. WAYNE BOOKSTORE 
+
+Ground Floor Ketfler Hall 
+
+Phone 483-6100 
+
+
+
+SEIKO 
+
+THE 
+
+BEST 
+
+GIFTS 
+
+COME IN 
+
+SMALL 
+
+PACKAGES 
+
+valch fashion of our times. 
+^ Lady Seiko from our de- 
+:igner collection that's full of 
+
+
+
+
+Seiko watches are made by 
+th beautiful faces, automation, so you pay only 
+t colors, like blue forthe limepiece and nol the 
+
+
+
+GravesJewelry 
+
+
+
+GOLF 
+
+&amp; TENNIS 
+
+SHOP 
+
+A wide selection of gift 
+ideas for the golfer or 
+tennis player on your 
+Christmas List. 
+
+
+
+
+SHOP NOW &amp; SAVE 
+
+
+
+SPORTS 
+SHOTS 
+
+
+
+By PHIL HARTMANN 
+
+THE CONTINUING SAGA OF CHARLIE O. 
+
+The Oakland A's have annexed two straight world championships. 
+Their owner is Charlie 0. Finley. affectionately known as "Charlie the 
+
+Thus you might deduce that Finley is a great sports mastermind. But 
+some say that the Athletics did the job in spite of Mr. Finley. Let's take a 
+brief closer look at this millionaire from La Porte, Indiana. 
+
+He is the owner of the Memphis Tarns of the ABA. The Tarns for 
+several years have been the worst team in the league, both 
+performance-wise and financially. 
+
+He is the owner of the California Golden Seals of the NHL. The Seals 
+are in the same boat as the ABA Tarns, and NHL owners are trying to buy 
+out the west coast franchise from Mr. Finley before he does any more 
+bungling. 
+
+He also was owner of the Columbus Seals of the International Hockey 
+League. The team did so badly that Finley decided to get out. Thank God, 
+because one more year of his rule could well have resulted in the severe 
+financial crippling of the entire league. 
+
+Incidentally, this year under new leadership the Seals are recovering 
+
+Charlie, why dont you set up your empire somewhere else? Like, say, 
+Juneau, Alaska, for example. 
+
+VETERAN QBS FINALLY GIVEN A CHANCE 
+
+For years veteran quarterbacks John Hadl and Charley Johnson 
+toiled in the far background of Johnny Unitas, Joe Namath, and 
+Company. They put the tallies on the board for their losing clubs, but 
+always seemed to come out on the short end of something like a 45-30 
+
+The offense was there but the recognition was not. Hadl endured 
+many a losing, frustrating season with the defense-less San Diego 
+Chargers. And Johnson worked fulilely for eons with the hapless Houston 
+
+But in 1973 both professionals have at last been given the chance to 
+prove their worth while playing for real winners. 
+
+The results are fast coming in : Hadl is currently the leading passer in 
+the NFL and has led the Los Angeles Rams to a powerful 10-2 mark. He 
+has lifted the Rams into serious contention for the Super Bowl. 
+
+Johnson has been the key factor in Denver's rise into contention in the 
+AFC West Division. He must have had to look up such terms as "win," 
+"victory," "cheer," and "stardom" before the season started, as those 
+words were unknown in Houston, Texas, 
+
+INDIANAPOLIS NOT ALL THAT BAD 
+
+For the past several years Indianapolis has been considered as a 
+possible site for major league baseball, football and hockey franchises. 
+However, interested parties have always shied away from Indy because 
+of its lack of past success in minor league classifications. 
+
+But one major league sports team, the Indiana Pacers of the 
+American Basketball Association, has tested the Indiana city and has 
+found a home, 
+
+The Pacers have won the ABA championship in three of the last four 
+years. At times during that span the Pacers looked like anything but a 
+champion team. But the fans have always turned out in capacity numbers 
+at the Indiana State Fairgrounds to support their major league basketball 
+
+This year, through the first 30 contests, the Pacers have been just a 
+.500 club. Yet whenever they battle ABA foes at home, the attendance 
+rarely dips below the 9,000 mark. 
+
+VACATION WISHES 
+
+Here's hoping that all Indiana-Purdue students have a long and 
+satisfying vacation period. Inevitably the energy crisis will be on 
+everyone's mind, but hopefully the situation will improve as the new year 
+sets in. At any rate, if you've got the gas, drive carefully. 
+
+As you celebrate the season give a little thought to the families of the 
+hundreds of men still unaccounted for in Southeast Asia. And pray that 
+Golda and the Arabs find the true meaning and bliss of peace. 
+
+TAKE CARE SPORTS FREAKS! 
+
+
+
+Chearleading squad bright 
+bunch of smiling females 
+
+
+
+By! 
+
+
+
+\ &lt; ir.lt \ 
+
+
+
+Varsify cage squad drops 
+to 7-9 after three setbacks 
+
+
+
+A bright bunch of smiling females 
+has been chosen to be recipients of 
+two new outfits-not just the latest 
+fashions, but the latest in cheerlead- 
+ing uniforms. 
+
+Six girls were recently selected 
+i panel of judges as this year's 
+
+
+
+Monday, November 27, 1973, at 
+7:00 p.m. in the Student Union 
+ballroom, a panel of seven judges 
+chose the six girls. The competition 
+was open to all students, male or 
+female, and selections were based on 
+, facial expressions 
+
+
+
+
+By REX PUTT 
+
+IU-PU rally falls short 
+
+Indiana-Purdue played one of 
+their usual flat first halves and fell 
+short in a spirited second half rally as 
+they were defeated by Northwood 
+Institute, 106-81 in a college basket- 
+ball game Thursday night at the 
+Concordia Senior College gymnas- 
+
+Northwood took advantage of the 
+Mastodon cold first half by going to 
+the boards and scoring on many 
+offensive rebounds. The Mastodon 
+guards, Dean Putt, Gary Daub, and 
+Gary Trump did most of the first half 
+scoring, as the Mastodons fell behind 
+by 21 at the intermission. 
+
+Northwood took an early 12-6 
+lead, and used their offensive 
+rebounds strength and a good 
+shooting percentage to extend their 
+lead to 24-9. Indiana-Purdue came 
+back behind the fabulous shooting of 
+guards Trump and Putt to narrow the 
+deficit to 10 points, but with the score 
+33-23, the Northwood five again hit a 
+hot streak as forwards Weeks and 
+Weber scored consistently from short 
+range. The Mastodons went cold, 
+throwing the ball away and making 
+other miscues that benefited the 
+opposition. The half time score ended 
+at 56-35. 
+
+Indiana-Purdue came out strong 
+in the second half and nearly hustled 
+the visitors out of the gym. Captains 
+Rex Putt and Gary Trump ignited a 
+torrid fast break that along with a 
+rugged full court man to man press 
+brought the Mastodons back into 
+contention. Dean Putt continued to 
+score, and forwards Grussing, Gray 
+and Peterson all contributed to the 
+rally that was a reversal of the first 
+half play. The Northwood lead was 
+cut down to 10 points at one time, and 
+still didn't look secure when the 
+Mastodon's leading scorer, Rex Putt, 
+fouled out with over five minutes to 
+go. 
+
+Northwood led by 15 with a little 
+over four minutes left to play, so with 
+little hope of a victory Coach 
+Wehrmeister sent in a new squad to 
+finish it up. 
+
+
+
+long outside shots, and guard Gary 
+Trump had a fine night with 16 points 
+Forward Hex Putt shook off a bad 
+first half with 10 second half points 
+and Gary Gray added 9. 
+
+Weber was the big gun for 
+Norlhwood with an impressive 35 
+points, and Weeks and Snow added 22 
+and 21. 
+
+
+
+and enthusiasm. 
+
+Members of the team of judges 
+were Terry Kundysek, Rollie Clem- 
+ents, Jerry Hetrick, Gary Trump, Dr 
+Jack Kirby, Dr. Edwin Leonard, and 
+Dr. Judy Kamnikar. 
+
+Alice Thomas, a sophomore, will 
+serve as captain of the squad. "I hope 
+we can get as much participation as 
+passible from the students and faculty 
+at the games," she commented. 
+
+The squad will cheer at all IU-PU 
+gasketball games, both home and 
+away. Plans also indicate that the 
+girls will be at soccer and baseball 
+games. They are being advised by 
+Judy Kamnikar. 
+
+Georgia Ward, assistant squad 
+captain, is a sophomore majoring in 
+nursing. She stated, "It would be 
+great if the students at IU-PU could 
+get out there and support their 
+
+Both Char Snearing, a senior 
+majoring in art education, and Pam 
+Craig, a junior in Germanic lan- 
+guages, also expressed hopes of 
+increased student support at games. 
+"Most people have never been to a 
+gameand the team does need backing 
+from the student body," said Char. 
+
+Pam called for student attend- 
+ance at the games, "Let's all get out 
+there and show them we're backing 
+
+To generate more spirit and 
+support for the athletic teams, the 
+squad hopes to form a booster club. 
+Students who might be interested are 
+asked to leave their names at the 
+Student Services office or at the 
+athletic office in the Student Union. 
+
+
+
+Mastodons score 100, lose 
+
+The Indiana-Purdue Mastodons 
+performed very well as thev rebound- 
+ed from an early 20-point deficit, but 
+still lost 114-110 as they ran into foul 
+trouble against a rugged squad from 
+Spring Arbor in a Saturday night 
+game at the Central gym. 
+
+Highly-favored Spring Arbor had 
+taken a quick 20-2 lead early in the 
+game, but a tenacious offensive rally 
+led by leading Mastodon scorer Rex 
+Putt, and a spirited defense which 
+forced Spring Arbor to turn the ball 
+over time after time closed the gap 
+and turned the premature run-away 
+victory into a barn-burner. The 
+Mastodon squad was loudly cheered 
+throughout the game by a sizeable 
+crowd in their first home game of the 
+season. An all-male cheering section 
+added an additional inspiration to the 
+
+Spring Arbor brought their own 
+cheering section along and acted as 
+though they were going to blow the 
+hosts out of the gym as they put 20 
+quick points on the board while the 
+Mastodons could only manage one 
+bucket. Indiana-Purdue called time 
+out with over 15 minutes to go in the 
+half, but still couldn't get the offense 
+together. They fell down by as much 
+as 28-6 before they finally decided to 
+
+Captains Rex Putt and Gary 
+Trump took charge and helped the 
+Mastodons to gain on the visitors. 
+Trump, who only stands 5'9", but was 
+moved to forward by Coach Wehr- 
+meister because of his outstanding 
+jumping ability, made several key 
+plays that brought the Mastodons 
+within 13 at 40-27 with nearly five 
+minutes remaining in the hall. The 
+rest of the half was all Indiana- 
+Purdue as they outscored the visitors 
+vith Rex Putt netting nearly 
+
+
+
+second half, but forwards Rex Putt 
+and Keith Mendenhall (who at 5'10" 
+was playing forward for about the 
+first time since elementary school) 
+led a tremendous surge by the 
+Mastodons that gained them a 65-64 
+lead with about 14 minutes left on the 
+clock. The lead switched hands 
+throughout the sixties and into the 
+seventies until leading Mastodon 
+scorer Rex Putt was saddled with his 
+fourth foul. All four Mastodon big men 
+were in foul trouble, so even though 
+Keith Mendenhall, the blond bomber 
+for the Mastodons, attempted to keep 
+them in the game with long arching 
+shots and accurate free throw 
+shooting, the Spring Arbor heighth 
+advantage was too much. 
+
+All four Mastodon big men ended 
+up fouling out, and the visitors 
+coasled in with a victory, scoring over 
+half of their final 20 points from the 
+charity stripe. 
+
+Rex Putt's 32 points was one of 
+the seasonal highs in the city this 
+year, while Keith Mendenhall, a 
+former Woodlan High School stand- 
+out, who only had a four-point 
+average going into the game, netted 
+20 points. Gary Trump performed 
+well at his forward post with 13 points, 
+and freshman standouts Dean Putt 
+and Gary Daub, who led the effective 
+full court man-to-man defense that 
+forced Spring Arbor into numerous 
+turnovers, added 10 points apiece. 
+
+Tom Wilson led a balance scoring 
+attack for the winners with 20 points. 
+Rhew and Kinnear contributed 19 and 
+18, while Gray, Siefert and Klinger 
+scored 16, 15, and 10 respectively. 
+
+The win brought Spring Arbor's 
+record to 5-2, while the Mastodons lost 
+for the eighth time in nine outings this 
+
+
+
+boards. Gary Trump and Dean Putt 
+
+also contributed to the brief comback 
+with several steals and baskets from 
+long range. 
+
+
+
+lead^ but the inspired Mastodons 
+battled back again with a pressuring 
+defense and came within 7 at 80-73 and 
+again at 82-75. But they got no closer 
+as St. Francis began to use their big 
+man effectively, and as sparkplug 
+Charles King hit from outside. The 
+Mastodons threatened many times 
+thereafter, but each time St. Francis 
+was able to regain their secure lead. 
+Despite the loss, the Mastodons 
+scored well; Rex Putt scored 27 and 
+raised his average to 17.8, while Dave 
+
+
+
+drives. Dean Putt added 17, and Gary 
+Trump, Keith Mendenhall, and Gary 
+Daub all hit double figures with 14, 14, 
+and 10 points. 
+
+St. Francis improved its record to 
+3-6, while the luckless Mastodons 
+dropped to 1-9. 
+
+
+
+Mastodons score 108, lose 
+
+St. Francis took an early first-half 
+lead and then held off an Indiana- 
+Purdue rally to defeat the Mastodons 
+in a grueling offensive battle 120-108 
+Tuesday night at the Central Catholic 
+gym. It was the second battle of the 
+year for these two teams, and St. 
+Francis won both by the same 
+margin. 
+
+An early hot hand by big 
+Troubadour Chuck James, who 
+scored 25 points before fouling out 
+early in the second half, helped St. 
+Francis to jump into the lead by as 
+much as 21 points in the first half. 
+Guard Charles King and 6'8" Mike 
+Jensen look hold where James left off 
+as they scored 30 and 20 points 
+respectively. 
+
+St. Francis scored first on a field 
+goal by James, and they never trailed 
+in the game. The Mastodons got off to 
+a slow start and the Troubadours 
+nearly ran them out of the gym with 
+amazing shooting from all over the 
+floor. The Mastodons scored a 
+respectable 50 first-half points, but 
+their opponents had an incredible 66 
+points at intermission. 
+
+In the second half the Mastodons 
+came out fighting, getting the tip and 
+scoring quickly. The lead was soon 
+cut down to 10 with the score 70-60. 
+The rally was led by the two big men 
+for the Mastodons, Dave Peterson and 
+Rex Putt, Peterson scored consistent- 
+ly on beautiful baseline drives, while 
+Putt was strong on the offensive 
+
+Pigskin title 
+to Stonef ace 
+
+Last Sunday Stoneface proved to 
+be the toughest team as they 
+embarrassed Smith 28-0 to take the 
+intramural football championship for 
+the second straight year. The 
+relatively easy victory climaxed an 
+undefeated season for Stoneface. 
+
+On the first punt of the game, 
+Steve Ottenweller twisted through the 
+Smith coverage to open the scoring 
+barrage. It was the first of two 
+touchdowns scored by the speedy 
+defensive safety. 
+
+Stoneface's second tally, this ( 
+
+Jon Werli 
+lit 1 1 spirit . 
+t of reach. 
+
+Ottenweller's second score and 
+another touchdown by Werli just 
+added insult to injury as the Stoneface 
+defense posted the shutout. John 
+Jaquay and Tom Dunlap added the 
+extra points to cap the scoring. 
+
+The shutout was the first against 
+Smith all season, while the 28 points 
+by the Stoneface offense was twice as 
+great as the previous high allowed by 
+the Smith defense in a single game. 
+
+
+
+
+A Spring Arbor eager hits for a crucial bucket as Mastodon 
+Rex Putt watches helplessly. Spring Arbor was on top at 
+the buzzer, 114-100. 
+
+
+
+r 
+
+
+
+ByVINCELOCHBIIILKR 
+
+December is a special month for sports writers because it gives us a 
+chance to choose our "Sportsman of the Year" for 1973. Last year it was 
+Mark Spitz, and this year again the coveted award will go to an athlete 
+who excelled in his-her particular sporl. 
+
+Is it Hammerin' Hank Aaron? Not this year, Atlanta fans. Although 
+Hank battled pitchers and pressure tu come within one home run of Babe 
+Ruth's so far insurmountable 714, he just didn't quite make it. And that's 
+what counts-tliis year. 
+
+If it isn't Aaron, then it must be Billie Jean King, the "king" of 
+women's tennis. Not only has Billie Jean dominated the women's circuit, 
+but she has proved victorious in the senior men's league with her victory 
+over Bobby Riggs. In the "Battle of the Sexes" King handily defeated the 
+55-year-old self-proclaimed male chauvinist pig in straight sets. But the 
+award winner isn't Billie Jean. 
+
+Who else could it be, then? Why, of course, O.J. Simpson, the 
+superstar of the Buffalo Bills, who will break Jimmy Brown's rushing 
+record of 1863 yards this week. O.J. has really been impressive this year, 
+as he will need only 61 yards to break the mark. The ex-USC star also 
+broke the record for most yards compiled in a single game with about 250 
+earlier in the season. But Simpson is only the runner-up this year. 
+
+The star of pro basketball had to be Willis Reed of the Knicks. 
+Although Willis wasn't the top rebounder or top scorer, it was just his 
+presence which brought the NBA championship back to New York. But 
+Willis isnt number one either. 
+
+That leave only one superstar left, right? --George Foreman. 
+Foreman, the 1968 Olympic boxing champion, totally demolished Joe 
+Frazier in the second round to become the current heavy-weight 
+champion of the world. The only problem with Foreman now is that he" 
+hasn't defended his title against any "name" fighters, so that one night's 
+work won't bring him the top award for 1973. 
+
+So, my pick for the 1973 "Sportsman of the Year" award is none other 
+than Bill Walton, the 6'11" center of the UCLA Bruins. Why Walton? I 
+really never got to see Walton in action on a regular basis, but from what 
+I saw, he was intimidating. 
+
+There was a rumor going around that Walton was the reason UCLA 
+wins all the time. Last year's undefeated season and a string of over 70 
+consecutive victories might be considered excellent proof. 
+
+The clincher concerning Walton's ability came in the championship 
+game against Memphis State in late April. The Bruin guards had only to 
+flip the ball anywhere within his reach and it was a sure basket. 
+Defensively, Big Bill cuffed shots and rebounded so well that he was 
+name college "Player of the Year" in basketball. Quite an athlete and 
+quite a basketball player. 
+
+
+
+Since this is the last issue until next semester, here a 
+predictions for the Christmas break: 
+
+Notre Dame over Alabama by 3 in the Sugar Bowl 
+
+USC over Ohio State by 10 in the Rose Bowl 
+
+Minnesota to take the NFC championship 
+
+Pittsburgh to take the AFC title 
+
+Big Upset: 
+
+In basketball. North Carolina State over UCLA by 1 
+
+
+
+
+
+
+</pre>        </div>
+      </div>
+    

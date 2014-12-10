@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i4indi/communicatorv21i4indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i4indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i4indi">The Communicator</a>"
+          </h1>
+          <pre>sponsors y^J &lt;5 Vj? J 
+
+upcoming party 
+
+
+
+
+Glasnost dilemmas 
+
+How long will the peace last?/Page 2 
+
+
+
+IPFW Forensics Team 
+
+Speech team combines talk, travel/Page 3 
+
+
+
+Cross country 
+
+'Dons face the elements at meet/Page 4 
+
+
+
+The Communicator 
+
+
+
+VOL.XXI, ISSUE 4 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+Quote of the week 
+
+
+
+25th anniversary party 
+
+
+
+University celebrates birthday 
+
+
+
+r-INFOGRAPHS-i 
+
+Starr, Farlow to lecture 
+
+The 25th Anniversary lecture series continues next week with Ches 
+G. Starr, professor cmrntiis ol history ,.t (lie University ol Michic, 
+
+Mi ukv pl^Lv neM Uenn.-Mtsi al 1 p m. in Room 101 of Neff Hall 1 
+on Wednesday evening in Neff lot at 7. 
+
+Campus interviews begin 
+
+
+
+Channel 23 airs series 
+
+pit' M.lero^ LlUI'lIlp (lie I let OlM.'UsMofl IPFW stUilrlH Hon Lit 
+
+riktms'l 'J I vilunircr v!,,k K&gt;-..buk ..no Islten -h..i\ ttn.-ir c\ucnvi 
+
+by grants from the Siuii-.-ni .'oiiaru'- H i lobbied s| orient Serv ■ ■■ 
+
+and Cable Access, Inc. 
+
+Physiologist to give talk 
+
+
+
+Bowling teams to form 
+
+
+
+Overseas study available 
+
+
+
+foil ; - ' 
+
+
+
+Cancer program offered 
+
+programs on breast cancer, breast self-exammalion line 
+mammogram. This information is offercit u. all -Indents, staff fa 
+
+of every 11 women will develop breast cancer If the cancer is foi 
+the early stages, the cure rale is very high. The program w 
+
+
+
+Communicator seeks writers 
+
+
+
+
+Clausen named director for MLS degree 
+
+
+
+
+
+
+/ or sociology degree ll.i .1. 
+
+
+
+us &lt;iIIk.-i.jI1v 
+
+
+
+general knowledge t 
+
+
+
+■ h-^.v- available in specific 
+
+
+
+a„d S d yed e h?Ph ,f D ,p ( ™ ".tl™ K SSfiSs Freshman class reaches 
+E*SStS"-5 ™'"- a ™'; enrollment high of 4,310 
+
+
+
+
+KUWIIKIIII^ 
+II 
+
+
+
+inniimirjiii 
+
+Chisholm opens lecture series 
+
+
+
+ll'ltt oOmousK 
+
+
+
+Faculty Senate 
+
+Vote endorses ad hoc report 
+
+
+
+
+
+
+Opinion 
+
+
+
+The winds of Glasnost 
+won't blow very long 
+
+
+
+
+m 
+
+
+
+
+Photos by 
+
+
+
+
+
+
+Simon Montalvo 
+
+
+
+
+The Communicator 
+
+
+
+
+
+
+
+
+
+
+STeS?"' 
+
+
+
+
+, „ I „ ( , |1I ^",";;'; 
+
+
+K- 
+
+
+
+
+..;::.;::::; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'»"'"-'■' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+' Soccer vs St. Joseph College. 
+
+
+
+Chester G. Starr, professor 
+emeritus of history, Univer- 
+sity of Michigan, "The Greek 
+Miracle: Why Did It Hap- 
+pen?" Neff 101,7 p.m. 
+' Women's volleyball vs Butler 
+University, 7:30 p.m. 
+
+
+
+FRIDAY 29 
+
+volleyball tourna- 
+Lewis University vs 
+IPFW, 7:30 p.m. 
+Purdue Indiana Theatre, "The 
+American Clock," 8 p.m., box 
+
+
+
+SATURDAY 30 
+
+■ Women's volleyball tourna- 
+ment: U of Southern Indiana 
+vs Lewis, noon; IPFW vs U of 
+Southern Indiana, 2 p.m. 
+
+* Purdue Indiana Theatre, "The 
+i Clock," 8 p.m., box 
+
+
+
+Features 
+
+
+
+The Communit 
+
+
+
+Channel 23 produces video magazine 
+
+
+
+
+f Job Alert * d 
+
+for 
+IPFW Students V 
+
+
+
+IPFW Forensic Team 
+offers much to students 
+
+
+
+Problem Corner 
+
+
+
+'MANPOWER* 
+
+
+
+
+COMPUTER SALES: Part-time. Innjvlrrm for IPFW so| 
+junior. Selling IBM PS/2 to students. PS/2 provided for y 
+duration of job. KxcclU-ni salts training provided. Apply 1 
+
+
+
+COUNTRY CLUB RECEPTIONIST: Kvt nin K s .11 
+Ft. Wayne. $5.50/hr. Tues.-Sat., 5-5:30 to 9 p.m. 
+p.m. or evenings, your choice. Professional 
+
+
+
+work. Musi have 
+
+
+
+Historical Society talk recalls 
+women of Fort Wayne's past 
+
+
+
+facts, tests and treatment of STD s 
+
+
+
+
+
+
+Fort Wayne's past 
+
+
+
+George, Susan 
+
+
+
+NW. $5/hr. 
+
+Call 482-7881. 
+
+
+
+
+
+of Fort Wayne 
+
+
+Xe 
+
+
+job openings 
+
+
+
+
+
+
+
+
+
+
+
+
+Call 456 
+
+
+
+
+
+
+m., Monday 
+
+
+through 
+
+
+
+
+InmrpoTa 
+
+
+Distributors, 
+
+
+
+
+SHARE A "TCBV" SHIVER,, 
+WITH SHELLEY. 
+
+
+
+TCBV 
+
+
+
+Sum hi nil (J in 
+
+
+
+50' off any item in the store (except Kiddie Cup). 
+
+
+
+m 
+
+
+
+"TCBV 
+
+
+
+Go— Karts 
+
+
+
+ABETTER LETTER* 
+
+
+
+• 747-0072 *vLrJ— 1 — 
+
+7 DAYS A WEEK uf~se hard to e™ 
+
+raSUMES " 1 PROFESSIONALLY DONE-ACCURATE-SPELL CHECKED 
+
+
+
+ext 20 
+
+
+
+Looking for a fra- 
+ternity, sorority or 
+student organiza- 
+tion that would 
+like to make $500 
+$1,000 for a one 
+week on campus 
+marketing project. 
+Must be organized 
+and hardworking. 
+Call Joe or Myra 
+at 18001 5922121. 
+
+
+
+
+SINCE 194* 
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+The Go-Karri ce n:&gt;v. 
+running Fridoy night. Safuraay end 
+Sunday... weather permitting Bring 
+this ad and SAVE $1.00 on vour 
+next go-kart ticket! „ , 
+
+
+
+SISKOKE JIK'S 
+
+
+
+
+THE NATIONAL BLACK MBA ASSOCIATION 
+STUDENT MINT-CONFERENCE AND JOB FAIR 
+FRIDAY, OCT. 6, THE PALMER HOUSE -CHICAGO' 
+
+
+
+■Choosing the Right MBA IVm, 
+•Thilrjn.iliunfrom School to Work 
+• Career Opportunities in: Marketing, Finance, Technology and 
+
+Job Fair From 1:30-6 p.m., recruiters from over 150 Forlone 
+1000 companies will be on-hand to answer career questions 
+Participating firms include: Dean Witter. General Mills, AT&amp;T, 
+Federal Express. Coca Cola. Chrysler Motors. GTE, and more 
+Admission A one-page, typed resume and current student ID 
+Held iii .unjunclion with theNBMBAA 1969 Conference 4 
+Exposition, October 4-*, Chi. i»i Mod. nl n ji-trjliui l.u tin 
+entire 5-day event is $175, 
+
+
+
+rllltMllliHNHtMtllli'.-.inMV I 
+
+
+
+AT A JOB INTERVIEW, YOU GET 
+ABOUT 20 MINUTES TO COMMUNICATE 
+THAT YOU'RE WELL-EDUCATED, BRIGHT, 
+HONEST AFFABLE, MATURE, DISCERNING, 
+
+AND EAGER TO GET STARTED. 
+
+
+
+
+FORTUNATELY. YOU CAN S.\s MOSTOI 
+BEFORE YOU EVEN OPEN YOUR MOUTH. 
+
+Re&amp;ivoo&amp;gRoss 
+
+Only our service is old-fashioned 
+
+Glonbrook Squaie • Ft WajneJN 46805 • 219/482-2209 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+$3,000 Cash 
+Back! 
+
+
+
+NOW get S3.000 cash back on all 
+remaining '89 Suzuki Sidekick JX 
+&amp; JLX hardtops! Hurry they're 
+
+
+
+
+IFOHTWAVIMEI 
+
+SUZUKI 
+
+
+
+LOOKING FOR 
+A GREAT JOB? 
+
+RESIDENTIAL MANAGERS 
+
+RESIDENTIAL TRAINERS 
+
+PART-TIME RESIDENTIAL TRAINERS 
+
+PART-TIME RECREATION INSTRUCTOR 
+
+Our Employees Receive: 
+
+
+
+YOUR FRIENDS 
+
+AND 
+NEIGHBORS, INC. 
+
+
+
+"(tf&amp;re 
+
+
+
+goes 
+
+A PLEASANT WORKING EXPERIENCE 
+
+
+
+The following benefits are available; 
+
+
+
+TEPE'S 
+
+4201 Parnell Ave. 
+
+
+
+Cross country team struggles 
+
+
+
+i place showing. Rich 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+COMPUTER OPERATOR: 20 hrs./week flex- 
+ible. D Base knowledge required &amp; knowledge 
+of IBM PC. S5.00/hr. Job Number: 9-2-1/7-3 
+
+REPRODUCTION LINE: Bam - 1pm, Mon. 
+thru Fri. No experience required. Various 
+duties. $5.00,hr. j b Number: 9-2-G-9 
+
+GENERAL OFFICE WORK: 10-20 hrs./wk., 
+noon - 1pm; other hours flexible. Need some 
+
+S5.00/hr. Job Number: 9-2-O-10 
+
+INTERIOR DESIGNING 10 20 hrs./wk., 2-4 
+
+negotiable. 
+
+
+
+moior in senior year. S5.00ftr. 
+
+
+
+ARE YOU AN IPFW STUDENT LOOKING 
+FOR A JOB? COME IN AND SEE US IN 
+WALB 113. WE HAVE MANY MORE JOBS 
+
+
+
+IPFW WELCOMES 
+
+
+
+* OLYMPIC * 
+VOLLEYBALL 
+
+
+
+
+IN A UNIQUE 
+
+3 OUT OF 5 
+
+GAME EXHIBITION 
+
+
+
+UNITED STATES WOMEN'S OLYMPIC TEAM 
+
+vs 
+THE WOMEN'S NATIONAL TEAM OF JAPAN 
+
+
+
+SUN., OCTOBER 22-7:30 PM 
+
+
+
+ALLEN CO. MEMORIAL COLISEUM M 
+- FT. WAYNE, INDIANA - 
+
+
+
+TICKETS AVAILABLE 
+
+Office and 
+
+
+
+RESERVED SEATING /// tic 
+
+$8.00 &amp; $6.00 /// a, a, , , h ?icke«ma„er0u,.B«s 
+
+FOR INFORMATION CALL: 483-1111 
+
+
+
+i Scherschel Look Spring Arbor and I 
+
+
+
+Bible and St. 
+IPFW coach Jerry Diehl 
+
+
+
+win. and they continue 
+
+
+
+Taylor, Indiana Wesleyai 
+
+
+
+were paced t. their ninth 
+
+
+jur&gt; ,m&lt;l illness, suffered to 
+
+
+Manchester, Butter. Uni- 
+
+
+
+
+Th Sept. 21 
+
+Taylor University 
+3 p.m. 
+
+
+F 22 
+
+Women's Volleyball 
+
+
+S 23 
+
+Northern Kentucky 1 p.m. 
+Cross Country al Manchester 
+Women's Volleyball 
+ol Oakland Invitational 
+
+
+S 24 
+
+Bellarmine 
+
+
+M - 25 
+
+
+T 26 
+
+
+W 27 
+
+Women's Volleyball 
+Butler 7:30 p.m. 
+
+
+
+Volleyball 
+takes 4th 
+
+
+
+A-MUi&amp;UWiK:" ™ pRocEiii^BHBStfr 
+
+
+
+TERM PAPERS 
+
+
+
+STUDENT 6 FACULTY DISCOUNT 
+
+
+
+SPEEDY SERVICE = 
+
+
+
+7 DAYS / WERK 
+
+
+
+Northern Kentucky. 
+
+0. The 1-2 perfoi 
+gives the Lady 'Dons 
+
+
+
+PART-TIME EMPLOYMENT 
+$7.50/hour plus benefits 
+
+Burlington Air Express has outstanding employment opportunities for PART-TIME freight 
+sorters at its Baer Field Airport Hub location. 
+
+Positions are available for both DAY and NIGHT shifts. These part-time positions work 
+five days per week and offer three to five hours per shift. 
+
+Duties include loading/unloading of trucks, aircraft, and containers and accurately 
+sorting freight. Part-time sorters must be able to lift 70 pounds consistently. 
+We offer a starting wage of $7.50 per hour and a fringe benefit package including 
+paid holidays/vacation and medical/dental insurance. Also, part-time employees may 
+receive up to $1,000 annually in TUITION REIMBURSEMENT after one year of 
+regular part-time employment. 
+
+Applications are available now at the Office of Career Services, Room 113, Walb 
+Memorial Union. 
+
+Burlington Air Express representatives will be conducting on-campus interviews on: 
+nber 26, from 9 a.m. to 6 p.m. 
+the Office of Career Services, Room 113, Walb 
+
+
+
+, BURLINGTON 
+i AIR EXPRESS 
+
+
+
+
+Kendallville Pizza Hut® 
+
+College Bound Students 
+
+Tap into TAP! 
+
+Doing what's right for our employees has always been an 
+
+taking this commitment one step further. Not only do we 
+want to Ireat you right on the job, we want to help you 
+achieve your educational goals. We know that college 
+tuition is expensive, so we are offering a Tuition Assist- 
+ance Program, TAP. If you are in high school, college 
+
+Aw wswm 4 TAP 
+
+you qualify (or $300.00 in tuition assistance. While in high 
+school you can accrue up to S600.00, ond if you are 
+employed by us during college, we will continue to support 
+your dream. 
+Thus, TAP can provide up to SI, 800.00 over a six year 
+
+- ' ■ ' "ng with those employees 
+
+available ot Kendallville 
+
+
+
+-Hut* 
+
+US 6 at Main St. 
+Kendallville 
+
+
+
+</pre>        </div>
+      </div>
+    

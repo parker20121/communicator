@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatornov191987indi/communicatornov191987indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatornov191987indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatornov191987indi">The Communicator</a>"
+          </h1>
+          <pre>Thanksgiving- 
+blessings abound 
+
+
+
+
+University colors 
+
+Should IPFW change?/Page 2 
+
+
+
+3 
+
+
+
+Record review 
+
+Album consumed in flames, 
+
+
+
+Season opens 
+
+IPFW basketball/Page 4 
+
+
+
+The Communicator 
+
+
+
+VOL.XIX ISSUE 12 
+
+
+Indiana University-Purdue University at Ft. Wayne November 19, 1987 
+
+
+— Quote of the week 
+
+
+- Vote called for color changes 
+
+
+"What has surprised me is how many 
+people have lold me they weren't consulted. I -, 
+think this is the sort ot thing that properly J 
+
+""'''"iMike Downs 1 
+-Political Science Chair | 
+-page, -1 
+
+
+W IPFW tacully. slaff, admimslrators Mlon^r' sludS signalni^' lo"lte and was ■ga'inst IPFW ^comtog °an wilhoul Ihc needed eonsenl of the slu- 
+^ R^sololion 87118-10* inlrodoe«i b, wins U,e neeessary majortly. a nin-ori Purdue Universilies'" Gregory %°;,^»J';^*;'J™'°7^, „„, 
+
+
+
+f-lNFOGRAPHS-n ;^S 
+
+Ministry sponsors getaway 
+
+
+
+Reception to honor Ulmer 
+Women's Center workshop 
+
+The IPFW Women's Center will hosl a workshop on balancing schot 
+Memorial Union room 116. Rev. Margaret McCray-Worrall will be 11 
+
+Special class offered 
+Lecture series continues 
+
+Dr Deborah Ross, assistant professor of biology at IPFW, w 
+
+Weekly meetings held 
+Speaking skills taught 
+
+No paper next week 
+
+
+
+Holiday building hours 
+
+
+
+Communicator mailbox 
+
+Inlographs and letters may be dropped in The Communic 
+
+
+
+
+Faculty discusses proposed 
+change of crimson and gold 
+
+
+
+RcpresenUtives of these I 
+
+
+
+Speech class is ojfered to If^fHlliPS if^lr S'fP^; 
+
+benefit foreign students town. ha. tumed me matter .,er to SCf "faf C'i.fS 
+
+the StudenU to decide gives them a chance to find employees 
+
+BY KIM TETER jhe strongest criticism of red and they need, students who are already 
+
+
+
+
+opinion 
+
+Color change argument 
+still a primary concern 
+
+
+
+The Communicator 
+
+
+
+pro- would be anything besides 
+
+
+
+I Wallace fan, the choice 
+
+
+
+and while. Why change iht-m now 
+: The reason for changing them 
+.sinnple: the students never got i 
+
+
+
+: Interestingly enough, this matter 
+;might not ever have come to light 
+:if Chancellor Tom Wallace had not 
+■decided the official school colors 
+-should be blue and white. Fortu- 
+
+
+
+e fine. Any combination 
+1 gold and crimson and 
+d be dandy. 
+
+
+
+Gregory stepped 
+
+
+
+colors but what the 
+
+
+
+:fore anything could 
+
+
+
+ythmg could 
+Ity Senate 
+
+
+
+J " Perhaps the choice of school col- 
+
+cided ors is only the beginning in getting 
+
+students more influence in the way 
+stu- the university is run. Gregory has 
+
+done more than express concern 
+Id go over school colors, he's given the 
+
+
+
+"— Letters to the Editor- 
+
+
+
+deserved f'^^^if °^ s""'*^"'*, ^"^ 
+
+
+
+
+LAST CHANCE TO SIGN UP FOR CHICAGO SHOPPING TRIP ON NOV. 28 
+
+
+
+SKI WITH S.A.B."^ 
+
+BRECKENRIDGE, COLORADO 
+JANUARY 2-10 
+
+
+
+IPFW Students $295 '"*'"''"= 
+General $300 "««&gt;""'' »"p 
+
+$20.00 domage deposit required ''" transportation 
+and lodging. 
+
+
+
+Make Your Reservations NOW 
+at the Sweet Shoppe 
+
+
+
+'N*.: 
+
+
+
+
+
+
+
+'Student Activity Board 
+
+
+
+CAMPUS- 
+CALENDAR 
+
+
+
+Early registration c 
+
+
+
+
+
+
+
+
+
+onal Issues Forum, "Freedom of Ex- 
+sion: Where To Draw The Line," KT 
+
+10 Is The Goddess and Where Does She 
+Us?" Mary Jo Weaver, author of New 
+lolic Women. Walb 224. 7 p.m. 
+ipino," Purdue Indiana Theatre, student 
+
+
+
+Tri-State Choral Festival 
+CLEP. Walb 116, 8:30 a.m. 
+Nursing information meeting. KT 1 
+
+Biology seminar, Detiorah Ross, "I 
+Waste Microbiology. " KT C46. noo 
+International rendezvous hour, Wai 
+
+EStureon lithography bvprinlma, 
+
+
+
+Men's volleyball at Grand Valley SC through 
+Women's basketball at Oakland through 
+
+
+
+insurance licensing program, KT 
+d Oaken Bucket Football Game 
+
+
+
+'Scapino," Purdue Indiana Theatre, i 
+Wen's basketball at Grand Valley SC. 
+
+Students' Government Reception to hi 
+
+
+
+"Balancing School, Work, and Family," 
+Rev. Margaret McCray-Worrall, Walb 116, 
+
+TUESDAY 24 
+
+English, reading, and math placement tests 
+
+WaTb 126, 5:30 pm. 
+
+Tri-State County Dancers, Athletic Center. 
+
+basketball court. 7:30-9:30 p.m. 
+WEDNESDAY 25 
+• Nothing scheduled 
+THURSDAY 26 
+
+- THANKSGIVING HOLIDAY 
+FRIDAY 27 
+
+THANKSGIVING HOLIDAY 
+
+"Scapino," Purdue Indiana Theatre, 8 p.m. 
+
+
+
+Chicago Shopping Trip, sponsored b' 
+LAST CHANCE to sign up at Sweet i 
+
+
+
+" Purdue Indiana! 
+
+
+
+Features 
+
+
+
+' ^Strangeways ' ^ 
+
+Album named for mental hospital 
+
+
+
+-FIELD OPPORTUNITY 
+
+
+
+
+
+
+Lifetime 
+Resume 
+$19.95 
+
+
+
+Typing 
+
+
+
+'The Nutcracker' 
+
+
+to debut 
+
+
+
+
+
+
+Fcaiures Editor Fairy is 
+
+
+n-roK™ 
+
+
+p,^e'?.rnr?"/-.xr?-"is 
+
+
+
+
+".^oMlnl."';?: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ine Among the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wilh Ihe inusic office op 
+
+
+all 422-1226. 
+
+
+
+
+^^' 
+
+
+
+
+
+
+Breakfast 
+
+with 
+Santa! 
+
+
+
+
+
+
+Dec. 5 
+
+
+
+10 a.m.-noon 
+
+
+
+$3.00 IPFVV students &amp; children 
+
+$4.00 general 
+
+For Info Call - 481-6830 
+
+
+
+
+H6IR QfiLLERY 
+
+
+
+^EMmsamMim 
+
+
+
+
+Clinton Corners 
+Gateway Plaza pjne Valley Mall 
+
+
+
+Tandy Corporation / Radio Shack 
+
+
+
+Is pleased to announce an agreement 
+with 
+
+
+
+Indiana-Purdue University at Ft. Wayne 
+
+
+
+Extended to Faculty, Staff and Students a 
+
+20% Discount on Regular Price 
+1 2% Discount on Sale Price 
+
+
+
+On any Tandy Computer and any software, accessory or peripheral 
+purchase with the computer. Order authorization forms and complete 
+details of the agreement are availahle from.. 
+
+
+
+
+Fi^ 
+
+
+
+'^ 
+
+
+
+I Chu 
+
+
+
+Radio Shack Computer Center 
+747 Northcrest Shopping Cente, 
+Fort Wayne, IN 46805 
+
+
+
+TANDY 
+
+COMPUTERS 
+
+
+
+I Fort Wayne, IN 46805 j ■" 
+
+L^ 12191482-954? vj 1^ 
+
+
+
+Marketing Representative ■ 
+
+Radio Shack Computer Center \ 
+747 Northcrest Shopping Center i 
+Fort Wayne. IN 4, 
+!2-9547 
+
+
+
+"1 
+
+Iter ! 
+
+a 
+
+
+
+sports 
+
+
+
+Basketball teams near season openers 
+
+
+
+
+</pre>        </div>
+      </div>
+    

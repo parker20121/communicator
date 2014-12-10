@@ -1,0 +1,2847 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv10i1indi/communicatorv10i1indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv10i1indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv10i1indi">The Communicator</a>"
+          </h1>
+          <pre>TH£ COMMUNICATOR 
+
+
+
+Vol. X Issue 1 
+
+
+
+University-Purdue University at Fort Wayne August 15, 1978 
+
+
+
+Special Handbook Edition 
+
+
+
+
+Without sounding too familiar — its bock to scl 
+(onsly scene will not be the usual sighl here 
+Holl. The semester begins on Monday August 28. 
+
+
+
+Search for chancellor reopened 
+
+
+
+By MICHAEL BEHR professor, was retained when 1974, has left to assume the top acting vice chancellor. Dr. Julius 
+
+With the rejection of two can- candidates George Rapp. position at the University of Ohio, Smuikstys will become the acting 
+
+didates for chancellor submitted University of Minnesota, Duluth, Uncaster. Francis Borkowski, a dean of the division of Arts and 
+
+bythefacultyandstaffsearchand thedeanof the college of Arts and chaacellor candidate here will Letters. 
+
+screen committee, and the Letters there, and Karl Meyer, become the provost of the The search- and screen corn- 
+retention of candidate John professor at Uie University of University of South Carolina, mittee will reconvene in late 
+Synder, Presidents 
+
+
+
+n of 0. Franklin Kenworthy, probi 
+
+; chancellor Hei 
+Earlier, in July 
+
+
+
+i Hansen reportedly The top administration has left didate, remains here. 
+
+order to appoint the in the aftermath of the departure 
+
+B person as chancellor of Chancellor Donald Schwartz. D*ight Henderson, dean of Arts 
+
+s are needed. Synder. Ray WiUces, assistant to the and letters has been appomted 
+
+3 University professor chancellor, a position created for the acting chancellor for IPFW, 
+
+
+
+appoint a chancellm- - by 
+luary, in time for the Indiana 
+neral Assembly session during 
+
+igets will be considered. He 
+
+■ conclude their screening 
+id of September. Selected 
+
+for interviews in late 
+
+
+
+IPFW Radio Station 
+
+
+
+WIPU is the firsl radio b 
+
+
+
+Ihe station offers. The 
+
+
+
+be a strong underwriting cam- 
+Jamrose said a goal of the 
+
+Corporation for Public Broad- 
+casting, which in turn would allow 
+WIPU to belong to the public radio 
+station network, National Public 
+Radio. This membership would 
+open additional programming 
+
+
+
+When You're Bound For Sound 
+You're 
+
+SOUTHBOUND 
+
+Ft. Wayne's Newest Record &amp; Tape Store 
+5012 Old Decatur Rd. 745-3428 
+
+
+
+aid. "The power. Pari ot (he reason WIPU is 
+operating no more (han 25 hours a 
+week is the operating costs. 
+
+
+
+need a 
+
+CRASH "rttdt'^' a^r awav "iM""" 
+Wlinvi ■ ^^ efficiencY apartment or a house Furnis 
+
+
+
+study office, Paula Murman. 1 
+
+
+
+manager WIPU studios arc located in the 
+
+
+
+
+
+Free Welcome 
+at 
+The Fort 
+
+If's a new school year and we would like to get to know you. 
+Stop by and say hello and bring this coupon in for 
+
+a FREE Medium Pepsi 
+
+
+
+YOUR CAMPUS RESTAURANT HAS A { 
+
+
+
+Redeem this Card at The Fort 
+And get a FREE medium Pepsi! 
+
+Offer Expires 15 days after first day of classes 
+
+
+
+Twenty-five year old 
+students are average? 
+
+
+
+We're Looking For A Few 
+Good Part Time People 
+
+
+
+
+APPLE RECORDS &amp; TAPES 
+
+
+
+GEORGETOWN SQ. 
+6730 E. STATE 
+
+
+
+749-8831 
+OPEN SUNDAYS 
+
+
+
+Ft. Wayne theatres 
+offer variety and depth 
+
+
+
+Onu of the great pieaaures of comedy-drama about a stranger's children" "The Belle of Am- 
+
+iII.oranysGasonforthatmalter, impact on a small town. It's herst" is a one woman show based 
+
+1 theatre in Fort Wayne. There considered by many critics to be ^n the life and poems of Emily 
+
+as always been a variety of onoofhisbcst works. Scki^on Tlie HLris won 
+
+lilable to Civic's plays feature two critical acclaim for the role on 
+
+sveryone, American writers al lopform. But Broadway and on PBS "Ken 
+
+andFirst Porter and Inge aren't the only „edys Children" is a harrowing 
+
+aled lo wrjiers to be showcased. Two o' - . . " 
+
+11 aspects Thornton Wiider's plays are bein, 
+
+
+
+Sheba's finale dampened 
+
+
+
+d off and disappeared into 
+listy night. Sheba faltered 
+tntarily and promised to 
+lue if the rain slowed. The 
+&gt;f the drizzle only quickened. 
+
+
+
+t, Swinney The 
+
+
+
+From Civic. Arei 
+
+
+
+taleofsurvivi 
+
+
+
+that band charged 
+
+
+
+} fall offerings 
+
+
+
+e energy and style 
+
+
+
+The retreated long before to a ( 
+first backstage. Sheba, hi 
+played the most inspired n 
+
+
+
+le year. This fall's by First Presbyterian, Along w 
+
+like a who's who of "The Matchmaker", Fi 
+
+! works of Thorton Presbyterian will presto 
+
+Porter, Edward "Evorylhlng In The Garden" by nival ti 
+
+
+
+j're The Top." about er 
+
+of the wackiest prescntir 
+put on stage, in PIT's 
+
+
+
+\ and "Plaza Suite 
+
+
+
+threatening weather condiUons. 
+frequently pulled from sockets b 
+
+
+
+the band played out of their 
+;ads, giving every last ounce of 
+1 chord died 
+
+
+
+reluctantly away, 
+became a rather somber sc( 
+
+irculated They only partially filled tl 
+
+
+
+lughout the listeners. The band of good li 
+Tiounted these minor problems City. V 
+played harder than ever. forget a 
+
+
+
+e are "The Belle 
+
+
+
+Live music thriving locally SrSiy'w'al 
+
+C */ memorv behi 
+
+
+
+
+
+
+t the Coliseum haven 
+
+
+
+and brought top-notch musicians 
+
+
+
+East on Harrison and Pearl Friemann Sqi 
+
+Rolhert, u folk and blues musician formances by 1 
+
+who recently cut a debut album Endgame, Sh 
+
+simply titled "Fred Rothert", With the ' 
+
+which was Arvel Bird, a versatile the program will draw to a close in 
+
+fiddle player, also performs with early September. 
+^ „ , The Fort Wayne Philharmonic 
+
+The Cat's Meow, is usually present's ambitious 
+
+denlified with male dancers and such as Beethoven's 
+
+vel T-shirt night. Few people Berlioz' Symphon 
+
+
+
+
+
+
+n fv/il!!!!o oi JJl^omi"' lounges that feature rock bands on 
+n Coffeehoiue g^ves soti- Wednesday nights, along with the 
+
+
+
+Embassy and Performing 
+vers of classical 
+IPFW campus. 
+
+
+
+
+Pregnant and confused? 
+
+Birthline offers free 
+
+pregnancy testing 
+
+and 
+
+professional counseling. 
+
+CaU BIRTHLINE 
+422-1818 
+
+
+
+JIM PEMBER'S COLONIAL PIZZA 
+
+&amp; RIB BAR 
+IN THE K-MART PLAZA NORTH 
+
+Featuring Delicious Pizza 
+And The Best Ribs In Town 
+
+f^ NOON LUNCHES S 
+
+SPECIAL 
+k SERVED DAILY J 
+
+
+
+OPEN 
+
+SUNDAYS 
+
+3 pm - lOpm 
+
+
+
+The students' 
+Almanac 
+
+
+
+
+Till-: .S'lUnKNTS' ALMA 
+
+
+
+Academic Services 
+
+
+
+Directory of Student Support Services 
+
+
+
+
+I be making satisfactory progress ti 
+
+
+
+Classes And Grades 
+
+
+
+Attending Clauses 
+
+
+
+IS meeting for wiilch stie or he is enrolled. 
+
+
+
+(lIKDlll.E ADJUSTMENT 
+
+
+
+
+
+The athletic office is located in the Student Union room 
+
+
+
+
+
+
+
+
+
+
+
+
+First you must get a drop-add form from your advisor 
+
+
+The Student'8 ResponsibiUty 
+
+
+
+
+
+
+
+
+which must he met before a degree is granted. These 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign the form and assign a passing or failing grade for 
+
+
+
+
+each class to be dropped before you submit the form to the 
+
+
+
+
+Registrar's Office. 
+
+
+student's course of study, the faculty and the Board of 
+
+
+
+
+Trustees vote upon the conferring of the degree. It 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Album Oriented Rock 
+
+
+
+
+IN STEREO 
+
+
+
+Attending Cltisses 
+
+
+
+opportunity to register is because y 
+
+
+
+Developmental Skills Center 
+
+
+
+) the Registrar's Offic 
+
+
+
+s submitted to the Regisli 
+hdraw properly from 
+
+
+
+taking and note taking. Sludie 
+
+
+
+t the Registrar's Office Registrar's Office to make proper arrangements well in 
+
+
+
+GRADES 
+8. What kind of grades are given credit courses? 
+A-Hlghest passing; B. CD. -lowest passing grade; 
+
+
+
+"Pass-Fail Option" for a grade in a cl 
+
+
+
+; earned at this campus 
+
+
+
+e with poor grades, you v, 
+
+
+
+Generally a student n 
+
+
+
+National Student Exchange 
+
+
+
+College in New Jersey. 
+Who is eligible for the NSE p 
+
+
+
+aid to help defray (i 
+
+
+
+Housing Information 
+
+
+
+
+
+
+^ . student Activities Offi 
+
+htudent Assistants Program housing, it merely s 
+
+What u an s A- housIng information. 
+
+
+
+Watch the student newspaper for application location and 
+deadlines or stop by the Counseling Office in Room 113 of 
+Walb Memorial tor more information. All applicants must 
+have completed 12credit hours before applying. 
+
+What are the benefits of being a Student Assistant? 
+
+The benefits are many. Most importantly is the ex- 
+perience of helping new students adjust to the university. 
+Student Assistants can receive credit for this experience 
+and also receive a small stipend. 
+
+SUBOG FaU Calendar 
+
+August 2B— Tim Settimi-Mime Artist. 
+Sept. 9— Marx Brothers Film Festival 
+Sept. 15— Frosh Dance 
+Oct, 9-10— Concert-Silver Star Steel Band 
+
+
+
+
+College IS expensive. You've worked hard to 
+get here and you're paying a lot of money to 
+prepare yourself for a career. With all that 
+investment in time and cash, why scrimp on 
+buying textbooks? They'll pay off every time 
+... for basic course information, details of 
+class notes, ready reference and exam 
+
+Rely on your textbooks 
+
+FOLLETrS 
+
+GROUND FLOOR, KETTLER HALL 
+483-6100 
+
+
+
+for the bride with 
+either modern or 
+traditional taste.... 
+
+traditional or 
+modem gowns 
+
+'Complete Bridal Fashions 
+'Special Occassion Dresses 
+'Long &amp; Short Fashions 
+'Lingerie 
+
+
+
+
+Non-Academic Services 
+
+
+
+Prospective Student Center 
+
+
+
+Financial Aids 
+
+
+
+Counseling &amp; Academic 
+Development Services 
+
+
+
+located in Room i 
+
+
+
+I Academic Devt 
+
+
+
+ed with Primarily the PSC was created in response lo Uie 
+
+ersonal special needs of the undecided students who were in- 
+
+slrictly ■ vestigating the programs and services available at IPFW. 
+
+In the past the Prospective Student Center found that a lot 
+
+
+
+ling back to school. 
+I student has a pr&lt; 
+
+
+
+y School of Nursing and Purdue School 
+If you have any questions about your 
+
+
+
+i difference. And you are always welcome to 
+
+
+
+Health Services 
+
+
+
+Veterans' Services ^ ^"""^ "&gt; g- 
+
+Can I use my Gl BUI education benefits to attend lU-PU "^^* ^" '"J" 
+
+at Fort Wayne? Perhaps you 
+
+Yes, it is a simple procedure of submitting an ap- well-being or 
+
+plication. The veterans service office is located in Kettler nurse will evaluate me sKuaiion ana ir your i 
+
+Hall. Room UOM. Usually, the only form that is needed is ^ '"^'' ^n appropriate referral will be made. 
+
+yourdischargepaper(DD214). ^^" any student, faculty member or st 
+
+How long must I wall before I receive my first checic? '^°™^ *° Health Services? 
+
+
+
+Vet-Rep-On-Campus 
+Regloni 
+
+
+
+being. A registered 
+
+
+
+i of Veterans Benefits. The VA office phonl 
+54H. Please call or stop by the VA office a 
+
+
+
+STOP DREAMING 
+START LISTENING! 
+
+NOBODY MAKES IT EASIER TO GET A SOUND 
+SYSTEM THAN AUDIO CITY. NOT ONLY DO WE 
+HAVE THE LOWEST PRICES AROUND, BUT ANY 
+SORT OF FINANCE PLAN YOU'LL NEED. 
+START LISTENING 
+TODAY! 
+
+
+
+
+INDIAN'S LARGEST SIGHT &amp; SOUND CENTER 
+SOUTHGATE PIAZA VAN WERT, OHIO 
+
+
+
+HI Fl HOT LINE 744-2345 
+
+
+
+Confidentiality Statement 
+
+
+
+
+STUnENTS' ALMANAC 
+
+
+
+Parking &amp; Traffic Rules Testing &amp; Evaluation Center Placement Services 
+
+
+
+5 office is to provide 
+
+
+
+vehicle with the University Police Depi 
+brochures are always available in the 
+Office, also according to University p&lt; 
+responsibility of the motor vehicle or bicycle 
+
+1 Parking and Traffic Regulations and to """ir w7sVouId"decidc that testing would be an « 
+
+'"''*■ propriate part of the counseling process, how might the 
+
+^St^udents may acquire a "B" Parking Permit by paying "^The^Stm^ght help in verifying what you already know Know wi, ith 
+
+o'the%ni«r^t";RhceaS^ STinl^^": t'rf™f..1SLl'"'?^r^^^^^^^ 'X;^ cX7 ^DrleCment 
+
+
+
+License Plate Number is necessary for the 
+
+May I use the parking meters if I so desire 
+
+faculty providing the vehicle is r 
+
+
+
+eUPD 
+
+
+
+givmg you some new insight into these characteristics. 
+
+then compare your interests with those of people who are 
+
+to perform tasks or solve problems similar to those un- 
+
+Hopefully. the test results may help you identify your 
+career interests and assess your talents. These pieces of 
+with all the other information you have 
+
+
+
+workshops for the individual seeking he 
+Where do I go If I need a parl-llme Job? 
+
+
+
+are placed in the meter fc 
+
+and therefore use by 
+aged. Also, any vehicle 
+
+
+
+&gt;eunglnd "estinVserllsr" ' "''""^^' "' """ """" Servwcs Fov Disabled Students 
+
+Call Student Development Services and ask for an ,, .^ . i f rti hi«i 
+
+
+
+female) feel the need for pi 
+
+
+
+Yes. the "Lost &amp; Found" Department is located in Trom 
+I at the UPD office. Also, anyone who feels the need, in the 
+nterest of personal safety, for an escort to the vehicle, 
+nay telephone or stop in the UPD office in Trom 4. and 
+ine of the Officers or Student Patrol members will assist, 
+
+
+
+i, the Services for Disabled Students office is 
+Contact Deb Peters or Bill Grimm 482-5616. 
+
+
+
+1 day that the "Tem- 
+
+
+
+facilitjes are marked for accessibility with 
+
+
+
+™e album station 
+
+
+
+STUDENTS' ALMANAC AUGUST 
+
+
+
+
+
+
+
+AUGUST 
+
+
+
+
+
+
+
+
+
+
+
+
+SEPTEMBER 
+
+
+
+
+
+
+
+
+' 
+
+
+2 
+
+
+' 
+
+
+* 
+
+
+' 
+
+
+
+
+
+
+HI? 
+
+
+™j» ^ 
+
+
+' 
+
+
+' 
+
+
+« 
+
+
+9 
+
+
+10 
+
+
+" 
+
+
+12 
+
+
+' 
+
+
+ar ' 
+
+
+
+
+Stf- 
+
+
+
+
+arrr- 
+
+
+s^ ' 
+
+
+a 
+
+
+" 
+
+
+IS 
+
+
+It 
+
+
+17 
+
+
+IS 
+
+
+19 
+
+
+KK. " 
+
+
+'SB" 
+
+
+trsa " 
+
+
+KiSf " 
+
+
+" 
+
+
+s= '^ 
+
+
+..„^ " 
+
+
+20 
+
+
+■i~ 
+
+
+22 
+
+
+■c^ " 
+
+
+S-» 
+
+
+2S 
+
+
+2e 
+
+
+" 
+
+
+mv 
+
+
+l^i- " 
+
+
+20 
+
+
+. 
+
+
+r=fc^ 
+
+
+"^-" 
+
+
+" 
+
+
+
+
+
+
+M 
+
+
+'"-" 
+
+
+
+
+--" 
+
+
+2S 
+
+
+ir" 
+
+
+" 
+
+
+r^" 
+
+
+' 
+
+
+rss " 
+
+
+
+
+
+
+
+DECEMBER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sar" ' 
+
+
+i^ 
+
+
+^ 3 
+
+
+' 
+
+
+K" 
+
+
+' 
+
+
+' 
+
+
+ir 
+
+
+S'ir" 9 
+
+
+.,,.,.-,, '1 
+
+
+s'ci-. " 
+
+
+12 
+
+
+kH. " 
+
+
+-.. " 
+
+
+Sis*' " 
+
+
+Sr 
+
+
+s:r' " 
+
+
+
+
+
+
+™i», " 
+
+
+
+
+22 
+
+
+23 
+
+
+31 \ 
+
+
+25 
+
+
+26 
+
+
+27 
+
+
+"iHT " 
+
+
+e:^ 
+
+
+3. 
+
+
+APRIL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+' 
+
+
+^ 
+
+
+' 
+
+
+' 
+
+
+' 
+
+
+' 
+
+
+5S2S.-.' 
+
+
+' 
+
+
+' 
+
+
+10 
+
+
+" 
+
+
+12 
+
+
+
+
+14 
+
+
+'"- " 
+
+
+IS 
+
+
+17 
+
+
+U 
+
+
+19 
+
+
+.»**. " 
+
+
+21 
+
+
+
+
+" 
+
+
+2, 
+
+
+" 
+
+
+
+
+'"- " 
+
+
+
+
+.,.,.„ " 
+
+
+30 
+
+
+
+
+
+JANUARY 
+
+
+
+MAY 
+
+
+
+I 2 " 3 ^^^ 4 ^^^ S 
+
+6 7 8 9 10 U 12 
+
+13 14 IS 16 17 IS 19 
+
+20 s.„i 21 22 23 24 2S 2S 
+
+27 ,„„„ 28 29 30 31 
+
+
+
+OCTOBER 
+
+
+
+NOVEMBER 
+
+
+
+B is 17 ij 19 20 a 12 U M IS 18 ,««, " ^^i " 
+
+a 23 » 25 26 27 5 IS ^_^_^ » a n.&gt;i„ 5 zT 24 ^_^_^ 2S 
+
+
+
+FEBRUARY 
+
+
+
+MARCH 
+
+
+
+■•-■ 1 1 •■■■■■■ i ■.-.- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+eI-1' 
+
+
+
+
+1 
+
+
+— ' 
+
+
+nii.i. ' 
+
+
+' 
+
+
+' 
+
+
+it" 
+
+
+Kr™ ' 
+
+
+-■- ° 
+
+
+' 
+
+
+i".'jr 
+
+
+;;i-£. 
+
+
+S 
+
+
+6 
+
+
+' 
+
+
+8 
+
+
+ar ' 
+
+
+10 
+
+
+" 
+
+
+Br " 
+
+
+Hr ' " 
+
+
+14 
+
+
+sr?rf " 
+
+
+E^ " 
+
+
+— " 
+
+
+" 
+
+
+12 
+
+
+13 
+
+
+" 
+
+
+IS 
+
+
+IS 
+
+
+17 
+
+
+z:^ " 
+
+
+19 
+
+
+y..xM ™ 
+
+
+a 
+
+
+:=•,■.',:; " 
+
+
+E|„ 
+
+
+Ss; 
+
+
+IS 
+
+
+'M^:" 
+
+
+20 
+
+
+a 
+
+
+22 
+
+
+a 
+
+
+24 
+
+
+,„,^ 2S 
+
+
+26 
+
+
+27 
+
+
+28 
+
+
+
+
+25 
+
+
+T " 
+
+
+27 
+
+
+28 
+
+
+" 
+
+
+3. 
+
+
+" 
+
+
+
+JUNE 
+
+
+
+JULY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+' 
+
+
+' 
+
+
+
+
+' 
+
+
+•xsr" 
+
+
+' 
+
+
+^ ' 
+
+
+' 
+
+
+' 
+
+
+* 
+
+
+' 
+
+
+6 
+
+
+
+
+' 
+
+
+' 
+
+
+8 
+
+
+' 
+
+
+10 
+
+
+u 
+
+
+12 
+
+
+U 
+
+
+" 
+
+
+10 
+
+
+" 
+
+
+12 
+
+
+13 
+
+
+14 
+
+
+IS 
+
+
+16 
+
+
+IS 
+
+
+IS 
+
+
+17 
+
+
+18 
+
+
+" 
+
+
+20 
+
+
+a 
+
+
+17 
+
+
+18 
+
+
+19 
+
+
+20 
+
+
+a 
+
+
+22 
+
+
+23 
+
+
+22 
+
+
+23 
+
+
+24 
+
+
+2S 
+
+
+26 
+
+
+27 
+
+
+
+
+24 
+
+
+2S 
+
+
+26 
+
+
+" 
+
+
+" 
+
+
+,.-.. " 
+
+
+30 
+
+
+29 
+
+
+30 
+
+
+" 
+
+
+
+
+
+Student Activities 
+
+Student Activities 
+and Organizations 
+
+
+
+recognized sludenl organizations on campus. The dif- 
+ferenl types are: greeks, special interest, departmental, 
+
+
+
+The Student Union Board of Govern 
+jranch of Ihe Student's Government, 
+■esponsibility for planning all-campus a 
+
+
+
+Alumni Activities 
+
+There are currenUy over 10,000 graduates 
+
+
+
+Intramural Program 
+
+
+
+s published every Thursday 
+The Communicator staff is 
+
+
+
+lime a Student Body President. Vice-President, and 18 
+Senators are elected. At the same time 10 SUBOG 
+members ore elected. However, sometimes during the 
+year SUBOG members or Student Senators have to resign 
+
+
+
+!, ping-pong, physical « 
+
+
+
+theatre productions free of charge. The Daycare Center 
+gives a fee reduction to Activity Card holders. 
+
+
+
+Confidentiality Continued 
+
+(Coiilinucd from page i) 
+
+
+
+
+
+records &amp; topes 
+
+We'll Be Right 
+
+Down The Street 
+
+All Year Long.... 
+
+At 
+
+3413 North Anthony 
+
+
+
+A Statement Of Student Rights And Responsibilities 
+
+^^^'" ' ^' ^ i^^i I I dl 1 academic process as cdtzcns, stutJenis have the responsiDlllty irjctude an associ_ale, assislant, or designee ol rhe Dean (or 
+
+.\'u„- Ht.v «L-.Uf..ii-'^ \., (.lomeniflilon " ' (7'^''Aci°oIJ5^wh^ch''"enMnge?''rhriKdent. Ihe Universitv JT T^ "'"■If S'l^h^h"" d"^ Stutlenl Services ai a time an^ri% 
+
+
+
+o; UnauthorlieUtaKingorp 
+
+
+
+»,T.i'"sS'Sir,sf;°&lt;,'iiS5?,^r&gt;?vii-o', 
+
+
+
+
+
+
+
+
+
+Is Irecdom by puDliely rpCMniilnd ""J' J"'^j'="."Ij »W an authorized olt'lcer of Ihe Universil/ having [ust cause to oeanV ? sl'o' "fV""'^"' '^"^ '°(^P''^'''h'S5 'J'e con'wence, the 
+
+i/n Ihe bounds ol prcvoinnB leflfll standards and h: Useot. or ihrealened use of, physical force or violence to (b^ dismiss Ihe charges; or (cVllthe Dean (or 5iudenl"^r vices 
+
+loumaiism. Specifically, sludent editors or restrici Ihe freedom of action or movement of another, or to reasonably believes the failure to be inexcusable, impose any of 
+
+Universriypro'penyor'infhecour4eorauniversily activity. cumstances noted in paragraph 16) above Shall"l» subiecFto 
+
+lave Ihe right lo freedom from unlawful C' Imlialion or circulation ol a report or warning of an further hearing or appeal, bul the fad of Ihe student's failure to 
+
+1 on the bas's o( race, color, religion, sm, or Impending bombing, false alarm of fire, or other crime, appear at the conference, if unjuslified, may be welgtied as a 
+
+n emergency^, or calaslrophe. knowing Ihat Ihe report is false, or factor m luture hearings. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"S'SS, 
+
+
+
+
+
+
+;S^,oj,. 
+
+
+
+
+
+
+WHEN IT COMES TO HI Fl EQUIPMENT 
+
+NOBODY COMES CLOSE TO HAVING 
+
+AS MANY NAME BRANDS AT 
+
+SUCH LOW, LOW PRICES 
+
+(OUR PRICE LIST, CALLED THE GREEN SHEET 
+
+PROVES IT.) 
+
+
+
+• 
+
+
+E=ORT WAYNE 
+
+1 ELECTRONICS 
+
+
+• 
+
+
+
+Student Rights 
+
+(Continued from page 10) 
+
+
+
+AUGUST 
+
+
+
+ALHA^AC PAGE 
+
+
+
+;£srSSSS 
+
+
+
+Shin Cc\wHifr?eO?ro^ aT'sV'V"^^"^ Hearing Comm'sslw &amp;m's,Vf an? vSc^c^oTthe Rev 
+
+
+
+approprlale represenlative body. 
+
+
+
+saf" 
+
+
+
+av maSe^a"poinfments/lllT vala"clel, or vvilh 
+
+
+
+
+
+
+lajf!'SSl7."rK,i.p«;ffi 
+
+
+
+
+
+
+^SlIPjySr'Jfs'JFn 
+
+
+
+.iX^!ilS« 
+
+
+
+j"s«?^5: 
+
+
+
+;s;fnS'?s!:',AS'iii 
+
+
+
+a'A°.T.2 
+
+
+
+
+
+
+
+
+
+?^l£&amp;T|^KjJ3r?S"c:mm|^^ 
+
+
+
+
+
+
+hrJB'lS.Bf'S'Bii'^ 
+
+
+
+Aftiissszivxs:,", 
+
+
+
+M.aKc.^dBcWUnaM.m^toM^oiranif™^^^^ 
+
+
+
+
+
+
+
+
+
+n'xviizvtx 
+
+
+
+"f„r,';?a";o,!;v,seKS 
+
+
+
+t'ss,ss;?i5wsa^:ss;;s^ 
+
+
+
+
+
+
+The Fort 
+
+In The Union Building 
+
+HOURS : 
+M-T 7:30 AM - 5:30 PM 
+F 7:30 AM - 3:00 PM 
+
+We Serve All Your 
+Food Needs! 
+Telephone 483-4733 
+
+
+
+lv,.?o&gt;,"K? S'&amp;r'nS, 'il fr\'S',!ff^ 
+
+
+
+i,r%T,'A'X&amp;l'l'.'S'JI!S.\t 
+
+
+
+
+
+
+need a CRASH PAD? 
+
+
+A 
+
+
+
+
+,'S"'ra'"co=a';;o"„''o7'c"o: 
+
+!, choice ollooiions, one l.mef 
+
+
+viable ?en"Sl 
+
+INDERS 
+
+
+I^^S 
+
+
+^^^ 
+
+
+-,. ) 
+
+
+
+Studenfs Turkish life intriguing and dangerous 
+
+
+
+e people night o( I 
+
+
+
+their heads." But Istanbul, apart 
+
+
+
+say, almost all Turks ! 
+
+
+
+Sheli felt that the hardest thing 
+
+month stay with a family in for her to get used to was the very 
+
+Istanbul through a program called different social structure. The 
+
+the American Field Service. The teenage generation had little, if 
+
+formed of her destination early in allowed to be out after dark. There 
+July 1977 and departed Ft. Wayne was little night life because of the 
+about a week later. danger in the streets. Sheli ex- 
+Arriving in Istanbul with nine plained that there was a great 
+
+
+
+always recognized im- loved l 
+
+
+
+uprisings occurred, Sheli added 
+
+
+
+Moneychangers," "Little 1 
+on the Prairie," and "Cht 
+Angels ■• Radio was popula 
+
+
+
+alongside of man r 
+MosI of the peop 
+dressed in up-to-( 
+
+Entertain men t'-A 
+
+
+
+What's a Mink DeVille? 
+
+
+
+it looked as if something might 
+
+
+
+n despite being confined t( 
+
+
+
+even going so far as to play 
+(this lasted only as long as it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mink DeVille had been a band 
+
+
+
+
+
+
+
+
+been an idea. It had its earliest 
+
+
+primatively) that their blues and 
+
+
+origins in 1971, when a native New 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+never quite got itself together. 
+
+
+
+
+
+
+
+
+English band shortly thereafter. 
+
+
+
+
+
+
+
+
+sute of "sixties hangover," and 
+
+
+
+
+
+
+
+
+hearUand tor sympalhetie 
+
+
+
+
+
+
+
+
+
+
+by a contract with Capitol 
+
+
+
+
+Records and the arrival of a 
+
+
+several pilot models of Mink 
+
+
+keyboard player in the person of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+its scope. Mink DeVille excells at 
+
+
+
+
+
+
+
+
+distinguished from that pack by 
+
+
+playing everything from lounges 
+
+
+
+
+
+St WAYNE'S FINEST PIZZA 
+GRiHDfRS 
+BROASTED CHICKEN 
+
+SAUSAGE ROLLS 
+"NOW SERVING LUNCH 11:30-2" 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+OI!l ANY LARGE PITCHER 
+
+YOU MUST BE 21-IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+SUPER BARGAIN 
+
+Just Around the Corner 
+
+Have it 
+
+
+
+Buy Two $ ■ 25 
+Whoppers For I 
+SAVE 81' 
+
+6820 HANNA 
+as 4625 Coidwater 
+
+
+
+BUR6ER 
+KING 
+
+
+
+J^ie« outside 
+die tower 
+
+BySKIPBEBRV 
+
+How does il smell? Have you would equalize evente, .urn magje 
+touched anylhing? Does Ule floor i"'" mediocrity, convert the ex- 
+creak? Is there a clock ticking? traordinary to the ordinary, 
+Areyou alone? reduce the world to two- 
+How do you feel? What are your dimensional black and white. An 
+
+eyes, what do you see? Have you inlerpretalion. 
+
+have any o^pinions,' i^a's" Ihc heart ol poetry. The task of the 
+prejudices, contemplations, P»el mside you is to interpret the 
+
+People live here. All kinds of '" «ork with in his-her in- 
+people. Poets. There are poets terpretive process. And it is the 
+inside us all, jusl walling to be beauty ot language that provides 
+
+found?! See?!" The secret in hear the poet speaking, 
+discovering the poet inside you is "Words make things name- 
+not so much in knowing the words themselves..." -Jack Spicer, in 
+
+^Tn"" world stressing self- And so here I am sitting in front 
+awareness, Hell you that you need «' my typewriter keyboard, 
+to be aware of more than merely ''"pmB »™e aSain to spend a year 
+yourself: be aware ot all that talking with you about the poetry 
+
+carnival can compare with the lectern. Poems should carry the 
+excitement to be discovered and smell of the earth or the stink ota 
+rediscovered in the land of poems, eity rather than the odor ot in- 
+
+we know Arrogant, you say' function. Enjoy yourself. 
+
+Poetic conceit? 1 think not. "We're all enlightened. F... that 
+
+Without poetry, the imporUnce of bullshit enlightenment. There is 
+
+would simply be: no need for to start waiting to be enlightened 
+
+nice day " could become, "Ifs a burg, at Naropa Institute. 
+
+
+Stones wrap up peacefully in Oakland... 
+
+(SUrshlpDispalch said most ot the entourage would 
+
+The Rolling Stones tour ended afte7SeOakla'°d''con™r't'"^°'"'' saying. "Thank yo5'sL"Frfn- 
+Wednesday, July 26, in Oakland, The Oakland show, attended by Cisco. See you next year." 
+California, on Mick Jagger's 34tb more than 60.000 people, was one The Oakland show, dubbed a 
+birthday. The Stones had been ot the most peaceful shows of the Bill Graham "Very Special Day 
+
+Fo?Wayni°Memor"l' Coliseum medtoi °''p™blemT.'"""co^cert tegan™Fio'lXrjuieTo.Si'nce 
+during the month of July; highlights included a massive then, the Stones played 16 cities in 
+
+attendance "rad'conliZed^^'ifce ot S'e" fhow,"°and"a' lirewS Th'e^Cohseum' wmld have been 
+vigilance ot concert-goers led to display at the end. Breaking their one of the smaller halls on the 
+the concerts cancellation. "no encores" policy, the Stones tour. In at least three of the 
+Although there is still talk of the returned after closing the show cities-Cleveland, New Orleans, 
+Stones playing at least one more with "Jumpin' Jack Flash," and and Los Angeles-box office 
+date-possibly at a San Francisco, played "Satisfaction." Mick receipts amounted to more than 
+
+...but concert in St. Paul sparked violence 
+
+tStarshlpDispatch city officials and the public are music events in St. Paul, even 
+SLPati) nowjoiningintheirefforts. though the concerts bring in more 
+
+IZZl.trZ NuSeJftmaTS -»/„ Sn^o uliidT'.he'E' -u'ld'bo* lh°/ stn'j? agaii, Tf 
+'°Z1it'Jk^, i„n. tri.rt i„„„i .n andalcoholabuseand vandalism. else tails, city officials will try to 
+endtro'cr^o'Si^n'slTa™ A newly.lected city coun- ^^I^Z^^'I^HS^IZ 
+but after the Stones July nth cilman. who owns a downtown bar P»mo^rs to stage rock shows m 
+appearance at the Qvic Center, is leading the tight to ban rock 
+
+featuring HoUy and 
+
+• SANDWICHES BobbiC 
+• TRY OUR CARRY-OUT 
+
+• PIZZA Exotic Shows Nighf/y 
+Mon. fhru Sot. 
+
+Monday Night Only 
+
+7PM - SAM Special Ce/efarof/on 
+Beerfest 50' GLASS *&gt;°"- *^^''" '"h"''*- 5 pm - 6 pm 
+
+r.rlllK Open MOO am 
+
+you mussel, VenT:; tO 3.00 Om 
+
+
+BOOK EMPORIM 
+
+TIME mum SHOPPING CEVTBR 
+(BEHIND POEPLB'S TRUST UU) 
+
+WE ACCEPT SPECIAL ORDERS INCLUDING 
+TEXT BOOKS. MOST ORDERS ARE DELIVERED 
+WITHIN SEVEN DAYS. WE ALSO CARRY CLOTH 
+AND PAPERBACK BOOKS, ALSO USED PAPER 
+BACKS, IN ADDITION TO MAGAZINES. 
+
+MASTER CHARGE AND VISA ACCEPTED 
+432-5686 432-5686 
+
+
+
+
+GENERAL CINEMA THEATRES 
+
+
+
+ALL SEATS S1.50 TIL 2:30 P.M. or CAPACITY! 
+
+
+
+
+
+
+, i--&lt;.lltJib^.V'.»J.&lt;iL'iMl«^ 
+
+MiBSmSaSlBwBESM 
+
+
+
+HDSuijluMili991 
+
+
+
+"WHO WILL STOP THE RAIN" 
+
+
+
+■HJII!l.lil.l|l.'.IIJnJUtll.W!M 
+
+
+
+"DEATH OK THE HILE" 
+
+
+
+STROLL ON BY 
+
+FOR 
+
+BACK-TO-SCHOOL 
+
+SAVINGSl 
+
+JEANS • JEAN SHIRTS 
+
+BIB OVERALLS • JACKETS 
+
+SWEATERS • SKIRTS • GAUCHOS 
+
+DRESS SLACKS • PAINTER PANTS 
+
+TOPS OF ALL KINDS 
+
+
+
+ALL FAMOUS BRAND JEANS 
+AT DISCOUNT PRICES 
+
+
+
+Glenway Bargain 
+Center 
+
+3820 Coldwater Road 
+Across from The Glenbrook Penny's 
+
+open evenings 'till 9 Sundays 12-5 
+
+
+
+Georgetown Square Theatre Building 
+Original Oils 7.50 and up 
+
+
+
+Can my college education 
+put me in People Magazine? 
+
+
+
+y MICHAEL BEHR 
+
+
+
+dJsciplint 
+employment; 
+
+
+
+I Electric. What a 
+
+
+
+HOURS: 12-7 TUES &amp; THURS 
+12-9 WED &amp; FRI 
+10-7 SAT 
+CLOSED SUN. &amp; MON 
+
+Inquire About Our Home Art Exhibits 
+
+J S. PURGE 
+EDWARD J. YARNELLE 
+) 493-4707 
+
+
+
+a dropping 
+speciality. For 
+happens to be u 
+
+
+
+which graduates 
+
+
+
+Professors ployment opportunities can never 
+
+eir selection. What happened to 
+1 it education for education sake? It 
+
+seems as though it has gone the arrived at a positii 
+
+
+
+Broadway. So, we've 
+
+
+
+There is another p 
+
+
+
+People Magazine writers or, 
+worse yet, People Magazine cover 
+stories. Yes. like President Carter 
+
+
+
+
+TV. disco, and crummy Saturday 
+night parties. But if an education 
+is to mean anything it cannot be 
+approached entirely from the 
+standpoint of hopeful future 
+Researchers tell us 
+
+
+
+; not in control. Anxiety picks 
+iulting from college attendance 
+relatively mild when compared 
+the anxiety of thinking about 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+
+
+THE COMMUNICATOR 
+Your Student Newspaper, Has Staff Positions Open For: 
+
+A Managing Editor Student activities reporters 
+
+Sports Editor State universities reporter 
+
+Opinion columnists Music revievirers 
+
+Administrotion reporters Feature w/riters 
+
+Student government reporters Sports reporters 
+
+No experience is necessary. We asic oniy tliat you iiave tlie desire 
+
+to improve your writing. 
+CONSIDER THE BENEFITS OF WORKING FOR THE COMMUNICATOR: 
+
+1 . Improved Vfriting and verbal communication skill: Skills that are not necessarily 
+learned in the classroom. 
+
+2. For the liberal arts student, journalism experience offers an additional 
+employment opportunity. 
+
+3. A writing clinic for credit conducted by Journal-Gazette staff writer and former 
+freelance writer Sherman Goldenberg. 
+
+4. Professional contact. Two Communicator staff members were summer interns at 
+the Journal-Gazette. 
+
+5. Make new friends. Break out of the high school syndrome and become part of a 
+college level professional news organization. 
+
+6. Indiana-Purdue will seem less like a glorified high school if you become involved 
+in intelligent college activity. 
+
+If you are Interested in Tiie Communicator or if you just want to find out 
+more about wiiat we do at Tiie Communicator, call 482-5585 or stop by tlie 
+office In Walb Union, Room 215. 
+
+
+
+</pre>        </div>
+      </div>
+    

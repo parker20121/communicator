@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv11i5indi/communicatorv11i5indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv11i5indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv11i5indi">The Communicator</a>"
+          </h1>
+          <pre>Communicator 
+
+The 
+
+
+
+Volume XI Issue 5 Indiana University-Purdue University at Ft. Wayne September 20, 1979 
+
+
+
+Anthro program 
+finally approved 
+
+
+
+*\i# 
+
+
+
+
+
+
+
+
+
+■[■EduL-jii.-n UHL;. 
+
+
+
+disciplines are Mary 1 
+
+
+
+
+
+
+
+Giusti foresees change 
+resulting from study 
+
+
+
+. They will also Relatio 
+
+
+
+Campus officers vie 
+for chief's post 
+
+
+
+University Relyliorts could i 
+
+&amp;»&gt;(! tilings tKivL'hccn jcounpluhwl 
+
+
+
+
+
+
+lin1 '-' 'I'lln.Tirh h, ,„„,. .„„!,,,,„„„]. |.-, ,„,,,,!,■ 1, 
+
+
+
+mi's rhiUclUT. Vive pninlfil^ 
+
+
+
+Another cutback 
+
+
+
+LEEP education funds curtailed 
+
+
+
+cipatedinLEEP.Therr 
+
+
+
+Vandagrift 
+to retire 
+
+
+
+Drug rings here ruled by violence 
+
+/.- 4/ .*\?'1l/'~&lt; HoliirlKini-nrson I HI H li . I u in it much ,.||., la,' L,ll, ,,. ,'!, ,|, - ..,/.;.. ■ I .],' I,,' "",',■'„"," . '.','."'.',.,',,'.-'. ' ',', ',','„', . Im ill',,. ','|,-'|,'.',','.l„nl"iii a not gelt off on 
+
+V ^ -W ¥&lt;'\ F ° rl """'' '"' ' p ""'"' " !l ■' "'", ■■■'" ,, " L " [ "' " '■■' ' '"'"" I- .icr.c iliat there has been a Mexico " Id- .,,1,1,., ,|„. ..,„„. tl ,n ■...„,.• I.-B..1 technicality 
+
+
+
+
+opinion 
+
+
+
+
+informally with anyone who 
+
+wished to attend. Giusti also asked for personal contact with us oil. Amn«»«#v International 
+
+further suggestions, iuii iiu- vn-,ii\ mimed. v.i,m ,i is 'im iifHiy international 
+
+lie has already received Iwo dozen insl i I, will lie nor way of opening 
+
+sut',L.esli(ins, anil is enthusiastic alioijt lines of 
+
+
+
+.ludcjnu from typical mleresl. slwlciil ,hs^run(led and 
+
+an I wunld he slim Stall , amltv will mine In (hc.r- nieelini'.s l-'irn- Those 
+
+1 be stronger, are the people 
+
+(Jiusli wants to present 
+
+.villi a rare opportunity to meet with him frustrated in the 
+
+
+
+Hill hits bill logjam 
+
+
+
+SS Group helping people, not seals 
+
+
+
+
+Regents of the University 
+
+
+
+Technology's impact unpredictable 
+
+
+
+Black Forest. They 
+
+
+
+
+cub 
+
+reporters 
+
+corner 
+
+Class withdrawal changing 
+
+
+
+Wind group to sell calendars 
+
+
+
+Computer consultants needed 
+
+The Office of Computing syMem .iv;iil;tl.li. Uin.ui;li flu 
+
+vices (Computer Center) is puling Network. 
+
+-■ .■km.,: .|ii,ilii"nd students to The consultant position i 
+
+
+
+Sorority looking for pledges 
+
+Omega, Alpha Beta Chapter. held this Saturday Si-pt.a: 
+will hold an open meeting 7 p.m. in (he Cricket C) 
+
+
+
+ASPA to host guest series 
+
+Society of Personnel liusiricsscs In campi 
+the 1979-80 academic year, opportunity to talk v 
+
+President Leann Thomp- after graduation. 
+
+
+
+Bike-a-thon against diabetes 
+
+
+
+SPECIAL SAVINGS 
+
+
+
+Painter Pants &amp; Bibs 
+
+Corduroys 
+
+Pre-Washed Denim 
+
+Painter Cloth 
+
+
+
+GLENWAY 
+
+BARGAIN CENTER 
+
+
+
+campus 
+"calendar 
+
+
+
+THURSDAY 20 
+
+Men's tennis vs. Grace, at home, 2 p.m. 
+Inter-Varsity Christian Fellowship, 12:30 
+Fireplace Lounge. 
+
+
+
+Purdue Club Football I 
+
+SATURDAY Movie: Reefer Madness, in the Fort, 
+
+7 and 10 p.m. 
+Indiana-Purdue Reports on WGL Radio, 7:35 a.m. 
+
+Topic: "Mathematics Mini-courses." 
+
+Guests: Rudy Svoboda, Art Finco 
+
+
+
+for guests and topic. 
+
+MONDAY 24 
+
+ID pictures taken. Students' Government Office, 
+a.m. to 2 p.m. and 4 to 7 p.m. 
+
+al candidate, to speak 
+mpus, time &amp; place to be announced. 
+-Varsity Christian Fellowship, Neff 147, noon 
+
+
+
+Winfield Moses, 
+
+
+
+TUESDAY 25 
+
+ID pictures taken, Students' Government Office, 10 
+a.m. to 2 p.m. and 4 to 7 p.m. 
+
+
+
+Women's Volleyball vs. Earlham, there, 6 p.m. 
+
+THURSDAY 27 
+
+Men's Tennis vs. St. Francis, there, 2 p.m. 
+Inter-Varsity Christian Fellowship, 12:30 p.m., Walb 
+Fireplace Lounge. 
+
+Dr. Jerry Rodriguez, Assistant Professor of Education, 
+presented a paper at the National Conference of 
+Professors of Educational Administration on August 
+13, at Edmonton, Canada. Dr. Rodriguez's paper was 
+entitled "The Hodja Speaks To Those Who Listen 
+(Or, Are You Metacommunicating?)." The conference 
+was attended by professors of educational adminis- 
+tration from England, Canada, and the United States. 
+
+
+
+Summer Research and 
+Instructional Development Grants 
+
+
+
+Lowell W. Beineke, Professor, Department of Mathe- 
+matical Sciences; A Study of Properties of Directed 
+Complete Bipartite Graphs. 
+
+
+
+Tom L. Collins, Instructor, Department of Biological 
+Sciences; The Susceptibility to Coxsacki Bl Virus In- 
+fection in Offspring of Immune Mothers. 
+
+Joseph A. Davis, Associate Professor, Department of 
+Chemistry; Metal Ion Coordination in Solutions Con- 
+taining Fluoride Ion and Hydroxycarboxylic Acid Anions. 
+
+
+
+Michael Clark Downs, Associate Professor, Depart- 
+ment of Political Science; Hannah Arendt and the 
+Revival of Political Theory. 
+
+Soon T. Kim, Lecturer, Department of Earth and 
+Space Sciences; Physical Characteristics of St. Joseph 
+River and St. Marys River Basins. 
+
+
+
+Edward E. Messal, Associate Professor, 
+
+of Manufacturing Technology; Self-Study Guides for 
+
+Computer Aided Designs. 
+
+Michael J. Miller, Associate Professor and Chair- 
+man, Department of Supervision; A Contingency Ap- 
+proach to Explaining Alienation, Integration and 
+Motivation in Organizations. 
+
+Leland S. Person, Assistant Professor, Department of 
+English and Linguistics; James Kirke Pauling: Myth 
+and the Middle Ground. 
+
+
+
+Mary Helen Thuente, Assistant Professor, Depart- 
+ment of English and Linguistics; Lady Gregory and 
+Irish Folklore. 
+
+
+
+Heroin— 
+continued 
+
+
+
+
+
+T FROM ABOVE 
+
+INNER CITYS' JAZZ WOMEN 
+
+FIND THE BEST OF 
+
+AT KARMA 
+
+
+
+the arts 
+
+
+
+an -ft 
+
+W 1 
+
+
+■ 
+
+ATA , 
+
+
+
+
+'Battle of Bands' 
+
+
+■1! fe 
+
+
+16 take shot 
+
+iM'lirird Siiii&lt;!,!&gt;, c. mint; &gt;.i Himn.- II...- Jin.jt. &gt;jl s 1 h,..y 
+Wayne's developing stream mm- HT.-rK .ilili.-iiiji s,,m.- 
+"The Battle Of the Bands," or luck - probably both. 
+
+
+
+Civic's 'Forum' 
+is first play jcf 
+
+
+
+
+The scene ,s undenl Ihc proil.icl..... as naked TIT I* 
+
+Rn.ne. and Ihe su.rv ,« ., mrls ami Ion ■■..iiirdv " Iml a I. Off M.OT\T\Otin 
+
+(rem random par.,,,, -^ .I-.-..I. dlneaasm and ■" ■" 
+
+Mans li.ird «.,rk i.n ivirl al f I • /*! • I - 
+
+L" fXF-ssm back in flight 
+
+
+
+;rtul writing of Stephen 
+
+
+
+Recreation Department, in 
+
+
+
+I Wayne's next week-en. 
+
+
+
+di^i.hmiLige. The sound 
+properly. The monitor was 
+
+
+!|E jr^sg xp::::::.:^::^ :;:::: 
+
+
+Jazz notes. 
+
+
+
+
+Classics revisited 
+
+
+iHSs 
+
+
+Luncetord and others,. 'Nniih un (m!|.vi... ..■ , .. 
+
+The age of bebop is well- Classic ,l;i//" th.- h.'s i ,i ,-. , , ,,. 
+
+Don Byas, Thetonious Monk ' 
+and early Miles Davis, as Breaking Away 
+
+
+
+IF 
+
+
+
+'Hot Stuff 
+chills critic 
+
+
+
+Zep lp soars 
+
+
+
+
+
+
+
+Summertime 
+blues revived 
+
+
+
+
+on the inside 
+
+
+
+Rats welcome in trom 
+
+
+
+
+sports 
+
+
+
+Grace next for Tuskers 
+
+
+
+•••in brief 
+
+Fall baseball season set 
+
+
+
+
+■ ty.'l ' "I-"" Si™, Im, n ,,ll „ 
+
+IX. »""',«■ lo"n'm S 
+
+
+
+Soccermen tie Cougars 
+
+
+
+TtiskLT tc.im tliiil simply goalie E 
+
+
+
+
+
+
+The Tuskers ployed I 
+
+
+
+i Hi'- I'.irinu: u.n 
+
+
+
+;,,V'l ,,,,,;;,,.; ,',,,,' &gt;'''',mas. was held toonegoal 
+LH£t TO^hS? to " , ' ^dou X"^ llE 'the POS g^ e , ! 
+i .is .1 vii'lory cumins tjy*" the tireless Dave Husar 
+
+
+
+; 
+
+
+
+
+R. G. PADILLA 
+
+INSURANCE AGENCY 
+
+
+
+•AUTO "HEALTH 
+
+•HOME 'BUSINESS 
+
+•LIFE 'CYCLES, ETC. 
+
+
+
+FEATURING NATIONWIDE ll 
+Ray Padilla 
+
+
+
+I CAN GET 
+
+CAR INSURANCE FOR ANYBODY 
+LOWEST POSSIBLE RATE 
+
+
+
+5720 St. Joe Rd. (Across from the Marketplace ol Canterbury) 
+
+
+
+PRINTING 
+
+Wfuk-U-Wait! 
+
+
+
+Photocopies 
+60° W ea 
+
+483-7144 
+
+
+
+Don't Let The Apathy Bug 
+Bite You... 
+
+
+
+Join Students' 
+Government Senate 
+
+
+
+SUBOG CAMPUS 
+COMMITTEES" 
+
+
+
+482-5353 
+
+
+
+
+
+NAVY OFFICER. 
+
+YOU GET RESPONSIBILITY THE 
+YOU GET THE STRIPES. 
+
+
+
+MOMENT 
+
+
+
+A lot of big corporations offer you a big 
+title. But how many offer a young college 
+graduate a really important job? 
+
+As a Navy Officer, you don't have 
+to wait to do a job that counts. We give 
+you one as soon as you've earned your 
+commission. A job with responsibility for 
+the lives of others, and for millions of dollars 
+of complex equipment. A job that requires 
+skill and leadership. A job that Navy Officers 
+have been doing proudly for 200 years. 
+
+If that's the kind of job you're looking 
+for, speak to a Navy recruiter. You'll find 
+that Navy Officers have unequalled 
+opportunities in fields like Nuclear Power, 
+Aviation, and Engineering. 
+Or call toll free 800-S41-8000. (In Georgia, 
+
+
+
+toll free 800-342-5855. ) Early responsibility. 
+It's what being a Navy Officer is all about. 
+
+r7 A 7YOTro^™.^ „~~i 
+
+I INFORMATION CENTER | 
+
+
+
+NAVY OFFICERS GET RESPONSIBILITY FAST. 
+
+
+
+</pre>        </div>
+      </div>
+    

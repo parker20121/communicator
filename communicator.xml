@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Webharvest script used to read articles from archive.
+  
+  IPFW News Paper - The Communicator
+  http://archive.org/search.php?query=%28collection%3Aindianapurduefortwaynestudentnewspaper%20OR%20mediatype%3Aindianapurduefortwaynestudentnewspaper%29%20AND%20-mediatype%3Acollection&sort=-downloads
+-->
+<config>
+	<var-def name="pageUrl">http://archive.org/search.php?query=%28collection%3Aindianapurduefortwaynestudentnewspaper%20OR%20mediatype%3Aindianapurduefortwaynestudentnewspaper%29%20AND%20-mediatype%3Acollection&amp;sort=-downloads&amp;page=</var-def>
+	<loop item="page" index="i">
+	    <list>
+	        <tokenize delimiters=",">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</tokenize>
+	    </list>
+	    <body>
+	        <loop item="link" index="i" filter="unique">
+			    <list>
+			        <xpath expression="//a/@href">
+			            <html-to-xml>
+			                <http url="${pageUrl}${page}"/>
+			            </html-to-xml>
+			        </xpath>
+			    </list>
+			    <body>
+				    <case>
+				        <if condition='${link.toString().startsWith("/details/communicator")}'>
+				            <file action="append" type="text" path="C:/Projects/communicator/communicator-links.txt">
+					            <template>http://archive.org${link}${sys.cr}${sys.lf}</template>
+					        </file>					    
+				        </if>		        
+				    </case>
+			    </body>
+			</loop>
+	    </body>
+	</loop>
+</config>

@@ -1,0 +1,3803 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv34i30indi/communicatorv34i30indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv34i30indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv34i30indi">The Communicator</a>"
+          </h1>
+          <pre>Indiana Unive rsity ¥ Purdue University ¥ Fort Wayne 
+
+
+
+INSIDE: 
+
+
+
+The Communicator 
+
+I The spice of variety g Miss Indiana? ■ The ongoing contest 
+
+Almost 100 organizations exist at IPFW. Two IPFW students compete for the AD Mark Pope has wins losses 
+
+And they're looking for members. Page 2 crown of Miss Indiana in June. Page 3 and goals for program. Page 9 
+
+
+
+Volume 34, Issue 30 
+
+
+
+www.ipfwcommunicator.org 
+
+
+
+Wednesday, May 19, 2004 
+
+
+
+A turning of the tassel 
+
+
+
+**2 - ^*\ ^M 
+
+
+
+Over 1,600 IPFW stu- 
+dents graduated from the 
+
+ates, bachelor's and mas- 
+ter's degrees May 12. 
+
+Above, Dimples Smith 
+(right) completes turning 
+her tassel while Danyelle 
+Easley and Dawn Finley 
+begin applauding 
+
+behind her. All three 
+graduated with OLS 
+degrees. 
+
+Right, Nick Jackson 
+advertises his need for 
+employment as he listens 
+to speakers. Jacksi 
+graduated with a degrei 
+in Business 
+
+Management. 
+
+
+
+
+WaterJMd prepares for residents 
+
+
+
+Final inspections 
+underway, RAs 
+hired for housing 
+
+
+
+During this summer, final 
+touches are being added to the 
+Waterfield Campus Student 
+Housing due to open in August. 
+
+IPFW ordered new inspec- 
+tions, costing about $11,000, after 
+questions were raised about possi- 
+ble mold contamination at the loca- 
+
+The result of the mold inspec- 
+tions, conducted by Fort Wayne 
+company Industrial Solutions 
+Group, Inc., found no evidence of 
+mold or mold-promoting condi- 
+tions, ISG officials said. 
+
+IPFW officials feel assured 
+about the structures. 
+
+"The results of this study con- 
+firmed that our efforts are paying 
+off, but rest assured that we will 
+remain diligent so that we will be 
+able to avoid issues in the future as 
+well," IPFW Vice Chancellor of 
+Financial Affairs Walt Branson said 
+
+At a news conference 
+announcing the findings, he 
+emphasized IPFW students are the 
+
+priority in the undertakings. 
+
+"Our goal in this project all 
+along was to create a safe environ- 
+
+
+
+
+Pliolo by Scott M. Lawson 
+
+IPFW Student Housing Director Jena Henson explains 
+some of the furnished amenities inside each Waterfield 
+Campus student housing units while giving a tour of a liv- 
+ing room in May. 
+ment for students," he said. And with Student Orientation 
+
+
+
+able to house 568 students 
+fall. Thus far, 322 appli 
+Kin nllfd out for roo 
+at Waterfield. 
+
+
+
+t facilitv will be Advising F 
+
+
+
+l (SOAR) tak- 
+
+
+
+place throughoi 
+ions have the office believes it will keep 
+available receiving calls of interest. 
+
+Student.-, renting at VV.itt-rfitld 
+
+
+
+"We have been hoppin'. It's will begin moving in August 18 
+
+definitely been a very active office, and continue through August 21, 
+that's for sure," Student Housing 
+
+Director Jena Henson said. Continued on Page 2 
+
+
+
+IPFW standout 
+Simon declares 
+for NBA draft 
+
+
+
+Junior may forego 
+last college season 
+to seek personal 
+NBA 'dream' 
+
+By Dan Vance 
+
+
+
+Junior David Simon is one of 
+43 college underclassmen to 
+
+declare for the National Basketball 
+Association's 2004 Draft. 
+
+"I just kind of looked at the 
+situation and everything and I had 
+a pretty good season," said Simon. 
+"People are coming out and 1 just 
+thought it would be a good time 
+for me to just go ahead and try." 
+
+Simon averaged 18,1 points 
+and 9.8 rebounds during the 2003- 
+2004 season, his second with the 
+Mastodons. Simon's decision was 
+released on May 17 and announced 
+officially at a press conference on 
+May 18. 
+
+He has been projected as a 
+second round selection by NBA 
+scouts and draft experts. Thai 
+placement is one Simon plans to 
+work on raising throughout the 
+next month at pre-draft camps and 
+
+What is widely considered Hie 
+most influential pre-draft camp 
+takes place on June 8 in Chicago, 
+Simon is awaiting an official invite 
+to that camp. 
+
+"That (pre-draft camp) is 
+going to give me a chance to figure 
+exactly where I am at and we'll be 
+able to get a clear idea of where 
+everything is at," said Simon. 
+
+Underclassmen have until 
+June 17 to pull their names out of 
+the running as long as they have 
+
+
+
+
+David Sii 
+
+Southeast Missouri State 
+
+defenders during the 03'-04' 
+
+not signed with an agent, which 
+Simon has not. 
+
+"I just want to keep my 
+options open, 1 didn't sign with an 
+agent or anything, so WorBl case 
+scenario, I can come hack to school, 
+but it Is my intention to go all the 
+way through with this," said 
+
+
+
+While Sii 
+
+
+
+through the June 17 deadline, 
+IPFW Head Coach Doug Noll (irm- 
+ly believes a return to IPFW has not 
+been ruled out. 
+
+"Ifs not clear cut, I just think 
+
+Continued on Page 9 
+
+
+
+Presidential duties 
+
+
+
+Senior to intern 
+at the White 
+House during 
+summertime 
+
+
+
+For the second year in a row, 
+an IPFW student will be interning 
+at the White House. 
+
+And for the second year, it is 
+the outgoing Student Body 
+President. 
+
+Senior Matt Shilling, who is 
+transferring to Northwestern 
+University for the fall semester, 
+will work with the Special 
+Assistant to the President and 
+Director of Public Liaison, Tim 
+
+"Working at the White House 
+will be fast-paced with long hours, 
+but it will be very rewarding," 
+shilling ^.iid in a press release. 
+
+The public affairs major con- 
+tends it should be an exhilarating 
+experience and is looking forward 
+to the day-to-day situations that 
+
+"Anything can happen, any- 
+time. You read books or see televi- 
+
+
+
+
+Outgoing IPFW Student 
+Body President Matt 
+Shilling will intern at the 
+White House during this 
+summer. 
+
+sion shows about how things work 
+but to experience it first-hand will 
+be incredible," Shilling said. 
+
+During the summer of 2003, 
+former IPFW Student Body 
+President Justin Busch was an 
+the White House. Busch 
+
+
+
+
+a journey to the stage 
+
+
+
+Among the many 
+IPFW programs, th 
+Tlieatre Dept. has 
+many talents, 
+including senior 
+page 6 Meiissa Dowty 
+
+
+
+
+i year of many seasons 
+
+
+
+IPFW sports had a 
+
+year ofups and downs 
+during 2003-2004. A 
+photographic recap is 
+shown in this edition's 
+page 10 Sports section 
+
+
+
+
+Page 2 The Communicator 
+
+
+
+News 
+
+
+
+May 19, 2004 
+
+
+
+
+Waterfield 
+
+Continue from Page One 
+
+Henson said. 
+
+According to Student Activities 
+Board Programming Director Erin 
+McConaha, SAB will provide some 
+entertainment and activities during 
+those move-in dates for the incoming 
+residents. 
+
+"We're going to welcome the 
+freshmen and other students moving 
+in tike they do at a traditional cam- 
+pus with housing," McConaha said. 
+
+And with those residents 
+preparing to move-in, employees for 
+the housing have be hired by Student 
+Housing, including an assistant __ 
+
+director and over a dozen Residents pl &gt;°'° ty Scotl M.'lmvson 
+
+Assistants. Final touches are being completed at the Waterfield Campus Student Housing located across from IPFW this summer. 
+
+About one-third of the 17 RAs 
+are originally from foreign counties. "They really understand what a student is going to go Connecticut and even California. 
+
+"They were some of the strongest candidates because through when they move away from home for that first time. The faces of IPFW may change with the units. 
+
+they've been living on their own without their parents. They have a good grasp of what some of the students might "We're seeing students who are coming here from far dis- 
+
+They've gone through ,i huge transition themselves," Henson go through," Henson added. tances. We have people who are coming here to look at IPFW 
+
+explained. The housing, Henson believes, is going to be diverse in - even though they might not choose to come here - they 
+
+She thinks the RAs will be a benefit to IPFW students Americans attending IPFW as well Some applications have might not have even looked here before because they didn't 
+moving in. been from as far away as Pennsylvania, New Jersey, have a housing option," she said. 
+
+Variety of organizations available to students 
+
+
+
+At IPFW, there are over 90 dif- 
+ferent organizations in which stu- 
+dents tan participate, ranging trom 
+the Accounting Society to the 
+Waterski and Wakeboard Team. 
+Here is a listing of the groups and 
+primary contact information as of 
+Spring 21)04 More information on 
+these groups can be found at 
+www.iphv.edu/stulife. 
+
+De partmental Organizations 
+
+* Accounting Society: I urns Hover 
+at 450-3607 or email as@ipfw.edu. 
+
+* Agriculture and Pie-Vet Club: 
+Angela Koble at 485-1191 or email 
+afc@ipfw.edu. 
+
+* American Choral Directors 
+Association: Dan Baker at 625-4207 
+or email acda@ipfw.edu. 
+
+* American Medical Student 
+Association - Pre Med Club 
+( AMSA): Phil Ruckman at 750-7825 
+or email 
+iphv_pre_med@yahoo.com. 
+
+* American Production Inventory 
+Control Society (APICS): Eric 
+Caydos at 348-7303 or email 
+eric 1 094@hotmail.com. 
+
+' American Society of Interior 
+Designers: Tamara Lickey at 344- 
+3049 or email ttltckey@ctlnect.com. 
+' American Society of Mechanical 
+Lngineers: Mark Moenssens at 4 1 '0- 
+8349 or email 
+
+nimmoenssens@aol.com. 
+' Anthropology Club: Eric Mory at 
+744-3909 or email 
+
+anthrir/Dipfw.edu. 
+
+* Art Students League: Justin 
+Casiano at 749-1033 or email 
+casianajSVynhoo.com. 
+
+* Association for Computing 
+Machinery: Atanas Vanchev at 418- 
+7731 or email vancatOK'apfwecki 
+
+* IPFW Band Student 
+Organization: Noah Diehm at 478- 
+1037 or email band@ipfw.edu. 
+
+' Biology Club: Spencer Ritenour at 
+489-8917 or email 
+
+bioclub@iprw.edu, 
+
+* Ceramics Club: facc@iphv.edu 
+
+Computer In forma lion 
+
+Association: Ken Jaeger at 486-6486 
+or email cia@iphv.edu. 
+
+* Criminal Justice Fraternity: 
+Lesley Lykins at 436-1209 or email 
+
+
+
+
+hosp@ipfw.edu. 
+
+* Human Services Organization 
+Patricia Eber at 481-6424 or email 
+ebcip" iphv.edu. 
+
+* Institute of Electrical Electronics 
+Engineers: Jimmy LaMaster at 450- 
+4637 or email ieee@ipfw.edu. 
+
+" Marketing Club: Brittany Hess at 
+639-7311 or email 
+
+lit-— b.iOlO'iphv.edu. 
+
+* Music Educators National 
+Conference: Dr. Barbara Resch at 
+481-6726 or email menc@iphv.edu. 
+
+* Music Therapy Club: Mareta 
+Spencer at 483-7056 or email 
+mtso@iphv.edu. 
+
+* Pharmacy Club: Chris Liston at 
+625-6343 or email 
+C'li.ii imj-ipfw.edu. 
+
+* PHI (Philosophy Club): Email 
+
+' PI Math Club: Doug Townsend at 
+481-6235 or email pi@ipfw.edu. 
+
+* Political Science Club: 
+
+Sarah Wimer at 338-0102 or 
+email mhschemic@aol.com. 
+
+* Psychology Club: Natalie 
+Pettigrew at 436-2274 or 
+email psychcb@ipfw.edu. 
+" Society for Human 
+Resource Management: 
+Valerie M. Potchka at 436- 
+2969 ' or email 
+shrm@iphv.edu. 
+
+* Society of Automdtive 
+Engineers: Matthew 
+Ehrman at 639-6708 or 
+
+
+
+email dgmelly3169@yahoo.com. 
+
+* Visual Design Association: Scott 
+Sarvay at 493-7580 or email danc- 
+
+ing_nancies_bl@hotmail.com. 
+
+Honor Societies 
+
+* Beta Beta Beta: Spencer Ritenour 
+at 602-9311 or email 
+
+spencerit@comcast.net. 
+
+* Phi Theta Kappa: Sarah Beckman 
+at 481-6274 or email 
+alkapnu@iphv.edu. 
+
+* Pi Mu Epsilon: Lowell Beineke at 
+481-6223 or email 
+beineke@ipfw.eda. 
+
+* Psi Chi: Craig Hill at 481-6403 or 
+email psjchi@ipfw.edu. 
+
+* Sigma Alpha Iota: Anastasia 
+Blaettener at 639-3117 or email 
+sai@iphv.edu. 
+
+* Tau Alpha Pi: Vicky Hogge at 
+481-5731 or email 
+vicky_hogge@ieee.org. 
+
+
+
+The Bangladesh Student Association held Di 
+Bangladesh in early December celebrating the culture of 
+the Asian nation. About 250,000 Bangladesh citizens live in 
+the United States. At IPFW, the Bangladeshi's population 
+has been very active in BSA and are always looking for 
+more membership. 
+
+
+
+
+cjc@iphv.edu. 
+
+* Educators for Excellence: 1 loll 
+McNally at 492-4468 or emai: 
+
+
+
+geixluh".' , iphv.edu. 
+* Graduate Business Council: 
+Tanveer Wahid at 481-6563 or 
+email gbc@iphv.edu. 
+The Finance Society: Mark * History Club of IPFW: Shannon 
+Johnson at 636-7675 or email hist- 
+clubipfw@yahoo.com. 
+• The French Club of IPFW: Seth * IPFW Honors Activity Council: 
+
+
+
+Drayer at 597-7344 
+
+IrenchcbyJipfw.edu. 
+
+' Geosciences Club: Hope Sheets a 
+
+
+
+Ryan Brown at 484-1624 &lt; 
+
+ho nors'")! pfw.edu. 
+
+* IPFW Hospitality Club: Lau 
+
+
+
+email DiSilvertio ..it 4 lo-UMc, 
+
+
+
+* Society of Manufacturing I 
+Engineers (SME): Randy 
+Savage at 486-2703 or ei 
+sme@iphv.edu. 
+
+* Society of Women I 
+Engineers: Annita Arispe at file photo 
+
+433-6741 or email Members of Universal Gaming 
+
+swe@engr.ipfw.edu. Association gathered Friday nights 
+
+* Speech and Hearing Club: ,„_ 1A , . ■ , , . 
+Kristi Loy at 47S-6353 or at IPFW to en J°y ™le-playing 
+email kloy@aol.com. games like Dungeons and Dragons 
+
+* Student Affiliates of the along with many others. 
+American Chemical Society: 
+
+Travis' Acra at 627-5267 or email 
+
+acs@ipfw.edu. Religious Organizations 
+
+" Student American Dental * Campus Ministry: Ben Gates at 
+
+Hygienists Association: Nancy 481-6992 or email 
+
+Mann at 481-6569 or email gatesb@ipfw.edu. 
+
+mannn@iphv.edu. * Church of Christ Organization: 
+
+* Student Theatre Organization: Terrail Kizer or Brian Hill at 486- 
+Melissa Dowry at 627-3169 or Continued on Page 8 
+
+
+
+Scott M. Lawson, Editor 
+
+S.G. Wahlborg, Managing Editor 
+
+Kurtis Meyers, Arts &amp;. Entertainment 1 
+
+Nick West, Sports Editor 
+
+Katie Pruitt, Copy Editor 
+
+K.E. Casey, Chief Reporter 
+
+Josh Vargas, Advertising Designer 
+
+Aiden Bordner. Advertising Manager 
+
+I)orie Reynolds. Publisher 
+
+
+
+Editorial Polici 
+
+
+
+The Communicator 
+Walb Union; Suite 215 
+2101 E. Coliseum Blvd. 
+Fort Wayne, IN 4680S 
+
+Editor: (260)481-6584 
+
+Publisher: (260) 481-6585 
+
+Advertising: (260) 481-6583 
+
+Fax: (260)481-6045 
+
+www.ipfwcommunicator.org 
+
+
+
+: opim 
+
+r. The _ r _ 
+
+ions expressed do not necessari- 
+ly reflect the views of IPFW. its 
+employees or its student body. A 
+column is solely the opinion of 
+its author. 
+
+The Communicator wel- 
+comes responses from readers. 
+Letters to the Editor and guest 
+columns must he signed, dated 
+and accompanied by a current 
+
+
+
+ered for publicat 
+
+
+
+All submissions made via e- 
+mail will be verified by tele- 
+phone or in person. Addresses 
+and telephone numbers will not 
+be published. 
+
+Submissions must be typed, 
+double-spaced and no more than 
+400 words. 
+
+The editorial board of The 
+Communicator reserves the 
+right to edit all submissions lor 
+leneUi. grammar, style and clar- 
+ity. "Let fe is deemed libelous by 
+
+
+
+be 
+
+
+
+the oJiioiui hoard will . . . 
+published under any circum 
+stances. 
+
+
+
+News 
+
+IPFW plates are 
+now available for 
+reservation for '05 
+
+
+
+IPFW officials are 
+reminding students, faculty, 
+staff and employees who are 
+wanting the new IPFW 
+license plate to sign up soon. 
+
+The license plate, which 
+is due to hit the streets in 
+2005, will feature the IPFW 
+logo on the left side of the 
+
+
+
+license. It was passed 
+through legislation as a spe- 
+ciality plate in the 2003-2004 
+session of the Indiana 
+Assembly. 
+
+Those interesting in 
+reserving a plate for their car 
+in 2005 can do so now by 
+going to the IPFW website 
+www.ipfw.edu. Questions 
+can be addressed to IPFW 
+Alumni Relations at 481- 
+6807. 
+
+
+
+Two IPFW students 
+competing for Miss 
+Indiana title in June 
+
+
+
+Two IPFW students will 
+take to the stage in June 
+when they compete for the 
+title of Miss Indiana taking 
+place at Indiana State 
+University in Terre Haute. 
+
+Graduating senior 
+
+Melanie Bush, who recently 
+won the title "Miss Fort 
+Wayne" and freshman 
+Maude-Jo Baczynski, who 
+was crowned Miss IPFW in 
+the fall of 2003, are slated to 
+compete June 10-12 for the 
+
+
+
+title. 
+
+
+
+Bush, who graduated 
+
+
+
+
+
+
+for 
+
+
+
+
+healthier America. The 21- 
+year-old from Fort Wayne 
+wants to become a medical 
+doctor and researcher. Melanie Bush 
+
+Baczynski, a 19-year-old cle. Her career goal is to 
+from Kendallville, is major- become a professional tap 
+ing in Business. Her platform dancer and own her own 
+is motivating people to recy- business. 
+
+Activities aplenty 
+during school year 
+
+Staff Report noted in April. 
+
+The Communicator Tne club ' s varieties go 
+
+from the general (French 
+Club, History Club) to the 
+seemingly more specific 
+(American Choral Directors 
+Association, Anime 101); 
+from the tame-sounding (PI 
+Math Club, Campus Girl 
+Scouts) lo the sometimes 
+controversial (Equal Rights 
+Education Network, Pagan 
+StLkleiii Alliance). 
+
+The Student Activities 
+
+Board also attempts to hold a 
+
+riety of events throughout 
+
+
+
+From the Omnibus 
+Lecture Series which tradi- 
+tional features prominent 
+figures in a variety of fields 
+to NCAA Division I sporting 
+events, IPFW has a variety of 
+activities taken place 
+throughout the year. 
+
+During 2003-2004, 
+
+IPFW had visits from college 
+broadcasting legend Dick 
+Vitale; "Saved By The Bell" 
+star Dennis Haskins, who 
+has gained a cult following 
+as Mr. Belding; and Civil 
+Rights leader Jesse Jackson. 
+
+And that didn't even 
+include the Omnibus Series, 
+which featured writers, 
+actors and activists who are 
+known throughout the 
+nation for their stands on 
+
+IPFW students also 
+have dozens of different 
+organizations they have the 
+ability to join. 
+
+"We want to find some- 
+thing here for everyone. 
+With 92 student organiza- 
+
+
+
+
+
+
+the schoolve. 
+students st 
+entertained 
+
+In the i 
+included concerts from 
+O.A.R., The Dave Matthews 
+Cover Band and comedian 
+Dairy] Hammond. 
+
+"We want to do again a 
+fall concert and midday 
+diversions," SAB 
+
+Programming Director Erin 
+McConaha said. 
+
+Determining who will 
+perform when is the subject 
+of summer planning of SAB, 
+she noted. 
+
+"We're collecting 
+
+ideas," McConaha 
+
+explained. 
+
+
+
+Have a serious interest in journalism? 
+
+The 2004-2005 staffing of 
+
+The Communicator is underway. 
+
+Stop by Walb 215 and get involved. 
+
+
+
+Fact: 
+
+The best place to get 
+
+your textbooks is not in 
+
+Kettler Hall. 
+
+
+
+
+It's at 
+
+The Bookmark. 
+
+Tired of paying too much for your textbooks every year? Does it seem like the big 
+
+book stores make you wait in line for hours, only to charge you a fortune? 
+
+There is an alternative. The Bookmark buys and sells used textbooks for IPFW 
+
+courses, and we've recently expanded in order to serve you better. We have the 
+
+best prices around on the books you need, plus we'll buy back your current texts 
+
+from last year. Our friendly staff will be happy to help you find the right textbooks for 
+
+your courses, even if all you have is a class schedule. So stop standing in line, stop 
+
+paying more, and get to The Bookmark for your college textbooks. You'll be glad 
+
+you did! 
+
+Looking for something to do between classes? 
+
+The Bookmark has more than just your textbooks! We also offer 
+
+• An extensive collection of classics 
+
+• Pre-owned good condition paperbacks 
+
+• Pre-owned cookbooks, sports books, fitness books, etc. 
+
+• Childrens books 
+
+• Many, many more titles! 
+
+B&amp;knjaik 
+
+Your Off Campus Book I 
+
+Call Today: 484-B00K 
+
+Located just south of the IPFW campus on North Anthony Blvd, next to Wooden Nickel. 
+Hours: Monday - Thursday: 10 - 7 / Friday: 10 - 6 / Saturday: 10 - 5 / Closed Sunday 
+
+
+
+Visit us on the web at www.thebookmark.net 
+
+
+
+Page A The Communicator 
+
+
+
+Opinions 
+
+
+
+May 19, 2004 
+
+
+
+Congress shall make no law respecting an establishment of 
+
+religion, or prohibiting the free exercise thereof; or 
+
+abridging the freedom of speech, or of the press; or the 
+
+right of the people peacably to assemble, and to petition the 
+
+government for a redress of grievances. 
+
+
+
+
+
+
+j/^ ^^ 
+
+
+
+Editorials 
+
+"Brain Drain' is okay, 
+Not using it isn't 
+
+There has been .in ongoing fear of "I3r&lt;iin I )rain" of Hoosier graduates leaving the state and 
+going to more fertile economic and career bettering locations. So here is our advise to graduates: Go. 
+Wherever you can. While lawmakers and stile officials fear "brain drain" will be the ruin of Indiana, 
+it is a silly paranoia. What will ruin a state in the long run is stagnation of creative thought - and if 
+people stay in one place too long (either physically, cnmliuii.il or mentally), stagnation sets in. 
+
+This isn't meant as disrespect to those who choose to stay in Indiana on a lifelong basis. This 
+is jusl an encouragement logo drain the brain elsewhere Many of us raised Hoosiers will eventually 
+
+return to Indiana. It may notbeln six months, it may be in a few years, Derhapsevena few decades. 
+But we'll return. And what we will return with will be extensive knowledge of ourselves and how 
+we act with (he rest of the world. 
+
+Go with your trawls and experience the congestion ot Smgap ire subways, the heat of the 
+Middle East sunrises on the coast of Charleston and sunset at the shores of San Diego. Because we're 
+young and now is the time to do these things. 
+
+Go with your career and don't be afraid to brainstorm new ideas when idle swamps of busi- 
+nesvavusu.il start driving you and your co-workers batt\'. Try to make a difference in lives, even 
+when hoping to make a difference is curtailed by having to sell retail to make end's meet During 
+those semi-tortures of life's t areers, don't forge! the possibility' of seeking out volunteer organizations 
+like Big Brothers/Big Sisters to make a difference. 
+
+Indiana is a great state, but there are lots of places to see and people to meet. By seeking out- 
+side inspiration, those who return here will strengthen the state. Brain Drain has been taking place 
+since I lomo I'n simians began walking out of Africa. Don't feel bad for wanting to continue human 
+evolution by evi living youiselE Ihose who fret about Brain Drain often cite economic troubles they 
+feel will be associated with it, but Europe still seems to be able to work with all the Brain Drain they 
+lost in the last two centuries - and most of us aren't looking at living out of the country as a career or 
+lifestyle. 
+
+Another summer at war 
+
+Eventually, fori Wayne is going to lose a military member in our ongoing wars. 
+It's going In be someone you may know, someone \ou may love. It's going to be a tragedy 
+thai will afteil family and friends lor decades And we're going to have to ask if it was worth the 
+
+Only pacifists tended to argue against retaliating against the Sept 11 attacks. Only constrict- 
+ed-thinking individuals now continue to argue Iraq had something to do with Sept. 11. We're fighting 
+a Kittle on the wrong battlefield and we' a* not sure how to get out while saving face. 
+
+Don't save face. Save our military who have been given a mission they shouldn't have been 
+sent info with Poland and 1 tanduras as their backing force We need to understand our mistakes and 
+leam from them. Our government pressed us into this action on flimsy intelligence and cowboy men- 
+tality. Our government pressed us into this action alluding to the souls of the victims of 9-11 and 
+potential missiles hitting us from Baghdad. 
+
+With the controversies of prisoner abuse, we have tripped up ourselves by not adhering to 
+the Geneva Convention throughout both of our conflicts so far. By not upholding adversaries the 
+right to POW status, we have left our own troops in a situation where no terrorist organization is 
+going to even contemplate any type of mercy for us. Would they otherwise? Doubtful. But the odds 
+might have been a percentage or two better had we followed common sense and the Geneva 
+Convention from the get-go. 
+
+This isn't a Republican/ Democratic philosophical debate. Both sides have been weak on this. 
+George Bush is an embarrassment 80 percent of the time, and a deer- in-head lights the other 20 per- 
+cent. John Kerry is a Kennedywannabe St) percent of tine time, and a weak-spined politician the other 
+20 percent. For yet another election, we will have to choose the better of two evils - and neither of 
+which will likely do what is right for our military. 
+
+Our military is going a good job in a bad situation. Ifs time they are able to find a better situ- 
+ation. It might be another battle in another country, but it would likely be a much more worthy fight 
+for which to die. 
+
+Eventually, Fort Wayne is going to lose a military member to our battles, and we're going to 
+ask if it was worth the price 
+
+
+
+Word of the Week: 
+Bovine 
+
+
+
+Lock up the condoms, put cream in all the food, make sure to get to Church on 
+time and don't sell alcohol on Sundays; we're in Fort Wayne, Indiana. 
+
+When Tim Allen was arrested for selling cocaine, he was arrested in Fort 
+Wayne, Indiana. When Johnny Appleseed died, he was buried in Fort Wayne, 
+Indiana. They subsequent!) surrounded his grave with cherry trees. When Philo 
+T. Farnsworth invented the telev ision, he was in fort Wayne, Indiana. 
+
+You'd think that with all Fort Wayne has going for it, it wouldn't suck so much. 
+
+Well, Fort Wayne doesn't suck. It's just lame. Most of the Fort Wayne citizens 
+have more in common with cows than the rest of humanity. They go about their 
+routines, blind ly following the leader, hardly ever pausing to birth an independ- 
+ent thought. That's why they call it the City of Churches: when you don't want 
+lo think for yourself, yon build a church and let vour Good Book do it for you. 
+
+Last summer 1 moved to Fort Wayne trom Seattle, Washington. The move, cul- 
+turally, was like stepping 50 years back in time. Youth culture in Fort Wayne is 
+nearly nonexistent With the exclusion of a few 18 and under clubs, there are very 
+few chances for \oung people to go out and have fun away from their overbear- 
+ing parents. Homosexual and deviant culture in Fort Wayne bears the extremist 
+mark that comes only from heavy social oppression. It's nearly impossible to be 
+served respectfully and expediently at a restaurant unless you've got a man with 
+you. Even then, the food is bland, marked by too much cream sauce and too lit- 
+tle attention to how ethnic foods are made in their countries of origin. 
+
+Hardly anyone in Fort Wayne, Indiana is interested in anything that happens 
+outside of the city limits. 
+
+This was my dilemma upon arriving here friendless, without a car and lethal- 
+ly bored: how does one have a social life when all her local peers are little more 
+thanbovines in disguise? 1 spent nearly two months u asting away in my house, 
+desperately searching the internet and the paper for something in Fort Wayne 
+that would allow me to interact with people my age I tried a pottery class, but 
+met with disappointment when I found out there were a grand total of two peo- 
+ple enrolled, im hiding myself, and that it was stashed away in a janitorial closet 
+at the Fort Wayne Community Center, Eventually, my salvation came: the fall 
+semester started up at IPFW. 
+
+Compared to either one of its parent universities, student life at IPFW is rather. . 
+limited. However, compared to the rest of Fort Wayne, IPFW is the place to be. 
+There are opportunities here that are not available anew here else in the city. 
+IPFW provides opportunities to participate in student groups, athletics, and 
+other activities that simply do not exist in the surrounding community. 
+
+At first I thought IPFW was small and stifling, much like the city it's located in, 
+but after a few weeks I started looking around at the various fliers and pamphlets 
+that fitter the campus and found that there are seemingly endless chances to get 
+involved with student life. There are clubs for jusl about every major, omnibus 
+lectures, athletics, a variety of special interest groups, and, my personal favorite, 
+the student newspaper, to name a few. I found a social life and something to 
+occupy my time, and suddenly. Fort Wayne didn't suck so much. 
+
+If you are in the same position I was- stuck in Tort Wayne, going to IPFW, and 
+hopelessly bored and disappointed with life - do not despair. You're not as iso- 
+lated as you think. There are plenty of opportunities to get out of the house and 
+entertain yourself right here on campus While starting out college at a place 
+you'd rather not be is less than pleasant, at IPFW, it's not as terrible as it first 
+appears. 
+
+
+
+The 
+
+Communicator 
+
+Editorial Policy 
+
+Editorials are the opinions of The Communicator. The opinions expressed i: 
+editorials or opinion columns do not necessarily reflect the views of IPFW, it 
+employees or its student body. A column is solely the opinion of the author. 
+
+The Communicator welcomes responses from readers. All Letters to th&lt; 
+Editor and guest columns in List he signed, da led and accompanied by acurrenl 
+valid address, telephone number, and class standing/major or title. Telephone 
+numbers and addresses will not be printed. All submissions made vie e-mail 
+will be verified by telephone or in person. 
+
+The editorial board reserves the right to edit all submissions for length, gram- 
+
+lar, style and clarity. 
+
+
+
+
+CAjMjPUS 
+
+
+
+"What is your favorite part of IPFW?' 
+
+
+
+
+ture is really great. 
+
+
+
+May 19, 2004 
+
+
+
+Opinions 
+
+
+
+The Communicator Page 5 
+
+
+
+College Students: ]etters to .hejn ditor 
+
+political couch potatoes 
+
+
+
+Liberty, like human muscle, atro- 
+phies if not exercised. And 
+although students are among the 
+citizens best mentally and physi- 
+cally equipped to be active in the 
+political processes of our democra- 
+cy, as of late, they have become its 
+worst enemy: political couch pota- 
+
+In light of the upcoming election, 
+I want to express my view on the 
+good nature and good logic of vot- 
+ing. Get out and do it; it's worth it 
+in the long run. 
+
+Our Constitution, Bill of Rights, 
+and body of law guarantee us 
+many individual and group free- 
+doms including of those of press, 
+speech, assembly, privacy, voting, 
+religion, etc. Only a minority of 
+people on this planet enjoy such 
+rights. 
+
+We in the U.S. are among the 
+lucky few. 
+
+But with this luck comes a 
+responsibility to protect these free- 
+doms and extend them to others. 
+
+Contrary to what the right wing 
+ideologues and Hollywood moguls 
+would have us believe, freedoms 
+are most often threatened not by 
+foreign invaders, but from within, 
+by lazy citizens. The dregs of socie- 
+ty taking advantage of the good 
+nature and goodwill of the govern- 
+ment they helped set up. 
+
+And freedoms are not usually 
+extended to others by bloody wars 
+for democracy, but by education 
+and grassroots empowerment. The 
+greatest sin in the political world, 
+then, it seems, is the citizen's, who 
+having freedom chooses not to use 
+
+By not taking action (or, even 
+worse, not voicing an opinion) on 
+the important issues of our day, we 
+do a disservice to the population 
+impacted negatively by the issue, 
+to our own consciences and to the 
+freedoms we take for granted as an 
+integral part of our free country. 
+
+We basically let others win by 
+holding back. When people do not 
+heed the call of change in our pres- 
+ent democratic government, we let 
+the opposing side win and let an 
+almost authoritarian ideology 
+reign supreme. Much like Nazi 
+Germany of the 1930's and 40's. 
+
+It's obvious that we disserve 
+those who are hurt by our negli- 
+gence to speak or act. Women who 
+will die from back-room abortions; 
+homeless men, women and chil- 
+
+
+
+dren forced to live on the streets; 
+weekend marijuana users serving 
+time in prisons; the disproportion- 
+ate number of minorities receiving 
+capital punishment; and our planet 
+(which is being ravaged by pollu- 
+tion) are just a few of the victims of 
+
+We also violate our own con- 
+sciences when we fail to act on our 
+beliefs. A belief not acted on is not 
+a beb'ef at all, but a mask behind 
+which our lesser selves hide. What 
+would have happened to the world 
+if Martin Luther King Jr. hadn't 
+marched in Washington D.C.? 
+Where would Cuba be if Castro 
+hadn't led a coup? Granted, Cuba 
+is communist but by God they are a 
+pretty successful country. 
+
+Remember the individual's con- 
+science is the bulwark of our con- 
+stitutional democracy. Our 
+founders protected it above all else: 
+giving it precedence over the gov- 
+ernment, and even the will of the 
+majority. They did this because 
+they realized that it is from the 
+individual conscience that human 
+progress is made. It is never the 
+majority that develops and pro- 
+motes a new idea leading to 
+human advancement, but a minor- 
+ity or a single individual. As 
+Hunter S. Thompson said, "When 
+the going gets weird, the weird 
+
+Finally, when we fail to partici- 
+pate in our representative democ- 
+racy, we betray those freedoms we 
+are lucky to have (and oft times 
+claim we hold most dear). Lazy cit- 
+izens encourage corruption. When 
+they choose not to use their politi- 
+cal power, some other individual 
+always steps into the vacuum. 
+
+When lazy citizens choose to 
+remain uneducated on current 
+events and issues, those with 
+money harness their political 
+power by using flashy advertise- 
+ments and other manipulations of 
+the media to hook them into acting 
+against their own and society's best 
+interests. 
+
+When this happens (as it often 
+does: S &amp; L scandal, federal budget 
+deficit, nuclear power and 
+weapons proliferation, tobacco and 
+milk subsidies, CIA abuses, ram- 
+pant pollution, etc.), the decisions 
+of politicians are led away from 
+protecting individual rights and 
+social goodwill toward protecting 
+their own personal interests or the 
+
+
+
+who back them. 
+
+
+
+This not only takes away from 
+our liberties, but it starts the coun- 
+try in a downward spiral. 
+
+It is up to the students of today 
+to take the lead in our participatory 
+democracy. They have had the 
+greatest advantage our society 
+offers: the advantage of an educa- 
+
+And they owe it to their country, 
+their society and all the less fortu- 
+nate people of their planet to use 
+their education to help make our 
+country and our world better. 
+
+Students not only have the edu- 
+cation, but also the energy and the 
+opportunity to make these impor- 
+tant and necessary changes. They 
+will one day have the most influ- 
+ence/ becoming the leaders of 
+
+
+
+Welcome to home of slow, 
+but durable, Mastodons 
+
+
+
+So, freshmen, it's official: 
+you're a Mastodon. 
+
+My editors told me to write 
+my article about advice for incom- 
+ing students, but I think there are 
+few people less qualified to give 
+advice than me. (After all, I 
+thought it was a good idea to take 
+seventeen hours of classes, work 
+for The Communicator and have a 
+job as a data entry clerk this past 
+semester.) More importantly, as 
+incoming college students, you 
+have already suffered enough lec- 
+tures and advice from parents and 
+teachers (and if you haven't yet 
+endured this, you will get plenty of 
+wisdom at your SOAR registra- 
+
+Even if you are just starring 
+your first semester of college, we 
+all cannot help but think ahead. As 
+a high school senior, making it to 
+the end of my first year of college 
+was unthinkable; I wouldn't even 
+let myself think ahead to the end of 
+the year. And even now, after mak- 
+ing through my first year, I still 
+can't think of what kind of rule one 
+could use to measure the success of 
+a first-year student. Each situation 
+is different, and every individual 
+holds themselves up to a different 
+measure of quality. Even the grad- 
+ing scales can't standardize suc- 
+
+
+
+cess. After all, an A may be the only 
+option for some students, while a C 
+may be the best other students can 
+hope for. So I can only guess what 
+"success" for the average college 
+student really represents. For first- 
+year students, I would say the best 
+measure is summarized in two 
+
+I would hope that every stu- 
+dent who started school here at 
+IPFW would make it past their first 
+year. Each new wave of freshmen 
+brings new faces, talent and bewil- 
+derment to the college campus; it 
+sustains and rejuvenates the cam- 
+pus body. Despite the seemingly 
+static face of the town, I can think 
+of no better time to be in Fort 
+Wayne, at IPFW than now. New 
+housing, a bridge that has changed 
+the Fort Wayne landscape, and 
+plans for more buildings seem light 
+years away from going to classes in 
+
+What makes our campus dif- 
+ferent from Bloomington or West 
+Lafayette (besides millions of dol- 
+lars) is the makeup of our campus. 
+We aren't just the 18-25 demo- 
+graphic; from high-school students 
+taking one or two classes to stu- 
+dents with families and established 
+careers, the student body can be 
+hard to define. Yet more and more 
+we find ourselves moving towards 
+a more traditional campus atmos- 
+phere. And as I wrote in a previous 
+
+
+
+Word of the 
+
+Week should be 
+
+'misunderstood' 
+
+
+
+Deal i dJtor, 
+
+I would li 
+
+Wordol l\wV 
+
+
+
+: Bel 
+
+
+
+They, for the most part, also have 
+the advantage of not yet having the 
+entanglements of more established 
+individuals: family, mortgage, car 
+payments, and job security to force 
+them to compromise their princi- 
+ples, or materialistic greed to cloud 
+
+It is up to our educated, forward 
+thinking, idealistic and energetic 
+students to provide the impetus lor 
+chance. 
+
+We can again be a prosperous 
+nation that shares its wealth and 
+freedoms with all its citizens and 
+all other peoples of the world. But 
+this can happen only if the educat- 
+ed youth of America cam the free- 
+doms they have been given by 
+exercising their political rights, 
+using their education, tapping 
+their boundless energies and let- 
+ting their conscience^ and idealism 
+point them in the right direction. 
+
+With freedoms, like talents, it's 
+use 'em or lose 'em. A democracy is 
+only as successful as its citizens are 
+vigilant, hard working and virtu- 
+ous. There are no easy answers to 
+
+Realize, students, you have no 
+magical remote control to change 
+the channels. If you want to stop 
+watching the spread of poverty, 
+pollution and repression in this 
+country and around the world, get 
+up off your butts and change the 
+channel to peace, prosperity and 
+environmental responsibility. 
+
+In a democracy we always get 
+the government no matter what. 
+
+But you know, when you express 
+your ideas and take action to 
+achieve them, benefit is what you 
+get. 
+
+You'll have that. 
+
+
+
+21 s ' h 
+
+I love the concept 
+the Week.'' The word WB8 
+"Fornication,'' and I read it and 
+decided a much better word for the 
+words that followed the title 
+would be "Misunderstanding." 
+
+I agree it is unfair that women are 
+called "Sluls" and men are called 
+"Studs" for being sexual hyperac- 
+tive. However, I think many Ihings 
+were misunderstood about sex 
+Notice, I said sex not fornication. 
+
+First of all, women and men are 
+designed differently this is olni 
+
+
+
+the write Bays she can understand 
+the regrets ol hangovers and over- 
+doses, she can't see why anyone 
+
+would rogtvl se\ outside of mar- 
+riage 1 will point out the obvious 
+Rrsl Sexual!) active people have 
+
+more chances ol netting STD's. 
+Yeah, yeah I know you can learn 
+this from any pub Hi service 
+
+» syphilis also can lead to 
+
+
+
+ous looking at th 
+
+
+
+
+daily the parts u 
+
+
+
+
+
+
+
+
+
+
+
+
+men, and men an 
+
+
+
+
+ike women. Now 
+
+
+1 am not saying 
+
+
+ts wrong for mei 
+
+
+to know how to 
+
+
+:ook and dress themselves, nor am 
+
+
+saying that wor 
+home bare-foot 
+
+
+nen should stay 
+
+
+and pregnant. 
+
+
+Afhat I am saying 
+
+
+s we are made to 
+
+
+compliment each 
+
+
+&gt;lher, not mimic 
+
+
+each other. 
+
+
+
+
+Men love sex, a 
+
+
+gain another late 
+
+
+breaking story. V\ 
+
+
+e need physical 
+
+
+ove. Women on 
+
+
+the other hand. 
+
+
+usually don't era 
+
+
+
+
+ove, but the emo 
+
+
+ional love. They 
+
+
+
+tendern lea and desires" In us for a 
+
+
+
+derstanding of this leelmg is lusi. 
+No opponents oi this article will 
+use wnal the writer said we would 
+use when she wrote, "Sex is bad! 
+Sex is evil!" We don't think that, we 
+think sex is awesome, more than 
+
+
+
+I llsl j. 
+
+
+
+sevil. 
+
+re night 
+
+
+
+it affection. So all of a sudden 
+men have confused affection as 
+sex, and women confuse sex as 
+affection from a man. These are 
+two different types of love that are 
+confused. When Iwo people are 
+married they can more understand 
+how to fulfill these needs, and 
+many others. 
+
+
+
+irld is th 
+that denying our natural urges [I 
+acceptable behavior." Previously in 
+the piece sex was a "natural and 
+enjoyable." Now we all have natu- 
+ral urges. For example after lunch 
+every day in my 1:30 class I have a 
+natural tendency. Due to the natu- 
+ral process of digestion, I have a 
+build up methane gas that I desire 
+to release. After a short amount of 
+thought I repress this desire. Later 
+in the class the teacher is continu- 
+ing to lecture and it is three min- 
+utes past time that class is over. I 
+have an overwhelming urge to 
+stand up and scream, "Shu! up, 1 
+hate this class and you are making 
+me late for work." Again I decide 
+not to do so. Why did I stop 
+myself? Well, because I had a quick 
+meeting with my conscience and 
+decided that it wouldn't be the 
+right thing to do. It was agreed that 
+it wouldn't be in the best interest of 
+the people around me. 
+
+I think that there are some huge 
+regrets to fornication. Even though 
+
+
+
+While I did disagree with many 
+of the author'9 points, I strongly 
+concur with some. Like the one 
+
+
+
+.■mug i 
+
+
+
+i Ihat • 
+
+
+
+inl lor i,k king of the 
+
+women in bed. Guys need to deal 
+with this Lust is strong, but that is 
+noj .in ex,i use Yeah it will be lough 
+to ignore, bill I know a guy who 
+could help you, Mel Gibson made 
+a movie about him six weeks ago. 
+Besides, after a guy's quest to beat 
+Will Chamberlain's record ends 
+and he finds himself actually in 
+love with a woman, I bet he just 
+might regret all the women of his 
+past. Yes, I think it is unfair that 
+women are called sluts but if you 
+don't want to be called that then 
+stop doing whatever it is you are 
+doing to make people call you that. 
+It could be just the way you dres9 
+like Britney Spears, the statement 
+from the author I most agree with 
+is ihe last senlence, "There is only 
+one thing to feel bad for: being 
+someone you are not for the sake of 
+appearance." I agree, I shouldn't 
+care what others think of me and 
+my convictions, the God who 
+made me has the only opinion that 
+
+
+
+column, hopefully we will be los- 
+ing our apathetic mentality as well. 
+Of course, our buildings are mis- 
+matched and built on a shoestring 
+budget, our amenities are limited 
+
+butt! 
+
+right direction. In a way it reminds 
+me of our mascot — slow moving, 
+but durable. 
+
+Granted, when IPFW chose a 
+school mascot they could have cho- 
+sen a nobler animal — maybe some- 
+thing not extinct, for example — but 
+I still think it fits our campus well. 
+This is a place full of contradic- 
+tions, and so it is no surprise that 
+such a young campus has a pre- 
+
+So what now? 
+
+Things won't be radically dif- 
+ferent for most incoming students. 
+School is school, no matter what 
+degree your instructor holds. The 
+bookstore will never stop scam- 
+ming students; the parking lots 
+will always cause problems and 
+the walk to Williams Theatre will 
+always make students late to class. 
+
+We aren't a noble or even 
+notable campus — right now at 
+least. But every person who i 
+
+
+
+and better themselves. 
+
+And so while I can't give you 
+any advice, I think that is some- 
+thing worth remembering. 
+
+
+
+DO YOU HAVE AN OPINION ABOUT L 
+
+a 
+
+SOMETHING IN THE COMMUNICATOR? I 
+
+1 
+| 
+
+Make your voice heard. I 
+
+
+
+Submit a Letter to the Editor | 
+
+i 
+
+AND LET EVERYBODY KNOW WHAT 1 
+
+
+
+Letters to the Editor should be no more thar 
+.even hundred words long. Submit youi 
+houghts directly to The Communicator 
+Suite 215, Walb Student Union, or email their 
+o stupaper@ipfw.edu. Remember to include 
+'our name, phone number, and your emai 
+iddress, if you have one. This information i; 
+leeded solely for verification purposes. Only 
+'our name will be printed in the paper. 
+
+
+
+Page 6 The Communicator 
+
+
+
+A&amp;E 
+
+arts and entertainment- 
+
+
+
+May 19, 2004 
+
+
+
+
+jJSjk^li&amp;sw 
+
+
+
+
+The Journey oj an IPFW Theatre Major 
+
+By Kurtis Meyers ■' was fun to see how far the 
+
+tk i",» mm . .„;,.,(„■. direclor, Harvey, would let me 
+
+go, which was pretty tar into 
+
+crazy land." 
+
+It was also a bit part that is 
+In the 1950 film, "All About Eve/' Bill Sampson (played by counted as her teas! favorite, and 
+Gary Merrill) exclaim- "Wherever there's magic and make "'^ ' s lhl ' role as a Functionary 
+believe and an audienc 
+DoWty may not break i 
+magitian or a large crow 
+just the s. 
+
+
+
+Dowry, an ll'FW Theai 
+December, was recently wn r 
+
+UronAM.mr^ and lead 
+
+"If you can't tell, 'l was 
+insisted. 
+
+After the pompom craz 
+wanting to be a vet, probably s 
+which continues today 
+
+
+
+
+
+
+n around 
+Dowry planned on 
+
+
+
+nsatiable required her 
+
+stage and create ner own animal 
+duate in language 
+
+"Yeah, I definitely paid my 
+
+
+
+
+
+
+Butt) 
+
+
+
+,. :,' 
+
+
+
+.,11,1. 
+
+
+
+street-urchin boy in the choTUj 
+had a solo and everything." 
+
+After the show closed, Dowty said, she had such a feelin, 
+of euphoria, thai sire no longer t|iiestioned when? her life vvouli 
+take her. 
+
+'] knew hoi o thai point on 1 i\ anted lo spend the ri'-l ot m 
+
+
+
+had lead or bit parts 
+
+A Mattress," "She I o 
+Charley?," "On the 
+"love, PaasiOTl and 
+"Macbeth.'TheTer 
+
+tioned, Dowty has 
+
+town, ranging from I 
+Fort Wayne Youthe. 
+
+
+
+with that shi 
+
+Dowty was bom in Fort 
+Wayne on July 29th, 1982, to her 
+parents, Nancy and Ron ("like 
+
+the Reagans, Republican and 
+all") and grew up in Leo. She 
+has five brothers and one sister, 
+
+from her love ot horses, and her place in the chronologi- 
+cal order is "somewhere in the 
+
+orsewoman," she said. middle," she said. 
+
+ie turned 12. She credits her parents for 
+
+ver.' and was cast as a her attitude towards success and 
+
+really excited because I ^ ^ general. 
+
+
+
+laded, she then moved &lt; 
+
+
+
+"Blood Wedding 
+it. In addition the above men- 
+i other pnxluctions around 
+
+
+
+"They showed me that you 
+don't know if you can do it or not 
+if you don't try," she said, "and I 
+try to continue that tradition 
+
+As for her schooling, 
+Dowty was originally just a 
+Theatre Major but now she has 
+bumped that status up to 
+Theatre Major with a Emphasis 
+on Directing. She hopes that the 
+emphasis on directing will help 
+her understand the craft. 
+
+"Understanding how to 
+
+
+
+'''Them 
+
+
+
+ie role of Crone in "Snow White" lor the direct ■ 
+
+re, to the role of Crystal in the Arena me a better actor." 
+entation of "Little Shop of Horrors." Working day and night 
+
+ed three KC/ ACTF Irene Ryan nomina- with school, theatre, and work is 
+
+iikl-s in "She loves Me," "The Heiress," not enough tor Dowty. In addi- 
+
+attress.' Hon to her already hefty sched- Mel 
+
+3 great time doing shows here at IPFW. tile, Dowty is also a proud 
+
+_. .__ &lt;.___■_.!. ... iv,r ,.( mrui't rioit.-. r-.* 
+
+
+
+
+Dowty, IPFW Theatre Major, will graduate in December of 2004 
+
+
+
+e often paired up with b er of IPFW's Delta Gamma Women's Fraternity. Dowry is as be a cast memher in the Summer Revue at IPFW during the 
+some of the same people, and that is true in her case. Dowty thankful tor the wonderful leadership opportunities available to ln,w R'^rs Festival this 
+often appears opposite lack Stat khotise, an assignment she wel- nt ' r through the fraternity, not to mention the chance to conf 
+
+
+
+But that's 
+the family tradition. ' "I will also be teaching acting for junior high and high 
+
+"Mv mother is a Delta Gamma," she said. school kids through the Community' Arts Academy, and have I 
+
+Throughout her college career, Dowty has remained a very a ;' so n ' ue A freelance gig in l : .vansville." t ^ jt _ 
+e member, even serving as President tor a tew of them. Her Four years of schooling isn't enough lor Dowty, however. , 
+
+We enthusiasm for the Delta Gamma chapter is not difficult to see. Although her plans for what to do come graduation i 
+'1 realized on a commuter campus, if you don't 
+Larry L'Life, who directs a involved ii 
+also Chair of the Theati 
+
+
+
+v best friend, but on stage 1 find we have 
+? know each other so well, we respond to 
+Molly on stage. We've done everything 
+the chorus to leading lady and 
+e I leimke Library togethi 
+
+
+
+"■["'"'-■n 
+
+
+
+orked with him on numerous productions for the 
+
+last four years, and we just really know how to communicate would encourage any new student to get involved and stay 
+
+with each other to achieve the final product. I have a lot of involved during their stay at IPFW. It's the difference between 
+
+respect for his vision." just a degree and a degree with experiences. 
+
+When it comes to la vorite roles, it's not always the lead that Phis summer will he not be a break by any means, consid- 
+
+attracts her eye Some of her most prized performances have eri ng Dowty 's workload. One of her planned projects is is a 
+
+been the in the bit parts. production of "Ragtime" with the Fort Wayne Community 
+
+"My favorite role has been The Wardrobe Woman' in the Schools. 
+Civics production ot Singing in the Rain,'" she said. "She was "' was cast in the role of Mother, as sort of a "community 
+
+this bitter la/.y old woman who hated working at the studio, and K U1 ^ 1 artist" and will be playing alongside the high schoolers 
+
+
+
+December . 
+way, you will get lost in the crowd, " she sa7d. continuing her education is essential, 
+ion t get involved you could mis- out on important "Having both a Bachelor's Degree and a Master's Degree 
+
+I don't want to regret an\ thing from these years I are essential. I want to be incredibly polished and knowledge- 
+able when I enter the professional 
+theatre scene. I want to have that 
+extra foot forward when it comes 
+time to make career decisions." 
+
+Dowty is a bit nervous about 
+that day where there is no more 
+school to be had. 
+
+"After all, I've gone to school 
+since I was four. Suddenly, I have 
+to grow up' and it's kind of scary. 
+I'm just glad I've had college to 
+prepare me for what's to come." 
+
+When it comes to working, 
+show business is really the only 
+business Dowty knows. 
+
+"I work in the costume shop 
+here at IPFW. It is difficult to carry 
+
+
+
+days a week." 
+
+In addition to the jobs lis- 
+tened above, other m m-achng gigs 
+are her part-time jobs at Some 
+Wear on Main, a dress shop 
+town, and the adjoining Stoner's costume shop. 
+They're owned by the same people, so I go where I'm 
+also directed two shows at Leo High 
+try to stay as involved in theatre as I 
+
+
+
+
+1/0* 
+
+
+
+0&amp;*ES 
+
+
+
+that till out the re-! of the 
+
+
+
+needed," she sail 
+School, my alma 
+can, and not just stuck waiting tables. 
+
+Theatre mac be her first love, but that doesn't me; 
+is completely free of the trivial and redundant jobs the 
+are subject to. 
+
+"I must admit, I once worked at L.S. Ayres during the hoi 
+
+
+
+
+
+
+Q^DTM, 
+
+
+
+mwm 
+
+
+
+Starburst or Skittles? Letterman Rupert or Survivor Rupert? 
+
+Starhurst. I like tn wrap the empty Letterman Rupert, he has no idea what 
+
+wrapper back into their original shape he has gotten himself into 
+
+Shrek or Finding Nemo? 
+
+Shrek, I've never seen Nemo 
+
+Colby or Pepperjack? The Simpsons or Family Guy? 
+
+Colby, of course' S.mpsons. without a doubt 
+
+Mary-kate or Ashley? 
+
+/ like the sporty, sassy one. I buy their cheap 
+makeup sometimes 
+
+
+
+Christina or Britney? 
+
+Christina 
+
+
+
+Conan or Kilborne? 
+
+Conan and his V2 hard Taurus 
+
+
+
+
+May 19, 2004 
+
+
+
+A d &amp; E 
+
+- arts and entertainment- 
+
+
+
+The Communicator Page 7 
+
+
+
+Rieu brings purpose to music 
+
+
+
+sin^in^. Ii&gt;-i&lt;n^. .Hid en-i-nibk' practice - ait 
+the goal of all this [earning becomes indistinct. 
+Or it entirely vanishes from sight. 
+
+But there is ,i purpose to music -a reason 
+for this work to get through the disciplines of 
+music. It is to provide a pause in ordinary life, 
+to enjoy the extraordinary, a chance to break 
+aw.iv from c\er\d.i\ strc-- to find composure 
+and rest. Music can be a taste of heaven. 
+
+This return to music.il purpose w.is evi- 
+dent by Andre Rieu and the |ohann Strauss 
+Orchestra in the May 1 concert at the 
+Coliseum. It was a performance to remember. 
+The concert opened with the musicians 
+entering the white and gold stage Roses 
+topped the tiered ivhite .ind gold st.i^e panel- 
+ing, lending an aura of grace that was accen- 
+tuated by the musician^' costumes. The men 
+wore black and white tuxes and the women 
+wore jewel-hued ball gowns in a myriad of 
+colors: yellow, periwinkle, green, and rose, to 
+name a few. Reminiscent of the Strauss era, 
+these dresses had sweepingK full skirts that 
+sparkled in the lights. 
+
+Once the musicians were settled, expec- 
+tation hushed the auditorium as the audience 
+waited for Andre Rieu to appear. He was 
+greeted with a standing ovation as he walked 
+onstage. As the audience hushed, Rieu quick- 
+ly turned and raised his violin to the orchestra. 
+
+
+
+; launched into "A Night In 
+Venice", and the concert began. Piece after 
+piece was played, including music from the 
+"Blue Lagoon", the Straus-, Morning Papers" 
+wait/, Tea for Two" and "Somewhere over 
+the Kainbow Vocalists traded programs dur- 
+ing the "Morning Papers" waltz, soloed in 
+such pieces as "Somewhere Over the 
+Rainbow" and took over playing some of the 
+instalments during "Tea tor two." This piece, 
+bv the way, was done as the men of the orches- 
+tra completed a genteel sot I -shoe /chorus line 
+in tuxes, gloves, and umbrellas. 
+
+The entire orchestra demoi i s i ra led 
+superb showmanship in their execution of the 
+music; the piani-i worked without music, the 
+percussionists had impeccable timing, and not 
+once was a page rum anywhere \ isible from 
+within the orchestra. Rieu performed entirely 
+
+
+
+things must * 
+
+did - after five encores. The audience gave 
+
+repeated standing ovations as the orchestra 
+played "Amazing Grace", "America the 
+Stars and Stripes Forever" and 
+
+
+
+Rockwell's work communicates 
+through affection and realism 
+
+
+
+Beautiful" 
+
+finally, Brahm's "Lullaby." The final touch 
+came as the backdrop lighting faded in 
+waning full moon in a star-spangled sky. 
+The concert may have come to an 
+but for the audience it was * 
+Wiedersehen" ('til we meet again); 
+of this performance would return for 
+time. This was truly music. 
+
+
+
+
+mmm 
+
+
+
+Have a hankering for seeing a print exhibition? Then you are in luck. 
+Come out to Artlink at 437 East Berry Street for the 24th Annual National Print 
+Exhibition. This exhibition has an opening reception on May 21 from 7 — 9 p.m. 
+56 makers of original prints will have a total of 62 pieces in the exhibit. 
+$2,000 in cash awards will be presented to the artists selected by Robert Lee 
+Mejer. Distinguished Professor of Art from Quincy University, Quincy Illinois. 
+
+All media of printmaking wilt have examples in the collection. Colorful 
+serigraphs will hang along with charming black and white mezzotints. Sharply 
+incised etchings contrast with misty lithographs of landscapes. A predomi- 
+nance of landscapes is featured in this year s collection. There are whimsical 
+renditions of animals (including Mickey Mouse) color woodcuts, intaglio and 
+various combinations of techniques. 
+
+Lincoln Financial Group sponsors this exhibition each year. This spon- 
+sorship enables Artlink to produce a catalog which is free to all visitors. The 
+catalog contains definitions of ail printmaking methods and also lists the partic- 
+ipating artists and the award winners. The exhibit will run through June 30, 
+2004. Many of the prints will be for sale. At the end of the exhibition the art- 
+work will be shipped back to the artists who reside in 21 different states. 
+
+Saturday, May 22 at 8:00 p.m. and Sunday, May 23 at 2:00 p.m.: Embassy 
+Follies 2004 Lights on Broadway. Join the Embassy for this exciting all- 
+Broadway revue celebrating the Grand Finale of its 75th Anniversary and featur- 
+ing production numbers from your favorite Broadway shows. Tickets: $19.28 
+(Historic Patrons Circle), $14 and $7.50 for children 7 and under. On sale now at 
+the Embassy Box Office, all Ticketmaster locations, Ticketmaster.com or charge- 
+by-phone 260-424-1811. 
+
+Tuesday, May 25 at 7:30 p.m.: Fort Wayne Community Band Concert. 
+Tickets: $10 for adults, $7 for students and seniors, $2 for IPFW students with 
+student ID. On sale Wednesday, May 5 at 10 a.m. at the Embassy Box Office. 
+
+Tuesday, July 20 at 7:30 p.m.: Jewel, Live In Concert. Tickets: $45.50 and 
+$38. On sale Friday, May 7 at 10 am. at the Embassy Box Office, all 
+Ticketmaster locations, Ticketmaster.com or charge-by-phone 260-424-1811. 
+
+The IPFW Theatre Department will hold auditions the week before school 
+begins, come Fall of 2004. Be sure to contact the theatre department for more 
+information at 481-6551. 
+
+
+
+If you are a non-profit organization and you would like to have your new 
+appear in the Community Calendar, please contact Kurtis Meyers, A&amp;E Editor, i 
+the Communicator, at (260)481-6584 or at www.stupaper.ipfw.edu. 
+
+
+
+Feeling -Hungry? 
+
+Save 10% on your food bill with your IPFW 
+Student ID at The Munchie! 
+
+
+
+• Breakfast available at the Dupont location 
+• Outside dinning with fire pit at Georgetown 
+
+Great drink spedals every day of the week!' 
+
+live music on Wednesdays (Dupont) and Thursdays (Georgetown) 
+
+
+
+two locations: 
+Dupont 
+
+
+
+
+"There has to be total c 
+stated Norman Rockwell Although this was 
+said in reference to his Saturday Ewninj; Post 
+coyer material, it could be said ot the majority 
+
+At the exhibit, one can see firsthand the 
+communication of the artist thmuph his work 
+Take for instance, his piece Spelling Bev " The 
+first lithograph Rockwell produced, it pictures 
+l v| students standing in a row, waiting as a 
+
+timid speller watches the listening teacha 
+Some of the students nervously twist their 
+hands, others lean forward, grinning, while a 
+few watch the girl as if to say "Come on, you 
+"" " do it." It tells a complete story ot a small 
+
+
+
+e.ining These pictures also record the 
+&gt;t historj lake for example 'The 
+• We All Live With. Hie ruler, pencils, 
+ks the little girl carries remember a 
+'lekidsi.iineviovershilted backpacks 
+idv from the School Days" portfolio 
+kind and son studying at a card table, 
+at the red leather table top, the shiny 
+ile chairs, and the hook propped 
+he lamp Card tables nowadays are 
+;r.i\ or brown. And collapsible chairs 
+look like grey humps ol recycled dis- 
+nut dining iwnu hairs limlly. lookal 
+;t the lamp, It looks like 
+
+
+
+affected by his culture, said 
+
+
+
+age, grade level, or ability. 
+
+Move on to Rockwell's illustrations from 
+Mark Twain. Here, one gels the full flavor ol 
+Rockwell s sense ol humor "Mien 1 Wnrn't No 
+Harm In Them" catches the action just after the 
+old lady has seen the garter snake and the boys 
+are watching the outcome, file snake is iiiciuU- 
+itively looking up from the floor as the lady 
+leaps, shrieking, spoon living through the air, 
+bowl falling ira/ilv as the bailer lurches over 
+the side. 
+
+Finally, take a look at "The Problem We 
+All Live With " Again dealing with the issue of 
+education, this puluie portrav s I he determina- 
+tion of progress as the little A Irk an- American 
+girl is escorted to school by four burly mar- 
+
+
+
+
+
+
+Each picture illust 
+
+
+
+
+
+
+Rockwell v 
+Linda Dykhuizen, Pubfic Information 
+Coordinator lor the RVM A. Rockwell's ability 
+to "look at lite in a eery realistn way ,nul paint 
+what lie saw can be BppIW ialed by artists and 
+
+connoisseurs lodaj who knows how many 
+
+lominon Dungs ol Rockwell's time we would 
+be completely ignorant ot had Rockwell not 
+
+Happily. Rockwell did ivcord them, and 
+these details CM be seen at the Norman 
+Rockwell Lithographs- exhibits on loan to the 
+hurl Wayne Museum ot Art from the Powers 
+collection ol t_ hency, Washington The exhibit 
+is open until May Z\ The museum is open 
+Luesdav through Saturday trom ten to five and 
+
+on Sundays from noon to five. The second 
+
+I liiirsdav of every month the museum is open 
+until eight. Wednesdays are free to everyone, 
+but on other days, its S3 for students, $5 for 
+
+adults, and $10 for families. 
+
+
+
+Have a serious interest in journalism? 
+
+The 2004-2005 staffing of 
+The Communicator takes place soon. 
+
+Stop by Walb 215 or email us at 
+stupaper@ipfw.edu and get involved. 
+
+
+
+GETTING YOUR OWN PLACE THIS YEAR? 
+
+
+
+GET MORE SPACE! 
+
+If you're moving into your own new aparment or dorm this fall, you're 
+
+probably already realizing that you have more stuff 
+
+than you have room for. 
+
+
+
+Let Coliseum Self Storage Help! 
+
+
+
+
+Fort Wayne's Premier Storage Facility 
+
+Featuring: 
+
+• 24 Hour - 7 Day-A-Week Access 
+• Mailbox Rental with 24-Hour Access 
+
+• Climate Controlled Units Available 
+
+• Digital Security (The Best In Town!) 
+
+• Resident Manager 
+
+• Storage Insurance Available 
+
+• Boxes, Locks and Moving Supplies sold on site 
+
+• Located Conveniently Near IPFW! 
+
+
+
+Students &amp; Faculty: Save $20 Off Your Move-In! 
+
+
+
+Coliseum Self Storage 
+
+1121 North Coliseum Blvd. 
+Fort Wayne, IN 46805 
+
+E-mail: sales^coliseumserfstorage.corn 
+
+Phone: (260)420-1111 
+
+Web: http://www.col iseumselfstordge.com/ 
+
+
+
+S 
+
+
+
+Page 8 The Communicator 
+
+
+
+On Campus 
+
+
+
+May 19, 2004 
+
+
+
+Variety of organizations available to students 
+
+
+
+Continue h 
+
+
+
+Page 2 
+
+
+
+2099. 
+
+• Fellowship of Christian Athletes; 
+Courtney Nicley at 485-6523 or 
+email fca@ipfw.edu. 
+
+• Global Christian Fellowship; 
+Nick Johnson at 749-7533 or email 
+gcf@ipfw.edu. 
+
+• InterVarsity Christian l-i-llowsliip: 
+Amanda Callen at 436-2692 or 
+email ivcf4Sipfw.edu. 
+
+' Newman Catholic Fellowship: 
+Sister Patricia Anne Murray at 481- 
+6994 or email 
+
+srpatriciaann@yahoo.COm. 
+
+• Pagan Student Alliance: Jessica 
+Martin at 493-0308 or email 
+pasjpfwirvyahoo.com. 
+
+SflciaLGreeh Organizations 
+
+• Delta Gamma: Sara Shepherd at 
+Bl8hepQaoJ.com or 
+
+dcll.ie/'/ipfw.edu. 
+
+• Greek Council of ll'FW: Justin 
+Silvers at 385-6115 or email 
+sig_ep_silv@yahoo.com. 
+
+• National I'anliellenic Association 
+Kristin Brockhaus at 485-2002 or 
+email flowerul99@aol.com. 
+
+• Phi Kappa Theta: |ason Johnson 
+at 341-3842 or email 
+phikiipscripfw.edu, 
+
+• Pi Beta Phi: Deanna Price email 
+at dprice.l'J 1 3@aimcast.net. 
+
+
+
+T 
+
+
+- 
+
+
+' r 
+
+
+_____ % 
+
+
+■ 
+
+
+W 4 
+
+■ x C3l ^ Jr\ 
+ft 
+
+
+Lm. 
+
+
+r 
+
+
+L-~ 
+
+
+
+Two members of ASL Pah!, a club for those studying or livin 
+Language as a primary or secondary form of communication, 
+the 2004 night of "It's A Deaf, Deaf, Deaf, World." During the 
+only communication through ASL or written words. 
+
+
+
+File photo by Mandie 
+
+
+
+a life with American Sign 
+ign with other attendees at 
+tight, no speech is allowed. 
+
+
+
+Special Interests Croups 
+
+
+
+
+* Anorexia Nervosa 
+
+Associative Disorders: 
+
+Amber Reiff at 481- 
+
+6544 or email 
+
+anad@ipfw.edu. 
+
+' Arts Group: John 
+
+Swihart at 637-6037 or 
+
+email 
+
+.11'K,;[|V']'iphv,edu. 
+
+* ASL Pah! Club: Erin 
+Bower at 574-238-5532 
+or email vcr52@hot- 
+mail.com. 
+
+* Association of 
+Burmese Students; Zar 
+Wint at 745-4905 or 
+
+
+
+i,impti'-hopiAi.'nt&lt;jr'!'ivjhoo.com. 
+
+• Chess Club: Luis Palacio at 385- 
+5847 or email cc@ipfw.edu. 
+
+• IPFW Circle K: Jennie 
+
+i ''Sh.uiejinc^sx ,il |[Tinicot^"7 , lioi 
+
+circlek@ipfw.edu. 
+
+• Coalition for Social Justice: Tasha 
+)1: Chris Sara at 704-6292 or email fmradac- 
+'2-9627 or Hvists@comcast.net. 
+
+i 1 * Dance Dance Revolutionists: Joe 
+elOl.jate- or Stephanie Powell at 486-8230 or 
+email chocobojoe@comcast.net. 
+
+
+
+* IPFW Dance Club: Cher Blosser at 
+482-7969 or email dance@ipfw.edu. 
+
+* IPFW University Democrats: 
+Jeremy Hudon at 750-5787 or email 
+ipfwdems@yahoo.com. 
+
+* Delta Sigma Pi: Tina Alberson at 
+602-4125 or email Jsp@iptw.edu. 
+
+' Equal Rights Education Network 
+of IPFW (EREN): Jeff Sterling at 
+433-0423 or email 
+
+eren@erenipfw.com. 
+
+* For The Future; Eugene Williams 
+at 385-7210 or email 
+
+
+
+ebwilliami2« , hotmail.com. 
+
+" Hispanos Unidos: Joshua Oyer at 
+
+489-7044 or email hu@iphv.edu. 
+
+International Student 
+
+Organization: Helga Portela at 
+hportela@yahoo.com or email 
+iso@ipfw.edu. 
+
+* Leaders of Tomorrow: No infor- 
+mation provided. 
+
+* IPFW Campus Lions Club: 
+Alfredo Conrreras at 894-1289 or 
+email contra01@ipfw.edu. 
+
+* Mastodons In Action (M.I. A.); 
+Joshua Hunt at 585-3830 or email 
+josh_hunt@hotmail.com. 
+
+* NE Indiana Badminton 
+Association: Aaron Schneider at 
+435-1458 or email neibf@ipfw.edu. 
+
+* Student Activities Board (SAB): 
+Erin McConaha at 481-6590 or 
+email sab@ipfw.edu. 
+
+* Student Wellness Peer Education: 
+Helen Espinola at 482-5805 or 
+email sweg@ipfw.edu. 
+
+* Students for a Free Tibet: Sara 
+Conrad at 484-0879 or email 
+sft@tpfw.edu. 
+
+Students Government 
+
+Association (IPSGA): Chris Yahne 
+at 481-6588 or email 
+srupres@ipfw.edu. 
+
+* United Native American 
+Students: Eva Howe at 456-4637 or 
+email unas@ipfw.edu. 
+
+* Universal Gaming Association: 
+Paula Brandt at 414-6728 or email 
+
+
+
+* Visual Production Group: 
+William Elliott at 338-1933 or email 
+u illiam ellkitlK'ven/on.net. 
+
+* IPFW Waterski and Wakeboard 
+Team: Andrew Hipskind at 485- 
+IW45 or email wwt@ipfw.edu 
+
+
+
+■ liangladesh Student 
+
+Mahmuoui Bhuiya at 
+
+483-4558 or email 
+
+
+
+' Black Collegian 
+
+United Native American Students tra- Caucus: Gregory 
+
+ditionally holds pow wows for chil- f"*^' ^J 4 °; 
+
+dren every year, and has also held the g S t ar7 Lo%_hoo!co m . 
+
+celebrations for other reasons through * Campus Girl Scouts: 
+
+the years of the organizations exis- Shannon Johnson at 
+
+tence. UNAS is one of about a dozen 636-7675 or email 
+
+groups with cubicle space in Walb cgs@ipfw.edu. 
+
+Student Union's IPFW Organizational ' Cam A P u? ~° pe 
+
+Suites _ Center: Ashley Quale 
+
+** at 492-0133 or email 
+
+
+
+
+Student Activities Board sponsors a myriad of events throughout the school year, includ- 
+ing comedians, concerts, speeches and picnics. Above, three IPFW students relax during 
+the barbeque bash held during the closing weeks of classes. 
+
+
+
+Have a great summer. See you in August! 
+
+
+
+GREAT JOB OPPORTUNITIES! 
+
+
+
+We're hiring students, part-time NOW and FULL-TIME during summer and breaks! 
+
+
+
+Home City Ice 
+
+
+
+Flexible Hours and GREAT PAY!! 
+
+Route Delivery Positions Available 
+
+We Offer 10-40+ Hours/Week! 
+
+S6.50 to $12.00+ /Hour 
+
+sat part-time hours are available and we oiler schedute flexibility. Work around your 
+
+school schedule with morning/afternoon and weekend hours. 
+
+NO EXPERIENCE NECESSARY! 
+
+Train in one facility during school, and work in another dunng summer break! 
+
+Schedule an interview today and bring a friend! 
+
+CALL TODAY: 1 (800) 622-6566 
+
+
+
+Or visit us at vmw.homecityice.com to fill out an online application! 
+
+
+
+
+
+
+Planning on Staying Close to 
+God this year? 
+
+So Are We! 
+
+Join us at Good Shepherd United Mettiodlst Church. 
+
+
+
+http://www.fwgoodshepherd.org/ 
+(260)483-8816 
+
+
+
+ch for our student welcome events! 
+
+• 6 Worship Opportunities 
+• 24 Fine Art Ministry Groups 
+• Rich, Growing Adult Sunday School 
+n Inner City Ministry Campus at Open Arms 
+
+
+
+
+May 19, 2004 
+
+
+
+Sports 
+
+
+
+The Communicator Page 9 
+
+
+
+IPFW's Athletics future relies heavily on Pope 
+
+
+
+Athletics, academics, 
+attitude set to lead 
+Mastodons march 
+
+
+
+think v 
+
+
+
+When Mark Pope took over the posi- 
+tion of Athletic Director on July 2, 2001 . he 
+knew that the spot would require .i large 
+amount of work. 
+
+And three years later, all of that work 
+and more is paying off day by day. 
+
+Pope left ,i 12 year long position ,il 
+Lincoln National Corporation, where he 
+worked with the litigation section of 
+Lincoln's Law Division and with federal 
+relations to come to IPFW at the request ot 
+Chancellor Michael Wartell. 
+
+"I think it is needed to change your 
+career path every so often to stay fresh and 
+shi\ vibrant in your piokSMonal life," said 
+Pope. "It (the Athletic Director position) 
+was so different and unique [mm a nv thing 
+I have done in the past." 
+
+Pope's initial goal after obtaining the 
+position was to get everyone in the depart- 
+ment going in the same direction. Pope 
+aimed for this by organizing a retreat. 
+
+"Certainly the biggest issue was the 
+move from Division II to Division I," said 
+Pope. "I don't think anyone really under- 
+stood the reasoning for it or if we could be 
+successful." 
+
+Once Pope became more comfortable 
+in his spot and with his relationships with 
+his staff and coaches, be strived to person- 
+alize his goals for athletes and coaches. 
+
+"One of my primary goals is to get our 
+grades up to where we can use that as one 
+of our points of pride," said Pope. 
+
+The academic goal Pope set for a 3.0 
+GPA is now on the brink of being accom- 
+plished. During the Fall 20M3 semester, the 
+overall GPA for athletes was a 2.95. 
+
+As far as other points of emphasis, 
+Pope really strives for more student partic- 
+ipation in athletic events and to find some 
+conference affiliation for the teams. 
+
+"Students are becoming more and 
+
+
+
+» part of our events," said Pope. "I 
+cceeded in some respects. 
+I am not satisfied with where we are right 
+now. But I think we have moved the needle 
+quite a bit in the right direction." 
+
+Athletics has worked with many 
+
+t roups, including SAB and Alumni 
+elations, across campus in the last year in 
+hopes to get students involved Pope hopes 
+that people around campus will begin to 
+recognize athletics as a partner in the 
+growth of the university. 
+
+Now, three years into the position, 
+Pope has begun a daily routine that 
+involves sitting down with coaches and 
+staff, planning future events and usually 
+with student athletes. 
+
+Yet, those events are not the most 
+important part of his day. 
+
+"I spend at least one task everyday 
+involved with trying to get us into a con- 
+ference, because to me, that still remains 
+the mission critical aspect of our depart- 
+ment," said Pope. "I have seen my coaches 
+struggle, I have seen my coaches lose 
+recruits because we are not in conference, 
+and to me, that is the single biggest setback 
+in the three years thai I have been here." 
+
+As to where the Mastodons are cur- 
+rently on the quest for a conference, Pope 
+would not say anything other than that he 
+is "cautiously optimistic." 
+
+However, talk and rumors about rela- 
+tionships with the Hori/on League and the 
+Mid-Continent Conference have been at the 
+forefront for sometime. 
+
+Another point of pride Pope sees with 
+the department currently is with the 
+recruiting process, especially with foreign 
+athletes. 
+
+"I firmly believe in the issue of diver- 
+sity for the same reasons that many others 
+do," said Pope. "What I need is people of 
+different backgrounds and educations and 
+genders and races to broaden my view of 
+the world to get me thinking in different 
+
+
+
+the many Mastodon teams. The men's vol- 
+leyball team alone boasts athletes from five 
+different countries. 
+
+While Pope aims to succeed in his 
+
+
+
+
+Athletic Director Mark Pope plans on helping improve many aspects of 
+IPFW Athletics in the coming year including attempting to attain con- 
+ference affiliation. 
+
+
+
+selected an 
+
+of years, fans have shown 
+Football program. And on numerous occa- 
+sions, Pope continuously referred to a 
+"never say never" policy, holding the door 
+open tor the future. 
+
+"The minute you close your mind to a 
+new idea, it really stops any opportunity 
+for it to come forward," said Pope. 
+
+However, not every aspect of the past 
+years has been completely positive, List 
+spring. Pope came under fire from some 
+athletes for the elimination of the men's 
+track program. 
+
+"It was the right decision then and it is 
+the right decision now," said Pope. "The 
+
+
+
+mens track program was underfunded and 
+it didn't have the necessary resources 
+around this campus to make it better." 
+
+Pope pointed out that despite popular 
+opinion, the decision to discontinue track 
+and introduce men's golf were not linked 
+and instead were more part of adhering to 
+Title IX as the program goes through the 
+NCAA Self Study Certification Process. 
+
+"The question is how do you respond 
+to adversity, because adversity is going to 
+come," said Pope. "You are going to have 
+setbacks in your life and how you respond 
+to that is what is going to determine your 
+
+
+
+
+Athletic equality lacking 
+
+
+
+Title IX governs the overall 
+equity of treatment and opportuni- 
+ty in athletics. 
+
+It is all right there in stone in 
+Title IX's application to intercolle- 
+giate athletics. Yet how fair and 
+equal is the treatment of sports 
+here at IPFW? 
+
+For one, it is obvious on this 
+campus that men's sports are gen- 
+erally given more prestige and 
+time than women's sports. 
+Though, there are a few excep- 
+
+But not only are men's sports 
+given somewhat preferential treat- 
+ment, certain programs in the 
+men's department are cared for 
+more than others. 
+
+For example, volleyball and 
+basketball are given way more 
+hype by the athletic department 
+than any of the other men's sports. 
+
+And yes, those sports do gai- 
+ner bigger crowds, yet those have 
+to be due in part to how much sup- 
+port they are given at IPFW and in 
+
+
+
+the 
+
+
+
+Yet they never fail to feature 
+David Simon or Matt Zbys/ewski. 
+
+Don't get me wrong, Simon 
+and Zbyszewski are two of our 
+best male athletes. But shouldn't 
+there be equal coverage for superb 
+male athletes like Ian Luya on the 
+soccer team or Jason Horvath on 
+the baseball diamond? 
+
+I understand from a journal- 
+ism standpoint, that the JG and the 
+News-Sentinel (among other 
+media outlets) have to cover what 
+will interest their readers. And the 
+readers in general prefer more than 
+anything male athletics and bas- 
+ketball in general when it comes to 
+
+
+
+At IPFW, the standards and 
+practices should be a little differ- 
+ent. But they aren't. 
+
+If the women's track team 
+hadn't broken a multitude of 
+records this season, would they 
+have gotten any recognition? I 
+think not. 
+
+If it wasn't for the Soccer 
+Showcase in the early Fall, would 
+soccer get more than a momentary 
+glance? Not really all that likely. 
+
+So who really has equal 
+opportunities? Does any male of 
+any other sport have the the kind 
+of treatment that Simon has? 
+
+For that matter, does a female 
+in that same sport get the same 
+kind of treatment that David 
+Simon does? 
+
+And no, I am not picking or. 
+Simon, just using him as an exam- 
+ple. David Simon is a nice and gen- 
+uine person and doesn't really ask 
+for any of the holier-than-thou sta- 
+tus that people to bestow on him. 
+
+But he still gets it. While the 
+men's cross country runners or 
+women's tennis players work just 
+as hard, men's basketball garners a 
+majority of the school's pride and 
+prestige. 
+
+It is not fair and it is not just, 
+but it happens. 
+
+Last spring, talk of Title DC 
+and athletic equality ran amuck on 
+campus when the men's track pro- 
+gram was eliminated. But wnere 
+did the equality go? 
+
+And yes, the attention and 
+hype to some sports (i.e. men's vol- 
+leyball) is mostly deserved. But 
+why can't every other team get 
+that same level of respect? 
+
+Maybe one day we will be 
+blessed with the addition of a Title 
+X in which all athletes and sports 
+get fair treatment. 
+
+Hmm... Title X, where every- 
+one gets some love, not just the 
+teams that an athletic department 
+dictates. 
+
+
+
+Simon Declares 
+
+Continue froi 
+
+
+
+for NBA Draft 
+
+i Page, One 
+
+
+
+
+ight against 
+
+
+
+addresses the media during a 
+May 18 Press Conference. 
+
+
+
+honor this season, including a career i 
+Oakland, with 33 points and 14 rebound; 
+
+Simon's numbers have- improved each year, and 
+with a solid core of returners and good lineup of 
+incoming athletes, all signs have been pointing to 
+another breakout season for Simon in 2004-2005. 
+
+"We all want him to slay, but we know Dave has 
+to do what is best for him. We'll be happy if he stays 
+and we will be happy for him if he goes," said Iresh- 
+man teammate Beau Bauer. 
+
+Widely recognized for his strong 3.3 GPA, Simon 
+does intend on completing his college school work 
+soon, even if he does turn pro, though be only has two 
+classes left to complete his i hemistry degree. 
+
+While Simon has yet to speak to many experts 
+and scouts, he has spoke to former IPFW Assistant 
+Coach Cliff Levingston about the process. Simon feels 
+comfortable speaking with the former NBA player 
+since he has been through tin- experience before. 
+
+Like most teammates, graduated senior Keion 
+1 lender son, who has been Simon's teammate since 
+David transferred from Loyola-Chicago, is firmly 
+behind the decision. 
+
+"If he makes it, I will be one of his biggest sup- 
+
+
+
+the situation is really thai Dave wants to get his name 
+out and position himself. He's got to do what's best 
+for Dave Simon," said Noll. "If people are looking at 
+him and looking that maybe he is ready, then he'll 
+take a chance, then it's how it is going to be." 
+
+Noll, in contradiction to Simon's strong stance on 
+going through the process, believes that Simon will 
+return for his senior season, something Simon dispels 
+
+"In the beginning stages, we hadn't made a spe- 
+cific choice," said Simon. "I think what he (Noll) was 
+trying to get at is thai I have left the option open. That 
+might be where the inconsistency came from." 
+
+Simon worked to an All-Independent First Team 
+
+
+
+porters. If he v 
+next year &lt; 
+
+
+
+iake it, 
+
+
+
+vill be a shoe in," said 
+Henderson "When a learn looks at Dave, they will see 
+that his best basketball days are ahead of him." 
+
+Simon is very thankful that his teammates 
+express their happiness tor him in his quest as he con- 
+siders them "kind of like a family." 
+
+The draft takes place on June 24 at Madison 
+Square Garden in New York City. 
+
+"I came here with no expectations and once we 
+got working, they pushed me to try and develop and 
+become the best that I could be," said Simon. 
+
+
+
+if' 
+
+
+
+L 
+
+
+
+Santiago will forego senior season 
+
+By Staff &amp; IPFW News Services 
+
+IPFW men's volleyball setter Dennis Santiago has informed the 
+Mastodons that he will pass up his senior season in order to play profes- 
+sionally in Puerto Rico. 
+
+The native of Bayamon, Puerto Rico had been IPFW's starting setter 
+for the past three seasons. 
+
+In 2004, Santiago averaged 11.55 assists per match, and was part of a 
+f team that led the MIVA in blocking Santiago put down 1.15 per game. He 
+
+also averaged 1.78 digs per game and totaled 161 points on the year. 
+4 Santiago's assist total and average led the Mastodons and placed fifth 
+
+in the MJVA. 
+
+Joining teammate Serdar Srkca and David Zbyszewski (both First 
+team), Santiago was named to the Midwestern Intercollegiate Volleyball 
+Hj Association's All-Conference Second Team, in voting conducted by coach- 
+Photo Provided es at tne enc ' °' April. 
+
+
+
+May 19, 2004 
+
+
+
+
+August 22-24 
+
+I ihIi. I niwisiiy soccer coach 
+
+[err) Yeagley headlines another 
+
+sua essful Soccer Showcase. 
+
+North Carolina, Michigan, 
+
+Michigan State among others 
+
+competed. The women's team 
+
+became the first IPFW soccer 
+
+team to earn a win in the 
+
+Showcase with a 2-0 victor) over 
+
+Central Michigan. 
+
+
+
+November 21 
+ESPN college basketball 
+analyst Dick Vitale is the 
+special guest for 
+Homecoming. Vitale 
+speaks at a pep rally and 
+before the homecoming 
+game; a 71-53 loss to 
+Toledo. Vitale later filed a 
+report for espn.com about 
+IPFW's quest for confer- 
+ence affiliation. 
+
+
+
+
+•Summer 2003 
+
+Athletic Director Mark Pope, 
+g with Coach Doug Noll 
+lunce thai all men's and three 
+len s basketball games will be 
+
+held in a new facility: the 
+
+Mei iaJ Coliseum. 
+
+
+
+•September 22 
+The Athletic Department offi- 
+cially announces the addition c 
+o i:i&gt;lt program. Both men's am 
+women's teams will be fielded 
+though only the men started 
+this school year. 
+
+
+
+• November 14 
+
+The women's volleyball team picked 
+up their 20th win of the season over 
+Utah Valley State in the second round 
+of the D-I Independent Tournament. 
+The 11th straight win gave the team 
+their first ever 20 win season. 
+
+
+
+•December 20 
+
+The men's basketball team takes 
+part in the Purdue Invitational a&gt; 
+Mackey Arena. The 'Dons fall to 
+Purdue 80-69 on day one and 
+again 63-52 to Miami (OH) 
+consolation game. 
+
+
+
+the 
+
+
+
+The Communicator Page 1 1 
+
+
+
+
+DON'T 
+MISS OUT! 
+
+
+
+SPACE IS STILL AVAILABLE BUT DDING FAST! 
+
+
+
+
+the standard in student living 
+
+
+
+HDUSING FDR IPFW 
+
+
+
+iEEQSE 
+
+
+
+amenities 
+
+
+
+' Individual Housing Agreements 
+
+• Furnished Bedroom 
+
+• Furnished Living Room 
+' Fully Equipped Kitchen 
+
+• Dining Area with Chairs 
+
+• High-speed Internet and Cable 
+Television Service 
+
+
+
+• Community Center 
+
+1 Social Lounge with Big Screen 
+Television 
+
+1 24-Hour Laundry Facilities 
+&gt; Computer Lab 
+» Fitness Center 
+
+• Basketball Court 
+
+
+
+• On-site Resident Assistant 
+Staff 
+
+• On-site Management and 
+Maintenance 
+
+• Housing for IPFW Students 
+including Allen County 
+Residents 
+
+
+
+IPFW Student Housing 
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY FORT WAYNE 
+
+260-481-4180 
+
+Kettler Hall G98F • 2101 E. Coliseum Blvd. • Fort Wayne, Indiana 46805 
+www.IPFWstudenthousing.com • email: info@IPFWstudenthousing.com 
+
+PROFESSIONALLY MANAGED BY AMERICAN CAMPUS COMMUNITIES 
+
+
+
+</pre>        </div>
+      </div>
+    

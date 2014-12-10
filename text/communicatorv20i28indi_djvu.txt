@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i28indi/communicatorv20i28indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i28indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i28indi">The Communicator</a>"
+          </h1>
+          <pre>
+The Communicator 
+
+Student senate abuses its power of the purse/Page 2 
+
+
+
+Letter to the Editor 
+
+English as second language discussed/Page 2 
+
+
+
+Forte Festival 
+
+Fourth annual adds international flavor/Page 3 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 28 
+
+
+
+Indiana University-Purdue University at Fort Wayn 
+
+
+
+Quote of the week 
+
+
+
+"The loss is a little bit of a valley, not 
+
+deep valley, but our ultimate goal is sti 
+
+there. The winner of this 
+goes to California." 
+
+
+
+Regular season title 
+
+Volleydons lose to Ball State 
+
+
+
+r INFOGRAPHS-n S&amp; 
+
+
+
+Loviscek to lecture on peace 
+
+
+
+i - lub I HI have its fifth and final li 
+
+
+
+U.S. Defense Spending." 
+
+Juggling festival scheduled 
+
+Franke Park Pavilion No. 1 in Fort Wayne. Open juggling will run 
+from 6 to 11 p.m. Friday, from 8:30 a.m. to 6 p.m. Saturday, and from 
+8:30 a.m. to 5 p.m. Sunday. Saturday's activities will include egg 
+iui gliny workshops and a prop raffle. Sunday's activities will u,. I. ..) ■ 
+
+adults and §8 for students. Spectators are welcome free of charge. 
+
+Fraternity to present concert 
+
+Sigma Phi Epsilon and radio station WXKE 104 will present "Rockin' 
+on the Htil." on Sunday from 4 to 11 p.m. The concert will take place 
+
+
+
+, Desperate Remedies, Toast, 
+
+
+
+Mensa club to hold meeting 
+
+The Fort Wayne Mensa club will be holding its monthly meeting 
+
+
+
+
+
+
+f the Three Rivers Literacy 
+
+
+
+Men's tennis team recruits 
+
+The men's tennis team is seeking players for the 1989 season. Any 
+men interested, whether beginners or experienced players, may call 
+the Athletic Department at 481-6643 during the day, or Coach Dan 
+
+Alumni offer scholarships 
+
+offering two $750 scholarships for the 1989-90 academic year. Each 
+holarshi i i sons daughters and spouses of graduates of 
+
+Indiana and Purdue universities respectivelj Applications may be 
+picked up at the Firuncijl Aid niiicf. Room 109 in Kettler Hall or the 
+Alumni office, Room 112 in Kettler Hall. The deadline to apply is 
+
+
+
+Students to make presentations 
+
+
+
+
+
+
+
+"S *„_ _. ^-^ — i- — 
+
+
+
+ring the 'Dons rally. 
+
+
+
+rhe sen ing of Robert Penzes s' 
+
+
+
+Golsteyn turned in a State Friday at 8 p.m. The v. 
+
+
+
+Garret police chief lectures on satan worship 
+
+
+
+influence on satanic worship. He t 
+
+
+
+y metal is the m&lt;.,i or^m* 
+include: dangerous. 
+.graphic The episotk- im.l&gt; 
+
+
+
+Custer displayed a collection of over 
+veil as drawings by Satan worshipers 
+
+
+
+i produced degradatioi 
+
+
+
+
+
+
+Former chancellor's wife jSXS? 
+dies following illness 
+
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Students' Government 
+should not have control 
+of newspaper's funding 
+
+
+
+If experience is the besi leaehei 
+then the experience of the last two 
+years teaches that the student 
+senate should have nothing to 
+
+
+
+per credit hour, up 
+
+of $24. One half of this mm icy i-'."r . 
+to athletic programs. The other 
+half goes to Students" Govn nmcnl 
+Every April, the student senate 
+decides how to spend its share &lt;&gt;i 
+the money. Among the many things 
+
+5000 subscr 
+Communicator. 
+
+
+
+Students' 
+
+
+
+
+
+
+The : 
+
+
+
+-,.3&lt;&gt;0 I 
+
+
+
+purpose for the ru;T :;:; -.ehoui vm. 
+
+In April 1988, The Comm e.iioi 
+
+asked for a slight increase Instead, 
+the senate proposed to cut The 
+
+Communicator's budget to v'u.nou 
+
+was $3,000 restored. 
+
+This vear, The Communicator 
+asked for only S25,000-the same 
+amount it had received the year 
+before. It was rewarded with a 15 
+percent cut, to $21,250. 
+
+It WOUld be tempt Dili lo rein hide 
+that The Communicator simply 
+came up on the tail end ol this year 
+budget battles. But even if this 
+
+i disadvantage. 
+
+
+
+•efore, in any budget 
+
+interests of The Communicator are 
+Liu.inmteed to lose every time. 
+
+Also, Purdue regulations prohibit 
+officers of student organizations to 
+be paid, including, 
+government officials 
+
+i.ihv lent officers have been 
+
+able to evade these regulations, but 
+every year at budget time. 
+students 1 Government faces the 
+lineal that its officers will go 
+unpaid the next year. Since The 
+
+i'( iniicator is a not-for-profit 
+
+corporation, not a student 
+organization, the student editors 
+
+Student senators clearly resent 
+the fact that editors are paid while 
+Students' Government officers are 
+not, no matter how faulty the 
+enmpariMin is. And until Purdue 
+
+
+
+/aliens, The Communicator will 
+
+
+
+the hands of 
+
+
+
+( oiiiioue to suffer 
+
+the student senate at budget time. 
+
+Instead of having The Commu- 
+nicator receive an allocation from 
+
+
+
+budget process 
+
+None of the student orga 
+has the responsibility ol repnrlmj; 
+on Students' Government, No 
+student organization has the re- 
+" writing editorials 
+
+
+
+able to its budget request-, and 
+then to lobby. For The 
+Communicator to engage in lobby- 
+ing could only 
+
+
+
+fee The portion could be relatively 
+small m the neighborhood of one- 
+sixteenth of the total funds 
+generated by the fee. 
+
+This plan would benefit everyone. 
+The Communicator would not have 
+to worry about being terrorized for 
+ii- opinions. It would even free the 
+student senate from charges of 
+censorship. But most of all it 
+would protect the readers of 
+The Communicator, who could rest 
+assured that the paper was not 
+doing an impression of Pravda to 
+
+
+
+
+Letters to the Editor 
+
+ESL non-credit courses treat students unfairly 
+
+
+
+IPFW has a very good 
+
+
+
+1 obligated to provide paying r 
+
+
+
+«««•/! Article misrepresented views 
+"-!• twTd IS of professor's peace lecture 
+
+ree. They are paying the JT - IT 
+
+
+
+
+done to prevent 
+
+
+
+
+Campus 
+
+Calendar 
+
+
+
+
+THURSDAY 20 
+
+• Continuing Education: 
+"Foolproof Vendor Bid 
+Analysis 4 Purchasing £ 
+
+
+
+np- 
+
+ing," Parkview Hospital. 
+4:30 p.m. 
+Baseball vs St. Francis, 1 
+
+
+
+SATURDAY 22 
+
+• Recycling Day, Parking Lot 
+#1, Drop Off Site 
+
+• Continuing Education: 
+"Freelance Writing Work- 
+
+• Men's Tennis vs U. of I. 4 
+Marion. 
+
+• FAST Program, Walb, 8 
+
+' Multistale Insurance Li- 
+censing Program, Walb 
+Green Room, 7:30 a.m. 
+
+SUNDAY 23 
+
+• Faculty Artist Series: Linda 
+Meehan, voice; Joyanne 
+Outland, piano; Neff Recital 
+Hall, 2:30 p.m. 
+
+• Baseball vs Northern Ken- 
+tucky University, 1 p.m. 
+
+
+
+• Sunday Evening Eucharistic 
+Liturgies, St. Jude Church, 
+8:30 p.m. 
+
+MONDAY 24 
+
+• Continuing Education: 
+"Endocrine Assessment," 
+Parkview Hospital, 4:30 
+
+
+
+• Career Assessment Group, 
+Admin., Walb G21, 5:30 p.m 
+
+• Effective Management of 
+Stress, Walb, 7:30 p.m. 
+
+• Career Pathing with Linda 
+Scott, Walb 7:30 p.m. 
+
+TUESDAY 25 
+
+• Administrative 4 Profes- 
+sional Staff Recognition 
+Luncheon, Walb r " 
+
+
+
+WEDNESDAY 26 
+
+• Dental Hygiene Honors &amp; 
+Recognition Ceremony, 
+
+• Effective Management of 
+Stress, Walb, noon. 
+
+• SAB Meeting, Walb 225, 6 
+
+• Student Senate Meeting, 
+
+
+
+THURSDAY 27 
+
+• School of Arts 4 Sciences 
+Second Annual Honors Ban- 
+quet, Walb Ballroom, 6:30 
+
+• SPEA Banquet, Marriott 
+Hotel, 6:30 p.m. 
+
+• French Club, Cercle Fran- 
+cais, presents "La Can- 
+tatrice Chaute," NF 101, 
+7:30 p.m. 
+
+FRIDAY 28 
+
+• Continuing Education: 
+"Alzheimer's Disease 
+Workshop," Walb. 
+
+• Career Assessment Group, 
+Admin., Walb 224, 9 a.m. 
+
+• Career Assessment Group, 
+Interp., Walb 222, 1 p.m. 
+
+SATURDAY 29 
+
+• Continuing Education: 
+"Developing Customer 
+Loyalty Through Improved 
+
+• The Interior Design Pro- 
+gram of the Consumer 4 
+Family Services Depart- 
+ment has been invited to 
+participate in the Fort 
+Wayne Designer Showcase 
+House, through May 14. 
+
+SUNDAY 30 
+
+" Sunday Evening Eucharistic 
+Liturgies, St. Jude Church, 
+
+
+
+J 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+Forte features parade of nations [ACURAn 
+
+fitters 
+
+
+
+. Covington Travel, 
+
+
+
+professional charge t 
+
+
+
+set symphony. The Fort 
+Wayne Philharmonic will 
+
+
+
+iville performances wil 
+
+
+
+f the Saturday and Sunday. 
+
+
+
+The Price Barrier! 
+
+
+
+Integra RS 3 Door 
+
+
+
+©99M 
+
+FORT WAYNE 
+— =A CURA 
+
+
+
+Sobering 
+
+Advice 
+
+can 
+
+save 
+
+
+
+f_ a life 
+
+
+
+&gt; participate one . 
+
+
+
+Minorities Honored 
+
+
+
+Shelley Coats, Aljermik 
+Bledsoe, Kamilah Sevier 
+
+
+
+Rhea Edmond, 
+
+Angela 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+WAITRESS/WAITER: Full or port time. Flexible 
+mornings or evenings. Musi be 21 years of oge. 
+S5.50/hr. + benefits. Job Number: 4-2-F-3 
+
+
+
+ADMISSIONS ASSISTANTS: Assist with 
+20, 25, 26, &amp; 27. C $4 n 00/r,r. U Job Number: 4 
+
+
+
+PROGRAMMER: Flexible between 8am-5&gt; 
+hrs./wk. Must have COBOL course. $7.00/h. 
+
+
+
+ARE YOU AN IPFW STUDENT LOOKING FOR 
+A JOB? COME IN AND SEE US. WE HAVE 
+MANY JOBS AVAILABLE. 
+
+
+
+I 
+
+
+
+A LESSON IN NEW CAR FWANCINfi TO! GMAC FOR 
+TWO AND FOUR YEAR COLtlGE GRADUATES 
+AND GRADUATE STUDENTS. 
+
+
+
+A FREE PHONE CALL COULD HELP PUT YOU IN A 
+NEW GM CAR OR LIGHT-DUTY TRUCK THE EASY WAY. 
+
+
+
+THE GMAC 
+College Graduate 
+Finance Plan Get $400 
+E No Payments 
+d Days* 
+
+
+
+Guaranteed Fi,\\ni in: , 
+
+
+
+UlMJJIlKvd .n liir.e.i. vl|imIiI\ I' 
+
+the plan. You can find - hi: ill tlu 
+GMAC College Graduate Finance 
+
+
+
+( .,11 I xio-JiT-o.l „, !,.,,',:- 
+out ho* GMAC can make your 
+college math a lot simpler. 
+With GMAC's College Gradual! 
+
+► $400 to apply"" your down Call 1-800.237-3264 
+
+payment when you buy 
+
+
+
+i ;m.v:i'.ji,.„, t , r .,du.u.- 1 &gt; 
+
+I'l.in iiii.nin. 1 iiM: l ],,uk IhiTLsn 
+. 1 .1 iu n !■ .i i .in. I vnuoiukl n.vnv 
+
+
+
+whin viiuiiuv vnr n...... I ,M v 
+
+
+
+GMAC 
+
+OFHCIAL SPONSOR OF | 
+
+
+
+( :iii-vkdi ii ■I'nsmi -oi dsmohii i -m u k-cmjii i. « -&lt;.M&lt; Inn i- 
+
+
+
+
+INCE 194* 
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+LSAT,GMAT,MCAT, 
+
+GRE.DAT, 
+
+Advanced Medical 
+
+Boards, TOEFL, 
+
+Nursing Boards, 
+
+NTE,CPA, Intro, to 
+
+Law, Speed 
+
+Reading, 
+
+AND MORE. 
+
+lor tn'cirly '.() ^•■\r.. Slangy H Kaplan has prepared 
+ivi.-[ I riiilliuiiv| l idi:nislnr l i l lmiv,ioiKir.dlLc&lt;'iv.iii|itf-,t', 
+;t, Kaplan. 
+
+1 KAPLAN 
+
+
+
+INDIANAPOLIS CENTER 
+5060 E. 62nd Street 
+Suite 122 
+Ind i anapolis, IN 
+(317) 251-3910 
+SOUTH BEND CENTER 
+1717 E. South Bend Ai 
+South Bend, IN 
+(219) 272-4135 
+
+
+
+
+T^ake It 
+
+T ° r 
+
+-Lrfeave It 
+
+
+
+
+Students, Faculty and Staff: Take advantage 
+of low educational pricing. Zenith Data Systen 
+offers a discount of up to 50% off retail! 
+
+
+
+Linda Patten Sue Carleton 
+
+Kettler G64 
+481-6800 
+
+
+
+data 
+systems 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+Candlelite Reception Hall 
+
+
+
+GET EXPERIENCE THAT LASTS A LIFETIME 
+
+
+
+
+It took Galileo 16 years to master the universe. 
+You have one night. 
+
+
+
+short hours lo learn your sun spots from your satellites before the 
+dreaded astronomy exam. 
+
+On the other hand, Vivarin gives you the definite advantage. It helps 
+keep you awake and menially alert for hours. Safely and conveniendy. So 
+even when the subject matter's dull, your mind will stay razor sharp. 
+
+If Galileo had used Vivarin, maybe he could have mastered the solar 
+system faster, too. « . 
+
+S „ Revive with VIVARIN: 
+
+
+
+
+4003 SOUTH WAYNE AVENUE 
+(just south of RudisiU] 
+Telephone: 422-5460 
+FORT WAYNE, IN 46807 
+
+B&amp;K Components, includinq the 
+
+ST-140 Amplifier 
+Ariston Turntables 
+Audio-Technica 
+The Mod Squad 
+Onkyo 
+
+Rotel Hi-Fi Components 
+EJ&amp;W Loudspeakers 
+
+ssr~" 
+
+
+
+Chicago Speaker Stands 
+ur prices ore fair; our advice honest. 
+
+
+
+STORE HOURS: Sat 12- 
+
+
+
+Or by appointment 
+
+
+
+</pre>        </div>
+      </div>
+    

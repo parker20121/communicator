@@ -1,0 +1,1941 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv10i6indi/communicatorv10i6indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv10i6indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv10i6indi">The Communicator</a>"
+          </h1>
+          <pre>"^ Lagoon 
+
+
+
+Initial steps taken in 
+development of Aquarius Park. 
+Editorial on page two. 
+
+
+
+
+Last Waltz 
+
+Album and movie 
+reviews-page five. 
+
+
+
+
+Tw COMMUNICATOR 
+
+
+
+Volume X Issue 6 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+September 28, 1978 
+
+
+
+
+^^s. Senate decides on 
+ID expiration date 
+
+
+
+meeting and suggested 
+
+
+
+campus in Calumel City \ 
+
+
+
+Dead rabbits 
+
+
+
+JonVs animals 'tricky^ 
+
+
+
+ity as long as the expiration Purdue Exponent and liie Indiana Di 
+k Ritter of the internal af- would help student eovernincnl beco 
+
+
+
+i orfice Account Budget to purchase on any social t 
+
+
+
+school student government participants and activities foi 
+
+at Highland High School October 7 in Canterbury enlrt 
+
+the name of the student government of staled that the reii 
+
+IPFW. This bill was passed most of the camp 
+
+Sen, Blaine Ryan reported that the entrance 
+
+
+
+Thursday, This will be on i 
+
+A discovery was altjo i 
+Matthews which showed 
+
+
+
+c North Anthony thews said II could not go 
+the department jection'a ut the next meet 
+
+
+
+By JANET HUNTER 
+
+"Teaching a chicken to play a tune 
+
+hallenge," says Joni Putt, 
+
+
+
+HHESF Vonderlage opts for Senate 
+
+
+
+signals, no voice animal act featuring i 
+
+
+
+
+
+
+killed last December, she still has a 
+barnyard chorus of 55 animals who 
+greet her when she goes out to the barn. 
+This includes five horses, 25 guinea 
+
+
+
+oht"^ 7 r^„ Za Science Professor, is running for 15th "'^nur tui 
+
+A H . Siiihtu» district State Senate, The Senate seat is averageper 
+
+? n Afnl r, n.n..V'' ®^ being vacBtcd by Democrat Graham K^P'-'S t 
+
+fun.piclungoutnames^ Richards. ^^^^te tow a 
+
+trafrSne antmals doine homework and Vonderlage has been associated with expr^scd 
+
+!. lay down, roll over, working at a local health spa When she '^^^ ®'"" '^'^^ "^ '^ currently P'i" „_^ "^ 
+
+
+
+Vonderlage says he was an t 
+
+
+
+she considers them to be trade set 
+In training animals a person n 
+
+span is usually about ten minuti 
+
+
+
+
+
+
+„.._. .years usingparl otll,cliOomilllo„doll.rSl..c &gt;.Mn .1 pro.M 
+
+e as a Polllical Science and surplua," Vonderlage slaled [I s not " ™''"'"'"" ' 
+
+Hislory Professor. asif Ihe money is nol there. ' '"«J^^ ^^^^^^ 
+
+loldmelshouldpracticewhatlteach." income people. He noted 
+
+Present 15th District Stale Senator, Repi" . ,. -m . 
+
+Graham Richards asked Vonderlage to prop 
+
+
+
+scouting, little league coaching, i 
+VMCA basketball, 
+percent a gallon or a Vonderlage Is a graduate of Harvi 
+
+
+
+because they usually aren't hungry and Most people c 
+thus will not work for a reward. When rather stupid 
+teaching the animals tricks, she school project 
+
+
+nimaT'so,"'as"'atgh 
+
+
+Aid,.a&gt;. t. thi IPF. 8.1HI. nnt- 
+
+
+
+
+."::;;:".;;":;ri; !:.;"'.:'!.::j-;:!!''"!!"J!;'i.''t:."!"" 
+
+
+
+
+
+put on shows locally." Vonderlage 
+
+' - -lildren-szooas major campai 
+
+employee. One believe higher 
+
+r graduation I made available 
+
+
+
+J Cantor. didale is opposed to this and says the Government, A recipient of a Master's 
+
+■king on the needed money should come from the degree from Concordia Seminary, he 
+
+state surplus. also earned a Master's degree in 
+
+ation as a Vonderlage added that the Slate Political Science from Washington 
+
+"I strongly Highway Department was an area to University In St. Louis. He is a member 
+
+should be cut down on waste. "This is a highly of the American Historical Association 
+
+imon person political situation," he said, "some and the Lutheran Academy for 
+
+
+
+
+
+
+ii; Placement test rules changed 
+
+
+
+By MICHAEL BEHR 
+
+
+
+cording to the program, before I 
+
+
+
+probationally are not affected t 
+
+
+
+
+
+
+udents were enrolled in classes that 
+ere above their abilities and as a 
+■suit became frustrated and dropped 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I1SFS--1 ~ 
+
+
+'■"- — 'S^^^^ _ 1 
+
+
+
+
+
+
+
+
+pi„. 
+
+
+Sprln, Sme.i.r 
+
+
+Su_er Sixiur 
+
+
+p.u s.&gt;.&gt;eeE 1 
+
+
+».,l.t. 
+
+
+
+
+S.»ior. 
+
+
+IV.TL 
+
+
+.":?;;t: 
+
+
+R.,l.t. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no 2 1971 
+
+
+NOV 9 'l97B 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+« Jo' 197« 
+
+
+Dec 7 1978 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^ h 16 1979 
+
+
+mcch 2&lt; 1979 
+
+
+so B.Uroom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*'"" "' ^^" 
+
+
+
+
+
+
+a-30 m 
+
+
+
+
+
+
+■^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'""' "' 1979 
+
+
+SU alllr^ 
+
+
+8-JO AK 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J „' i,„ 
+
+
+SU &gt;.llroo. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""" "' '"' 
+
+
+^"'' '' 'l979 
+
+
+^° ^""" 
+
+
+• JO AH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+■^ 
+
+
+
+
+J„ly 11, 1979 
+
+
+"'" T'm" — ' 
+
+
+SU B.Uroo,. 
+
+
+■ JO m 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mi 
+
+
+*"''• '' '"' 
+
+
+''"'•/ - 
+
+
+
+
+a-30 p» 
+
+
+
+
+
+
+
+
+
+
+
+
+^:uil,\L,^Pti^i. Ve» .t.d,„t. «»ST .... Ih. Sn,U.h. R..din,, .nd ».tn ,l==...n, ,.... b.&lt;or. r.,-| 
+
+i.?„in, for ^ ='j':;:,ijj,f j:;i;&gt;."?!^',;r;Ji;rcl:.i«°""i:««io: fis^i:' jsrpin:™^;:.?^ 
+
+
+
+The chart on the right and the t&lt; 
+
+
+
+
+
+
+
+I gift of S600. The 
+the gift was to b( 
+' I campus park 
+
+of the park hangs on a wall in Kettler 
+Hall twtween the Bos 
+I.U. Credit Bureau office. 
+
+In 1969 the campus had only one 
+building, Kettler Hall. The campus had 
+
+
+
+whether the park \ 
+one point the mon 
+library for the purchast 
+
+
+
+help in the project. Lebamoff declared i 
+"Lagoon Day" in thai fall of 
+Boswell stated that the clean-up woulc 
+
+
+
+up efforts. Eleven students worked 
+during the Saturday effort in 1973. 
+
+Alumni Director John Hobson now 
+claims that the recently installed ben- 
+
+
+
+KYOU Ho^/fi. Just C 
+
+
+
+Z7 
+
+
+
+Letter to the eilito 
+
+
+
+Boston defended 
+
+
+
+when the library 
+
+
+
+This week the park became a reality 
+along the northern shore of the lagoon by 
+the Walb Memorial Union. Two redwood 
+benches and a plaque, stored in the 
+physical plant garage since August of 
+this year, were set in the ground during 
+the weekend. This is an end to the long 
+
+park and the begin 
+
+
+
+Last Thursday, in an editorial, it was 
+
+iuggested that the entire university join 
+
+n an effort to make the lagoon 
+
+- ^* 
+
+
+
+president Joseph Tonsing and the 
+"Friends of Indiana-Purdue", the IPFW 
+support organization which added to the 
+initial $600, the benches were purchased. 
+
+What is lacking is the student support 
+for the park that was much evidenced in 
+the fall of 1973, 
+
+In I97B students have the opportunity 
+to build on the efforts of the past. 
+Apathy, so present on alt campuses, can 
+only be dispelled by successful student 
+
+
+
+right. Through the '^''i^^^^f^^^,, ,^ j,„, 
+„i men «T^=.. '" response lo jamie 
+
+
+
+
+THE more limes and recons 
+
+COMMUNICATOR S S™You may c 
+
+
+
+
+29^ 
+
+Scottish 
+Savings 
+
+ON THE 
+UNBEATABLE LUNCH! 
+
+ONE OF OUR FAMOUS DELi SANDWICHES 
+
+AND A STEAMING BOWL OF FRESH 
+
+HOME MADE SOUP 
+
+Thanks to the Famous Team 
+
+of Carolyn and Mary 
+The Sandwich and Soup are Only 
+
+U.Ol 
+
+WITH THIS COUPON 
+
+REGULAR &gt;1.30 
+
+
+
+'""■--------Scottish Coupon _----------- 
+
+Deli Sandwich and Home Made Soup 
+with Ripple Chips 
+
+Xalll (Save 29') 
+
+L JL"!*!** ^^^ fort ""til Oct- 4, 1978 
+
+
+
+The Fort 
+
+JJjal^emona^^StudenUJnion 
+
+
+
+ARE YOU PAYING TOO MUCH FOR YOUR 
+
+AUTO INSURANCE 
+
+7 7 7 
+
+■ ■ ■ 
+
+/ May be able to Save You Money and I will 
+
+provide You with the Service You deserve. 
+
+"Why Not Compare" 
+
+GALL: NICK McDOWELL or BOB DALE 
+
+at 486-1511 
+
+WE'LL DO THE REST 
+
+
+
+WE WILL ROCK YOU 
+
+
+
+X K E • 104 
+
+
+
+WITH COMMERCIAL FREE HOURS 
+
+
+
+
+AND UP 
+
+
+
+STARTS OCT. 2, 1978 
+
+FOLLETT'S 
+FORT WAYNE BOOKSTORE 
+
+GROUND FLOOR, KEHLER HALL 483-6100 
+
+Come Early For Best Selection! 
+Limited Time • Limited Quantity 
+
+
+
+SEPTEMBEH2». H7«. THE COMMUNICATOR, PAGE3 
+
+
+
+campus 
+calendar 
+
+
+
+
+THURSDAY 28 
+
+IPFW Advisory Board Mooting 
+Men's Tennis vs. Manchester, 3 p.m., there 
+"Is Low School for You?" By Frank Motley. lU Low 
+School Dean Wolb 226 1 :30 
+
+
+
+FRIDAY 29 
+
+Purdue Footboll Film, shovt/ing { 
+Pointings of John Link, until 
+1026 W. Berry St. 
+
+
+
+Club Olympio, noon 
+
+
+
+SATURDAY 30 
+
+Fort Woyne Futures Meeting 
+
+Soccer vs. University of Michigan, there, 7:30 p.m. 
+
+Medical College Admissions Test (MCAT)-Test. and 
+
+Evol. Service 
+Indiana-Purdue Reports! on WGL Radio. 7:15 o.m. 
+Indiono University Football vs. Nebraska, ot home 
+Purdue Football ot Notre Dome 
+
+OCTOBER 
+SUNDAY 1 
+
+Indiono-Purdue Reports! on WANE TV, Ch. 15 at 6:30 
+a.m. and on Citizens Coble at 5 p.m. 
+
+MONDAY 2 
+
+Sign up for Intramural Co-ed Volleyball begins. Athletic 
+Office, Walb 
+
+TUESDAY 3 
+
+Men's Tennis vs. Hillsdale College, ot home, 2 p.m. 
+
+Block History in Perspective movie series. Judge Priest 
+
+(1934), 7 p.m., Old Fort YMCA 
+Women's Volleyball, vs. St. Joseph's College. St. 
+
+Froncis College, Manchester College, 5 p.m. away 
+lU Football film showing, noon 
+
+WEDNESDAY 4 
+
+Soccer vs. St. Joseph, there 4 p.m. 
+
+FRIDAY 6 
+
+Purdue Football Film Showing, Club Olympio, noon 
+
+Soccer vs. Concordio ot Home 4:00 p.m. 
+
+SATURDAY 7 
+
+Indiono-Purdue Reports! on WGL Radio, 7:15 a.m. 
+Indiana University Football vs. Wisconsin, away 
+Purdue University Football vs. Wake Forest, at home 
+Veterinor/ Aptitude Test (VAT)-Test. ond Eval. Servifce 
+Women's Tennis vs. Taylor Univ., There 
+
+SUNDAY 8 
+
+Women's Tennis vs. St. Mary's College, 1 p.m., owoy 
+Indiono-Purdue Reports on WANE TV, Ch. 15 at 6:30 
+a.m. and on Citizens Coble ot 5 p.m. 
+
+
+
+FACULTY NOTES 
+
+
+
+Kenneth L. Stevenson, Professor of Chemistry, 
+recently published an article, coouthored by D.D. 
+Davis and Charles R. Davis of New Mexico State 
+University in the August 16, 1978 edition of the 
+Journal of the American Chemical Society, entitled 
+Photooxidotion of Dichloro - and Trichlorocuprate 
+{!) Ions in Acid Solution." 
+
+Dr. Mark Sheldon, assistant professor in philosophy, 
+has had a paper titled "Spinoza, Imagination and 
+Chaos" accepted for publication in the Spring 1979 
+issue of The Southern Journal of Philosophy. 
+
+
+
+CUB 
+REPORTER'S 
+
+
+
+CORNER 
+
+
+
+news digest 
+FW Future, Inc. to meet 
+
+Fort Wayne Future. Inc., a facing 
+
+
+
+Frat to hear Gabriel 
+
+Delia Sigma Pi discussion will be 
+
+
+
+SYCAMORE HOLLOW HOBBIES 
+
+^— -^ Looking for o 
+
+Source to buy 
+
+
+
+WAR GAMES, 
+FANTASY GAMES 
+
+MINIATURES 
+
+to play your favorite games? 
+
+Try Sycamore Hollow Hobbies 
+
+
+
+PREGNANT? 
+
+Moke it a good one-.Coll 
+
+BIRTHLINE - 422-1818 
+
+We'll help 
+
+Free pregnancy test--- 
+
+professionol counseling 
+
+lan Mount 447-473S. BIrthllns P.R. 
+
+
+
+PUZZLED? 
+
+
+
+
+• JEAN SHIRTS 
+
+
+
+• SKIRTS 
+• GAUCHOS 
+DRESS SLACKS 
+• PAINTER PANTS 
+• TOPS OF ALL KINDS 
+
+
+
+ALL FAMOUS BRANDS 
+AT LOWER PRICES 
+
+
+
+Glenway Bargain 
+Center 
+
+3820 Coldwater Road 
+Across fronn Glenbrook Penney 's 
+Open Evenings till 9 Sundays 12-5 
+
+
+
+. THE COMMUNICATOR. 
+
+
+
+Shots in the dark 
+
+
+
+.&lt;^^" 
+
+
+
+
+
+
+*Xvfl^* 
+
+
+
+APPLE 
+
+Records 'N' Tapes 
+
+"Lef us turn your 
+furntable on" 
+
+
+
+THIS COUPON IS 
+
+
+
+•^ 
+
+
+
+1.00 
+
+
+
+(Sole items 
+Id After Oct. ■ 
+
+
+
+Adventures in funk 
+
+
+
+help, the players 
+
+
+
+When Oakland Stroke vocalist from Atlanta. Curtis at every perfor 
+
+
+
+talker later joined the band. Oakland Stroke apparently 
+
+
+
+the band was asked 
+the band's music allracl- 
+
+
+
+Md''tegrn''''p»'cking"'IheTr / Jji ^ ^''-)f^\ \\ '■ 
+
+equipment. While Ihey were ' ^^^/l^ . ^ J^ "^ikA \ 
+
+loading Iheir vans, a car j/ ' &gt;s J&gt;^ /» ' , \J5» 1 .■ 
+
+
+
+oighborhoods of llii 
+
+
+
+plucked The band dissolv. 
+
+
+
+for neighborhood musicians reaching, according to Brian 
+
+/iew. to get together. Oakland Perkins. 
+
+Ihe Stroke played this club "Rock Is sUgnating. Jazz 
+
+"The several times with a slightly and funk have proven to be 
+
+[ is different repertoire, fresh and universally ap- 
+
+
+
+idle tow^r 
+
+
+
+. Funk has a few 
+
+
+
+Washington, explained. 
+
+
+
+i the capacity of 
+ing these messages 
+
+
+
+disguised as poets. 
+
+
+
+■kins prominent lead role for mer, had plans to rent the have to be thought about, scribbling on paper, drib- who expresses his feeling 
+
+■slon perhaps the first time in G.E. hall on Winter street in just experienced and felt, bling ink with careful spit through words." 
+
+light popular music, which ac- July of this year. Posters Funkcouldbeconsideredthe control, controlling the 
+
+was counts for the hypnotic were made and the hall was black equivalent of country language, playing with Robert Lowell: "Almost 
+
+■kins c;yncopated quality of funk. leased. When the band was and Western music-both matches: a good poem is the whole problem of writing 
+
+ihf The music is fairly straight playing their third number, are down to earth and skillful arson, poetry is to bring it back ti 
+
+
+
+a readily appreciated. Funk 
+
+n's masses, as Oakland Stroke 
+life proved to a very small 
+
+
+
+Willia 
+
+
+
+Take us 
+anywhere 
+
+
+
+
+Sale '149 
+
+Reg. $169.95. 12" (meos. diag.) B/W 
+TV. Runs on batteries, house 
+or plugs into a cigarette 
+Solid state modular chassis. N 
+
+
+
+Sale '229 
+
+Reg. $259. Color portable with 10" 
+screen (meos. diag.) is 100% solid 
+stole. Has memoi^ VHF fine tuning, 
+automatic fine tuning. No. 2014 
+
+
+
+GLENBROOK 
+
+482-4661 
+
+Catalog: 482-4611 
+
+
+
+This 
+is 
+
+
+
+dCPenney 
+
+
+
+SOUTNTOWN 
+
+447-1532 
+
+Catalog: 447-3541 
+
+
+
+tter very lit- language charged with 
+
+sessed by Making." 
+
+PIT nx^frvamo Allen Ginsburg: "...poetry "Permanent things. or 
+
+rl 1 programs has been attacked by an things forever renewed, like 
+
+'Our Town' ^unch of bores who don't passions, are the materials 
+
+
+
+...Poems are poem mu 
+)biects made melting. 
+
+
+
+A'hich he derives himself and 
+:h rough himself his poetry." 
+Theodore Roethke: "...to 
+
+
+
+
+
+
+Walt Whitman: "A great 
+Mem is for ages and ages in 
+•ommon and for aU degrees 
+
+
+
+but rather a beginning." 
+
+
+
+CONGRESSMAN DAN QUAYLE 
+
+WANTS TO MEET 
+
+YOU 
+
+at the 
+
+YOUTH FOR QUAYLE 
+
+Campaign Kick-Off Party 
+
+
+
+SUN., OCT. 1 
+
+
+
+Covington Creek 
+7:30 p.m. 
+
+
+
+^EXCELLENT MUSIC 
+
+Supplied by Disco Dynamics 
+
+• MEET OTHER 
+YOUNG PEOPLE 
+
+
+
+Here's Your Chance 
+
+/o Meef and Discuss 
+
+with your 
+
+Congressman 
+
+Whot's Going on 
+
+m this Country, 
+
+HAVE A 
+GREAT TIME! 
+
+
+
+Take 169 to 14 W. Once on I4W, turn left (south) at Fi 
+light onto Hadley Rd. When Hadley ends, turn let! 
+Covington Rd. Covington Creek Condominiums are '/. m 
+on the right. 
+
+Paid for by ttie QuQyle for Congress Commillee 
+
+
+
+The Album 
+
+
+
+1978, THE COMMUNICATOR. PACE 5 
+
+
+
+End of an era 
+
+
+
+PIZZA KING 1 
+
+
+484-4184 
+
+
+483-2163 744-6135 
+
+
+PIZZA \' 
+SPAGHETTI % 
+
+
+
+
+744-4334 
+
+
+J47-1508 
+
+
+
+
+
+
+Sept. 28 Folkmusic 
+Sept. 29 Smith &amp; Minear 
+Sept. 30 Dave Andersen 
+
+HOURS: M-Th 10-12 Midnight 
+
+Fri-Sat 10-1 
+
+Sun. 7:30-12 Midnigilt 
+
+
+
+SOMETHING "NEW" 
+FOR FORT WAYNE 
+
+BUBBn^5 NORTH LOUNGE 
+
+Market Place of Canterbury 
+
+
+
+- HAPpK VWyR SPECIAL — , 
+
+FIRST 2 DRINKS 
+FOR THE PRICE OF 1 
+
+ALL DURING HAPPY HOUR 4:30-6:00 p.m. 
+
+
+
+LOOK FOR AAONDAY NIGHT FOOTBALL SPECIALS 
+
+
+
+BUBBR'S 
+
+
+
+NORTH LOUNGE 
+
+
+
+in streaks of pink green 
+
+
+girl coz I can't stand to 
+
+
+purpleandblue. 
+
+
+
+
+
+
+
+
+profanily, sadism, and 
+
+
+iskillingyou. 
+
+
+
+
+
+
+
+
+compasses an infinite 
+
+
+Embassy series 
+
+
+tickets on sale 
+
+
+Represenlatives from the 
+
+
+discount on the regular 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eight Tuesday or FYiday 
+
+
+Neff hall, and by the Fort in 
+
+
+
+
+
+
+ductors and soloists. 
+
+
+
+
+
+
+
+
+
+
+
+
+load qi^Ufy for a ten dollar 
+
+
+
+
+CinemaCenter features Newman 
+
+
+
+
+
+
+
+
+law and falls into a life of 
+
+
+
+AND . . . 
+
+Our Super Gourme 
+
+SALAD BAR 
+
+
+
+ResenvATioNS 
+
+
+
+am SUNDAT 10,30.2:30 
+
+
+
+PHONE 485-1685 
+
+MARKETPLACE 
+OF CANTERBURY 
+
+
+
+YOU'RE GONNA LIKE US! 
+
+
+
+Jimmies 
+
+Pizza inn 
+
+
+
+In Order To Give You The Best ^i^ &lt; 
+^\ Pizza At The Lowest Possible ■■ 
+2|l Price, We Honor All Local Pizza «■ 
+K Parlor Advertised Coupons. ^ - ^ ' 
+
+
+
+
+GENERAL CINEMA THEATRES 
+I AILCINEMAS-EVERY DAY TIL 2:30 P.M.-$1.50 | 
+
+
+
+■lilll!!.M!u,',IUitJilllUI,W ■HtW-li ili r^ li mr i n.i . i-i . M 
+
+
+
+
+E COMMUNICATOR. SEPTEMBER 21 
+
+
+
+Rocky road 
+for harriers 
+
+
+
+Anderson drubs 
+women netters 
+
+
+
+R€DWaDD IMM 
+
+1432 West Main 743-7543 
+
+FORT WAYNE'S FINEST PIZZA 
+GRiHDfR! 
+BROASTED CHICKEN 
+SAUSAGE RoLtS 
+
+"NOW SERVING LUNCH 11:30-2' 
+
+MONO/irS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+
+
+
+</pre>        </div>
+      </div>
+    

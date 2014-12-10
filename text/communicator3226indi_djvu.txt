@@ -1,0 +1,2839 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicator3226indi/communicator3226indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicator3226indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicator3226indi">The Communicator</a>"
+          </h1>
+          <pre>1 Thursday 1 
+
+
+The 
+
+l^ommunicator 
+
+
+1 This Week: 11 
+
+
+April 13,2000 
+
+Volume 32 
+Issue 26 
+
+Since 1969 
+
+
+Parking garage unsafe lo 
+drive through, page 2, 
+
+Big wins for volleybaJl 
+team, page 6. 
+
+
+1 Indiana University-Purdue University Fort Wayne | 
+
+
+
+Campus finalizes design for new IPFW logo 
+
+
+
+by Mary Anne Gales, 
+News Editor 
+
+The new IPFW logo appcan in 
+pnni for Ltic TiisL lime loilay. 
+
+Ncaily a yur in (be {iroccu. 
+llic logo wen I [hiough seven I 
+design suju aoii M^'cral hanib vy- 
+ing Id encompass Ihe iijcas Ihal 
+lellccl bolb univcisilics and ibcir 
+Fon Wayne localioa 
+
+'ll is vcf&gt;' dimcull 10 itlslill the 
+idcnlily of an oiganizaiion into a 
+simple graphic,' said Ban Tyncr, 
+webiiic coonlinaiot for IPFW. 
+
+Tyncr ciicd several reasons 
+why designing a suilahlc logo was 
+Uiflicull. 
+
+Firsl. IPFW is a very long 
+name nben ipcUcd oui. Second, as 
+(he campus graws. ihere is a desire 
+and a need for increased recognition 
+by people ouisidc (he immcdiaie 
+areat Also, [o rccogni7c IPPV as a 
+unlveisily outside the immediate 
+area many people need lo see the 
+word "imiversily' or Ihc letter 'U' 
+in (he logo. Tyner said. 
+
+Additionally, the logo design 
+had 10 be easy to use in prim publi- 
+
+'A local agency developed a 
+
+
+
+couple of ideas that didn'i feel rounding the inanglc spelling i 
+right." he said. There were nlso thenamesofdiei-niversitiesuset 
+allempts lo design 
+
+tlie logo internally. &lt; *&lt; Y * P / )■ 
+
+The straggle of try- (i\ V *■ ^ A 
+
+ing to design an "CL^ 
+
+acceptable logo ■C*&gt; 
+
+persisted here too, \ 
+
+
+
+■^ 
+
+
+
+O 
+
+
+
+said Tyner. 
+
+Finally, a logo 
+displaying a blue 
+
+
+
+circle of black let- 
+ters was designed 
+by lligashi Glaser 
+Design, also 
+known as Zolo Inc. 
+
+
+
+
+
+
+IPFW 
+
+
+
+&lt;&gt; 
+c 
+■^ 
+
+
+
+bas a Ihree-told 
+idcnlily, mcani 
+10 recogniu: 
+
+
+
+Fon Wayne. 
+The white paths 
+
+
+
+Un 
+
+
+
+Communications 
+Irene Walters, this 
+the design was cre- 
+ated by the New 
+York design rirm al 
+nco!iafS5.000. 
+
+
+
+
+People 
+
+
+
+whole name in the logo. It is recog- 
+nized as a utuversity to our local 
+communily and to a larger audi- 
+
+Tlie process of deciding on a 
+logo also included focus groups to 
+view the logo and ideas in progress. 
+Focus groups included sludenis. 
+prospective students, faculty, staff 
+and alumni. 
+
+The feedback we got was 
+generally positive. For ihc moil 
+part, everybody liked ihc design." 
+saidiyncT. 
+
+The new logo replaces the old 
+logo, depiciing the stale of Indiana 
+
+
+
+Ihc 
+
+unfamjltai with 
+the three rivers, 
+see three paths, 
+said Tyner 
+
+
+
+h the n, 
+
+
+
+
+
+
+off to the side, li will begin appear- 
+ing on campus with inclusion in the 
+Commenccmeni 2000 Program, 
+acconling lo Marianne Mcssmann, 
+
+
+
+Graphic courtesy of University Relations 
+
+
+
+Tlie logo is also being put on 
+
+what 'you bring new markers currently being cnscted 
+
+to IL ti creates a al cunpus enirances. Proposed com- 
+
+Teeling for ihc pletion date for the markers is tlie 
+
+viewer and end of April, said Gregory Juslict, 
+
+visually identi- constnjclion projccls manager. 
+Ties (he organi- Tbe olTicial public launcb of 
+
+Mtion in a very ihe new logo is set for fall, said 
+
+concise way," TVner, 
+
+
+
+Sociology nnasters degree first in state 
+
+
+
+by Todd Hamm, 
+Chief Reporter 
+
+New (all. IPFW will become 
+Ihc Tirsi college in Indiana to offer a 
+Master of Ans in Sociological 
+Practice. IPFW has served as a 
+model fm many colleges around Ihe 
+country thai axe considering adduig 
+tbis type of a degree 10 their curricu- 
+lum according to Katby Tncr, aisis- 
+lani professor of sociology and 
+graduaie ndviscr of ibc program. 
+
+'There has been an enpresscd 
+need for a long lime lo have a grad- 
+uate program here in sociology- that 
+provides more skills and informa- 
+tion for people to use in Iheir work 
+sellings here in die area."Tricrs^d. 
+
+
+
+After surveying potential stu- 
+dents and employers in the laie 
+1980s and early '90s, the depart- 
+ment found Ihal. "then: was over- 
+whelming inicicst by both students 
+and employers in a program of this 
+type." said Trier. 
+
+The deadline for applying is 
+May 1. The number of students 
+accepted into Ihe program islimiled 
+to 10 pel semester. Prospective stu- 
+dents must meet scvtial dcpanment 
+requircmenis including having 
+earned a 3.0 CPAin their undcrgrad- 
+ualc major and lubmitiing on essay 
+slating their caieei goals. Pan of the 
+selection process of master's degree 
+candidates will be based on whedier 
+or not a sociology faculty member, 
+whose leseaich is m die same area 
+
+
+
+as Ihc candidate, agrees to mentor 
+the candidate. 
+
+Jobs ihat tbe degree is particu- 
+larly conducive to include urban 
+planners, technical wntns. family 
+and cotrununity medialois and for- 
+eign service ofTiceiS, as well as 
+many research related jobs and posi- 
+
+For more infonnation on this 
+program, mquines may be made al 
+Ihe Department of Sociology and 
+Anthropology, Classroom Medical 
+Building, Room 241 or by calling 
+481-6342 Interested sludenis may 
+also send e-mail to soca@iprw.edu 
+or visit their wcbsile at 
+www, ipf w.ed u/soca/mas l ers. h iml . 
+
+
+
+CSSAC book fair to provide money for grants 
+
+
+
+by Mary Anne Gales, 
+News Edilor 
+
+llie Clerical and Service Staff 
+Advisory Commit tee tjrani Fund 
+(CSSAC) is holding its semi-annual 
+Spring Book Fair, tiic book fair will 
+be held on Wednesday, April 19, and 
+Tliursday, April 20, in Kettler Hall 
+on tbe ground floor near die snack 
+
+De^des the usual fare of best 
+
+
+
+sellers, cookbooks, children's 
+books, an and travel books. Ihe 
+book company providing tbe maieri- 
+als may have children's games for 
+sale. One category of books dial 
+won't be for sale is leiibooks. 
+
+"We don't always know what 
+Ihey arc bringing," said Nancy 
+Wunrow. co-chair of CSSAC. 
+"Additionally, each time tbey are 
+here, they dig deep and try to cooie 
+up with new siulT.' 
+
+
+
+Proceeds from the sale provide 
+giants for clerical and service staff 
+and iheir dependents Grants are 
+awarded to employees in die spring 
+and fall. Grants for dcpcndenis arc 
+ako awarded in the summer. 
+
+The I&gt;eeember Book Fair 
+raised more dian S850 for die grant 
+
+
+
+Form 
+
+
+
+infoimalion, conlact 
+Nancy Wunrow, secretary for 
+Rclalionsal481-6SS4. 
+
+
+
+IPFW, Purdue Calumet to offer 
+nursing degree exchange 
+
+
+
+by Todd Hamm, 
+Chief Reporter 
+
+
+
+Tbe IPFW dcpanment of nurs- 
+ing will collaborate with Purdue 
+Calumet to begin offering two new 
+Nursing Masler of Science pro- 
+grams this summer Tbe programs 
+will be Masters in Clinical Nurse 
+Specialist and Family Nurse 
+Practitioni 
+
+
+
+she said, will be laughl dirougb dis- 
+tance education — either through 
+iniemel classes or by two-way 
+video. The odier 49 percent of die 
+core classes will be laughl al IPFW, 
+She said that all of the sludenis' 
+clinical hours wUl also be taken 
+
+Purdue Calumet, located near 
+Chicago in Hammond, Ind. wdl 
+offer IPFW's enisling Masler of 
+" ■ ' Nursing Admini 
+
+
+
+■Tbere's nol enough advance ■^"S" « ^^^ "' 
+_. -.. - "j _._.-_. oroiram. 
+
+
+
+: praclilioners," said nursing 
+
+Slenibetger. 'Thai's one of Uie 
+occupations that's a real shcflage in 
+health care. There's a lol of demand 
+
+
+
+GPA, I 
+
+
+
+of Sc' 
+
+
+
+Nu 
+
+
+
+ing 
+
+
+
+Admlnislration. 
+
+"We wanted to inca'ase die 
+options for nurses in die communily 
+to get Masters in oibcr areas of 
+nursing. I^oplc in Ihe Fort Wayne 
+area con now gel diese degrees from 
+Ihirdue here on diis campus and not 
+have to travel anywhere." 
+Sicraberger said. 
+
+She explained that Ihc 
+Commission of Higher Education 
+required students matriculated in 
+this cooperalive program lo take al 
+least 51 percent of die core courses 
+in die degree from die bosi universi- 
+ly, Purdue Calumet. These classes. 
+
+
+
+: obtained a registered 
+
+year of nursing practice. 
+Slembcrgcr said Iheic will not be a 
+limit set as to Uie number of stu- 
+dents Bccepled. Students will regis- 
+ter al IPFW, bul will be Purdue 
+Calumet sludenis. 
+
+Graduates will) ei die r of diese 
+degrees will work in a vanely of 
+environmenLs including hospitals, 
+private practices, schools and nurs- 
+ing bomcs. Slembcrgcr said dial Ihe 
+advance nurse piacii lionets will 
+asses-s patients' health and diagnose 
+sympioDis. prescribe medication 
+and coordinate ihc palienLs' care 
+
+
+
+For more information i 
+eidier of diese degrees, contact l 
+department of nursing in Neff B 
+orby calling 481-6816. 
+
+
+
+Aiumni 
+Association 
+sponsoring trips 
+
+by Todd Hamm, 
+Chiel Reporter 
+
+
+
+IPFW's Alumni AssodaUon ii 
+schcduhng trips lo Alaska, tendon 
+and soudicm France. 
+
+For tbe pa.«t three years die 
+IPFWAA has been offering aHord- 
+ablc trips to places like Uiesc in 
+America and abroad as pan of a 
+
+
+
+welcome lo go on 
+these nips, said IPIWAA Director 
+of Alumni Relations lennircr Bosk. 
+She said Ihe IPFWAA works with 
+the tour company Global Holidays 
+to set up die trips. 
+
+The excursion to Alaska will 
+be a cmise on ihc M S. Ryndam, one 
+of the ships of die Holland America 
+Ime. Tuio itinerary options are avail- 
+able: a northbound aixl soultaboutid 
+Glacier Discovery Cruise. Prices 
+begin at Sl,879 per person and dates 
+include June 11-18, June 2S to July 
+2, July 9-\6 for die northbound trip 
+and June 18-25 and July 2-9 for Ihe 
+soudibound nip. 
+
+Tbe northbound cruise begins 
+in northern Vancouver, traveling 
+post several glacier signi-s inciuOing 
+Gbcier Bay National Pork and 
+Hubbard Glacier, noied for cahing 
+or shedding icebergs. The cruise 
+continues northward, slopping at 
+Sen-ard. Alaska, where travelers wUI 
+fly to Anchorage. They will travel 
+by rail to Fairbaidis and dicti circle 
+back.ihrough the Alaskan moitniain 
+range. The soudibound ciuise will 
+
+
+
+1 die s 
+
+
+
+, but i 
+
+
+
+Beginning in late July and run- 
+ning Uirough early September, die 
+trip to London will provide an 
+opponunily lo visit many well- 
+
+
+
+Sioncbenge, Baib, Greenwich, 
+Cimicibury, Oxford. Leeds Castle, 
+Buckingham Palace and tbe 
+Wesiend London theaters. The cost 
+of die [rip ranges from SI, 149 to 
+SI, 44&lt;l per person Many addiuonal 
+travel opponuniiies are available on 
+Ihc weeklong trip including day 
+trips lo Paris by roil. 
+
+During September ood 
+Ociobef, travelers can visit Ihe south 
+of France. Prices begin al SI. 109 for 
+a week in locations inunonaliMd by 
+painters Vincent Van Gogh and Paul 
+Ceiannc. TTio irip wdl include four 
+nigbis in Provence. Fiance and three 
+nights on the French Riviera. 
+Provence is known for its Roman 
+relics, as well as its benevolent cli- 
+mate and sublime scenery. On u&gt; the 
+Riviera, travelers can visit villages 
+like Cannes and Nice, as well as 
+absorb ihe splendor of Ihc 
+Mcdiicnanean. 
+
+Tliosc intcresicd in a irip with 
+IPFWAA should eidiei call Jennifer 
+Bosk at 481-6807 or stop by Kcidcr 
+
+
+
+HalIRi 
+
+
+
+1 142. 
+
+
+
+A Star in Xhe making 
+
+
+
+
+Photo by Linda Laslie, Spons Editor 
+
+Freshman Matthew Kent made five hills and Itiree 
+blocks against Clarke University. 
+For more volleyball, see page 6. 
+
+
+
+Campus counselors 
+help relieve stress 
+
+
+
+by Todd Hamm, 
+Chief Reporter 
+
+Wtib die advent of fmals and 
+graduation and Ok dose of anodier 
+u:hool year, it's only natural to feel 
+overwhchned and anxious. 
+Sometimes Ihmgs can get lo be too 
+much. IPFW offeis a free counsel- 
+ing service for any student feeling 
+more than his or her share of anxiety 
+or dismay. 
+
+Don Smith, a licensed clinical 
+social worker, works alongside clin- 
+ical psychiauic nurse Lynn Huetl to 
+counsel and administer to IPJ^ slu- 
+denis. '1 fmd out what ihc present- 
+ing problem or complaint is then I 
+do on assessmenL I lake a good hard 
+look at whcdicr diey're suffering 
+from depression or aiuiety and 
+whether they've had a physical 
+recently because depression and 
+anxiety can mask some oUicr under- 
+lying physical hcaJdi problem,' he 
+eiplained 
+
+Smidi said dial aliogeihcr tbey 
+see about 25 students a week. With 
+'the whole gambit' of personal 
+problems— from divorce and loss of 
+loved ooes to culture shock. 
+
+'Isee a fair amount of intema- 
+liooa) iludcnis who come oi-er and 
+have a really hard time adjusting 
+
+
+
+becau.se of Uie weadier, die food or 
+maybe they saw terrible diings in a 
+clvd war m iheir country and it's 
+just beguining to bother diem.' 
+
+Smidi said he aJ.so screens foi 
+drug or alcohol probtems and any- 
+thing else 'interfering wilh slu- 
+denis' ability lo funcdon, to per- 
+form, 10 study." 
+
+Smidi, however, said die serv- 
+
+
+
+TTiere arc probably a thou- 
+sand students, sutistically. on this 
+campus who would bene fit from 
+bcatment. but fox less dian thai are 
+going to be seen or assessed,' be 
+
+Smidi and Huen are not the 
+only counselors available at IPFW. 
+The Joanne B. Lant2 Counselor 
+Education Clinic, Campus Mmtsiry 
+and die Center for Women and 
+Aduli RctuiTung Suidenis all also 
+offer counseling to sludenis. 
+
+Don SmiUi is available by 
+appoinimenl Wednesday through 
+Friday, fiom 8 a^n. in 5 pm. He 
+.said he is also available, if ncars- 
+sary. in die evenmgs and on week- 
+ends. Lynn Ilueit is avaibble 
+Mondays from 8 am, to 5 p.m. An 
+appointment is not necessary. Bodi 
+may be reached in Walb Union 
+Room 111 orbycalUng4Sl-660l. 
+
+
+
+Spreading Easter cheer 
+
+
+
+
+Phola by Mary Anns Gates, News Editor 
+
+Jennifer Bosk, director of alumni relations, is coordi- 
+nating IPFW's efforts to collect Easier baskels for 
+inner-city school children. Indiana Wesleyan, 
+Manchester College, Tri-State University, Ivy Tsch 
+and Grace College are also involved in the project. 
+The baskets will be delivered April 19. 
+
+
+
+Page 2 The Communicator 
+
+
+
+commentary 
+
+
+
+April 13, 2000 
+
+
+
+Statt Editorial 
+
+
+
+Bad parking garage driving: Where does the blame lie? 
+
+
+
+
+
+Photo by Mistianna Wood, Managing Edrlor 
+
+The yield sign in the parking garage is something that is frequently ignored. 
+
+
+
+Withdrawal policy iinjust 
+
+
+
+by Adam Taylor, Editor 
+
+Manitu of tuvinglbe wrong pri- 
+orilics tuve finally caught up wiih mc 
+
+nniUntiiJ myself in a very precarious they're doing until ihc 5emi:ster 
+iiluaiion. I'm faced wiih either Hunk- lialfway over. As my recent boui with 
+ing a clau or doing liiU of a semes- one of my classes proves, I'm one ot 
+"■'■ '' -T ihrce weeks. Normally. I ihctn. 
+
+
+
+liatf of the semester? After all. some coold pass his class. I did so even 
+
+snidetits don'i even know how bnd though ihey told me the dean liad only 
+
+'■" been approving for tuil wiihilrawals. 
+
+
+
+opens Ihc door [or us, it is proper id Uiank 
+
+someone u in Unc ahead of us, then we should kt 
+
+thtm be serviced fiisl. Rules (another aspect of coin 
+
+lesy) are enforced lo give us guidelines anil to assist 
+
+those of us who fail to be thoughtful. 
+
+A visible and common symbol of the law is a 
+
+traHlc sign. If we see a yield sign ihcn we should 
+
+yicldll Yielding to others inihc pariiing garages docs 
+
+L. _ ._.. _. -niic of common couoesy poiential to make change? Ah, ha ..Ihc person. On 
+in where this final word, wc suggest ihat before someone gels 
+""" ^" mauled or trapped ■-"•-" "■ '■ '- - " 
+
+
+
+'It) hi itrtid) ■.pini IhousanJt of dollji 
+nlatikcl) ncv. additions We aren t sure if the&gt; 
+would spind mon. mone) for red yield signs thai hil 
+us in the face Perhaps the mitiatne for Mher foimj 
+ol Ihc yield sign will ^c when someone gets hun. 
+Wc hope tJiat Ihe day will never aniw. 
+
+People hai-c minds ami they can Ihink, whereas 
+a sign bearing Ihe uord yield and a yellow iriangli; 
+
+
+
+to many siudenis here. Perhaps, depending 
+you arc in (he garage. Ihc sign b difTieuli to see. We 
+arc undecided if the placement of the signs or the 
+carelessness ofitie students is 10 blame. 
+
+If you ever have extra minulcs available lo 
+walch cars in (he parking garage, you can sec (or 
+yourself itie argument we are about to discuss. 
+Almost the entire staff look a walk out lo one of the 
+parking garages to enamine the scene. Screeching 
+tires and raceway slyle driving wf 
+alt yield sign violators. Wilhin ten 
+clt|s had fiiw^isl(liu.mlb.p«lei 
+
+
+
+n that al 
+garage. 
+
+
+
+Wc noted Ihal the violators coniinued on (heir 
+way without a flinch or second glance. One individ- 
+ual did not even bother lo use the brakes. An oRicer 
+from police and safely said there have been com- 
+plaints, bul the incidences happen so quickly, tittle 
+
+Obviously these people have to be able lo see 
+some signage. Especially tlte one ihal reads "exit " Is 
+11 possible that they can't see Ihe yield signs? Wc 
+believe, ihai in some siiualions, ihc yield signs are 
+not easily visible. We have found that lighting, the 
+height of a Mihiele and die height of a person are fac- 
+tors that can delermmc when a person can sec a yield 
+sign. The yield sign is visible at some point or anoth- 
+er, but not soon enough. 
+
+A possible solution to this problem nould be to 
+: install more signs or place a larger, more traditional 
+
+
+
+Whispered fabrications 
+
+by Misharuia Wood. Managing Editor 
+
+
+
+
+would jusi buckle down 
+u-orry about the situation, but the fact 
+that [ do have other priorities still 
+remains and I am going to be very dij. 
+traded in (he next few weeks. 
+Besides. 1 can'i get over the fan that 1 
+feel 1 shouldn't be in ibis situalion. 
+
+Es'ciyone here is guaranteed at 
+li;asi one diing as far as Iheh classes 
+
+go: if you aren't doing well in your questioning whether or 
+class during the first half o( the even remain in school, th 
+semester, you hare (he chance lo drop recommended dropping 
+
+
+
+The deadline for Ihe lasi day to in the class compared lo the slanilard 
+
+
+
+knew, I was doing fine in them. After don'l understand, diough, is why I 
+
+a meeting with one of my professors was denied after (he instructor said it 
+
+the Wednesday following my claAS, wasokay.Ewnif theinstructordidn'i 
+
+Ihough, he told me raihcr bluntly that approve my withdrawal, shouldn't ihe 
+
+' ■ far from being okay in the class, decision rest widi the pifson who paid 
+
+
+
+He w 
+
+
+
+n fact, t 
+
+
+
+ii of h 
+
+
+
+the money and wboK.acoriljtill be 
+lamLsbed by being forced to stay in a 
+class lie obviously has no chance \o 
+
+
+
+the class and gel Utile or no money cbiss in pariicuk 
+
+back. As fair as this may seem, the Feeling depressed. 1 wen 
+
+fact Ihat it only covers half the semes- work following the meeting ani 
+
+ler does seem a little unjust If I'm ized that i( was too laie for i 
+
+paying for a classMid devoting my wiibdraw from ihe chss. I had „ ... _ ^.., 
+
+■ve some say ihe dean's permission from whichever fail anyway The whole thing has 
+
+continue lo school that class fell under I tried lo given me a bad opinion of my future 
+
+&gt;.- .. class? Why can'i students drop anyway, as the professor had mt ahna maier, should Ihey ever let mc 
+
+withdraw from cla.sses during (he last con\inced that there was no way 1 graduate 
+
+
+
+As a result of this mess, my 
+instroctor is upset because tic has to 
+compromise his deadlipc and give mc 
+foraclass which I might 
+
+
+
+in whciheror 
+
+
+
+Touching moments in our lives 
+
+
+
+Jody Reiler. Staff Writer 
+For [his column I've been given Ihc opponunity to ries we brought back with us will make us laugh forever 
+about anything I want, it should be cam pus-re taled Eiample: 'Tony smells like my ass" and its concsponding 
+»,.. . . .._.. . . inierprcmtion in sign language. Gelling away from every- 
+
+'""ing aod.just fiaviog fun really is an experience all in it 
+
+
+
+.^ome imponani social topic. I real- 
+ly don't want lo write aboui thai, I've had a lot lo deal with 
+in my life ihis past, schqol year. I've been lold that 1 am 
+"Iipcriencing stress, but I itnn't really,belMive ihat.. I diink 
+I've been cHpcrieneing an oversized dose of life, 
+
+I've seen family members and friends all go. I've bit' 
+ten off more than I could chew and I've had a substaniial 
+amount of "bad memories." The funny thing is I've had a 
+
+
+
+owOi.iMiQ»fl.*'5}aDXiS'PP'"K it^lhc/iecjung ^aier-cvcn 
+ifihcgiHtiJidinnlyAvMch. Drinking aroundacanipfirc can 
+t&gt;e entertainirij. 
+
+Have you ever had Ihe bestkiss of yourlife? I've had 
+a number o( relationships where 1 really cared for the girl 
+i was with, but 1 can honesdy say 1 never enjoyed a kiss 
+■-- ■'-- - ■ had that weekend. She caught me oft 
+
+
+
+Most of th 
+
+
+
+SI talking and making jokes 
+
+
+
+
+Dl really big on writing 
+touching pieces about different 
+situations thai occur in my Ufe. I 
+struggle speaking to just anyone 
+coneeraing my "lite instances" 
+end I certainly would never write 
+about them Thanks to my belief 
+that one can't completely mist 
+most people with any type of per- 
+tinent or "juicy" personal infn- 
+mation, I choose m -clam." The 
+thought of having hundreds, per- 
+tups thousands of sirangers reel- 
+ing about a sensitive pan ol me is 
+rather unnerving for this reason. 
+
+Humans can be very mind- 
+lessly wicked with all their 
+
+
+
+am one of them and so are all of 
+you. False light is created when 
+we make a judgmeni on single, 
+rare events that happen in a per- 
+son's life, I remember words that 
+
+
+
+1 hatt: spoken and ei-cn worse, 
+opinions thai I haic formed about 
+other people 
+
+Opinions or thoughts about 
+someone are perfectly fine. They 
+are not acceptable when no real, 
+upfront information lo support 
+these suspicions exists. 1 am noi 
+speafcmg of hunches or theories. 
+Instead 1 am interring about whis- 
+pered fabricauoas. They thrive m 
+our minds, stampede from our 
+mooihs and radiau: dirough our 
+actions. No matter how much 
+effort we put into creating a palat- 
+able illusion, our thoughts always 
+transcend onto Ihe world ouKidc 
+our minds through a look, gesture. 
+
+All of us have fell thai 
+unruly knot (hat fonns in our 
+
+one has ill thoughts about us. I[ is 
+one of the mosi uncomfortable, 
+uiking feelings around. We don'i 
+know of any juslifiable reason tot 
+another person to hold a negative 
+image of us. Not knowing gnaws 
+al our brains, 
+
+1 have spent an endless 
+amount of time (without realizing 
+il) analyj^ng a brief encounter (hat 
+I had with another person that 
+
+
+
+seemed out of sync. Some of the 
+questions (hat first strike my 
+thoughts are "What did I do or 
+what did they doT" The questions 
+go on and on until the whole situ- 
+alion ha.s been lalionalued. Tlie 
+creation of a new false image has 
+been corapleied. All of us go 
+through a lot of trauma via the 
+opinions other people form. 
+Unfotlunaiely, whispered fabrica- 
+tions are a very imponani and 
+pott-crful curie in our society. 
+
+Wc arc all guilty victims of 
+concocted supposiiions. Wc all 
+despise il and yet we all panici- 
+paie in it. Someday, many of you 
+may tire of this endless cycle. I 
+am one person who is very lired 
+of (he mcny-go-round. 1 really 
+don'l know what can be tlone, bui 
+I believe I can give something id 
+think about. 
+
+Wc always tell each oUicr 
+not to be so self-conscious. 
+However, self-consciousness is 
+something we will carry forever 
+unul people smp forrtung false 
+images. TTiink of how you would 
+feel if you fell "free" to sky-dive, 
+dye your hair purple or dance in 
+front of thousands of people. 
+
+
+
+It sccnu those good memories give me rea.son not to guard, 
+(ust drop out of school and just slay at home u-au:hing 
+Scooby Doo cartoons. I suppose I could wriie about my 
+unfonunaLe life experience, bul who really wants to be 
+depressed'.' Or I could write about something totally unre- 
+lated to myself completely. Honesdy. I'd rather fill my col- 
+umn with personal enjoymcnL 
+
+Have you ever had the best lime of your Ufe? Was ii 
+something dial was just completely ridiculous? Take me, 
+
+for example. 1 have a lot of memories. I've been to 
+
+Woodstock. I've taken spring break trips. Memorable remember anything. Ever" 
+stuff, right? They rank up there, yes, bul they weren't the On that note, I'll suffer through one more year (and 
+
+umes of my hfe. I had the bcsi time ever when 1 went probably half) of college. I'm sotiy if this column doesn't 
+camping with my best friends (his past month. resolve any problems or influence anybody to go chanee 
+
+We only stayed for a sbon ncckend, but the memo- the world. At least il made me smile 
+
+
+
+; alone m be 
+pcrtiiinial to Tony's 
+sation became serious and 1 had closed my eyes jiist tor a 
+second when I felt her lips against mine. 
+
+I cxpcclcd il 10 happen sooner or later Just never al 
+
+the pcrfeci moment, 1 opened my eyes and looked at tier. I 
+
+have never seen her more beautiful. Her eyes were 
+
+clenched closed. Her fare was soft. Her lips were full and 
+
+1 remember die taste of her mouth belter than 1 can 
+
+
+
+Letters to the Editor 
+
+
+
+Well done IPFW election board 
+
+1 would like to publicly thank the 2000 IPfTV the candidates ; 
+
+Deciion Board for their dedication and hard work in con- of four a large r 
+ducung this past week's siudeol government elections. 
+
+This board, Shubitha Kcver, Robin Silk, Amy Daniel L Gehhari, 
+
+Whilehouse and Tony Wright, spent countless hours plan- Inierun Director of Student Acti' 
+nmg, coordinating, adjudicating, counting and verifying 
+
+the process. Due to their efforts, ibis year's election Note: TSir fci«r was unable t'c 
+
+process was handled very effectively and efficiently. All ot probUm doHvloadmg jt/rom ou. 
+
+
+
+Thank you for being a friend 
+
+
+
+To whoever has tii 
+
+
+
+
+
+
+Editorial Board 
+
+
+
+MlihiiiM Wood, Managing tjliloi 
+Mu-y A OH Gales, News Edmr 
+Milhsa Frtu, Feaiutts Editor 
+Llndm LesLe, Spans Editor 
+Todd Hunm, CkitfRtporur 
+Erjc T«rti Editorial Cartoonist 
+Kslhy Delagringt, Copy Editor 
+BrUn Mllkr, Advtmsitii Manager 
+Dorl* Rtyitotds, Pablislur 
+
+
+
+Friend, (frcnd) n.-a person 
+whom one knows, Ukcs and tnisu; a 
+close aoiualntance. I would like to 
+expand on itiis very shallow defini- 
+tion. I am graduating in May and not 
+only am I leaving here with an awe- 
+some degree in Communication, but 
+also with three priceless friends who \ 
+will always be inttebted to. The cama- 
+raderie Ihal has been created through 
+the years with Uiese guys knows no 
+bounds. They Live been iherc for me 
+through sevnal trying limes: ttie 20 -f 
+page papers, German tests, committee 
+meetings, diabetic and other health 
+problems, financial challenges and 
+
+
+
+being where so-called adults spread 
+their rumors at&gt;out someone. You fmd 
+oui who your friends are when trying 
+umes occur and they ivere always 
+dictc to give support and lend a help- 
+ing hand. 
+
+Friends are also people widi 
+whom youstiare the greatcsl of times. 
+The New Orleans trip, golf outings, 
+chasing wild women (the pursuit of 
+happiness or the happiness of pur- 
+suit), ~siudy breaks" and conversa- 
+tions widi these guys in (he G. PG. 
+PG-13, R and XXX categories will 
+always be remembered. Each day 
+brings a new memory wi(h Ihese 
+guys. These arc broad topics, but 
+dierc is no one else in ilie world Uial I 
+
+
+
+would want to share Ibe good limcx 
+with than Ibc friends I met hoe as 
+IPFW. 
+
+Greg Sehamberg, Jason Rocbcl 
+and Nick Gray; Thank you for being 
+there. There are not enough words 
+that can describe or do justice to 
+describe the thankfulness 1 have 
+lowards each of you. Through your 
+actions, you have made mc a belter 
+person, Greg. Jason and Nick: Walk 
+each day. remembering to do unio 
+oiticrs as you would liave tlone unto 
+you and thanks for letting mc walk 
+
+
+
+Contact Us! 
+
+
+
+Mall: The Communicator, . . 
+
+Student Union. 2101 E. Coliseum Blvd., 
+
+Fon Wayne, IN 46805 
+
+E-mail: siupaper&amp;hohncs.ipfwedu 
+TiUphone: 
+Editor 48 1-6 JS4 
+Publisher 4g|-65as 
+Advertising: 48I-6S83 
+
+
+
+Editorial Policy 
+
+
+
+Unsigned editorial) arc (be opinions of The C 
+Ttey do not nece»sarily reflect Ihe views of IPFW, its employees 
+or its sludcnl tiody. A column is solely the opinion of lis author. 
+
+The Communicator welcomes responses from its readers. 
+Letters to die Editor and guest columns must be sigiwd. dated and 
+accompanied by a current, vahd address. 
+
+Ail submissions made via e-mail must be verified by phone or 
+in person. Submissions via mail or e-mail without this Infonnation 
+will not be published, exoepi under extraordinary circumstances, 
+CLiss standing or tide are also requested. Addresjcs and phone 
+
+
+
+numbers will never be published. 
+
+Submissions must be typLnrilten. double-spaced and no more 
+than 300 words. Submissions for the next week's issue must be 
+received prior to 5 pjn, on the Friday before itu issue ii printed for 
+
+The editorial boanJ of The Communicata reserves the right to 
+edit all submissions for length, graaunar. style and clarity, loiters 
+deemed libelous by The Communicator's editorial board will not 
+be published ur 
+
+
+
+April 13,2000 
+
+
+
+features 
+
+
+
+The Communicator Page 3 
+
+
+
+Famous comedian Michael Rayburn coming to IPFW 
+
+
+
+by Laura Schlegel, 
+SlaH Wrrler 
+
+
+
+EmiuuDiu, jok£x aaii miulc me 
+ibice Uiings ihal can be found a[ 
+Michael Raybnin'i comedy itiow at 
+IPFW April 17 Includtd in his acl 
+
+
+
+
+are comcdic csven of songs by 
+flxxisls such as Alasis Morisscne. 
+Bob Martey and even his own ver- 
+sion of ihe Brady Bunch ibemt 
+song. Orfgiiul songs wilJ be fea- 
+lured as wilL Raybum blends can- 
+cdy, music and guimr logctber iviih 
+whai some say is a periecl blend for 
+a performance, 
+
+Raybum has been known lo 
+have several feum performances ai 
+nearly every one of bh venues. 
+Also, he is able lo crcale sponla- 
+neous Hiaraihon concerts. Raybum 
+perfomu al basically any function 
+from coqwralc lo scliool lo fcsLJ\-aLs. 
+
+"Jusi a teally differenl guitar 
+playa, j-ei he's a comedian also," 
+■aid Vice PicjidenI of Sludcni Body 
+Piogramming. Jenec Johnson. 
+
+Raybum. who u a Nashville, 
+Tenn , native, is cuiienlly on the 
+rirsi-cver nationwide bicycle tour. 
+procDOiing his new music album 
+"Unstoppable" and pciforming bis 
+routine at sites on the way. I'his 
+well-knouTi performer has recently 
+been in articles in both Billboard 
+
+
+
+and Newsweek magazines fa his 
+music and overall attitude. 
+
+Raybum sianed bis torn- in Lm 
+Angeles and plans lo end in New 
+York City. TIk tour kicked ofl 
+Febmary 2000 and included 35 
+shows in ihrec moniJu and aboui 
+4200 miles travelcil. All of ihis iHm- 
+siop Raybum's music will appeal 
+■"-"people on his tour Hchasper- 
+BOO college 
+
+
+
+
+
+
+
+
+
+:'U,S, , 
+
+
+
+
+
+
+lhiDughouiCan;la. In each of these 
+performances. Etaybum gives bis all 
+to please the crowd. 
+
+On (op of being famous, 
+Raybum has been given the 'Hany 
+Oiapin Award for Corlribulions to 
+Humanity" for bis global wotk with 
+impovetishcd children. 
+
+"He's gotten all kinds of 
+an aids lor community service," 
+said Johnson. "One of his big ones is 
+when he goes cross-counuy service, 
+Eveiy school that he goes to, he 
+takes two tee-sJiins and then he 
+donates them 
+clothing." 
+
+
+
+o people who need 
+
+
+
+Raybum also ccntnbutes to the 
+nimiiy by raising funds and 
+eness with his tour (or SL 
+Judc"s Children's Research 
+Hospital, located in Memphis, f^nn. 
+He also volunteers his time with 
+working with Compassion USA, an 
+organ iialion that is dedicated to 
+helping the children in the inner 
+cities and Native American ttsen-a- 
+tioos across the U. S. 
+
+People are encouraged to Join 
+Raybum on his (out. His wife cren 
+(blkiws behind in a van. 
+
+11) is canng and outrageous 
+character will have been on his bicy- 
+cle for about four months by the 
+tour's end. riding from campus to 
+campus, averaging around 100 
+milesaday. During his totir, his new 
+and nrtb independently produced 
+music album was released, making 
+\a debut at his Univc.-sity of [&gt;allas 
+
+Raybum has also released four 
+other CDs. flicy include: "Better 
+Days," "Poslcanls from the Road" 
+(Live). "Wooden Voices" and 
+
+
+
+■^s^n- ■ the IPFW campus. 
+
+For the last two years. As Billboard magiilne says, 
+
+Raybum has been America's "Mike Raybum is tnakin' U 
+Campus EntEn,-uner of the Year and happen. .." 
+for the last Gve ytir% he 
+:en Am erica's 
+Coffeehouse Entertainer 
+of the Year. Raybum is 
+
+
+
+the end othis tour 
+cipectcd to be 
+oitercil into the Guinness 
+of World Records 
+for this cycling deed. 
+
+Raybum's tour is 
+being spoiuDied by such 
+organizations such as 
+TREK. Songs.com, Today 
+magazine. Elixir guitar 
+soings, Taylor Guitars and 
+Campus Activities. 
+
+Raybum is set to hit 
+Fort Wayne 
+
+
+
+All About the Movies 
+
+
+
+Sweetness will help you 'return' to the theater 
+
+
+
+by Ben Freese, 
+Staff Wriler 
+
+
+
+It's almost unraihomoblc, but 
+comcdienne/rirsi lime director 
+Bonnie Hum has accomplished 
+something actually quite cxtraonli- 
+nary. In an age of wild and unmly 
+roughshod movie violence where 
+10 entetlaiiunent is how 
+many bad dudes the hero can put 
+n wiih an automatic rifle, here 
+i:t and innoccni fsbh 
+
+
+
+simclor (surprisingly played with 
+usty charm by the ever incompara- 
+ble David Duchovny) and the tragic 
+events which bring him and a com' 
+picie stranger (a very engaging 
+Minnie Driver) into each odier's 
+hves. Actually, the plot, despite it 
+being extretncly piediciable, is 
+quile a romaniic notion for a slory- 
+
+
+
+
+liked, OuchoxTiy seems to sense that 
+his wife is still ahve because he can 
+still feel her heart teating. Months 
+later the two meet and fall in love. 
+Of course, the two cvennially dis- 
+cover the truth about each other and 
+have to decide bow to deal with the 
+uncomfonablc situation As one 
+character says, however, perhaps 
+il's fate dial Duchovny will never 
+lose that particular heart dunng his 
+
+All of this is very sweet and 
+quite 3 Ibrowhack to the old days of 
+movie-making; Oie real strength of 
+the film, Ibough, is in the supporting 
+characicTs who help elevate the sap- 
+piness and give it an essentially real 
+quality In panicular, I enjoyed 
+Carol O'Connor {from television's 
+"All in die Family" and "In die Heat 
+of (he Night") who seems to slide 
+Into his rail; as ttfivcr's ptauaivc 
+grandpi with ease. Ke disappears 
+into the character 
+
+
+
+comic liming to make everyone 
+laugh oui loud) as Driver's best 
+friend and James Bclushi in a short 
+{bul downright funny as heck) part 
+as Hum's husband, Robeit Loggia, 
+beiterknownforhls mafia roles and 
+tough guy pons, plays anodicr one 
+of Driver's confidants. (One of the 
+funnier parts of \tK film involves a 
+graup of older guys that mcludcs 
+O'Connor and Loggia who sit 
+around and talk about old music all 
+day while playing cards and try to 
+offer advice to Driver, all the while 
+spying on ber and acting as her 
+prove ibial cupids.) Jocly 
+Richardson, in a short pari as 
+Duchovny's ill-fated wife, even 
+brings an innocent quality to her 
+character ihal helps to sei die tone 
+for die whole film. 
+
+
+
+
+:liheb( 
+
+
+
+o look and feel 
+
+
+
+■to-ure person. Ne^i to all 
+
+the good looking movie stars. 
+
+'Connor really looked like quite 
+
+your average, normal person. This 
+
+" crack on him, as I simply 
+
+at he attains that "guy next 
+
+'could be your own giand- 
+
+quality and 1 happen to ihink 
+
+s rare when such a great and 
+
+complished actor can be so 
+
+ievable in a role. 
+
+Also involved are Bonnie 
+nt bcrscIT (who retains that trait 
+^tuihles her to use ber perfect 
+
+
+
+PACKAGING SALES 
+
+Excellent opportunity for an 
+I'xpi-iienced salesperson ivho 
+
+is tired of working for 
+siralght solar)'. Wc offer the 
+highest commission in the 
+industry along with a draw. 
+
+Medical and retirement 
+benefits provided Growth 
+opporlunity for a person with 
+experience In any form of 
+packaging. Dor people know 
+of Ihis ad. All responses held 
+in strict eonnJcnce. 
+
+2176 North Btomel Drive 
+
+Suite 3 
+
+Warsaw, IN 4li582 
+
+
+
+$200 
+
+Sign On Bonus 
+Join a winning team Stanley 
+
+Siecmer has Immediate 
+Openings available for carpet 
+
+cleaning technicians. 
+- Starting wage SB. 50 ■ 
+
+S12.00/hr. with many 
+
+opportunities for 
+
+ad... -cmcnl. Paid holidays, 
+
+vacations, training &amp; major 
+
+mcdkal insurance available. 
+
+Applicants must have HS 
+diploma or equivalent, clean 
+driving record. Applicants 
+
+may apply In person 
+
+
+
+Help Wanted 
+
+Scra-Tet Blologlcals Is laoklnB 
+for a few bright, cheerful and 
+
+customer-service oriented 
+college students for full/part 
+time employment. We offer 
+full time employees a benefits 
+package and excellent working 
+conditions. 
+
+
+
+-Medical experience helpful 
+-Medical students welcomed 
+■Flexible schedules available 
+
+Apply in personal 
+
+SOS E- Washington Blvd. 
+
+Fort Wayne, IN 
+
+Equal Opportunity Employer 
+
+
+
+Flexible Hours to Fit Your Class Schedule! 
+
+
+
+I United Art and EducationC^ 
+
+
+
+LOOKING FOR ENERGETIC WORKERS 
+
+
+
+JOIN OUR WAREHOUSE TEAM &amp; IVORK IN A FRIENDLY ENVIRONMENT. 
+
+■ Work part-time new/full -time in the summer 
+
+■ Duties include order nilins (irKkldes seme lifiht liftinfi up t« SOIbs) 
+
+■ SUrtinc at ST^OO 
+
+
+
+Contact Mark or Tom: 
+
+(219) 478-1121 Monday-Friday 
+
+
+
+JnitedC?=^ 
+
+II Art and Education \ \ 
+
+
+
+44l3DilniiiRMj, hrtWifiH, IN 
+
+
+
+
+^ Campus 
+Calendar 
+
+
+
+for April 14-20, 2000 
+
+
+
+Man's volleyball. GC, 7 p.m 
+
+14 Qumcy University. 
+
+15 LoyolaUnrversity-Chicago 
+
+
+
+. NF Recital Hall, 7 30 p m , for 
+Information, call6714 
+14 Symphonic WrntJ Ensemble, Heed 
+Thomas, director 
+
+17 Percussion Ensemble, Braham Oembar, 
+
+18 'The Feminine Inlluencein Musrc — Fanfare 
+for the Common Woman," K MaiieStolba. 
+professor e me nta of music, SB 168. 
+
+EmploymentSBrvlceB. for informaUan, call 
+
+5401 
+
+14 Registration lor R^sumd Expert Career 
+Connections Database; appointments for 
+resume crilique. and campus interviews, 
+vanous limes. WU 1 13. 8 a m.- 5 p m,; 
+continues through Aphl 2B 
+
+19 Worltshop:'TheArlot EHectiva 
+Interviewing," WU1 12. noon-1 p.m. 
+
+14 Public and Environmental Affairs 
+Alumnl/Graduallon Recsption, Pine 
+Valley Country Club, S 30-7 30 p m.. for 
+infomiatjon.caii6351 
+
+
+
+17 Visual Arts Exhibit: Spring senl' 
+VA Gallery. Monday-FriJay. 7 a 
+
+
+
+19 CSSAC Spring Book Fair, KT ground 
+floor, 9 a tn -4 p m : also April 20. For 
+infonnation.call6B07 
+Anthropology Club Lecture, KT G46, 
+11 a.m. -2 p m., for Information, call 
+219^83^78 
+
+ETCS Scholarships for Excellence 
+program and luncheon, WU Ballroom, 
+noon; lor information, call 6B39 
+International Services Workshop: 
+"College Advising lor Exchange Students, 
+Refugees, and Nonnative English 
+Speakefs.' WU 224. 1 30-3 p.m.; lor 
+inlormation.call6923. 
+Dinner Series, "City Jazz,' PotawatomI 
+Inn, Angola, 6 30 pm. $20 per person. For 
+reservations, call 219-4 86-891 7; (or 
+infbfmatjon about the dinner series, call 
+
+6562. 
+
+
+
+15 Saturday Sessions at Borders, "A Train 20 Seminar: "Impact of HIV Irleclion on 
+
+
+
+Ride througt) Singapore, Malaysia, and 
+
+Thailand,' AvonG. Cnsmore, Borders 
+
+Bookstore. 1 p.m,; (or inlormation, call 
+
+0808. 
+
+Alumni reception at men's volleyball 
+
+game, GC. 5:30-7 p.m.; for information. 
+
+call 6807, 
+
+
+
+Special Populations,' WU Ballroom, 1- 
+5 p.m., lorinlormation. call 219-744-1 144 
+Career assessment group 
+Interpretation, WU 1 16, 5:30 p.m.; for 
+information, call 6600 
+Anthropology Club Movie, SlrEdwartls 
+Evans-Prilehard: Strsnge Beliars,iCTGA6. 
+6:30 p.m.; for inlormabor), call 6609, 
+
+
+
+This ad courtesy of the Office of Ihe Chancellor 
+
+
+
+Page 4 The Communicator 
+
+
+
+features 
+
+
+
+April 13, 2000 
+
+
+
+Wall of Sound 
+
+
+
+Ouster's third album gains band popularity 
+
+
+
+by MaH Goshen, 
+SlafI Writer 
+
+
+
+Alhuni' "Loil and Gone Fore\*et" 
+
+
+
+Sirwl Date Already in jiores 
+
+
+
+Bnnd: Adam Ganlnci 
+Giian RDsennoicel 
+Ryan MilJa 
+
+
+
+'Wbcn you look in (be mimir 
+/ Wish you were jomebody else / 
+Just a pcifea rciTeclion / You and 
+no one else. ' Minuets ran in lo 
+
+you're still waiting Tor 
+
+Who nei-ct evCT came / Fa Fa Fa Fa 
+
+Fa Fn Fa Fa ' Never be 
+
+
+
+(Never Be the Same Again)" 
+describes ibe band's Itiiid album 
+T-osi and Gone Fccevcr" perieclly: 
+you will never be [be same again. 
+Guiiei bungs moody, poppy 
+melodies with deep. hcmTclt and 
+iboughlTul lyncs [Ogcibci to ocate 
+a final product that cui be described 
+best as un forget lable. 
+
+Tbc Bosu&gt;n sio gained main- 
+
+siream alternative oedibilily with 
+
+A ; A H *'" sopltomon: effort. teleas«3 in 
+
+oayi ( And p^ ^gg^^ ■■Goldlly." "Coldlly" 
+
+somewie ' ^^^ ^^^^ ^^^^^ ^^^ ^^^^^ 
+
+"Airpon Song" and "Demons " The 
+
+band's popularity has been gainmg 
+
+their newejl album "Lost and 
+
+
+
+'BanelofaGun" and "Fa Fa" have 
+
+Introduced tnore and more people 
+
+to Custer's Icgicn of faos. 
+
+"Lost and Gone Forever" 
+
+proves that Gustcr has staying 
+
+power. They know what (bey are 
+
+doing and Ihey will ' 
+
+while If you are loolcing for a band 
+- ■ goodsongand 
+
+album tbal will pab you] 
+a. pick up "Lost and Gone 
+
+
+
+Fascinating 
+
+Facts 
+Did You Know? 
+
+
+
+"99 percent of Earth's 
+fresh water is locked 
+up in ice, glaciers and 
+in deep aquifers." 
+
+
+
+^ , J . , ..1- r- wim mcir ncwc^i tUDum lmh , 
+
+
+
+Spring time? 
+
+
+
+
+Phalo by Mishanns Wood, Managing Editor 
+
+Spring is in full bloom between Helmke Library and Walb Memorial Union, though 
+the weather has been more winter-like. 
+
+
+
+■WIHI 
+
+
+
+It's a simple calculation: 
+
+TIAA-CREF s low expenses 
+mean more money 
+working for you. ^&gt;;. 
+
+
+
+«/iuiator 
+
+
+
+e «quaif«i li easy. IBWH mpensej In maruging a IHtlMMnOFEXPfNSESDMPERFOHMflNCE 
+rf cin «,ual l&gt;ett« perfo-r,.an«, SV 5M0 
+
+iw mudi! Jun take a look at the chort Then 
+
+
+
+we II send you a (ree, easy-to-uie 
+calculator so you can see fof yourself that no matter 
+what yourlnveitmcntyoull beneRi from low eipensei. , 
+And CREF e.p*niei range from jusi 0J9%io 037«.' 
+
+For more than 80 years. weVe been tommined i 
+low eipeniet, juperloi i^utomer setvlee and sirong 
+performance. 
+
+Add it all up and youll Find thai selecting your rctrre- 
+
+
+
+Low-[o!iAnount H 
+
+5313,000 ^^ 
+
+
+
+
+
+Comraunicator 
+
+is hiring for the following paid positions 
+
+Editor and 
+Managing Editor 
+
+for the summer and fall 
+
+
+
+We are currently in need of people 
+
+with newspaper experience as well 
+
+as people who want to acquire this 
+
+experience. 
+
+Give us a call at 481-6584, or stop 
+
+by Walb 215 and fill out an 
+
+application by April 21 . 
+
+
+
+sports 
+
+
+
+April 13,2000 tT The Communicator Page 5 
+
+
+
+IPFW baseball Dons 
+
+
+
+by Linda Leslie, 
+Sports Edilor 
+
+
+
+On Wednesday. April 5. Uie Dons losi tioU) of ihcii 
+doubJe-hcadcn agaiiul [he St. Jotcpb's College Puma in 
+RcnucbcT. Ind 
+
+In ibe tun nulch-up. ibe Dons' rinl baseoun 
+Biyan Scon sconrd lu-o bomeruns; however, Uic team 
+wu defeated by ihe Puma. 2-3. 
+
+In Ihc second game of ibc (by, IPFW fell lo Si. 
+Joseph's College. 4-12. IPFW bad a 3-2 lead in ihe lop of 
+ihe scvenUi until Uic Puma scored cighi luns in the bou 
+lom of (he seventh. Dons catcher Rich Hale sconrd a 
+
+
+
+
+bomenin. Also, Dons second basemao Zacb Wilsoa and 
+Scon boib Mole a base. 
+
+On Saturday, April 8, IPFWs home game against 
+GLVC conference rival North Kennick)' Uni^-ersily was 
+cancelled due to the rain and snow 
+
+On Sunday, April 9. (be Dons spht Ibeii double- 
+beader against Northern Kenlucky. winning ihe fust 
+game and losing the second. 
+
+In the firsl game. Bnan Bogs was the winning 
+piuiber for the Dom. IPFWs players Rob Rendle and 
+Brad Smock both bit homcnins. Pcie Warfel. Smod: and 
+Sbad Tumer all bit doubles. Waitcl was also hit by a 
+piu:h and had iwo stolen bases and Nate Hoggatt was bit 
+by a pitch. Zacb Wilson and Smock each managed &lt;o 
+steal a base. Scou bad (wo stolen bases as 
+
+the Dons won 12-1. 
+
+IPFW iosi the second game alter hold- 
+ing a one-nin lead in the bottom of the 
+seventh. Nonhcm Kenlucky rallied in the 
+top of the cigblh with three nins ^d went 
+on (0 win the game. 6-8. 
+
+On Monday, April 10, it look 16 
+innings for IPFW to defeat Northern 
+Kentucky. 2-1. The teams were tied at 1 
+from the top of the 8lb Ihrougb the bottom 
+of the 16ih when Rendlc"s RBI single 
+gave IPFW the game-winning ivn. The 
+RDl gave the Dons thcu second win over 
+the Norse in Ihc Ihice-game series. 
+
+In batung averages, Hoggatt is in sec- 
+ond place at IPFW with ,500. Keith 
+Gavne led the team with a .667 average. 
+Warfel led (he team in runs scored 
+uiih 16 while Rendle had 15 and Wilson 
+
+
+
+t.iJLT with 15, foLowcd by Tlmicr with 
+l-&gt;, BUI Kackerand Rendle both with 12 
+in.J Zach Wilson. 11, 
+
+Sl-oU, Rendle and Wilson all led m 
+itolen basfis with 5, 
+
+Blaine McFeirin had an eametl run 
+iverage of 3 65, Nick Takach's ERA was 
+too. Dogs 4.50andErpelding4 84. 
+
+McFerrin and Bogs are bcKb tied in 
+.|.ins with two. 
+
+IPFWs (2-9 GLVC. 6-17 overaU) neii 
+home game will be against conference 
+rival Bellarmine College on Saturday, 
+April 15, at noon. All IPFW students get 
+in free with a valid student [D, 
+
+
+
+Photo by Linda LeslPa, Sports Edtio 
+IPFWs Blaine McFerrin siruck out Iwo Northern 
+Kenlucky Norse on SuniJay, 
+
+
+
+^JT.Hgr^j ' '3. r ^ • &lt;-■■ ■ 
+
+
+
+Your ad could be here! 
+Call Brian at 481-6583 and 
+
+
+
+Lady Dons softball 
+
+
+
+by Linda Leslie, 
+Sports Editor 
+
+
+
+Dons 
+
+On Thursday, April 6. (be 
+team lost a double-header to (he 
+Indiana Wesley an University 
+Wildcats in Marion. Ind 
+
+In the fir^ game, the Lady 
+Dons were in the lead in the lop (^ 
+(he founb. However, the Wildcats 
+ralbed in the bottom of (he fourth 
+with rive nms and cvenwally won 
+11-6, In their second malch-up, 
+Indiana Wesleyan jumpol lo an 
+early lead in the ru^( inning and 
+eventually won 6'2. 
+
+On Friday. April 7. the Lady 
+Doni played conference rival 
+Quincy University Lady Hawks at 
+Quincy, BL in a double-beada. In 
+the flrst game, Lady Hawk Molly 
+Neuberger drove In the winning 
+run ine:(Ua innings in the opener 
+as the Lady Hawks defeated the 
+Lady Dons at Maranitha Park 2-3. 
+In the second game, Quincy 
+defeated IPFW 11-0 in five 
+innings. 
+
+On Sunday, April 9. the team 
+traveled to SL Louis (o take on 
+conference rival University of 
+Missouri-SL Louis, The team lost 
+2-i in the fust game match-up In 
+the second series, the Lady Don; 
+; again " ' 
+
+
+
+University of Missouri-Sl, Louis , 
+
+
+
+with a score of 9-14. IPFW was leading the team in doubles with 
+
+lied fr6 in the lop of the third, bul ten. In heme run.s. Ct&gt;itil Rsber 
+
+was unable to pull out a victory. has four. 
+
+Amanda Muse has n nin-loss 
+
+Betsy Andrews is leading ibe pcrceniage of .286. Missy Czaja's 
+
+Lady Dons in balling averages win-loss percentage is ,200, Ciaja 
+
+with a 362. in runs scored with 17 has an Earned Run Average of 
+
+and in hits with 38 Lori Faurote 685, Muse's ER/\i5643. 
+
+and Soma The Lady Dotu'nent game is 
+- . ^^p^i ,j ^^. 
+
+
+
+
+Volleyball USA Today/ AVCA Coaches Poll 
+
+^.■plSe'votesm brackets) ^""^ '""""^ ^«»«^""' "^'^"^ 
+
+
+
+1. Long Beach Siaie (14) 
+
+2l Pepperdine 
+
+2l Souihem California 
+
+4. UCLA 
+
+5. Ohio Stale 
+
+6. Brigham Young 
+
+7. Hawaii 
+
+8. IPFW 
+
+9. Loyola Marymouni 
+
+10. Lewis 
+
+
+
+22-3 
+18-4 
+19-4 
+23-4 
+
+
+
+^€:i^!^'^- 
+
+
+
+lOV 
+
+
+
+.v^ 
+
+
+
+^^"^I&gt; 
+
+
+
+listen up class of 2000! 
+
+
+
+
+First 200 students will receive 
+
+free "Volleydon Birthday Bash" 
+
+tee shirts!!! 
+
+Two Lucky students will be 
+
+ehgible to win a Follett's $150 
+
+gift certificate. 
+
+
+
+"Celebrating 20 
+years of Excellence!" 
+
+
+
+because 
+
+there are 1,000 things you didn't even know you had 
+
+
+
+iff 
+
+
+
+
+before graduation 
+
+
+
+graduation counldown 
+
+*clas5 b\ 2000 networt 
+gradualiDn aMouncements 
+online gifl le^stry 
+real wQild guide 
+
+
+
+and a nhole lol more 
+
+
+
+'^W^rad2000.com 
+
+
+
+enterto winatripfof lOto 
+
+europe 
+
+
+
+bgracMtlilig 
+
+©JOBTRAKCXM 
+
+
+
+s D o r t s 
+
+Page 6 The Communicator it April 6 2000 
+
+VoUeydons sweep conference rivals Ball State and Clarke 
+
+
+
+Volleydons clip Cardinals' wings 
+
+
+
+by Linda Leslie, 
+Sports Editor 
+
+Tie IPFW yDlfc)r(jDOJ ifcfcal- 
+cd (be Ihirtccnlti- ranked Ball Stale 
+Cardinal! in ihrcc enicUng games ai 
+Univeniiy Arena on Ball Stale's 
+eampui. li-9. i;-l2 and 15-B an 
+Wedntjday, April 5, 
+
+Over 273 supponcr^ observed 
+IPFW hil 10-af-\i% (Ml) wiiD 32 
+OTOJS in Uic malcb while Ball Slale 
+nude 63 kills on 169 swingi (.IS4&gt; 
+with 37 cnors The leani made five 
+service aces and Si digs: hou-evci, 
+Ball State om-b locked tbc 
+VoLeydoru 14.5 to II 
+
+-Ball Slaii: iJidn'i pass Ibe ball 
+
+
+
+vdy well, so ibey were oui of sys- 
+ictn a IM," s^d Amie Ball, bead 
+coach or UK Vblleydons. 'We have 
+10 leam lo adjust' 
+
+IPFW nnproved 10 16-7 on the 
+season and 9-2 in the Midwest 
+Iniercollcgiaie Volleyball 
+Asscaalion. The loss dropp^ the 
+Cardinals lo 14-11 overall and lo 6- 
+5 in Ibe MIVA. 
+
+In ihe flrsi game, Ball Stale 
+bad an early 3-2 lead, bui a 4-0 scor- 
+ing run sianed by a service ace made 
+by Angel Ruiz gave the VoUeydons a 
+
+
+
+blocked (be boll in Uk game, tbey 
+
+cilcndedtbcirleadlorlbe 15-9 win. 
+
+The ^pto11cydo^s appeared lo be 
+
+in charge ol game two af icr eiplod- 
+
+- - " 'Ball State 
+
+
+
+had a 
+
+
+
+
+
+
+6-3 Ic 
+
+
+
+
+
+
+der. A/US' a back 
+made by Hector Soto. BSU puUed 
+wiUiin two. bringmg Ibe scon: lo 9- 
+7. Even Ibougb the VoUeydons never 
+
+
+
+
+points at 13.11, buf iPFW held on (o 
+Uie lead lo secure (be 15-12 triumph. 
+
+Ball Stale had the 5-4 lead in 
+game Uutc. Tbc Icams battled to an 
+11-11 (ie. bui IPFW campaigned lo 
+seal Uic lS-13 victory. 
+
+"Overall, I ihoughl we were 
+rigbi then.' said Joel Walion. head 
+coach of ihe Ball Slale CanUnals. 
+"We woe jusi a couple of plays 
+away from winning Uiose games 
+lonighL but ii seemed every lime we 
+had a cbancc, we made a passing 
+
+ui oul of Uie game.' 
+
+Walton went on to say. '1 
+ibougbi we made siridcj since tbc 
+last lime we played IPFW. Wbil this 
+does 10 us now is put even more 
+emphasis on that crunch time. We 
+need lo keep improving and playing 
+strong as we wrap up the regular 
+seasoD and prepare for die MIVA 
+
+
+
+Senior Mike Cummin 
+
+
+
+Jeir Piak led the VoUeydons in 
+kills wiUl 23 and m digs witb 15. 
+Scon Lane had two sen'ice aces. 15 
+kills and 11 digs. Lane is currcnily 
+eleventh in Ibe naUon in service ace 
+average wiUi .507 Chris Gisslen tal- 
+lied 64 sets, eight digs, Utrec kills 
+
+IPFW libero player Jon 
+Thompson made eigbl digs. 
+f\rcangcl Rui? made one dig while 
+Solo made seven and, Mike 
+Cummings and Panos Eracleous 
+i^ai:h made (wo digs. 
+
+Solo, IPFWs kill career leader, 
+ended U:c mau:h wiUi 20 kiUs, Soto 
+presently b founb- in Uic naUon in 
+kiU averages wiUi a 7.09. 
+
+The Cardinals' Bnan Hughes 
+led his icam in kills wiUi 20. Paul 
+Fasshauer made II kills and Mark 
+Lau had 10 Cardinal Jeff Robeison 
+bad 52 assists and Joan Carlos 
+Lopez led Ball Slale in digs wiUi It. 
+
+IPFW's next home games wdl 
+be agamsl conference rivals Quincy 
+University on Friday, April 14. and 
+Loyola Universily-Chicago on 
+Salurday. April 15. Both games sian 
+-■'-- -1 the Gales Sports Cen I er. 
+
+
+
+
+
+
+IPFW defeats Clarke Crusaders 
+
+
+
+by Linda Leslie. 
+Sports Editor 
+
+
+
+The IPFW men's volleyball 
+team {17-7 oveiaU, 10-2 Midwest 
+Inlercollegiatc Volleyball 
+Association), ranked eigbUi naiion- 
+ally by USA TODAY/Ami 
+VoUeybaU Coaches Association and 
+(be Volleyball Magazine Poll, 
+defcaied (be Clarke Universiiy 
+Crusaden (8-16. 0-12) in a Uirce 
+gamc-milcb on April 8. 
+
+Clarke, a Division m leam. 
+was hoping for its first conference 
+victory, however, IPFW ended Uic 
+Crusaders' objective wiUi 
+in front of 610 at Ibe Gates Sporu 
+Ccnlei by a score of 15-7. I5-R :in,l 
+15-B. 
+
+IPFW hil 62 of 126(317) wiU) 
+22 errors in die match whUe the 
+Ciusaders had 42 kills on IIB 
+
+
+
+team wiUi 15 kills. Aris Eracleous digs. Panos Eracleous S. Aris 
+
+had 12 kills. Lane 9. Panos Eracleous and Gisslen each had 4 
+
+Eracleous 6. Sanders 6. Jell Sebmiiz Keni and Thompson 3. JelT Schmio 
+
+5, Matthew Kent 5, Mike 2 and Sanders 1. Sanders h^i a team 
+
+Cummings I and Gisilcn 3. high of 5 blotts, Gisslen and Run 
+
+Gisslen tallied 50 sets. Sanders both made 4. Lane, Cummings and 
+
+and Aris Eracleous each bad 2 and Panos and Arts Eracleous all made 3 
+
+Cummings I. Lane led the blocks, Kent made two and Scbmiti 
+
+VoUeiiJons wiUi 7 digs, Rui? madi; 6 had one 
+
+
+
+(.102) H 
+
+
+
+1 30 ei 
+
+
+
+VoUeydons out-blocked tbrougbi 
+Uie match. 14 to 7, but Uic lea 
+were tied in digs wiUi 35 
+
+Scoli Lane, Jon Thompson. 
+Arcangel Rui?, Chris Gisslen. Joih 
+Sanders and bnHhers Aris and Panos 
+Eracleous started for IPFW 
+
+IPFW Coach Araic Ball 
+played all of bis team except for 
+John Scon. Hector Soto and Jeff 
+Piak. Solo, 
+
+needed a break and Piak, wbo 
+second' 
+
+
+
+inga 
+
+
+
+
+
+
+ence. The Vollcj'dons reached 
+limit early m the match. "It is really 
+nice lo play some young guys." Ball 
+
+During the Tir^i gaaic. Uie 
+Crusaders were wiUiin one point (8- 
+7) before Uie VoUeydons ran away 
+wiUi die game, 15-7 
+
+In Uie second gomB. IPFW ami 
+Clarte wen; lied at (wo before Uie 
+VoUeydons ilretched Uie game lo 9- 
+2 They ended ihe game 15-8. 
+
+IPFW had 10 come from 
+behind in Uie Uurd game to defeat 
+
+
+
+
+Marketine/Public Rplations Fall Inrpm.ship 
+
+Business College seeking motivated college 
+
+junior/senior with excellent public speaking 
+
+skills Co work with area high schools. Must be 
+
+available 2-3 days a week (Sept. -Dec.} and 
+
+have reliable transportation. Mileage 
+
+reimbursement and possible college credit. If 
+
+interested please call Sarah Cannady at 1-800- 
+
+999-9229 or fax resume to 317-264-5718. 
+
+
+
+SAB COMEDY CLUB 
+
+
+
+FRIDAY APRIL 14, 2000 
+Walb Ballroom @ 6 PM 
+
+
+
+
+Featuring Bobby Lee and 
+the Elevated. FREE FOOD 
+(Soda, chips, and pizza)!!! 
+
+
+
+MONDAY APRIL 17, 2000 
+Walb Ballroom @ 7 PM 
+
+
+
+
+Featuring Mike Rayburn; 
+
+The Unstoppable Tour. 
+
+Come and see as he 
+
+attempts to tour the 
+
+country by bike. 
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1755 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv6i10indi/communicatorv6i10indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv6i10indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv6i10indi">The Communicator</a>"
+          </h1>
+          <pre>THT-, COIiHUNICATOR. 1974-75. 
+
+
+
+ND1AM* UNIVHUITY-PUSDUE UNIVE8SI 
+
+
+
+THE 
+
+
+
+
+
+
+COMMUNICATOR 
+
+
+
+
+Congressional candidates 
+appear on IPFW campus 
+
+
+
+l'iiiii;ri'S 
+
+Dis 
+
+Insl week as part of tl 
+"onversatioi 
+
+Tin- first 
+
+
+
+ilivliiml iln 
+lutionnl, I v 
+
+
+
+. After Iho Suprem 
+xistlng state statute i 
+j asked to help write 
+
+
+
+Court linn I iispinml lor tl 
+
+
+
+l large part n rellgioi 
+it regulate It to keer 
+illed "the quacks and L 
+
+
+
+Is view. He said that the only cxemptic 
+Is classification of the Issue Is in the ea; 
+ledicnl emergencies approved by a do&lt; 
+Harris said there were three classii 
+ona of criminals to be taken 
+; discussing i 
+
+
+
+willing 
+
+
+
+l-.-.i |,„ ■'.Mm 
+Ii ch-i'rlun 
+
+
+
+ll support I 
+
+
+
+Stoessinger speaks on world 
+starvation, blames inflation 
+
+
+
+SeK-exams best means 
+of detecting breast cancer 
+
+
+
+:arth are literally 
+e political affairs 
+
+
+
+His feeling is tl 
+and adapted to po 
+
+
+
+People's Dr. Stoessingei 
+
+Teased its preferably 
+
+i Republic that we are all passi 
+
+is learned spaceship Earth, and 
+
+
+
+
+
+
+•vival. He b!am 
+
+
+
+:■ 1'iL'rns in II 
+
+Stoessinger is also professor c 
+
+science at City University of Nei 
+
+York al Hunter College, and spoke about hi 
+
+ijor conflicts i 
+
+
+
+political science at City Universi 
+
+York at ] 
+
+latest book, "Why Nal 
+
+
+
+He evolved fi 
+
+distortion. In h 
+distortions are coi 
+
+
+
+
+
+
+Student Senate to 
+offer bodyguards 
+
+
+
+f judging a 
+
+
+
+i Century had at least one, and 
+all of these personality distor- 
+istorted self-image," "looking at 
+
+therefore, strike first," and 
+
+wider-estimation of oppo- 
+
+
+
+holocaust wouii 
+
+rom (he thought o 
+
+
+
+s for planetary challenges," 
+
+
+
+...flvmunl for unescorted p 
+
+
+
+e of Senate Resolutions ?&gt; 
+
+
+
+t office for details. 
+
+
+
+i call the student 
+
+
+
+
+o be filled as quickly 
+
+
+
+payment falling 
+
+said that normal reglstratii 
+
+January 6, and "due to Iln Imlirhiys, 
+scheduling of vai 
+
+
+
+i or nationalism, he felt 
+mediate future .maybe 
+
+
+
+t Dr Henry Kissinger. 
+
+
+
+
+Women topic of 
+special program 
+
+
+
+, covering subjects from 
+I rights, will feature campus 
+
+d Thursdays at 7:30 p.m. in 
+
+
+
+You a Legal Drug 
+
+
+
+. In I 
+
+
+
+_ rofessiona 
+ir educational 
+
+e appeared for the benefit of 
+
+
+
+available for provisional 
+
+
+
+eingo 
+
+
+
+sity I 
+
+
+
+
+
+
+Chancellor Donald Schwartz chats with guests at a reception given In his honor 
+by the III. Alumni Club of Allen County. The affair was held last Tuesday night at 
+the Summit Club and was co-ordinated by John Hobson of the campus alumni 
+
+
+
+INSIDE 
+
+
+
+
+
+
+SHS!JSiS!^!i!7Sim 
+
+
+all his own. His philosophy Is on the Oplnl 
+
+
+"It 
+
+
+depressive. His column begins today o 
+
+
+.V."h*£ JS""' """"■""'- " 
+
+
+i na.lc 
+
+
+A survey of stands taken by Indiana f Ut 
+on page S by Political Editor Kurt Ull 
+
+
+legislative candidates Is recapped for IPF 
+
+
+"""" 
+
+
+The University Band Is captured In si 
+
+
+if photographer Cindy Smyth's photo ess 
+
+
+""* 
+
+
+R „L,„ 
+
+
+wartz Is brought out in an interview by Spor 
+
+
+'"I 
+
+
+
+Open student records 
+
+
+
+OPINION 
+
+
+
+i amendment !o the Education Act of 1965, grants a student am 
+files and records kept on him by his school. 
+
+Naturally the nations college admme.h-ators are crying about the 
+Thevare complaining about the work overload that may result if many students 
+take advantage of the new privelege. The law gives schools a mere 45 days to 
+comply with a request by a student to see his filse. 
+
+Administrators are also concerned about the ramidienlions " J'. 
+
+pergonal Idlers of recommendations to the subject. They predict lhal such "&lt;■'"'" 
+will become worthless if faculty know that students may read them. Faculty 
+apparently will be less than honest in writing the letters. 
+
+Granted, and ethical problem exists here However, the problem runs deeper 
+than faculty concern over confidentiality of the letters. If the Inters an- pn r.n;.l 
+and written in confidence, what are they doing In the students files hidden to the 
+students but available to other faculty and administrators al Willi An , S°E?*t 
+negative Amissions Idler will (ollow the student long after he is admitted, if he is 
+at all. That is the real injustlc, 
+
+Cases of such abuses of this confidentiality have hccn well &lt;U&gt;n&gt; m&lt;-&lt;\ 11, i 
+
+certainly was .m influencing (actor on Congress when it considered the bill. 
+Protect Ion for the student from the written observations of inept 
+teachers was needed, and that need has been met. 
+
+Two years ago The Cuinmiinicahir made n limited invcsligali 
+policies and practices of IPFW record keepers. We found (hat l he records 
+available to outsiders, a condition not mandatory at that tir»» «• 
+that abuses of the system appeared to minimal. 
+
+The Communicator did call (or opening these records to the .students, much 
+along the lines ol the new federal law Unfortunately, the university did not open 
+those records voluntarily but wailed until it was required to do so by law. 
+
+
+
+Reader response wanted 
+
+
+
+Recently The Comuntcutor has been the turget of criticism from 
+members of what has generally been termed the "feminists moveme.nl." The 
+subject of thlscrlticii 
+
+
+
+hi the readers In decide what is object ionable lo them. Taken at face value, the ad 
+in question cannot possible nllend anyone. 
+
+If the business (hat runs the ad continues In receive unfavorable reS|&gt;onses to 
+it, the ad will surely be discontinued by (he business Common business 
+dictates that. Until that lime, no ones arm is being Iwisted to support the ad, 
+
+
+
+Briegel may go straight for good 
+
+
+
+We are always happy to hear constructive 
+concerning The Communicatoi Several letters to the editor have been 
+discussing the escort service ud. However, nothing helpful 
+comments if we don't know why the person is upset with us. 
+
+Caseinpoinl: Keccnllv an irate young lady entered the newspaper office and 
+asked to see one of the editors She then threw a shredded copy of The 
+Communicator on Ins desk ami said, "This is what I think of your paper," and 
+immediately stalked out of the room. This incident didn't particularly upset 
+anyone, and probably made the young lady feel much belter Hut what good did it 
+really do? She could have accomplished more by slaying and verbalizing on why 
+she was unhappy with the newspaper. 
+
+Changing the subject somewhat, we would like to make an appeal to all persons 
+who read The Communicator Anyone interested in making his or her views on 
+anysubject known please contact us. 
+
+TheCommuniealor is for the students, fatuity, and anyone associated in some 
+way with Indiana-pur due University at Fort Wayne. The opinion page should be a 
+forum for a wide variety of studenl faculty views, Reviews of books, records, films, 
+and plays are always welcome from anyone. 
+
+So If you are unhappy with The Communicator for any reason, don't just sit 
+around and gripe about it. Do something about it. If you need more space than a 
+
+
+
+e 215 of the Student 
+
+
+
+
+Government hazards pointed out 
+
+
+
+While the . 
+miltedly a tern 
+
+
+
+; three cases merely serve to point 
+hazards of working in Student 
+fourth case may welt 
+article is published. 
+
+
+
+campaign worker of a candidate on 
+The worker answered the charge 
+candidate did not take a st 
+finitely s 
+
+
+
+New I.U. vice president ? 
+
+
+
+
+Ml 
+
+
+
+Hoarding suggested 
+as end to inflation 
+
+
+
+Make ceramic pumpkins, 
+
+
+
+
+4 Thf amunim iam Hum ! 
+
+
+
+Student group polls legislative candidates 
+
+
+
+lenls' GovcrnmenI office, Peterson (R), di 
+1 225 of the Student Union, ISA's questions. 
+responses by candidates to candidates, Del 
+
+
+
+■ u].}HH'l llN.ilirl.il l|i'J|, lilF ■ 
+
+be coupled with u change ii 
+slurlml representatives or 
+
+
+
+Republican Mar-Donald 
+proves of oil bpproprlnt! 
+
+
+
+a ' Republic 
+
+Fruechlenlchl. J 
+i Rochsrd Worden. 
+
+
+
+against changes in the sale 
+lottery question. 
+
+proposals except changes it 
+
+
+
+CAREER 
+COLUMN 
+
+Robert Barkhaus, 
+placement director 
+
+
+
+Ig 
+
+
+
+n-h, ilitlion 
+
+changing the present 
+
+
+
+.irl'hrifi'n Ifitlcry He has 
+
+
+
+e financial rchabili 
+
+
+
+loltcry, o 
+
+Ka H 
+
+
+
+\ proposals, disapprove. 
+
+
+
+I facilities lo 
+help handicapped. He is against 
+
+
+
+respond' Ii 
+
+
+
+sludenlH shuuM 
+
+
+
+registered for placement i 
+
+
+
+e question of fj rms outside o 
+seem to indl 
+
+opportunity o 
+
+
+
+;P is a means by which people who have gained knowledge in a 
+ar field, through experiences outside the classroom, may 
+college credit for what they know. Two kinds of CLEP 
+and Subject Exams. 
+
+
+
+knowledge gained 
+
+
+
+ships, iipid would support changes students 
+
+
+
+.pi f- - n&lt; .'ill' 
+
+
+
+i each ISA's request f. 
+
+
+
+obted p 
+
+The condidales were al: 
+questioned on whether cir not tin 
+
+protil.s going to higher educnlio 
+
+ISA also questioner! I.egisl 
+
+due candidales on changes in II 
+
+
+
+each party running foi 
+
+Phyllis Crlll, Slcphcn Polnsalle, 
+and Dennis Horick The Republi- 
+cans arc Elmer MacDonald, 
+James Shcrron, and Richard 
+
+of six ol the questions. She would 
+1 support increased approprla- 
+
+
+
+t-frcc loans, loanp 
+
+
+
+&gt; candidates for the 
+
+and Thomas 
+r voted 
+cept thi 
+I lottery. Mauzy i 
+
+Irrl dislricl 
+
+
+
+icience-history. Subject exams measi 
+mowledge gained in specific college ci 
+
+
+
+he degree 
+
+
+
+n promoter Phil ' Hoisnu 
+
+
+
+iiurl iij;;ilr&gt;si 
+voleed snj; 
+
+('M-I'|)l dim 
+
+
+
+voiced support for 
+
+
+
+he could vote lor the rest of the 
+financial package. He thinks 
+(here should be a loltcry, and 
+student seals on Ihc boards and 
+HEC. He would vote against 
+additional appropriations at this 
+
+
+
+help the hlimlir apped, mid r 
+
+
+
+he might reconsider i 
+student representative 
+
+
+
+SENATOR BAYH THINKS 
+
+YOUR VOTE IS IN THE BAG. 
+
+DICK LUGAR DOESN'T. 
+
+
+
+THE RECORD 
+
+
+
+
+ECONOMY LEADS NATION 
+in May 11, 1974, the U.S. Counc 
+
+
+
+DICK LUGAR FOR 
+
+
+
+DICKLUGAR 
+A Senator For 
+Indiana Students 
+
+If Dick Li.ni.ir sounds like a college professor when 
+he speaks it's because he insists that the solutions 
+to the problems of today aren't simple. Lugar, a 
+Rhodes Scholar, knows that students are looking 
+for leaders. who have a true understanding of 
+economics and of inflation. Students demand 
+intelligent and comprehensive answers - and that's 
+why over 40% of Lugar's speaking engagements are 
+in front of young people. Lugar gives complex 
+answers to complex problems and students like 
+what they hear. They know that what this country 
+needs is some brilliant leadership. 
+
+
+
+tPFW STUDENTS FOR DICK LUGAR 
+
+Rollie Clements. Chairman 
+
+Paid for by the Lugar for Senate Committee 
+
+
+
+supports more money 
+larships, the interest 
+
+rehabilitation of facilil 
+for student representat 
+boards and HEC. Ht 
+
+and lottery questions. 
+
+
+
+desiring c 
+
+find out what standard scores will be 
+
+performance is required. 
+
+General and Subject Examinations « 
+
+
+
+appnipru 
+
+
+
+Indiana University (Fort 
+Examination in Humanities, 
+
+
+
+program brought forth by ISA. General Examination d 
+
+
+
+[nizes only the General 
+ed on all of the above 
+■ iiy ■ lull Wayne) does 
+
+
+
+Business Management, Intro. 
+
+Chemistry, General 
+College Algebra 
+College Algebra-Trig. 
+ComputerProgramming, 
+
+
+
+Marketing, Intro. 
+Money and Banking 
+Psychology, General 
+Sociology, Intro. 
+
+
+
+ie candidates elected 
+
+
+
+good possibility 
+
+
+
+.uliti'ii m hokirship money. It 
+
+The chances for student s 
+with voting rights on 
+univi'iMiv boards of trustees 
+
+
+
+Compute 
+Geology 
+Money and Banking 
+
+
+
+Growth and Developing 
+
+
+
+:ting Dr. Charles Bolyard a 
+
+
+
+Study of marijuana effects needs time 
+
+
+
+it retards tumor gi 
+
+i Virginia two scii 
+. lessens anxiety i 
+
+
+
+gists, psychologists, 
+pharmacologis 
+
+
+
+"They'll know for 
+pharmacology, said. " 
+
+
+
+choactive agent of 
+
+
+
+a about marijuana. 
+
+
+
+opposed 
+tradictory reports 
+
+
+
+any people 
+vehemently 
+explained that con- 
+front "subjec- 
+
+"I can design an experiment 
+that can show anything I want-as 
+any good scientist and many bad 
+scientists can," Maickel said. 
+"Research varies a great deal in 
+thoroughness, accuracy, signifi- 
+cance, and size of sample 
+
+
+
+ted lo interpretin 
+
+
+
+iround nearly 
+egularly in thep 
+n Lebanon, sa; 
+
+
+
+It p,l--uil ti 
+
+Maickel 
+
+
+
+of people who i 
+
+
+
+I.U. students using 
+computer date service 
+
+
+
+75s Are Here! 
+
+
+
+
+bntai 
+
+n jeep 
+
+Few For Immediate 
+Delivery 
+
+
+
+omputerized dating ser- 
+
+
+Student 
+
+
+to spoil 
+
+
+S&amp;u£?UnrfersUy e is 
+
+
+fhaThe 
+
+
+ed would S 'a 
+
+
+mat campus by slorm. 
+
+
+
+
+
+
+eral days before the 
+
+
+
+
+
+
+
+
+
+
+•'In 1965 
+
+
+
+
+student 
+
+
+
+
+match questionnaires. 
+
+
+i„°Z7. 
+
+
+Ized date 
+ars of '65 1 
+
+
+o! pjiiuipanls may run 
+
+
+campus" 
+
+
+s'uu'i" 
+
+
+hole sororities and Irater- 
+
+
+impute 
+
+
+Sdlta™ 
+
+
+ve signed up as a group, " 
+
+
+comc-ba 
+
+
+k. 
+
+
+"The entire rugby team 
+
+
+-O, 
+
+
+■ te'Ulkea 
+
+
+lengthy questionnaire 
+
+
+widows 
+
+
+„„1 „ « 
+
+
+such areas as physical 
+
+
+will, in. i 
+
+
+nmooial in 
+
+
+nd qualities deemed 
+
+
+ival up-i 
+
+
+:!' ■ 
+
+
+
+Student loan defaults 
+may reach $.5 billion 
+
+
+
+s defaulted. 
+
+; in every foi 
+
+use federally- ii 
+
+
+
+market 
+because 
+
+
+
+more than 901, which will try t 
+
+with participating banks t 
+
+-Preparing new, tough regi 
+
+involved in the program 
+
+-Warning participating 
+banks that they will be remove 
+
+misrepresent applicants in orde 
+
+
+
+iii-i.uiiiinn. colleges and u 
+lies h,iv&lt;&gt; been attacking I 
+of the problem: high 
+
+
+
+reijUi-lnii; 
+
+of unemployment, 
+Holcomb, head ol 
+Illinois University' 
+Receivable Office. He noted that 
+a large number of the defaulters 
+are dropouts who have poor job 
+prospects. 
+
+
+
+
+
+
+
+
+
+
+■ college s 
+
+
+
+bankruptcy upon receiving tl 
+diplomas Almost 2,500 studi 
+filed for bankruptcy during 1 
+leaving unpaid S3 million 
+
+
+
+ve reduced their tuition by $100 
+
+le fifth unit of the system, the 
+immunity College of Vermont, 
+s begun a voluntary payment 
+
+r course at $30 but the student 
+
+
+
+if federal credits IW college 
+
+
+
+s which students would 
+repay out of future income as 
+part of their tax bills. Senator 
+Abraham Ribtcoff (D-CT) has 
+
+
+
+! Senator Waller Helmke, who is seeking J. Edward Roush's seat In 
+Congress, was on campus last week lo discuss the Issues with students. Also 
+appearing was Cong. Iloush and his other opponent, Donald Harris. 
+
+
+
+BELLS 
+
+WHY PAY SUCH BIG 
+SPOOKY PRICES? 
+
+^^ ^i guys, gals 
+^fr J jeans of 
+all kinds 
+jean jackets 
+knit tops 
+baggie tops 
+
+
+
+all 
+
+top 
+
+brand 
+
+names 
+
+discounted 
+
+
+
+books and supphe .main. 
+reduce loans and defaults. 
+
+
+
+CAMPUS 
+COMMUNIQUE 
+
+
+
+simply stop program 
+
+is ruin their officials 
+
+the defaulters payment 
+
+ing numbers, fixed fc 
+
+
+
+Penny Carnival 
+
+
+
+d Kenneth A. Kohl, the 
+
+
+
+Nostrand and Co., 
+
+
+
+student defaulters ■ 
+
+
+
+Contp placement 
+
+
+
+&gt; find work and 
+
+
+
+Frats, co-ops find foe 
+in housing developers 
+
+
+
+- r,nrekly upon. 
+
+president of 
+'ganizati 
+
+i iiK'i'lnnu 
+
+
+
+guys 
+genuine leather coats 
+
+69.99 to 89.99 
+(150.00 to 200.00 values) 
+
+WHERE A DOLLAR 
+SEEMS LIKE FOUR! 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+
+
+i November transmitter toward the 
+st, which is of November, and 
+no reservo- regular transmission o 
+
+
+
+Use the classifiedsl Only 25&lt; 
+
+
+
+egulations woi 
+
+
+
+explain loan obliga- 
+
+
+
+and educators 
+
+
+
+neighboring pier, in front of a 
+
+about the same thing. 
+Take off your clothes lor us," 
+yelled one of the fraternity men 
+lo his neighbors. On that cue. the 
+young men and women from the 
+co-op proceeded to strip naked 
+and frolic in the waters of Lake 
+Mendota. The fraternity brothers 
+
+the "freaks" and the coop 
+
+
+
+n of Langdon Street build- grateful 
+
+
+
+1 in parlic- ganizational lines. 1 hope 
+
+
+
+boycott as school 
+s fall and this 
+led apartment c 
+
+
+
+presidents will attend, if i 
+
+
+
+Traffic court 
+study made 
+
+BLOOMINGTON-No o&gt; 
+
+t and* guilty alike. 
+i University 
+Safety (IRPS) has und&gt; 
+
+violation &lt; 
+
+
+
+n down within a short 
+:lii- fraternities, the 
+
+
+
+lly punishing -to the 
+id guilty alike. 
+Maybe that will change. 
+
+' i Insti- 
+
+
+
+purchased by realtors and con 
+verted into apartment buildings 
+
+
+
+attempting to 
+chapters, forr 
+complaining I 
+
+
+
+lered "crash t 
+people. Fights, I 
+
+nged the i 
+
+
+
+consldi 
+street y _ 
+fires caused by 
+
+
+
+Prof. Houseman 
+
+professor of political scienc 
+was recently interviewed by K 
+
+article on state legislatures ai 
+
+material will appear in 
+forthcoming issue of the Jourm 
+
+Prof. Finco 
+
+Metric-Why and How Should V 
+
+
+
+for parking tickets by landlords 
+
+
+
+I clearing up overcrowd- 
+confusion which exists in 
+
+Ti-.niimi2 and education 
+
+, IRPS 
+
+
+
+e project. 
+
+
+
+training package 
+
+
+
+
+THE COMMUNICATOR 
+
+
+
+There are still many positions available on the 
+staff of The Indiana-Purdue COMMUNICATOR. 
+If interested, see Mike Snyder, Dave Hill, or 
+Mark Franke in Suite 215, Student Union 
+
+
+
+downtown 
+
+704 W. Jefferson 
+(at Broadway) 
+
+422-7696 
+
+
+
+north 
+
+257 K-Mart North 
+(across from Glenbrook) 
+
+484-8624 
+
+
+
+CAESARS 
+SPA 
+
+
+
+
+private rooms 
+
+authentic rock sauna 
+
+steam bath - stereo 
+
+needlepoint showers 
+
+free parking 
+
+
+
+
+OPEN MON— FRI 10 am to 12 pm SATURDAY 10 am to 4 pm 
+
+
+
+The Communicator Thurs. October 
+
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 422-8995 
+
+FORT WAYNE 'S FINEST PIZZA 
+GRlHD£RS 
+BROASTED CHICKEN 
+
+SAUSAGE RoL L S 
+FULL BAR SERVICE 
+
+YOU MUST BE 21- IF YOU'RE NOT 
+TRY OUR CARRYOUT SERVICE 
+
+
+
+
+Schwartz interested 
+in IPFW sports 
+
+
+
+SPORTS 
+
+
+
+
+Mastodon* fall Stoneface ekes out Wildbunch 
+
+
+
+determined goal-line stand at the 
+
+
+dumped Wolfe 38-6 
+
+
+and Eagles 
+
+
+two-yard line. Neither team could 
+
+
+blasted Wolfe, who 
+
+
+
+
+muster much offensive firepower 
+
+
+
+
+
+
+as the defense from both teams 
+
+
+
+
+
+
+constantly slammed the door in 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scheduled to begi 
+
+
+November 
+
+
+DGTS defeated Jehl in double 
+
+
+10th. 
+
+
+
+
+
+
+Standings after 
+
+
+
+
+tallied in the first overtime 
+
+
+
+
+
+
+period, but Steve Schnorr bolted 
+
+
+
+
+
+
+20 yards for the winning TD. 
+
+
+Boester 4-3, Wolfe 1 
+
+
+5, DGTS 1-5, 
+
+
+
+Introducing 
+
+the car that got 
+
+37.3 miles 
+
+per gallon on a 
+
+coast-to-coast 
+
+economy run. 
+
+The Peugeot DieseL 
+
+
+
+LINZAUTOHAUS 
+
+
+
+</pre>        </div>
+      </div>
+    

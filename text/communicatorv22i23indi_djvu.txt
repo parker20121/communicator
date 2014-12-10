@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i23indi/communicatorv22i23indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i23indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i23indi">The Communicator</a>"
+          </h1>
+          <pre>
+—Quote of 
+the Week- 
+
+
+
+StudentS suggest possible 
+campus improvements Page 2 
+
+
+
+Volley dons return from west coast trip Page 4 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE 23 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+March 21. 1991 
+
+
+
+I 
+
+
+
+NFOGRAPHS 
+
+
+
+Want to lose weight? 
+
+Weigh! Watchers On Campus! 
+
+Thursdays, noon lulpm Regis- 
+
+now at Cui'iiiiiii!.: I 'luoiimn 
+
+
+
+Register to vote 
+
+
+
+Classic film to I 
+shown 
+
+
+
+s.lenl him. -The 
+Rush." on Friday M..rui J 
+m. in Classroom Me 
+
+
+
+7T to meet 
+
+The IPFW Math Club will &lt;h 
+two videos on election theory i 
+
+
+
+45. All are welcome. 
+
+Edison personified 
+
+taged in Neff Ri-ni.i: liall al / 
+
+
+
+conceived, scripted, 
+
+
+
+i Henry Ford staged t 
+
+
+
+Faculty senate 
+
+Student conduct codes 
+discrimination guidelines 
+under scrutinization 
+
+
+
+i changing the wording 
+
+
+
+es governing 
+
+
+
+One pc 
+
+
+rtion the senate 
+
+
+discussec 
+
+
+amending 
+
+
+was 
+
+
+the wore 
+
+
+ng for the 
+
+
+
+
+affecting 
+
+
+discriminate 
+
+
+nand 
+
+
+
+
+Panel discusses effects of war 
+
+
+
+t i YNTHI.A U.lOH.MACh ; m *: ■ ..( nrr. 
+
+
+
+ing," stated Pulley. 
+
+
+
+United Status and 
+
+
+
+. There was no disagrc 
+
+
+
+suggested thai M.e uonlmii 
+
+
+
+Conce 
+
+
+n was 
+
+
+raised 
+
+
+
+
+rights of students 
+
+
+
+
+
+
+to be 
+
+
+changed 
+
+
+
+
+sexual 
+
+
+
+l,&lt;*-uiar&lt;l tinui-cl hy saying t 
+
+
+
+Good Friday service 
+
+Good Friday Service will 
+
+
+
+Job fair 
+
+
+
+..m., in Walb 
+Representativ 
+
+
+
+nical, and office position: 
+;rgraduates. Possible int&gt; 
+s also may be available li 
+ents' academic programs. 
+
+
+
+Doris Kearns Goodwin 
+Author, historian to speak 
+in honor of women's history 
+
+
+
+M 
+
+
+
+Local representative supports limiting ISTEP 
+
+
+
+Progress test from I 
+
+
+
+
+
+
+Rathge. first grade 
+
+
+
+The pressure is being 
+
+r o( placed on what they should 
+
+t grade know instead of what they 
+
+
+
+im the Many teai 
+
+
+
+un i'mikit-di' f(.L--.'-'i !•&gt;' 'he i&gt;ncr;il the I 
+
+
+
+(the ISTEP Plan) 
+
+
+
+Opinion 
+
+Tiii 
+
+Communicator 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Tina Holslon 
+Editor In Chief 
+Jim Walker 
+
+
+Joyce Stocks 
+
+Ntos Editor 
+
+Dan Hyde 
+
+
+Mark Donaldson 
+Sport, Editor 
+
+John Gnise 
+
+
+
+Doric Reynolds 
+
+
+
+I »"i.li" "-"'s&lt; *..■ 
+
+
+
+Voices of protest help 
+to fight educational cuts 
+
+
+
+hinder educalHin lundiar, Indiana University 
+President Thomas Kilirh was mcnllv quoted ;is saying the 
+state is making priority indcmnits heenu.se revenue has not 
+been 1 1 ic 1 * -. i v. 1 1 ik to nivtT inci rased COStS. 
+
+
+
+I "I 
+
+
+
+• greater priority .is an investment 
+
+
+
+; our dismay with this tragedy 
+
+
+
+not allow 
+quality. 
+
+'Die following letter can he easily clipped, signed and mailed 
+to Governor Evan i'.avh at 'ni. M.ilrhnuse. Indianapolis, hid 
+46204. 
+
+Dear &lt;.nvernor Bayh: 
+
+As a participant ol nut* ol Indiana s stale landed in, I dolmns r»t hiejicr 
+education. I wish lo express im dr-phsc-m e ,nnl disappoint incnl will) 
+the promised cuts to Mir I It'll 'r I &gt;■ n I) ■■« -I im Ine.hei education in Indiana 
+
+An educated constituency is one ol Indiana's most valuable re- 
+sources. By reducing [undine,, this resource is heme, severely diniin- 
+
+
+
+I t lit- ii consequences lo the future of The [ 
+
+
+
+
+Student points out need for law classes at IPFW 
+
+
+
+working full time in portantly, it would bring i 
+is almost impossible to among the students, who 
+aiiy basis. Therefore, perately looking forward to 
+
+
+
+f i'Ui 1 . ii' .mil in. inn' . 
+
+
+
+Df law within this some other subject of study or forfeit 
+
+. Hit- ..In.L-t umver (he k'nufit oHurLher education. 
+
+ts of Fort Wayne df&gt; 1 1 - &gt; ■ 1 1" vci&gt; rapidly hm' would be 
+
+
+
+Responsible choice 
+
+'Abortion is not a dirty word' says student 
+
+
+
+
+Student Quiz 
+
+Student quiz may reveal the 'inner you* 
+
+Managing Editor f_\ A insteadTTuuk to your" ,£" dog" "b. I™ way cool.'ca'tT 
+
+„ , „ . I l nTm T nr LM \i/-&gt;r r. c Ca " ^e number and listen for c. This column is tl 
+
+|| Sl '" 1 - • |l " l "' lK ■,"■'• ■"'■" -; 1 "- I IBTRUSE rtNGLE hours, subsequently flooding your understand I ^ ;., 
+
+n ,"," ';" l i n ','' ",'"!",' "" 1 X^ A JL | home with drool. If you answered A to 
+
+
+
+iiluhmi: every Dt&gt;l&gt;y 
+
+
+
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The Doors 
+
+Music accurate, characters lifeless 
+
+
+
+Diunysi.in lit- -ivlr ni lc.ul jinm-r 
+
+
+
+&amp; 
+
+
+
+I Serv 
+Profs 
+
+
+
+ofesslonal typing. 1 
+
+
+
+figurines, Evangelical t 
+
+
+
+cLaughiin of Twin 
+
+
+
+of the li*ard kings vocals. S,„»e sio„ of the creative presses which of director Oliver S,„„e for no, even 
+
+
+Fort Wayne Dance Collective 
+
+Urban Bush Women to appear 
+
+SIC, and a cappolki vix-,,l!,,ition- theatrical forms 
+
+Thf Fori Wjyrn' 1). line Cnll^c-lpvc kisnl mi IiHiI holL'i's .md tiunU. Zolkir's work with the oight- 
+
+U'onuTi in concert Fmkiy. M.urh :&gt;.,. pic'- ir;iiisfi&gt;rin,ihoii - .r interim; int.. UUj &lt;.ht&gt;rv»u,r',tph:-i-'~ rVllov. -hip- 
+superb and original company from survival. (h A . 
+
+New York City merges song, dance, The company has toured widely in n"'p!,| a Hm-ssion for the concert 
+theater and soul to bring the audi- the United States and internationally "!,','' '" " ll - &gt;1 "" '" " l " '' " ' 
+
+ence a thrilling .mi cxlnlar.ihnr. in Kngland. (,cr,n,ny. AmM.t.I " ;'" "; r " '"" ""' ;' "" ' , " 1 """" 
+
+evening of power and beauty. and Jerusalem. under a ma '""" 1,h;rl &gt;- aca&amp;a 
+Urban Bush Women was es- The dance collective accredits lll - 1 &gt; Ik ' l 1 "" h:i -'' d * t( ltl1 ' f "&lt; 1 1' ■&gt; nu n ? _- 
+kil.li-.li.il m I'isw by Artistic Director Jawole Willa Jo Zollar with Arls &lt;■ 'enter H&lt;i\ mfice M.n./li Jh, 
+Jawnle Willa Jo Zoliar to realize a synthesizing the spiritual influences "t&gt;on to li p in anil M;irch ."&gt; from I 
+creative visi, ,ii [;oiilirniou&gt;iy enriched ul her uptui njj &lt; jil!. '.villi Hi-' technical p.m. to 8 p.m. or may be reserved by 
+by (he folklore hi.! reli.iii.ni-: tr.ul,- demands ol her form.il d.oi- c hmmi cdline the l-'i.rl Wayne Dance Coi- 
+tions of Africans throughout the ing, uniting concern for the history lective. 219-424-6574. 
+
+
+HEI 
+
+
+
+Interested in a professional church work career? 
+Jefl Wallher, a Concordia Theological Seminary 
+graduate student, will have information and will be 
+available to answer questions at the Eleventh 
+Annual Summer Job Fair on Thursday, March 21. 
+The job fair is sponsored by the Career Services of 
+Indiana-Purdue University at Fort Wayne, 10 a.m. to 
+2 p.m. in the Walb Memorial Union Ballroom. 
+
+
+
+The Underground 
+
+Under the Landing In 
+
+the basement of 
+
+Columbia Street West 
+
+This Sunday: Robert Meldus 
+
+Shannon and the Dorbestra 
+
+and lethro E.Z. Fields 
+
+
+
+■ ■HJJ I' IJHII,,"-! 
+
+i i;J :&gt;li i; 
+
+1000 
+
+
+
+
+
+
+
+ail 1 800-932O528 En. 50 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+Tl.rnunh our stiiilcnl APICS Chanter here at IPFW all of the 
+
+awarded Iiv Hie |.... ...I i',,,1 Wa,n, |,„.,| A an i i, a, , l'r,„h„|„„, 
+
+n.i.l Inv.iilerv Coiil,,, I N.unelv I'liapler, :it Hie rei'ional level a 
+
+'■ '.UHIII ,;,:,,,(, ,,,,,[ ;,| |1, ,. nan,, n:,| | rV e| „ sir Ill e, |, a a I lelia I 
+
+Kill will he e.ven, A brief theme paper on one APK1S la,m 
+
+whicl islets ni" aiveiitarv control, production activity, .i it 
+
+M ltl', systems resauree ...ii.ii.^ment, or Dlnnninir and 
+lorecasllriK can will n cash reward. Your I 
+
+
+
+en each stnilenls nee, I anil alalilv Al 
+in In March IS, 1991 So come to oui 
+Ihn-.l Thursday al ll I'M. m Wall, Una 
+:ing professional face to face. 
+
+
+
+■ ,l„.l 
+
+
+
+' tjli-illt \ : 
+
+
+
+SCDIBIE Ilil'Glli 
+
+NCLEX-EN/PN 
+MCAT, LSAT 
+
+ACT &amp; SAT 
+GRE &amp; GMAT 
+
+
+
+JOB OPPORTUNITIES 
+
+Youth Program Coordinator - June 11 to August 
+5, 9-3:30 daily - $8.00/hour. 3-3-A-1. 
+
+Bookkeeper - P/T - 20 to 30 hrs. flexible. 3-3-0- 
+
+
+
+Chemist Assistant - F/T - $7.00/hour. 3-3-I/T-1 . 
+
+Engineering Assistant - P/T now and F/T in the 
+summer - one year of CAD experience - 
+$8.00/hour. 3-3-I/T-2. 
+
+
+
+
+Classified 
+
+
+
+
+Classified 
+
+
+
+
+Classified 
+
+
+no pets. $33S/mo S30O/dep. 489-8272 
+
+
+
+
+Rooms for Rent 
+
+Call 483-8762. 
+
+
+
+
+ZT^p^^ m 
+
+
+
+
+
+
+
+
+
+
+
+
+THE COMMUNICATOR QUSSifiedS 
+
+
+
+
+7™vz°i^tf™B ^™"p^"S'' w -r£ EriHEFS"™"*' 
+
+
+Classjied ads may be mailed 10 CLASSIFIED RATES 
+
+Easl. Fori' Wayne. IN 46B05 Ads 2 weeks S .45/lne 
+
+may also be dropped oil al Ihe 3 weeks $ .40/line 
+
+given above. 5+ weeks'.".*' .25*18 
+
+
+Please indicate category: 
+-Wanted lo Buy 
+
+
+Namn 
+
+
+Mn^anr, 
+
+
+
+
+
+
+
+
+
+
+-Textbooks Wanted 
+•Textbooks for Sale 
+
+If category is nol given, Ihe ad will 
+
+
+
+
+
+
+Slale Zio - 
+
+
+
+
+™°"" n 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+° 
+
+
+
+
+'^^M$££r r ° 
+
+
+
+
+^chawlenT spi^VTuncwalion 
+
+
+°d.fo V nT»'mu's n | tTowLTyoJ, 
+
+
+
+Pentel 
+
+ONE WEEK SPECIAL! 
+
+Buy Any 2 Pentel Pencils - 
+Get a Pack of 12 Pentel Leads 
+
+#L50BPOrL100BP 
+
+
+
+• Graphlet • Quicker Clicker 
+• Twist Erase • Sharp • Sharplet 
+
+Your Headquarters for Precision Pentel Instruments 
+
+
+
+Follett's 
+
+BoolE:s~l:o]re 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Volleydons win two 
+
+
+
+
+</pre>        </div>
+      </div>
+    

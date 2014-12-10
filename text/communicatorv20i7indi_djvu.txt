@@ -1,0 +1,1873 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i7indi/communicatorv20i7indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i7indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i7indi">The Communicator</a>"
+          </h1>
+          <pre>Pizza olympian 
+chows down 
+
+
+
+
+Voices 
+
+Predictions made for presidential debate/Page 2 
+
+
+
+Red Cross 
+
+Blood needed to save lives/Page 5 
+
+
+
+IPFW Volleydons 
+
+Team wins West Point Academy tourney/Page 6 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 7 
+
+
+
+ndiana University-Purdue University at Fort Way 
+
+
+
+October 13, 1988 
+
+
+
+Quote of the week 
+
+
+
+"I suggest we take our old nifty bolt 
+cutters and remove the old locks and put on 
+some new ones. It could be destructive and 
+fun. Maybe we can have a party." 
+
+—Eric Waltenburg 
+
+— internal affairs 
+
+committee chair 
+
+—Page 1 
+
+
+
+Student senate 
+discusses letter 
+
+
+
+
+
+
+-INFOGRAPHS^ 
+
+SAB sponsors free concert 
+
+
+
+New year celebration planned 
+
+
+
+Lecture set for Monday 
+
+
+
+well into historic times. The lecture is part of the ASO : 
+
+Club holds presentation 
+
+"Resolving Conflicts," a lecture given by W. Joel Rivers, assislan 
+professor of psychological sciences, will be sponsored by thi 
+Psychology Club on Tuesday, Oct. 18. This presentation will be held n 
+Kettler Hall Room 227, from 7:30 to 9 p.m. All students interested an 
+
+Religious forum continues 
+
+The University Religiou 
+speaker will be Richard ; 
+There is no charge for this series but d 
+
+
+
+Children's classics discussed 
+
+The department ,,i Kndi.-.li Iim-msm. &gt; * sponsoring a lecture. 
+
+"Children s Class,.- m Hm- &lt;. . .,■-,!&lt;■-. Hi..- h.iiu,.-.., ■.■ ,,i si„ n ,-. i... 
+rinlrii-fii m .lane Eyre and David Copperfield," by M..iry Kui^.in. .h.iii 
+
+
+
+! will be Thursday, ■ 
+
+
+
+Black movieathon Friday 
+
+
+
+Gotta Have It" and "School Daze." 
+
+
+
+Open House hosted today 
+
+All students are invited by the Office of Women's Studies to celebra 
+
+«,iihi, - hnilKliy- m. M.-I..I..T and to meet the staff and faculty 
+
+
+
+Sievers to speak to students 
+
+
+
+• Sievers, assistant librarian at IPFW, 
+in the Netherlands" on Monday 
+Suite 21. The event is being spoi 
+
+s Uvgam/.d.mn and all are invited, i 
+
+
+
+v.oiil.l pur, li..-&lt; 
+...nipul.-i ...i.l 
+
+
+
+Timlttoa member Learning Resource Center provides 
+
+ipriate $1800 for IPFW the money that was to pur- 
+ling Students' chase the alhleli. efiui|itnnil would be 
+
+• n I.. Mio-,c ■ In i|&gt;|ir..;.i'i &gt;l,.-.| In l, m lli&lt;- innv machine 
+
+
+
+think the bill is comple 
+"To be perfectly honest 
+
+
+
+- and UASl'X Council n 
+
+
+
+,.u,n.l I li.irik -.f^injj, It'-. 
+■■'T 1 ^m,Hlf^ J chair ll h? this 
+
+
+
+
+'Twist and Shout' 
+
+
+
+phones and cameras would 
+
+
+
+?&lt;««'S?J?S spS [eSer£|e n ^|'hS| McKay farm 
+
+*1 W^rsS^i Senate studies ideas 
+
+iked members. 
+
+an ByJENNIM I! V hl.Mlil I- l'.uilm...in,, An I '.|.,&lt;-- printed III 
+
+and There was no student senate meet- Staff Writer coll.-,:,- -villi a plaque, an airplan 
+
+.MM- ili,- i :( .,i ii-.i-..-ting is lomghl. at 'J p in The incnl.cr. m lb-' faculty senate help fund next year-. I- ..it- k-.-i,v,,l 
+
+discuss iMirl vole mi uifT.-Ni in|)K- and hn.lc.-i loi I...H, Indiana and Purdui 
+
+concerns Dunn,; tlm mc-inm main Th.-IITV, budget is obtained throug 
+
+Museum presentation «E^rZ™2 Ss ! 5aS s Sr5 
+
+JT approval and acceptance of the Sept requested. 
+
+reviews black history pPHHi 
+
+•/ Ken si.-vi-ii-.ini |&gt;P. i 
+
+
+
+:,;;' :,n;;, 
+
+
+
+public records, newspaper honed the plan In cmiiptonn-c '&gt;n * 
+
+
+
+
+
+
+( uimiy Publu Lihr.it&gt; in serve as "Persever 
+' . i . black history.exhibit valuable 
+
+
+
+First, on died Sept. 19. Lee. proles 
+
+
+
+These can be small 
+
+
+
+ruL':'-:,.;: 
+
+
+
+Experience in Allen County." 
+
+
+
+Sfi: 
+
+
+
+f blacks ' Mdwfidd. 
+
+
+
+,.,-.. ,,, cmp.-i i, lor it., ptTlnrrruncc "1 cine. ,1m,, ,,.,i nr.K .,i (I'lV.. bi.,1 
+
+during the Forte II festival every part of her career. 
+
+E™!°3eriig Government documents 
+Z Iirt Z facilitate researching 
+
+
+
+hidden because few 
+
+
+
+( „unl&gt; v.,c- ti.il -.,iti-,(,i. lory 
+
+
+
+g an absurd number of rough drafts 
+
+II, &gt;|,. -lull... h«- i.-'-.i Ih-hnkc I., bury 
+
+
+
+e the Civil War and con- T he . 
+
+VnoJii li'"l to seUle in Dl^ck t 
+
+..mi . ... ■ ■ ..,.,... 
+
+"t.Uk Vil" Cousins! vereitv 
+
+
+
+[^experience was, h 
+1 a lot of gaps," Kirb 
+
+
+
+Iiii.-i. Line. In V iiii.ri.i I i i.rp . |.„l ,i..hiinv avail himself , 
+irtit-k wilh .. lirjul (mm Ihe L h.iiv.- .&gt;[ n.n.nnm-nl dncu 
+
+
+
+Opinion 
+
+
+
+The candidates 
+
+Quayle misses chances 
+during debate in Omaha 
+
+
+
+: presidential joini pn-.-. &lt; mi 
+
+than the first presidential joint press 
+conference Llovd Benlsen responded lo 
+some of the things Dan Quayle said and 
+Dan Quayle responded to some of the 
+things Llovd Bentsen said. Other than 
+that, the Quayle-Bentsen 
+
+
+
+
+Senate's poor accounting 
+harms student interests 
+
+
+
+nio Mayor Henry 
+Cisneros. He addressed 
+
+mayors and Uilidu.dm^ 
+of various Indiana.cit' 
+
+our group, Hispa 
+
+
+
+liversity is your feedback. I will i 
+'-■■--' without speaking for you .since 
+
+
+
+feedback. I will not 
+
+
+
+Wade/ 
+
+director 
+Continuing Education 
+
+
+
+
+News 
+
+
+
+Pizza Olympics held at IPFW 
+
+
+
+0"iD«~iw.""»w. »». v -,, h- v&gt; »»« &lt; 
+JOBS IN AUSTRALIA 
+
+te Opening for Men and ! 
+S 11, 060 lo $60,000. Construe- 1 
+lion. Manufacturing, Secretarial Work, 
+Nurses, Engineering, Sales. Hundreds of^ 
+Jobs Listed. 
+CALL NOW! 206-736-7000 
+EXT. 310 A 
+
+
+
+
+I 
+
+
+ROOMMATE 
+MATCHERS 
+484-8538 
+
+
+
+
+D.J. SERVICE ■ 
+484-8538 1 
+
+
+FREE 
+PREGNANCY TESTING 
+
+(Results while you wail) 
+
+CONFIDENTIAL PEER COUNSELING 
+
+Appointments preferred 
+Only 8-10 minutes from IPFW Campus 
+
+VSzpregnancy 
+j|8f center 
+
+(Co'rwofSn A±»y (24 Hou, ffi") 
+
+
+HELP WANTED— 1 
+
+1 Phone Canvassing 
+
+Several persons needed, good 
+communication skills and enthusiasm 
+are the only requirements. Part-time. 
+Monday thru Friday, 6p.m. -9p,m., 
+hourly rate increases possible. 
+Call 484-8584. 
+
+
+
+JC Penney is now hiring for the following departments 
+
+
+
+':30-4:30 hrs. M-F 
+
+
+
+These are temporary positions that offer 
+flexible schedule surrounding school hours and responsibi 
+40% discount off on working apparrel for associates - tl 
+.nd, the opportunity of working in an exciting and inno' 
+
+
+
+Sporting Goods &amp; Luggage 
+
+Catalog 
+
+Credit lLayowoy 
+
+Gift Wrap 
+
+
+
+the following benefits: 
+
+
+
+Tuesday, October 18, from 12 p.m. 
+Wednesday, October 19, from 9 a.m. to 1 p.m. 
+All interviews will be conducted at the office of 
+Career Services, Room 113, Walb Memorial Union. 
+
+JCPenney 
+
+
+
+Campus 
+
+Calendar 
+
+
+
+
+
+
+Uarn To'use OOS^FIoppy 
+Crafting Day, The Fort eat 
+
+
+
+
+
+
+Vihmtk^&amp;m^m KT 
+
+
+
+Sr^Kg.e,^. 
+
+
+
+'". ' "i i 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+NEED HELP FR5T?&gt; 
+
+
+
+Cinema Center 
+
+Film viewed as new art form 
+
+The 
+
+
+
+
+k^~ 
+
+
+
+
+; ,l5cn^.,„™. 
+
+
+THE KINO OFCOMEDr] 
+
+
+
+
+EMBASSY 
+THEATRE 
+
+Thursday Oct. 13 
+8 pm 
+
+
+[©%SfiM 
+
+
+LaBOVE 
+
+
+f\3 
+
+
+
+
+* 
+
+
+riSH'H 
+
+
+\] 
+
+
+
+
+
+
+a 
+
+
+
+
+
+
+
+ir commissioning, 
+
+t o mojor Air Force medicol 
+It's on excellent woy to pre- 
+ir the wide range of experi- 
+
+
+
+f]\ 
+
+
+1ts,ToJ.f*T|ie4y 
+
+
+I'mgoiigto Wire 
+7Jie Greqt /Wean 
+
+
+
+
+1 ST arH I'm finally . 
+
+
+n 
+
+
+qo'iKj +o a« ;H 
+
+
+w 
+
+
+1 
+
+
+. characters an! a ' 
+
+
+&amp; 
+
+
+■?*&amp;&gt; 
+
+
+plot chock -Ml of 
+
+
+K 
+
+
+$U 
+
+
+passion, cctton 
+and intrigue / | 
+
+
+Wl 
+
+
+iiPp4ktfo^ 
+
+
+7 ;W=e 2 
+^ 1 
+
+
+V&gt; 
+
+
+Ife^-r ■ 
+
+
+
+over Mm-mvafj 
+out C&lt;P&gt;li' 
+orlc Times &amp;s+ 
+■, 1M here 
+
+
+
+CREATIVE HAIR CO. 
+
+A Great Haircut at A Great Price 
+
+
+
+
+
+B.M.O.C. 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just the kind ol friend a 
+college student needs. He hangs out at The 
+Fort everyday. Carries a lot of cash. He's always 
+there for you, anytime of the day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like a good deal to you, make Iriends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+
+
+s as Usual. 
+
+
+
+Si 
+
+
+UPON OOI3D FOR 
+
+.OO OFF 
+
+
+ANYPF 
+
+
+E-RECORDEO MUSIC-&gt; 
+
+
+
+
+•W OVER 5,000 
+HRM*" STOCK EVERY DAY 
+
+
+
+
+!pJ| S 
+
+
+REGULARLY 
+REGULARLY 
+
+
+L SPECIALLY PRICED 
+LP's ON SALE 
+
+
+SSHj 
+
+
+SsS^K^" 1 """™" 
+
+
+
+
+Music* 
+
+
+
+Art. 
+
+
+
+|,lll ■&gt;„ \V,,lnrMl,,\ ]|„. 
+
+
+
+
+
+
+Christ- Guild provid 
+
+
+
+KAPLAN 
+
+
+
+TAKING THE MCAT NEXT APRIL? 
+NOW IS THE TIME TO SIGN UP! 
+
+
+
+GET HOMESTUDY MATERIALS. 
+
+SAVE MONEY!! GET YOUR 
+
+EARLY BIRD DISCOUNT. " 
+(Available only until Nov. 15) 
+
+
+
+CALL US NOW. 
+
+YOU'LL BE GLAD YOU DID! 
+
+KAPLAN EDUCATIONAL CENTER 
+
+1717 E. SOUTH BEND AVE. 
+
+SOUTH BEND, IN 46637 
+
+219/272-4135 
+
+
+
+ROOMMATE 
+MATCHERS 
+484-8538 
+
+
+
+ZlSTodnj To Learn More! 
+
+The 
+Communicator 
+
+
+
+SPRING BREAK TOUR 
+PROMOTER-ESCORT 
+
+Energetic person, (M/F), to take slgn-ups for 
+our FLORIDA tours. We furnish all materials 
+
+
+
+
+Features 
+
+
+
+Red Cross in need of support 
+
+
+
+
+collect- ti ng ; immediately after FM arid WANE-TV. For 
+
+■d. If People" do not volunteer blood donations to jStaSettL lSt flJ^ * donate WoodTalT 
+
+start to g,ve blood, the next this n.ynir^ .ire., hospi- Afler donating blood, it Come in and sup,„ 
+
+stage is an Emergency tals Anothei ver&gt; im ls thoroughly tested (or community event to help 
+
+r ice i the vanm|S d f eases such a (hose ,n need. 
+
+!,■.,][-. ]&lt;-l iln- i ..miiiunil'. \iilvr-. ii:i- ,!,,;,., i ,..i:, .:( skm. 
+
+jjJ^jj'j*; r s ari ^e °'die n ctor ar o] '^il Art conte8t held f°r student 
+
+Release: Art and graphic tives from United Ar 
+
+s marketing and ere; 
+
+: advertising departments 
+
+to pmve l1 '- 1 
+
+'■: : '' ''' : ■■■ ['■'i-':: &gt;&gt;■&lt; ■-! n-",v.-,rk. ,,, 
+
+1 I' ; ■'■- l t ' &gt;M D il | ,,l I , 
+
+ring Timothy Dalton. phou.cr.iph L.yuuk. |&gt;.,hh 
+
+"LICENSE REVOKED" is ings or drawings in full 
+
+
+
+Problem Corner 
+
+
+
+
+II • I r . .... ... 
+
+HKV.ikE i,-™.-r- A.M.a.n,-, II.. .1 M ' 
+
+
+
+.'„ l'.'l'""l,',"" !', " I 1'1'r . C 
+
+
+
+COMM_J\IICATOR 
+
+
+
+ROOMMATE 
+MATCHERS 
+484-8538 
+
+
+
+Buying a New Car is Easy 
+
+
+
+Have you been on the job one year - ? 
+
+Lived at the same address one year? 
+
+If so, call 
+
+Greg Kelsey or Kevin Solomon at 
+
+Kelley Chevrolet 
+
+484-5566 
+
+
+
+For All 
+
+Your Personal 
+
+Computer Needs. 
+
+ComputerLand of 
+
+Fort Wayne. 
+
+Your choice for the family of 
+
+Apple II s and Macintosh* 
+
+personal computers. 
+
+
+
+
+The Hottest Concept 
+
+In FAST Foods 
+
+Is Now Here! 
+
+NOW HIRING 
+
+SPECIAL PEOPLE! 
+
+Rally's has openings for Day and Night Time Crew! Flexible hours and 
+several different positions available. TOP wages paid. Great benefit 
+package, includes HEALTH &amp; MEDICAL INSURANCE. 
+APPLY AT: 
+
+4810 Coldwater Road 
+
+
+
+tt: 
+
+
+
+rnvirie advert imhi; departments. M 
+
+1 H l 1 t d on T 
+
+twork ness to the James Bond yC 
+
+
+
+'Stag^deo °s * 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+5 
+J 
+I 
+
+
+
+■ft **Free Memberships* 
+"It We carry the latest new 
+
+•fc releases at the LOWEST pr 
+
+
+
+We honor ALL 
+competitors coupons! 
+Student and Senior 
+Citizen Discounts 
+
+Open 7 days a week 
+
+Sunday • Thursday 10-9 
+
+Friday -Saturday 10-11 
+
+486-5120 
+
+
+
+* 
+* 
+
+t 
+
+* 
+
+
+
+We 
+
+
+
+also carry a full Hi 
+Nintendo games 
+ight 
+
+
+
+Wash, Inc. is no 
+accepting applicc 
+tions for part-tir 
+sales attendants. 
+
+Mike's offers: 
+•Daytime Hours 
+•Evening Hours 
+
+
+
+Schedules 
+•$5.00/Hour 
+Average Pay 
+
+Apply in person at: 
+•Times Cor 
+•East State 
+
+
+
+
+We've reformed the 
+correction system. 
+
+
+
+Smith Corona's Correcting 
+Cassette means an end to 
+twists, tangles and fumbles. 
+
+It's an easy-to-load, drop-in 
+correction tape you can insert in 
+mere seconds. 
+
+There are no spools to 
+unwind. No complicated thread- 
+ing. No more muttering under 
+your breath. US that simple. 
+
+What'sjust as simple is 
+ourRight Ribbon System'." It 
+simply prevents you from 
+using the wrong combination 
+of ribbon and correcting 
+
+You'll find our Correcting 
+Cassette and Right Ribbon 
+System on the Smith Corona 
+XI. L'-'iOO typewriter. 
+
+You'll also find lots of other 
+
+
+
+great features on the XL 2500- 
+like the Spell-Right'" 50,000 
+word electronic dictionary, full 
+line correction.WordEraser 
+and more. 
+
+You might expect a type- 
+writer this sophisticated to cost 
+a bundle, but the XL 2500 is 
+surprisingly affordable. ^v£x 
+
+
+
+
+Sports 
+
+
+
+. Tour Company 
+Sreat Bencllts 
+Call Today ! 
+
+
+
+JOB OPPORTUNITIES 
+
+
+
+MANAGEMENT ASSISTANT/COMPUTER 
+OPERATOR: 20-30 Firs/wk. Experience pre- 
+
+
+
+IF YOU NEED A JOB AND YOU ARE AN I 
+STUDENT COME IN AND SEE US IN V 
+113 WE HAVE MANY JOBS AVAILABLE. 
+
+
+
+9 
+
+
+
+Volley dons record West Point and cluster wins 
+
+s. 10 in three games, Friday. trying some diffen 
+■ the Sept. 30. The scores were combii " 
+
+
+
+Hv.MIKi' UNVII.LK n.imeri! held l.r-.t '.v.-ekend .in- \:, in 1 In- 'Dons only Lisa Zohl 
+
+Sports Editor and their own t.n.,1 L.iki". needed I wo qjmes to oust digs and 
+
+Valley Cluster match on East Stroud.-. burr;, winning .M.^l.irjini 
+
+The IPFW Volleydons Sei.i ;u ,, n .l n, i i ,\li--r r, k ., ml l.vi, Army downed had _ 68 ; 
+
+'■'■ !'i'i' .....r'.'i' v.-r.r ;the Volleyd vera II re h ■ ■ ..i i:-h mi-is and 14- Wilder, 
+
+est Point Academy Tour mi i hey are .Mi in GLVC 16. Springfield fell in two Brown w 
+
+The first round of com- 6. and Grand Valley lost to "It wa; 
+
+
+
+school. Butler 
+handed the 
+
+In ■■'!•' 
+
+
+
+A Temporary 
+Service For 
+Professionals 
+
+
+
+PROS: 
+TEMP 
+
+
+
+!™„n 
+
+
+
+ROOMMATE 
+MATCHERS 
+484-8538 
+
+
+
+: at 
+
+
+
+CRUISE SHIPS 
+
+Now Hiring Men and Wome 
+Summer &amp; Career Opportuniti 
+(Will Train). Excellent Pay PI 
+
+amas, Caribbean, Etc. 
+CALL NOW! 206-736-7000 
+EXT. 310 C 
+
+
+
+
+(*\ JOIN THE ARBY'S 
+MtfeTEAM AND MAKE 
+^2&gt; A DIFFERENCE 
+
+
+
+■ No experience necessary;B Discount prices 
+training provided on meals 
+
+■ $4.00/hour starting pay ■ Uniforms provided 
+
+■ Flexible hours ■ Opportunity for 
+
+■ Full-Time and Part-Time advancement 
+available ■ Fun place to work 
+
+■ Equal Opportunity Employer 
+
+
+
+Kickers down Northern Kentucky 
+
+
+
+MUFFLERS • EXHAUST • CUSTOM BENDING 
+BRAKES • SHOCKS • STRUTS • COIL SPRINGS 
+
+FAIRS NOT JUST A NAME ITS OUR WAY OF 00INC BUSINESS 
+3 LOCATIONS TO SERVE VOU 1515 Coliseum 
+
+4224703 
+
+
+
+MUFFLER 
+SHOPS 
+
+
+
+4411 
+
+
+
+!-3618 
+
+
+
+4832 S. Calhoun 
+
+
+
+'15.00 OFF ™ "ftWUtfF™ - ™" 
+
+AfjV PURCHASE ANY PURCHASE OF 
+
+OVER '125 '80 TO '120 
+
+
+
+'5.00 OFF 
+
+,Nlf PURCHASE OF 
+
+•20 TO 'BO 
+
+
+
+FREE 
+
+BRAKE &amp; EXHAUST 
+
+INSPECTION NO 
+
+OBLIGATION! 
+
+
+
+F 
+
+
+
+Jeans 'N THINGS 
+OUTLET 
+
+Quality 
+
+Lands' End Jeans 
+
+At Tremendous Discount 
+
+
+
+
+Netters in tourney 
+
+
+
+
+
+
+
+
+N.hilTl.lV. &lt;k-t 1. with 
+
+
+
+
+
+
+
+
+di.m.ii&gt;.,|i, was postponed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 1 I i 1 \ i 
+
+
+
+
+
+
+
+
+SespV begins a"? 
+
+
+li'-i ■■ nell.ii- ■ I nllejle 
+
+
+
+
+
+
+
+
+Coach Sandy Lee 
+
+
+
+
+
+
+
+
+
+
+
+
+to' r d6 Uy r y weKut 
+
+
+
+
+
+
+enough player- to field ,1 
+
+
+experience." 
+
+
+
+227 E. Washington Blvd. 
+
+Fort Wayne, IN A 
+Telephone: 219-422-1 
+
+
+
+| SPORTS DEN 1 
+
+
+
+□ Jackets • Specialty Printing 
+
+
+
+•^ 
+
+
+
+e 
+
+
+
+Lowest Prices In Fort Wayne 
+
+
+
+Sweatshirts 
+Jean Jumpsuits 
+Munsingwear Turtlenecks 
+We Ate Receiving New Items Each Week 
+Watch Our Sign 
+^Located Just West of Highland Superstore 
+^ *•» ^ RECEIVE 10% OFF WITH 
+
+^ ^ — _ IPFW STUDENT ID. _ 
+
+
+
+
+Garno's 
+
+Pizza &amp; Grinders ! 
+
+
+
+483-6444 
+
+
+
+NOW OPEN SUN. 4 P.M. - 8 P.M. j 
+
+MON. - 1HURS. 11A.M. - 10P.M. FRI. 8. SAT. 11AM. - 12 MIDNIGHT | 
+
+10%off I 
+
+ANY MENU ITEM 
+
+
+
+Fashion 
+
+
+
+The Communicator 
+
+
+
+Anything goes for style 
+
+
+
+
+i-H SgrfS?J Shoe futures look black 
+
+
+
+$ $ 
+
+FREE INTRODUCTORY OFFER 
+
+
+
+iimL£) 
+
+
+
+/Tan 
+&amp;Trim 
+
+
+
+Tanning or European Body 
+Wrap Package - You have 
+nothing to lose but inches! 
+
+
+
+Not valid with 
+other discounts 
+Exp. 12/31/88 
+
+
+
+COUPON 
+WE DO 
+NAILS TOO! 
+Acrylics 
+
+$ 35 
+
+
+
+(Reg. $50) 
+With This Ad 
+Manicures, Tips, Fiber, 
+Wrapping, Glass Wrapping 
+
+
+
+
+Free complexion core, makeovers, 
+
+and eye make-up lessons dally 
+
+Walk-In... 
+
+no appointment necessary. 
+
+
+
+IT16RLG nORUIfln glenbrook SQUARE 
+
+The Place lor the Custom Face Ft - Wayne 
+
+484-2032 
+
+
+
+
+f ~A ' ° FF ANV St! ^""MbMI GEORGETOWN SQUARE f^J 
+
+
+
+
+493-1374 
+
+
+
+
+For all your career and sportswear needs, 
+
+come to Chaumont Apparel. 
+
+New Fall/Winter fashions 
+
+arriving daily. 
+
+
+
+Fashion 
+
+
+
+
+New hair style updates old look 
+
+
+
+
+
+
+anois spray Ryd ot W1 ^ 1f1 
+i day wani 10 do anything e 
+
+
+
+Pamper yourself! W^Si 1^.1^ Pw^ *= 
+
+
+
+Creative trends 
+§i become popular 
+
+
+
+Aufumn -colors 
+
+Makeup changes with season 
+
+
+
+
+
+
+ZTlT^TZ °^X£ 
+
+
+■■;.' 
+
+
+
+
+They are International 
+
+
+mj .tiff. 0&lt; : ^Kh 
+
+
+They do permanent 
+make-up for hair 
+
+Painting, carmelizing, 
+spicing, spotlighting, 
+incredible technology, 
+
+
+mO 
+
+
+&gt; $ 20 FREE-E^rj 
+
+
+^m^ J 
+
+
+Europa £f ° n ra,ory 
+
+3623 N. Clinton 
+South of Glenbrook Square 
+
+
+^^^^ 482-4279 
+
+
+
+AT A JOB INTERVIEW, YOU GET 
+
+ABOUT 20 MINUTES TO COMMUNICATE 
+
+THAT YOU'RE WELL-EDUCATED, BRIGHT, 
+
+HONEST, AFFABLE, MATURE, DISCERNING, 
+
+AND EAGER TO GET STARTED. 
+
+
+
+
+FORTUNATELY, YOU CAN SAY MOST OF IT 
+BEFORE YOU EVEN OPEN YOUR MOUTH. 
+
+Redwood sftoss 
+
+
+
+Only our service is old-fashioned 
+
+For Men &amp; Women 
+Glenbrook Square • Ft. Wayne, IN 46805 • 219/482-2209 
+
+
+
+Fashion 
+
+
+
+The Communicator 
+
+
+
+Athletic wear or latest fashion statement? 
+
+
+
+
+
+ONE PER PERSON 
+
+
+
+• Convenient Payment Plan 
+
+• Private Salons 
+
+• Cheerful Decor 
+
+• Relaxed Atmosphere 
+
+• Gift Certificates 
+
+• Two Free Visits with Purcha 
+of Any Visit Program 
+
+
+
+INTRODUCTORY TANNING PASS 
+
+
+
+
+spencer^ 
+
+AMERICA'S HALLOWEEN HEADQUARTERS 
+
+
+
+Interview basics conservative 
+
+
+
+By LILLIAN R. LYON 
+
+
+
+all ill r - i i i 1 
+
+mi-iI, 
+
+
+
+
+
+
+
+
+
+Winter tanning 
+
+Salon has rays 
+
+
+
+Special Thanks 
+
+
+
+i of Redwood &amp; Ross 
+' Lisa Brockley of The Closet 
+' Linda Mertz of Merle Norman 
+' Karen Ryder of Hair Gallery 
+' Lisa Onz, Ingrid Laidroo, Dan Reese and Brad 
+
+Chaffee, models 
+' All of those who applied to model 
+
+
+
+All photos by Lillian R. Lyon, 
+Dorin Cindea and Mike Linville 
+
+
+
+</pre>        </div>
+      </div>
+    

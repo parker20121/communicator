@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i24indi/communicatorv8i24indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i24indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i24indi">The Communicator</a>"
+          </h1>
+          <pre>™ £ COMMUNICATOR 
+
+
+
+J 
+
+
+
+( VOLUME VII, ISSUE 24 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY at FORT WAYNE 
+
+
+
+MARCH 10, 1977 i 
+
+
+
+Ross, McAlexander to contend 
+in prexy run-off March 15-16 
+
+
+
+R E E El t E 1 
+
+
+
+
+
+
+Student Election Results 
+
+
+
+
+party was an asset during t 
+
+
+
+l ( •'■' ' iV.,ii.,,„! Inn .ii.hir.uii in March of 1975 wil 
+I cam- Pratt finally being declared the winner- 
+
+
+
+fdff r e?e s „uX h r=1f R crr„S„ Candidates ability, sincerity influence voters 
+
+!V did in the general election * ' v 
+
+
+
+ability DGTS said, "I just voted tor the ones who c i pa[e In the election. Two si 
+
+
+
+I'M.HI : 'K\V ■■ 
+
+
+
+, perceived iis IiU'kiI hy Mike touch with this campu: 
+
+
+
+.tlcnln.1 tut i-;nn|Hi!. ,is imrjoHanl. 
+
+
+
+Ifj;;il :..rvi.rs and thought it 
+
+
+
+With 4% pa y raise 
+
+Faculty level can't 
+be maintained: Ryan 
+
+
+
+•om programming f, 
+
+
+
+commenting upon the recent budget deci- 
+
+
+
+
+
+
+
+
+
+
+
+
+cameat last Fndavs I.U. Trustees meeting 
+
+
+a stud} to bring us up-to-date on programs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actions proceeding from these retotnmeri' 
+
+
+
+
+
+
+
+
+according to Ryan. 
+
+
+
+
+Two important sources must be taken into 
+
+
+
+
+
+
+. 1 1 t hi , ! i 1 
+
+
+
+
+the smallest percentage increase in the 
+
+
+A^t.f.-ial'on. "What &gt;l.uden*s think and the 
+
+
+sialt remarked Ryan. A budget cannot be 
+
+
+relationship of different student organiza- 
+
+
+
+
+
+
+
+
+
+
+large fee increases for these type of students 
+
+
+add new programs." noted Kyser. 
+
+
+becomes law, according to Ryan. 
+
+
+Alternatives for appropriation funds and 
+
+
+
+
+
+
+bud?c^f^rsKu^o,^'&lt;!t^d,d'K^r,' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the Fort Wayne campus and asked for 
+
+
+
+programs at their current level, according life programs as they have really ser 
+
+IPFW bonding authority 
+ok'd by House committee 
+
+ns the bonds, this method will cost thesfc 
+
+
+
+specs fit tally in the Finance 
+
+
+
+■vernor Bowen's desk. these appropriatons 
+
+
+
+it quickly in order to pass the budget 
+
+
+
+Briefly.... 
+
+Finkle to give weather workshop 
+
+
+
+Workshop Featuring Ejrl Tinkle.- .nil Ik- 
+
+
+
+i |&gt;i-ffliei.n.ri; Or. Gerald House- 
+
+
+
+weather; and Barbara Baker, counselo 
+Mental Health Center, psychological effec 
+
+
+
+Macedonian identity panel topic 
+
+
+
+as; and rightful claim on Macedonia) 
+iw the discussion. The program is fre- 
+
+Students needed for evaluation 
+
+Any student wishing to help with the "ie second floor of the Union or with the 
+
+last week's Commumc 1 contact John Graft or 
+
+The Students' Government office located on Cindy Harris. 
+
+Wabash &amp; Erie Canal 'Focus' topic 
+
+
+
+Wayne's Past. A slide-tape 
+
+
+
+Western Railroad directly behind the City 
+Ernest is the Executive Director of the 
+
+
+
+at ImC'l" 
+
+
+
+01 emphasis 
+
+
+
+Fort History Department 
+
+
+
+and Erie the Historical Society. 
+
+
+
+Term paper clinic to aid 
+students in research work 
+
+
+
+Paper Clinic," a series of mini-ermn 
+gathering, perhaps the most difficult p 
+
+
+
+Durce systems and on which resources to graphy and psychological abstracts will be 
+library, will last only 20 to 30 minutes. special style of documentation required for 
+
+
+
+"Notetaking," organized Wednesday, Thursday and Friday, 
+
+
+
+Card Catalog Card Catalog Card Catalog Card Catalog 
+
+
+
+t Reviews Psychological MLA 
+
+
+
+Strategy Footnoting (Presented I 
+
+
+
+Lerner-Loewe musical 
+'Brigadoon' at Civic 
+
+
+
+"Brigadoon," the well-known Broad 
+&gt;ne to sleep and awakes for a single 
+
+
+
+e morning of a fair and 01 
+
+
+
+Boat" and "South Pacific." 
+
+
+
+Gene Kelly, CydChansse. and V 
+The local production will bt 
+direction of Richard Casey- 
+
+
+
+Mary K. Perkins of the Fort Wayne 1 
+
+
+
+PAGE 2 THE COMMUNICATOR 3/10/77 
+
+
+
+Takeafliiig* 
+
+
+
+^T . ance pros 
+
+TheNevi 
+
+THOMAS S. BUNKER 
+
+
+
+jlmancemoslolthe 
+
+
+
+EDITORIALS 
+
+Increased poll turnout ^JS^TSiSfS ftxS^STJS, ~&amp;A± 
+shows student awareness 
+of Student Government 
+
+
+
+and SUBOG. But due to a close presidential race 
+n Bob Ross and Mike McAlexander students may 
+' '" ! president 
+
+and their respective running 
+Clark and Nanette Meaux. 
+
+The year's election attracted nearly 300 
+to the polls than last year; 1203 in "77" \ 
+Thisalong 
+
+; year suggests an increased awareness and 
+
+
+
+2 D "I" LUNCH SPECIALS^ 
+
+
+Mon - Any Sandwich 
+
+
+AA 
+
+
+B Tues - 2 pes. Sicilian &amp; Sulud 
+
+
+B9 C ! 
+
+
+■ Wed - Italian Beef Sandwich 
+
+
+■ Hi...- - Spaghetti &amp; Meatballs 
+
+
+■! -"^^ DAILY 
+
+■; yH- -J LUNCH SPECIALS 
+
+Hjl FREE SOFT DRINK 
+
+WITH LUNCH 
+■! -INSIDE ONLY 
+
+St Exp. 3/24/77 
+
+
+TWO LOCATIONS ■ 
+
+^, Georgetown , 
+* 2910 MaplecreBt j 
+
+•fc Clinton at Coliseum ■ 
+
+
+
+
+THE BIG WEENIE IS HERE 
+
+A V4 POUND HOT DOG 
+
+BIG ENOUGH TO SATISFY 
+
+THE HUNGRIEST WEENIE LOVER! 
+
+
+
+THIS WEEK 
+
+BIG WEENIE &amp; FRIES 
+
+85° 
+
+
+
+GIANT COCKTAIL HOUR 
+
+Double Drinks -Single I 
+
+5629 St. Joe Rood "£Zr 485-1685^ 
+
+
+
+ONLY 
+
+
+
+BIG WEENIE 
+
+
+
+WITH COUPON 
+
+
+
+&amp; 
+FRIES 
+
+
+
+EXPIRES 3/15/77 
+
+
+
+thefort 
+
+
+
+Mon.-Thurs. 7:30-5:30 
+
+
+
+Friday 7:30-3:00 
+
+
+
+PRE-IMVENTORY CLEARANCE 
+
+
+
+
+
+
+
+
+
+
+3&gt; "S 
+
+
+
+**$&amp; 
+«&amp;&lt;** 
+
+
+
+FOLLETT'S 
+
+BOOKSTORE 
+
+GROUND FLOOR~K£TTLER PH:48Z-6lOO 
+
+
+
+THE COMMUNICATOR 3/10/77 PAGE 3 
+
+
+
+
+PAGE 4 THE COMMUNICATOR 3/10/77 
+
+InToday's Air Force, 
+
+"Going Places" 
+means Going Places 
+
+
+
+Women cagers close out successful season 
+
+
+
+
+</pre>        </div>
+      </div>
+    

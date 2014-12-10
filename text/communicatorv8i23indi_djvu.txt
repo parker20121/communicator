@@ -1,0 +1,1263 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv8i23indi/communicatorv8i23indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv8i23indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv8i23indi">The Communicator</a>"
+          </h1>
+          <pre>© the COMMUNICATOR 
+
+
+
+Ms 
+
+
+
+f VOLUME VII, ISSUE 23 
+
+
+
+INDIANA UNIVERSITY-PURdUE UNIVERSITY at FORT WAYNE 
+
+
+
+MARCH 3,1 97JT) 
+
+
+
+
+,.„„,.„_ , « , 4~rl/f 1 • « The UnlvorMh Y,, ; .,, .,■.. ,\|, a.I, v ., J'"! M„&gt; slut! nk 
+
+^ZC;.™^ More student representation' ^s^si'^sts 
+
+
+
+
+SUBOG 'Activity Month' ends; E£ 
+Harbor Arbor Days planned [Hff^Ef.'' 
+
+
+
+conflict. Blackman students should n 
+
+
+
+Ier Student organized faculty, 
+
+hHEdTn^cE course evaluations resumed 
+
+
+
+bility delegated out 
+The displays, ente 
+
+lounge area during F 
+
+
+
+f SUBOG When asked i 
+
+
+
+t Union's Fuluru ■Uiivity ,\ 
+
+
+
+I help student organic 
+
+
+
+n the past, Graft staled tl 
+
+
+
+-ounds; however, Graft stated that faculty 
+
+
+
+Blackman advocates establishing ; 
+
+
+
+This iilirif' syslem, Blackman f 
+
+
+
+Off-campus broadcasts via IHETS likely by spring '78 
+
+
+
+
+
+
+Each of the centers w 
+
+In Ft, Wayne the Medical Co-ordinator i: 
+
+
+
+
+
+
+j due to Dr. Brya[ 
+
+
+
+SMSr-I. i,as *.„ 'Focus: Fort Wayne's Past' second ttSgttttgZ SSiSH^S 
+
+l b „V^iSil h L?hT^ sySem session studies life in old fort EisSSs^"SiSB r„eS.;I?^Eg" a °Ic w £H" 
+
+'".'"fi^.in™.! 1 [I I, Life at "» 01&lt;i Port ." "» sec ° n&lt;i «"* perron 
+
+'„i;,»«^tJr«™;J , CZ™A»« program in FOCUS: FORT WAYNE'S Cramton wi 
+
+
+
+" Therefore, Ms. Dr Bryan added. 
+
+
+
+i. There Classes tl 
+
+
+
+Borkowski said, "a 
+
+
+
+The entire IHETS s 
+
+
+
+j and FOCUS: FORT WAYNE'S PAST is c 
+
+
+
+atevcryone,tosomedegree,can"betheir COMMITTEE FOR THE HUMANITIES. 
+
+:n historian ' bv utilising some relatively The INDIANA COMMITTEE FOR THE 
+
+npleandinterestingtoolsofresearch.The HUMANITIES has also funded tile video- 
+
+■out Fort Wayne's past, but to encourage the fort Wayne Public Library. 
+
+
+
+Security, space major issues in Library faculty office probe 
+
+, . "The primary concern if this becomes a come through the rear door of the main 
+
+
+
+/ Schlammersdorf. 
+
+
+
+we have found historcially r 
+
+
+
+: : space utilization coordinator, Ear 
+mock, chief of Safety and Security am 
+n Grose, director of library services. 
+
+, n charged the JURPCt. 
+
+
+
+l corrals Earl Warnock, chief of Safety and Security. 
+
+
+
+Adding his lo the 278 members previously 
+
+
+
+
+
+
+RAGE 2 THE COMMUNICATOR 3/3/77 
+
+Campaigns should be lengthened 
+
+
+
+&gt;■ 
+
+
+
+&gt; And now students again are facing that decision, which candidate should they 
+support to represent their interests? The campaign has barely begun and already 
+.one is being confronted with a list of names from which to choose, with little more 
+than a sligt idea as to their qualifications. 
+
+The problem with the elections is not the ole' scape goat "apathy". It is not the 
+
+lack of interest in the elections that breeds such a poor turnout at the polls each 
+
+*vear. Rather, it may be the format in which the elect ions are whipped through. 
+
+The deadline for candidates sign-up sheets is less than two weeks before the 
+
+actual election. This provides little time for student to become acquainted with the 
+
+mi'.! ' ulei-. ibis newspaper in its coverage of the elections, thus, 
+
+limitinc the main communications line to the students. 
+
+Why not let the campaigns run a bit longer, say four or five weeks, maybe even 
+two months? This certainly would stimulate a more issue-oriented election as well 
+as probably a more vital, interesting student government. 
+■ Interest may replace non-p;irii(i|Kiti(u] i! llic hi/zincss surrounding many of the 
+figures running for office and the guesswork at the polls are allowed, through time, 
+
+Poor planning common campaign fault 
+
+At this point in the campaign students should be aware of the responsibilities of 
+
+
+
+Exaggerated, slanderous statements 
+and 'pot shots' cannot go unchecked 
+
+
+
+Thomas r.sks, "And what kind classroom space for IPFW. increase 
+
+of picture of IPFW have the When I asked Senator Richard isolated 
+
+rOviHi.-iiily. MH'ir picture hn:, n. sLilwi (hat Miller w 
+
+
+
+seriously. The rest of the presen- this p 
+
+
+
+student government. The issue now is to decide which candidates 
+those responsiblities and be able to fulfill them. 
+The major issue is to reorganize student government - Students should vote 
+
+
+
+a riling system lor Studen (Government is desperately needed. The Government 
+ssue meed's improvement) order to attract more students to active involvement 
+Student Government needs officers who are willing to take the time to work for 
+
+
+
+Lobbying efforts 
+
+The function of at 
+All the candidate; 
+nitiate programs b 
+
+
+
+ics, both intercolligate and intramural, needs to be studied, 
+s year seem to be sincere in their desire to effect change and 
+ne glaring inadequacy is the lack of well thought out plans. 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE'S FINEST PIZZA 
+GRlHDCRS 
+BROASTED CHICKEN 
+
+SAUSAGE ROLLS 
+
+MONDAYS &amp; THURSDAYS 
+
+$1.00 OFF 
+
+ON ANY LARGE PITCHER 
+
+YOU MUST BE 21 -IF YOU'RE NOT, 
+TRY OUR FOOD CARRYOUT SERVICE 
+
+
+
+
+CAMPUS MINISTRY FORUM 
+
+Informal religious 
+
+services needed 
+
+
+
+l',i'iiiT.il iripul from al 
+thought I'd try my h 
+principal areas of co 
+
+
+
+%i 
+
+
+
+)f our upbringing, t 
+
+
+
+t the Pope. The Forum-campus r 
+
+
+
+- i:n.'! hint; tor and with vmiilii ^rjuiti. pi! r! k i.i l;,rly l.h? MTlgk"- 
+
+who often fall outside the chu " ' 
+campus ministry possible at LPFW. More 
+
+
+
+leas about any of the 
+University Religioi 
+
+
+
+tafav that could accomplish such LETTERS 
+
+i?H« Faculty should be accepted by students 
+
+
+
+tents are "irre- I would definitely I 
+
+
+
+The 
+
+
+
+REO HENDERSON 
+SPECIAL a 
+
+the fort 
+
+
+
+
+^ 
+
+
+
+INSIDE THIS 95 
+LB. WOMAN LIES A 20 CUBIC FOOT STOMACH 
+
+1 A POUNDER 
+
+FRIES 
+
+PIE 
+
+X-LARGE DRINK 
+
+COOKIES (for later) 
+
+REGULARLY 2.05- 
+
+THIS FRIDAY ONLY 
+
+WITH COUPON 
+
+
+
+THIS OFFER VOID WHERE PROHIBITED BY LAW 
+
+
+
+1.50 
+
+The 
+
+• REO SNACK • 
+
+• FRIDAY, MARCH 4TH • 
+
+
+
+e readers that they are. in fact. P°" 01 lacl 
+I received a response to my hundred pe 
+" signs on at IPFW. J 
+
+
+
+', Neff Hall lounge and the 
+
+
+
+I buildings on com e m ° u r m ,f „^ r " * "pVwTm «* * P r '"=« ' 
+lanced; from ""T™ "»~ "/'",', '" neaeeful masti 
+
+
+
+Call for united research association 
+
+To the editor: phone by Bell and the discovery of that change was the abolish- the scientific spirit anc 
+
+Up until the end of the nine- of phonographic recording and ment of the church affiliated, ledge research was rea 
+
+teenth century the siudv oi '■' n--;.m descent lamp by Edison classical educational institutions, the Society of Sigma 
+
+classic languages, Greek and who was to be granted over 1,000 Progress was achieved by the founded at Cornell U 
+
+higher education. Progressive The part of Europe I came many. But, oppression is one of recognized that researd 
+
+
+
+
+
+
+M II II U t I I rt I [ L I I [ 
+
+Eial Thiil speech stirred the The dramatic change 
+
+l.-.i.f -k rv.irti,.!,., us LI .-.ml ''i I rn Europe, when na&gt; 
+
+Germany. sciences, agriculture and ■ 
+
+This happened around the era neering took a leading role ii 
+
+of thegreat inventions of the tele- secondary education. The ] 
+
+
+
+An open letter to IPFW faculty 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE COMMUNICATOR 3/3/77 PAGE $ 
+
+
+
+/O 11i» » 1 J* -m- w- . - IHbUUMMUNIUAIUH 3/3// 
+
+Smorgasbord of music' set for Lyre on Friday Political theori8t Jo Freeman 
+
+
+
+"■FndirnT^'lbJTSL SjLSr™" W ™ ™ t«Par.me„,. started the coffee- mecup„,™repe.p,«,h.nusu«l win be given , chance 
+
+^™« E TS',^ d s S JS™3RS5S SSssSSS -ESt^SST-fcK SSSSBSS teatured at women's conference 
+
+house erearV ° f lhC L&gt;Te COffC ** "Friday will be mainly folk- are big"" s^ remarked^ ""^ music, so come and enjoy - the Cinnamon and ' Nutmeg IheWomen'sMoi ll Movement Organizations" OH Sa- day-long conferen^e'^oncernii 
+
+' r.«k. -he -.n,l but we'll have 'We have coffee and tea .ind The Lyre is intimately decora- Coffeehouse, Scotty Gilly and man. will give a talk enliUed turday, March 19, at IPFW. Dr. women, called -Struggles 
+
+The Lyre is located in a someof the, 1. 1, ,, , h , n (,q ue posters Ulat several others, T • • 
+
+"""' " k ° e ur " £^ B V"L &amp; bands y and ""' '" M ""* YoU S ™ '"'* "■ ale™," Triend'y^US'tere" onf of "hf 0^' b,""" 1 "'" 5 '' * " n P re881 ° 111 
+
+,isi...,l.t,eslosei.t&lt;.rcili»nsand Sunday we'll have some local bScausVltay can "afford"™ she Friendly enough that it some one probably the only place around sHoWIl ill C8 
+
+
+
+iressionistic graphics me Future. 
+shown in campus library J£J£°l 
+
+
+
+n employee o( the Park 
+
+
+
+Endow- IPFW and are funded w 
+
+
+
+Crafts room in Union gets more use 
+
+,g university family," Janeck says. stone polishers The™ are Ihree looms' 
+
+
+
+The hours fi 
+Wednesday 1 
+
+
+
+n later as a full-time directoi 
+
+
+
+, the craft room press, 
+
+
+
+i Street Engineering Depart- 
+
+
+
+SAE meets Mar. 9 
+
+
+
+placed closely togelher. resulting 
+in canvases flooded with light and 
+
+p'aplii, ;»(■!. f!i&lt;iilui-in r l over ;l(Kl 
+
+flflliiiK-- .iiul lilhoniiipl^, ,,11 „i 
+
+^lll.'l! 1,;,V,' II,,' ,„„,!,■ ,|,1.,I,[ V ,,| 
+
+Imlli.iiii Uj:hi .,s his paintings. 
+
+UK' HLipl &gt;,, ,i..,,I.U «,-,-,■ 
+
+
+
+.nthony eluding "The Social Construction 
+
+
+
+1 »■ Mill. Staff Revolt." 
+
+
+
+Nurses in B.S. program reach out to city 
+
+
+
+Reincarnation, karma lecture topics 
+
+all tin- iniqot d,,., i-,.,&gt;-iilU 
+
+at IPFW rent paths lo the same goal. He- 
+speakers S 
+
+
+
+
+P AGE 4 THE COMMUNICATOR 3/3/77 
+
+CAMPUS BULLETIN BOARD 
+
+ANNOUNCEMENT 
+
+
+
+
+THE CALENDAR 
+
+
+
+i Purdue-Indiana Theater, "King 
+
+
+
+i Adams's Apple. 2901 N. Clinton Street. Peti 
+i Blue Mountain Co/fee Company, The Landing, r 
+i Embassy Theater, Fort Vi 
+
+
+
+7:00 FWAS, Film Series, "The Treasure of the Sierra Madre", 
+
+8:00 Embassy Theater, Hal Holbrook in "Mark Twain Tonight", 
+
+B:00 Sear's Pavilion, Foster Park, music reunion for Lyre 
+
+Coffeehouse 
+
+8:00 Purdue-Indiana Theater, "Kings, Kaffirs, and Killers", 
+
+free to ACH's 
+
+9:00 Blue Mountain Coffee Company, The Landing, music by 
+
+Barbara Bell 
+
+9:00 FWAS, Film Series, "The Treasure of the Sierra Madre". 
+
+S:00 Purdue- Indiana Theater, "Kings, Kaffirs and Killers", free 
+
+
+
+Coffee Company, The Landing, Blue 
+
+
+
+MARCH 9, WEDNESDAY 
+
+Cafeteria 
+7:30 p.m. Cont. Educ 
+
+
+
+Educ, Macrame, Sect. 2, Student Uni 
+
+
+
+We 
+need 
+
+
+
+COMMU- 
+NICATOR 
+
+
+
+During the 4th month of pregnacy your 
+
+baby grows so much that he reaches 
+
+half the heighth he well have at birth. 
+
+WANT TO TALK? 
+
+
+
+RENT-A-BAY 
+
+.««.*.• TIRE REPAIR ».»«o^ 
+" J35&gt; LUBRICATION 
+
+• MINOR REPAIRS 
+eSt, •TUNE UP 
+
+• OH. CHANGES 
+
+CRESCENT &amp; ANTHONY 
+
+STANDARD 
+
+3301 Crescent Avenue • 483-9643 
+Rental bay open 7 days/wk 7 AM-9 PM 
+
+
+
+Roth,Wehrly,Heiny,lnc. 
+
+
+
+
+BOB HUDSON 
+
+IU-PU Grad 
+
+
+
+Real Estate Is Today's Best Investment 
+
+CONSIDER 
+
+WHEN SELLING or BUYING 
+
+
+
+* Interest Tax Deduction * Principle Reduction 
+
+There are over 40 ways to finance a home! 
+• VA 0% Down 
+
+
+
+OFFICE: 743-7531 RESIDENCE:456-8512 
+
+
+
+THE COMMUNICATOR 3/3/77 PAGE 5 
+
+
+
+Chicano, Latino 
+group to form 
+
+
+
+attempt to tional Bank , 
+
+
+
+l» -IX .lM,],.nl IkTllllll.l U.L,, Ui 
+
+Kspimts.i. Mike Trevino and 
+
+
+
+These students expressed their blems 
+
+
+
+) be a bridge for those 
+
+
+
+which high school students would problems. A brush-up c 
+
+
+
+rings 
+'ntktnjs 
+
+THE EAR PIERCING SPECIALISTS 
+
+Ears pierced 
+at no charge! 
+
+With the purchase of starter earrings 
+
+...Just $7.97 
+
+
+
+Recent African rgsSjgg^^!"^ § 
+history a paradox SS™l~liii § 
+
+
+
+
+
+
+H, Mil I...I T \ \(,()N UIU 
+
+
+
+•■ — .,,■ ... ■ ,w iri , I-,, sd .:--, ,,-, ,, „, \ tt , 
+
+Colonialism and slavery a few centuries ago ' 
+
+
+
+"Cape town background fc 
+
+
+
+., yet shadowy glory of the a: 
+
+
+
+f nobles. The . 
+
+
+
+werful Zulu empirr. k-&lt;1 l-v Km,: l 
+
+
+
+Ml &lt;&gt;l iH iriiin! lhrM'|i:u-l: 
+
+history of those countries. Such couldn't be acci 
+
+What is the history of Africa? Unlike the 
+
+in, t.x po i&gt;h.&gt; llt &lt; Inn " \h . m In 
+
+advenl ol the European redounded with greal 
+
+t ;lil'&gt;' 
+
+
+
+is and forced them to Ilrejectedthisclaim.devotedhisenRerBiesiuMrrngtl^ninp 
+
+ssor. Dinnane. also led his Army, and finally defeated ih.- im.idcr-, un ,\l,i , 1, i uw, 
+
+was finally defeated - at the battle of adwa. This victory , the most remarkable of an 
+
+1 D iT'T' d h y ° f African over a European Army since the time of Hanibal. 
+
+\iiu:m, ,ml\ \mi|, i|„- I !■&lt;■ I ,!■■, ir ,i|&gt;n&lt;„ 1 1. „[,.„ .|l,, m ,., inherited the tangled 
+
+
+
+lageiiintivcly Now. then 
+
+
+
+ike the stereo typical, This they are defending and have defended forcefully the war. '"' " "'"' 
+
+.«5»=?=£^s^fEH»2i ^^w»«"*rtS5 e ^ESrs;s^^^ss^ 
+
+
+
+'"In,,. ,.|.,-.. . Ik in „M. ..Hln. -„M, .,■,,,,.:■- „| Mi.- I- 
+
+
+
+Richard PankhrusI, "The Ethiopian 
+
+
+
+$35 million needed annually for Maumee Basin plan 
+
+
+
+BOOK 
+SALE 
+
+
+
+
+He slaled. Th.s | 
+
+
+
+FOl LETTS 
+
+ground floor 
+
+Keft/e t 
+
+
+
+-PAGE 6 THE COMMUNICATOR 3/3/77 
+
+
+
+Takeafling* 
+
+
+
+
+XGI Fraternity plans f unday, bong SAE *" 8hirt8 now avaaabl « 
+show for Easter Seal campaign 
+
+
+
+THE COMMUNICATOR 3/3/77 Page 7 
+
+
+
+ordered Bicentennial T-Shirts 
+Purdue Unlverjlt .,v. 
+
+
+
+KBRADSHAW their booths again in the Fun- 
+
+
+
+
+
+
+Allen County Society for Crippled ' "" ' ' tu ents ' '"^y. «nd staff 48M714. 
+
+m%££°EZ?&amp;^ 'Bermuda Triangle' author to speak 
+
+jents Charles Berlil 
+
+
+
+
+IPFW Penny 
+
+CONCERT REVIEW 
+
+
+
+Boston's 'prefabricated rock' attracts teenies 
+
+
+
+
+
+&amp; roue m m 
+
+
+
+, Rick Derrin- average 
+
+
+
+—* MARCH is 
+C AR STERE O MONTH 
+
+oHiiiin LocAT,oNs 
+
+5 B^ 
+
+1 ilisi Brad Delp hopped into ^fe '.uSSBfittT' :BHrt»iwn 
+
+n, vocaint toVSlfrS im-STiTSJSVliirSS W LIST 179.95 LIST 219 95 iKTiaqqi 
+
+stage presence as Diana Shore females standing within reaching fg£ '.»■»"' LIO I 1 03.^0 
+
+ted^^oSTquUe ""Se'a show. boys. fl MARCH 19Q95 MARCH -MQ95 MARCH 10Q95 
+
+ir , v. ay of his hands. Pre-fabricated rock at its ul- ^_ PRIPP I £9 DDIPC 143 DmPr lilij 
+
+ARS sounds like the outtakes timale. Next thing you know. ^ M rnll»t ■ ■"• PRICE PRICE ■ «■»» 
+
+
+
+
+
+
+Oriental art on display 
+
+
+
+
+
+
+A special exhibition and sale of scripts. 
+
+" iental art by Marson such ai 
+
+Ihnsur..', Md . will be yoshi a 
+
+m Friday .March 4, at The 1 
+
+
+
+India, Tibet, Nepali; liuil..,; i 
+
+
+
+lithographs, serigraphs 
+
+
+
+THIS WEEK: 
+
+- NIGHT OF THE SPANISH FLY 
+_HONEYMOONER_ 
+
+
+
+HELD OVER 4TH BIG WEEK 
+
+FREAKY ^? 4 
+FRIDA/^ ---3 
+
+
+
+narraiH 
+
+flmNMHISIIf 
+
+
+
+
+CASSANDRA 
+: CROSSING 
+
+
+
+£ 
+
+
+
+
+AUTOMOTIVE 
+SPEAKERS 
+
+
+
+UTAH 
+
+PANASONIC 
+
+PYLE 
+
+
+
+Panasonic's 
+"Sound Charger' 
+
+A shot In the arm for your car's sound 
+
+system at a price that won't needle youl ex 
+
+
+
+REG. 29.95 Kg" 22" 
+
+
+
+ffffedallion 
+
+k— ^AUTOMOTIVE PRODUCTS 
+
+
+
+
+
+REGIES" 74»5 „EG. 2 4.05 JS» 1595 
+
+
+
+l.«ii^i.in:t«.i»«:M:r.|.'..ju^.:l.l.'m.. 
+
+
+
+PAGE 8 THE COMMUNIC lioi 
+
+
+
+The 
+challenge. 
+
+
+
+Women cagers second in IWISO Playoffi 
+
+
+
+
+When there's a challenge, 
+quality makes the difference. 
+
+We hope you have some fun with ihe challenge. 
+There's another challenge we'd like to offer you, too. 
+
+The Pabst challenge: 
+
+We welcome the chance to prove the quality of 
+our beer. We challenge you to taste and compare 
+Pabst Blue Ribbon to any other premium beer. You'll 
+like Pabst better. Blue Ribbon quality means the best 
+tasting beer you can get. Since 1844 ii always has. 
+
+
+
+
+PABST Since 1844The quality has always come through. 
+
+
+
+1977 GRADUATES 
+
+CAP AND GOWN ORDER DAYS 
+
+All December, May and tentative August graduates are invited to participate. 
+
+MARCH 7, 8, 9 
+
+STUDENT UNION 222 
+9 A.M. -8 P.M. 
+
+TENTH ANNUAL 
+IPFW COMMENCEMENT MAY 9 
+
+• Division of General and Technical Studies students 
+
+will order their cap and gown at the Barr Street Campus 
+
+on Wednesday, March 16 trom 9a.m.-7:30p.m. 
+
+
+
+
+
+</pre>        </div>
+      </div>
+    

@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv9i12indi/communicatorv9i12indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv9i12indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv9i12indi">The Communicator</a>"
+          </h1>
+          <pre>Trustees approve $5 million funding for 'Building D' 
+
+
+
+H Friday the Purdue Board o 
+
+
+
+JURPChas mad.- 
+
+
+
+.■ .11 . 
+
+
+
+: departments to be cleric: 
+
+
+
+ities Pluming Group ii 
+
+
+
+
+
+
+gDwillbededicat, 
+chair &lt;TACt rooms. The i 
+
+
+
+: Learning Resources Center 
+riale reception areas will b&lt; 
+
+
+
+
+
+
+it Ux'Hire-porrorniiiii. = ■ i ^ s -1- . n 
+
+
+
+1 foyer, appropriately I 
+
+
+
+the COMMUNICATOR 
+
+
+
+■ EJSEin'D 
+
+
+
+VOLUME XI, ISSUE 12 
+
+
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY AT FORT WAYNE 
+
+
+
+NOVEMBER 17, 1977 
+
+
+
+Bank sponsors Greenspan, 
+Jackson . . . and dominoes 
+
+
+
+S5EHxS3 »w»d&amp;H£ ~P-' 
+
+
+
+
+The depot, which was located near the corner of Calhoun and Superior 
+Streets, was destroyed in the mid 1950's when "" 
+through downtown Fort Wayne. 
+
+
+
+Railroad heritage explored 
+by Focus on Fort Wayne 
+
+engine is gone, and so passes a major epoch It is my contention that Fort Wayne's 
+
+in the history of our city. For a century the lasting claim to fame is as a Railroad Town, 
+
+railroad was the engine of Fort Wayne's Our city has grown hand-in-hand with the 
+
+growth, and "Focus II: The Past Revisited" steel and trail of the iron horse." 
+
+will explore our railroad heritage in a Not only did Fort Wayne host numerous 
+
+special program next Tuesday. railroads, but there are major construction 
+
+On Tuesday November 22nd "FocusII" and re P flir aho M to the cit * Tbe - 
+
+wullookat ■ 'The Steam Era:A Century of Pennsylvania Railroadhadits "Pittsburgh'; 
+Fort Wayne Railroads". The presentation 
+
+and open'to the public through a grant from "Addition to the slide presentatio 
+
+V EwdSS ? uesday . evening - .^ Fort Wa&gt; : ne ' 
+
+
+
+}, and the Bass Foundry made wheels for 
+
+
+
+5 in Fort Wayne, which he 
+
+
+
+Gunnar Elliot closed 
+
+
+
+I pictures, opens on R Id IJ 
+
+
+
+Hockey team iced 
+
+
+
+has suspended opera- also resulted in fewer club hockey players 
+
+
+
+sing of the Gunnar Elliot 
+to suspend the hockey t 
+
+
+
+Scheduled for April 1978 
+
+Miami entertainment conference hosted here 
+
+:r. Slate universities seldomly planning. 
+
+tematlve plan for booking acts is ° Wa S | S ^" m o,!j a i Student Union 
+
+
+
+
+
+
+fvwhenan one in the Fall and another in the Spring. 
+
+
+
+y planners can look and decid&lt; 
+
+,-N I ..J.'.f.U - ill M .- !■■"! •■■&lt;" ; 
+
+
+
+Student leaders gain ideas from Chicago meeting 
+
+
+
+Jr.idu,.! ■ 
+
+
+
+
+
+
+d this April The current members of SUBOG a 
+
+
+
+PAGE 2 THE COMMUNICATOR 11/17/77 
+
+
+
+American high schools are not what they used to be 
+
+
+
+
+Lack of explanations causes tension 
+
+
+
+LETTERS 
+
+
+
+' In case someone hasn't noticed, there's a large will ever know Hie full stnr&gt; Vcl the 
+
+W | lf ,|r Inl ol tension around llns . , minus rjneslions remain While Mober's classes 
+
+I,,,!,.,.,] ,] lrM .-.. |„. ni ;, l,,l „l Iriisloo here tor have- i.icti prneloi ed liy nthei faculty 
+
+Qielasl three years. members, his students have suffered a 
+
+I ,,,011, morale i: oo1urioii-.lv iuw. many serious inconvenience Continuity is of the 
+proK-sors are worried ..Unit upcoming uprimsl importance in any academic pro- 
+tenure decisions. And righlly so. A healthy gram. What happened? 
+
+number nl it.sl ruelors ■ liiiiliv ol whom were The afore menll ■(! ']'"' ■' ■■ l;illli l! "'"' 
+
+
+
+Social equality linked to social responsibility 
+
+
+
+i Interpersonal Rela- 
+
+
+
+The placemen! ulii-|.H.n.. ii.ihr- 
+
+
+
+beating, child-abuse, 
+
+
+
+denlsnndlheirpnienls. state legislators and 
+the leadership of the parenl universities 
+A recent courl silll broughl BgalnBl this We cannot, of course, assess the full 
+
+uMilulion l.v two laenltv member:-, mvilcs impact ol the ciirrenl silnalion Nor, we're 
+
+
+
+
+
+
+
+
+
+; redress of (iilnallai l\ 
+
+ae,ane.l the It would i 
+
+
+
+knowledge Ihnt Chancellor fnrtlieomuij; I'rorn the ndmnusli nlinn It 
+
+) hunting and is currently (hmps around here don't settle down soon, if 
+
+ition for positions at Arkan- students and the eoimnunily at laige do not 
+
+sas State University. While a change ol receive some indication that someone is 
+
+idniioi-.tratiou may I. e welcomed I, v s.ime. providing shone, ami [xisitive leadership, 
+
+die i-o-sibilitv of such a change creates IPKW will suffer in terms nt credibility and 
+
+i,i. mv questions Whv is Sehwail/ on Ihe perhaps more importantly in terms of 
+
+pressuring hun to leave? A professor al a university in a neighbor - 
+
+The latest wrinkle of course is the ingslale. eoiiunenlini', on tbesitualion at ibis 
+
+mid semestei resignation Iwo weeks ago of campus, told us, "You know this kind of 
+
+Sonology i essor llubcr No adinmistra- thing has gol lo Ik- the product of a school 
+
+loi lias come close to providing an adequate and an ailminislral ion that is not confident ol 
+explanation of this CUI 
+
+
+
+acceptance of responsibility im- Iween power-seeking 
+importance of emotional express- ing.anc 
+belong, and discover a means of embrac 
+
+
+
+,',.'.,,..,,. ,-\|ivt-&gt;Siiin Mii.'Di ...ri^nii'lively. frars, .aid recognize 
+
+
+
+
+
+Enjoy a bowl of soup and a delibar sandwich 
+
+at THE FORT and get your extra large soft 
+
+drink FREE (with coupon) 
+
+
+
+Buy a bowl of soup and a 
+
+delibar sandwich, get 
+
+extra large soft drink FREE 
+
+The Fort 
+
+Expires 11/23/77 
+
+
+
+I The Fort 
+
+
+
+Located in the Student Union 
+Mon - Thur. 7:30 - 5:30 
+Fri. 7:30 - 3:00 
+
+Coupoi Expires 11/23/77 
+
+
+
+
+o 
+
+
+
+(219)482-1159 
+
+
+
+3413 NORTH ANTHONY 
+
+
+
+wm 
+
+
+
+
+
+
+LOOK FOR SPECIAL T.V. 
+
+GIVEAWAY NEXT WEEK 
+
+THIS IS WHAT'S CREATING 
+
+THE EXCITEMENT 
+
+THE BRAND NEW 
+
+DOUBLE POCKET LIVE 
+
+GENESIS "SECONDS OUT" 
+
+Register at Karma Between 
+
+Nov. 21 - 28 
+
+Drawing Nov. 28 
+
+BE AT KARMA FRIDAY NIGHT AT 10100 
+
+AS WE PLAY THE NEW GENESIS ALBUM 
+
+THRU A MONSTER PA. SYSTEM... 
+
+ALL GENESIS ALBUMS ON SALE 
+
+FOLLOW 
+THE SEARCHLIGHT AS WE THROW 
+ANOTHER PARTY. ..FOR GENESIS 
+
+
+
+
+SUBOG sponsors American Indian program 
+
+
+
+; Conquista. in the Student 
+
+
+
+• .iii.Ja-. Tuos&lt;li&gt; : 
+
+
+
+I Central lobby Rltter, 
+
+
+
+dian who has devoted h 
+
+
+
+■ said the gn.up ^ 1 1 1 iw.to ., Wsl.ik, ,-. 
+lo.iuros. run ., native vironmental issue 
+
+
+
+&lt;■ Hi^-r.. pros and ''Cold . 
+
+
+
+News Digest 
+
+•'"'"■' ll'IW 1'iviMiin of General The University Women's Club 
+
+111,1 l"ti"i' .1 Shuli.-- iM.i.. [.!■.■■ .'.ill i-i-nsor families for the Fori 
+register from Nov. 14 lo Nov. 23 Wayne Christmas Bureau from 
+
+;;i ■■' ll " rn'i-n-.iiiun ■■'■hi !■&lt;■ &gt;on dateaanyoneamdepraitcloUiiM 
+
+ducted from Nov. 2B to Dec 9. or other goods in the secretarial 
+
+&lt; i-in n-i.-Ni .re requested to offices of KetUer and Neff Halls 
+
+i""' "'"'» -'»&gt;■&gt;! M-.u.itv mini &lt; hecks should be made payable 
+
+1120 S. Barr St. home at 8015 Oklahoma Trail. 
+
+Food stuffs should be non-perish- 
+able. Everything can be used; it 
+
+
+
+' Bruening and wife Sheila camel 
+
+Bruening resigns chair; Sj2£^5**j; 
+
+wife continues teaching ^fT'"!'"!' 51 ?*' °™ 
+
+J © Judgi [esse E ..!.:..,: 
+
+
+
+
+
+
+I-' 1 '' ■&gt;' iilli.T Slu&lt;i™is should Pick-up 
+
+
+
+
+
+
+ll'FW. hrllln H..II II,,- h,,.,l 
+
+
+
+Consumer center offers individual consumer protection SSS SHS 
+
+1 lessor ol M'I'AV -Sf &gt;l &lt;H 1'nl.lu hni 1( ; I wo no 'I pencils, an erase 
+
+
+
+By NANCY BARB1ERI 
+
+ipllhu I..H--- ii! Ulll .11 !,;:.,■: 
+
+
+
+e Center, 730 E. Washin 
+
+
+
+Door T* e battle against the utility 
+
+
+
+L ,, ls ... i!i&lt;-n- i-. iril'.irm.shi.n .ind in. Mi- . Ir,!&gt; h. 
+
+
+
+A&amp;B Natural Foods 
+and Vitaimins 
+
+Featuring Dried Fruits 
+Whole Grains Seeds &amp; Nuts 
+
+Men. ■ Sal. 9:00 to 5:30 /44-1413 
+2445 Broadway Across Irom Zoli's 
+
+
+
+The Bandstand presents: 
+
+
+
+Brownsville Station 
+
+with special guest "Law" 
+
+Sat. Night, Nov. 26th 
+
+
+
+Tickets available at these fine stores: 
+
+Karma Records-Apple Records-Audio City-Ruby's Records-Fantasy FactorySound Cellar in Angola 
+
+New Haven 
+
+
+
+^— TO Fort Wayne 
+U.S. 24 &amp; 30 
+
+
+
+S.R. 14 
+
+
+
+TAKEHWY. 14 2 MILES EAST 
+
+OF NEW HAVEN, THEN TURNJ50UTH 
+
+FOR 1 II MILE ON RYAN ROAD. 
+
+
+
+]*THE 
+BANDSTAND 
+
+
+
+Fri. 18th &amp; Saturday 19th "Mokie Kole" and "Fortune" 
+Wednesday 23rd "Fox Fire" Friday 25th "Pearl Handle" 
+
+
+
+PAGE 4 THE COMMUNICATOR 11/17/77 
+
+
+
+
+fS SSSBS 
+
+BEER WINE LIQUOR 
+
+
+
+4 
+
+
+
+NORTH ANTHONY LIQUORS 
+
+
+
+□ 
+
+
+
+WXKE 
+
+104 ROCK 
+
+Album Oriented 
+
+Rock 
+
+7P.M.-4A.M. 
+
+
+
+
+PREGNANT? 
+
+There are compassionate 
+
+and confidential services 
+
+Eto help you through 
+
+what may be a troubled time 
+
+
+
+&lt;m 
+
+
+
+Come and see us at 
+
+Discount Records 
+
+Where you can enjoy 
+sound for less 
+
+LP'S Reg. $7 98 
+Now $4 75 
+
+
+
+
+Magione's magic 'spellbinding' 
+
+
+
+THE COMMUNICATOR 11/17/77 PAGE 5 
+
+
+
+
+SSSE EE^~1?~ The ghost of an idea 
+
+*n. most oflhem in Soulhside, -Jake the only son of Solomon ^^ " 
+
+
+
+Ht^lH 3rd' d w°ee e k HH»^'|^J 
+
+
+
+i /aSL^^C 1 ] 
+
+
+
+&amp;1&amp;£i 
+
+
+
+
+Held Over J^i 
+6.hWeek ^-&gt;„ 
+
+
+
+H.God!"! &amp; 
+
+
+
+GENERAL CINEMA THEATRES 
+
+
+
+
+
+
+
+' tj..r.- -&lt;■ mil,,,, 
+
+
+NO PASSES OR HARGAIN MATS. 
+
+
+WINKLER ^VJH| 
+
+pR$3|J| 
+
+
+
+MF^TTTI 
+
+
+
+
+M Oh,God! M a .^ 
+
+Is it Funny! ' jX^J 
+
+GEORGE BOKNS ,'Wf 
+I0HN DENVER "-AJMBEA 
+
+
+Santa Claus ig&gt; 
+First Love k 
+
+
+
+mLJWTT^llri'lTffffAj 
+
+
+
+The Groove Tone 
+
+
+
+The Chicken Chronicles 
+
+
+
+" nzzA ^rririru'r-club 
+
+
+
+RENT-A-BAY 
+
+*--iuJ» TIRE REPAIR »£««.. 
+
+'iS&gt; lubrication" 8 " 
+
+• MINOR REPAIRS 
+«£&amp;. * TUNE UP 
+• Oil CHANGES 
+
+CRESCENT &amp; ANTHONY 
+STANDARD 
+
+3301 Crescent Avenue • 483-9643 
+Rental bay open 7 days/wk 7 AM-9 I'M 
+
+
+
+Camera 
+
+IT'S 
+COMING 
+
+
+
+
+Camera 
+2812 Maplecrest 6121 Hwy. 24 I 
+
+Georgetown Westland Ma 
+
+
+
+PAGE 6 THE COMMUNICATOR 11/17/77 
+
+
+
+CURTIS FLOWERS, INC. 
+
+
+
+"The Flower Shop" 
+
+We have 'Telex' 
+We send flowers anywhere 
+
+
+
+OMMUNICATOR 
+
+CLASSIFIEDS 
+
+
+
+[cow 
+
+CLi 
+
+
+
+
+
+NLY 
+$.50 
+
+482-5585 
+
+
+
+Do I Have A Better Education? 
+
+
+
+9 R 
+
+
+
+REDWOOD INN 
+
+1432 W. MAIN 743-7543 
+
+FORT WAYNE S FINEST PIZZA 
+GRlHDfRS 
+BROASTED CHICKEN 
+SAUSAGE RqLLS 
+
+
+
+Tech downs Tuskers in state playoffs 
+
+
+
+
+
+
+
+altogether 
+
+
+
+Indiana to win 
+Oaken Bucket game 
+
+
+
+By NANCY SHIRLEY 
+
+
+
+
+when it is inundated scoring will take place in the 
+
+
+
+■ against Iowa. Purdue is 
+'(, Mark Herman. Although 
+i college play still counts 
+
+
+
+good pass defense. 
+
+
+
+i hard-hiiting. rushing ( 
+
+
+
+sitting in the filled-to- 
+ty Memorial Stadium, 
+r a prediction: The Old 
+
+
+
+Unknowns capture title 
+
+end at City Utilities Park, TJn- second game, with Loh 
+win the league title by identical Fisher was the sole 
+
+
+
+GUYS &amp; GALS 
+
+COME AS YOU ARE!!! 
+
+WE WANT 
+
+TO WRAP YOUR 
+
+BOD IN JEANS 
+
+&amp;T0PS 
+
+FROM OUR 
+
+^» STORE!!! 
+
+
+
+fck 
+
+
+
+IN SPrTE OF THE ROAD CONSTRUCTION, 
+YOU CAN STILL GET TO US-PARK 
+AT THE SIDE, OR IN SAMBO'S LOT. 
+
+GLENWAY 
+
+BARGAIN 
+
+CENTER 
+
+3820 COLDWATER ROAD 
+
+ACROSS FROM GLENBR00K PENNY'S 
+
+
+
+
+Audio City prize winners named 
+
+were winners in the drawing Lynn Datta Kaih&gt;. Khmiht.ih-. 
+sponsored by the Japanese Victor Larry E. Davis, Joyce Meek, 
+Corporation last week in the Walb Scott Laurie, Michael Satteith- 
+Memorial Union. waite, Tim Morken, Roger Mar- 
+Grand winners and their prizes tin, Keith Sample, Tammy Ma- 
+
+3ock; Debra K. Knight, Koss Ken McBride, Louie Sheets, 
+Pro 4AA; Rick Ritter, Pickering Glenna South, Blake S. Isaacs, 
+XV15-G25E; Nikki Brumbeloe, S.S. Herber, Gary Walker, Becky 
+Pickering XV15-1200E. Mattes, Joan Shelton, Richard A. 
+
+John A. Brewer, Paul Lenger- Acker, Virgil Jackson, Ben Mar- 
+ten., Randy Parks. Steven L. tin, Dave Steinbacher Venuta 
+Wright won disc washers. Early, Donna EnJey, Jim Sher- 
+man, Michael Sigley, Lauren 
+
+Tish Sheehan, Timothy Roling, Worthley, Kyle Burns, and Mar- 
+Ron Overmyer, Steve Zoelkner, cel i a Bogeit. 
+
+dock were Pixoff winners. at Audio City, 5421 Old Decatur 
+
+
+SOMETHING "NEW" FOR FORT WAYNE 
+DUBSfTS NORTH LOUNGE 
+
+and serve yourself 
+CHEESE BAR 
+
+r-WAPpK HOUR SPECIALS — j 
+
+*FREE$1 00 
+
+CHEESE PLATE 
+• FIRST 2 DRINKS 
+
+FOR THE PRICE OF 1 
+
+ALL DURING HAPPY HOUR 4:30-6 P.M. 
+
+
+Fort Wayne, IN 46807 LIFE, HEALTH. GROUP INSURANCE, 
+
+f^4 Salim R. Kassam 
+
+., JSLIZL 
+
+Mil 2424 Fairfield Ave., Ft, Wayne, IN 46807 
+
+
+OPEN M0N.-SAT. 4 P.M. to 3 A.M. 
+DUBBR'Sl NORTH LOUNGE 
+
+
+
+
+
+The 
+
+
+
+
+San Fernando Valley 
+
+
+
+
+College of Law 
+
+
+
+
+SEPULVEDA (LOS ANGELES). C 
+
+
+LIF. 
+
+
+
+
+
+
+Examiners. Slalc of California. Til ree-year 
+
+
+Day Division and Four-year Day 
+
+
+
+
+
+
+
+
+INTERVIEW FOR PROSPECTIVE LAW STUDENTS 
+
+
+Dale: Nov. 17 Time: 9:00 - Place: 
+
+
+Placement 
+
+
+3:30 
+
+
+Office 
+
+
+
+
+
+
+s.udcnls 
+
+
+
+
+
+LOCATING RENTAL VACANCIES 
+IS OUR ONLY BUSINESS 
+
+AND WEKNOWTHEBUSINESS BEST 
+
+N INTERNATIONAL RENTAL INFORMATION 
+
+SERVICE USED BY MILLIONS 
+
+
+
+rente x 
+
+424-0064 i 
+
+
+
+</pre>        </div>
+      </div>
+    

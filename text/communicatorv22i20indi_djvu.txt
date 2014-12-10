@@ -1,0 +1,1276 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv22i20indi/communicatorv22i20indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv22i20indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv22i20indi">The Communicator</a>"
+          </h1>
+          <pre>— Quote of 
+the Week- 
+
+
+
+
+Men's basketball team upset 7th 
+ranked Bellarmine Page Five 
+
+
+
+Commentary, Letters to the Editor Pages Two and Three 
+
+
+
+J 
+
+
+
+The Communicator 
+
+
+
+VOL. XXII, ISSUE : 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+INFOGRAPHS 
+
+
+
+Peacewatch forum 
+
+
+
+PEArhlY VH'll forum .:..- 
+
+African-American 
+History month 
+activities 
+
+in Walb Memorial Union 
+G21 at noon Friday, Feb. 22 
+Also on Friday, Feb. 22, Ernest 
+
+WiHn-i', phiitmir.iplK'i- will .pok 
+
+photographs documenting I 
+
+Psychology Club to meet 
+
+Psychology 
+
+
+
+Kiculu 
+
+
+
+PIT's current 
+production to open 
+
+
+
+
+
+
+are Feb. 22, 23 and 28 and March 
+1,2 and 7 through 9 at 8 p.m 
+
+ISO potluck dinner 
+
+
+
+Attention Pre-med 
+students 
+
+
+
+Chemistry Department. : 
+
+
+
+Abortion in Indiana 
+
+Parents speak out against law 
+
+
+
+Mioi-linn r.ilher I 
+
+
+
+l"ljs,i&lt;i.en Medical Building lecture audience t 
+hall last Monday. The Bells' daughter, ] as t days. 
+
+
+
+Their IPFW visit is part o 
+
+
+
+was pregnant aiivthine niiveniinn ii.nenl ,1 
+
+
+
+o|.|»i- ,i..unst PL-106 PL-106 is 
+
+
+
+the 
+
+
+
+The Bell's *" ' 
+
+learned from the coroners « 
+
+report that the pneumonia p arent a 
+
+i.,i.'.-.,i pi u* lor repeal ^ s he died of was a result of college 
+
+i infection of a punctured couragt 
+
+
+
+it oi the Ph0ne num, « rs "' Kentucky mo p |„| c „| ,„ ,,„,,,„, ,,„. i;iMv „„,„ ,„,. 
+
+I r I | , ' , , ' " 'We I Lafayette. Indiana, .1 
+
+| ru |, ,,., ' d " m -' ''''' '"" "' l "' 1 I ' I'. mil r . i,l I'llulm- .u.,1 
+
+' pro-life after her. lolli. hat .is I'.nky IVII h.td i, „!,.,„,, i ■,„,.,, Ih , i;,,,,i, I ,, .,,, 
+
+Ilc&gt; I r ].,,rl.|t|uli llli'ill -ll |,l,,||,,r (|l ,1 l„ ...|,.. I, ,1 .I'M ill, I, 'III I, I, 
+
+elS™ Becky Er " '" ll1 "'" 1 " 1 ' ' Ii "" 1 ni'.n'lM.r'.'l I.™'i»t1,d'.'nls'' 
+
+,,„„ i„ r ' '" lll " t Iinl.'l-iii'iiii'iiii i" in'' ||,. : . .,ii,.,. I,,.!,!,,,,, ., quc-slKin on 
+
+,,,,,],. ,„ '»' '""I Iiii.iiiili ■' li'»"iii ,,,,,,11, , JC1 |, ,„, r,,,,,,,,,,,! ,, 
+
+„,,,,, ,,, hjrraBel] ' spectator from one e top rows 
+
+
+
+I Wayne clinic," he said. 
+
+
+
+Congresswoman Long 
+addresses funding 
+cuts for education 
+
+
+
+Spring Faculty ('imviiii.liiiii ulucl 
+r,Hik [li.i. .- itns pas! Friday. 
+
+
+
+
+
+
+ftin livlni,'. ■! lltmi; I 
+
+
+
+Students' Government 
+
+Financial considerations 
+mark senate meeting 
+
+
+
+he Fund for the Femin 
+
+i Also included in the vid 
+
+
+
+Lady 'Dons basketball 
+
+Two leading scorers set new record 
+
+
+
+4 game against Kentucky State 
+University. 
+
+Miller ■ left) and Scott (right 
+hoth finished the game with 
+career points. The prei, 
+mark of 1.485 was set by Teena 
+Merrel) who completed 
+hiIh.ik !.i-t season. 
+
+"I'm real proud of both Robin 
+and Lisa," said Coach Teri 
+Kosmski "They have been of- 
+fensive and defensive stalwarts 
+
+
+
+tion major from Fort Wayne, 
+currently ranks first in the Great 
+Lakes Valley Conference scoring 
+race averaging 21.5 points a 
+game This ranks her 2( 
+huii.ilh ,11 NCAA Division 
+Scott majors in inmin 
+
+
+
+GLVC (photos by Tim \ 
+
+
+
+
+r;ilifi(-(.l .ii loniRht': 
+ing to Frazier-Henr 
+
+
+
+:ion requesting that 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+The 
+
+Communicator 
+
+
+
+Dan Hyde 
+Jerry Karpe 
+
+
+
+I). i.k- Reynolds 
+
+
+
+Campus discrimination 
+Student senate violates 
+its own resolution 
+
+A resolution which ealls lor (lie University adnnnish atnui 
+oslraci/e anyone displaying r ,itis( behavior was passed 
+nanimotisly at last week's student senate meeting. 
+
+Resolution 90"" * 
+the actions of i 
+
+human rights of ALL persons and by their actions or words 
+promote hale w diser miinalinn, and he il furl her resolved: This 
+Studenls' Coven 'til me.es llns university lo lake the strong- 
+est action possible against those individual-- and to ostracize 
+them from this academic community." 
+
+This resolution is m itself an ;u-l of discrimination. 
+
+Despite the meltnir, put inuir l he I lulled Si ales is known for, 
+racism and prejudice have lone, been at the center of con- 
+troversy in our nation. 
+
+Dm mc. World War II, anyone of Japanese descent was 
+"-— t to --"- 
+
+til arter 
+
+The deselection ol our snarl v in the (Ills brought out fear 
+and anger loward black Aincricans And the war againsl racism 
+by blacks is slill iicing fought. 
+
+Recently, with war i aging in the Persian tlulf, Arabs 
+been the largel of racism in the Wailed Stales. Although ' 
+
+ment camps are noi hkeh lo spring up across the 
+invesligalions of individual Ar '"" ' 
+
+have been placed on air travel by Arabs, and many are facing 
+racism from people they have known for years. 
+The Studenls' Government is correct In its 
+racism on our campus. However, Resolution !H&gt;/!)l-'.t is in 
+
+
+
+slander 
+
+
+
+
+ANV \JA6ue RESEMSLAUce THE ABOMt CiROTt^QutWes *YlftV mftvjfc. TO existing, ME mBER&lt;&gt; OF 
+THE 1PFW STUDEtOT •SE.NkTE IS COINCIDENTAL. . SaiO rv\E-MBE£S ARE tOOCKON TO &amp;E ?W*CAU.i 
+ATTRACTIVJE., qoOD fJftTOREP/ (JOlO-HTt6tWOUS VOUkl^ PEOPLE. , EXCEPT TO* MA£&lt; SkJVTJtC , VJHC IS OU 
+
+
+
+.ETTERS TO THE 
+
+
+
+.DITOR 
+
+
+
+Douse the butts 
+
+Student concerned with risks of campus smoke 
+
+
+
+The First Amendment 
+one's right to free speech. This, undoublabtv, includes the 
+government; but it also include-, those who wish to use racist 
+remarks. 
+
+Freedom of speech does not apply or 
+want to hear or let be said; freedom 
+topic, remark or phrase [hat a person wishes to expi 
+, there are limits to free speech; people 
+I for yelling fire in a crowded theater or for 
+ive a bomb on an airplane. 
+
+The Students' &lt; Im eminent has pinpointed a major problem in 
+
+iddressed before violence erupts; 
+
+form of discrimination does not 
+
+problem but perpetuates it. 
+
+In support ol Ms proposed action. Students' Government is 
+
+running a full-page, paid ad in this week's issue of The 
+
+iimmmniealor. 
+
+The call for ostracism of individuals for exercising their right 
+to speak freely on our campus viokdes ihc primary purpose of 
+the institution ol higher education That purpose i ' 
+forum for the free exchange of ideas " 
+
+
+
+
+Gulf war 
+
+
+
+Hunt for 'monster' Saddam requires conscience 
+
+
+
+pered by conscience. Conscience s 
+
+
+
+stand ,uu\ . 
+
+Will i.-lose ( 
+
+
+
+) provide i 
+oraer 10 lurther under- 
+
+The resolution, which 
+
+
+
+own creation. The United States, 
+
+
+
+free exchange when i 
+
+
+
+s topics discussed I 
+
+
+
+ihind our bruised shrew. 
+
+
+
+.ui-uaui 
+of the 
+
+
+
+naMonal 
+recently. 
+
+
+
+;ans. To call 
+
+I is in direct violation of not 
+
+i'a'-ic human rights. 
+'" of higher education be- 
+"'" ' the government or 
+nyone who believes in the rights 
+
+
+
+administration 
+
+our Constitution provides us. 
+
+■fhis denial which the senate has unanimously called 
+even in direct opposition to their own statements in &lt; 
+
+paragraphs of the ic- tion Hv acknowledging that our world 
+
+is full of pohhc il ,m,i ideological conihcts. the sen; 
+have also recognized the importance of 
+to discuss the dynamics of the conflict 
+door on the exchange. 
+
+The call to action also is m direct opposition to the Senate's 
+statement which ealls ],„■ individuals io respect the rights of 
+ALL persons. The Students' Government is a group of in- 
+dividuals who are violating their own resolution. Will this mean 
+the administration will be forced to ostracize them from this 
+academic community? 
+
+Perhaps the members of Students' Government should have 
+'. closely ai what thev were saying 
+'ale task 
+
+
+
+should 
+i closing the 
+
+
+
+taking on 
+
+
+
+eradicating 
+
+
+
+Letters Policy 
+
+
+
+■ | I 11 I I I .\.&lt;m. . ]| I 
+
+
+
+Ih. -r stall nt,l&gt; the 
+
+
+
+"— "SS 
+
+
+
+Fun with names 
+
+Student directory serves 
+
+a wacky dual purpose 
+
+By JIM WALKER &gt;^ . 
+
+Picture this if you will: you are I JBTRUSE AANGLI 
+silting in some boring sociology class |V/ X X 
+
+
+
+'"■-' ::"'.:au L : , 
+
+
+
+
+
+
+Trouts and B;.s^- Kl.,,k. 
+
+
+
+' '" F i°d Vd Jw'S ^V^ evTn "havf S 
+
+person, ?f^M jiB^taVSw^^Il? Ripley, ^lieve it or not. 
+
+foiSv^pitifuMifeSdimySS IPFW Some of Uie b 'ES er names 
+
+at least slighUy. include Michael Jordan, Steve 
+
+Now tliaiik&gt; lo Student-. ■ Gov- Martin, former bait-ball star Mike 
+
+ernmenl, demented and obsessed Schmidt iolk&gt;iei .lame. F.-yl-e 
+
+ll'FV, .ludenls ...i, nnd !he address ra PP«r " The Fr ^h Prince" Will 
+
+and phone number of the one lhe\ Smith Anihony Quinn. ■Tall Guv" 
+
+long for in a handy student direc- ^^ Heather Thomas. "Fly Like an 
+
+ton These direct one. jr.' available E^h- -iniier Steve Miller, and pop 
+
+
+
+! entertainment. Why, 
+
+
+
+
+
+
+agreement with my actions— period I 
+
+
+
+Missed sarcasm 
+Professor clears up 
+confusion over letter 
+
+
+
+i o.. ■■■!■. Apparently I 
+
+
+
+Opinion 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Burning issue: Smokers have right 
+to lounges on campus 
+
+
+
+Win a scholarship! 
+
+Meet employment contacts! 
+Team study towards APICS Certification! 
+
+
+
+
+
+B.M.O.C 
+
+*(Bank Machine On Campus) 
+
+
+
+Meet the OWL. Just 
+college student needs. 
+Fort everyday. Carries 
+
+
+
+-kind. 
+
+
+
+sr,.,l .11 I hi' 
+
+
+
+of cash. He's always 
+le day or night, and 
+he's a great listener. 
+
+If 24-hour access to your bank accounts 
+sounds like a good deal to you, make friends 
+with the OWL, on the ground floor at Walb 
+Memorial Union Hall. And get your free OWL 
+card at any office of Fort Wayne National 
+Bank. Where helping out our friends is just 
+
+Business as Usual. 
+
+FORTWAYNE 
+NATIONAL 
+
+tints my BANK 
+
+
+
+With over 30 years technical experience we can service all makes of 
+import vehicles from Audi to Yugo and those in between. (We also have 
+over 50 years experience on American cars.) We guarantee it! From 
+electrical to heavy mechanical work - WE DO IT ALL! Li " 
+acquainted today! 
+
+INTRODUCTORY COUPON OFFER 
+
+
+
+I ELECTRONIC TUNE-UP J | COMPLETE OIL LUBE 
+
+reg.'49» ' | SERVICE 
+
+i 22r sli9h " vmo,e i i $iQ9o 
+
+I II only I W reg. "21" 
+
+
+
+with coupon thru_3-9;2. 1 _ J L_™ili -2?- 
+
+
+
+3-9-91 
+
+
+
+COOLING SYSTEM &amp; 
+
+RADIATOR SERVICE 
+
+$ 34 90 
+
+
+
+Call 436-6400 for appointment 
+
+
+
+BRINO YOUR USED 
+
+
+
+
+TIME CORNERS 
+
+5825 Covington Road at W. Jefferson I 
+HOURS: M-F 8 to 6, Sat. 8 to 2 
+
+
+
+Computerized Car Care 
+
+'DISCOUNT MAY NOT BE USED WITH COUPONS OR OTHER SPECIALS. 
+
+
+
+Features 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Acid wash 
+
+
+
+Ward descends into the bowels of the earth 
+
+
+
+
+The Trustee Selection Committee of Indiana 
+University is seeking currently enrolled students to 
+serve on the IU Board of Trustees. 
+
+Applications are available to interested students 
+at the Kettler Hall Information Desk and in 
+Students' Government Offices, Walb Suite 225. 
+
+Applications must be received by the Committee 
+by March 15, 1991, to be eligible. A selection of 
+candidates will be interviewed by the committee. 
+Application status will be sent to all candidates by 
+April 8, 1991. Interviews will be held in 
+Indianapolis, on Friday, April 12, 1991, with a 
+projected selection made by April 19, 1991, which 
+will be sent to the Office of the Governor of 
+Indiana for final review and appointment. 
+
+For more information, stop by Students' 
+Government or call the office at 481-6586. 
+
+
+
+
+
+10% Off 
+
+
+Bm B] 
+
+
+Publisher's Price 
+
+
+^^V 
+
+
+See Our 
+
+
+BLACK 
+
+
+Special 
+
+
+HISTOKX 
+
+
+' Book 
+
+
+MONTH 
+
+v., lid .» FEBRUARY 
+
+
+Display 
+
+
+Kettler H 
+
+
+all . 483-6100 
+
+
+W ~ Fol A ett ' s ^ 
+
+
+
+Sports 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Upset Bellarmine 
+
+'Dons win in OT 
+
+
+
+in regulation but chipped 
+
+
+
+MR-(.-t'&gt;SlUl 
+
+• them be- 
+
+
+
+
+
+
+Piazza. "I'm glad it 
+such a good crowd 
+great. They were 1 
+
+glad people c 
+
+
+
+Athletics looks ahead 
+
+
+
+|.ii- i ullfHf 
+
+
+
+
+(a!-:, .hmutsideshot." ' w « really i 
+
+The Knights were up 19-18 with just smt '' Sl " 
+
+nuam-Muji- hil the first ol six three- double f 
+
+
+
+Si ilv c S 
+
+
+
+PORTS 
+
+
+
+
+
+
+Intramural basketball 
+
+There are six undefeated teams 
+
+They are Sub-O's, B. L. Strikers, 
+Mean Mofo's, Hackers, Razorbacks, 
+
+Razorbacks and B. L, Strikers both 
+
+
+
+
+
+
+f on Tom Shurfranz's 
+
+
+
+lading the nation averaging l 
+
+
+
+Lady 'Dons beat Kentucky State, lose to Bellarmine 
+
+
+
+/ Lady 'Dons beat Great L 
+
+
+
+
+
+
+side players, Sharnrxl.i t'i h.imion 
+
+
+
+ee Uirows courtesy of Bel 
+looking toward Angie McGlane who commi 
+
+Bellarmine 73-72 After a time-out, Jeann; 
+
+
+
+ers in double figures 
+
+
+
+"The\ v,«'i.- pl.iymu Ii.t i it'll" . 
+
+
+
+THE COMMUNICATOR 
+
+
+
+Classifieds 
+
+
+
+CLASSIFIED RATES Displays 
+
+
+
+-Rooms lor Rent 
+-Found 
+
+
+
+
+! J :i l i I MWWMMfil 747-0075 
+
+AT SERA TEC WE 
+
+• III DON'T BELIEVE IN 
+
+TAKING 
+
+CHANCES, 
+
+• • 
+
+%/^ THAT'S WHY WE. 
+
+- Use Sterile, Disposable Equipment 
+
+- Are inspected and approved annually 
+
+- Require A Physical Exam Prior to Donating Plasma 
+(Physician On Premise - Physical Is FREE) 
+
+- Test Every Donation For Hepatitis And The Aids Virus 
+
+- Provide A Pleasant And Relaxing Environment 
+
+HELP US HELP PEOPLE WHO NEED PLASMA 
+
+EARN *25°° A WEEK DONATING PLASMA 
+
+I 
+
+! NEW It J ^^ 0n Your 1st 
+
+j DONORS HQ (wilh D rOo n U pon, 
+I RECEIVE ■ ^^ ID Required 
+
+CALL OR STOP BY 
+SERA TEC BIOLOGICALS TUES.-FRI. 7 AM -4:30 P.M 
+
+III, w»L S „' r IN NEW DONERS 7 M a°m:-2 P.lu 
+Fort Wayne, IN (219)422-7435 
+
+
+
+Attention o° &amp;C4 % 
+
+Purdue o^fV~°» 
+
+University VN ? i 
+Students! 
+
+
+
+The Board of Trustees of Purdue University is 
+accepting applications for the position of Student 
+Trustee. 
+
+To be eligible for consideration for this trustee 
+position, a student must satisfy the following 
+requirements: 
+
+■ full-time undergraduate (1 2 credit hours) or 
+graduate (9 credit hours) student 
+
+■ good academic standing 
+
+■ disclose current Purdue employment information, 
+if any 
+
+■ able to fulfill a two-year term (July 1 , 1 991 , to 
+June 30, 1993) 
+
+Applications are available at the Kettler Hall 
+Information desk and at Students' Government, Walb 
+Suite 225. 
+
+Applications must be submitted no later than 
+Wednesday, March 6, 1 991 , to Students' 
+Government. 
+
+
+
+THE COMMUNICATOR 
+
+
+
+
+ATTENTION!! 
+
+
+
+For sometime this Students' Senate has 
+been aware of a growing amount of 
+discrimination of all kinds on this 
+campus. Since the beginning of the Gulf 
+Crisis it has grown dramatically. On 
+February 7th the Senate passed a 
+resolution condemning this type of 
+behavior. In a free and democratic 
+society it is deplorable and at an 
+institution of higher learning it is 
+unforgivable. We urge all other 
+organizations, especially the Faculty 
+Senate, pass similar legislation and take 
+steps to reduce this plague. To ignore it is 
+to perpetuate and encourage it. This 
+must not be allowed to happen. 
+
+
+
+Dan Pulley, 
+President Pro-Tempore 
+IPFW Student Senate 
+
+
+
+
+"ice of the Student Senate 
+
+INDIANA UNIVERSITY-PURDUE UNIVERSITY 
+
+AT FORT WAYNE 
+
+COLISEUM BLVD. EAST 
+
+FORT WAYNE, INDIANA 46805 
+
+
+
+RESOLUTION 90/91-9 
+
+WHEREAS: This Students' Government holds as inalienable and 
+
+inviolate the rights and welfare of all students regardless of 
+race, color, national origin, religious creed, gender, physical 
+handicaps, political beliefs, age, or sexual preference, and 
+
+WHEREAS: Indiana University and Purdue University at Fort Wayne 
+
+exists for the pursuit of truth, the transmission of 
+knowledge, and to add to the general well-being of this 
+community, and &gt; 
+
+WHEREAS: Due to political and ideological conflicts in the world 
+
+today, members of our community are being subjected to 
+discrimination because of their color or national origin, 
+
+BE IT RESOLVED: This Students' Government condemns the actions of those 
+individuals who fail to respect the basic human rights of 
+ALL persons and by their actions or words promote hate or 
+discrimination, and 
+
+
+
+BE IT FURTHER RESOLVED: 
+
+
+
+This Students' Government urges this university 
+to take the strongest action possible against those 
+individuals and to ostracize them from this 
+academic community. 
+
+
+
+Nancy C. Barger, Senator 
+
+
+
+Mark S. Snyder 
+
+President of the Student Body 
+
+
+
+A Government Serving and Protecting the Students 
+
+
+
+IP 
+
+
+
+</pre>        </div>
+      </div>
+    

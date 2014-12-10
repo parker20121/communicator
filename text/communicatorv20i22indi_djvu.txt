@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv20i22indi/communicatorv20i22indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv20i22indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv20i22indi">The Communicator</a>"
+          </h1>
+          <pre>Procise, Brouwer 
+win forensic meet 
+
+
+
+
+Joanne Lantz 
+
+Chancellor plans to stay until retirement/Page 3 
+
+
+
+Intra-campus phones 
+
+Free service at six locations/Page 2 
+
+
+
+Men's basketball 
+
+Team ends season with pair of wins/Page 4 
+
+
+
+The Communicator 
+
+
+
+VOL.XX, ISSUE 22 
+
+
+
+Indiana University-Purdue University at Fort Wayne 
+
+
+
+March 2, 1989 
+
+
+
+Quote of the week 
+
+
+
+Senate debates shorter semesters 
+
+
+
+change from a 16-week to a 15-week semesi 
+and they are doing it without any substantial 
+student input. It's a shame." 
+
+i Craig 
+
+
+
+r-INFOGRAPHS 
+
+Athletic team to be honored 
+
+
+
+Fellowship to hold concert 
+
+Intervarsity Christian rvn-.w^.p i- &gt;p&lt;mMinng -Concert of Prayer" 
+mi(.Ti;iL-&gt;ii&gt; "iih-'.'.Li 11I-I.7UI for more information. 
+
+Younis to lecture on caustics 
+
+
+
+Department Seminars. 
+
+Libii to talk on technology 
+
+"Technology, Social ' luniv ami Ihinwi! \r.pirali&lt;ins will !»■ (h 
+
+
+
+
+Biology scholarships offered 
+
+The department ol bu.W.u ...I mktu ■&gt;■■■■ ^ accepting applications for 
+
+
+
+. Preference will be given to students majo: 
+vith production, processing or marketing &lt; 
+&gt;roducts. All majors in agriculture, forestr; 
+
+
+
+e Biology Faculty Scholarships and Biology Alun 
+i !■&gt;■ kill tmir IPFW binl-.sy majors, should hi 
+I,! Iioiirs. imlndit.i; ei^ht in biology, before 
+
+
+
+deadline is Monday, March 20. 
+
+Program accepts applications 
+
+program. The program gives work experience in various state 
+agencies Those who graduated in 1988 or who will graduate in May 
+1989 are eligible to apply. Anyone wishing more information may go to 
+
+Center changes schedule 
+
+
+
+
+
+
+Nautilus use to be explained 
+
+
+
+Communicator seeks writers 
+No paper next week 
+
+
+
+Long, Heath differ on issues ^ sS^HiSS 
+
+
+
+supports I he death penally 1 
+
+pushers. He also support i.l-tiiimi.,1 l.ieK.ilh &lt; ' .i&gt; r 1)lM lli(»i&gt;f in Anliurn 
+
+fui.tlini; t.-i thr poller f.in,- morder to Many of the same issues lhai were 
+
+aid in drug raids. Long, once again, r.H.nl in previous debates were 
+
+
+
+h a problem during the Noble County 
+
+
+
+id. Long feels that many Con- o • 11 
+
+,;;;;■;, '"'J" I,;,™' ',;,"':, n h ™ seminar helps 
+xE'alfESSS^ol Hispanic teens 
+
+
+
+aur.-es v.ilh Bush in regards to paying 
+a fee to deposit money She does not 
+
+problems of the system. 
+
+
+
+that's very important." 
+
+
+
+that in order lo have a strong 
+
+
+
+negative 1PFW 
+
+
+
+i Benjamin Cruz and I 
+
+
+
+■ o.iuniy The election will and in _ seeing 
+
+
+
+Opinion 
+
+
+
+Fifteen-week calendar 
+
+Factual errors cripple 
+credibility of resolution 
+
+
+
+James Craig's resolution calling 
+on the faculty senate to delay 
+adoption of the 15-week calendar 
+pending input from the student 
+body was, to pai.iphr.e-. in. I en 
+
+
+
+It is the worst of resolution be 
+cause its ni.inv factual errors 
+threaten to cripple the credibility of 
+both its author and the body that 
+adopted it. 
+
+claims that the faculty senate is 
+actuu: without input tnmi students 
+
+
+
+ubcommittee, which 
+voted unanimously to recommend a 
+15-week calendar, has two student 
+
+Long, who heads the Student Ac- 
+
+
+
+:1s reducing 
+
+astic." From the" discussions in 
+faculty senate, many uni- 
+iities already work with a 15- 
+k calendar. I.U.-Bloomington 
+the University of Michigan are 
+
+
+
+most of the administrator vu|. 
+
+
+
+ntuses tacultv 
+i There are 
+
+Oddly enough, 
+
+
+
+Students' Government are not tm- 
+welcome, merely unexpected. Dur- 
+um the two weeks the tacultv sen- 
+ale debated Hie enlendai change 
+not a single nieinlier &lt;&gt;l Sludenis' 
+(.nveiimieiil alt. aided the meetings. 
+
+But before Craig-bashing be- 
+comes a recogm/ed Olvmpie spoil, 
+
+
+
+SnOUlO have Known oeuer weie 
+
+vii ht,dl\ silent IMiomla Kair-uphei 
+vice president nf student legisla- 
+tion, could onlv adwse caution Tim 
+Smith, student body president, 
+seemed to have liirgotten that lie is 
+
+the one who appointed Long to the 
+calendar committee. 
+
+Others appeared to believe that 
+the (acuity senate has already 
+adopted the new calendar. 
+
+Actually the 15-week calendar- 
+has nol yet been adopted. Under 
+the bylaws of the faculty senate, 
+
+to present a calendar lor discussion 
+at the February meeting. The cal- 
+endar is nut [-presented (or adopt 
+until the March meeting. 
+
+This year the March meeting will 
+be llmrsd.iv. March 16. at noon in 
+Kettler Hall Room G46. 
+
+Doesn't anyone in Students' 
+Government have a clue as to how 
+tins university is run? 
+
+Wilhoul rraig, it seems IPFW 
+
+
+
+
+ME JWK 
+
+I Cf PUT 
+
+IBB 10 goop 
+We! 
+
+
+
+
+
+Ufelio, FAULTY 
+
+I to TV* w® 
+Up TO TH/3 
+
+
+
+
+5 actions 
+students. During debate, Craig 
+nplained that he only heard 
+
+
+
+Fort Wavne newspape: 
+That Craig had to i 
+paper to find out ab 
+
+
+
+i a news- that p; 
+the pro- theSU 
+
+
+
+with any luck at all. awakened 
+Students' limei omen! members to 
+" IPFW that lies outside 
+udents' Government suite. 
+
+redeeming virtue is 
+
+
+
+Letter to the Editor 
+
+Athletic Center Policy: ignorance is no excuse 
+
+
+
+am ex- Center, then start enforcing 
+
+
+
+hrn- ;.,!■-■ iimileil i"ii;cr- lur l&gt;-lic t'mtci 
+■mi iui ;m additional fee. to me that 
+
+
+
+Intra-campus telephones 
+should prove invaluable 
+as communication link 
+
+
+
+Center, maybe just 
+
+
+
+laps around the track. You look at 
+your watch and realize you need to 
+if your' professors 
+located in Kettler 
+
+
+
+
+
+
+CI 
+
+
+
+Hall. 
+
+Dilemma: how best to reach this 
+situated across campus. 
+J drive over to Kettler, but 
+no guarantee of a parking 
+space. You could make the trek on 
+foot, but the weather doesn't al- 
+ways cooperate. Who wants to 
+tramp that distance in sub-freezing 
+temperatures or gale force winds 
+or rain or snow 9 Another alter- 
+native is a phone call, but you dig 
+deep into your pockets or purse and 
+find out you have no change nor 
+does anyone else in the immediate 
+vicinity A third option is to borrow 
+the money necessary to make the 
+call, but you don't like the idea of 
+borrowing. 
+
+
+
+5 is a very practical 
+j prove invaluable 
+. These phones will b 
+i at no charge. They 
+
+
+
+be used to make calls to depart- 
+ments and to piolessor's &lt; if t ices in 
+utiiei buildings. Escorts to cars in 
+the parking lots bv the campus 
+police can also be arranged 
+thimiuh the system. The service 
+will lie limited to on campus calls. 
+One suggestion to be made is to 
+
+
+
+will lie located in Kettler and Neff 
+Halls, the Classroom-Medical 
+KuiMiiil-; Walb Memorial l.'nion. 
+Helmke Library and the Athletic 
+Center. 
+
+One point of this project that 
+should not go unnoticed is the 
+combined effort of Students' Gov- 
+ernment and the administration to 
+briny this service about Students' 
+Government is financing the in- 
+stallation charge of the six phones 
+and the administration will cover 
+
+
+
+sort of unified effort by 
+wo groups, working toward a 
+m goal that benefits students 
+
+campus, is welcomed and 
+
+
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+University life provides fulfillment for Lantz flBI^JEHW 
+
+
+
+
+,!.-..■■,:■ JL 
+
+
+
+START YOUR 
+
+FIRST DAY 
+
+WITH YEARS OF 
+
+EXPERIENCE 
+
+BEHIND YOU. 
+
+
+
+
+
+
+W io W- 5«»s ■ 
+
+
+■ HkH,J«.lhm-HiH 
+
+
+1 hhfa P 
+
+
+H over tvhelm'M ftelftu. 
+
+
+V pAk**.J 
+
+
+1 ifellfke/JwV- 
+
+
+
+
+m4rerft#S&lt;W«... 
+
+
+SI 
+
+
+
+
+2 j Me s e f.t&gt;Wy...-rlW 
+2J *&gt; onikmu 1 er!st.„ 
+
+
+L, 1 "'^ 'J 
+
+
+
+
+mlfWi'in aron-person,' 
+
+
+
+^S£ 
+
+
+
+
+
+
+
+
+
+leadership role. The Precep- 
+iclp you meet the challenges 
+
+
+
+lf&gt;Wte a BSN candidate. 
+fvmhmyuutBSNi ' 
+
+United States or the 
+
+\ m. I I 1 1 . I 
+
+ical Atmv Nurse Corns 
+
+
+
+Recmit! 
+
+
+
+BE All YOU CAN B£ 
+
+
+
+Make your own image, 
+
+full color 
+
+iron on transfer 
+
+for T-shirts and totes. 
+
+For Information 
+Call 
+
+Spectrum Graphics 
+
+422-9581 
+
+Bring this ad for 
+
+20% discount 
+
+
+
+JOB OPPORTUNITIES 
+
+RECEPTIONIST/CLERK: 9-1 p.m. Mon. thru Fri 
+Answering phones, doing CRT dolo entry. S5.00, 
+
+
+
+TOOL DESIGN ENGINEERING ASSISTANT: 
+ing or technology field. S7.50/hr. Job Number: 
+
+
+
+DRAFTING ASSISTANT: 3:45 p.m.-ll:45 p.m., 
+MET, MMDDT majors. CAD exposure. S6.00/hr. 
+Job Number: 2..-I/T-5 
+
+LET THE SUN SHINE ON YOUR SUMMERI 
+FIND THE RIGHT JOB AT THE 9TH ANNUAL 
+SUMMER JOB FAIR - MARCH 15, 1989 - 10 
+A.M. - 2 P.M. IN THE WALB MEMORIAL 
+UNION BALLROOM. BE SURE TO STOP IN 
+AND VISIT THE EMPLOVERSI 
+
+
+
+B 
+
+
+
+KLINE, " 
+
+CALL S^Wl** 484-2640 
+
+* VARIETY * GOOD PAY 
+
+* IMMEDIATE WORK * BENEFITS 
+
+
+
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+HfilR GfiLLERY 
+
+I Jl 'I H ' J ! MI:l^: I J&gt;JJ. ' LJd:H 
+
+
+
+
+Covington 
+
+^'cSrE!"' CS3 
+Waynedale ran 
+
+HOURS: o,,i, s'i ^„„..i 
+
+
+
+Clinton Comers 
+
+
+
+Campus 
+
+
+
+
+
+
+Calendar^ 
+
+
+• sSuT!!itol". 
+
+
+■ aSkl^- Jeff" "'^"' 
+
+
+' aS&amp;MSy 
+
+
+' fSSSstt 
+
+
+,.„'"*"" • ifST J 
+
+
+"",:,,.'" 
+
+
+™'Z , ."' m ""' 
+
+
+S"™-'""'" ■ IbtdMi 
+
+
+rji, m »!« 
+
+
+. Irllitr'' 
+
+
+
+
+'S 
+
+
+HllftSL. 
+
+
+■ IfeS ' illf * 
+
+
+• E^tgr's?.,. 
+
+
+■ sjgssjusssssiw. 
+
+
+M0™«'v " ' Stt^Xii"' 
+
+
+• &amp;»,&gt;«.« 
+
+
+:§Br 
+
+
+' SHSBSJcuIa , SSfc»iw«M^mi ' 
+
+
+• §i^9r- 
+
+
+. skSL 
+
+
+llltllr ■ rites'' 
+
+
+lSSr 
+
+
+
+
+
+
+
+
+■}£Z£k 
+
+
+• sisal. . S: 
+
+
+• asw— ■«■ 
+
+
+iKIS 
+
+
+:lfil 15? 
+
+
+•|£||- 
+
+
+! "SESfjjj 3 « ffii&gt;&gt; 
+
+
+' iS'.'Sr'"™' 1 '"' ■ SSivftuanC^ 
+
+
+. jgy-SISs™ 
+
+
+• ss'tJi'S.'* " 
+
+
+• rra'pSKptos,*!- 
+
+
+'„ 
+
+
+SSZ!'iV»"' """ 
+
+
+' i^H H3S.iC.tr „,„„„„ ,, 
+
+
+• KriC™™™ 
+
+
+"■'"'"'"■"" 
+
+
+jtHSSKita? sS^syr* 
+
+
+. SS£.»f™.».i... 
+
+
+' aSSs?.". 
+
+
+• cfflSutfvssJsaai jK "■£-'•*•■ 
+
+
+' SE3r='.".t 
+
+
+. • jEKHffieffla. 
+
+
+• Pllf 5 ' iSi i 
+
+
+• SS^* 
+
+
+' °ErB$&amp;. 
+
+
+:1k8P 'life-' 
+
+
+■ ilSasr 
+
+
+'!§&amp;„. 
+
+
+-Campus Calendar paid for by Students' Government- 
+
+
+S' 
+
+
+
+Sports 
+
+
+
+Men's basketball 
+
+IPFW Mastodons finish record-breaking season 
+
+
+
+
+
+
+
+
+7j m 
+
+'™&gt;V9P«, IIP 
+
+
+1 • 
+
+
+n 1^1 
+
+
+
+
+
+DIAMOND 'UL AND THE NEUTRAL ZONE 
+
+WITH 
+
+HOT LOVE 
+
+Appearing 
+March 17th, 18th. &amp;19th 
+Show starts at 9:30 p.m. 
+
+DRINK SPECIALS 
+Green Beer 
+Irish Coffee 
+Irish Kiss 
+
+
+
+
+
+©neiraE 
+
+
+
+
+
+
+
+
+
+
+
+
+3*2 = = = 
+
+
+
+
+ni 
+
+
+
+
+
+
+GLVC BASKETBALL STANDINGS 
+
+
+MEN) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCT 
+
+
+
+
+PCT 
+
+
+1 Kentucky Wesleyan College 
+
+
+
+
+
+
+
+
+
+
+2. Bellarmine College 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f. University ol Indianapolis 
+
+
+
+
+
+
+
+
+
+
+6. Ashland College 
+
+
+
+
+
+
+
+
+
+
+8. Sainl Joseph's College 
+
+
+
+
+
+
+
+
+
+
+8. University of Southern Indiana 
+
+
+4-10 
+
+
+.286 
+
+
+13-13 
+
+
+.500 
+
+
+GLVC BASKETBALL STANDINGS 
+
+
+WOMEN) 
+
+
+
+
+
+
+
+
+
+
+W°L 
+
+
+PCT 
+
+
+W-L 
+
+
+PCT 
+
+
+I.Saint Joseph's College 
+
+
+
+
+
+
+
+
+
+
+2. Bellarmine College 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Uwis University 
+
+
+M 
+
+
+fa 
+
+
+1M 
+
+
+640 
+
+
+6. Ashland College 
+
+
+
+
+
+
+
+
+
+
+7 Kfiiluckv Weslevan College 
+
+
+
+
+
+
+
+
+
+
+7. University of Indianapolis 
+
+
+
+
+
+
+
+
+
+
+9 University of Southern Indiana 
+
+
+1-13 
+
+
+.071 
+
+
+b-20 
+
+
+.250 
+
+
+
+Streak continues 
+
+'Dons win five 
+
+By MIKE L1NVILLE games, 15-7, 15-7 and 15 
+
+
+
+The Fighting Irish fell i 
+
+
+
+Fred Malcolm has 1 
+
+
+
+&lt;.i 1 I el. iM ll'f-W 
+
+
+
+face San Diego State, the 
+i Saturday, Coach University of California at 
+charges de- San Diego, a 
+
+
+
+
+</pre>        </div>
+      </div>
+    

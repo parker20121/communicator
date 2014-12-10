@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorfeb161973indi/communicatorfeb161973indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorfeb161973indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorfeb161973indi">The Communicator</a>"
+          </h1>
+          <pre>INDIANA-PURDUE UNIVERSITIES. 
+-FORT WAYNE. 
+COMMUNICATOR. 1972-73. 
+
+
+
+THE 
+COMMUNICATOR 
+
+
+
+Issue III, Volume 14 'u 
+
+
+
+Indiana- Purdue University at Fort Wayne 
+
+
+
+February 16, 1973 
+
+
+
+First University 
+Women's Caucus 
+Set For Tuesday 
+
+
+
+A. 
+
+
+
+- H 11(7 , 
+
+
+
+mi 
+
+
+
+
+
+
+«»£» 
+
+
+
+The first All-University 
+Women's Caucus will be 
+heldthisTuesday, Feb- 
+ruary 20, in hopes of cre- 
+ating an interest in the pro- 
+blems of day care, sexdis- 
+crimination, etc. 
+
+Room 246 In the Education 
+Building will be the site for 
+the caucus, which its or- 
+ganizers believe could be 
+the foundation for a univer- 
+sity organization. There 
+will be a discussion panel 
+composed of staff, students, 
+and faculty from the Uni- 
+versity. Any persons inter- 
+ested in the problems and 
+experiences of women are 
+urged to attend the pro- 
+gram, which will begin at 
+7:30 p.m. 
+
+
+
+
+A LOOK 
+A T MEDIA 
+
+
+
+Tonight, at 8:00 p.m. the 
+Folk School's Theatre for 
+Ideas offers "Tune In or 
+Be Tuned Out," a look at the 
+media and the way it shapes 
+our lives. The presentation 
+will be located at The 
+Plumb Line, in the First 
+Wayne Street United Meth- 
+odist Church, 910 Broad- 
+way. 
+
+The discussion panel will 
+include: Frank C ho rba. 
+
+
+
+Professor of Communica- 
+tions, lU-PU; Ken Kurtz, 
+News Director, WANE-TV; 
+Charles Redd, Director, 
+Fort Wayne Urban League; 
+Graham Richards, Com- 
+munity Education Consult- 
+ant; David Tanner, CAB, 
+Deadrlnger Radio; and 
+Terry Doran, Moderator, 
+Folk School. 
+The series Is free and 
+open to the public. 
+
+
+
+
+'Look Back in Anger' 
+
+Richard Burton, Claire Bloom Star 
+In John Oshorne's Stage Success 
+
+
+
+The film version of John 
+Osborne's hit play, "Look 
+Back In Anger,** will be 
+shown at 3:30, 5: 30 and 8: 10 
+p.m. Friday, February 16, 
+on the Ind lana - Purdue 
+Campus at Fort Wayne. 
+
+The film, sponsored by the 
+Students' Government, 
+is open to the public at $1 
+per person. Campus activ- 
+
+
+
+ity card holders are ad- 
+mitted free to showings in 
+either Room 146 or in the 
+recital hall, 
+
+Richard Burton portrays 
+Jimmy Porter, an angry 
+young man with a mixture 
+of sincerity and cheerful 
+malice. Mary Ure plays his 
+wife Alison, driven to dis- 
+traction in the small top 
+
+
+
+floor flat in which they live. 
+Claire Bloom, third mem- 
+ber of the triangle, is 
+a young actress Jimmy 
+hates with a fire one step 
+behind passion. 
+
+The film was produced by 
+Harry Saltzman and direct- 
+ed by Tony Richardson 
+from a screenplay by Nigel 
+Kneale. 
+
+
+
+Page 2 
+
+
+
+I-PU COMMUNICATOR 
+
+
+
+February 16, 1973 
+
+
+
+reactions 
+
+
+
+Dear Editor: 
+
+I have found that most peo- 
+ple have to have something 
+to complain about In order 
+to be happy. If they don't 
+have a topic from their Im- 
+mediate life, they stick 
+their noses Into someone 
+elses. I am referlng to 
+those who are unhappy with 
+the decision of the Supreme 
+Court to legalize abortion. 
+If some people want the 
+right to have an abortion 
+when they need it, they 
+should have it. So, it is 
+
+
+
+The 
+COM 
+
+
+
+ICA 
+TOR 
+
+
+
+Michael A. Snyder, Editor 
+
+Deb Foster 
+
+N4ary Ellen Brown 
+
+John Lx)gan 
+
+Karl Schweppe 
+
+Gayle Houser 
+
+Connie Littlefield 
+
+Hoy Vardaman-Advertising 
+
+John Walters-Photography 
+
+
+
+against some people's 
+moral judgements, so what. 
+Your moral judgements 
+aren't necessarily accept- 
+ed world wide, and who are 
+you to tell others whatthey 
+may or may not do with 
+their body or any part of 
+their body. And, let's face 
+it, as long as an embryo is 
+connected to the mother's 
+body, getting nourishment 
+from the mother, it is still 
+part of someone else, to 
+do with as she pleases. 
+
+Let's look at the situation 
+from another point of view. 
+Most people preach free- 
+dom and equal rights. Yet, 
+when you want to forbid the 
+
+
+
+right to legal abortion, you 
+are taking away another 
+p e r s o n*s freedom. The 
+freedom to lead an un- 
+hampered life from a child 
+that is not wanted. What is 
+worse, to take away a child 
+before it Js born and can 
+feel pain, or to force a child 
+to live a miserable life in a 
+home where It is not want- 
+ed. 
+
+The court's decision was 
+for the benefit of those who 
+want or need the service. 
+It does not force those who 
+don't believe in the prac- 
+tice to use it. So, let others 
+lead their own life and you 
+lead yours. 
+
+Name Withheld by Request 
+
+
+
+character &amp; opinion 
+
+
+
+For some time now the 
+issue of equality has 
+plagued us until we have 
+in many respects come to 
+believe equality is neces- 
+sary. To extend this, one 
+might Indeed ask if equal- 
+ity, at least the social- 
+economic eqalitarlan brand 
+we hear so often. Is a 
+deslable ideal in the least 
+and more so, an obtain- 
+able goal. 
+
+In the November 1972 Is- 
+sue of Commentary mag- 
+azine, Irving Krlstol in his 
+article "About Equality," 
+concerning 1) the deslabll- 
+ity of equality 2) the re- 
+cent emergence of this ob- 
+session and 3) the likely 
+hood of it succeeding. Mr. 
+Krlstol's remarks are 
+most Interesting In that 
+he lays the blame of the 
+recent controversy clearly 
+at the feet of the Ameri- 
+can intelligensla. The 
+thrust of his article moves 
+from the basis that the 
+people, the non-intellect- 
+ual, the worker, the aver- 
+age American, is more 
+firmly planted In a real 
+perception of his condition 
+than Is his would be re- 
+former. Equality then Is a 
+condition, a relationship 
+between knowing what has 
+been accomplished and 
+what one views can be or 
+should be accomplished. In 
+real as well as In Ideal- 
+istic terms. 
+
+America's intellect- 
+ual class", and I use that 
+
+
+
+Stan Jones 
+
+
+
+term more in what they call 
+themselves and not so 
+much in what they accom- 
+plish, is today obsessed, or 
+as It may be, possessed 
+by the all pervalUng Utopian 
+concept of equality, hlndg- 
+Ing first and foremost on 
+the concept of legitimacy 
+In society. The "intellect- 
+ual class' views with con- 
+tempt the positive claim 
+that most people make on 
+the legitimacy of Ameri- 
+can society. American 
+society is not fit to sur- 
+vive as it is, they shout. 
+Just look at all the 
+Iniquities which exist. 
+
+As Mr. Krlstol states, 
+and I humbly concur, "a 
+just and legitimate society, 
+according to Aristotle, is 
+one In which Inequallties- 
+of preperty, or station, or 
+power- are generally per- 
+cleved by the cltizenery 
+as necessary for the com- 
+mon good. I do not see 
+that this definition has been 
+Improved on...'',indeed Mr. 
+Krlstol goes on to explain 
+that as a general rule the 
+public has accepted this 
+given situation and grad- 
+ually but steadily Improved 
+on it while an obviously 
+lletlst "class" has contin- 
+ually looked on in disgust. 
+Believing It would seem a 
+"we know what's good for 
+you better than you know 
+yourself. This contempt- 
+able attitude has 0ven us 
+more social and personal 
+turmoil since the Civil War, 
+a condition more artificlal- 
+(To Column 4) 
+
+
+
+iy Induced, I might add, 
+then naturally aroused. 
+
+the desire to obtain 
+equality has led us to im- 
+plement such programs as 
+The Great Societies 'War 
+on Poverty'; the brainchild 
+of the liberal establish- 
+ment. The Office of 
+Economic Opportunity and 
+probably one of the most 
+controversial and emotion 
+ridden endeavors, the 
+forced Integration of the 
+public school system. 
+
+To take this last example 
+in point, we find that con- 
+trary to the stated goals 
+of the program, the level 
+of scholastic achelvement 
+has not negligibly risen 
+and in numerous cases 
+it has shown no improve- 
+ment what ever. 
+
+The "Coleman Report' of 
+1966 (mandated by the Civil 
+Rights Act of 1964) show- 
+ed, much to the dismay 
+of its advocates, that the 
+scholastic achievement of 
+the student Is almost 
+wholly independant of 
+the quality of the school. 
+What the report was say- 
+ing was that forced equal- 
+ity of enviroment had 
+little or no effect on an 
+Improvement In the stu- 
+dents performance and the 
+genetic charactrlstics 
+
+predominatly determined ' 
+dent. In his book. Inequal- 
+ity; A Reassessment of the 
+
+
+
+effect of Family and 
+Schooling in America, 
+author Christopher Jencks 
+comes to essentiallv the 
+same conclusion. 
+It would seem then from 
+these studies that the in- 
+roads made into American 
+society by the Utopian re- 
+formers has failed to live 
+up to its claims. Indeed 
+they have failed miserably. 
+Not only do they claim to 
+transform our society into 
+an "equal, legitimate 
+society' (defined as such, 
+it would seem by them and 
+them alone) but to a better, 
+yes better, society than we 
+have now. Fortunatly, the 
+people know more than 
+their reformers. One would 
+gather from a view of the 
+people In our society that 
+they have accepted 
+Aristotle's claim of leg- 
+itimacy, recognized it for 
+what it Is, and then pro- 
+ceeded to Improve them- 
+selves and their neighbors. 
+The proposals to radical- 
+ly transform our society 
+have not met with success 
+and probibly never will due 
+to this prevailing belief. 
+It might, I feel, do these 
+'intellectuals' some good 
+if they came down from 
+their pious plateaus and be- 
+came acquainted with the 
+whys and hows of our 
+society; they seem to know 
+so little of It. 
+
+
+
+A DIFFERENT 
+PERSPECTIVE 
+
+
+
+(A weekly report) 
+This week's author is 
+Charles Pratt 
+Student Senator 
+
+As a result of a report 
+made by the Faculty-Stu- 
+dent Committee on Parking 
+Facilities, paid parking 
+was initiated in the fall 
+semester of 1970. Over the 
+past 3 years the Parking 
+Facilities Account has ac- 
+cumulated over $300,000 in 
+funds. Through a Student 
+Senate investigation, fig- 
+ures were made available 
+by Dean Manges on the 
+Parking Facilities Ac- 
+count. According to the ad- 
+ministration each asphalt 
+car space costs $350 with 
+an expected life span of 15 
+years. Since the State Leg- 
+islature has refused to al- 
+locate money for parking it 
+appears that paid parking is 
+the only feasable alterna- 
+tive for our campus. 
+
+However, the question 
+still remains as to what the 
+Parking Facilities Account 
+does with the money it has 
+collected. Again, according 
+to Dean Manges, the Idea 
+of a parking garage is be- 
+ing Investigated. With the 
+$300,000 the University is 
+trying to get a "favorable 
+bond issue," But it is In- 
+teresting to note that (1) 
+the monies collected at this 
+point are not sufficient (2) 
+the State Legislature must 
+approve the garage and (3) 
+The Purdue Business man- 
+
+
+
+ager's office has ques- 
+tioned the feasabillty of 
+such an investment. Mean- 
+while we must continue us- 
+ing the available lots at the 
+same costs. 
+
+The Student Senate has re- 
+quested that the adminis- 
+tration look into the parking 
+facilities for the handicap- 
+ped. The Parking and 
+Traffic Advisory Commit- 
+tee has promised to pro- 
+duce recommendations 
+concerning this problem. 
+The problem facing these 
+people is that to use hand- 
+icap facilities one is forc- 
+ed to buy the "A" parking 
+sticker. They have no other 
+choice. Dean Manges has 
+commented that he can see 
+both sides of the issue. He 
+stated that while it does 
+limit one financially it also 
+must be recognized that 
+the parking spaces are in 
+"A" lots and therefore 
+must be charged with the 
+cost of an "A" sticker. In 
+this writer's opinion it 
+seems unfair to punish the 
+handicapped because the 
+university is sllghtlyin- 
+convlenanced. The Student 
+Senate will, however, see 
+that the Parking and Traf- 
+fic Advisory Committee in- 
+vestigates this problem. 
+
+It has taken slightly over 
+3 weeks to complete this 
+investigation. However, if 
+there are any requests for 
+further Information the 
+Student's Government will 
+accept the responsibility to 
+produce it. 
+
+
+
+FeBftiary 16, 1973 
+
+
+
+I-PU' COMMUNICATOR 
+
+
+
+
+Page 3 
+
+
+
+Ml &amp;er ToemBfK m a msHQLS mucf 
+
+
+
+Htm 
+
+YOUR 
+CHANCE. 
+
+DON'T 
+
+MISS 
+IT! 
+
+i 
+
+
+
+Indiana-Purdue Recruiting Calendar 
+
+The following employers will have representatives on campus on the dates shown 
+to Interview graduating students enrolled in the academic programs indicated. In- 
+terview privileges are granted only to students registered for Placement services. 
+Registration materials are available in Room 104. Education Building, and must 
+be completed prior to signing up for interviews. Campus interviewing is conducted 
+from February 19-March 30. 
+
+
+
+1st Week's Schedule 
+
+
+
+^ate 
+
+February 19 
+
+February 19 
+February 20 
+February 21 
+February 21 
+February 22 
+
+
+
+Employer 
+
+
+
+Lincoln National Life 
+Insurance Company 
+
+Lincoln National Bank 
+
+General Electric 
+
+Internal Revenue 
+
+American Hosp. Supply 
+
+Stone &amp; Webster Engin- 
+eering Company 
+
+
+
+February 23 Proctor &amp; Gamble 
+
+
+
+February 23 
+
+
+
+February 23 
+
+
+
+Department of Health, Ed- 
+ucation and Welfare 
+
+Bell Telephone Labora- 
+tories 
+
+
+
+Degrees 
+
+
+
+B.S. or Masters - 
+Bus. Ad., Technology 
+
+B.S. Bus. Ad. 
+
+B.S. Fin. Mgmt., Tech. 
+
+B.S. Accounting 
+
+B.A., B.S., or Masters-Bus. 
+Ad., Liberal Arts, Science 
+
+B.S. EETMET Chem., Biol. 
+
+A.S., B.A., B.S., or Masters 
+Bus. Ad., Liberal Arts 
+
+B.A., B.S., or Masters-Bus, 
+Ad., Liberal Arts, Science 
+
+A.S., B.S.-EET, MET 
+
+
+
+WEDDINGS 
+
+PORTRAITS 
+
+INDUSTRIAL 
+
+
+
+BUI Crunk 
+1515 Columbia Ave. 
+438-7641 
+
+
+
+
+marcel lus 
+photo 
+
+
+
+"Frankly SpezJung" 
+
+
+
+by Phil FhM\k 
+
+
+
+
+FUMNV, BUT YIHENEVER M\XON IS 
+ON TV X CAN NEVER SET Twe 
+
+pi&lt;:ture perffctly clear \ 
+
+
+
+© FRANKLY SPEAKING Posi Oflica Bo&gt; 1523 E«»t Lans.ng, MictiiBsn 48833 
+
+
+
+ANCIENT 
+ASTRONAUTS? 
+
+Did Astronauts Visit The Earth 40,000 
+Years Ago? Find out by reading: 
+
+CHARIOTS OF THE GODS? by Erich Von 
+Daniken. Bantam $1.25. 
+
+GODS FROM OUTER SPACE, by E r i c h 
+Von Daniken Bantam $1.25. 
+
+Indiana-Purdue 
+Bookstore 
+
+
+
+
+C.V\r&gt;$t&gt;av\s «oV« Cffivs\vvi«e "^ set '"^ 
+recevoeiX ^"vi ntii. 
+
+Dan Motto - Campus Minister 
+Room 102 Main Building 
+422-3292 
+
+
+
+Page 4 
+
+
+
+I-PU COMMUNICATOR 
+
+
+
+February 16, 1973 
+
+
+
+Second 
+City 
+
+
+
+The Second City, a theatre 
+group specializing In polit- 
+ical and social satire, will 
+be the next program spon- 
+sored by the Indiana-Pur- 
+due Convocations Commit- 
+tee. The eight-member 
+group (7 actors and a fine 
+piano player) never let an 
+audience catch their breath 
+as they attack satirically 
+everything from religion to 
+TV football coverage. 
+
+For thirteen years the 
+group has been entertaining 
+a Chicago audience in its 
+second floor nightclub 
+theatre. During that period 
+they have written and per- 
+formed over 43 reviews. 
+
+The performance will be- 
+gin at 8:00 p.m. on Feb- 
+ruary 27th at the North- 
+side auditorium. Tickets 
+may be obtained at the Pur- 
+due Bursar's office, free 
+for activity card holders 
+and $1.50 apiece for the 
+public. 
+
+For interested parties... 
+members of the company 
+will hold a class and work 
+session on Improvlsational 
+theatre In G32 at 1:30 p.m. 
+on Tuesday, Feb. 27. 
+
+Next Convocation -Gloria 
+Steinem, editor of MS Mag- 
+azine and promlnant leader 
+of the women's liberation 
+m ov em ent - Ma rch 13 
+at 8:00 p.m. 
+
+
+
+Marketing 
+Club 
+
+
+
+A Marketing Club has been 
+formed at the lU-PU Re- 
+gional Campus. This organ- 
+ization Is open to all Indi- 
+viduals Interested In learn- 
+ing about business. Future 
+events Include field trips, 
+money raising projects and 
+other activities. A mem- 
+bership drive Is to begin 
+Monday, February 19 with 
+membership fee set at $1. 
+The first meeting is sched- 
+uled for Thursday, March 
+1, at 8:00 p.m. In Room 147 
+of the Education Building. 
+
+For further information 
+contact Dr. Z. Shipchand- 
+ler. Building Aln Suite 340; 
+Jim Davis at 743-0602; or 
+Dave Droege at 622-7306. 
+The members will also be 
+located outside thecafeter- 
+la beginning Monday, Feb- 
+ruary 19. 
+
+
+
+Kenya 
+
+&amp; East 
+
+Africa 
+
+
+
+Dr. John Harbeson of the 
+University of WI sconsin 
+will speak on the "Politics 
+of Kenya and East Africa" 
+Tuesday as part of the 
+Cross- Cultural Dialogues 
+Speakers Series, It was an- 
+nounced by Dr. Gerald 
+Houseman, Coordinator of 
+International Programs at 
+lU here. Dr. Harbesonfor- 
+merly lectured at the Uni- 
+versity of East Africa and 
+is now with the Political 
+Science department at Uof 
+W, Parkside Campus. 
+
+All Cross-Cultura! pro- 
+grams are open to the gen- 
+eral public and will beheld 
+Tuesdays at 8 p.m. in Room 
+246. All of the speakers 
+will hold small seminar- 
+type meetings at 3:30 p.m. 
+In A- 130 to which students 
+and faculty are Invited. 
+
+Other programs in the 
+series will be March 6-Dr. 
+Charles McCoy, Lehigh 
+University on "China and 
+Hong Kong" and March 20- 
+Dr. Dankwart Rustow, City 
+University of New York on 
+"Oil and Politics in the 
+Middle East." 
+
+
+
+History 
+Careers 
+
+
+
+On Wednesday, February 
+21, from 3:30-4:30 p.m. in 
+Room 146 of the Education 
+Building, the Department of 
+History will sponsor a His- 
+tory Careers Symposium. 
+Open to all History and So- 
+cial Studies majors, as well 
+as any other Interested stu- 
+dents, the symposium will 
+provide Information on ca- 
+reer options for students 
+with history backgrounds. 
+Professors Aurele Vlolette 
+and John Bell will discuss 
+graduate schools, Pro- 
+fessor D wight Henderson 
+will speak on law schools, 
+Professor Charles Hampel 
+will explainproceduresand 
+prospects inteacher olace- 
+ment. and Bill Heller will 
+introduce employment opp- 
+ortunities in business and 
+in government. Light re- 
+freshments will be ser- 
+ved. 
+
+
+
+
+
+Building a new home? 
+
+
+Mhffitdt 
+
+
+Build rtear the campus in lovely 
+
+
+(vQrK' 
+
+
+, NEW KIRKWOOD PARK 
+
+
+V^^ 
+
+
+L Just south of Coliseum Blvd. on 
+
+
+»^ 
+
+
+\ Hobson Rd. full city improvements 
+
+
+^H 
+
+
+?ftH«^n Jj(!QSE^ 
+
+
+'' vHW 
+
+
+
+
+Builder- 
+
+
+■ Realtor 422-9981 
+
+
+
+CLASSIFIEDS 
+
+
+
+Classified advertise- 
+ments must not exceed 
+25 words. Ads will be 
+run for one week only 
+and must be in our of- 
+fice In typewritten form 
+by 5 p.m. Tuesday prior 
+to the Friday publica- 
+tion date. There fs no 
+cliarge to students or 
+staff for this service. 
+
+
+
+Traveling to Europe this 
+summer. Looking for girl 
+who. would like to do same. 
+Leave June 1 approx. re- 
+turn August 15 approx., 
+schedule flexible. Contact 
+1 (693-9560) 
+
+Cold cash for Splderman 
+comics! Strange, but true. 
+Esp. needed are the early 
+issues (1-60), others as 
+well. Contact Jerry (Alias 
+Spldey) any a.m. at 745- 
+7521. 
+
+
+
+Third annual all-city Folk 
+Pop Festival at Bishop 
+Luers High School. Satur- 
+day February 17, at 8:00 
+p.m. Admission $1.00. 
+Performers must register 
+with Fr. Forest at Bishop 
+Luers, 744-3398, during 
+the week of Feb. 3-9. 
+
+Cash awards will be given 
+to the top three contest- 
+ants. 
+
+FOR SALE 1971 Pinto, 
+blue, 4 speed, radial tires, 
+excellent condition. Only 
+$1,500. Call 482-5516 be- 
+tween 8 and 5. After 7 p.m. 
+call 485-8579. 
+
+Participate on the CROSS 
+COUNTRY TEAM at Ind- 
+iana-Purdue. Call 482- 
+5696 or 749-5550. Meeting 
+to be held Monday, Feb- 
+ruary 19, at 1:00 p.m. In 
+Room 178 of the Education 
+Building. 
+
+
+
+DANCE to the music of 
+The Second Endeavor 
+Dances, parties, and wed- 
+'llngs- Call Karl at 
+
+691-4131. Deb. 748-7077 
+
+We, the s t u d e n t s of Dr. 
+Harper's G371 Conducting 
+Class need helpl Although 
+smaller classes are often 
+favored, our class of six 
+makes for a very small 
+choir, with sometimes only 
+one class member per 
+part. 
+
+We would like to Invite all 
+Interested students to join 
+with us in singing on Thurs- 
+day at 1:30 p.m. Intheaud- 
+Itorlum of Building A. No 
+experience is neces- 
+sary. The only requirement 
+Is that you like to sing and 
+wouldn't mind the direction 
+of novice conductors. 
+
+A house of furniture $500, 
+or in parts. Alan Nurak. 
+2420 LeRoy Ave. 485-1372. 
+
+For Sale: 1972 .Schwinn 
+Sports Tourer. Tire-pump/ 
+spare tire &amp; tube. Approx. 
+300 miles $165. Call Jack 
+
+at 749-1836. 
+
+
+
+
+"" J^ You're 
+
+MN FOR IT 
+
+
+
+If you choosp the coufse of 
+
+action honor dictates and 
+
+good sense recommends, 
+
+that IS, 
+
+If you subscribe to Fusion, we 
+
+mean lo say 
+
+If you do this, then you're in 
+
+for It: a year's worth of 
+
+undreamt delights 
+
+Plus a free album. 
+
+The line forms below. 
+
+Choose from: Lou Reed's new 
+
+one. Hot Tuna/Burgers. Tom 
+
+Rush/Merrimac County, 
+
+Detanev &amp; Bonme/D&amp;B 
+
+
+
+Together Dave Mason/Head- 
+keeper, John/Gumbo, 
+Spjtit/Feedback, The Bon2o 
+Dog Band/Let's Make Up and 
+Be Friendly, or The Electric 
+Light Orchestra. 
+
+
+
+Sirs: Enclosed please find $5 
+for a one-year subscription to 
+none Other, plus below my 
+name, address and zip code (all 
+printed neatly) my choice of 
+a free album. 
+
+
+
+Name: 
+
+Address: 
+
+C.tv: 
+
+State: Zip 
+
+My album choice. 
+
+Alternate choice: 
+
+
+
+P.O. Box 3434 
+Seminole, Florida 33542 
+
+I C 3144 ~| 
+
+
+
+
+</pre>        </div>
+      </div>
+    

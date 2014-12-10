@@ -1,0 +1,4117 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i9indi/communicatorv12i9indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i9indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i9indi">The Communicator</a>"
+          </h1>
+          <pre>rm*\ 
+
+
+
+riic 
+
+
+
+Communicator 
+
+
+
+Volume XII Issues 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+OCTOBER 23, 1980 
+
+
+
+
+Reagan wins 
+mock election 
+
+
+
+By DEBBIE CANTWELL 
+It was a clen sweep for Ronald 
+Reagan and the Republican ticket in 
+last week's IPFW mock election. 
+A total of 718 students 
+—approximately seven percent of 
+the student body— voted in the 
+basement of Kettler Hall last 
+Wednesday and Thursday. 
+
+Reagan captured the presidential 
+race with 257 votes, a 36.6 percent 
+share of the total, while Independent 
+candidate John Anderson followed 
+with 208 votes, a 29.7 percent share, 
+and President Jimmy Carter with 
+177 votes, a 25.2 percent share. 
+
+Libertarian candidate Edward 
+Clark was fourth with 42 votes, 
+followed by Citizens candidate 
+Barry Commoner, 11 votes; Com- 
+munist U.S.A. candidate Gus Hall, 3 
+votes; Socialist candidate Clifton 
+DeBerry, 2 votes; and American 
+candidate Percy L. Greaves, Jr., 1 
+vote. 
+
+In the race for governor, 
+Republican candidate Bob Orr won 
+with 432 votes, a 64.3 percent share 
+of the total ballots cast. John' 
+Hillenbrand II, the Democratic 
+candidate, received 225 votes, a 33.5 
+percent share, and Cletus R. Artist, 
+the American candidate, had 14 
+votes, a 2.1 percent share. 
+
+Republican candidate Dan Quayle 
+defeated Democratic incumbant 
+Sen. Birch Byah for the U.S. Senate 
+race. Qyayle received 450 votes, a 64 
+percent share, while Bayd tallied 253 
+votes, a 35.9 percent share. 
+
+For Fourth District congressman, 
+Republican candidate Dan Coats 
+was first with 417 votes, a 60.9 
+percent share, followed by 
+
+
+
+Democratic candidate John Walda 
+with 243 votes, a 35.5 percent share, 
+and Independant candidate Stephen 
+G. Hope with 24 votes, a 3.5 percent 
+share. 
+
+Local party officials responded to 
+the IPFW mock election. 
+
+"Obviously I'm pleased," 
+Republican city chairman Alan 
+McMahan said. "People voting in 
+the IPFW election are probably 
+more questioning than the average 
+voter." McMahan also said the 
+victory relfects on the quality of the 
+Republican candidates and their 
+campaigns. 
+
+Jim Kelley, chairman of the 
+Democratic party in Allen County, 
+said college students generally come 
+from families with money, and those 
+with money usually vote 
+Republican. 
+
+"I wouldn't expect students to vote 
+any other way," said Kelley. 
+
+The election was conducted by The 
+Communicator with the cooperation 
+of student organizations backing 
+Democrats, Republicans and 
+Anderson. 
+
+Reagan was the presidential 
+winner in a similar mock election 
+conducted by The Observer, the 
+student newspaper of the University 
+of Notre Dame and adjoining St. 
+Mary's College. In that election, 
+Reagan received 489 votes, while 
+Anderson was second with 371 votes 
+and President Carter a distant third 
+with 168 votes. Clark was fourth with 
+46 votes and Hall fifth with 14 votes. 
+
+Quayle and Orr also won their 
+respective races in the Notre Dame 
+election. 
+
+
+
+
+Clown suit suits teacher 
+
+
+
+Mertz works magic as Paco 
+
+
+
+By STEPHANY 
+HOLMES 
+
+Suspended between fear and delight, 
+the child watched the clown approach. 
+
+He spoke to her, one child to another. 
+She smiled hesitantly. Fingers flying, 
+he twisted orange balloons into a 
+giraffe and put it in her hands. She 
+thanked him. She would talk about him 
+all the way home. 
+
+Paco had worked his magic once 
+more. 
+
+The man behind the magic? He's 
+Scott Mertz, a 21-year-old recreation 
+junior who teaches the history and art 
+of clowning for the D?FW continuing 
+education department. 
+
+Six years ago he was working for the 
+Atz ice cream chain. His employers 
+chose him to be their birthday-party 
+clown because of his friendly, outgoing 
+personality. Two years later, he 
+created his clown identity, Paco, and 
+has since been busy working, 
+developing new characters and now, 
+teaching. 
+
+Those who thought his class would be 
+all baggy pants and grease paint have 
+had an interesting surprise — they 
+learn the history of clowns, jesters and 
+fools in his course. 
+
+"Of the 130 cultures in the world, 40 
+have a prominent place in their society 
+for clowns, jesters and fools," he said. 
+"In China, a clown was important 
+because he was the only one who spoke 
+in theater productions. He narrated and 
+gave meaning to plays in a culture 
+where theater was very important." 
+
+Hopi Indian clowns, covered with 
+mud, would provide respite for par- 
+ticipants in days-long dances, he said, 
+by tumbling into the arena headfirst, 
+drawing the audience's attention while 
+dancers slipped away to rest. The 
+clowns were accorded high priority and 
+could enter the arena any time they 
+chose. 
+
+One of his favorite examples comes 
+from the Catholic religion and the once- 
+celebrated "Feast of Fools." 
+
+"The presiding priest wore a 
+donkey's head mask while performing 
+the mass. Then the congregational 
+response to the mass each time would 
+be a donkey's hee-haw. Quite literally, 
+a priest could say 'let us bray.' The 
+priests grew to feel that this was 
+beneath their dignity and tried to stop 
+It. But the common people loved this 
+ritual, and each year, kidnaped all the 
+priests and held them until one of them 
+agreed to be 'Priest of Fools.' The 
+festivities then began by parading the 
+priest around town and dousing him 
+with seven buckets of water." 
+
+Mertz enjoys teaching the clowning 
+class, but finds performing as Paco 
+very satisfying as well. 
+
+He has performed at the Embassy 
+Theater, Scottish Rite Auditorium, 
+pienbrook, Peru Circus, auto shows 
+and many area parades and at the 
+
+
+
+"Paco will always be for\ the rights and well- 
+being of children. Paco will always be for 
+kids." Scott Mertz 
+
+
+
+recent Johnny Appleseed Festival as 
+Johnny Appleseed. 
+
+His next appearance is at the 
+Haunted Forest in FrankePark, Oct. 25 
+and 26. Mertz is head of make-up for the 
+Haunted Forest. 
+
+His make-up expertise will be 
+featured in the News Sentinel's 
+Saturday magazine, Roto, on Oct. 25, 
+spotlighting make-up as an alternative 
+to masks for Halloween. 
+His ability and versatility with make-up 
+is apparent when considering the list of 
+roles he portrayed; elf, vampire, witch, 
+werewolf, troll, Easter Bunny, Santa 
+Claus, Frankenstein and Charlie the 
+chimpanzee. 
+
+Mertz also takes on many roles in his 
+private life. He is a multifaceted person 
+with many interests, beliefs and con- 
+cerns. His belief in loving and serving 
+others is evident in many of the ac- 
+tivities he chooses to become involved 
+in. 
+
+He is active in his church, St. Joe 
+United Methodist, and is a tenor in the 
+choir. He is a Red Cross Gallon Club 
+donor. In the winter, he is an ice guard 
+at park skating rinks, and in the 
+summer, he is a recreation leader with 
+the park system. He teaches children's 
+classes at the YWCA and works with a 
+4-H clowning club. He coached the club 
+to second place in the Three Rivers 
+Festival clowining competition this 
+year. 
+
+Another aspect of his 4-H work in- 
+volves his firm support of equality for 
+the sexes. Mertz, a member of the 
+National Organization for Women, is 
+responsible for a non-sexist revision of 
+4-H literature by the 4-H National Rules 
+Committee. Asked to become involved 
+In a personality development course, he 
+found the material to be blatantly 
+stereotypical and asked Allen County 4- 
+H Extension Leader, Cathy Seymour, if 
+changes could be made. The National 
+Rules Committee is revising it now. 
+
+He feels the need to eliminate sexual 
+stereotyping whenever he can because 
+of his own experiences. 
+
+"In high school, other guys are really 
+threatened by someone who wants to be 
+a clown. Maybe it's the make-up — I 
+don't know," he said. "I have had to 
+take a lot of abuse and name-calling for 
+being a clown instead of a macho jock. I 
+have been called a "sissy" and a "fag" 
+for choosing a profession that I find 
+highly rewarding and brings happiness 
+toothers." 
+
+"On the other side of the coin, I was 
+once denied a job at Glenbrook as the 
+Easter Bunny because I was 'male and 
+wouldn't be good with children.' 
+Children are my work. I wouldn't be 
+
+
+
+doing this if I wasn't good with 
+children." 
+
+Mertz feels sexual stereotyping 
+denies many vital choices for women 
+and separates men from their feelings. 
+
+"Males grow up emotionally 
+paralyzed. We need reality therapy to 
+bring us back to the real world. From 
+the time you are born until the time you 
+die, you are a male or female first — 
+never just a person. Fifty percent of all 
+your possibilities' are eliminated when 
+the pink or blue blanket goes on. You 
+are given these roles immediately 
+without the time or permission to in- 
+vestigate all that life may have to offer. 
+For good of all of us, this somehow must 
+end." 
+
+Kay Roberts, sociology senior and 
+also a member of NOW, has been the 
+"significant other" in Mertz's life for 
+the past year. She was asked how his 
+awareness of women's issues affects 
+their relationship. "It makes it 
+possible," was her reply. 
+
+"Scott is a sensitive, warm, strongly 
+person-oriented person who truly 
+cares about others," she said. "He 
+
+
+
+questions and seeks knowledge 
+everywhere, and I know his level of 
+awareness and caring will continue to 
+grow. He would be an asset to any cause 
+he chose to support, including the 
+women's movement." 
+
+Caring about others is a part of 
+Mertz's future, too. He has specific 
+hopes for the character of Paco. "I 
+don't ever want to see him associated 
+with a product or synidacted like a 
+Ronald McDonald or Bozo, but I can see 
+him promoting a safety campaign or 
+something like that. Paco will always 
+be for the rights and well-being of 
+children. Paco will always be for kids." 
+
+For himself, Mertz would like to 
+teach on the college level or work in 
+recreation with the public parks system 
+and its special activities. He also finds 
+the special effects and make-up of film- 
+making an enticing possibility. 
+
+Whatever he chooses, children will 
+always be an important part of Scott's 
+life. He and Roberts have discussed 
+having a home where children of all 
+ages, races and handicaps, will be 
+welcome to live. 
+
+"I want those children nobody else 
+seems to want — even the troubled 
+ones," he said. "I have enough love for 
+them all." 
+
+Cole Porter once said, "all the world 
+loves a clown." Scott Mertz is a clown 
+that loves it right back. 
+
+
+
+
+Experts hunt ways 
+to end youth crime 
+
+"In 1979, we paid back $33,000— and that 
+comes completely out of the offenders' pockets, 
+not the taxpayers'." Judge Louis Bloom 
+
+
+
+Editor's Note: In this third and final 
+, article In Robert Rlnearson's scries on 
+youth crime, the focus is on the 
+viewpoint of the authorities and 
+criminal psychologists who work with 
+youthful offenders. 
+(c.) 1980 Robert Rinearson 
+
+As numerous reports and statistics 
+show steady rises in Juvenile crime, the 
+public Is left wondering how the 
+criminal justice system will treat 
+youthful offenders in the coming years 
+compared to the past. 
+
+"Perhaps 10 years ago we felt 
+psychology was an answer," said Stan 
+Veit, director of the Fort Wayne 
+Juvenile Facility, "But now more than 
+ever, we appreciate the difficulty of 
+such a limited viewpoint. Simply, some 
+kids we can reach with psychological 
+methods and others we cannot." 
+
+Another opinion was expressed by 
+Cathryn Adamsky, associate professor 
+of psychology at IPFW. "Instead of 
+looking toward psychology as the an- 
+swer, we should incorporate It merely 
+as a means of finding a solution," she 
+said. 
+
+George Albee, professor of 
+psychology at the University of Ver- 
+mont, felt that psychology is doing little 
+about the prevention of crime In our 
+society. He says, "Psychology has 
+joined the regressive movement toward 
+self-interest and status." Society Is 
+more interested in protecting Itself than 
+in social revolution, added Albee. 
+
+If the general public had the Illusion 
+that a juvenile delinquent was nothing 
+more than a misguided child In need of 
+protection, it may be in for a real 
+revelation with today's young criminal. 
+
+Gary Gordon, a member of the staff 
+at the Indiana Boys' School, talked 
+about the differences in personalities 
+compared to only a few years ago. "The 
+kids we get now are more blatant about 
+their crime," he said. "It becomes a 
+real show of toughness. In fact, the kids 
+seem to feel it's a status symbol when 
+they appear hard." 
+
+One Fort Wayne policeman thought 
+that handling a street-wise kid who 
+makes a living from crime is like ex- 
+periencing what hell is like. 
+
+
+
+been focused on the victims of juvenile 
+crime. 
+
+One citizen put it this way, "You'd 
+think the way the authorities treated 
+those kids that they were the victims 
+and not the criminals." 
+
+One alternative to looking the youth 
+away in a correctional center is for him 
+or her to work off the damages incurred 
+to their victims through restitution. 
+
+"Restitution has been, and 
+foreseeably always will be, a part of our 
+program here in Allen County," said 
+Judge Bloom. 
+
+"In 1979, we payed back $33,000 — 
+and that comes completely out of the 
+offenders' pockets, not the taxpayers'," 
+
+Bloom said the youths found guilty 
+are given 50 to 90 days in which to pay 
+back the restitution. 
+
+"All this frenzy in opinion against the 
+juvenile delinquent, I feel, Is ignited by 
+some literature filled with revenge 
+trying to stir up public emotion," 
+declared Bloom. 
+
+What then, will become of youth 
+crime Itself? Will we see an increase in 
+the '80s? 
+
+Velt feels this Is a hard question to 
+answer. "I would imagine if there was 
+an Innuendo to what might happen in 
+the future, it would be the increase in 
+young girls coming into the criminal 
+justice system. And it's not just for 
+crime of petty theft or prostitution, but 
+all types of crime — burglary, assault 
+and armed robbery Included." 
+
+"At a recent seminar, I saw statistics 
+showing a 300 to 400 percent Increase in 
+crimes involving girls," Veit said. 
+
+ff you were to ask people on the street 
+why they thought youth crime was 
+increasing, most would be able to 
+deliver their own opinions. But it seems 
+the most common attitude places the 
+blame on society. 
+
+"We've had a complete breakdown in 
+our moral fiber here in America ,'■' 
+Bloom said. "So instead of dealing with 
+pranks as we once did in court, we now 
+deal with juvenile offenses and an 
+entirely new breed of criminal," 
+
+"Parents never seem to know where 
+the hell their kids are," said one police 
+officer. "Every time I'm on patrol late 
+
+
+
+"At a recent seminar, I sow statistics showing 
+a 300 to 400 percent Increase in crimes involving 
+girls," Stan Veit. 
+
+
+
+"It's not unusual for a kid to kick at 
+you and call your mother every name 
+in the book," said the policeman. 
+"You never want to turn your back on 
+them; they might try to lift your gun 
+and turn on you." 
+
+"We get a lot of bold and brash kids 
+before the bench every day," echoes 
+Allen County Juvenile Judge Louis 
+Bloom. "You Just learn to sift the b.s. 
+from the fact." 
+
+Through the years, Bloom has sat In 
+judgment of many youths who have 
+appeared in court before him. For 
+some, he feels, it is easy to predict what 
+kind of crimes they'll do later on in life. 
+
+"I've no doubt some will become 
+murderers," Bloom projected. "But, 
+through the law, we must restrict 
+ourselves to the crimes he or she 
+commits now. Just because the kid is 
+rotten, we cannot totally remove him 
+from society. Remember, that's the 
+price of freedom." 
+
+In recent years, a lot of attention has 
+
+
+
+at night, there's kids on every street 
+corner. And not only 17 and 18-year- 
+olds, but kids under 14 as well." 
+
+"Plus, it's not limited to the city, but 
+it's going on in the rural areas as well," 
+the police officer added. "Every 
+weekend another boy or girl has an all- 
+night party — complete with booze and 
+drugs. It's all because some all-too- 
+trusting parents have left them the 
+house while they are out of town." 
+
+"If we're ever going to put a halt to 
+the increase," asserts Veit, "preven- 
+tion must first start at home. Every 
+child needs unconditional love, 
+security, and most importantly, 
+structure in their home. An attitude on 
+behalf of the parent that you don't 
+necessarily have to be a nice guy is also 
+needed." 
+
+Psychologist Adamsky also em- 
+phasized the importance the role model 
+at home plays. "You must un- 
+derstand," she said. "The child's 
+behavior stays the same only If the 
+people around him stay '.he same." 
+
+
+
+Faculty Senates accept 
+committee's constitution 
+
+
+
+Scott Mertz. alias Paco the Clown, teaches a dunning class In the Continuing 
+Education program at IPFW. He will appear at the Haunted Forest In Franke 
+Park Oct. Z5 and 26. (Photo by Julie Zent) 
+
+
+
+By CHRIS PYLE 
+
+" ... and one government, overall ..." 
+This is the one dream that has been on 
+the minds of the Indiana and Purdue 
+Faculty Senate members of Fort 
+Wayne for some time. 
+
+"The marriage between the Indiana 
+and Purdue faculty looks more like a 
+reality," said Michael Downs, chair- 
+person and associate professor of 
+political science. 
+
+The topic of unity between Indiana's 
+and Purdue's faculty in Fort Wayne has 
+been long in discussion. Barbara 
+Bulmahn, assistant professor of 
+mathematics, said "About five or six 
+years ago, there was a subgroup within 
+the larger that tried to develop the idea 
+into reality, but other conflicts arose. It 
+wasn't the right time. We've come a 
+long way." 
+
+October 16 marks a date of im- 
+portance as the dream comes closer to 
+becoming a reality. The ad hoc Com- 
+mittee of Faculty Governance 
+presented the constitution for ac- 
+ceptance. The constitution was ac- 
+cepted by unanimous vote in both 
+Senates after a couple of minor 
+revisions were made. 
+
+The document is a formal guideline to 
+follow. It defines who can vote 
+(faculty), certification, roles of of- 
+ficers, convocations, assemblies and 
+powers, ft outlines the qualifications of 
+the Senate and provides rules to be 
+abided. 
+
+
+
+Although both faculty senates of 
+IPFW approved the constitution, other 
+steps still must betaken. 
+
+First, the voting faculty members of 
+IPFW must -ratify the constitution by 2- 
+3 vote on both sides. Voting faculty is 
+determined by the old constitution. 
+
+Then, the Indiana Board of Trustees 
+(Bloomington), and the Purdue Board 
+of Trustees (Lafayette), must 
+acknowledge and approve the Con- 
+stitution for existence. 
+
+The construction of the new con- 
+stitution to unify the IPFW faculty was 
+a team effort. Bulmahn was pleased 
+with her committee. "I've never 
+worked with a committee that focused 
+so well," she said. The committee is 
+comprised of members from both 
+faculties. 
+
+Bulmahn further commented, "We 
+knew what we wanted to accomplish. 
+We have shown that we can all work 
+well together." Members of the ad hoc 
+Committee of Faculty Governance are 
+Barbara Bulmahn, chairperson, 
+Michael Downs, Jo Keller, David 
+Onwood and Richard Wall, all faculty 
+members at IPFW. 
+
+If the Indiana and Purdue faculty 
+members ratify the new constitution 
+and the Indiana and Purdue boards of 
+trustees acknowledge the forma! 
+document, chances are, the 
+engagement will end and the long 
+awaited marriage between both 
+governments will become a reality. 
+
+
+
+PAGE2 - THE COMMUNICATOR - OCTOBER 23, 1980 
+
+
+
+OPIUUOJV 
+
+
+
+The Communicator 
+
+
+
+Procrastinators: keep up good work 
+
+
+
+Constitutions approved 
+
+
+
+Two important constilulions affecting 
+students and faculty at IPFW were 
+examined and eventually approved by 
+two different governing bodies on 
+campus last week. 
+
+The combined faculty senates of 
+Indiana and Purdue universities ap- 
+proved a new faculty constitution which 
+would establish a single governing 
+system for those groups last Thursday. 
+This document will be a cornerstone for 
+uniting university functions at IPFW if it 
+is ratified by faculty members this week 
+and later approved by I,U. and Purdue 
+trustees. 
+
+In the past, separate administrations 
+and faculties co-existed on (his campus, 
+but the overlap was eliminated when the 
+administration and business functions, 
+as well as the academic areas, were 
+combined. Nevertheless, the two 
+faculties remained separate, and each 
+senate operated in isolation of the other 
+
+Now, however, should this important 
+document be ratified, Indiana and 
+Purdue will be taking a giant stride 
+toward the blended ideal envisioned for 
+this regional campus. The senate, which 
+is responsible for duties that equally 
+affect students of both I.U. and Purdue 
+— like determining the academic 
+calendar and recommending policies 
+concerning student conduct and 
+
+
+
+discipline, faculty tenure and promotion 
+and admission of students — should 
+naturally function as a blended unit. 
+
+Another significant constitution 
+examined — for the second lime this 
+semester — last week and ultimately 
+ratified, was the Student Body Con- 
+stitution. Although steamed in con- 
+troversy, the passage of this document 
+was importanl because the document 
+affects the IPFW student body in the 
+manner by which it is governed. Even 
+the student senators who were con- 
+cerned about the image the students' 
+might have of the Senate — due to the 
+time taken to approve the constitution 
+and the healed arguments over it — 
+finally agreed it was a necessary, 
+although laborious, task. 
+
+Unfortunately, however, we outside 
+the realm of these governing bodies 
+become more impatient and bored 
+reading about constitutions "as yet" 
+unapproved than the members of the 
+groups. Sometimes, unaware of their 
+Iremenduus undertakings, we assign 
+these groups the undeserved reputation 
+of "not doing anything." 
+
+The combined faculty senates of I.U, 
+and Purdue and the Students' Senate are 
+by no means deserving of that 
+reputation. 
+
+
+
+Last election thoughts 
+
+
+
+It has become increasingly apparent 
+that American voters have viewed the 
+past several presidential elections as 
+choices between lesser evils, rather than 
+undertaking them with a positive at- 
+titude. 
+
+In 1964, we saw the beginning of the 
+trend. With Lyndon Johnson and the then 
+frighteningly conservative Barry 
+Goldwaler leading the way, we em- 
+barked on a series of presidential races 
+that were decided by voters considering 
+which candidate would do the least harm 
+if elected. The only respite was the 
+Democratic primary in 1968, where 
+voters look an active and positive part in 
+the choice being made, only to have that 
+choice invalidated by an assassin. 
+
+With that lone exception, there have 
+been five straight presidential primaries 
+and elections that have been clouded by 
+this negative atmosphere. Is it any 
+wonder that the involvement of youth in 
+politics is at an all time low. 
+
+The present presidential debacle is an 
+excellent example of the choices 
+
+Readers write 
+
+
+
+American voters have been given in the 
+past few presidential elections. 
+
+Politicians are quick to pick up on the 
+moods of the electorate and run their 
+campaigns accordingly. Witness the 
+name calling and mud-slinging 
+characteristic of this year's contest. The 
+emphasis has been that the opposition's 
+candidate is dangerous or incompetent. 
+Bui what is really frightening is that this 
+year the mud-slinging seems to be 
+filtering down to the other races. 
+
+The trend toward "negative politics" 
+is becoming not only more pervasive, 
+but also more blatant. This year the 
+name calling, etc., are not even being 
+lightly disguised. 
+
+How many more years will this 
+situation be allowed to exist? From 
+where will the candidate come who 
+people can look to with the positive 
+feelings with which they looked at a 
+Roosevelt, an Eisenhower, a John 
+Kennedy'' How much longer can the 
+voters, and more importantly, how 
+much longer can the country wait? 
+
+
+
+Reader blasts 'sexist' females 
+
+
+
+To The Editor, 
+
+Concerning Nancy Slick's 
+arlicle of October 9. 1980. I 
+would like lo respond (or 
+retaliate) This is one honest 
+to goodness male who has 
+had it with females such as 
+Ms. Slick who find it difficult 
+to " ..write about men's 
+altitudes about women." but 
+somehow proceed anyway. 
+
+First, when Ms. Slick uses 
+words like '"they" and 
+"them" concerning males 
+who justify rape, she in- 
+cludes (intentionally or not) 
+
+
+
+me. which 1 think is brassy, 
+overbearing, pin-headed, 
+irresponsible and otherwise 
+very female of her. (I can 
+hear her screamin* all the 
+way over here over that last 
+Hem, and indeed it was only 
+included to raise her con- 
+sciousness about 
+generalizations, and does not 
+reflect any actual opinion on 
+my part) 
+
+Second, when talking 
+about those particular 
+women who flaunt what they 
+have (or haven't), she uses 
+the adjective "some." 
+
+
+
+However, when she goes on 
+to admit that not all men 
+, stoop lo lewd comments and 
+the like, she rather grudginly " 
+uses the adjective "some" 
+again. The apparent im- 
+plication here is that MOST 
+women don't flaunt their 
+flesh &lt;I agree) and that 
+MOST men are lewd and 
+crude anyway. After that 
+ridiculous implication, she 
+says "let's be friends." I say 
+"fine," but only after she 
+drops her sexist biases and 
+opens her closed mind. 
+
+Brian Stouder 
+
+
+
+Senator corrects paragraph 
+
+
+
+To the Editor: 
+
+This is regarding the ar- 
+ticle that appeared in The 
+Communicator on Oct. B 
+concerning the Student 
+Senate meeting of Oct. 1 and 
+entitled "Sparks fly at 
+Senate meeting." 
+
+Even though the genera) 
+tone of the article was good, 
+there were several 
+misleading statements 
+reported in the second 
+paragraph 
+
+First, the Constitution 
+Committee ( Bob Griebel and 
+myself) did not "set the 
+spark" that caused the rest 
+of the meeting to be so ex- 
+plosive. The Constitution 
+
+
+
+was not yet-ready for con- 
+sideration Bob and I still 
+had a few items to take care 
+of before we felt we could 
+present the final draft of the 
+Constitution. Further con- 
+frontation was spared by not 
+considering the Constitution 
+The second misleading 
+statement of the paragraph 
+was that Bob and I "pleaded 
+for a one week extension." 
+An extension was not asked 
+for. There was nothing to 
+extend. The document was 
+not ready for consideration. 
+What the committee asked of 
+the Senate was patience. Bob 
+and 1 asked for it, we did not 
+plead. 
+
+
+
+Jell Sandy did move to 
+ratify parts of the Con- 
+stitution, but only those parts 
+the committee was ready to 
+present. However, when the 
+issue was put before the 
+Senate for debate, it was not 
+argued upon. It was 
+debated— granted the debate 
+was spirited and lively— but 
+it was not argument. 
+
+It is a shame that another 
+fine article was clouded by 
+these misleading 
+
+statements. I hope I have 
+clarified them somewhat, 
+
+Steve Wes trick, 
+
+chairperson of 
+
+„ Student Senate 
+
+Constitution Committee 
+
+
+
+The Communicator 
+
+
+
+•■wi 
+
+
+
+ton War'4 Corn?** 
+
+
+
+By NANCY SLICK 
+
+Procrastinators of the 
+world unite! Keep up that 
+stalling. Send Christmas 
+cards in February. Be late. 
+Better yet, don't show up at 
+all! 
+
+There are more 
+
+procrastinators in this world 
+than we may think, bul few 
+people know them because 
+they hardly ever show up. At 
+any rate, procrastination is 
+around us — influencing our 
+lives. 
+
+Most people don't realize 
+the advantages or 
+procrastination. They get so 
+immersed in what they are 
+doing, they forget to put 
+things off. Don't they realize 
+thai the very country we live 
+in was created under the 
+influence of procrastination? 
+
+(Not many people would 
+recognize the name of 
+Herbertio Campbell. Old 
+Bert was the ship's 
+navigator for Christopher 
+Columbus, He was such a 
+procrastinator that when 
+Chris said, "Hey, Herbie, 
+let's go find India," Bert said 
+"Not today, Chris, 1 have to 
+call my mother." Calling 
+one's mother was quite an 
+occasion then, since 
+telephones were still non- 
+existent, and Bert would 
+disappear for months at a 
+time. He procrastinated for 
+so long that he finally died, 
+and poor Chris set out on his 
+own. Fortunately for us, 
+Chris didn't know his way 
+around ) 
+
+
+
+Now, God wasn't a very 
+good procrastinator. Before 
+making light, God fumbled 
+around in die dark for five 
+days when exlra lime could 
+have been used; with 
+procrastination period of 100, 
+even to years, things would 
+be a lot different. 
+
+Instead of being stuck in_ 
+the midwest. Ft. Wayne 
+might have been placed in a 
+nicer spot, say the Bahamas, 
+perhaps. (Of course, Gen. 
+Anthony Wayne would have 
+had a lot of explaining to do 
+about the way he was in the 
+Bahamas instead of in 
+Indiana toppling Indian 
+empires) 
+
+
+
+fan 
+
+
+
+of 
+
+
+
+procrastination is the Bus 
+Company; no bus is expected 
+to be on schedule, and 
+through dedication to 
+tradition, none ever Is. 
+
+Contrary to popular belief, 
+late busses are not a hin- 
+drance. In truth, nothing is 
+more reassuring than a late 
+bus; when you breathlessly 
+run into a lunch date or a 
+business meeting 10 or 15 
+minutes late, it shows how 
+much you thought about 
+being there, And, of course, 
+your companions will praise 
+you for your dedication 
+despite your failing health 
+and sweat-stained clothes. 
+
+Teachers are very fond of 
+procrastination, although to 
+my knowledge no one ever 
+teaches a class on that trait. 
+A teacher will generally 
+arrive to class two and a half 
+
+
+
+to three and a quarter 
+minutes late, proceed to dig 
+through unorganized papers 
+for the day's lesson, and aks, 
+"How are you all today?" 
+(Although he neither expects 
+nor desires an answer). The 
+class is then delayed while 
+the teacher runs back to his 
+office in search of his lost 
+papers. The class, of course, 
+will eventually be let out 
+late. (I personally know of 
+one chemistry class that 
+began in the spring of 1967 
+and is still in progress — 
+although no one has seen the 
+teacher since 1975). 
+
+And while teachers are 
+great procrastinators, the 
+prize for achievement below 
+and before the call-of-duty 
+must go to students when the 
+subject is homework. Every 
+student knows homework 
+was made to be 
+procrastinated about, and 
+here are some of the simple 
+steps taken (o deal with 
+homework ; 
+
+Don't write down the 
+assignment. 
+
+Hide your books under 
+your bed. 
+
+Accidentally break your 
+pencil leads. 
+
+Watch an old movie. 
+
+Promise to do your 
+homework tomorrow. 
+
+Get up late. 
+
+Read Art Buchwald, 
+
+
+
+
+AMONG 
+
+THE 
+LIVING 
+
+By NANCY SLICK 
+
+
+
+Get the mall. 
+
+Feed thecal. 
+
+Dig a fallout shelter in 
+your backyard. 
+
+Swear to do your 
+homeworklomorrow. 
+
+Tell your professor you 
+didn't understand the 
+assignment. 
+
+Success, of course, is nol 
+accomplished merely by 
+following steps; one must 
+adopt the whole essence of 
+procrastination into the 
+heart. 
+
+Procrastination must 
+
+
+
+become a way of life, a 
+reason for living. 
+
+There are a whole host of 
+areas that procrastination 
+has influenced, and I intend 
+to present them very soon. I 
+will present them quite 
+thoroughly along with a 
+pictorial history and prac- 
+tice hints. But Qrst, I have to 
+have lunch, and then I'll do 
+it. No, I have a meeting later 
+and then. ..no, I have to go to 
+the library. 
+
+Well, I'll do it tomorrow... I 
+promise. 
+
+
+
+COMMUNICATOR 
+CLASSIFIEDS 
+
+It 
+
+
+
+50! 
+
+
+
+
+A student-mother defends her 
+college education, mothering 
+
+
+
+By JULIA L. 
+PLATTER 
+
+I may not be speaking just 
+for myself, for I'm sure I'm 
+not the only one trying to 
+raise a child and tackle my 
+college studies at the same 
+time. 
+
+What really disturbs meii 
+some people don't seem to 
+understand what we as 
+young student-mothers are 
+trying to accomplish. 
+
+I was having my usual 
+lunch and study period when 
+two older ladies (at least 10 
+years older than myself) 
+were expressing their point 
+of view about student- 
+mothers, and myself being 
+one, my ears perked up. 
+
+After hearing what they 
+had to say, I had to restrain 
+myself from screaming. 
+
+But to ease their minds, 
+I'm quite sure my one-year- 
+old will not grow up and be 
+an irresponsible criminal by 
+the time I'm out of school. 
+(in two years, hopefully). 
+I'm also quite sure he will 
+know who his mother is. 
+
+I must admit I miss my son 
+quite a bit and 1 really enjoy 
+the times we are together. 
+Who knows, maybe being 
+apart from each other like 
+we are is good for the both of 
+
+I really feel I can offer my 
+child more in the long run 
+when I finish collene. so I 
+
+
+
+don't have any regrets. 
+
+Maybe someday the two 
+older ladies will understand. 
+For now, think about. what 
+you say. Somebody (like me) 
+
+may be listening. 
+
+
+
+RE ELECT 
+
+
+
+
+Richard 
+
+WORDEN 
+
+STATE REPRESENTATIVE DIST. 15 
+
+•State Representative Since 1974 
+•As a Member of Ways and Means 6 yrs. 
+Was able to put in the budget for Dist 15 
+Funding for, 
+
+fUPU Multiple Purpose Bldg. 1977-78 session. 
+IUPU Gymnasium Bldg. 1979-80 Session 
+
+Ivy Tech Bldg. 1979-80 Session 
+Johnny Appleseed Training Bldg. 1979-80 
+
+Session 
+400.000 for Flood Control 1979-80 Session 
+
+YOUR VOTE APPRECIATED 
+
+PAID POLITICAL ADVERTISEMENT 
+
+
+
+PREGNANT? 
+
+IT'S NOT THAT 
+YOU DON'T CARE 
+YOU 1UST DON'T 
+
+KNOW WHERE 
+
+TO TURN! 
+
+FREE PREGNANCY 
+
+TESTING 
+
+PROFESSIONAL 
+
+COUNSELING 
+
+BIRTHLINE 
+422-1818 
+
+
+
+CUSTOMER 
+APPRECIATION DAY 
+
+WE'D LIKE TO THANK ALL OUR GREAT 
+CUSTOMERS FOR THEIR CONTINUED SUPP0RTJ 
+STOP BY TODAY FOR FREE POSTERS ctodayonly) 
+
+
+
+On CBS Records and Tapes 
+
+
+
+ERIC 
+
+
+rn 
+
+
+GALE 
+
+
+\ * ^ ' 
+
+
+TOUCH OF 
+SILK 
+
+
+
+
+including: 
+
+
+
+
+Wrih You I'm 
+
+
+% ... 
+
+
+You Got My Lit o 
+In Your Hands 
+
+
+
+
+UveToLoye 
+
+
+: HI 
+
+
+Once In A Smile 
+
+
+LB 
+
+
+WarPeinl 
+
+
+! 
+
+
+JC 36570 The n 
+master of smooth 
+
+and other jazz ma 
+
+
+w album from the 
+and silken guitar 
+Gale, produced 
+en Toussalnt with 
+s by Arthur Blythe 
+sters. 
+
+
+
+
+HARRY CHAPIN 
+
+Including: 
+Sequel/ 1 Miss America I Story Of A Ule 
+' ei When The Mi 
+
+
+
+BARBRA STREISAND 
+
+
+GUILTY A 
+
+
+featuring: " Vr^M 
+
+
+What Kind \T M 
+Of Fool ' * 
+(Duet with 
+Barry Gibbr 
+
+
+Woman ' 
+In Love 
+
+
+
+5.29 LP 
+
+
+
+THE JACKSONS 
+
+TRIUMPH 
+
+
+
+
+6.29 LP 
+
+
+
+
+6.29 LP 
+
+
+
+ifJtfJ 
+
+
+
+FE 36424 For ; 
+to rock together 
+
+that'll light the w; 
+
+
+
+
+
+
+
+2-R£ CORD SET 
+
+
+
+
+*J 
+
+
+BRUCE 
+
+SPRINGSTEEN 
+THE RIVER 
+
+Inducing: 
+Hungry Heart 
+The River 
+Cadillac Ranch 
+
+
+" ^ 
+
+
+
+
+Sherry Darting 
+
+
+£ 
+
+
+
+
+The Ties That Bind 
+
+
+PC2 36854 "T 
+Springsteen songs 
+the u Hi male Brunt 
+
+
+on Four sides. It's 
+
+
+
+6.29 LP 
+
+
+
+11.95 LP 
+
+Limited Edition Record Company Posters., 
+
+(Albums on sal. thru Nov. 6) Over 300 different kinds! 
+
+
+
+3627 N.Clinton 
+Fort Wayne 
+483-9290 
+
+
+
+
+inside 
+
+
+
+Chief reports thefts 
+
+Permits lifted 
+
+
+
+Several Type A parking 
+permits have been stolen 
+from parked cars at IPFW 
+this semester, said Maurice 
+Shady, chief of University 
+Police and Safety. 
+
+Such a theft, Shady went 
+
+
+
+on to explain, can result In a 
+criminal conversion charge 
+which could result in a $1,000 
+fine and up to one year in 
+jail. 
+
+A person charged with 
+criminal conversion does not 
+
+
+
+Communicator 
+takes fall break 
+
+
+
+Clips" column should be 
+received at The Com- 
+municator office by Oct. 29 
+for publication in the Nov. 7 
+issue. 
+
+
+
+The Communicator will 
+not be published on Oct. 30 
+because of the rail break Oct. 
+30 and 31 . The next issue will 
+be Nov. 7. 
+
+All items for the "News 
+
+RAVEN coordinator to speak 
+
+"Men Against Violence Against Women" is the topic at 
+the Women's Studies Seminar, noon to 1:15p.m., Monday, 
+Nov. 3 in Room 116, Walb Memorial Union! Craig Nor- 
+berg, coordinator of RAVEN (Rape and Violence End 
+Now) of St. Louis, and Hie Johnson, coordinator of Men 
+Against Violence Against Women in Fort Wayne will lead 
+the discussion. 
+
+RAVEN is one of the country's most successful men's 
+organizations working with men who batter, and Men 
+Against Violence Against Women have worked with the 
+Fort Wayne Rape Crisis Center to educate the community 
+about rape. 
+
+Chess club wants members 
+
+The IPFW chess club will meet at 7:30 p.m.. Monday, 
+Oct. 27 in Room 224, Walb Memorial Union. Anyone in- 
+terested in playing chess is welcome. Students who want 
+to play on the chess team, but are unable to attend the 
+meeting, should leave a note for Tom Harris at the 
+Students' Government office, Walb Memorial Union Suite 
+225. 
+
+Black Assembly plans week 
+
+The Black Student Assembly will meet at noon, Mon- 
+day, Oct. 27 in Room 110 of the Walb Memorial Union. The 
+meeting will include committee organization and plan- 
+ning for Black History Week. 
+
+Eckankar group sets lecture 
+
+An Eckankar lectur entitled "Your Right to Know" will 
+be from noon to 1:30 p.m. Monday, Nov. 3, in Walb 
+Memorial Union. Room 222. Dave Daniels, area Eckankar 
+representative in Fort Wayne, will be the featured 
+speaker. 
+
+Forensic League calls meeting 
+
+The IPFW Forensic League will meet at noon, Monday, 
+Oct. 27 in Neff 380. Speeches and readings will be 
+presented following the business meeting. Anyone in- 
+terested in communications is invited. 
+
+
+
+PRATT, RICHARDS &amp; RUTTS 
+
+Attorneys at Law 
+456-3487 
+
+James S. Butts 116 W. Rudisill 
+
+Karen E. Richards Suite 201 
+
+Charles F. Pratt (near corner of 
+
+Calhoun and Rudisill) 
+
+Weekdays 8 a.m. -6 p.m. 
+
+Other hours by appointment 
+
+Initial Consultation provided at No Charge to Client. 
+
+
+
+From Shakespeare to Spock... 
+WALDEN'S got it in stock. 
+
+'Classics 
+
+i t=J "Bargain Books 
+
+— f \ \H " c|iff N ° tes 
+
+LjV Li- -I 1 UCH -Special Orders 
+
+WALDENBOOKS 
+
+6055 Stellhorn Hd. at Maplecreit 
+
+Northwood Shopping Center 406-33 
+
+
+
+SUBOG- 
+
+SIGMA PHI 
+
+EPSILON 
+
+Halloween-Costume 
+Party 
+
+Thursday, Oct. 30, 1980 
+at 
+
+
+
+St. Joe Township Fireman's Hall 
+(corner of St. Joe Center Road 
+and Maplecrest) 8:30 p.m. Activity 
+card holders free. All others $2.50. 
+Music by Cactus Jack. Prizes given 
+for best costume. 
+
+
+
+have to be the person who 
+stole the permit. Anyone who 
+has purchased a stolen 
+permit also falls under the 
+law. 
+
+Last year only 15 Type A 
+and B permits were stolen 
+throughout the entire year. 
+Already this semester, nine 
+Type A permits have been 
+reported stolen. 
+
+So far only three permits 
+have been recovered by the 
+campus police. One criminal 
+conversion charge has been 
+filed, and the other two are 
+still pending. 
+
+Also reported stolen, on 
+
+
+
+Oct. 14, a 1975 blue Honda . - w „ ~ 
+motorcycle from the A lot in ° I i N .~ Y . GRAMS. 
+front of Kettler Hail. The Delivered by Steve 
+
+owner, Fred F Jehle Bncker. 485-5121. Leave 
+
+assistant professor of namejnd number.^ 
+
+Spanish, estimated the value wprnirn t . 
+of the cycle at SW0 NEEDED: Interested 
+
+persons to attend the 
+University Gay 
+
+Activites meeting next 
+Monday at noon. Walb 
+Union room no. 
+
+JOHN ANDERSON 1 
+
+caricature buttons - READ YQVR co 
+united edition coUec- M ijNICATOR CLASS- 
+
+tors item. $2.00 each. , FIED ADS «£ 
+
+Available at Indepen- m re(J ^ 
+
+dent headquarters 1010 the Umv £ u Gfl J 
+
+Broadway, or call 423- Activists. 
+
+
+
+OCTOBER 23, 1980 - THE COMMUNICATOR - PAGE 3 
+
+
+
+CLASSIFIEDS 
+
+
+
+MART UI OLAEELT 
+CO-EDITOR OP 
+
+
+
+
+FEMINIST HUMOR &amp; SATIRE 
+
+
+
+Edited by 
+
+GLORIA KAUFMAN AND 
+
+MARY KAY BIAKELY 
+
+
+
+
+WORLD FAMOUS 
+
+
+
+"&lt;&amp;?*e? '&lt;* ;zw ' 
+
+
+
+DANCERS-POOL 
+BEER-WINE 
+
+
+
+936 &amp;Uutxt»* ©W. %»tdi 
+Kmart Plaza East 
+
+
+
+424-9639 
+
+
+
+1 MILE NORTH of INTERNATIONAL 
+HARVESTER-NEXT TO MOTEL 6 
+
+
+
+lhOOo.m. thru 3:00 o.r 
+
+
+
+campus 
+calendar 
+
+
+
+THURSDAY 23 
+
+PIT: "What the Butler Saw," 8 p.m. 
+
+Women's Volleyball: IPFW at Defiance, 
+
+Bowling Green, 7 p.m. 
+Inter-Varsity Christian Fellowship: 
+
+12 Noon, Walb 117 
+
+FRIDAY 24 
+
+Last day to withdraw from classes 
+PIT: "What the Butler Saw" 8 p.m. 
+SUBOG movie: "The Black Hole," 
+
+7 &amp; 10 p.m. Ballroom 
+
+SATURDAY 25 
+
+Paul Makara, Guest Violinist, Neff 101, 
+
+8 p.m. 
+
+PIT: "What the Butler Saw," 8 p.m. 
+SUBOG movie: "The Black Hole," 
+
+7 &amp; 10 p.m. Ballroom 
+Women's Volleyball: IPFW at Taylor, 
+
+10 a.m. 
+Soccer: IPFW at University of Michigan, 
+
+7:30 p.m. 
+
+
+
+Monday 27 
+
+University-Community Orchestra, Neff 101, 8 p.m. 
+
+Inter-Varsity Christian Fellowship: Noon, Neff 147 
+
+TUESDAY 28 
+
+Soc/Anthro Forum: "Art &amp; Social Science: 
+
+Black Music in the Americas," 12 Noon, 
+
+Walb 114 
+Women's Volleyball: IPFW at Tri-State, 5 p.m. 
+
+WEDNESDAY 29 
+
+Halloween costume dance, Meyer's Barn 
+on Parent Road, 6:30 
+
+THURSDAY 30 
+
+Women's Volleyball: IPFW at St. Francis, 
+
+6:30 p.m. 
+SUB0T &amp; Sigma Phi Epsilon Halloween 
+
+costume dance, St. Joe Township 
+
+Fireman's hall, 8:30 
+
+Classes suspended October 30 &amp; 31 
+
+
+
+FALL RECRUITING CALENDAR 
+
+
+
+
+
+
+FRIDAY 24 
+
+
+Metropolitan Life Insurance 
+
+
+WEDNESDAY 29 
+
+
+IRS 
+
+
+Arthur Young Co. 
+
+
+Central Soya 
+
+
+IBM 
+
+
+
+
+Johnny Appleseed Training Center 
+
+
+Square D 
+
+
+TUESDAY 28 
+
+
+U.S. Navy 
+
+
+MONDAY 27 
+
+
+John Hancock Life Insurance 
+
+
+THURSDAY 30 
+
+
+Lazarus 
+
+
+Coopers &amp; Lybrand 
+
+
+North American Van Lines 
+
+
+
+
+Upjohn 
+
+
+Valtec 
+
+Commonweath Insurance Co. 
+
+
+
+Campus Calendar It iponiorod by Indiana University. Purdue University al Fori Wayne for Iho uie 
+
+of all university dapar imonii and orgonliottont. Items to be Included In the Campus Calendar mult 
+
+be lubmlitod to the Offlto of University Relattom. Rm 102, Kettler Half by 5 p.m. on the Thurtday 
+
+preceding the week of publication. 
+
+
+
+
+
+
+PAGE 4- THE CUMMUNICATuK — OCTOBER 23. 1980 
+
+
+
+
+Charities benefit 
+
+
+
+plcnllv medodra motlc way In a scene from 
+ids College. &lt; Photo b&gt; Holrlrn Maecker.) 
+
+
+
+By TIMOTHY J. 
+ROSS 
+
+II all began with a phone 
+call. 
+
+II was my day off and 1 
+was wishing for something lo 
+do. The phone rang and I 
+eagerly answered it. I was 
+informed that I was lo meet 
+wilh a gentleman in a few 
+hours. 
+
+Hoping for some ex- 
+citement, I drove to the 
+meeting place, an ugly green 
+shack shrouded in clouds. I 
+almost left when a creature 
+waving a machete emerged 
+from the dismal building and 
+started towards me. 
+
+I began to wonder when 
+my nightmare would end 
+when I noticed the sign thai 
+read, "New Haven Jaycee 
+and Jayteen House of 
+Terror." 
+
+I regained my grasp on 
+reality and realized that I 
+was at one of the many 
+haunted houses that spring 
+up near Halloween. Each 
+October, these houses open 
+
+
+
+all over the Fort Wayne 
+area, offering benefits to the 
+community and various 
+charities. 
+
+This year, the group hopes 
+to make near $6300.00, most 
+of which will go to the 
+muscular dystrophy foun- 
+dation. Part of the money 
+will also be used for com- 
+munity projects that the 
+Jaycees hold each year. 
+
+The little fire-scarred 
+building with cardboard 
+walls adds an exciting 
+alternative to another 
+problem — what to do on a 
+boring evening. Young and 
+old alike can enjoy being 
+horrified by blood-thirsty 
+vampires or a seven-fool- 
+two-inch green monster. 
+
+Darrel, who playB the part 
+of Frankenstein, is 
+responsible lor all the 
+electrical wiring in the 
+house. He volunteered to 
+play the part at the in- 
+sistence of Mike Pratt, a co- 
+chairman of the project 
+"Walking around on 10 in- 
+
+
+
+ches of two-by-four is not 
+easy, but it is my one chance 
+a year to help a charity," he 
+said. 
+
+Although the house will be 
+open three weeks (Oct. 10 to 
+Oct. 31 1, volunteers have 
+been working since August 
+lo get the building ready. 
+Many of Ihe rooms were 
+decorated by members of 
+the community. According 
+lo Pratt, anyone age 16 and 
+up could have planned a 
+room. 
+
+The House of Terror, now 
+in its fifth season, is on 
+Green Street in New Haven 
+It is open from 7:00 to 11:00 
+p.m. nightly. There is a 
+donation fee of Jl. 50. 
+
+The March of Dimes will 
+be opening its fourth annual 
+haunted house. The haunted 
+house is at Jefferson and 
+Ewing. It is scheduled to 
+open on Oct. 17, at S:00p.m. 
+
+The Haunted Forest will 
+be at Franke Park also. 
+
+
+
+
+Melodrama offers fun 
+
+
+
+BySUESNODGRASS 
+The Saint Francis 
+production of "Dirly Works 
+at the Crossroads" is a 
+melodrama that first ap- 
+pears corny, but later seems 
+lo offer untimely humor and 
+plain fun. 
+
+As In any melodrama, 
+"Crossroads" primes the 
+audience beforehand to boo 
+and hiss at the villains and to 
+Cheer for the heroes, and 
+relies on this audience 
+participation throughout the 
+remainder of the per- 
+formance. 
+
+The story is simple and 
+sweet to the point that il is 
+almost sticky It is a simple 
+love story involving a hero 
+and heroine and a villain and 
+villainess. The lovers, Nellie 
+Lovelace and Adam 
+Oakharl, are childhood 
+sweethearts whose wedding 
+is Interrupted by the evil 
+deeds and brewings of ihe 
+daslurdly Munro Murg- 
+atroyd. 
+
+Teresa Paetz and Erik 
+Henry' offer perhaps the besl 
+performances in their 
+portrayal of the lovers, 
+Nellie and Adam. One can'l 
+help but smile when Nellie 
+enters the scene. 
+
+Susan Horlne and Rick 
+
+
+
+Gmbb compliment the story, 
+as Horlne portrays the 
+conniving yet deep Ida 
+Rhine go Id and Grubb plays 
+the lovable and rustic 
+country bumpkin, Mookie 
+
+
+
+Perhaps Ihe least im- 
+pressive of all the per- 
+formers was Stan Holloway, 
+who depicted Ihe evil 
+scoundrel Munro Murg- 
+atroyd. Holloway por- 
+trayed Murgatroyd as a 
+villain, but as one of the most 
+important characters, he 
+failed lo convince the 
+audience just how vile and 
+pernicious he was. 
+
+The performers' 
+
+exaggerated gestures and 
+archaic humor preface such 
+familiar and memorable 
+lines as, "O' woe! O' 
+despair! Shall I ever sec my 
+beloved Adam again." 
+
+"Crossroads" teems wilh 
+such slapstick comedy and, 
+yes folks, it even includes a 
+scene where Murgotroyd 
+lies our hero, Adam 
+Oakharl, lo the railroad 
+tracks as Ihe 9:00 B&amp;B is 
+heard roaring in the 
+distance; the entire bedlam 
+is reminiscent of an old 
+Dudley Dorighl cartoon. 
+
+Even though "Cross- 
+
+
+
+roads" isn'l a musical, it is 
+interspersed with an 
+assembly ol voices in lune to 
+Ihe "tinkling of ivories," 
+adding humor and com- 
+plimenting the already 
+hilarious troupe. 
+
+As Ihe villains, Ida 
+Rhinegold and Murgatroyd, 
+enter, the pianist breaks inlo 
+a timely rendition imitating 
+the theme once heard every 
+Friday nighl at the 
+beginning of Dragnet In one 
+scene, where the broken- 
+hearted Nellie is con- 
+templating running off lo 
+Chicago with Murgatroyd, 
+jusl at the heighlh of the 
+scene's intense emo- 
+tionalism, the choir 
+interrupis the suspense by 
+crooning "Dark town 
+Strutter's Ball." This kind of 
+frivolous musical fun is 
+heard throughout the play. 
+
+Although "Crossroads" 
+may seem sappy and trite, it 
+offers indispensable humor 
+and good clean fun. Once 
+some of the commonplace 
+mistakes of opening night 
+Jillers are cured, 
+"Crossroads" will leave the 
+audience feeling as Nellie 
+Lovelace did when she and 
+Adam were reunited, "0' 
+joy. 0' rapture. Now we can 
+all live happily ever after." 
+
+
+
+Woody experiments 
+
+
+
+By MIKEGEFFEN 
+
+"Stardust Memories" 
+Is Woody Allen's most 
+experimental, and, in 
+many ways, most daring 
+film lo date. Allen clearly 
+sees himself at a 
+crossroad in his career, 
+and the confused nature 
+of the film indicates he 
+doesn'l know where to 
+turn. 
+
+"Memories" is a 
+strident barb at his critics 
+and a plea to his fans for 
+tolerance, In it, Alien 
+seems to be stating that 
+he needs a little breathing 
+space. 
+
+He doesn't know 
+whether he wants lo make 
+comedies or dramatic 
+films, and he needs some 
+lime to sort things out 
+
+In a Time magazine 
+interview given when 
+"Interiors" was released, 
+Allen stated that he would 
+like to allernate between 
+serious films and 
+comedies. He is angry at 
+his critics and fans for not 
+giving him a chance to 
+grow "Memories" is 
+Allen's way of working 
+out this anger and in- 
+decision. 
+
+The battle .between the 
+light and dark sides of 
+Allen is distinctly set up 
+in the film's first s 
+
+
+
+this scene, filmmaker 
+Sandy Bates (Allen) is 
+sitting on a train. The 
+mood is bleak, and the 
+train is full of grim people 
+with grotesque faces. 
+This train can be seen as 
+the somber side of Allen 
+that was seen in 
+"Interiors." 
+
+Bates looks out the 
+window and sees another 
+train. This train is filled 
+with happy people. A 
+beautiful woman looks al 
+him and smiles. This 
+train can be seen as 
+Allen's lighter side, the 
+pari of him thai wants to 
+make funny movies. This 
+is the pari of him that 
+made "Sleeper," "Love 
+and Death" and "Annie 
+Hall." The trains are 
+going in different 
+directions, and the film is 
+pulled apart. 
+
+The film does not 
+totally succeed because 
+Allen fails to provide a 
+link between thetwo sides 
+of "Memories." 
+
+It is when Allen gets 
+serious about the Bates' 
+character that 
+
+"Memories" begins to 
+break down. When he 
+deals with Bates' 
+relationship with women, 
+Bates' fear thai his work 
+does not have lasting 
+
+
+
+value, and his childhood, 
+Allen does not know what 
+he is trying to say. These 
+scenes are chaotic, 
+darkly lit, and the cause 
+of the film's confused 
+tone. 
+
+He is confused, and 
+can't figure out how to 
+fuse together the serious 
+and funny sides of him- 
+self. He can make funny 
+films that are serious, or 
+dramas with a tinge of 
+comedy, but he doesn't 
+know how to balance the 
+two. Allen does not have a 
+connection between the 
+two halves of 
+
+"Memories" because he 
+cannot reconcile the two 
+sides of himself 
+
+The film can be seen as 
+an experiment in which 
+Allen is trying to deal 
+with his frustration. In a 
+poignanl scene that points 
+out his frustration, Allen 
+is standing in an 
+auditorium looking back 
+at a movie screen. He 
+seems to be asking, 
+"What do you want?" 
+
+Throughout "Stardust 
+Memories," that is the 
+question Allen seems to 
+be asking his critic, his 
+fans and himself. In the 
+final analysis, maybe 
+that's all he wanted to 
+
+
+
+ask 
+
+
+
+This rrightenlng figure Is pari of the Jaycec's "House of 
+Terror" in New Haven. (Pholo by Tir iothy Ross.) 
+
+arts 
+at a 
+&lt;T r glance 
+
+Treading the boards 
+
+There will be three more shows, Ocl. 23-25, in the PIT 
+production of "What The Butler Saw." . , . Arena 
+Theatre's production of "Of Thee I sing" will end this 
+weekend, Oct. 24 and 25. . . . "A Raisin In the Sun" will 
+open next weekend, Oct. 31, al the Fort Wayne Civic 
+Theatre 
+
+On the silver screen 
+
+The SUBOG film for Oct. 24 and 24 will be Disney's "The 
+Black Hole " Next week, Oct. 31 and Nov 1, the film will 
+be "Sisters " Both films will be show in the Walb 
+Memorial Union Ballroom at 7 and 10 p.m. . . . The 
+Cinema Center film, Oct. IS, will be "The Haunting," 
+shown at 7:30 and 9:30 p.m. at the Fort Wayne Public 
+Library . The film, Nov. 1, will be "La Cage aux Folles." 
+
+The social whirl 
+
+SUBOG is sponsoring a Costume Dance, featuring 
+
+music by Cactus, on Thursday, Oct. 30. For more in- 
+formation, contact SUBOG in room 225, Walb Memorial 
+Union. . . .DGTS is sponsoring a Halloween Hayride at the 
+Meyer Barn, 6:30 p.m., Oct. 29. There will be food, 
+refreshments, a bonfire and door prizes for the best 
+costume. The party is free for activity card holders and 
+$1.50 for others. . . . The Students of Fine Arts will be 
+having a Halloween Party, Nov. 1, at 8 p.m.. featuring 
+dancing, beer and munchies, in the St. Mary's Church 
+basement at the corner of Lafayette and Jefferson. 
+Admission will be $2with costume and $3 without. 
+
+Exhibit and sale 
+
+The Department of Fine Arts will be holding the second 
+annual Weslland Mall Exhibition, Oct 23-25, from 10 a.m. 
+to 9 p.m. daily. The exhibition will include demonstrations 
+of and works for sale in painting, drawing, weaving, 
+sculpture, ceramics, printmaking, and other media. 
+There will be an opening reception, Oct. 22, from 7 to 9 
+p.m. 
+
+Concerts of note 
+
+The IPFW Community Symphony Orchestra will 
+perform Monday, Oct. 27, at 8 p.m. in Neff 101. Admission 
+is Si for adults and free for students. 
+
+
+
+INVITES YOU TO SHARE SA VINOS 
+
+AND GOOD TASTE BY USING THESE COUPONS 
+
+AT OUR EAT-IN/CARRY-OUT STOKES 
+
+
+
+State al Hobson 301 E. Rudisill Hessen Cassel at McKinnie 
+
+
+
+BUY A 3 PIECE 
+
+CHICKEN DINNER 
+
+AT REGULAR PRICE 
+
+GET 2ND DINNER 
+
+FOR HALF PRICE 
+
+SAVE SI .24 
+
+til. Coupon Expire, Nov 15. 19E 
+
+
+
+THRIFT BOX 
+
+(One Whole Chicken! 
+
+REGULAR S5.29 
+
+FOR ONLY $3.99 
+
+SAVE S1.30 
+
+
+
+I 
+
+I Wit 
+
+
+
+FREE 
+GOOD FOR ONE 
+
+MEDIUM SOFT DRINK 
+
+WITH PURCHASE OF 
+
+DELICIOUS 
+
+CHICKEN FILET SANDWICH 
+
+
+
+FREE 
+
+8 CORN ON THE COB 
+
+WITH PURCHASE OF 
+
+15 PC. BUCKET 
+
+S2.32 VALUE 
+
+
+
+INSTANT COPY 
+
+
+
+mmMmmmm JUST A MINUTE AWAY 
+
+
+
+®\MTE£ 
+
+
+
+We will print 
+
+500 copies 
+
+in 10 minutes 
+
+or less or 
+
+II s FREE 
+
+
+
+J 
+
+
+
+3420 
+
+NORTH ANTHONY 
+
+482-1126 
+
+
+
+IN THE NORTH ANTHONY 
+
+SHOPPING CENTER 
+
+DOWNTOWN INTERSTATE INDUSTRIAL PARK 
+
+232 W. WAYNE 1516 DIRECTORS ROW 
+
+4221585 484-9116 
+
+COMPLETE PRINTING SERVICES 
+
+
+
+WE WANT TO BE YOUR PRINTER 
+
+
+
+
+'The Boss 9 is back 
+
+
+
+By MICHELE 
+DeVINNEY 
+
+Just when it seems that 
+Bruce Springsteen has 
+reached near perfection, he 
+releases a new album that 
+exceeds even his usual 
+standard of excellence. 
+
+"The River," a hand- 
+somely packaged two-record 
+set, is easily as good as— if 
+not better than— his 1976 
+album "Darkness on the 
+Edge of Town," and he of- 
+fers 20 new songs, including 
+the title cut performed in the 
+"No Nukes" film. 
+
+While his music is cer- 
+tainly good, it's the lyrics 
+that really distinguish these 
+songs. The words are so well- 
+chosen they almost read like 
+poetry. 
+
+The concepts on "The 
+River" are familiar to those 
+who've heard his earlier 
+albums. Springsteen con- 
+tinues to deal with universal 
+human experiences rather 
+than loftily complaining 
+about life on the road or 
+about the woes of being rich 
+
+
+
+and famous. 
+
+"Independence Day" 
+chronicles the bittersweet 
+relationship between him 
+and his father. 
+
+The clash is apparent in 
+lines like "There was just no 
+way this housecould hold the 
+two of us," and "Nothing we 
+can say is going to change 
+anything now." 
+
+What sets Springsteen 
+apart from other rebels is his 
+sensitivity to his father, and 
+the attitudes are less biting 
+than poignant. Despite the 
+admitted differences, he 
+displays genuine warmth 
+when he says "They ain't 
+gonna do to me what I 
+watched them to do you" and 
+concedes "I guess we were 
+just too much of the same 
+kind." 
+
+The most prevalent sub- 
+ject throughout the LP is 
+marriage. 
+
+But Springsteen deals with 
+it on a wide variety of levels. 
+On "I Wanna Marry You," 
+his approach is realistic 
+("They say in the end true 
+
+
+
+love prevails, but in the end 
+true love can't be no 
+fairytale"), yet hopeful ("To 
+say I'll make your dreams 
+come true would be wrong, 
+but maybe I could help them 
+along") and romantic ("I 
+wear my love without 
+shame— I'd be proud if you 
+would wear my name" ) . 
+
+The title song contrasts 
+that optimism with regret 
+and cynicism. The couple 
+portrayed in "The River" 
+marry at 19 as the result of 
+her pregnancy, and they're 
+followed through a cold, 
+practical wedding, shattered 
+dreams and acquired in- 
+difference. To parallel their 
+story, even the river, once 
+the site of their young and 
+carefree love, has fried and 
+eroded. 
+
+
+
+
+GRINGO'S MEXICAN- 
+AMERICAN FOOD 
+
+* LUNCH SPECIALS 
+
+
+
+UNDER 
+
+
+
+$000 
+
+
+
+CARBt-OUT ' 
+
+SERVICE \ * FAST SERVICE »EAT 
+AVAILABLE J BETWEEN YOUR CLASSES 
+
+•SERVING LUNCH UNTIL 5 P.M. 
+
+
+
+OPEN 1 1 :00 AM-MIDNIGHT MON-SAT 
+4:00 PM-10 PM SUN. 
+
+5629 ST. JOE RD. 
+
+
+
+485-5736 
+
+
+
+
+Educational Cent* r 
+
+
+
+2511 E. 46th St., NO. C5 
+Indianapolis, hid 46205 
+(317) 546-8336 
+
+
+
+r-l.'.M'il^f U'.IRTTMTn 
+
+
+
+L WflfftfStfffffW m 2 Yeai Anniversarj 
+
+
+
+[ENTERTAINMENT GIFT BOOKS ogSgiejygw/| 
+
+
+
+j.'H.-^*^i."N;. r.t,;i^.'.-i4.-t 
+
+■D(*lFEATUB[S-Sl.SOflRSTWATIN[f SHOWING ONIY ] 
+
+
+
+
+'CHRISTOPHER REEVE -JANE SEYMOUR 
+
+SOMEWHERE IN TIME 
+
+
+
+: 30-3: 30-5 : 30-7: 30-9: 30 
+
+
+
+Terror Train 
+
+l 1:45-3:45-5:45-7:45-9:45 . [Rl 
+
+
+
+Caddyshack 
+
+
+
+
+'LOVING COUPLES" 
+
+1:45-3:45-5:45-7:45-9:45 H3H 
+
+
+
+"FIRST DEADLY SIN' 
+
+
+
+1:40-3:45-5:45-7150-10:00 
+
+
+
+IR 
+
+
+
+I And lo, there was another movie. 
+
+©OH.GODIBOOKII 
+
+
+
+GOLDIE PRIVATE 
+HAWN as R|&lt; N.IAMIN 
+
+f Mon-Fri. 7:-i5-9:S0 Sat &amp;Sun. 1: 3(1-3: 35-5:40-7:45-9:50 — , 
+
+
+
+"IT'S MY TURN" 
+
+Mon.-Fri. 7:30-9:30 
+
+Sat.&amp;Sun 1:30-3:30-5:30-7:30-9-30 
+
+
+
+Probably his greatest 
+improvement is his singing. 
+On previous albums, the 
+lyric sheets were a bare 
+necessity to understand most 
+of what was sung. Here it's 
+merely a luxury since 
+Springsteen has overcome 
+his muddled slurring, and he 
+prominently displays his 
+well-structured epics. 
+
+The E Street Band should 
+not be ignored. In the studio 
+and onstage, they're the best 
+band in the country today. 
+After more than five years 
+together, they've developed 
+a thight, cohesive sound. 
+
+For those who've 
+anxiously looked for 
+Springsteen's latest album to 
+surface, your day has 
+come — and he's made it 
+worth your wait. 
+
+
+
+
+OCTOBER23, 1980 — THE COMMUNICATOR — PAGE 5 
+
+ECKANKAR 
+
+Presents 
+
+YOUR RIGHT TO KNOW 
+
+An introductory lecture 
+
+based on Sri Darwin Gross' book 
+
+i iv the same title. 
+
+Monday. November 3/ 12:30 P.M. 
+
+Room 222 / Student Union Building 
+
+Free copies of 
+
+YOUR RIGHT TO KNOW 
+
+at lecture. 
+For further information call 422- 1 023. 
+
+
+
+Blues artist B.B. ( Blues Boy) King and his guitar Lucille 
+won a standing ovation from a crowd of 2000 at (he Scot- 
+tish Rite Auditorium last Saturday, (photo bv Larry 
+McFadden.) 
+
+
+
+5 SUB0G PRESENTS: S 
+
+
+
+THE 
+
+BLACK 
+
+HOLE 
+
+Fri. &amp; Sat. 
+Oct. 24 &amp; 25 
+7 &amp; 10 p.m. 
+
+Free to activity card holders. 
+
+All others $1.50 
+
+
+
+SrVALB UNION BALLROOM ^ 
+
+
+
+
+"Purveyors Of Fine Coffees 8. Teas" 
+
+The Blue Mountain has 
+
+moved next door to a new 
+
+and larger location with 
+
+the same fine imported 
+
+beers and wines. 
+
+We also offer a large selection 
+
+of meat and 
+
+vegetarian sandwiches. 
+
+Try our new, deluxe nachos. 
+
+Live entertainment Thursday, 
+
+Friday and Saturday nights. 
+
+
+
+: M-Th. lOa.n 
+.-Sot. 10 a.n 
+
+
+
+■12 Midnight 
+
+
+
+
+51 
+^1 
+
+52% off 
+
+
+
+COUPON 
+
+OUR BIG DISCOUNT ON 
+
+J.V.C.,SANSUI,0NKY0 
+
+&amp;AKAI RECEIVERS. 
+
+AN EXTRA DISCOUNT 
+FOR BRINGING THIS COUPON. 
+
+
+
+ONLY WITH COUPON 
+
+
+
+FRIDAY 
+OCT. 23 
+11-8 
+
+
+
+SATURDAY 
+
+OCT. 24 
+
+106 
+
+
+
+SUNDAY 
+
+OCT. 25 
+
+1-5 
+
+
+
+ONSANSUIJ.V.C&amp;AKAI 
+AND 0NKY0 STEREO RECEIVERS 
+
+17 WATTS TO 160 WATTS PER CHANNEL 
+9 MODELS TO CHOOSE FROM. 
+
+"YOU MUST BRING THE 
+ABOVE COUPON TO GET THE EXTRA 1% OFF" 
+
+
+
+IP^ 
+
+
+
+X 
+
+
+
+♦ POOL 
+
+
+
+• SANDWICHES 
+* TRY OUR CARRY-OUT 
+
+* pizza ».-. iv ;t,: 
+
+
+
+Dancing Daily 
+
+
+
+r-club 
+
+
+
+(§ 
+
+
+
+Fort Wayne 
+
+3 FILM GUIDE 
+
+
+
+HOLIDAY 
+
+
+
+
+
+ft PARAMOUNT PICTURE 
+
+
+
+s 
+
+
+
+HELD OVER' 
+
+CEORCE BURNS 
+
+OH,GOD! 
+&gt;3 BOOK II m 
+
+
+
+GEORGETOWN 
+
+
+
+NOW-EXCLUSIVE 
+
+
+
+EbfflflNT : 
+
+A PARAMOUNT PICTURE 
+
+
+
+
+IXJVINfi 
+
+(.••adulter,," COUPLES 
+
+
+
+» tin i it makes them 
+net like children? 
+
+
+
+|PG| 
+
+
+
+m. 
+
+
+
+QUIMBY VILLAGE 
+
+
+
+rntLU UVtn* 
+
+
+
+GOLDIE HAWN 
+
+PRIVATE o 
+BENJAMIN LP 
+
+
+
+
+Mb 
+
+
+
+ENDS TUES., OCT. 28th 
+the man they pushed too far. 
+
+THE 11 
+S , EXTERMINATOR 
+
+
+
+GATEWAY ,?"?" 
+
+
+
+held EXCLUSIVE ^ 
+
+
+
+BURT REYNOLDS I 
+JACKIE GLEASON 
+
+
+
+f anvruE 04&lt;w«r Ml-j 
+
+
+
+NEW EXCLUSIVE 
+
+"MOTEL HELL" » 
+
+RORY CALHOUN 
+
+
+
+Frank Faye hr] 
+
+Sinatra Dunaway 
+THE FIRST DEADLY SIN 
+
+
+
+CINEMA 27 T 
+
+
+
+-N0W- 
+J1LL MICHAEL 
+
+CLAYBURGH DOUGLAS 
+
+ItsNVxTuiiv a 
+
+
+
+PAGE 6- THE COMMUNICATOR - OCTOBER 23. 1980 
+
+
+
+Tuskers win 2; 
+fall to Findlay 
+
+
+
+By JIM CHAPMAN 
+
+The men's varsity soccer 
+learn stayed one game over 
+.500 for the season as it won 
+two and lost one in last 
+week's action. 
+
+The Tuskers defeated 
+
+
+
+Manchester 5-1 on the IPFW 
+athletic field and then fell to 
+Findlay College by a 4-3 
+score. On Saturday, the 
+kickers traveled to Marion to 
+win, 3-1. 
+
+The Manchester gome 
+produced balanced team 
+
+
+
+scoring for the Tusker squad 
+as five different players 
+scored against the Spartans. 
+Jim Sharpe, Tom Johnson, 
+Mark Lolhamer, Dave 
+Husar and Mark Cartequx 
+all registered tallies for 
+IPFW. 
+
+
+
+Netters finish 1-4 
+
+
+
+ByNICKSTANGER 
+The IPFW women's iennls 
+team finished Its season Oct. 
+7 in a match against Man- 
+chester College, which it 
+lost, 2-7. The season total 
+stands at one win, four 
+losses. The sole win was over 
+Goshen College on Sept 17 
+by a score of 6-3. 
+
+The IPFW team played 
+well against Manchester, but 
+many players seemed to fall 
+just short of a win. Cindy 
+Kiser. Carey Shif/erly, 
+
+
+
+Phyllis Meredith, Mary Lou 
+Pease and Becky Bryan ail 
+competed well but barely 
+lost in their singles matches. 
+
+Dede Rippetoe won her 
+singles match 6-3 and 7-5; 
+Jenny Dryer won her 
+exhibition match 6-1, 6-1. The 
+doubles team of Kiser and 
+Shlfferly won 10-7. 
+
+Coach Ben Becker is In the 
+process of preparing a 10 
+match schedule for next 
+year, including three mat- 
+ches at IPFW. If possible, he 
+
+
+
+will try to get the team out 
+for drills and competition 
+during the summer This 
+would be In July at the 
+earliest, after physicaJ exam 
+and eligibility forms are 
+completed. 
+
+Although the number Is 
+undetermined, Becker ex- 
+pects some of this year's 
+varsity players to return, He 
+still encourages anyone who 
+would be Interested in 
+playing next year to contact 
+him, 
+
+
+
+The Tuskers also 
+displayed some aggresive 
+defense as they outshot their 
+guests, 39-9. 
+
+On Thursday, the Tuskers 
+hosted Findlay College in the 
+first meeting between the 
+two schools. IPFW came 
+from behind several limes to 
+tie the score but could never 
+gel the go-ahead goal. 
+
+Findlay scored all of their 
+four goals in breakaways. 
+
+"We were disappointed," 
+said IPFW coach Ed 
+Stefankiewicz, "because we 
+outplayed them in every 
+aspect except the score." 
+Indicative of this was the 
+fact that IPFW outshot 
+Findlay, 39-5. 
+
+Johnson scored twice and 
+Sharpe once for the Tuskers. 
+The road trip to Marion 
+proved successful for the 
+Tuskers and Sharpe, in 
+particular, as he scored all 
+three of the team's goals. 
+
+IPFW dominated the 
+game, but the second half 
+
+
+
+produced some very 
+physical play from the 
+frustrated Marion squad. 
+Sweeper back Chris Wan- 
+suffered an ankle injury in 
+the final half. He will miss 
+the next game. 
+
+"What Marion lacked in 
+speed, they tried to make up 
+for with contact." 
+Stefankiewicz said. "I think 
+the officials let the game get 
+out of hand." 
+
+The Tuskers travel to the 
+University of Michigan this 
+Saturday. Stefankiewicz 
+assessed the Wolverine club 
+as fast. "They are a quick 
+team," he said. "We will 
+need good ball control 
+
+On November 1, the soccer 
+team will travel to Adrian 
+College for a noon start. The 
+Tuskers will close their 
+season on November 4 
+against a very powerful 
+Inidana Tech squad. The 
+game will start at 3:00 p.m. 
+and will be played at the 
+Tech field. 
+
+
+
+They do more than cheer 
+
+
+
+ByTlMOTHVJ.ROSS 
+A cheerleader, according 
+to Webster's Dictionary, is 
+one who leads cheers. If this 
+is true, then the girls leading 
+cheers this year must be 
+closer to saints than 
+cheerleaders. 
+
+IPFW is blessed with the 
+gift of eight cheerleaders 
+who believe there is more to 
+cheerleading than leading 
+cheers They are Tina 
+Adams, freshman; DeeDee 
+Berkley, freshman, Mari 
+
+
+
+Beyler, freshman; JoEUa 
+Dell, sophomore. Simone 
+Koch, freshman; Sue 
+Lauitsen, sophomore, Sue 
+Light, freshman; and 
+Tangee Shepherd, freshman, 
+
+Of the eight, only one has 
+cheered for IPFW berore. 
+Sue Laurilscn Is the only 
+returning cheerleader. The 
+others from last year had too 
+many other obligations. 
+
+The girls believe that they 
+have more to do than Just 
+
+
+
+
+1980 IPFW cheerleaders Sue Laurilsen and Dee Dee 
+Barkley practice a routine. 
+
+
+
+" ... through us cheering, 
+we will be able to express the 
+athletic department more. A 
+lot of people do not even 
+know about the soccer team 
+or that there are 
+cheerleaders," Simone Koch 
+said. "We will definitely help 
+out by sponsoring events and 
+letting people know what is 
+going on.," 
+
+The girls, along with their 
+advisor-supervisor Terl 
+Eberwine, decided to in- 
+crease the number of 
+cheerleaders this year. 
+Instead of having tryouls for 
+those who signed up, the 
+girls planned to have two 
+squads, but some of those 
+signed up left, leaving one 
+squad of eight. 
+
+The girls are also trying to 
+increase public attendance 
+at the athletic events. They 
+are posting signs to ad- 
+vertise games and en- 
+couraging their frelnds and 
+families to attend the events 
+
+"I tell all of my friends to 
+stop on over," said Tina 
+Adams. 
+
+Although most of them 
+haven't cheered since grade 
+school, the girls practice 
+every Monday and work 
+very hard at performing well 
+as a group. According to 
+athletic director, David 
+Skelton, "This is possibly the 
+most enthusiastic group of 
+cheerleaders we've ever 
+had." 
+
+
+
+
+Dee Dee Barkley. Tina Adams and Mary Beyler get ready 
+to start a cheer. (Photos by Tim Ross) 
+
+
+
+To raise money for new 
+uniforms and traveling 
+expenses, the girls are 
+holding bake sales. They also 
+hope to hold a hay ride for 
+athletes so they can get to 
+know each other. 
+
+The girls who are now 
+cheering at soccer games 
+will be cheering for 
+basketball and baseball later 
+
+
+
+this year. 
+
+Although there is little 
+recognition for their work 
+and time, the girls feel it is 
+
+worth it. " ... as long as it 
+helps the teams," they 
+agreed. 
+
+They want to influence by 
+example. "The more we try, 
+people are going to see and 
+say 'whatcanldo?'" 
+
+
+
+The going gets tough 
+
+
+
+By CHRIS PYLE 
+
+"The girls had a lough 
+week, but the team continues 
+to hang in the game to the 
+last point." said Coach 
+Peggy Voisin of OPFW 
+women'svolleyball team. 
+
+Last week was a rough one 
+for the spikers as they fell to 
+Valparaiso, Goshen and St. 
+Joseph Colleges. 
+
+Tuesday, the spikers 
+played division II 
+Valparaiso, but lost on home 
+territory 7-15, 15-9 and 5-15. 
+
+Thursday's competition 
+against Goshen and St 
+Joseph presented a 
+challenge for the Tuskers 
+IPFW nearly walked away 
+with a win in the opening 
+game against Goshen. 12-15, 
+but then dropped the second 
+game. 5-15, and the match. 
+
+St. Joseph was equally as 
+challenging as the team 
+captured a victory. 12-15. 2- 
+15. 
+
+
+
+Saturday's matches were 
+more encouraging as the 
+Tuskers carried home a 
+victory against Huntington. 
+Huntington won the first 
+game 13-15. but the Tuskers 
+took over, winning the next 
+two games and the match 
+with scores of 15-10 and 15-7. 
+Then, the IPFW squad 
+replayed a former rival. St. 
+Joseph College. St. Joe won 
+the first game. 1-15. The 
+Tuskers made a comeback 
+but lost the match in a 
+squeaker, 13-15. 
+
+The Spikers have reached 
+the half-way mark in 
+seasonal play. Voisin is 
+optimistic about the rest of 
+the season. "Things are 
+looking better We still have 
+our eye on the state tourney. 
+We want to defend our title." 
+
+In order to win the state 
+crown, the team faces many 
+more challenges and hours 
+of practice At this point in 
+
+
+
+time, the team is striving to 
+improve in certain areas, in 
+on defensive skills and of- 
+fense and is trying to apply 
+the right skills at the right 
+time. According to Voisin, 
+it'sa "partoflearnlng." 
+
+The Spikers have added 
+two to their family. Fresh- 
+
+
+
+men Amy Arunow and Janet 
+Braun, both from Concordia 
+High School, will be con- 
+tributing their services to the 
+team. "Things are looking 
+better," Voisin said. 
+
+Over the next few weeks. 
+the spikers will be meeting 
+cross town rival St. Francis, 
+
+
+
+Tti-State, and playing in the 
+St. Mary's invitational, 
+among others Their next 
+and last home match will be 
+against Grace and Glen Oaks 
+at 6:00 p.m. on November 6. 
+The match will be held at the 
+Concordia gym. 
+
+
+
+Men's volleyball organizing 
+
+
+
+There will be a second and 
+final organizational meeting 
+for the men's volleyball 
+team at 7 p.m., Monday, Oct. 
+27 at the Walb Memorial 
+Union, Room 116. 
+
+Practice for the winter 
+
+
+
+season begins November 13, 
+according to coach Arnie 
+Ball. 
+
+Anyone interested in 
+playing men's varsity 
+volleyball must be 
+registered for at least 12 
+credit hours at IPFW to be 
+
+
+
+eligible. A physical exam is 
+also required before being 
+allowed to practice. 
+
+Students interested in 
+playing on the team should 
+attend the Monday meeting 
+For more details, contact the 
+athletic office. 
+
+
+
+SCUBA 
+
+The New Adventure 
+
+Sales— Service 
+
+All ma|©c brandi of diving equip. 
+
+CLASSES BEING OFFERED 
+
+Bane lo Ad»onc*d lev«l» 
+Jon th« now pion*erj — 
+
+Leofo to explore *• | ,| fronts 
+Begin Your Adventure Now 
+
+AQUANETIC 
+CENTER 
+
+206 Lincoln Hwy 
+New Haven, IN 
+
+493-3904 
+
+
+
+
+
+/tale/ n' Tail/ 
+
+2332 NORTH CLINTON 
+
+ONE OF FORT WAYNE'S LARGEST SELECTIONS 
+
+OF TROPICAL FISH, EXOTIC BIRDS 
+
+AND A FULL LINE OF PET SUPPLIES. 
+
+----- COUPON ---. 
+
+
+
+1 
+
+
+
+107c 
+
+
+
+OFF ANY ONE FISH OR BIRD 
+
+With This Coupon 
+Limit One Coupon Per Customer 
+
+
+
+. COUPON I 
+
+
+
+483-4930 
+
+
+
+"OPEN 7 DAYS A WEEK' 
+
+
+
+
+Tusker James Hcnmueller goes up Tor a headball against his Findlay College opponent In 
+last week's action. Findlay beat IPFW 4-3. (Photo by Keith Hall) 
+
+Basketball managers wanted 
+
+
+
+The men's basketball team 
+is looking for a few good 
+managers. Head coach Ken 
+Workman issued a request 
+for volunteers to serve as 
+basketball team managers 
+
+
+
+for the 1980-81 Tusker 
+season. 
+
+The Job involves practice 
+and game responsibilities, 
+road trip preparation and 
+responsibilities and an 
+ability to work with players 
+
+
+
+and coaches. A basketball 
+background is helpful. 
+
+Anyone interested in the 
+job Is asked to contact Work- 
+man or assistant coach John 
+Endsley through the athletic 
+office. 
+
+
+
+MIKE'S VW ,., FOREIGN 
+
+CAR SPECIALISTS 
+
+
+
+HONEST WORKMANSHIP 
+
+
+
+
+Ft. Wayne's 
+Oldest Independent 
+V-W Repair 
+Shop. 
+
+
+
+NOW SERVICING HONDAS AND 
+MANY OTHER FOREIGN CARS 
+
+
+
+1720 S. Harrison 
+744-331 1 
+
+
+
+3102 E. Washington Blvd. 
+422-0218 
+
+
+
+J^- 
+
+
+
+t 'rriw'.i' T 
+
+
+
+
+Ground Floor of the Student 
+
+Union ■ Walb Memorial Hall 
+
+Breakfast 7:30-10:30 
+
+Lunch 11-1:30 
+
+Grill 1:30-3:30 
+
+
+
+26 1 27| 28| 29| 30| 3l| 1 
+
+0CT0BERFEST TOES., OCT 28 FEATURING SAUSAGES, POTATO SALAD, 
+
+KRAUT-JOIN US! HALLOWEEN WOULDN'T BE HALLOWEEN WITHOUT A 
+TREAT-SO JOIN US AT "THE FORT" WED. OCT. 29 
+
+
+
+~zl Fl 4] 5j 6 7 | l| 
+
+EXERCISE YOUR RIGHT - VOTE 
+NOV. 4th VISIT THE FORT FOR 
+ELECTION DAY SPECIALS TUES. 
+7:30-3:30 
+
+
+
+J£ANS 
+
+and THINGS 
+
+
+
+hr men tni women 
+Ditmtriti- ill Mm bruit 
+
+
+
+SEE OUR GLORIA VANDERBILTS 
+
+
+
+GLENWAY 
+
+
+
+BARGAIN CENTER 
+
+3820 COLDWATER RD. OPEN EVENING TIL 9 
+
+Across From Ayr-Way North SUNDAYS 12-5 
+
+
+
+</pre>        </div>
+      </div>
+    

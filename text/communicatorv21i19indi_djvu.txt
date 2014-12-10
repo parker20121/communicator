@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv21i19indi/communicatorv21i19indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv21i19indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv21i19indi">The Communicator</a>"
+          </h1>
+          <pre>
+World overcrowding 
+
+Students should be aware of population problem/Page 2 
+
+
+
+Commentary: South Africa 
+
+Changes in political policy exciting/Page 3 
+
+
+
+Men's basketball 
+
+Team wins both games last week/Page 6 
+
+
+
+The Communicator 
+
+
+
+VOL. XXI, ISSUE 19 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+February 8, 1990 
+
+
+
+Quote of the week 
+
+
+
+"Martin Luther King Jr.'s birthday has just passed, 
+and it is fitting that such radical change in racial 
+prejudice is taking place now. Unfortunately, it 
+should have happened decades ago." 
+
+-Lilly Lyon 
+—staff writer 
+
+
+
+Hispanic issues 
+
+Round table forum series begins 
+
+
+
+r-INFOGRAPHS^ 
+
+Volunteers needed for drive 
+
+The 25th Anniversary Gift Committee has begun its fundraising drive 
+Kellenberger at 658-3342, or contact Troy Bussen or Ingrid Laidroo at 
+
+'Musicians' features artists 
+
+Arts Group will sponsor Tjinnus Music urn.-, on Kilm." ,&lt; .series of 
+films featuring the works of Jascha Heifetz. Arturo Toscanini and 
+many other artists. The event will be tomorrow from 8 to 10 p.m. in the 
+
+dents and senior citizens will be admitted for $1.50. Everyone is invited 
+
+Math association chapter to form 
+
+A student chapter of tin? Ma thorny! . i i ■ 
+
+being organized at IPFW. Dues will be $10 for charter members. 
+
+For more inform I kp professor of mathe- 
+
+Sunday Mass to be offered 
+
+Campus Ministry will sponsor Sunday Evening Mass for College 
+Students and Young Adults at 8:30 p.m. every Sunday at St. Jude's 
+Church on East State Street. 
+
+For more information, call University Religious Forum/Campus 
+
+Culture Club meets Sunday 
+
+
+
+Fraternity will hold recital 
+
+Sigma Alpha Iota will presoin '■, i ret- reciUiJ in Neff Hall Room 101 on 
+Sunday at 2:30 p.m. The recital will feature American and woman 
+
+Psychology Club to show film 
+
+
+
+Psychology Club v 
+
+
+
+"Do the Right Thing" 
+
+
+
+Forum to present luncheon 
+
+
+
+Groups offer panel discussions 
+
+The IPFW Accounting Society, the International Students' Organiza- 
+
+
+
+Scholarsbips to be granted 
+
+scholarships for qualified students majoring in elementary educatii 
+
+rii-ii.u-v uiiliiit.il •fi.'iiLi:. •;!■!■:!!;■!■■ romrnumo.-i.tK.ii. i|-.&lt;-,ii.or or tibri 
+science. Students should have at least a 3.0 grade point average a 
+
+award is dispersed. Applications must be received in the Office 
+
+
+
+
+Child care unit 
+
+Potential new facilities to be negotiated 
+
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+Population explosion 
+
+Birth control needed to 
+curb tide of poverty 
+
+
+
+Sao Paolo, 
+
+Brazil ranks a close second, with over 
+
+of people 12,600,000 people. The expanding pop- 
+
+
+
+rhis explosive ini 
+
+spite a decrease - 
+
+/ide population growth World 
+
+
+
+Mt 
+
+
+
+ir.l-.m, inio nightmares by the 
+KM. And their nightmares will 
+er into developed countries, as 
+
+? under Ihc ml lux ul uiimnlinl 
+|,il,lr n,;issrs of impoverished people. 
+
+
+
+The droD in birtbi li ■ hi' done hllle "'''"v'''"' ( ^"''&lt;mi" is jus. ,,. VH ,™ — 
+
+to dispel the tbn 1 tf II ' , ' , 
+
+II II I I , 
+
+feSI$ to-flaw "tolT C e h nfor P ced »^ T " V^Sli olpLJfe Z\ *&lt;M 
+
+through stiff lines. Imeed slenli/.itiojis swm eXlst °" '*' . 
+
+and mandatory abortions. China's 
+
+harsh reproductive policies t 
+
+
+
+
+
+
+Despite Hie cfloils made by China's Ureal strides are preceded by sm.ill 
+
+envenimcnl l&lt;&gt; limit Ibe linlln.ile ol steps i )n Ibis campus, we could begin 
+
+mure lhan I lullmn | :■ : ■ h i j &gt; J r - Hi- ciirn-ii! lo approach the problem by holding a 
+
+birihrate in China will lesnll in 2 r &gt;tJ forum on the world population explo- 
+
+miil tclii ioriLiI ( 'I 'se by Hie einl ol sion and its implications in regard to 
+
+this decade roughly the equivalent ol reproductive responsibilities Aimtlier 
+
+the population nl ;i" .iddii I I'loinl mi, ..II bni c .'iiilv worthwhile, step 
+
+Slates. would be for IPFW to install con- 
+
+: of popula ■.■leepliw dispensers on campus. 
+
+■ ' eloped Awareness must be raised, and sig- 
+
+l" ile, ml actions taken. If not, all of 
+
+among the 13 mosl populous us— and our children and grand- 
+
+:.. Hi,- work! Mexico Cily r ' ' 
+
+
+
+crease are occurring in undenleveloj 
+
+
+
+
+The Bradys are back 
+
+Family from hell returns to the air waves 
+
+
+
+
+signed focus" of the panel' 
+
+
+
+Opinion 
+
+
+
+The Communicator 
+
+
+
+President de Klerk and apartheid 
+
+Recent changes in South Africa long overdue 
+
+Commentary 
+
+
+
+
+TEST 
+
+YOUR 
+
+KNOWLEDGE. 
+
+
+
+
+: TEST OF YOUR LIFE. 
+
+
+
+Campus Quiz 
+
+How does the financial aid office work? 
+
+
+
+Who reviews the 
+
+
+
+often Dan Quayle c. Larry " 
+
+
+
+he office, b. they 
+o the Physical 
+
+
+
+
+SB 
+
+""SINCE 194*' 
+
+
+
+
+
+
+Open 
+7 days 
+a week 
+
+
+
+Give her (or him) a 
+Valentine from 
+fleur de lis 
+
+"The most exciting Lingerie 
+Store in Fort Wayne" 
+
+
+
+4 
+
+
+
+7 
+
+
+
+de&gt; 
+
+
+
+
+Half Of This Year's 
+Medical School 
+Class Got There 
+With Our Help. 
+
+
+
+■ Take Kaplan Or Take Your Chances 
+
+HAWTHORN PLAZA CLASS STARTS 
+
+INDIANAPOLIS, IN 46220 SOON!! 
+
+317/251-3910 
+
+
+
+PHONE 2l9/272-&lt;il35 
+
+
+
+
+Your name could be here! 
+You could be in print! 
+
+There's no messy small print in this offer— and it's 
+open to all interested IPFW students! The 
+Communicator needs writers for sports, news and 
+features during the 1990 spring semester. To 
+apply stop by suite 215 ofWalb Union today! 
+
+
+
+Campus 
+Calendar 
+
+
+
+
+
+
+
+
+
+* E" bag lunch " Walb G25, ^ '***'"* ™ aih G21, 
+
+
+
+!; Managing Through Ii 
+
+
+
+;;.;,.;,,., 
+
+
+
+■v r&lt;&lt;! ■-■■ '"''■ "-' 
+
+
+
+( Mary Brant. Walb CM. 
+
+
+
+p^Vit, 1 "- 
+
+
+
+Features 
+
+
+
+Annual competition begins 
+
+IPFWOpen Pool Tournament in gear 
+
+
+
+
+The FAF is the only form required for: 
+
+■ IPFW Scholarships and Grants 
+
+■ Peli Grants 
+
+■ State SSACI Grants 
+
+■ Lilly Grants 
+
+■ Perkins/NDSL Student Loans 
+
+■ Guaranteed Student Loans/Stafford Loan 
+
+■ College Work-Study 
+
+IPFW gives preferences to students who 
+apply by March 1 . 
+
+SCHOLARSHIPS &amp; FINANCIAL AID 
+Kettlcr 109 
+
+
+
+INDIANA UNIVERSITY 
+
+
+
+Features 
+
+
+
+The Communicator 
+
+
+
+
+DON'T SIGN UP FOR 
+
+A STUDENT LOAN UNTIL 
+
+YOU SIGN UP HERE. 
+
+
+
+f =ZSg=L _, 
+
+.I?"" == ^— 
+
+
+
+Men who don't register with Selective Service aren't eligible 
+
+for some federal benefits. And that includes federal student aid 
+
+for college. So if you're within a month of turning 18, take 
+
+five minutes and fill out a simple card at the post office. 
+
+Selective Service Registration. ^^k 
+
+It's Quick. It's Easy. And It's The Law. WW 
+
+
+
+Free Diamond in a square tube setting 
+when you buy a 14K Continental Ring. 
+
+
+
+Order your 
+college ring NOW 
+
+JOSTENS 
+
+
+
+Date 
+
+
+February 
+
+
+M E R 1 C A ' S 
+
+2-13 (Monday-Tuesday) 
+
+
+c o 
+
+Time: 
+
+
+1 
+
+
+". 
+
+
+E 
+
+
+G E 
+
+2 p.m. 
+
+
+R 1 N G™ 
+
+Deposit Required: $20 
+
+
+Place 
+
+
+Bookstore 
+
+
+Entrance 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SB 
+
+
+
+Sports 
+
+
+
+The Communicator 
+
+
+
+mjBBSSm Volleydons finish 6th in tournament 
+
+
+
+Women split games 
+
+
+
+
+</pre>        </div>
+      </div>
+    

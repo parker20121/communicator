@@ -1,0 +1,4353 @@
+<!DOCTYPE html>
+<html>
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+  <title>Full text of "The Communicator"</title>
+  <script type="text/javascript" src="http://archive.org/includes/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="http://archive.org/includes/analytics.js?v=44964"></script>
+  <link rel="stylesheet" href="/stylesheets/archive.css?v=45276" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="/images/glogo.jpg"/>
+</head>
+<body class="Texts" >
+   
+     <!--BEGIN HEADER 1-->
+<table style="background-color:white " cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td id="logo">
+        <a href="/"><img title="Internet Archive" alt="Internet Archive"
+                         src="/images/glogo.png"/></a>
+      </td>
+      <td valign="bottom" id="navbg">
+        <table width="100%" border="0" cellpadding="5">
+          <tr> 
+            <td class="level1Header">
+                            <div class="tab">
+                <a href="/web/web.php">Web</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/movies">Moving Images</a>
+              </div>
+                            <div class="tabsel backColor1">
+                <a href="/details/texts">Texts</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/audio">Audio</a>
+              </div>
+                            <div class="tab">
+                <a href="/details/software">Software</a>
+              </div>
+                            <div class="tab">
+                <a href="/account/login.php">Patron Info</a>
+              </div>
+                            <div class="tab">
+                <a href="/about/">About IA</a>
+              </div>
+                            <div class="tab">
+                <a href="/projects/">Projects</a>
+              </div>
+                          </td>
+          </tr>
+        </table>
+      </td>
+      <td style="width:80px; height:72px; vertical-align:middle; text-align:right">
+        <a href="/stream/communicatorv12i20indi/communicatorv12i20indi_djvu.txt"><img title="(navigation image)" alt="(navigation image)" id="TRimg" src="/images/books-small.jpg"/></a>      </td>
+    </tr>
+  </tbody>
+</table>
+
+     
+<!--BEGIN HEADER 2-->
+<table width="100%" class="level2Header">
+  <tbody>
+    <tr>
+      <td align="left" valign="top" class="level2HeaderLeft">
+        <a class="level2Header" href="/">Home</a>
+      </td>
+      <td style="width:100%;" class="level2Header">
+        <a href="/details/americana">American Libraries</a> | 
+<a href="/details/toronto">Canadian Libraries</a> | 
+<a href="/details/universallibrary">Universal Library</a> | 
+<a href="/details/opensource">Community Texts</a> | 
+<a href="/details/gutenberg">Project Gutenberg</a> | 
+<a href="/details/iacl">Children's Library</a> | 
+<a href="/details/biodiversity">Biodiversity Heritage Library</a> | 
+<a href="/details/additional_collections">Additional Collections</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
+
+<!--BEGIN HEADER 3-->
+<div class="level3HeaderColorBar"> </div>
+<table cellspacing="0" width="100%" border="0" cellpadding="0">
+  <tbody>
+    <tr> 
+      <td class="level3Header level3HeaderLeft">
+        <form style="margin:0;padding:0;" action="http://archive.org/searchresults.php" id="searchform" method="post">
+          <b>Search:</b>
+          <input tabindex="1" size="25" name="search" value="" style="font-size: 8pt"/>
+          <select tabindex="2" style="PADDING-TOP: 2px; font-size: 8pt;" name="mediatype">
+            <option value="all">All Media Types</option>
+            <option  value="web">&nbsp;&nbsp;Wayback Machine</option>
+            
+            <option  value="movies">&nbsp;&nbsp;Moving Images</option>
+<option value="movies.animationandcartoons">&nbsp;&nbsp;&nbsp;&nbsp;Animation & Cartoons</option>
+<option value="movies.artsandmusicvideos">&nbsp;&nbsp;&nbsp;&nbsp;Arts & Music</option>
+<option value="movies.opensource_movies">&nbsp;&nbsp;&nbsp;&nbsp;Community Video</option>
+<option value="movies.computersandtechvideos">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="movies.culturalandacademicfilms">&nbsp;&nbsp;&nbsp;&nbsp;Cultural & Academic Films</option>
+<option value="movies.ephemera">&nbsp;&nbsp;&nbsp;&nbsp;Ephemeral Films</option>
+<option value="movies.moviesandfilms">&nbsp;&nbsp;&nbsp;&nbsp;Movies</option>
+<option value="movies.newsandpublicaffairs">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="movies.prelinger">&nbsp;&nbsp;&nbsp;&nbsp;Prelinger Archives</option>
+<option value="movies.spiritualityandreligion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="movies.sports">&nbsp;&nbsp;&nbsp;&nbsp;Sports Videos</option>
+<option value="movies.television">&nbsp;&nbsp;&nbsp;&nbsp;Television</option>
+<option value="movies.gamevideos">&nbsp;&nbsp;&nbsp;&nbsp;Videogame Videos</option>
+<option value="movies.vlogs">&nbsp;&nbsp;&nbsp;&nbsp;Vlogs</option>
+<option value="movies.youth_media">&nbsp;&nbsp;&nbsp;&nbsp;Youth Media</option>
+<option  selected="selected"  value="texts">&nbsp;&nbsp;Texts</option>
+<option value="texts.americana">&nbsp;&nbsp;&nbsp;&nbsp;American Libraries</option>
+<option value="texts.toronto">&nbsp;&nbsp;&nbsp;&nbsp;Canadian Libraries</option>
+<option value="texts.universallibrary">&nbsp;&nbsp;&nbsp;&nbsp;Universal Library</option>
+<option value="texts.opensource">&nbsp;&nbsp;&nbsp;&nbsp;Community Texts</option>
+<option value="texts.gutenberg">&nbsp;&nbsp;&nbsp;&nbsp;Project Gutenberg</option>
+<option value="texts.iacl">&nbsp;&nbsp;&nbsp;&nbsp;Children's Library</option>
+<option value="texts.biodiversity">&nbsp;&nbsp;&nbsp;&nbsp;Biodiversity Heritage Library</option>
+<option value="texts.additional_collections">&nbsp;&nbsp;&nbsp;&nbsp;Additional Collections</option>
+<option  value="audio">&nbsp;&nbsp;Audio</option>
+<option value="audio.audio_bookspoetry">&nbsp;&nbsp;&nbsp;&nbsp;Audio Books & Poetry</option>
+<option value="audio.opensource_audio">&nbsp;&nbsp;&nbsp;&nbsp;Community Audio</option>
+<option value="audio.audio_tech">&nbsp;&nbsp;&nbsp;&nbsp;Computers & Technology</option>
+<option value="audio.GratefulDead">&nbsp;&nbsp;&nbsp;&nbsp;Grateful Dead</option>
+<option value="audio.etree">&nbsp;&nbsp;&nbsp;&nbsp;Live Music Archive</option>
+<option value="audio.audio_music">&nbsp;&nbsp;&nbsp;&nbsp;Music & Arts</option>
+<option value="audio.netlabels">&nbsp;&nbsp;&nbsp;&nbsp;Netlabels</option>
+<option value="audio.audio_news">&nbsp;&nbsp;&nbsp;&nbsp;News & Public Affairs</option>
+<option value="audio.audio_foreign">&nbsp;&nbsp;&nbsp;&nbsp;Non-English Audio</option>
+<option value="audio.audio_podcast">&nbsp;&nbsp;&nbsp;&nbsp;Podcasts</option>
+<option value="audio.radioprograms">&nbsp;&nbsp;&nbsp;&nbsp;Radio Programs</option>
+<option value="audio.audio_religion">&nbsp;&nbsp;&nbsp;&nbsp;Spirituality & Religion</option>
+<option value="audio.HighwayPoets">&nbsp;&nbsp;&nbsp;&nbsp;Highway Poets</option>
+<option  value="software">&nbsp;&nbsp;Software</option>
+<option value="software.DigiBarn">&nbsp;&nbsp;&nbsp;&nbsp;DigiBarn</option>
+<option value="software.tucows">&nbsp;&nbsp;&nbsp;&nbsp;Tucows Software Library</option>
+<option value="software.vectrex">&nbsp;&nbsp;&nbsp;&nbsp;The Vectrex Collection</option>
+<option value="software.cdbbsarchive">&nbsp;&nbsp;&nbsp;&nbsp;The Shareware CD Archive</option>
+<option  value="education">&nbsp;&nbsp;Education</option>
+<option value="education.msri">&nbsp;&nbsp;&nbsp;&nbsp;Math Lectures from MSRI</option>
+<option value="education.uchannel">&nbsp;&nbsp;&nbsp;&nbsp;UChannel</option>
+<option value="education.chinese_u_lectures">&nbsp;&nbsp;&nbsp;&nbsp;Chinese University Lectures</option>
+<option value="education.ap_courses">&nbsp;&nbsp;&nbsp;&nbsp;AP Courses from MITE</option>
+<option value="education.mit_ocw">&nbsp;&nbsp;&nbsp;&nbsp;MIT OpenCourseWare</option>
+            
+            <option value="forums" >Forums</option>
+            <option value="faqs"   >FAQs</option>
+          </select>
+          <input tabindex="3" style="vertical-align:bottom; text-align:center; width:21px; height:21px; border:0px" name="gobutton" type="image" id="gobutton" value="Find" src="/images/go-button-gateway.gif"/>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+          <input type="hidden" name="submit" value="this was submitted"/>
+          <a href="http://archive.org/advancedsearch.php" class="level3Header level3HeaderSearch">Advanced Search</a>
+        </form>
+      </td>
+
+      
+      
+
+      <td class="level3Header level3HeaderUser2">
+                <b>
+          Anonymous User        </b>
+        <span style="font-size:7pt; white-space:nowrap">
+          (<a class="level3Header" href="/account/login.php">login</a>
+          or
+          <a class="level3Header" href="/account/login.createaccount.php">
+            join us</a>)
+        </span>
+              </td>
+      
+  
+
+      <!--HTTP uploader button-->
+      <td class="level3Header level3HeaderUser2">
+        
+        
+        <a class="linkbutton backColor1"
+           style="text-shadow:#bbb 0px 1px 0; color:#fff !important"
+           href="http://archive.org/create/">Upload</a>
+
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="begPgSpcr" style="padding-bottom:17px;"></div>
+
+<!--BEGIN PAGE-->
+      <div id="col1">
+        <div class="box" style="border-color:white !important;">
+          <a class="backColor1 linkbutton"
+             style="margin-right:15px; color:#fff !important"
+             href="/details/communicatorv12i20indi">See other formats</a>
+        </div>
+      </div>
+      
+      <div style="min-width:600px; margin-right:0px;" id="col2">
+        <div class="box">
+          <h1>
+            Full text of "<a href="/details/communicatorv12i20indi">The Communicator</a>"
+          </h1>
+          <pre>m* 
+
+
+
+rue 
+
+
+
+Com inimical or 
+
+
+
+Volume XII Issue 20 
+
+
+
+Indiana University-Purdue University at Ft. Wayne 
+
+
+
+February 19, 1981 
+
+
+
+One-sided educations prompt program 
+
+
+
+
+They study women 
+
+
+
+ByJ.G.GRlSWOLD 
+StaK Writer 
+
+When Jeonefle Clausen's daughter come 
+home from a nursery school field trip lo 
+the hospital, her doughler sold she wonted 
+
+"•Why?" aided Jeonolte. 
+
+Her doughler explained she wonted lo 
+core ond operofe on sled people. Jeonelle 
+told her doughler Thol she would hove lo 
+be a doctor it she wonted to oporolo. 
+
+Her daughter sold she could not be o 
+
+"Why?" osfced Jeonelle 
+
+"I'm o girt," replied her doughler. 
+
+
+
+This simplistic example, explains 
+Jeanette Clausen, coordinator of 1P- 
+FW's Women Studies Program, 
+illustrates how chilldren and students, 
+even those at the college level, are 
+affected by their learning. 
+
+"Education for women Is different 
+from the education for men," said 
+Clausen, an active feminist. She 
+claimed that the Women's Studies 
+Program is- an alternative to sexist 
+education— -education which is male 
+oriented. 
+
+Clausen believes that many IPFW 
+classes tend to be one sided, only 
+dealing with the lives, achievements 
+and ideas of men. 
+
+"They neglect to mention women and 
+their contribution in history," shesaid. 
+
+"You will always read Charles 
+Dickens but you will not very likely 
+read Elizabeth Gaskell. a women 
+novelist of equal importance from the 
+some period," said Cathryn Adamsky, 
+instructor in the program and its 
+originator. 
+
+"Frequently we are not encouraged 
+to think (in regular classes), but in 
+Women's Studies, we are," said Lesley 
+Raymer, an IPFW student. 
+
+The Women's Studies Program is 
+offered as a minor and classes can often 
+be applied to fulfill other requirements. 
+
+
+
+Snow closes campus 
+
+
+
+ByELLIEWOLLMAN 
+Staff Writer 
+
+Fort Wayne didn't get buried under 16 
+inches of snow as some weather reports 
+predicted, but the Feb. 10 winter storm 
+did cause IPFW to shut down all 
+operations at noon. 
+
+Decisions on closing the campus 
+when it snows depend upon whether or 
+not the parking lots can be kept clear. 
+"We're a commuter campus and the 
+lots are vital," said John Carnaghi, 
+Vice Chancellor for Financial Affaire. 
+, Carnaghi, who makes the final 
+•decision on school closings, is kept 
+informed on snow removal progress by 
+campus grounds personnel. He then 
+takes into consideration the parking lot 
+situation, weather predictions, and 
+student and employee safety before a 
+decision is made. — 
+
+A "snow recess" was declared on 
+Feb. 10, which means the entire 
+campus closed down, as opposed to a 
+
+
+
+'snow emergency," when only classes 
+are suspended but all buildings stay 
+open with employees remaining. 
+
+When either a snow emergency or 
+recess is declared, Carnaghi's office 
+notifies the Director of University 
+Relations who then contacts all media. 
+Announcements are carried on radio 
+stations WOWO, WMEE, WLYV, 
+WEZV-FM, and WIPU-FM. Whenever 
+possible, announcements wilt be made 
+by 6:30 a.m. for daytime classes and 3 
+p.m. for evening classes. Students can 
+also call the campus switchboard for 
+pre-recorded school closing an- 
+nouncements. 
+
+There was some confusion among 
+students Wednesday, the day after the 
+storm, when at least one local radio 
+station announced IPFW to be closed. 
+
+The station, WXKE, not an official 
+source of information about IPFW 
+closings, announced at a later time that 
+IPFW was open forclasses. 
+
+
+
+Students 
+conquer 
+
+blindness 
+
+By JACKIE WIORA 
+Staff Writer 
+
+"There's nothing more de- 
+bilitating than a poor self- 
+concept." This is the" motto of 
+William Grimm, a seventh semester 
+student at IPFW. 
+
+He is blind. 
+
+Grimm, who is majoring in 
+mathematics and computer science, 
+said that apprehension and fear 
+were the major problems he had to 
+combat when he first began college. 
+"I was afraid that I was getting into 
+more than I could handle. But now 
+I'm fearless. I've learned to be blind 
+and feel OK about myself," he said. 
+
+Grimm siareted at IPFW in 1977. 
+He was the first blind student to 
+attend classes here. At that time 
+there were no special programs for 
+disabled students. "Some of my 
+professors were apprehensive about 
+having a blind student in their class. 
+They weren't sure how I would 
+handle the course," he said. 
+
+By the next semester another 
+blind student had enrolled and now, 
+five years later, there are 25 visually 
+impaired students (eight of them 
+totally blind) attending classes on 
+campus. 
+
+The most important thing a blind 
+student must learn, according to 
+Grimm, is lo depend largely upon 
+his or her memory. "I tried taking 
+braille notes in class," he said, "but 
+I couldn't punch out the holes quick 
+enough to keep up with the lecture. 
+Then I tried recording the whole 
+lecture on tape but It took too long lo 
+replay each tape and study its 
+contents. Now I do without class 
+notes. I just pay altention and try lo 
+remember all I can when it's time 
+for the test." 
+
+At home Grimm uses recorded 
+text books to study. He takes notes 
+by having two tape recorders on 
+hand, one to play the recorded text, 
+and the other fitted with a blank tape 
+on which he con record specific 
+notes. 
+
+He usually takes his tesLs al a 
+different lime than the other 
+students in his classes. "I have a 
+reader who reads the questions out 
+loud lo me," Grimm explained. 
+"Then I tell him what I think the 
+answer is and he writes It down for 
+
+
+
+
+Grimm was blinded in an accident 
+in 1974. He described some of the 
+problems be went through learning 
+to adjust to his handicap. "For the 
+first eight or ten months I was angry 
+and I felt sorry for myself. I was 19 
+at the time and I felt that I was too 
+cool to be blind. People treated me 
+funny and I was frustrated at not 
+being able to get around by myself. 
+But finally I realized that you're 
+only disabled by your own attitude 
+and I developed a positive self- 
+concept." 
+
+Even today, though, Grimm is still 
+annoyed by the way some people 
+treat him. "When I go shopping with 
+my wife and I meet someone In the 
+store a lot of times the person will 
+speak to my wife instead of me. I'll 
+ask a question and the person will 
+respond to my wife, as if I were deaf 
+as well as blind, " he said. 
+
+Blind people are often physically 
+limited by their handicap. For this 
+reason Grimm thinks it is very 
+important to become active in a 
+physical sport that doesn't involve 
+too much eyesight. Since his ac- 
+cident Grimm has taken up judo 
+wrestling. He also spends a lot of 
+time listening to music, 
+
+"Music is very Important to blind 
+people," Grimm said. "I play 
+classical guitar and I have a blind 
+friend who plays the violin and the 
+banjo." 
+
+When asked if he found it easier to 
+relate to blind people than lo sighted 
+people Grimm laughed. "No," he 
+said. "Most of my friends are 
+sighted and so Is my wife. I'm not 
+really different than any one else. I 
+just want to be treated like any other 
+person on the street." 
+
+
+
+Adamsky developed the program in 
+1971 when she felt there was no course 
+about the psychology of women 
+available. 
+
+Adamsky and Clausen said the 
+program is an extension of the feminist 
+movement. 
+
+"We are indebted to the Women's 
+Movement; without it, we would not 
+exist," said Adamsky. 
+
+Today, over 150 students are enrolled 
+in the program. One male has com- 
+pleted a minor. Proportionally, male 
+enrollment in the program is con- 
+siderably less than female enrollment. 
+
+The program spans a list of sub- 
+jects — comparative literature, English, 
+modern foreign language, labor 
+studies, history, nursing, philosophy, 
+political science, psychology and 
+sociology. 
+
+According to Adamsky, Women 
+Studies attempts to examine subjects 
+witha "feminine perspective." 
+
+"Women should have social, political 
+and economic equality," she said. "We 
+assume it should be that way, but it is 
+not." 
+
+Clausen added that Women Studies 
+does not only treat its subjects dif- 
+ferently, but it also attempts to help the 
+student to understand women. In many 
+classes, current issues facing women 
+are explored. 
+
+
+
+One student taking the Women 
+Studies program said these discussions 
+of current issues are merely "com- 
+plaint sessions." 
+
+Don-is Ellsworth McCullagh, another 
+student following the program, 
+disagreed. "Women Studies explains 
+what women are all about, and this 
+helps me live each day as a woman," 
+
+"I hope women who take Women 
+Studies would have self-awareness, 
+self-worth and be confident of them- 
+selves," said Clausen. She added, "We 
+want to emphasize that discrimination 
+against women still exists today." 
+
+What job opportunities are open to 
+students who have minored in the 
+program? 
+
+Adamsky said that many students 
+who have graduated with a Women's 
+Studies minor have reported it useful in 
+their work in therapy, marriage 
+counseling and other types of social 
+work. 
+
+The program not only offers an 
+"alternative" in education, it also 
+sponsors several lectures and forums 
+discussing feminist topics. The 
+program cooperates with and helps 
+promote local women's organizations 
+such as Fort Wayne Feminisls and the 
+Fort Wayne Women's Bureau. It also 
+coordinates programs with the YWCA. 
+
+
+
+
+iring atmosphere is among the benefits given by the IPFW Child 'Care- 
+Center. tPhoto by Rick Papazlan) 
+
+Center nurtures kids 
+
+
+
+By CAROL CARNALL 
+Staff Writer 
+
+More than a babysitting service, the 
+IPFW Child Care Center's goal is to 
+provide a nurturing atmosphere for 
+children ages six months to 10 years. 
+This kind of child care is a welcome 
+benefit to many IPFW students and 
+faculty members who are parents. 
+
+Linda Manier, a student in the school 
+of nursing, drops off her children. 
+Andrea and Michael, on her way to 
+classes. "If it weren't for the Center, I 
+probably wouldn't be in school," 
+Manier said of the center at the corner 
+of Stellhorn and Hobson roads. Good 
+care for children is hard to find, she 
+said. 
+
+Manier's enthusiasm is shared by 
+other parents and children. "Guess 
+
+Senators cite problems 
+
+
+
+what!" are the words six-year-old 
+Stewart Logan uses each time he begins 
+to tell about what he does at the Center. 
+"Guess what! The snow is so cold on my 
+hands," he said. 
+
+Stewart, son of Brenda Logan, an 
+associate professor of Spanish, was 
+Idling about snow placed in a waler 
+table for the children. The table similar 
+to a sand box only with water was 
+provided by funds recently donated by 
+the University Women's Club. 
+
+The emphasis at the Center is on 
+"what's good for the children," said 
+Jeannie Kauffman, coordinator of the 
+program. Kauffman spends two-thirds 
+of her time with the children, with the 
+other third going to scheduling and 
+processing necessary paper work. 
+
+(Continued on Page 2) 
+
+
+
+Many resign 
+
+
+
+By JIM CHAPMAN 
+Chief Reporter 
+
+Three former members of IPFW's 
+Student Senate, among nine who have 
+resigned since last November, believe 
+that the Student Senate is failing to 
+pe»i;rm the key act that makes a 
+university organization a Students' 
+Government— the execution of basic 
+services lo students. _ 
+
+"The Senate is here to perform basic 
+student services," said former Senator 
+Phil Patcrson. "They are not realistic 
+about these things. They treat It like 
+national politics. Some Senators are 
+playing politics." 
+
+Paterson said that basic services to 
+students arc things like sponsoring a 
+dance, and such services are what the 
+Senate should handle. He believes that 
+the Senate has a lack of concern of what 
+the students want. 
+
+"All the Senate needs is people who 
+want to work," Paterson said. 
+
+Two other former Senators, Scott 
+Kuehn and Jeff Sandy, agreed with 
+Paterson. 
+
+Kuehn said some Senators are con- 
+cerned with maintaining group and 
+maintenance functions, which are 
+communication, not serving roles. 
+"They're playing a game," Kuehn said. 
+
+Sandy believes that the game being 
+played is politics, and cites this among 
+his reasons for resigning. "A small 
+percentage of Senators of the Student 
+Senate arc practicing to be 
+bureaucrats," said Sandy. "This 
+percentage is growing, and it made 
+work impossible," 
+
+Besides Paterson, Kuehn and Sandy, 
+former Senators Ada Giore, Dwight 
+Fish, Ed Snyder, John Brunner, 
+
+
+
+Michael Spencer and Bill Allen all have 
+resigned. 
+
+Of the former Senators contacted by 
+The Communicator (Fiore, Paterson, 
+Kuehn and Sandy) all agreed one of the 
+major reasons for the resignations is 
+time. They said that being a student 
+first and a Senalor second was just not 
+fitting into their schedules. 
+
+But for Paterson, Kuehn and Sandy, 
+the reasons for their resignations went 
+much further and deeper than just 
+time. 
+
+Besides their feelings that the Senate 
+isn't performing basic services to 
+students, the three former Senators, 
+and current Senator Ellen Engleman, 
+agree that SUBOG, the social arm of 
+Students' Government and the Student 
+Senate, its legislative arm, should be 
+merged to form one Students' Govern- 
+ment body lo perform all its functions. 
+
+Currently, SUBOG plans all Students' 
+Governmenl's social functions, such as 
+the weekly movies, guest speakers, 
+special events trips. 
+
+The Student Senate now performs 
+Students' Government's legislative 
+duties including the dispersal of student 
+activity fees to various recipients of 
+those funds, setting up of student 
+services such as carpooling and free 
+legal services, and enactment of 
+various proposals dealing with student- 
+administration relations. 
+
+Those in favor of the merger of the 
+Student Senate and SUBOG reel that the 
+two organizations make IPFW's 
+Students' Government too large and 
+that one organization could adequately 
+handle the responsibilities with Just as 
+much ease, if not more. 
+
+Student body President Ann Momner 
+
+
+
+
+John Ulmer, Dean of Student Services. (File photo by Sarah Mensch) 
+
+Ulmer handles 
+problems, ires 
+
+
+
+By DARYL S. BRANDT 
+Copy Editor 
+
+He takes a sip of coffee and lights 
+his pipe. Rocking back in his chair, 
+he looks over his calendar of the 
+day's events. Behind him are 
+several pictures of horses and a 
+macramed owl plant hanger which 
+contribute to the peacefulness of the 
+orange and tan room. 
+
+Before 6 a.m. everything is calm 
+in the office of the man in charge of 
+the Student Affairs Administration 
+at IPFW. But for Dean John P. 
+Ulmer the calm may not last long. 
+
+At any moment an angry student 
+with a complaint against the school 
+might release his frustrations on this 
+50-year-old, silver-haired rep- 
+resentative of the administration. 
+
+Wilh 27 years of counseling and 
+advising experience behind him, 
+Ulmer starts his day. Whenstudents 
+have a problem, it is his job to help 
+them. 
+
+Ulmer, with tinted glasses, hair 
+parted down the middle, and a 
+joking manner, hardly comes off as 
+a sterotyped non-caring official. Nor 
+does he come off as a whipping boy. 
+
+"Sometimes it helps to let them 
+(students) vent their anger," Ulmer 
+said. "When students come in with 
+grievances against the system, I 
+ascertain what they have done. Then 
+I explained the system and inform 
+them of what they can do 
+procedurally to solve their 
+problems. Many times there's a 
+fairly high level of frustration and I 
+serve as a sympathetic listener," he 
+said. 
+
+Ulmer leaned back, rested his arm 
+on the back of the chair and ex- 
+plained that his role as ombudsman 
+involves more than just receiving 
+complaints. 
+
+Besides being the court ol last 
+resorts for students with problems 
+concerning the school, he also serves 
+in a referral and counseling 
+capacity, he said. 
+
+Sometimes students have 
+questions and need to know where 
+they can go to get information. Such 
+requests are often handled by his 
+secretary, Vieki Shaw. Other limes 
+students need personal counseling. 
+Ulmer said he has helped sludents 
+deal with career decisions, 
+disillusionment, personal crises and 
+financial problems. 
+
+On busy days, Ulmer might 
+receive 20 phone calls and see a 
+dozen people. Generally he doesn't 
+eat lunch unless it's a business 
+luncheon. On less busy days he 
+might slop in at the campus 
+cafeteria for a bowl of soup. 
+
+Afler lunch he might be called 
+upon to fulfill responsibilities apart 
+from his duties as ombudsman. 
+
+"I'm on a lot of committees by 
+virtue of the office," Ulmer said, 
+"and I spend a lot of time In a 
+student advocacy role." He ex- 
+
+
+
+plained that he takes the long-range 
+perspective for students because 
+individual students are transitory. 
+
+When he started in 1964; at what 
+was then only Indiana University, 
+Ulmer was an academic counselor. 
+Now he serves in a management and 
+supervisory capacity as well. 
+
+He is coordinator of a dozen or so 
+offices and departments, including 
+Health Services, Disabled Students 
+Services, Union Building activities, 
+and the Athletic department. He 
+works with and directs committees, 
+staff members, and task forces. 
+Lately, he said, he has been going 
+over the budgets with the various 
+—offices -to —determine, -needs and 
+excesses. 
+
+With all his bureaucratic in- 
+volvement and frustration-filled 
+encounters, one might think Ulmer a 
+likely prospect for therapy. He does, 
+in fact, have a way of getting away 
+from it all. 
+
+"I love horses," he said, nodding 
+toward the pictures on shelves. "1 
+have five Arabs and a pony. I also 
+have a little bit of land. I like to get 
+out and work with both of them," he 
+said. 
+
+But to call this his therapy is to 
+suggest that his job causes agitation. 
+Ulmer said that this is not the case. 
+
+"I love my work, working with 
+students. It's a challenge, but a joy. 
+And I love the diversity here," he 
+said, referring to the fact that he 
+works with students ranging from 18 
+to50 years old or older. 
+
+What does he consider the high 
+point in his career? 
+
+Ulmer tapped the ashes from his 
+pipe into an ashtray, then stopped 
+to reflect. 
+
+"It's been great to see us grow 
+from one building and 2600 students 
+to several buildings and 10,000 
+students. And from two degree of- 
+ferings to what we have now," he 
+said. His smile reflected that he was 
+pleased to have been involved in 
+such a process. 
+
+His involvement is further 
+exemplified in his participation in 
+campus events and functions. Not 
+limited tocampus involvement, he is 
+a member of the Parkview Hospital 
+Board of Directors and chairman of 
+the CETA Advisory Committee. 
+
+But Ulmer does not like to sound 
+corny or overzealous. 
+
+He said that by six o'clock he is 
+ready to call it a day Sometimes 
+that means just going home and 
+grabbing a Michelob. 
+
+But the last thing he does before 
+leaving is check over his calendar 
+again. He leans over his desk and 
+notes whether there is a basketball 
+game scheduled that night, or that 
+he has an appointment the next day 
+with a student who has been referred 
+
+Everything Is quiet again as he 
+turns out Ihe lightand leaves. 
+
+
+
+and Vice President Steve Westrick 
+disagree with combining SUBOG and 
+the Student Senate. They feel that the 
+effectiveness of student services would 
+be decreased. 
+
+The three former senators also feel 
+that the revision of the Senate con- 
+stitution last fall was a waste of time. 
+Kuehn especially feels thai il drove the 
+Senators apart because they bickered 
+over how it should be written. 
+
+Momper initially disagreed with the 
+revision of the constitution, but was 
+pleased with the way it turned out. 
+
+Westrick reels that It look too long to 
+write Ihe constitution when the Senate 
+could have been serving the students in 
+
+
+
+other ways. He is glad, however, that 
+the revision produced a legislative 
+affairs committee. 
+
+Perhaps Kuehn summarized the 
+feelings of Ihe three former senators 
+the best when he said, "We really tried 
+to make It work. Our hands were tied 
+with rewriting the constitution. We 
+weren't doing anything for the students 
+and felt useless because we perceived 
+we had no input from the students. 
+What could we do?" 
+
+He felt that il was up to (he students 
+lo get involved, and that things 
+wouldn't change by themselves. "It's 
+your baby," Kuehn said. "Run with it." 
+
+
+
+OPINION 
+
+
+
+The Communicator 
+
+
+
+PAGE2 -THE COMMUNICATOR 
+
+
+
+Simon says 
+elevators OK 
+
+
+
+Dan Simon, an employee of Schindler 
+Haughton, the elevator company that 
+services IPFW's elevators, claims that 
+the elevator that reportedly fell Feb. 2 in 
+Kettler Hall did not fall. 
+
+Simon contends that the two students 
+who were on the elevator at the time of 
+the "fall" in fact only experienced the 
+"sensation of falling" caused by a minor 
+mechanical problem with the elevator. 
+The elevator had been inspected last 
+December, Simon said, and checked just 
+the day before the "fall." 
+
+Regardless of the validity of the 
+"falling" of the Kettler elevator, 
+elevator problems do exist at IPFW. 
+
+One case in point is the elevator in the 
+Walb Memorial Union building. During 
+the week beginning Feb. 9, the elevator 
+in that buildng was out of order at least 
+part of each day. In each instance, the 
+elevator was stuck, with doors open, on 
+one of the three floors— leaving those 
+who must use an elevator without means 
+of travelling to other floors 
+
+During the same week, at least one of 
+the elevators in Kettler Hall was not 
+functioning properly. 
+
+When boarding the Kettler elevator on 
+the ground floor and pushing the button 
+for the second floor, the elevator stopped 
+
+
+
+on the first floor before proceeding to the 
+second level. 
+
+Again, when boarding it on the second 
+floor and pushing the ground floor 
+button, the elevator stopped at the first 
+floor before going to its proper 
+destination. 
+
+Although the extra stops by the Kettler 
+elevator seem to pose no dangerous 
+situation, one wonders about the safety 
+of improperly working elevators. 
+
+Simon feels the elevators here are 
+safe. 
+
+He gave the elevators a "clean bill of 
+health" after their yearly inspections, 
+and each elevator is checked bi-weekly 
+by Simon. 
+
+Also during the same week, one of the 
+two eleva tors in the Helmke Library was 
+out of order for at least several hours on 
+Monday. 
+
+The only elevator on campus, it seems, 
+that did not have operational problems 
+last week was the one in Neff Hall. 
+
+Simon said that abuse of campus 
+elevators is not uncommon and causes 
+many of the problems with them. 
+
+While there may be valid reasons why 
+the elevators here are semi-functional, 
+we can only hope the situation is 
+corrected soon. 
+
+
+
+
+Center 
+
+
+
+We asked... 
+
+
+
+The Communicator asked, Are you 
+in favor of capital punishment? Why 
+or why not... 
+
+
+
+They said 
+
+
+
+£11 
+
+
+
+
+• •• 
+
+
+
+"Yes, in certain cases. It would help 
+if used properly when laws are 
+broken. If there isn't a threat, what 
+will -stop them?" Jack Huttinger, 
+freshman, business major. 
+
+
+
+
+
+"Haven't formulated an opinion. 
+Don't have an off-the-cuff answer." 
+
+Pat Ballinger, graduate student, 
+engineering major. 
+
+
+
+"Depends on what the person did. It 
+
+would be right for a person like 
+
+Charles Manson." Pamila Weis, 
+
+nursing major. 
+
+"No, I don't think it is right to take 
+
+another person's life. A person has the 
+
+right to keep it." John Freeburger, 
+
+junior, management major. 
+
+"I don't think so because I don't 
+believe in killing someone for the 
+justification of a crime. Death isn't 
+the answer." John Lauer, senior, 
+accounting. 
+
+"No, definitely not. Basically I'm a 
+pacifist. I don't believe in living in a 
+society which kills people and in- 
+stitutionalizes murder." Barbara 
+Crow, staff member, director of 
+music theory. 
+
+
+
+
+
+
+a: 
+
+"No, I'm not for it. Really, if the 
+United Stales punished by capital 
+punishment, it would become a 
+revengeful society. If we kill the 
+criminals then we are no better than 
+they are." Eric Rankin, freshman, 
+political science major. 
+
+
+
+"Some cases yes, but there 
+shouldn't be a blanket punishment. In 
+certain cases it is applicable." Gary 
+Bartle, sophomore, business major. 
+
+
+
+
+EP 
+
+
+
+"No, I'm not in favor of capital 
+punishment. I don't believe we have 
+the right to take another life — an eye 
+for an eye — life is too precious." 
+Starley Pifer, RN, director of health 
+services. 
+
+
+
+(Continued 
+
+"We work on developing 
+the children's socialization 
+and helping them feel good 
+about themselves," said 
+Sherry Janek, a teacher at 
+the Center since 1979, In all 
+programs the particular 
+child is matched to the ac- 
+tivity. 
+
+Enrichment programs 
+include music, stories, and 
+activities that involve 
+creative expression. 
+
+Songs are selected to help 
+the children respond to 
+rhythm and develop an 
+apprecialion of different 
+kinds of music. 
+
+Betsy Baker, who became 
+five years old Feb. 16, is one 
+of several children who likes 
+to listen to story records 
+during the afternoon quiet 
+time. 
+
+Story time is an op- 
+portunity to encourage ef- 
+fective listening skills in a 
+relaxed atmosphere. Stories 
+and poems are chosen to 
+enable the children to 
+acquire the beginnings of a 
+taste for good literature. 
+
+Paintings, hung on a rack 
+to dry. or rolled "can- 
+vasses," ready to take home, 
+are evidence of the creative 
+opportunity in art. Various 
+craft materials are available 
+to the children for ex- 
+perimentation and self- 
+expression. 
+
+Powdered soap added to 
+the paint used, adds texture 
+and does not seem to distress 
+the young artists. It is, 
+however, a help to parents 
+when doing the laundry. 
+
+The children are taught to 
+do many things (or them- 
+selves, including ihe 
+development of good habits. 
+Cleanliness and orderliness 
+are stressed as the children 
+put away their materials and 
+prepare for lunch. 
+
+Lunches are brought from 
+home. In addition parents 
+are expected to provide a 
+nutritious snack on a regular 
+basis, according to the rules 
+of the Center. Some parents 
+work as teacher's aids 
+
+
+
+from page 1 ) 
+
+during the busy lunch hour 
+in return for free child care. 
+
+Parents often stop in to 
+observe or participate 
+during circle time, said 
+Tangela Cassel, who works 
+at the Center It is a more 
+active time promoting 
+classroom participation and 
+emotional release. Finger 
+plays and guided fantasies 
+are favorite circle activities 
+of the children. 
+
+Cassell is one of 19 prac- 
+bcum students who give 
+time to the Center as 
+volunteers and receive 
+university credit for on-the- 
+job training 
+
+The practicum students 
+are majors in a field related 
+to child care. They help 
+provide an unusually high 
+ratio of adults to children at 
+the Center. Instructed by 
+lead teachers, they are 
+trained to work with each 
+age group of children. 
+
+Cassell is ah education 
+major and in addition to her 
+work at the Center is doing 
+observation for a class in 
+early childhood education. 
+
+One hundred-fifteen 
+families take advantage of 
+this economic and con- 
+venient child care service. 
+Their cost is a S5.00 users 
+fee, plus $1.25 an hour for a 
+first child, and 75 cents an 
+hour for a second child in the 
+same family. 
+
+Other funding for the 
+Center is a S6,&lt;HX) grant from 
+the Student Union Board of 
+Government (SUBOG). "We 
+operate on a shoe string," 
+said Kauffman. who went on 
+to express gratitude^ -for . 
+donations. — 
+
+In addition to&gt;the facilities I 
+at the Stellhorn and Robs on 
+location, a pre-school 
+program is provided at Walb 
+Memorial Union. Morning 
+and afternoon sessions are 
+designed for pre- 
+
+kindergarten skills, said 
+Kauffman. The program 
+involves a traditional nur- 
+sery school setting. It is 
+limited to 20 children. 
+
+
+
+Concerts' problems subside 
+
+
+
+ByJ.G.GRISWOLD 
+Staff Writer 
+
+A lack of rock concerts has 
+plagued the Memorial 
+Coliseum with less than five 
+concerts in the past six 
+months. 
+
+In the past, local 
+promoters blamed the lack 
+of concerts on the numerous 
+arrests made Tor "drug use, 
+smoking, and alcoholic 
+violations. 
+
+The arrests became such 
+an issue last spring that 
+Mayor Winfield Moses was 
+prompted to meet with 
+concert goers at IPFW. At 
+that meeting, Moses pledged 
+to resolve the problem. 
+
+Yet, despite his promises, 
+problems still exist and 
+concerts are few. 
+
+General Manager of the 
+Coliseum Don Myers 
+believes that lack of concerts 
+is not caused by the arrests 
+
+
+
+Alumni groups join 
+in serving students 
+
+
+
+By MAY S. EHRESMAN 
+Staff Writer 
+
+The alumni activities at 
+IPFW are an effort of two 
+alumni groups, the IU 
+Alumni Association and the 
+Purdue Alumni Association. 
+They offer students some 
+activities and services as a 
+part of their service to the 
+
+The associations hosted an 
+Old Timer's Soccer Game 
+lAlumni vs. Varsity) and a 
+continental breakfast for 
+prospective students and 
+their parents during Red and 
+Gold Carpet Day. They 
+distributed pocket calendars 
+earlier in the school year and 
+plan to sponsor a Student 
+Leaders Reception and the 
+Graduating Class Council. 
+
+John Hobson, director of 
+the alumni associations, 
+talked about tentative plans 
+to present an award based on 
+academic record and ex- 
+tracurricular activities to 
+the most deserving senior. 
+
+If there is sufficient 
+student and faculty Interest 
+shown, Hobson said he could 
+arrange for a Career Day 
+where past alumni would be 
+invited to talk with students 
+about what they have done 
+with their degrees. 
+
+By providing students wilh 
+
+
+
+an awareness of the alumni 
+associations through various 
+activities during their un- 
+dergraduate years, the 
+associations hope to build 
+their visibility among future 
+graduates, and thus their 
+memberships. 
+
+Both alumni groups have 
+their own officers and 
+boards, but they work 
+together from the same 
+office IU Alumni 
+
+President is Ruth Swank, 
+principal of Perry Hill High 
+School, and the Purdue 
+Alumni is headed by Rob 
+Pal e vie h, inventory control 
+manager of Hardware 
+Wholesalers Hobson 
+
+coordinates the activities of 
+both groups. 
+
+A few of the benefits of 
+joining either of IPFW's 
+alumni associations include 
+newsletters, life insurance, 
+social activities, family 
+camp (IU only), national 
+membership and perhaps 
+the opportunity to meet with 
+and learn from other 
+graduates— such as the 
+president of People's Trust 
+Bank, an actress in the soap 
+opera, "All My Children," a 
+rock musician and even Fort 
+Wayne's first lady, Sue 
+Moses— all members of Hie 
+alumni associations. 
+
+
+
+The Communicator 
+
+
+
+
+
+
+IU students going to Met 
+
+
+
+Btoomington — More than 
+200 students from the 
+Indiana University School of 
+Music will be performing at 
+the Metropolitan Opera 
+House this spring. 
+
+On April 26, the school's 
+Opera Theater will present 
+its American premiere 
+production of Czech com- 
+poser Bohuslav Martinu's 
+"The Greek Passion" at the 
+Met, as part of a five- 
+
+
+
+performance New York 
+showcase of the elements 
+that have led critics and 
+independent polls ofils peers 
+to rank IU as the number one 
+music school in the country. 
+
+IU School of Music Dean 
+Charles H. Webb Jr said, "I 
+covet (he best for our 
+students, I want to give them 
+the besl performance op- 
+portunities in the nation " 
+
+
+
+but the economy. 
+
+"We are being hurl by the 
+economy," Myers explaines. 
+"There are not very many 
+acts touring around right 
+
+Myers believes the arrest 
+problem has been corrected. 
+"It has resolved itself; 
+concert goers are improving 
+their conduct," claimed the 
+manager. 
+
+At the last rock concert 
+held, Molly Hatchet, 
+minimal arrests were made. 
+
+Part of the reason for this 
+decrease in arrests is 
+because the Fort Wayne 
+Police are no longer in "all 
+out force" at the concerts, 
+said Public Informations 
+Officer Don Goodson. 
+
+"We (Fort Wayne Police) 
+are not wanted there by the 
+Coliseum Board as we were 
+in the past administration," 
+explained Goodson. 
+
+
+
+"They are more concerned 
+with making money then 
+enforcing the law," said the 
+police spokesman. 
+
+Goodson added that police 
+are still present at concerts 
+but are "less visible." There 
+are now less uniform officers 
+and more undercover police 
+officers. 
+
+"We will still monitor the 
+concerts, but we will no 
+longer use Gestapo tactics 
+used by the past ad- 
+ministration," said Goodson. 
+
+Goodson added that police 
+will still search entering 
+concert goers if there is 
+"probable cause" to do so. 
+
+Generally, however, 
+Goodson said that police will 
+give warning to law violators 
+before making arrests. 
+
+"As a rule, most arrests 
+that are made, are violators 
+from out of town," Goodson 
+
+
+
+in/font copy-in/tant copy-in/tctnt copy 
+
+
+
+As a special customer service 
+
+During lax paying time, Ihe Inslanl Copy slore located at 3420 
+N. Anlhony in the North Anthony Shopping Center will be open 
+on weekends. 
+
+OPEN 9 to 4 Saturday • 12 to 4 Sunday 
+
+Remember Ihe Instani Copy guarantee. We print 500 regular 
+copies in ten minutes or the job's free. 
+
+
+
+// 
+
+
+
+Your full service printing and copying centers. 
+
+In/lCUn "2 . . WAYNE 3420 N. At 
+
+
+
+&amp;) C0 M 
+
+
+
+fkloo gtroisuufidoo iwu^m.fkloo |u\&gt;|/ui 
+
+
+
+WIPU8Q1FM 
+
+FEBRUARY 
+
+
+
+SUNMONTUE WEPTHUR FRI SAT 
+
+
+
+
+■witli 3x:a,x-l haas 
+
+
+
+"ft?* 
+
+
+
+Three Biveft Alman. 
+
+
+
+
+
+
+
+Si,, Off 
+
+
+
+FEB. 19, 1981 - THE COMMUNICATOR- PAGE 3 
+
+
+
+Teen pregnancy theatre topic 
+
+
+
+Theatre For Ideas will 
+examine the issues of 
+teenage pregnancy with the 
+help fo social workers, a 
+teenage mother, and a 
+teenage boy in "Having My 
+Baby," at 7:45 p.m. Friday, 
+Feb. 20, In the auditorium of 
+
+
+
+Deaf professor speaks with 
+hands in sign language class 
+
+
+
+library. Audience members 
+are encouraged to par- 
+ticipate In this discussion 
+about the prospect of such a 
+large ratio of children (50 
+percent) being bom to un- 
+wed teenage mothers. 
+
+
+
+Friends of Animals to meet 
+
+The University Friends of 110 of the Walb Memorial 
+Animals will meet at noon, Union. 
+Monday, Feb. 23, in Room 
+
+Therapy pros and cons given 
+
+Pros end cons of therapy 
+for women, choosing a 
+therapist, and the im- 
+portance of women's therapy 
+groups will be the topics 
+
+Nicholson to speak at forum 
+
+Ed Nicholson, IPFW Vice- Tuesday, Feb. 24. Everyone 
+
+Chancellor, will speak on the is invited to the informal 
+
+topic of "IPFW in the 60s: discussion in Walb Memorial 
+
+Academic Issues" atlheSoc- Unionll4. 
+Anthro Forum, at noon, 
+
+Chairperson leads discussion 
+
+
+
+discussed at a Women's 
+
+Studies program at noon, 
+Monday. Feb. 23, in the Walb 
+
+Memorial Union, Room 224. 
+
+
+
+Clark Butler, chairperson 
+of the philosophy depart- 
+ment, will lead a discussion 
+of the taxation theories of the 
+19lh century American 
+
+
+
+social philosopher, Henry 
+George, at the Philosophy 
+Table at 1:30 p.m. on Friday, 
+Feb. 20, in the Fort. 
+
+
+
+
+Kirchhoff to head "S/Z" talk 
+
+
+
+Frederick Kirchhoff will 
+head the discussion on 
+Roland Barthes' "S-Z" at 
+noon, Monday, March 2, in 
+Neff Hall 149. Everyone is 
+
+
+
+requested to read the book 
+before the meeting. It is 
+available at the bookstore in 
+limited quantities. 
+
+
+
+Clinic offers dental services 
+
+
+
+Students, faculty, and the 
+general public are en- 
+couraged to use the Dental 
+Hygiene Clinic at IPFW, 
+open Monday through 
+Friday, 8 a.m.-5 p.m. Ser- 
+
+
+
+vices include teeth cleaning, 
+X-rays and fluoride treat- 
+ments. Those interested can 
+stop by the clinic in Neff 
+Hall, Room 109, for an ap- 
+pointment. 
+
+
+
+Advance consultation with on oltorney 
+can help you protect your legal interests 
+in an adoption or other family matters. 
+
+PRATT, RICHARDS &amp; BUTTS 
+
+Attorneys at low 
+
+(219)423-3408 
+
+James S. Butts 902 Commerce Bldg. 
+
+ChorlesF. Prolt 127 W. Berry 
+
+Koren E. Richards Fort Wayne, IN 
+
+GENERAL PRACTICE 
+
+OF LAW 
+
+
+
+Cecil Bradley, who Is 
+deaf, uses his hands to 
+help him teach his new 
+American Sign Language 
+class. (Photo by Keith 
+Hall). 
+
+
+
+Classifieds 
+
+
+
+BIORHYTHM CALENDAR: 
+Know your luckiest 
+days! Much more than a 
+biorhythm chart. Send 
+name, address, dale of 
+birth and $7.00 to JM- 
+MA, P.O. Box 702, Dept. 
+C.Toro.Ca. 92630. 
+
+THE THREE RIVERS Fife 
+
+and Drum Corps is 
+constantly looking for 
+
+
+
+ByKAYREUSSER 
+Staff Writer 
+A tall, well-built young 
+man entered the crowded 
+classroom. As he began to 
+whisper, the class grew 
+attentive. Suddenly, 
+everyone began to make 
+strange motions with their 
+arms and fingers. 
+
+Was this part of a code for 
+a secret mission? 
+
+No, it was the new 
+American Sign Language 
+class being offered by the 
+Speech and Audiology 
+Department. The professor 
+is Cecil Bradley, who is deaf. 
+He communicates to his 
+class by speaking, lip 
+reading, and using sign 
+language. 
+
+It may come as a surprise 
+for some to know that a deaf 
+person can speak. A deaf 
+person is not necessarily 
+mute. In fact, the terms 
+"deaf-mute" and "deaf and 
+dumb" are outdated and 
+considered offensive to most 
+deaf people. 
+
+The vocal chords are not at 
+all affected by loss of 
+hearing. A person bom deaf 
+has no way of knowing what 
+a word is supposed to sound 
+like or how to utilize his 
+vocal chords to pronounce it 
+correctly. Thus, it appears a 
+deaf person cannot speak, 
+only because he doesn't 
+know now. 
+
+For this reason, deaf 
+people prefer to com- 
+municate using sign 
+language. Sign language 
+includes both signing and 
+fingerspelling. Signin g uses 
+
+men and women 
+members to become a 
+part of the group If you 
+have had musical ex- 
+perience and would be 
+interested in playing the 
+fife and long drum as 
+presented in the 
+Revolutionary and Post 
+Revolutionary period, 
+please contact: Gary 
+Kuntz, 429-7064 or 484- 
+3046. 
+
+
+
+motions that stand for entire 
+words. 
+
+Fingerspelling, on the 
+other hand, gives each letter 
+of the alphabet a distinct 
+handshape. Names, for 
+example, are fingerspelled 
+when Ihe correct spelling 
+might be questionable. 
+
+Students in the class come 
+from varied backgrounds, 
+such as dental hygiene, 
+supervision, and mental 
+health. They feel that adding 
+sign language to their 
+profession will be a help to 
+the handicapped people in 
+the community where they 
+will work. 
+
+Besides teaching part- 
+time, Mr. Bradley works at 
+the Anthony Wayne 
+Rehabilitation Center, This 
+center provides services for 
+the deaf or hearing-impaired 
+In choosing a vocation. He is 
+also vice-president of Fort 
+Wayne Tele Typewriters for 
+the deaf 
+
+
+
+Want to be a 
+Catholic Priest? 
+
+Age 20-50 
+
+Contact ft. Nigro 
+
+fioniaga University, 
+
+Spohane, Washington 49258 
+
+
+
+Ft. Wayne Blood 
+Plasma Donor Center 
+
+HOURS 
+
+OF 
+
+OPERATION 
+
+Tueubr ^ Thi.--.ij, 
+
+9:10 K.M. until 6 P.M. 
+
+Wed. FA &amp; SiL 
+
+M0 1M ir,Mi?M 
+
+N» Dcn-;.r% Process Up 
+
+To 1 Hour befoie closing Heel 
+
+dip ofilj-Siiuid»j Between 
+
+1-3 P.M. 
+
+SCASH RAIDS 
+For Blood Plasma 
+Donations' 
+One Free Bus ride or 1 1 
+
+EARN UP TO 
+
+$60 MONTHLY 
+
+Call lor In Idi matron 
+
+114 H. Washington Blvd. 
+
+422-7435 
+
+Brinj This Ad for Bonus 
+
+(HfW DOHORS OHLTI 
+
+
+
+Hid 
+
+
+
+
+A construction worker lays concrete blocks for the HPER building as It nears completion 
+(Pholoby Keith Hall). v 
+
+Completions near 
+
+-*■ include a cross anatnrm 
+
+
+
+By V'CKI SCOTT 
+Staff Writer 
+
+Construction is nearing 
+completion on both new 
+buildings on the IPFW 
+campus. The building 
+adjacent to Neff Hall, 
+Building "D," will be 
+ready for occupancy in 
+September. The other, 
+located behind the Walb 
+Memorial Union, the 
+health. physical 
+
+education and recreation 
+building (HPER), is 
+scheduled for completion 
+in November. 
+
+Both buildings are very 
+close to their scheduled 
+finishing dates. Both 
+construction firms, 
+Haggerman Con- 
+
+struction, for Building 
+"D." and Jackson Con- 
+struction for HPER, 
+reported they are only 
+two weeks off schedule. 
+Denny Squires, 
+
+superintendent for 
+Jackson Construction, 
+reported that [he lecture 
+area of HPER will be 
+finished in August. 
+Haggerman's superin- 
+tendent, Mike Koch, said 
+the reason for the two- 
+week delay was primarily 
+due to bad weather 
+conditions. Both com- 
+
+
+
+panies reported that 
+strike situations have not 
+been a factor since last 
+summer. 
+
+The costs of the two 
+buildings have been 
+estimated in varying 
+degrees over the past four 
+years. A first Building 
+"D" was projected to cost 
+$6 million, but according 
+to the Office of Financial 
+Affairs, the cost is set at 
+$4.6 million and cannot go 
+over that figure. Similar- 
+ly the HPER Building 
+was expected to cost $4.5 ' 
+million, but was budgeted 
+at $4,117,000. 
+
+Building "D," ac- 
+cording to Jerry Medley, 
+director of University 
+Relations, is "a real 
+added plus to Ihe campus 
+due to the fine medical 
+education program that 
+will now be available." 
+■The building will contain 
+50,000 square feet of 
+space. It will be divided 
+into five modules. 
+
+Building "D" will in- 
+clude: the medical 
+education program, 20 
+classrooms, a lecture- 
+performance complex, 
+Arts &amp; Letters facilities 
+and the division of Music. 
+
+The laboratories will 
+
+
+
+include a gross anatomy 
+lab, multipurpose lab, 
+faculty research lab, 
+animal facility and a 
+controlled environment 
+facility. 
+
+The lecture per- 
+formance complex will 
+seat 590. There will also 
+be a theatre performance 
+hall. The building will 
+have a foyer that will 
+serve as a faculty and 
+student commons area. 
+
+The music module will 
+have an instrument 
+rehearsal storage with an 
+ie foot ceiling, instrument 
+and choral music library 
+room, percussion in- 
+struction room, in- 
+dividual practice room, 
+private teaching studio 
+and an electric piano lab. 
+The HPER building will 
+have five handball courts, 
+three full-size basketball 
+courts, an indoor jogging 
+track elevated above the 
+basketball courts, plus 
+facilities for indoor 
+tennis, volleyball, 
+gymnastics, wrestling, 
+weightliRing, fencing, 
+and dancing. When 
+equipped with bleachers 
+the building will have a 
+seating capacity of 2,550 
+surrounding the main 
+basketball court. 
+
+
+
+STUDY IN EUROPE 
+
+The University of Louvoin (est. 1425) 
+
+Leuven. Belgium 
+
+offers 
+
+COMPLETE PROGRAMMES IN PHILOSOPHY 
+
+FOR THE DEGREES OF B.A., M.A., AND Ph.D. 
+
+plus a JUNIOR YEAR ABROAD PROGRAMME 
+
+All Courses Are In English 
+
+Tuition is 1 1 ,500 Belgium Franks {+ (400) 
+
+Write To: Secretin, English Pnqammei 
+
+brdiiul Moticrpleio 2 
+
+B-30Q0 Leini, Betgnui 
+
+
+
+
+Uvers 
+
+Skimmmm® 
+
+
+
+a review of upcoming 
+
+events and activities for 
+
+the Fort Wayne area 
+
+broadcast four times 
+
+daily by 
+
+WIPU 89.1 FM 
+
+or call 
+
+482-5400 anytime day 
+
+or night 
+
+a public service of 
+WIPU &amp; IPFW 
+
+if you would like your event 
+broadcast on this program, send it to: 
+
+
+
+WIPU - 3 Rivers Almanac 
+
+Indiana University-Purdue University 
+
+at Fort Wayne 
+
+2101 Coliseum Blvd., East 
+
+Fort Wayne, Indiana 46805 
+
+
+
+campus 
+calendar 
+
+
+
+THURSDAY 19 
+
+Nursing Information meeting, Neff 138, 4 p.m. 
+
+FRIDAY 20 
+
+English Graduate Student Association meeting. 
+
+Professor Henry Kozicki speaking on "Browning," 
+
+Walb 110,4:30 p.m. 
+
+SATURDAY 21 
+
+SUBOG movie, "It Came from Outer Space" (3D), 
+
+Walb Ballroom, 7 &amp; 10 p.m. 
+Faculty Recital, James Ator, saxophone, Joyonne 
+
+Jones, piano, Anthony Adessa, violin, Neff 101, 
+
+6 p.m. 
+Men's Basketball, IPFW at Bethel, 2 p.m. 
+Men's Volleyball, IPFW at Earlham/State Tourney, TBA 
+
+MONDAY 23 
+
+Women's Studies, "Are Therapists a Menace to your 
+
+Health?" Walb 116, Noon 
+Inter-Varsity Christian Fellowship, Neff 147, Noon 
+Preliminary Rounds of State &amp; Peace Oratory Contests, 
+
+Walb 112, 7:00 p.m. All interested faculty and 
+
+students are invited to attend. 
+
+
+
+Department of Nursing, speaker Ms. Melba Weber, 
+
+"Hypnotism," Kettler 146, Noon 
+Young People in Broadcasting meeting, Library B35, 
+
+Noon 
+University Friends of Animals, Walb 1 10, Noon 
+
+
+
+TUESDAY 24 
+
+Soc/Anthro Forum "IPFW in the 80's: Academic Isues,' 
+
+Walb 114, Noon 
+Women's Basketball, IPFW at Goshen, TBA 
+
+
+
+WEDNESDAY 25 
+
+Men's Volleyball, IPFW at Ohio Stae University, 8 p.r 
+
+
+
+THURSDAY 26 
+
+Men's Basketball, IPFW at St. Joseph's 8:30 p.m. 
+
+Women's Basketball, 26 - 28, Northern Districts, TBA 
+
+
+
+spring recruiting calendar 
+
+
+
+MONDAY 23 
+
+
+WEDNESDAY 25 
+
+
+Lazarus 
+
+
+American United Life 
+
+
+Burroughs Corporation 
+
+
+Lincoln Life/Summer Internships 
+
+
+Thorn McAn Shoe Co. 
+
+
+
+
+Metropolitan Life Insurance 
+
+
+THURSDAY 26 
+
+
+
+
+New York Life 
+
+
+TUESDAY 24 
+
+
+Commonwealth Life Insurance 
+
+
+Essex 
+
+
+Danners 
+
+
+U.S. Gypsum 
+
+
+
+
+Square D 
+
+
+
+
+
+EXHIBIT THRU FEB. 27 
+
+Paintings and ceramics of Mary Morrison and Maria 
+White, Department of Fine Arts, 1026 West Berry Street. 
+
+Compui Calendar li iponiored fay Indiana Unlvanlty-Purduo Unlvenlty el Fori Way no tor the u 
+at all unlvunliy deportmont* and organliollani. Itomi lo bo Includod In Ihe Compui Calendar mi 
+be ■ubmltted to the Office of Unlwertlly Relolloni end Development, Kolllor 101 by S p.m. an li 
+Thursday preceding 'be week of publication. 
+
+
+
+the arU 
+
+
+
+PAGE 4 -THE COMMUNICATOR - FEB. 19. 1981 
+
+
+
+
+Mystery unfolds 
+
+
+
+The IPFW musk department Is prcuurinfj for iis production of "I. P&amp;gll&amp;ccl," a popular 
+opera Involving clandestine affairs and murder, tn this scene. Lincoln Chapman ;is Conio 
+confronts his wife Neddo (Dorothy Killnkai as another player looks on. (Photo by Rick 
+Papa zl an.) 
+
+
+
+IPFW to mount opera 
+
+
+
+Cast practices 
+
+
+
+By TIM BATZ 
+Staff Writer 
+
+"A lot of people feel that 
+culture has to hurl and that 
+it's dull and boring. One of 
+our aims with this opera is to 
+show people that culture can 
+be fun and entertaining," 
+said Dr. Joseph Meyers, 
+associate professor of music 
+at IPFW 
+
+The opera is "I. Pagliacci" 
+by Ruggiere Leoncavallo 
+and will be performed in 
+English so the audience can 
+get a better grasp of the 
+performance. It involves 
+some issues which are 
+contemporary — clandestine 
+affairs and murder of 
+passion. 
+
+Meyers views the per- 
+formance as a form of 
+outreach. "Operas are not 
+ungodly long and boring. In 
+fact, most operas don't 
+exceed two hours, including 
+intermission. Musicals and 
+operas are quite similar. The 
+big difference is that with an 
+opera, most of the per- 
+formance is sung," he said. 
+
+"I Pagliacci" will be 
+performed at the Concordia 
+High School auditorium on ii 
+Feb. 27 and Mar. 14 at 8 p.m. 
+There will be a Sunday 
+
+
+
+matinee, Mar. 15 at 3 p.m. 
+
+The well known opera is 
+set in a town in Italy around 
+1890. Lincoln Chapman plays 
+the lead role of Canio, leader 
+of a group of actors, jugglers 
+and acrobats. His wife 
+Nedda, played by Dorothy 
+Kittaka, has an affair with 
+Silvio (Keith Brautigml, a 
+villager. She is betrayed by 
+Tonio &lt; Larry Reed! a hunch- 
+back who was scorned by 
+Nedda. 
+
+Canio finds out about the 
+affair, but not the respon- 
+sible party If he could find 
+out, he would kill both Nedda 
+and her lover. He confronts 
+her repeatedly, with the 
+tragic ending coming at the 
+end of the second act of a 
+'■play within a play." 
+
+There will be a casting 
+change for the Saturday 
+performance with Connie 
+Thatcher playing Nedda and 
+Steve Nahrwold playing 
+Beppe The orchestra will be 
+conducted by Anthony 
+Adessa. The cast of 80 
+includes an adult chorus of 
+30, led by Pat Kennedy, and 
+a children's chorus of 17, 
+composed of students from 
+Aboite and Lafayette 
+elementary schools 
+
+
+
+"We have produced one 
+opera a year each of the 
+seven years that I have been 
+here," said Meyers. "This is 
+the first year that we have 
+made a big media push. I 
+have been running opera 
+tours " for groups to see 
+performances in cities like 
+Chicago, Detroit and Cin- 
+cinnati. We've always had a 
+sufficient response for these 
+charters and I would say 
+there is a sizable group in 
+Fort Wayne that has a 
+definite interest in opera." 
+
+When asked about claims 
+that opera performed in any 
+language other than the 
+original loses something, 
+Meyers said, "Those claims 
+are grossly exaggerated. 
+There are some purists who 
+feel that way but there are 
+many companies worldwide 
+that perform exclusively in 
+their native tongue It makes 
+it so much easier for the 
+members of the audience 
+who are not big opera fans to 
+follow a long." 
+
+Tickets, available at the 
+music office in Neff Hall, are 
+W for adults, S3 for senior 
+citizens and students, and 
+free for activity card 
+holders. 
+
+
+
+Bv NANCY SLICK 
+Staff Writer 
+The Arena Dinner Theatre 
+opened its latest mystery- 
+drama, "Laura," to a full 
+house on Friday night. The 
+drama, written by Vera 
+Caspary and George Sklar, 
+was directed by Denny 
+Bechtelhcimer and was well- 
+received by the viewing 
+audience. 
+
+This whodunit centers 
+around a mysterious 1943 
+murder in the New York 
+apartment of Laura Hunt, 
+and detective Mark 
+McPherson ( Ed Liptak) 
+must investigate the crime 
+and interrogate the various 
+characters that visit the 
+scene. 
+
+Liptak's portrayal of the 
+smooth, confident detective 
+was effective yet lacking in 
+energy. His vocal projection 
+was low in the first act, and 
+perhaps that accounts for his 
+appearing too low-key. His 
+act two performance was 
+much stronger. 
+
+A marvelous performance 
+was given by James Yarnell 
+as the suave and arrogant 
+Waldo Lydecker, a close 
+
+
+
+friend of Laura's. Although 
+Yarnell was quite young to 
+play the part, he played it 
+with great talent, and his 
+portrayal was smooth and 
+energetic. 
+
+A nol-so-smooth per- 
+formance was that of 
+Laura's fiance, Shelby 
+Carpenter, played by Tom 
+Felts. Felts had energy 
+enough to play the role, but 
+he seemed not to know just 
+how to use that energy and 1 
+delivered it in dramatic 
+spurts. 
+
+Dorothy Rioux as Laura's 
+servant, Bessie Clary, was 
+an absolute delight. Her 
+portrayal was light and 
+lovely and brought forth 
+many bursts of laughter. Her 
+confused looks and inquiries 
+were wonderful. 
+
+Carolyn Simmon's por- 
+trayal of Laura's neighbor, 
+Mrs. Dorgan, was also en- 
+joyable. Her performance 
+abounded with energy, and 
+her angry manner prompted 
+many chuckles as she 
+disciplined her son, Danny 
+(GuyPelfrey). 
+
+
+
+Pelfrey's portrayal of the 
+
+
+
+
+ideating young Danny, 
+who has become infatuated 
+with Laura, was nicely done. 
+He played the role 
+believably with a boyish 
+innocence, and the struggle 
+with his emotions was 
+convincingly felt, 
+
+Kathy Lew ton's per- 
+formance of A Girl was 
+adequately done in acts one 
+and two, although at times 
+she didn't seem quite angry 
+enough nor quite fearful 
+enough. However, her act 
+two scene with Shelby and 
+her act three scene with 
+Waldo were very well 
+played. 
+
+Dave Churchward played 
+a convincing detective, 
+Olsen, and Sylvia 
+Bechtulhinmer opened and 
+closed the show with (he 
+song "Laura." with ac- 
+companiment by Susanne 
+B unveil, 
+
+The show was slowly 
+paced, at times, but with a 
+winding plot and careful 
+direction by Denny 
+Bechtelheimer, it was at- 
+tention-holding and en- 
+joyable. 
+
+
+
+
+Murder with a side order of comedy Is on the menu at the 
+Arena Dinner Theatre. "Laura," a detective drama, will 
+be playing through Feb. 28. (Photo by Rick Papazlan. ) 
+
+
+
+Controversial film causes uproar 
+
+Low life tough 
+
+
+
+PIT will soon present Moliere's "Tartuffe," Here, Larry 
+I ilr- as Tartuffe, and Mar the Wchrenberg as Elniire 
+contehd with the pranking Kim Delweiler who plays 
+Orgnn. Maureen O'Reilly will direct the comedy which 
+opens Mar. 6. ( Photo by Kolden Mnecker. ) 
+
+
+
+'Competition' goes for red ribbon 
+
+
+
+ByMIKEGEFFEN 
+Chief Reporter 
+
+"The Competition" suffers 
+from what might be called 
+the red ribbon syndrome. 
+This malady occurs when 
+filmmakers opt for a con- 
+venient, easy ending rather 
+than a tougher one. These 
+endings sew up the plot and 
+leave nothing to the 
+imagination. 
+
+Happy endings are good 
+box office, and are simple to 
+write, but sometimes they 
+turn an otherwise strong 
+picture into a somewhat 
+unrealistic one. This is what 
+happens to "The Com- 
+petition "—instead of being a 
+little tougher, the film- 
+makers go for the red ribbon. 
+
+However, Ihe red ribbon 
+syndrome is the only flaw in 
+
+
+
+an otherwise likable film. 
+"Competition" covers 
+ground rarely dealt with in 
+Hollywood. The film 
+ponders the question of 
+whether a man and a woman 
+aspiring to the top of the 
+same profession can be 
+generous lovers. "Com- 
+petition" effectively depicts 
+modern love as a race be- 
+tween two accomplished 
+people struggling for first 
+The film is at its best 
+when showing Ihe frustration 
+the two lovers feel over 
+getting involved with 
+someone you're competing 
+against. 
+
+Writer-director Joel 
+Olansky's script is filled with 
+chsp dialogue for the most 
+part, although a few 
+melodramatic lines creep in, 
+
+
+
+r. 
+
+
+
+such as when Paul Delrich 
+I Richard Dreyfuss) tells 
+Heidi Schoonover ( Amy 
+Irving), "I just want to gel 
+inside of you and pull you 
+like a blanket over me." 
+These melodramatic lapses 
+aside, Olansky develops the 
+relationship between Paul 
+and Heidi in a realistic, 
+unsentimental way, giving 
+them a friendship first and 
+avoiding the love-at-first- 
+sight trap prevalent in most 
+romantic films. 
+
+Olansky gets hard-edged 
+performances from most of 
+the cast particularly Lee 
+Hemick and Richard 
+Dreyfuss. Dreyfuss is good 
+and in this role he soft pfdals 
+the cutesy-poo charm that 
+has ruined some of his 
+performances. He un- 
+
+
+
+derplays Paul, giving his 
+egotistical outbursts a 
+harsher edge, 
+
+Lee Remick, as Greta 
+Vandemann, Heidi'smentor, 
+is superb. She plays Greta as 
+a strong willed woman who 
+has control over her life, and 
+who believes that you 
+shouldn't foil in love while 
+striving to reach the top. 
+Remick is an accomplished 
+actress, and in Greta she 
+gets a chance to flex her 
+muscles. It's a strong role 
+and wonderful showcase for 
+a fine actress and she almost 
+steals the film. 
+
+Unfortunately, Amy Irving 
+doesn't fare as well as 
+Dreyfuss or Remick. She has 
+a tendency to project a 
+certain sameness into every 
+roll she plays, and Heidi is no 
+
+
+
+exception. The same twang 
+she had in "Honeysuckle 
+Rose" where she played an 
+aspiring country singer pops 
+up in this film even though 
+she is playing an upper 
+middle class pianist. Irving 
+simply doesn't have the 
+magnetic charm the role 
+requires. As a result, her 
+performance is lifeless. 
+
+All in all. "The Com- 
+petition is an okay film 
+with many fine moments, 
+hurt mostly by the director's 
+decision to tie the final 
+minutes up in a red ribbon. 
+To the film's credit, 
+however, it deals 
+
+realistically with an aspect 
+ot relationships hardly dealt 
+with in films, and for thai the 
+film is to be commended. 
+
+
+
+By GLORIA HIZER 
+Starr Writer 
+
+"No Cowboys, No Indians, 
+No Cavalry to the Rescue, 
+Only a Cop." So the ad reads 
+billing "Fort Apache, The 
+Bronx" as a film promising 
+to entertain the action- 
+seeking theatergoer as well 
+as line the pockets of the 
+producers, directors and 
+actors in the film. 
+
+"Fort Apache" is about a 
+cop — a cop on (he beat who 
+lets common sense and a 
+conscience govern his every 
+move. Paul Newman is 
+Officer Murphy. His 18 years 
+of service affords him 
+thorough knowledge of 
+Bronx street life and 
+promotes an atmosphere of 
+understanding and rapport 
+with the people. Newman is 
+his typical cool character, 
+but is " often ruffled by 
+Captain Connoly, the new- 
+precinct boss played by 
+Edward Asner. Connoly's 
+by-the-book tactics produce 
+the inevitable butting of 
+heads. 
+
+The Bronx is depicted as a 
+teeming den of iniquity- 
+drugs, prostitution, unsolved 
+murders, police corruption 
+— all in a setting of 
+deteriorating buildings and 
+streets filled with trash. In 
+his attempt to create an 
+atmosphere befitting the 
+theme of street violence, 
+executive producer David 
+Susskind has caused quite an 
+uproar from this New York 
+community. Whalbeganasa 
+pure action film of cops and 
+robbers has induced a public 
+outcry that the movie is 
+racist and presents a 
+negative image of blacks and 
+Puerto Ricans in South 
+
+As a result, the Committee 
+Against Fort Apache 
+(CAFAl was organized and 
+
+
+
+aligned itself with other 
+minority organizations and 
+Congressman Robert Garcia 
+from New York in an at- 
+tempt to boycott (he showing 
+of the movie in local 
+theaters 
+
+Shortly before the film's 
+release in February, 1981, 
+CAFA representative Diana 
+Perez appealed to New York 
+theaters to "not lake part in 
+this racial assault" and 
+refuse to show the movie. 
+But despite an almost year- 
+long battle to halt the filming 
+of the movie, it opened with 
+only a moderate amount of 
+negative attention. 
+
+Newman is tired of the 
+film's controversy. In an 
+interview with "The 
+Indianapolis Star," he states 
+that the film is tough. "It's 
+tough on blacks, it's tough on 
+Puerto Ricans, it's tough on 
+cops. If you are doing a 
+movie about cops, you can't 
+have Easter egg hunts and 
+wedding parties," he said in 
+the article. 
+
+Precinct 41, the Bronx, has 
+been nicknamed "Fort 
+Apache" because, according 
+to the movie, it is a "fort in 
+hostile territory," the only 
+place where old people can 
+be reasonably sure that they 
+won't get mugged. CAFA 
+and other concerned citizens 
+resent (his negative por- 
+trayal of their community 
+
+"Fort Apache" contains a 
+generous amount of action 
+chases, riots, fights, burning 
+buildings, and murders 
+which should satisfy the 
+average "Kojak" type of 
+viewer. And the characters 
+themselves come across as 
+believable, real people. 
+Murphy knows how tohandle 
+individual street situations, 
+but Connoly is concerned 
+with the citizens as a whole 
+and (rieslodemonstratethat 
+
+
+
+Precinct 41 is the house of 
+the law and there to serve 
+the people. 
+
+Corelli, Murphy's rookie 
+partner, played by Ken 
+Wahl, has the "dress for 
+success" attitude on the job, 
+and promises to be more 
+than a cop in his life. But it is 
+obvious that as good a cop as 
+he is, he will probably be a 
+lifer just like Murphy. 
+Contrary to what the CAFA 
+implies about racism, the 
+film seems to bend over 
+backwards to show the 
+Italian cop Corelli and Irish 
+born Murphy working 
+closely together and 
+depending on each other in 
+life and death situations. 
+
+Underlying the law en- 
+forcement theme of the film 
+is interwoven a mild love 
+story where Murphy falls for 
+a nurse. The tragic ending of 
+this affair emphasizes the 
+tough life in the Bronx and 
+gives an air of genuine 
+human tenderness to the 
+character. 
+
+"Fort Apache, The Bronx' ' 
+is good Saturday afternoon 
+entertainment but probably 
+won't win any awards this 
+year. The actual social 
+impact of the film is slight 
+and perhaps a bit one sided, 
+showing mostly the low life 
+of the Bronx. But the story is 
+based on the real life drama 
+of former policemen Tom 
+Mulhearn and Pete Tessi tore 
+and it presents the law en- 
+forcement point of view. Any 
+social implications derived 
+must come from the viewer. 
+
+Did you know that 
+Am erica's most patriotic 
+bird is the wild (urkey? 
+When the bird feels 
+
+threatened, its caruncres, 
+around its throat, swell and 
+turn to shades of red, white 
+and blue. 
+
+
+
+SUBOG FILM SERIES 
+
+-PRESENTS- 
+
+IT CAME FROM 
+OUTER SPACE 
+
+• IN MAGNIFICENT 3-D* 
+
+THE MOVIE THATINSPIRED 
+"INVASION OF THE BODY SNATCHERS" 
+
+SATURDAY, FEB. 21st 
+
+7:00 &amp; 10:00 p.m. 
+WALB UNION BALLROOM 
+
+FREE TO ACTIVITY CARD HOLDERS 
+ALL0THERS:&gt;1.50 
+
+
+
+ATTENTION 
+STUDENTS! 
+
+FOLLETT'S 
+WILL BEGIN 
+
+RETURNING 
+TEXT BOOKS 
+ON FEB. 21 
+
+
+
+PRIME TIME HAIR 
+DESIGNER 
+
+Shampoos, Conditioners 
+
+and Grooming Aids 
+Are Now Available At 
+
+FOLLETT'S 
+
+Fort Wayne Bookstore 
+
+
+
+These are absolutely the finest grade hair 
+products available anywhere and are offered 
+at reasonable prices. 
+
+Also available at the Prime Time Hair De- 
+signers Salon, located inside the Summit City 
+Court Club, 5928 Trier Road. Phone 485 
+7161 for a styling session. We are three-time 
+Indiana individual state styling champions 
+and two-time Illinois Champs. 
+
+
+
+
+Weekly Special 
+• 60* Night 
+
+All Drinks Every Tues. &amp; Thurs. 
+8 to 10 p.m. 
+
+*$1 Night 
+
+Every Wed. All Bar Drinks, 
+
+beer &amp; Wine $1.00 from 
+
+9 p.m. to 3 a.m. 
+
+4912 Lima Rd. 
+
+You Must Be 21 
+
+
+
+FEB. 19, 1981 - THE COMMUNICATOR - PAGE 5 
+
+
+
+Country craze grabs city 
+
+Rednecks love it 
+
+
+
+By JAMIE WISE 
+
+Start Writer 
+
+Zoltan Herman, or Zoli, is 
+
+enthusiastic about his new 
+project 
+
+"I just want everybody to 
+have a good time," he says, 
+pointing toward the dance 
+floor. "I heard that band at a 
+bar and I said 'I have to 
+have that band: I just love 
+their music.'" 
+
+The band is The Coun- 
+trymen, an MOR foursome 
+who goodnaturedly plunk out 
+Top 40 country hits at The 
+Cowboy, formerly Zoli's 
+Chalet, at 4114 Covington 
+Road 
+
+On either side of the large 
+planked dance floor are long 
+banquet tables covered in 
+downhome red-and-white 
+checked tablecloths. Groups 
+of would-be ranchers and 
+their womenfolk guzzle down 
+pitchers of beer and wait it 
+out for their favorite Hank 
+Williams and Waylon Jen- 
+nings tunes. 
+
+At the other end of the 
+large hall is the Cowboy's 
+main attraction, "flika," the 
+black mechanical bull, 
+solemnly waits for 
+challengers inside a rough- 
+wood barn pen. Hoosier 
+cowboys and cowgirls, 
+escorted by Drew Colby, the 
+self-styled "bull operator," 
+sidestep over the black vinyl 
+mat and mount "Bika." 
+Colby gently sets them 
+center-straight and gives 
+them on-the-spot in- 
+structions. 
+
+"We don't want to hurt 
+anybody," he says, his eyes 
+never leaving the center of 
+thering.-It'sallinfun." 
+
+
+
+At two bucks a throw, it's 
+more than fun. It's the 
+challenge of nerve against 
+steel. 
+
+"I did it and I didn't fall 
+off," one girl exclaims as she 
+falls into the arms of her 
+supporters just outside the 
+archway. Meanwhile 
+another hopeful rider is on 
+his way in. Then Bika starts 
+bucking and the crowd 
+cheers the broncobuster in 
+friendly fascination. 
+
+There seems to be no such 
+fascination at Gradie's 
+Place, at 5002 Decatur Rd. 
+Outside the parking lot is full 
+of vans and pick-up trucks. 
+Inside the van crowd 
+prevails sporting the 
+ubiquitous 6-inch western 
+hats loaded down flam- 
+boyantly with cockfeathers 
+and plumes. There are a few 
+clean-cut and motorcycle 
+types as well sharing the 
+club-sized tables grouped 
+around the stage. 
+
+Tacked up on a bulletin 
+board inside the front door 
+next to an autographed photo 
+of Crystal Gayle is a sign 
+warning "No Bucknives 
+Allowed." Bill Gaham, the 
+youthful manager found 
+hammering part of a raised 
+platform, smiles ruefully 
+and explains: 
+
+"Yeah, I got stabbed. 
+Some guy caught his ex-wife 
+in here with another guy. 
+One thing led to another and 
+well. I got caught in the 
+middle of it." 
+
+The crowd doesn't really 
+seem rough, but rowdy. The 
+bartender looking like prep- 
+gone-comic, props one long 
+leg over the bar and jauntily 
+
+
+
+arts 
+at a 
+j Z glance 
+
+Concerts of note 
+
+Pianist Masson Robertson, associate professor of piano 
+at IPFW, will appear as guest soloist with the Indiana 
+Chamber Orchestra at 2:30 p.m., Sunday, at the Per- 
+forming Arts Center. 
+
+... Kevin Hege will present his senior voice recital at B 
+p.m., Sunday, in-NefflOl. 
+
+... There will be a faculty recital featuring James Ator 
+on saxophone, Joyanne Jones on piano, and Anthony 
+Adessa on violin at 8 p.m., Saturday, in Neff 101. 
+
+... Sha Na Na will appear in concert at 7 p.m., Sunday, 
+at the Memorial Coliseum. 
+
+. ..Full Moon will appear in concert at 8 p.m. .Friday, at 
+the Indiana Institute of Technology. Tickets are S3, and S2 
+for ITT students. 
+
+... The Fort Wayne Philharmonic Women's Com- 
+mittee's fund-raising event, "Radiothon '81," will be 
+broadcast from 11 a.m., Saturday until midnight Sunday 
+onWXKEl04FM. 
+
+On the silver screen 
+
+The SUBOG movie this week will be "It Came From 
+Outer Space." a 3-D film, which will be shown at7 and 10 
+p.m., Saturday, in the Ballroom. 
+
+... The Embassy Theatre Film Club will be showing 
+"Searchers" at B p.m., Friday, and 2p.m., Sunday. 
+
+Treading the boards 
+
+"Man of La Mancha" will open at the Civic Theatre at 
+7:30 p.m. this Friday. The music will run Wednesdays 
+through Sundays until March 8. 
+
+... The Arena Theatre production of "Laura" will 
+continue at the Chamber of Commerce this weekend. 
+
+
+
+Follett's Fort Wayne Bookstore 
+
+will be closed for inventory 
+
+on Friday Feb. 27 
+
+and Saturday Feb. 28. 
+
+We'll reopen 
+at our regular hours 
+on Monday, March 2. 
+
+
+
+■M 
+
+
+
+( 
+
+
+
+• SANDWICHES 
+* TRY OUR CARRY-OUT 
+
+
+
+* PIZZA m^ZC, 
+
+
+
+Dancing Daily 
+
+
+
+f-club 
+
+
+
+adjusts a tall chef's hat, 
+adding a bizarre touch to the 
+scene. Over at a nearby 
+table, a waitress dressed 
+head-to-toe in tight black 
+polyester cracks a wad of 
+gum and indifferently waits 
+for a younger customer to 
+pay up. 
+
+The whole ramshackle 
+joint is black and red with an 
+eerie green wash over the 
+instruments on stage. The 
+Silver Dollar Band, the 
+house regulars, play loud, 
+gruntin', sweatin' country 
+rock with the compulsory, 
+ear-bustin' lead guitar licks 
+thrown in to satisfy the at- 
+tentive customers. 
+
+The Picker, an established 
+country and western bar at 
+4015 Northrop Dr., has its 
+own loyal following as well. 
+There is the same red and 
+black interior and the same 
+smoky haze hangs mid-way 
+over the crowded room. 
+
+This is a comfortable 
+hangout for a huge sub- 
+culture of Americans known 
+as "redneck." These are the 
+people who have lived the 
+country songs, had their 
+wives or husbands cheat on 
+'em, know someone in jail. 
+These are the folks who 
+smoke high-nicotine 
+cigarettes and don't give a 
+hoot what the Surgeon 
+General thinks ; the ones who 
+knew who Mel Tillis was 
+before the rest of the world 
+caught on to western gear. 
+
+
+
+
+■chankal bull at The Cowboy. (Photo by Will 
+
+
+
+Most of them knew Bob 
+and Billie Underwood, the 
+owners, when Bob was still 
+playing with his band. 
+
+There are plenty of 
+bleached blonds sitting next 
+to well-tended beer bellies. 
+Outsiders are welcome and 
+at the same time, tolerated. 
+
+Steve, the manager, is 
+worried and jocular about 
+The Cowboy. "You been 
+there tonight? Oh, yeah. 
+How was it? Aw, it'll begone 
+in about a month or so." 
+
+He greets regulars and 
+
+
+
+newcomers with the same 
+countrified alacrity. "Go 
+ahead on in, Slim," he tells 
+one large customer, "I never 
+mess with the big guys. " 
+
+Inside, Natchez, one of 
+several bands the Picker 
+books from Nashville, is 
+hollering out Rodney 
+Crowell's "Ain't Livin' Long 
+Like This" to a fair-sized 
+crowd and a packed dance 
+floor. 
+
+The C&amp;W craze has taken 
+hold of Fort Wayne like other 
+cities around the U.S. And 
+
+
+
+you don't have to live on a 
+ranch or fake a southern 
+drawl or even call your 
+father "daddy" to par- 
+ticipate in our current 
+American fantasy. Just buy 
+yourself some goat -ropers 
+and fall in with the 
+highrollers and whoop it up 
+loud when the band starts 
+kickin' out your favorite 
+country tune. 
+
+Whether you're ridin' the 
+bull or just shootin' it, you're 
+guaran-gosh-darn-teed a 
+helluva good time. Yahoo! 
+
+
+
+Elkhart band has potential 
+
+
+
+By GRETCHEN HOLODICK 
+Staff Writer 
+
+Recently, at Dallas Junc- 
+tion, a band from Elkhart 
+has cranked out some of the 
+toughest jams this city has 
+heard for a long time. They 
+call themselves Stencil 
+Forest and label their music 
+as progressive. 
+
+They've only been around 
+since April of 1980 and they 
+are looking really good. 
+Main influences seem to be 
+from bands like Yes, U.K., 
+and Genesis. 
+
+This particular type of 
+band usually has a tough 
+time playing in bars that are 
+hard rock, heavy metal and 
+
+
+
+disco orientated. Stencil 
+Forest has worked out some 
+solutions to this problem. 
+They get the crowd going by 
+playing tunes from bands 
+such as AC-DC and Van 
+Halen. Then after a couple of 
+sets they do some popular 
+Genesis songs and finally go 
+into their own sings. It goes 
+over pretty well. 
+
+Currently Stencil Forest is 
+doing very well in their own 
+town. A local radio station is 
+playing a couple of originals 
+by the band. The station is 
+WVPE, Elkhart, and one of 
+the songs is called "Celestial 
+Voices." Anyone familiar 
+with progressive rock might 
+
+
+
+recognize the title as a subtle 
+pull from Yes. 
+
+Stencil Forest is Doug 
+Anderson on lead vocals, 
+Frank Casella on keyboards 
+
+and lead guitar, Stan Swaim 
+on drums, Rick Cassella also 
+on keyboards, Rob Neilson 
+on lead guitar, and Scott 
+Noyeronbass. 
+
+Stencil Forest is currently 
+managed by an independent 
+agency and has had quite a 
+few jobs backing some of the 
+bigger bands that come 
+ground the area Their next 
+.^engagement will be . in 
+Mishawaka at Music Box on 
+
+
+
+Feb. 25 and 26. After that, 
+they will be playing at the 
+Headquarters in Elkhart 
+
+Stencil Forest is a high 
+quality band, which plays 
+excellent music whether it's 
+their own or other bands'. 
+The keyboards are handled 
+extremely well, and the 
+guitar work is vigorous and 
+thrilling. The beat is driving; 
+the vocals are smooth and 
+powerful. Although their 
+talents never match those of 
+Steve Howe or Bill Bruford, 
+Stencil Forest is climbing 
+high and it won't be sur- 
+prising if they make it to the 
+top in the music business. 
+
+
+
+MICHIGAN 
+SNO-N-GO REPORTS 
+
+
+
+Snow, ski, 
+snowmobile and 
+road reports 
+24 hours a day. 
+Free literature 
+available. 
+
+
+
+
+Call toll-free 
+
+800-248-5700 
+
+
+
+
+
+
+CHEtCH 1 CWQNG'S 
+
+
+
+IHltMEKCND 
+"ROCK I HORffOB 
+PICTURf SHOW" 
+
+
+
+ENTERTAINMENT GIFT BOOKS onSaieNOwij 
+
+ttFr;h}W*i\!\=it,h%iZ\=9Mzl=k\ 
+
+tO A A H0N ,HBU S4T itl SHOWINGS BIF0RI6PM 1 
+
+T*.VV SUIUHOUMTSEIRSIHiriNEESHOWONUf J 
+
+
+
+F 
+
+
+
+^22?£ 
+
+
+
+
+MINGLES LOUNGE 
+
+
+
+is now holding funeral servi 
+
+Fridoy and Saturday nighl! 
+
+
+
+.„., ,„, u ,„. u ove.y 
+
+"Jay nighl! Burial service Iram 
+) 2 a.m. to the sounds of 
+
+. LIVE ROCK AND ROLL AND TOP 40! 
+
+• PITCHERS OF BEER AT $2.75 
+
+• FREE POPCORN ALL NIGHT LONG 
+
+• FIRST DRINK $1.00 
+
+No cover charge. Bring your blue jeans 
+and preporo to porty down I 
+
+COME JOIN US AT MINGLES 
+IN THERAMADA INN I 
+
+
+
+1212 Mogncvox Way 
+
+Fori Wayne, Indiona 
+
+219-432-0511 
+
+
+
+The Power Behind The Throne 
+
+O to S 
+
+
+
+I 30-3 30-5:30-7:35-' 
+
+
+
+'leSSon tribute LBE 
+
+20lh CENTURY-FOX FILMS 
+
+100-4-30 -7:00- 9:40 
+
+
+
+'RAGING BULL m 
+
+United Artists till 
+
+
+
+SOUTHTOWN MALL 
+
+
+
+ALTERED SX4TES I 
+
+
+
+1:45-345- 5:45-7:45- 
+
+
+
+"7^e @o*Kfceti£io*t \m 
+
+
+
+I SO- 4 30 7:15 9:45 
+
+
+
+Fort Apache, The Bronx 
+
+
+
+M LL£S£u3BM 
+
+■&lt;IHI!!.;i.'1l'.n.i&lt;.miwwW 
+
+
+
+NEIL DIAMOND LAURENCE OLIVIER /fT&gt; 
+
+the jaiz SINGERS 
+
+
+
+F.I Mon Too. Ihu.. 7 «-9 3S [5] 
+
+Sol Sun Wod 7 003555.57.0935 L£*J 
+
+
+
+
+featuring Salad Bar, 
+
+Pizza, Spaghetti, 
+
+Chicken and Sandwiches I 
+
+Also— Beer &amp; Wine 
+
+Washington Square 434. 3159 
+Shopping Center 
+
+
+
+I. I 
+
+A 
+
+
+
+
+$1.25 OFF 
+
+The Regular Price Of Any 
+
+15" JUMBO PIZZA 
+
+mil one piuo p*' coupon. Connol bo used wilh ony olho' 
+S Safari PinaTroor — Coupon Expires Morch I, 1981 
+
+
+
+[ WITH THIS COUPON 'fl mOgj 
+
+
+
+
+sports 
+
+
+
+PAGE6 — THE COMMUNICATOR— FEB. 19,1981 
+
+
+
+Some players wear 
+G-string bikinis 
+
+
+
+ByJENSM.SOHENSEN 
+Staff Writer 
+
+There's nothing difficult 
+about playing volleyball, 
+right? Just string up a net on 
+a sandy beach on a sunny 
+day and bal the ball back and 
+forth, while soaking up the 
+rays and getting a fabulous 
+
+Rules? Just a few: All 
+women will wear bikinis and 
+the men will be suitably 
+dressed in as few garments 
+
+legally required. The 
+
+er shall not serve until 
+each player has had the 
+opportunity to refresh 
+
+iclf with a healthy swig 
+of his favorite brew. And the 
+lei shall be low enough to 
+illow the shortest player on 
+the court to spike the ball. 
+One more thing— overhand 
+
+ss are strictly passe. 
+After all, the object is not to 
+
+it's to impress that cute 
+girl in the G-slring bikini. 
+
+But what's that the IPFW 
+volleyball learn is playing? 
+It can't be volleyball. For 
+one thing, it's played in the 
+winter and everyone knows 
+
+
+
+it's impossible to get a tan 
+indoors. Besides, Coach 
+Arnie Ball is talking about 
+things like complicated 
+offensive and defensive 
+strategies. Yeah, men's 
+varsity intercollegiate 
+volleyball is definitely a 
+different game than beach 
+volleyball. 
+
+"The kids are finding that 
+volleyball is a very com- 
+plicated game." Ball said 
+"We run thi-ee different 
+offenses and three different 
+defenses, as well as five 
+different offensive plays. " In 
+volleyball, a player must 
+learn to play 12 different 
+positions, six offensive and 
+six defensive. "I don't know 
+of any other sport where this 
+is true," the coach added, 
+explaining that all this 
+makes it very difficult for an 
+inexperienced team to win 
+against top-flight com- 
+petition. 
+
+Speaking of top-flight 
+competition, the Tuskers 
+traveled to the University of 
+Pittsburgh last weekend and 
+got their first look at 
+
+
+
+powerful Ohio State. 
+"they're big and strong. 
+Awesome. They're 
+experienced. I predict they'll 
+win the conference," Ball 
+said after the Buckeyes 
+demolished the Tuskers, 15- 
+2,15-3. 
+
+After coming back to lose 
+the first set against the U.S. 
+Military at West Point, 15-2, 
+the Tuskers began to play 
+some credible volleyball. 
+IPFW regrouped to capture 
+the second set from the 
+future Army officers, 15-9, 
+before bowing in three sets. 
+The Tuskers lost their third 
+game of the tourney to 
+Cincinnati, 15-11, 15-10. 
+
+"We've finally decided 
+we're not as bad as we think 
+we are," Ball remarked. 
+"We began to pass-serve a 
+little better, began to play 
+defense and we finally 
+started playing better alter 
+the shellshock of Ohio State. 
+We've seen an improvement 
+of our freshman kids, 
+especially Pat Menzie in 
+middle blocking and hitting, 
+which he must do for us to 
+
+
+
+Tuskers beat Aquinas 
+
+
+
+By TIMOTHY J. ROSS 
+Sports Editor 
+
+The IPFW men's 
+basketball team finished last 
+week's play with a close win 
+over Aquinas. 
+
+The team showed "a more 
+intense performance," said 
+Ken Workman, head coach 
+of the Tuskers. 
+
+The first half lead bounced 
+back and forth with Aquinas 
+leading 38-35 at the half. 
+
+More excitement 
+
+prevailed however during 
+the second half, particularly 
+near the game's finish. 
+
+"It was a helter skelter 
+finish — the last four 
+minutes hectic and filled 
+with very aggressive play," 
+said Workman. 
+
+Forward Gary Rinard set 
+the' stage by producing four 
+consecutive points, two from 
+the foul line, to bring the 
+
+
+
+Tuskers within five points of 
+Aquinas (65-59) in the final 
+four minutes. 
+
+Forward Brian Grady soon 
+added two more bringing the 
+Tuskers within three points 
+of the lead. Adding to the 
+team effort, center Rickie 
+Smith hit two from the foul 
+line to keep the pace moving. 
+
+According to Workman, 
+Aquinas began to stall at 
+mid-court in order to run 
+down the clock while IPFW 
+remained down by three (66- 
+63). 
+
+They might have been 
+successful had It not been for 
+the quick hands and 
+aggressiveness of Rinard. 
+Although his two first at- 
+tempts to break the stall 
+were unsuccessful, he kept 
+trying. He regained 
+possession of the ball and 
+quickly passed it to Smith. 
+
+
+
+Smith put the ball through 
+the hoop to bring the men's 
+team within one. 
+
+With 25 seconds re- 
+maining, Rinard dropped 
+one through from the 
+baseline, putting the Tuskers 
+up by one where they stayed 
+
+
+
+despite an Aquinas drive at 
+the eight second mark. 
+
+Smith led the scoring with 
+21 points, Rinard followed 
+with 16, and Grady lended 12. 
+
+"There was a better 
+overall team effort and the 
+intensily level of play was 
+
+
+
+much higher," said Work- 
+man of the game. 
+
+Earlier in the week, the 
+Tuskers lost to Fort Wayne 
+rival St. Francis (58-55). 
+
+"There was a complete 
+lack of intense competition 
+on our part— we let them set 
+the pace," said Workman 
+
+
+
+Coach may now smile 
+
+
+
+ByMlKEFRANKE 
+Chief Reporter 
+
+With one streak thankfully 
+out of the way the IPFW 
+Women's Basketball team 
+has anolher streak to ex- 
+perience. The new streak 
+may bring more smiles from 
+head coach Peggy Voisin. 
+
+Last Thursday night the 
+Tuskers ended a twelve 
+game losing streak with a 79- 
+51 victory over Tri-State at 
+the Concordia Seminary 
+gym. 
+
+The game against Tri- 
+State brought about a team 
+consistency that coach 
+Voisin has been looking for 
+throughout the team's losing 
+streak. Consistency leads to 
+a balanced effort which is 
+jusl what the Tuskers had, 
+as each member of the team 
+scored at least one point. 
+
+The Tuskers busted out to 
+a 34-20 half-time lead. The 
+second half started out on a 
+bad note for IPFW. Tri-State 
+pressed from the outset of 
+the second half, causing 
+some costly Tusker turn- 
+overs, Coach Voisin had to 
+call a timeout to get things 
+straightened out. "I had to 
+iell them that we were still 
+leading the game, so relax 
+and play our game," she 
+said. 
+
+Kathleen Smith once again 
+led the way for the Tuskers 
+by scoring 25 points and 
+grabbing off 15 rebounds. 
+
+
+
+Smith hit69 percent from the 
+floor. Ann Klopfenstein 
+poured in 14 points, and Sue 
+Hendricks hit for 13. Amy 
+Brunow chipped in with 10 
+markers. 
+
+The key to the victory was 
+a simple one. Voisin said, 
+"we rut 46 percent from the 
+floor and out-rebounded Tri- 
+State badly." 
+
+Saturday the Tuskers 
+made il two victories in a 
+row. Backed by a balanced 
+offensive threat the women 
+beat Purdue Calumet 55-41. 
+Commenting on the victory 
+Voisin said, "We were much 
+more patient and poised than 
+we have been in a long 
+
+Calumet threw a press at 
+IPFW but it didn't seem to 
+bother the Tuskers on this 
+day, as the team committed 
+only ten turnovers in the 
+game 
+
+Being "loose" on the court 
+seems to be a key to any 
+success (he Tuskers achieve. 
+This attitude was evident 
+Saturday as Sue Hendricks 
+made a pinpoint behind-the- 
+back-pass to a teammate 
+that Larry Bird would have 
+been proud of. Hendricks led 
+the Tuskers with 15 points, 
+while Karen Dircksen added 
+10 points. Team rebounding 
+was also a strong point as 
+three players were in double 
+figures on the boards. 
+
+The Tuskers have one 
+
+
+
+regular season game left on 
+the schedule. Last night the 
+team was to play Grace in 
+the final regular season 
+home game. The finale 
+comes up next Tuesday night 
+when the team travels to 
+Goshen. 
+
+IPFW will host the North- 
+ern District Post Season 
+Tournament at Concordia 
+Seminary Gym beginning on 
+Feb. 27. The tournament will 
+run for two days. 
+
+Coach Voisin feels that 
+things could be falling into 
+place at a most opportune 
+time for her squad. She said, 
+"A winning streak going into 
+the tournament could be 
+beneficial to the team. We 
+may be peaking at the right 
+
+
+
+Horror grips 
+B-ball courts 
+
+By TIMOTHY J. ROSS 
+Sports Editor 
+
+Mad Bombers, Slime Brothers, the Dwarfs and Marvin, 
+Stoneface II — monsters from outer space, rejects from 
+horror films or possibly a science fiction novel? 
+
+If you guessed any of these, too bad. You are wrong! 
+
+These are four of the 18 intramural basketball teams 
+participating in the intramural program at IPFW. 
+
+The other teams are Main Frames, Old Dribblers, All 
+Stars, "81" 8's, Thisisus, Simply Awesom, Sig Eps, The 
+Wind, The Sting, NewComers, Sky Kings, Peonies Choice 
+Schoenling's Little Kings, and Delta Sigma Phi. 
+
+You may wonder about teams that pick such different — 
+yes you might even say strange — names, but according 
+to junior Kim Heimann, director of the intramural 
+program, "Some of the teams are very good and well 
+organized." 
+
+Several of the teams have proven this by remaining 
+undefeated during the first weeks of the intramural 
+season. As of Feb. 11, two teams from Division A, the Old 
+Dribblers and the All Stars, are unbeaten. They are both 
+at 2-0. 
+
+Matching that record are two teams from Division C, 
+the Sky Kings and Stoneface II. 
+
+The Mad Bombers currently hold the Division B top spot 
+with three wins and no losses. 
+
+The intramural basketball games are held on Mondays 
+and Wednesdays at the Concordia Seminary. They tip-off 
+at7:30and8:30p,m. 
+
+
+
+
+Male/ n' Tail/ 
+
+2332 NORTH CLINTON 
+
+FORT WAYNE'S U1RGEST SELECTIONS 
+
+OF MARINE &amp; FRESH WATER FISH, EXOTIC BIRDS, 
+
+SMALL ANIMALS AND A FULL LINE OF PET 
+
+SUPPLIES. 
+
+COUPON ■ 
+
+
+
+
+
+
+
+SUMMIT CITY 
+COURT CLUB 
+
+5928 TRIER ROAD 
+
+(formerly Sports Illustrated) 
+
+• RACQUETBALL* 
+
+30 DAY TRIAL MEMBERSHIP 
+
+•••FREE*** 
+
+•15 Courts 
+
+•Scandinavian Saunas 
+•Therapeutic Whirlpool 
+•Attended nursery 
+•Group lessons 
+•Pro-shop 
+
+CALL TODAY 
+
+485-1671 
+
+
+
+
+OFFER 
+MARCH 2nd 
+
+
+
+-J^fc 
+
+
+
+if the Tusker cheerleaders: Mari Beyler (front), Simone Koch, Jo Ella Dell, and Sue 
+LaurlUen ( left to right &gt;, proudly display their long-awaited new uniforms at the Saturday, 
+Feb. 14, game against Aquinas. (Photo by Doug Housholder) 
+
+
+
+Sue Hendricks ( IS) brings the ball down the court against 
+a strong Purdue-Calumet defense on Saturday, Feb. 14. 
+The Tuskers won the game S5-4I. (Photo by Douk 
+Housholder) 
+
+IPFW hosts tournament 
+
+The Northern District IAIAW Division III women's 
+basketball tnurn^menl will be hosted by IPFW on Friday, 
+Feb 27 and Sat., Feb, 28 at the Concordia Theological 
+Seminary Gymnasium. The seven member schools of the 
+Northern District are Goshen College, Grace College, host 
+IPFW, Manchester College. Purdue Calumet, St. Mary's 
+South Bend, and Tri Slate University. 
+
+The top seated teams will be Manchesterand St Mary's 
+based upon season records. 
+
+First round games will be played at 3, S and 7 p.m. on 
+Friday, Feb. 27 with the semi-final eontcsls at Ida m and 
+noon Saturday. Feb. 28. The championship game is 
+scheduled for 8 p.m. Saturday. 
+
+Thr- winner and the runner-up will advance to the Stale 
+Ti urnamonl at Anderson College on March 6 and 7, 
+
+Final pairings for the tournament v,iii i.&gt;- announced on 
+Tuesday, Feb, 24 after all teams have completed regular 
+season play. 
+
+
+
+J^\ 
+
+
+
+^^M^rrWm F,00r of the 
+
+T » r r*f7i-: ill §i,\iSWL Breahl 
+
+
+
+THE FORT 
+
+Located on the Ground 
+
+Student Union Bldg. 
+Breakfast 7:30-10:30 
+Lunch 11:00-1:30 
+Grill 1:30-3:30 
+
+
+
+BUILD YOUR OWN TACOH 
+
+Fix it the way you like it 
+atourTacoBar. 
+
+Tuesday, February 24 
+
+Special low price of *1 25 
+
+
+
+SAMPLE OUR BREAKFAST AND LUNCH 
+
+BUFFET ON FRIDAYS 
+
+BEGINNING FEBRUARY 20 
+
+
+
+After a hard class, treat yourself 
+to a fine Mexican meal at: 
+
+DON PEDRO'S FIESTA 
+
+(ol North Clinton ond the By-pass) 
+
+Come in and enjoy our new 
+atmosphere or carry-out 
+
+
+
+SPECIAL: 12 Nachos 
+for H 95 
+
+
+
+
+DON PEDRO'S 
+FIESTA 
+
+N. Clinton at the Bypass 
+483-0416 
+
+
+
+MIKE'S VW ,. FOREIGN 
+
+CAR SPECIALISTS 
+
+
+
+HONEST WORKMANSHIP 
+
+
+
+
+Ft. Wayne's 
+Oldest Independent 
+V-W Repair 
+Shop. 
+
+
+
+NOW SERVICING HONDAS AND 
+MANY OTHER FOREIGN CARS 
+
+
+
+1720 S. Harrison 
+744-331 1 
+
+
+
+3102 E. Washington Blvd. 
+422-0218 
+
+
+
+</pre>        </div>
+      </div>
+    
